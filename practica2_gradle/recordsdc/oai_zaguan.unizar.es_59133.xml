@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Fernández López, Javier</dc:contributor>
+    <dc:creator>Giménez Ingalaturre, Ana Cristina</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>La Captura y Almacenamiento de Dióxido de Carbono (CCS) es una de las tecnologías más importantes para reducir las emisiones de CO2 procedentes de la producción de energía y de la industria. La tecnología CCS incluye tres etapas: la captura del CO2 antropogénico, su transporte y su inyección y almacenamiento en depósitos geológicos. El diseño y operación de cada etapa está influenciado por el comportamiento termodinámico del fluido, el cual se modifica por la presencia de impurezas. En este trabajo estudiaremos el efecto combinado de las impurezas SO2 (gas condensable)  y CO (gas no condensable) en una corriente de CO2 en condiciones de interés para la tecnología CCS, centrándonos en la etapa de transporte por tuberías. Esta etapa se realiza en fase densa o supercrítica, donde la densidad es relativamente alta y la viscosidad es relativamente baja. Para ello determinaremos experimentalmente  la densidad y el equilibrio líquido-vapor de una mezcla ternaria CO2+SO2(5%)+CO(3%) a temperaturas 263, 273, 293 y 304 K y presiones hasta 20 MPa. A partir de estos datos experimentales, junto con una estimación de la viscosidad, determinaremos varios parámetros relacionados con el transporte por tubería: presión operacional mínima, caída de presión y de densidad a lo largo de la tubería y diámetro interno de la tubería. Además, compararemos el comportamiento de la mezcla ternaria con el del CO2 puro y con el de una mezcla binaria CO2+CO estudiada en un trabajo anterior. Se concluye que la presencia de SO2 favorece el transporte, ya que aumenta la densidad de la mezcla y disminuye su viscosidad, a la vez que desplaza su equilibrio líquido-vapor. Como consecuencia, permite trabajar a presiones menores, da lugar a una menor caída de presión y densidad a lo largo de la tubería y necesita un menor diámetro de tubería.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/59133</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Física; Área de Química Física</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/59133/files/TAZ-TFG-2016-2180.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Química</dc:subject>
+    <dc:title>Tecnología CCS: Influencia de las impurezas CO y SO2 en el transporte del CO2 antropogénico.</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">CCS Technology: Influence of CO and SO2 as impurities on the transport of anthropogenic CO2.</dc:title>
+</oai_dc:dc>

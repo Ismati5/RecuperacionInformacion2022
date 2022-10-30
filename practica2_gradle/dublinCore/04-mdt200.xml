@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<csw:Record xmlns:csw="http://www.opengis.net/cat/csw/2.0.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ows="http://www.opengis.net/ows" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:language>es</dc:language>
+  <dc:identifier>04-mdt200</dc:identifier>
+  <dc:creator>Instituto Geográfico Nacional (España)</dc:creator>
+  <dc:description>Modelo Digital del Terreno con un paso de malla de 200 metros expresado en metros, procedente de la altimetría de los mapas provinciales 1:200.000 que cubre toda España.</dc:description>
+  <dc:format>ASCII definido por el IGN</dc:format>
+  <dc:language>es</dc:language>
+  <dc:publisher>Centro Nacional de Información Geográfica (España)</dc:publisher>
+  <dc:subject>GENERALIDADES.CARTOGRAFIA.TOPOGRAFIA.ALTIMETRIA</dc:subject>
+  <dc:title>Modelo Digital del Terreno 1:200.000</dc:title>
+  <dc:type>series</dc:type>
+  <dcterms:accessRights>license</dcterms:accessRights>
+  <dcterms:issued>1997-12-31</dcterms:issued>
+  <dcterms:spatial>ESPAÑA</dcterms:spatial>
+</csw:Record>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Santillán Lázaro, Ángel</dc:contributor>
+    <dc:creator>Pola Ferrández, Carlos</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>En el presente proyecto se diseña y calcula una subestación eléctrica reductora desde los 66KV de las líneas de entrada hasta los 13.2KV de las líneas de salida para abastecer a la localidad zaragozana de Tauste y pueblos de alrededor.  La instalación cuenta con seis líneas de entrada a 66KV y cuatro líneas de salida de 13.2KV. Está dividida en dos sectores principalmente: una parte de intemperie y otra en interior. En la zona de intemperie encontraremos todos los dispositivos necesarios para la protección y seccionamiento de las líneas de entrada de 66KV, los embarrados de alta tensión y los elementos de seccionamiento y protección de los transformadores de potencia además de éstos. La zona de interior se encuentra ubicada en la caseta de control y aquí podremos encontrar las celdas de media tensión y los relés de alta y media tensión, además del transformador de servicios auxiliares con todos los dispositivos que son alimentados a través de éste.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6673</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6673/files/TAZ-PFC-2011-696.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6673/files/TAZ-PFC-2011-696_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>subestación eléctrica</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electricidad)</dc:subject>
+    <dc:title>Subestación eléctrica reductora 66/13.2KV de Tauste</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

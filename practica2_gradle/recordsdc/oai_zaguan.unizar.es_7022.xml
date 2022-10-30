@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Aliod Sebastián, Ricardo</dc:contributor>
+    <dc:contributor>García Asín, Susana</dc:contributor>
+    <dc:creator>Ruíz Cebollada, Roberto</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>La aplicación informática GESTAR para diseño, ejecución y gestión de redes de riego a presión está siendo desarrollada desde hace más de dos décadas por los componentes del equipo GESTAR I+D+i de la Universidad de Zaragoza. Durante este tiempo, las herramientas informáticas y los métodos de cálculo han evolucionado de manera considerable. A su vez, el equipo GESTAR ha realizado un notable esfuerzo para adaptarse a los avances y para realizar un programa más potente, compacto y eficaz; y además para incorporarse al mercado de proyectos asociados a la materia. En este entorno y con este objetivo común nace el actual proyecto final de carrera que aporta como novedad técnica el riego por aspersión. Así, la puesta en marcha de unos enérgicos recursos operativos para el dimensionado óptimo, simulación y análisis de redes de riego a presión en parcela para riego por aspersión ha sido realizada por el trabajo conjunto del equipo GESTAR a través de este trabajo, que, además de otras actividades de apoyo, ha aportado, ideas, nuevas funcionalidades y herramientas específicas, pruebas y validaciones, comprobación de errores, reestructuraciones y redefiniciones de los recursos, casos guiados, y estudios comparativos con casos reales de la novedosa operatividad.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/7022</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/7022/files/TAZ-PFC-2012-168.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/7022/files/TAZ-PFC-2012-168_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>gestar</dc:subject>
+    <dc:subject>riego</dc:subject>
+    <dc:subject>aspersión</dc:subject>
+    <dc:subject>hidráulica</dc:subject>
+    <dc:subject>hidráulica computacional</dc:subject>
+    <dc:subject>desarrollo de software</dc:subject>
+    <dc:subject>software</dc:subject>
+    <dc:subject>protocolos de diseño hidráulico</dc:subject>
+    <dc:subject>riego a presión</dc:subject>
+    <dc:subject>Ingeniero Agrónomo (segundo ciclo)</dc:subject>
+    <dc:title>Desarrollo, metodologías y protocolos avanzados en GESTAR 2010 para el diseño hidráulico de redes de riego y coberturas por aspersión</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

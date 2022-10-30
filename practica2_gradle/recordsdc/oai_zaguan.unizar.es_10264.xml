@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Arcega Solsona, Francisco Javier</dc:contributor>
+    <dc:creator>Suñer de Pedro, Ángel Miguel</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El desarrollo de este proyecto fue realizado en su mayor parte en la Universidad de Central Lancashire (UCLAN), en Preston, Reino Unido. Para la fabricación del prototipo y realización de pruebas se hizo uso de los laboratorios y equipos con los que cuenta la Universidad. Todos los componentes requeridos para su construcción fueron comprados a través del almacén Rapid Electronics Ltd. ubicado en Preston. El propósito de este proyecto ha sido desarrollar un sistema electrónico capaz de detectar fallos de manera automática en el funcionamiento de un conjunto de lámparas representando un conjunto de iluminación urbana y destacar así las ventajas que ofrece la automatización de este servicio frente a otros métodos de supervisión convencionales. El sistema está compuesto por sensores a tiempo real para detectar si las lámparas están encendidas o apagadas, un interruptor crepuscular, el cual enciende o apaga las lámparas automáticamente dependiendo de la incidencia de luz solar y por último, el sistema dispone de una Unidad Central de Control donde se encuentra ubicado el microcontrolador que recibe todas las señales digitales de los sensores a través de un receptor de radiofrecuencia y muestra el estado en el que se encuentran cada una de las lámparas mediante unos diodos LED. El interfaz entre los sensores y la Unidad de Control es a través de un control remoto de radiofrecuencia, para ello cada lámpara es equipada con un sensor óptico y un transmisor RF. De manera complementaria y con motivo de la realización de unas prácticas en el departamento de Automatización Industrial de la empresa Siemens, en la oficina comercial de Zaragoza, se han desarrollado en el último capítulo de este informe, algunos ejemplos relacionados con control de iluminación y automatización realizados con LOGO!, el autómata más básico de Siemens pero con el que se pueden resolver tareas de instalación industriales y del ámbito doméstico y terciario. De esta forma se analizan las ventajas que ofrece la automatización, primero a través de un prototipo de fabricación propia y finalmente con casos reales mediante módulos lógicos o autómatas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10264</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10264/files/TAZ-PFC-2013-146.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/10264/files/TAZ-PFC-2013-146_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>automatización</dc:subject>
+    <dc:subject>iluminación</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electrónica Industrial)</dc:subject>
+    <dc:title>Detector de fallos en un sistema de iluminación y procesos automáticos aplicados a un edificio de oficinas</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

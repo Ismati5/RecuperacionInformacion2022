@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<csw:Record xmlns:csw="http://www.opengis.net/cat/csw/2.0.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ows="http://www.opengis.net/ows" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:language>es</dc:language>
+  <dc:identifier>19-DMA-CHE-1</dc:identifier>
+  <dc:contributor>Confederación Hidrográfica del Ebro. Oficina de Planificación Hidrológica</dc:contributor>
+  <dc:creator>Universidad de Zaragoza. Grupo de Sistemas de Información Avanzados</dc:creator>
+  <dc:description>Son datos de la cuenca del Ebro referentes a la Directiva Marco del Agua (DMA). Estos datos incluyen tanto la información específica que pide la DMA como los datos intermedios generados o recopilados para obtener dicha información. El elemento principal del modelo son las masas de agua, unidad mínima de gestión de la que hay que informar a la Comisión Europea. Estas masas de agua se descomponen en elementos más pequeños: los segmentos de río; éstos constituyen la red fluvial junto a los segmentos de canal, los lagos y los embalses. Estas masas de agua pueden estar sometidas a distintas presiones que pueden ser fuentes de contaminación puntual o difusa, trasvases, extracciones, alteraciones morfológicas,.... Los organismos de la Cuenca deben informar a la Comisión Europea del estado de las masas de agua, para lo que es necesario el establecimiento de una serie de redes de control (operacionales, de vigilancia, cuantitativo, químico, ...) de las que también habrá que informar a la Comisión. Las zonas protegidas también se contemplan en la DMA. Se trata de lugares protegidos por algún tipo de legislación y que tienen cierta vinculación con el agua.</dc:description>
+  <dc:format>Tabla en Base de Datos Oracle Spatial 8i</dc:format>
+  <dc:identifier>//Esco (Ipa.cps.unizar.es)</dc:identifier>
+  <dc:language>es</dc:language>
+  <dc:publisher>Confederación Hidrográfica del Ebro. Oficina de Planificación Hidrológica</dc:publisher>
+  <dc:subject>GEOGRAFIA FISICA.HIDROLOGIA.HIDROLOGIA FLUVIAL</dc:subject>
+  <dc:subject>GEOGRAFIA FISICA.HIDROLOGIA.LIMNOLOGIA</dc:subject>
+  <dc:subject>GEOGRAFIA FISICA.BIOGEOGRAFIA.ECOLOGIA</dc:subject>
+  <dc:subject>GEOGRAFIA HUMANA.GEOGRAFIA ECONOMICA.GESTION DE RECURSOS.MEDIO AMBIENTE.CONSERVACION DE LA NATURALEZA.PROTECCION DE ESPECIES</dc:subject>
+  <dc:subject>GEOGRAFIA HUMANA.GEOGRAFIA ECONOMICA.GESTION DE RECURSOS.MEDIO AMBIENTE.CONSERVACION DE LA NATURALEZA.ESPACIOS NATURALES PROTEGIDOS</dc:subject>
+  <dc:title>Modelo hidrológico de la Cuenca del Ebro</dc:title>
+  <dc:type>model</dc:type>
+  <dcterms:issued>2005-01-01</dcterms:issued>
+  <dcterms:license>La Confederación Hidrográfica del Ebro pide a los usuarios de sus datos que, por favor, citen la fuente de procedencia de la información gráfica en sus trabajos.</dcterms:license>
+  <dcterms:spatial>ESPAÑA.ARAGÓN</dcterms:spatial>
+  <dcterms:spatial>ESPAÑA.CANTABRIA</dcterms:spatial>
+  <dcterms:spatial>ESPAÑA.PAÍS VASCO</dcterms:spatial>
+  <dcterms:spatial>ESPAÑA.CATALUÑA</dcterms:spatial>
+  <dcterms:spatial>ESPAÑA.CASTILLA Y LEÓN</dcterms:spatial>
+  <dcterms:spatial>ESPAÑA.RIOJA -LA-</dcterms:spatial>
+  <dcterms:spatial>ESPAÑA.NAVARRA -COMUNIDAD FORAL DE-</dcterms:spatial>
+  <dcterms:spatial>ESPAÑA.COMUNIDAD VALENCIANA</dcterms:spatial>
+  <ows:BoundingBox>
+    <ows:LowerCorner>-4.34515 40.35615</ows:LowerCorner>
+    <ows:UpperCorner>2.07518 43.07171</ows:UpperCorner>
+  </ows:BoundingBox>
+</csw:Record>

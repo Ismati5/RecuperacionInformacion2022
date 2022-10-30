@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Alzueta Anía, María U.</dc:contributor>
+    <dc:creator>Aranda Luque, Verónica</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El objetivo de este trabajo fin de máster es la investigación de la oxidación de metil formato (MF) en un reactor de flujo, a presión atmosférica, a una temperatura comprendida en el rango 100-1150ºC, para distintas estequiometrías, desde condiciones de pirólisis (lambda=0), hasta condiciones oxidantes (lambda=35), y en ausencia y presencia de NO. Los resultados experimentales se comparan con un modelo cinético químico detallado con 94 especies y 566 reacciones. También se estudia la formación de hollín en un reactor de flujo, a presión atmosférica y 1200ºC. Los resultados experimentales muestran que el intervalo de temperaturas en el que se produce la reacción del MF es el mismo para todos los casos analizados, 675-1100 K. Sin embargo, en condiciones oxidantes en presencia de NO, la reacción del MF es más rápida, finalizando además a una menor temperatura. En el resto de condiciones estequiométricas, la presencia de NO no tiene un efecto notable sobre los perfiles de concentración del MF. Como principales productos de reacción se detectan CH3OH, CO, CO2 e H2, todos ellos en todas las condiciones estudiadas, excepto el H2 que no se detecta en condiciones oxidantes. Tras realizar un análisis de velocidad de reacción y un análisis de sensibilidad, se han realizado dos cambios en el mecanismo cinético químico (Ea de la R501 y factor pre-exponencial de la R52), con los cuales el modelo es capaz de predecir las tendencias de los perfiles de concentración de todas las especies de interés. Respecto al experimento de formación de hollín realizado, no se ha recogido ninguna partícula del mismo, lo que puede estar relacionado con la concentración de MF alimentada al reactor, 2500 ppm aproximadamente, la cual puede resultar no suficiente para que se empiecen a formar partículas de hollín. En este caso, los principales productos de reacción son CO, CO2, CH4 e H2, siendo el primero de ellos el más importante.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6251</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Tecnologías del Medio Ambiente</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6251/files/TAZ-TFM-2011-038.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6251/files/TAZ-TFM-2011-038_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>metil formato</dc:subject>
+    <dc:subject>oxidación</dc:subject>
+    <dc:subject>reactor de flujo</dc:subject>
+    <dc:subject>cinética-química</dc:subject>
+    <dc:subject>NO</dc:subject>
+    <dc:subject>Máster Universitario en Iniciación a la Investigación en Ingeniería Química y del Medio Ambiente</dc:subject>
+    <dc:title>Oxidación de metil formato en un reactor de flujo</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

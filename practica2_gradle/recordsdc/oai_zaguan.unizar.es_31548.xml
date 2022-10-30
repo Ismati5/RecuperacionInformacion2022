@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Montañés Espinosa, Antonio</dc:contributor>
+    <dc:creator>Lamiel Terrén, Alejandro</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Se ha realizado el proyecto para la Ampliación de una Subestación 400/220 kV, basada en la actual subestación de Peñaflor, sita en los alrededores de Zaragoza y nodo fundamental de conexión de la Red de Transporte para la alimentación de esta ciudad. Para el diseño del nuevo parque, se han tenido en cuenta los reglamentos que le aplican (RLAT, RCSCT -tanto el derogado como el nuevo- y REBT), así como otros documentos, como las normas de la compañía (REE), los criterios de protección del sistema peninsular y diversas normas UNE. Se ha decidido realizar la Ampliación mediante el diseño de un nuevo parque de 400 kV, en configuración de doble barra por motivos económicos y técnicos. Al ser una subestación en un entorno rural, se ha decidido que el nuevo parque sea como el existente, en intemperie, en lugar de adoptar una solución GIS, mucho más compacta pero también mucho más cara. En cuanto a los embarrados, se ha utilizado la opción de tubos de aluminio, con cables tipo ACSR para los cruzamientos sobre las barras, opción ampliamente utilizada en instalaciones de altas tensiones y potencias. Se ha tenido especial atención en la resistencia de la instalación contra cortocircuitos: se ha estudiado la intensidad de cortocircuito en cada embarrado, utilizando potencias de cortocircuito con amplios márgenes de seguridad y comprobando toda la aparamenta, tanto instalada como de nueva instalación. Se ha realizado así mismo el cálculo de la sección mínima por requerimientos térmicos del neutro y de la puesta a tierra de la instalación y el cálculo de los requerimientos dinámicos sobre los tubos de aluminio, comprobando que son capaces de resistirlos sin dañarse. Todos estos cálculos se han comprobado mediante un software informático de simulación de redes de potencia, el programa “PowerWorld”, en el cual se ha modelado un equivalente de red, según las potencias de cortocircuito y tensiones tomadas en cada nodo. Otro punto de especial atención, ha sido la inclusión en el proyecto de una descripción amplia de las protecciones a utilizar, junto con las funciones de protección que se activarán en ellas para tener un amplio margen de seguridad en la operación del sistema, con protecciones complementarias y de apoyo, tanto local como remoto en todas las posiciones, tratando de tener redundancia por si alguna protección se averiase, dada la criticidad de la Red de Transporte.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31548</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31548/files/TAZ-TFG-2014-1777.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/31548/files/TAZ-TFG-2014-1777_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>subestación</dc:subject>
+    <dc:subject>red eléctrica</dc:subject>
+    <dc:subject>transformador</dc:subject>
+    <dc:subject>alta tensión</dc:subject>
+    <dc:subject>Graduado en Ingeniería Eléctrica</dc:subject>
+    <dc:title>Ampliación de una subestación de 400/220 kV</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Moreno Vega, Yamir</dc:contributor>
+    <dc:creator>Sanz Remón, Joaquín</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Tuberculosis is an ancient disease responsible for more than a million deaths per year worldwide, whose complex infection cycle involves dynamical processes that take place at different spatial and temporal scales, from single pathogenic cells to entire hosts' populations. In this thesis we study TB disease at different levels of description from the perspective of complex systems sciences.  On the one hand, we use complex networks theory for the analysis of cell interactomes of the causative agent of the disease: the bacillus Mycobacterium tuberculosis. Here, we analyze the gene regulatory network of the bacterium, as well as its network of protein interactions and the way in which it is transformed as a consequence of gene expression adaptation to disparate environments. On the other hand, at the level of human societies, we develop new models for the description of TB spreading on complex populations. First, we develop mathematical models aimed at addressing, from a conceptual perspective, the interplay between complexity of hosts' populations and certain dynamical traits characteristic of TB spreading, like long latency periods and syndemic associations with other diseases. On the other hand, we develop a novel data-driven model for TB spreading with the objective of providing faithful impact evaluations for novel TB vaccines of different types.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/17211</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Teórica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/17211/files/TESIS-2014-108.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>microbiología</dc:subject>
+    <dc:subject>física aplicada</dc:subject>
+    <dc:title>Tackling complexity in biological systems</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

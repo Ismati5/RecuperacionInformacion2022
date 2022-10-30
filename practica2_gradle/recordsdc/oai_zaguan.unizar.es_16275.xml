@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Pobes Aranda, Carlos</dc:contributor>
+    <dc:contributor>Camón Lasheras, Agustín</dc:contributor>
+    <dc:creator>Martínez Gil, Pablo José</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>La mayor parte de la materia bariónica en el universo se encuentra en forma de gas caliente, cuyo pico de emisión está en el espectro de los rayos X. Con el fin de estudiar esta radiación, la Agencia Espacial Europea está desarrollando la misión Athena, que hará uso de un telescopio con sensores de transición superconductora (TES) fabricados con materiales superconductores. Un equipo de investigación del Instituto de Ciencia de los Materiales de Aragón forma parte de este proyecto y está trabajando en la caracterización de estos sensores en el Laboratorio de Bajas Temperaturas de la Universidad de Zaragoza. Tras una introducción teórica, una explicación de su principio de funcionamiento y un resumen de su proceso de fabricación, se han realizado diversas caracterizaciones de estos sensores con un refrigerador de dilución y un equipo de medida automatizada denominado PPMS. Se ha tratado de relacionar la potencia de fabricación por sputtering y  el espesor de las bicapas con la temperatura de transición del TES. Finalmente, al hacer el estudio de las curvas I(V) se descubrió un comportamiento anómalo asociado al proceso de medición, cuyo origen se ha logrado identificar.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/16275</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física de la Materia Condensada; Área de Física de la Materia Condensada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/16275/files/TAZ-TFG-2014-1630.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>sensores de rayos x</dc:subject>
+    <dc:subject>tes</dc:subject>
+    <dc:subject>sensores de transición superconductora</dc:subject>
+    <dc:subject>universo caliente y energético</dc:subject>
+    <dc:subject>Graduado en Física</dc:subject>
+    <dc:title>Desarrollo de sensores superconductores de rayos X para la misión espacial ATHENA</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

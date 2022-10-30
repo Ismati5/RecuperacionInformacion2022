@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Estarreado Sanz, Roberto</dc:contributor>
+    <dc:contributor>Larrodé Pellicer, Emilio</dc:contributor>
+    <dc:creator>Ordás Gabás, Javier</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>En este trabajo fin de grado se ha estudiado un caso particular de una empresa auxiliar de preparación del pedido componentes que han de ser suministrados paralelamente a dos líneas de montaje independientes de salpicaderos de una empresa de fabricación de vehículos, encargándose tanto de la preparación como del suministro de dicho pedido. &lt;br /&gt;Por ello, el trabajo se ha dividido en dos operativas principales que se han abordado de forma paralela, en base a las dos líneas de montaje a satisfacer. Ambas operativas arrastran una baja productividad y rentabilidad para la empresa, por lo que tienen una alta necesidad de mejora.&lt;br /&gt;Se ha llevado a cabo un estudio completo, analizando y midiendo los procesos a través de un estudio de tiempos. Esto ha permitido detectar varios fallos y puntos críticos y proponer una serie de posibles mejoras. Mediante la realización de unos cálculos de capacidad del proceso y con la implantación de dichas mejoras se ha logrado una optimización de las dos operativas, reduciéndose los recursos necesarios y dando garantías de calidad y capacidad en el servicio.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/85255</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería e Infraestructura de los Transportes</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/85255/files/TAZ-TFG-2019-2697.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Análisis de procesos y optimización de recursos en una empresa de preparación de componentes para el suministro a la línea de montaje de una planta de fabricación de automóviles</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Process analysis and resource optimization in a company preparing components for the supply in the assembly line of an automobile manufacturing plant</dc:title>
+</oai_dc:dc>

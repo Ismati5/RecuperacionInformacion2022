@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Blesa Moreno, María Jesús</dc:contributor>
+    <dc:contributor>Blesa Moreno, María Jesús</dc:contributor>
+    <dc:creator>Mercado Arnal, Víctor</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El trabajo presentado en esta memoria aborda el problema tecnológico del aumento de las emisiones evaporativas debido a la incorporación de nuevos biocombustibles como el etanol. Actualmente, el 40% de las emisiones de compuestos orgánicos volátiles no metano (COVNM) provienen del sector del transporte y de estás, el 20% son atribuidas a las pérdidas evaporativas desde el tanque de combustible. Por otra parte, para reducir las emisiones de CO2 debidas al tráfico, 20 % del total, se ha propuesto, por ejemplo, incorporar biocombustibles que reduzcan dichas emisiones. Sin embargo, el aumento de las emisiones evaporativas que originan estos combustibles más ligeros hace necesario el desarrollo de nuevos sistemas para su control. En proyecto se han dado los primeros pasos para realizar una modificación en el sistema de control de emisiones evaporativas, sustituyendo el carbón activado por un nuevo material compuesto formado por un carbón activado y un fotocatalizador (TiO2). El nuevo sistema añade a la capacidad de adsorción de los sistemas actuales, un proceso de oxidación fotocatalítica para su regeneración. Para ello se han preparado diversos materiales compuestos a partir de carbones activados comerciales a los que se les ha realizado un proceso de oxidación con ácido nítrico para variar sus propiedades texturales y química superficial. Posteriormente se ha depositado el TiO2 como agente fotoactivo utilizando el método de sol-gel. Estos materiales han sido caracterizados y probados en un sistema experimental de reducción de emisiones evaporativas provenientes de mezclas etanol/gasolina. Los materiales compuestos regenerados con aire y luz UV presentan una mayor eficacia en la disminución de las emisiones evaporativas en mezclas gasolina/etanol manteniéndola constante durante un mayor número de ciclos y probando que son unos materiales aptos para el desarrollo de los nuevos sistemas cánister que se plantean como trabajo a realizar en posteriores etapas de investigación.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6246</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Orgánica y Química Física; Área de Química Orgánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6246/files/TAZ-PFC-2011-420.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>emisiones evaporativas</dc:subject>
+    <dc:subject>fotocatálisis</dc:subject>
+    <dc:subject>carbón activado</dc:subject>
+    <dc:subject>adsorción covnm</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Química Industrial)</dc:subject>
+    <dc:title>Producción de materiales compuestos, carbón activado/TiO2, para su uso como fotocatalizadores en la reducción de emisiones evaporativas</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

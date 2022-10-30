@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>López de Larrinzar Galdámez, Juan</dc:contributor>
+    <dc:contributor>Muro-Medrano, Pedro R.</dc:contributor>
+    <dc:creator>Grasa Arrabal, Adrián</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Desarrollo de una aplicación para iOS orientada al contexto turístico basada en los conceptos de la Realidad Aumentada. La aplicación se apoya en el desarrollo de un framework que encapsula la funcionalidad de base para la gestión de la Realidad Aumentada, siendo éste parametrizable y abstraíble. Dicha aplicación accede a fuentes de información dispares y muestra la información de tres modos distintos: en modo mapa, que representará en este soporte los elementos geolocalizados que se encuentren próximos al usuario; el modo lista, que presenta en forma de lista los POIs (puntos de interés) disponibles y el modo cámara o modo explorador, que hará uso del módulo de realidad aumentada y en que el se mostrará la información en tiempo real de los POIs que rodean y son visibles por el usuario en función de su posición y su orientación a través de la cámara.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/11905</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/11905/files/TAZ-PFC-2013-444.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>realidad aumentada</dc:subject>
+    <dc:subject>geolocalización</dc:subject>
+    <dc:subject>turismo</dc:subject>
+    <dc:subject>ios</dc:subject>
+    <dc:subject>objetive-c</dc:subject>
+    <dc:subject>telefonía móvil</dc:subject>
+    <dc:subject>smartphone</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Framework basado en realidad aumentada en dispositivos móviles iOS y su aplicación en el ámbito turístico</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

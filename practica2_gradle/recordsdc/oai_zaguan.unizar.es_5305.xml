@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Corves, Burkhard</dc:contributor>
+    <dc:contributor>Ivanov, Ivan</dc:contributor>
+    <dc:contributor>Cuartero Salafranca, Jesús</dc:contributor>
+    <dc:creator>López Sánchez, José Miguel</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>En este proyecto se ha diseñado un estabilizador para puente grúa. Se ha utilizado un mecanismo novedoso basado en el mecanismo de Kempe. La principal particularidad de este mecanismo es que a partir de un movimiento circular se obtiene un movimiento traslacional puramente vertical. Un plano entero se desplaza hacia arriba y hacia abajo sin experimentar ninguna traslación lateral. Dicho plano permanece paralelo al suelo en todo momento. El ámbito de aplicación para el que está pensado este mecanismo es la industria del automóvil, para trasladar carrocerías de coche y realizar trabajos de fabricación y/o montaje en ella. Cuando se bloquea el único grado de libertad del mecanismo nos queda una estructura que estabiliza la carga, impidiendo que oscile. Esta estructura debe ser lo suficientemente rígida para no sufrir desplazamientos aunque el operario o un robot estén trabajando sobre la carrocería. La primera fase del proyecto ha sido analizar el mecanismo cinemática y dinámicamente. Para estos análisis se ha utilizado el software SimMechanics incluido en Simulink, el módulo de MatLab. Gracias a esto se han podido hacer decisiones de cara al diseño del mecanismo. El análisis cinemático se ha hecho a partir de un movimiento posible del mecanismo. El análisis dinámico se ha hecho a partir de una hipotética fuerza que actuaría sobre la estructura cuando se trabaja sobre la carga. La segunda fase ha consistido en el diseño completo del mecanismo y su construcción virtual. Se ha utilizado el programa Autodesk Inventor. A partir de los modelos esquemáticos con los que se ha trabajado anteriormente se debe construir una estructura real, con elementos reales, en tres dimensiones y antendiendo a detalles constructivos, tolerancias, elementos normalizados... Para finalizar, se ha hecho un cálculo mediante el método de los elementos finitos para determinar el desplazamiento que sufriría la carga ante la hipotética fuerza antes mencionada, y así comprobar que la estructura es válida para el fin buscado.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5305</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería e Infraestructura de los Transportes</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5305/files/TAZ-PFC-2010-301.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5305/files/TAZ-PFC-2010-301_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Kempe</dc:subject>
+    <dc:subject>Chasis</dc:subject>
+    <dc:subject>Grúa</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Desarrollo de un nuevo mecanismo estabilizador para carro de puente grúa</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

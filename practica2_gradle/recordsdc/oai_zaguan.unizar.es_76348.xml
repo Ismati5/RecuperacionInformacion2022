@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Asiain Ansorena, David</dc:contributor>
+    <dc:creator>Mareca Miralles, Alfonso</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>El presente trabajo de final de grado (TFG) tiene como finalidad diseñar e implementar las protecciones, control y monitorización de una batería (BMS, siglas en ingles de Battery Management System) para un vehículo eléctrico. Conforme la técnica de las baterías ha ido evolucionando también lo han hecho los requisitos de protección. Sin la electrónica del BMS, el uso de tecnologías como Li-Po serían un gran riesgo. Es por ello, que en la presente memoria, el primer paso que se realiza es un estudio de las necesidades del sistema. Se tendrá en cuenta el estado de la técnica así como la batería donde se implementará, la cual formará parte de un vehículo eléctrico prototipo para la competición Motostudent Electric V. Una vez conocidas las necesidades del sistema se distribuirá la topología y se seleccionarán los principales circuitos integrados (IC’s) de control. En este apartado se sentarán las bases para el diseño centrando la adquisición en el circuito integrado LTC6804 y el control y monitorización en un STM32F4. A continuación se desarrollará la electrónica de los sistemas, teniendo en cuenta las necesidades e integrados de control se elegirán los diferentes componentes para proveer al sistema de su plena funcionalidad. Durante este apartado se dividirá el desarrollo de cada subsistema, en su diseño electrónico y en el diseño de la placa, en el que se tendrá en cuenta la morfología del sistema. En tercer lugar se realizará la programación del BMS, la cual se estructurará en bloques funcionales, permitiendo plantear de forma modular la lectura, protección, control y comunicaciones.  Además se realizará mediante el software Labview una interfaz gráfica para facilitar el control y configuración, la cual hará uso de los protocolos TCP/IP para comunicarse con el BMS. Por último se analizarán los resultados de esta implementación y se discutirán los posibles fallos y mejoras.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76348</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76348/files/TAZ-TFG-2018-4776.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/76348/files/TAZ-TFG-2018-4776_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecatrónica</dc:subject>
+    <dc:title>Diseño e implementación de un BMS para BVE (battery Electric Vehicle)</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Design and implementation of a BMS for BVE (battery Electric Vehicle)</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Civera Sancho, Javier</dc:contributor>
+    <dc:creator>Concha Belenguer, Alejo</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>En internet se almacenan grandes cantidades de imágenes y vídeos. Las dos principales plataformas web que tratan con este tipo de información son Google y YouTube respectivamente. El número de imágenes y vídeos que poseen es tan grande que se requieren técnicas para clasificarlos según su contenido, es decir se necesitan técnicas para predecir, ante un nuevo vídeo o imagen, a que categoría pertenece. En imágenes el problema ha sido muy estudiado. En vídeos ha habido mucho menos trabajo. Los vídeos necesitan ser clasificados en categorías como por ejemplo política, deportes,  música, etc. Es importante que esta clasificación sea de acuerdo con su contenido. YouTube actualmente clasifica sus vídeos según las descripciones que el responsable que los ha subido ha escrito para identificarlo. De esta manera hay muchos vídeos clasificados erróneamente. La clasificación de vídeos también puede ser interesante en reconocimiento de personas u  objetos (como carteles escritos)  en ambientes complicados grabados por cámaras corrientes o cámaras de vigilancia. También pueden aportar aplicaciones para dispositivos móviles. Los aspectos más relevantes para la clasificación de vídeos son los descriptores y las máquinas de aprendizaje. Los descriptores de vídeo se encargan de describir el vídeo según su contenido. Las máquinas de aprendizaje toman estas descripciones de cada vídeo para aprender a que tipo de vídeo pertenece cada descripción y así ante la aparición de un vídeo sin clasificar poder determinar a que categoría pertenece.  En este proyecto final de carrera se han usado ambos aspectos y principalmente se han estudiado los descriptores de vídeos. Los descriptores que hay en la actualidad son de dos tipos, globales y locales. Los globales describen el vídeo de forma global y los locales describen sólo zonas salientes del vídeo. Estas zonas salientes del vídeo son localizadas mediante detectores. Se ha propuesto un descriptor global para vídeos y un detector de zonas salientes para describirlas localmente. El descriptor global esta basado en el cálculo de gradientes en las tres dimensiones del vídeo. El detector local aplicado es la extensión a 3 dimensiones del detector SIFT 2D que es el mayor usado en imágenes. Ambas propuestas se han implementado en Matlab y se han evaluado de manera extensiva en bases de datos públicas y con implementaciones actuales. Además serán utilizadas estas bases de datos de vídeos para realizar un afinamiento de los parámetros de los descriptores y deducir que parámetros son los mejores. Se estudiará el porqué de los resultados aparecidos. Los resultados que se han obtenido han mejorado los resultados en bases de datos de vídeos extensos  y complejos. En el caso del detector local propuesto, no se ha apreciado mejora con respecto a los detectores propuestos en la literatura actual.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8012</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8012/files/TAZ-PFC-2012-395_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/8012/files/TAZ-PFC-2012-395.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>visión por computador</dc:subject>
+    <dc:subject>reconocimiento de patrones</dc:subject>
+    <dc:subject>descriptores de imagen</dc:subject>
+    <dc:subject>descriptores de vídeo</dc:subject>
+    <dc:subject>aprendizaje automático</dc:subject>
+    <dc:subject>histograma gradientes orientados</dc:subject>
+    <dc:subject>sift 3d</dc:subject>
+    <dc:subject>sift</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Descriptores globales para vídeo</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

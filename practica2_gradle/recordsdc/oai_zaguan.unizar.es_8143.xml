@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Medina Trullenque, María Milagros</dc:contributor>
+    <dc:contributor>Serrano Esteban, Ana</dc:contributor>
+    <dc:creator>Baquedano Coarasa, Silvia</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El FMN y el FAD se sintetizan en dos etapas secuenciales mediante la enzima FAD sintetasa (FADS) que, en procariotas, es una enzima bifuncional dividida en dos módulos, el dominio C-terminal, con actividad RF quinasa (RFK) y el N-terminal, con actividad FMN adenililtransferasa (FMNAT). Se propone la existencia de una estructura oligomérica, formada por un dímero de trímeros, que podría tener relevancia en el proceso catalítico. En este proyecto se han analizado los parámetros de unión de los ligandos y las actividades RFK y FMNAT de variantes mutadas de FADS de Corynebacterium ammoniagenes (CaFADS) en los residuos R66, K202, E203, D298 y E301, que están localizados en la interfase entre los dominios N- y C-terminal de cada dos monómeros que forman cada uno de los dos trímeros. Los mutantes presentan una estructura tridimensional similar a la de la proteína WT, y mantienen la capacidad de unión de los ligandos. El residuo R66, del módulo N-terminal es crítico para la actividad RFK del C-terminal y la unión de los ligandos, y podría colaborar junto con E268 como base catalítica en el módulo RFK. Los residuos K202 y E203, del módulo RFK, afectan a la unión de los ligandos y la actividad FMNAT, al influir en el bucle L8n del módulo FMNAT. El residuo D298, situado en el dominio C-terminal, es relevante para las actividades tanto RFK como FMNAT y el E301 está implicado en la unión de los ligandos en el sitio FMNAT de CaFADS. En conclusión, la influencia de la sustitución de residuos de un módulo en la actividad del otro apoya la hipótesis de que la forma oligomérica de CaFADS, en la que cada sitio activo estaría formado por residuos de su propio módulo y del módulo del protómero contiguo, juega un papel relevante durante la catálisis.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8143</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Bioquímica y Biología Molecular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8143/files/TAZ-TFM-2012-249.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Biología Molecular y Celular</dc:subject>
+    <dc:title>Relación estructura función en FAD sintetasas de origen procariótico</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

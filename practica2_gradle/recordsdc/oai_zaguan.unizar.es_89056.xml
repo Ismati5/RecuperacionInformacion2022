@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Dranca, Lacramioara</dc:contributor>
+    <dc:contributor>Soriano Reyes, Victor</dc:contributor>
+    <dc:creator>Manquillo Huete, Víctor</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>En la actualidad la creciente colaboración entre los países miembros de la OTAN hacen necesaria la creación de procedimientos y tácticas comunes que contribuyan a alcanzar una sinergia de esfuerzos. Este hecho también se ve reflejado a la hora de compartir información por lo que es necesaria la implementación de herramientas que permitan compartir la información de manera eficaz. Para ello se creó la Agencia de Estandarización de la OTAN que a través de STANAGs define las bases para dicha interoperabilidad. 	La información puede ser compartida gracias a los Sistemas MAJIIC, que están formados por siete STANAGs. En concreto el STANAG 4609 indica cómo deben de ser los formatos de vídeo que puedan ser compartidos en MAJIIC. Actualmente en el Ejército de Tierra sólo el vídeo obtenido por el vehículo aéreo no tripulado PASI cumple con lo establecido en el STANAG 4609, sin embrago la solución que se aplicó al PASI no es transferible al formato de vídeo de otros sistemas. 	El objeto de este Trabajo de Fin de Grado es el estudio sobre la aplicación del STANAG 4609 en los formatos de vídeo que captan el VERT y el vehículo aéreo no tripulado RAVEN. Se busca encontrar una solución que pueda adaptar el formato de vídeo de estos sistemas para que cumplan el STANAG, tal y como sucede con el PASI. 	En concreto, en este Trabajo de Fin de Grado se analizan las características de los formatos de vídeo que establece el STANAG 4609 y se comparan con las características del vídeo del RAVEN y del VERT. Se identifican los factores que se deben de adaptar y se realiza un estudio para solucionar cada uno de ellos de la forma que mejor satisfagan la necesidad de disponer de información fiable y en el momento adecuado.  &lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/89056</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/89056/files/TAZ-TFG-2018-4068.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Organización Industrial</dc:subject>
+    <dc:title>Estudio sobre la aplicación del acuerdo de estandarización STANAG 4609 en fuentes de video no MAJIIC</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Study  on the application of STANAG 4609 in non-</dc:title>
+</oai_dc:dc>

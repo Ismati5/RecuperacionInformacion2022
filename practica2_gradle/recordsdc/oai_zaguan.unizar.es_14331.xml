@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gil Herrando, Eduardo</dc:contributor>
+    <dc:creator>Gómez Barrera, Daniel</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Este proyecto es un estudio de la tecnología domótica en general. Pretende ser un documento para conocer los distintos protocolos, los diferentes modos de instalación y los diversos componentes que  forman una instalación domótica y aplicar todo esto a un edificio en construcción, un bloque de oficinas de dos plantas (aproximadamente 140 m2). Se realiza un estudio general domótico (sistemas a gestionar, características y componentes básicos de una instalación domótica) y se presenta el bloque de oficinas y los requisitos de gestión que el propietario del mismo le exige a la futura instalación domótica. Conocidas las necesidades domóticas del edificio (requisitos dados por el propietario), se realiza un estudio para saber que protocolo se adapta mejor al bloque de oficinas. Se estudian los protocolos domóticos: X10, KONNEX, PLC y varios Sistemas Propietarios. Se selecciona el protocolo KONNEX, por ser un protocolo muy extendido a nivel mundial, ampliamente desarrollado y probado (aúna las mejores características de protocolos anteriores como: BATIBUS, EHS y EIB) además de ser un protocolo abierto, que permite la instalación de elementos de diferentes fabricantes y ser adecuado para el sector terciario (oficinas). Finalmente se diseña una posible solución domótica para el bloque de oficinas (utilizando el protocolo seleccionado, KONNEX): descripción de los componentes utilizados, situación en el edificio (mediante planos) y función de cada uno de ellos y diversos aspectos a tener en cuenta como alarmas, escenas, o zonificación del edificio.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/14331</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/14331/files/TAZ-TFG-2014-509.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/14331/files/TAZ-TFG-2014-509_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>domótica</dc:subject>
+    <dc:subject>Graduado en Ingeniería Electrónica y Automática</dc:subject>
+    <dc:title>Estudio, selección y diseño de una instalación domótica para un bloque de oficinas en construcción</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

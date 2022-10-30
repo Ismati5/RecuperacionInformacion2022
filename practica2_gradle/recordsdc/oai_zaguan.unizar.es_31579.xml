@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Lozano Serrano, Miguel Ángel</dc:contributor>
+    <dc:creator>Rodríguez Montes, Javier</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>En este proyecto se desarrolla una aplicación informática de cálculo. Esta aplicación sirve para realizar pre-diseños de instalaciones solares térmicas con almacenamiento estacional (CSHPSS). La aplicación calcula las variables físicas más relevantes del sistema, así como también realiza un análisis económico y ambiental al sistema.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31579</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31579/files/TAZ-PFC-2014-534.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>sistemas solares térmicos</dc:subject>
+    <dc:subject>acumulación estacional</dc:subject>
+    <dc:subject>almacenamiento estacional</dc:subject>
+    <dc:subject>cshpss</dc:subject>
+    <dc:subject>calefacción de distrito</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Desarrollo de un programa de cálculo de sistemas solares térmicos con acumulación estacional para el dimensionado de instalaciones en Europa</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

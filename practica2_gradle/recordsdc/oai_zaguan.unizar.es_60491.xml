@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Hanson, Lars</dc:contributor>
+    <dc:contributor>Bernués del Río, Emiliano</dc:contributor>
+    <dc:creator>Dieste Orús, Carlos</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>El movimiento del paciente durante la resonancia magnética (MRI) representa un problema para la exactitud en el diagnóstico a través de esta técnica, y sus efectos varían en función del método de adquisición de las imágenes.  En esta tesis se describe un método de seguimiento del paciente en tiempo real para la actualización correspondiente actualización de los parámetros del escáner en función de la posición de éste. Los parámetros de movimiento se estiman en esta tesis mediante una técnica novedosa de seguimiento que utiliza los artefactos que aparecen en la señal de EEG durante una resonancia magnética mientras el paciente está usando un gorro de adquisición de señales de EEG. Estos artefactos son causados ​​principalmente por la variación del campo magnético durante la adquisición de las imágenes de resonancia magnética. Dado que estos artefactos dependen de la posición y orientación de los bucles que forman los cables y electrodos del gorro de adquisición de señales de EEG, se puede definir un modelo de la variación del campo magnético a lo largo del tiempo de acuerdo con la secuencia de adquisición de imágenes que se utilizada. Esta variación del campo se utiliza para estimar el movimiento del paciente durante la adquisición. En esta tesis se presenta un método de seguimiento capa por capa utilizando los los pulsos generados por el escáner de resonancia magnética para sincronizar señalar cada capa con la señal de EEG. Dado que este método de estimación introduce algo de ruido en la estimación de movimiento, es necesario un proceso de filtrado para suavizar el resultado de los parámetros de movimiento estimados. El filtro de Kalman es implementado y probado con este propósito, ya que es adecuado para la estimación en tiempo real de los parámetros de movimiento, y al mismo tiempo que proporciona una versión suavizada de la señal de entrada.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/60491</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/60491/files/TAZ-TFM-2016-874.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería de Telecomunicación</dc:subject>
+    <dc:title>Real time motion tracking during magnetic resonance imaging</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Real time motion tracking during magnetic resonance imaging</dc:title>
+</oai_dc:dc>

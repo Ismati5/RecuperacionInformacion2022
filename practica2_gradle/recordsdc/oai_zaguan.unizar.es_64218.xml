@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Abián Franco, Olga</dc:contributor>
+    <dc:contributor>Serrano Ostáriz, José Luis</dc:contributor>
+    <dc:creator>Egido Egido, Julia</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>A pesar de las mejoras conseguidas en los últimos años, el tratamiento de la Hepatitis C continúa siendo un reto en algunos casos, lo que plantea la necesidad de encontrar nuevos fármacos contra el VHC (Virus de la Hepatitis C). Ciertos compuestos que exhiben una alta actividad antiviral en screenings primarios no prosperan debido a baja efectividad in vitro, baja solubilidad en agua o alta toxicidad. Una posible solución es la encapsulación de estos compuestos en nanotransportadores, que podría proporcionar nuevas opciones terapéuticas contra el VHC. Entre los diferentes nanomateriales utilizados actualmente como transportadores de fármacos, los dendrímeros Jano anfifílicos destacan por su abilidad de formar agregados hidrosolubles con un núcleo lipídico. En este trabajo se ha sintetizado un nuevo dendrón lipófilo basado en bis-GMPA. A partir de este se ha obtenido un dendrímero Jano anfifílico mediante una reacción de “química click”. Este dendrímero puede formar agregados micelares con una alta capacidad de carga de fármaco, de modo que ha sido probado como transportador para tres fármacos contra el VHC: camptotecina, tiratricol y ácido iopanoico. Tanto los agregados como los complejos fármaco/dendrímero han sido caracterizados de varias maneras: la morfología y el tamaño se han determinado por microscopía de transmisión electrónica y dispersión dinámica de luz, y los parámetros termodinámicos de la interacción entre los diferentes fármacos y el dendrímero se ha estudiado por calorimetría isotérmica de titulación. Finalmente, se han evaluado los resultados de la encapsulación sobre la inhibición viral y la viabilidad celular, utilizando un cultivo de una línea celular hepática apropiada. No se han obtenido resultados concluyentes con respecto a la actividad antiviral de los complejos fármaco/dendrímero. Sin embargo, los datos preliminares obtenidos en este trabajo sugieren que este nanotransportador podría mejorar la actividad de los fármacos encapsulados sin afectar a la viabilidad celular.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64218</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Orgánica; Área de Química Orgánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64218/files/TAZ-TFG-2017-2240_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/64218/files/TAZ-TFG-2017-2240.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Biotecnología</dc:subject>
+    <dc:title>NANOESTRUCTURAS BASADAS EN DENDRÍMEROS JANUS ANFIFÍLICOS COMO TRANSPORTADORES DE FÁRMACOS CONTRA EL VIRUS DE LA HEPATITIS C</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">NANOSTRUCTURES BASED ON AMPHIPHILIC JANUS DENDRIMERS AS DRUG CARRIERS AGAINST HEPATITIS C VIRUS</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Muniesa Lorda, Pedro</dc:contributor>
+    <dc:contributor>Climent Aroz, María</dc:contributor>
+    <dc:creator>García López, Elisa</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>Las resistencias antibióticas suponen en la sociedad actual uno de los mayores desafíos en cuanto a salud pública. Sólo en Europa mueren al año 25.000 personas a causa de estos patógenos y sus pérdidas y tratamientos ascienden a 1.500 millones de euros anuales. La aparición de nuevas bacterias resistentes gana la carrera a la creación y desarrollo de nuevos antibióticos; es por esto que otras opciones deben estudiarse para poder controlar el problema. Este el caso de CRISPR cuyas siglas se traducen en “Repeticiones Palindrómicas Cortas Agrupadas y Regularmente Interespaciadas”, en una misma región del genoma. Se trata de una novedosa técnica genética que permite modificar el ADN específicamente como si se tratase de unas “tijeras moleculares”. Además, para el correcto funcionamiento de este proceso debe existir una endonucleasa asociada, llamada “Cas”, que es la encargada de producir el corte en el ADN. Son múltiples los tipos de CRISPR y por consiguiente, de endonucleasas existentes. Diversos estudios han desarrollado bacteriófagos, modificados mediante CRISPR, cuya misión es eliminar estas bacterias resistentes o revertir este proceso de resistencia. En el desarrollo de estos experimentos se ha comprobado la utilidad de diversas endonucleasas, siendo las más útiles hasta el momento Cas3 y Cas9. Por otro lado, se han obtenido resultados satisfactorios en el empleo de fagémidos modificados, vehiculados también por fagos. Así como resultados también favorables en tratamientos de infecciones tópicas causadas por bacterias resistentes. Por último, todavía quedan conceptos por seguir explorando, como la vía de administración y el escape a algunos sistemas inmunes bacterianos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76727</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Anatomía, Embriología y Genética Animal; Área de Anatomía y Anatomía Patológica Comparadas</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76727/files/TAZ-TFG-2018-3256.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Veterinaria</dc:subject>
+    <dc:title>CRISPR como solución a las resistencias antibióticas</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">CRISPR as a solution to antibiotic resistance</dc:title>
+</oai_dc:dc>

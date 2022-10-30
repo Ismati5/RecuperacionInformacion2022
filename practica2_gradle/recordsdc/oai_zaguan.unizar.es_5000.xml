@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mayordomo Cámara, Elvira</dc:contributor>
+    <dc:creator>Larraz Hurtado, Daniel</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>La teoría de las 2-estructuras [5] proporciona una infraestructura matemática para la descomposición y la transformación de grafos. Se trata de un formalismo muy potente y robusto que permite representar múltiples grafos en una sola estructura algebraica, una 2-estructura, y derivar de ella una descomposición única en 2-estructuras más simples. En este proyecto se ha llevado a cabo su estudio con dos finalidades:El diseño y la implementación de un paquete de software que sistematice el análisis, la transformación y la visualización de las principales estructuras involucradas en la teoría de las 2-estructuras. La investigación y el desarrollo de posibles aplicaciones de las 2-estructuras a las gramáticas usadas en el procesamiento del lenguaje humano (lenguaje natural).El lenguaje natural es casi en cualquier aspecto más complejo de lo esperado [6]. La sintaxis de muchos idiomas incluye reglas gramaticales que son sensibles al contexto, fenómenos cuyo procesado está muy lejos de tener soluciones eficientes (recordemos que los compiladores de lenguajes de programación sólo procesan un subconjunto muy simple de las gramáticas completamente libres del contexto y que el procesado de gramáticas sensibles al contexto es en general inviable). Las gramáticas suavemente sensibles al contexto (Mildly Context Sensitive Grammars, MCSG) pretenden capturar la sintaxis del lenguaje natural y conseguir su procesado eficiente [7,9]. Entre los lenguajes que describen estas gramáticas encontramos una subclase de gran interés por los siguientes tres motivos. Los lenguajes que contiene capturan un amplio espectro de las dependencias del lenguaje natural, son reconocibles en tiempo polinómico y existen cuatro formalismos independientes entre sí que los generan [8]. Son los lenguajes descritos por las gramáticas de adjunción de árboles (Tree Adjoining Grammars, TAG), las gramáticas de núcleo (Head Grammars, HG), las gramáticas lineales de índices (Linear Indexed Grammars, LIG) y las gramáticas categoriales combinatorias (Combinatory Categorial Grammars, CCG). En este trabajo se presentan dos resultados producto de la investigación sobre la aplicación de las 2-estructuras a algunas de las gramáticas mencionadas: Una extensión de las HG que asocia explícitamente un árbol derivado a las cadenas generadas apoyándose en las bases de las 2-estructuras. Un algoritmo que genera una gramática TAG a partir de una frase con dependencias anidadas y cruzadas (las capturables por el formalismo).</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5000</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5000/files/TAZ-PFC-2010-167.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5000/files/TAZ-PFC-2010-167_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>lenguaje natural</dc:subject>
+    <dc:subject>sintaxis</dc:subject>
+    <dc:subject>gramáticas suavemente sensibles al contexto (MCSG)</dc:subject>
+    <dc:subject>gramáticas de adjunción de árboles (TAG)</dc:subject>
+    <dc:subject>gramáticas de núcleo (HG)</dc:subject>
+    <dc:subject>teoría de grafos</dc:subject>
+    <dc:subject>representación gráfica</dc:subject>
+    <dc:subject>2-estructuras</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Aplicación de las 2 estructuras a las gramáticas del lenguaje humano y representación gráfica de ambas</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

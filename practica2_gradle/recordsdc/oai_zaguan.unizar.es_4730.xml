@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Torres Moreno, Enrique</dc:contributor>
+    <dc:creator>Domínguez Barrio, Lorena</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El acceso a los diferentes tipos de información que ofrece Internet ha pasado de ser algo habitual a una necesidad continua, gracias al auge de las redes sociales. Esto genera una demanda de nuevas formas de acceder a la información, lo que representa una oportunidad para desarrollar nuevas soluciones. El portarretratos inteligente, o Smart Photo Frame, es un dispositivo que muestra de forma continua información proveniente de diferentes servicios en red. Su formato es similar al de un marco de fotos digital, con una mayor interactividad. Nosotros planteamos una plataforma para portarretratos inteligentes, que: Permite el acceso a Internet sin restricciones desde cualquier dispositivo Es capaz de funcionar desde dispositivos con hardware muy limitado Evita la obsolescencia, no dependiendo del software del dispositivo para acceder a nuevos tipos de contenidos Su arquitectura está basada en la transformación en imágenes fijas de los contenidos accedidos a través de un navegador. Estas imágenes son generadas por un agente externo al dispositivo cliente, cuyo único requisito computacional será representar la información en su pantalla e interactuar con el usuario. Con el fin de demostrar el funcionamiento y viabilidad de la solución, se ha implementado el proxy completo, junto con un emulador de portarretratos para PC y una implementación de demostración plenamente funcional sobre la videoconsola Nintendo DS. En este marco de desarrollo, hemos realizado un estudio de viabilidad de diferentes formatos de representación de imágenes, con el fin de encontrar el óptimo para nuestra solución. Finalmente, hemos comprobado que es una plataforma completa y versátil, que ofrece múltiples oportunidades para el desarrollo de servicios interactivos en red para dispositivos de bajas prestaciones.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4730</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Arquitectura y Tecnología de Computadores</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4730/files/TAZ-PFC-2010-080.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/4730/files/TAZ-PFC-2010-080_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Nintendo DS</dc:subject>
+    <dc:subject>Servicios</dc:subject>
+    <dc:subject>Internet</dc:subject>
+    <dc:subject>Formato de imagen</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Portarretratos inteligente, acceso a servicios en red desde dispositivos de bajas prestaciones</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

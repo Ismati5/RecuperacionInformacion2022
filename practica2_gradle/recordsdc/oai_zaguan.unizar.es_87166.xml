@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Buldaín Pérez, Julio David</dc:contributor>
+    <dc:contributor>Casa Nebra, Roberto José</dc:contributor>
+    <dc:creator>Cebrián Martínez, Belén</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>El objetivo de este trabajo consiste en estudiar la posibilidad de utilizar un único sensor magnético para detectar el paso de los vehículos y estimar su tamaño, su velocidad y su dirección. Para ello, se pretende desarrollar un sistema que obtenga la información a partir de los cambios en el campo magnético terrestre detectados por el sensor magnético colocado bajo la calzada. Se pretende desarrollar también un sistema de reconocimiento de imágenes captadas por una cámara enfocada sobre la calzada para generar de forma automática las etiquetas de la base de datos que se utilizará para entrenar el sistema.&lt;br /&gt;Inicialmente, se realiza un estudio sobre los sistemas más relevantes hoy en día para la monitorización del tráfico, así como las distintas líneas de desarrollo. La información obtenida en esta investigación se utilizará en la toma de decisiones para el diseño de los modelos clasificadores.&lt;br /&gt;A continuación, se desarrolla un sistema automático para la creación de la base de datos. Para ello, se crea una infraestructura en la que los gestores se encargan de obtener los datos del sensor magnético y crear las etiquetas de los datos a partir de las imágenes captadas por la cámara. La base de datos creada se almacena en un servidor FTP.&lt;br /&gt;Una vez creada la base de datos y a partir de la información obtenida de la investigación sobre los trabajos realizados en este campo, se diseña un clasificador binario para obtener la dirección de los vehículos y dos estimadores para obtener el tamaño y la velocidad.&lt;br /&gt;Por último, se muestran los resultados obtenidos en este trabajo y se exponen las conclusiones y las posibles líneas de mejora que pueden utilizarse en trabajos futuros.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87166</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87166/files/TAZ-TFM-2019-1425.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería de Telecomunicación</dc:subject>
+    <dc:title>Sensor autónomo inteligente para la evaluación del tráfico en una calzada</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Intelligent autonomous sensor for traffic evaluation on a roadway</dc:title>
+</oai_dc:dc>

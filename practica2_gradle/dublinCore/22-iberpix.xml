@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<csw:Record xmlns:csw="http://www.opengis.net/cat/csw/2.0.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ows="http://www.opengis.net/ows" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:language>es</dc:language>
+  <dc:identifier>22-iberpix</dc:identifier>
+  <dc:description/>
+  <dc:identifier>4_CARTOSAT/</dc:identifier>
+  <dc:language/>
+  <dc:title>Iberpix - Cartoimágenes LANDSAT provinciales</dc:title>
+</csw:Record>

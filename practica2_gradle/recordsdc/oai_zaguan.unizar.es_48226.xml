@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bernués del Río, Emiliano</dc:contributor>
+    <dc:creator>Cedeño Gonzáles, Kevin</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>Ayudar a personas que sufren enfermedades degenerativas sin solución a día de hoy es un problema abarcado en todos los ámbitos de la ciencia; en el campo de la medicina es una labor que conlleva demasiado tiempo y esfuerzo obtener una cura, sin embargo la ingeniería es un campo que puede proporcionar una mayor calidad de vida al paciente. En este trabajo de fin de grado se ha realizado un sistema automático capaz de asistir a personas con enfermedades de este tipo, más concretamente de Alzheimer, reconociendo la habitación en la que se encuentra la persona asistida ante la posibilidad de la pérdida de memoria o desorientación que puede producir dicha afección. El sistema se entrenará siguiendo una de las técnicas con mayor potencial en la actualidad, denominada deep learning. El sistema, por tanto, tomará una estructura concreta llamada red neuronal convolucional. Para ello se ha realizado un estado del arte donde se ha revisado las características de este proceso y la actual práctica que se tiene con este tipo de técnicas dando importancia a la comprensión de cada paso que se realiza. Además se ha llevado a cabo la implementación de la red neuronal así como todo lo necesario para poder realizar el entrenamiento de la forma más completa posible. Se ha estudiado posibles errores que se puedan producir durante el entrenamiento así como un comportamiento normal en él de forma que se pueda ahorrar tiempo y esfuerzo ante la presencia de alguna acción poco convencional. Por último, se ha realizado un estudio de los resultados obtenidos así como una línea de futuro proponiendo mejoras que podrían ofrecer una mayor contribución al paciente.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/48226</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/48226/files/TAZ-TFG-2015-3410.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías y Servicios de Telecomunicación</dc:subject>
+    <dc:title>Reconocimiento automático de tipos de dependencias basado en técnicas de deep learning</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

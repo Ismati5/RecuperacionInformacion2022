@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sagüés Blázquiz, Carlos</dc:contributor>
+    <dc:creator>Gallán Farina, Bruno</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>Este proyecto de fin de máster se centra en la navegación en formación de un conjunto de robots tipo “TurtleBot”. El objetivo principal consiste en que un grupo de cualquier número de robots navegue en formación sin separarse. En el caso de que sea necesario, los robots se situarán en fila y recuperarán la formación cuando sea posible.  Se pretende que la implementación se realice en el marco del sistema operativo ROS, que está pensado para sistemas robóticos. Primero se propondrán unas estructuras que permitan controlar donde se sitúan los robots dentro de la formación. Una vez construidas dichas estructuras, el siguiente paso es llevar de manera ordenada a cada robot a sus posiciones correspondientes.  Con los robots ya colocados en sus posiciones, habrá que buscar alguna estrategia para que los distintos robots no se pierdan durante la navegación. Finalmente, con los robots ya implementados en ROS y los algoritmos corriendo en Matlab, se realizan varias simulaciones sobre Stage para comprobar el buen funcionamiento de las estrategias modificando algunos parámetros.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/78392</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/78392/files/TAZ-TFM-2018-1272.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Electrónica</dc:subject>
+    <dc:title>Navegación en formación de un sistema multi-robot</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Multi-robot navigation with system formation</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Rodríguez Fernández, Ricardo J.</dc:contributor>
+    <dc:contributor>Merseguer Hernáiz, José Javier</dc:contributor>
+    <dc:creator>Vila Bausili, José</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Las siglas NFC (Near Field Communication) nombran al conjunto de estándares diseñados para establecer una comunicación inalámbrica punto-a-punto entre dispositivos en proximidad, normalmente de unos pocos centímetros. Dichos estándares cubren distintos protocolos de comunicación e intercambio de datos y están basados en otros estándares de identificación por radio frecuencia (RFID) como ISO/IEC 14443 o FeliCa. Cada vez encontramos más servicios que permiten el pago mediante tarjetas o dispositivos sin contacto mediante tecnología NFC; desde el transporte público hasta aparcamientos, cajeros rápidos en supermercados o máquinas de vending. ¿El principal motivo? La fuerte apuesta de los bancos por esta tecnología. Existen numerosos tipos de tarjetas NFC, de mecanismos de seguridad y de ataques a éstas. Los ataques de relay son una técnica de man-in-the-midle en la que el atacante es capaz de retransmitir un mensaje desde un emisor a un receptor remoto en tiempo real, explotando el supuesto de que la comunicación con una tarjeta NFC implica proximidad física. Desafortunadamente, la gran mayoría de tarjetas no dispone de ninguna medida ante este vector de ataque ya que la necesidad de hardware especializado hace poco realista un ataque práctico. Sin embargo, con la irrupción de dispositivos móviles con chips NFC, este panorama ha cambiado radicalmente. En este trabajo se pretende estudiar la arquitectura NFC en un entorno móvil y desarrollar una aplicación llamada NFC Leech que permita realizar un ataque de relay con dispositivos Android a tarjetas NFC (concretamente tarjetas de crédito). Se pretende, a su vez, documentar todos los aspectos técnicos de la implementación que hace Android de NFC a partir de las especificaciones, documentación y código fuente, con el fin de servir de referencia a cualquier trabajo futuro relacionado.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/15925</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/15925/files/TAZ-PFC-2014-373.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>nfc</dc:subject>
+    <dc:subject>relay</dc:subject>
+    <dc:subject>android</dc:subject>
+    <dc:subject>rfid</dc:subject>
+    <dc:subject>seguridad</dc:subject>
+    <dc:subject>tarjetas crédito</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Ataques de relay en NFC con dispositivos Android</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Marco Rubio, Javier</dc:contributor>
+    <dc:contributor>Cerezo Bagdasari, Eva Mónica</dc:contributor>
+    <dc:creator>Ruiz Figueroa, Esther</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Este trabajo lleva como título “Diseño de juegos tangibles para Espacios Interactivos, orientados a formar a niños en el pensamiento lógico y computacional” y se ha desarrollado en el seno del grupo de investigación GIGA (Grupo de Informática Gráfica Avanzada) Affective Lab del departamento de Informática e Ingeniería de Sistemas de la Universidad de Zaragoza. Este grupo dispone, gracias a los proyectos CeSAr y JUGUEMOS (proyecto financiado por el ministerio de Educacion Ciencia y Tecnología TIN2015-67149-C3-1R.), un espacio interactivo en el edificio Etopia de Zaragoza (Centro de Arte y Tecnología de Zaragoza) orientado al diseño y desarrollo de juegos pervasivos para niños. El objetivo general de este proyecto ha sido diseñar juegos pervasivos para el espacio JUGUEMOS con los que enseñar conceptos básicos de programación a niños en un espacio colaborativo y de manera lúdica. Para la realización de este proyecto se ha partido de una fase analítica en la cual se ha recopilado y analizado toda la información necesaria sobre los niños, los juegos y la actualidad del mercado en lo referente a interacción tangible y programación. Gracias a esta documentación se han obtenido unas conclusiones y un punto de partida fundamental para comenzar la fase de ideación y diseño, en la cual se han definido dos conceptos independientes a desarrollar paralelamente, un juego para el espacio JUGUEMOS y una ampliación de un juego ya existente en el mercado. A partir de ahí se han desarrollado paralelamente ambos juegos en un proceso iterativo hasta obtener los prototipos finales de ambos conceptos. Por último, una vez creados estos prototipos finales de ambos conceptos se realizan unas evaluaciones de ellos en el espacio JUGUEMOS y en el colegio Los Albares de la Puebla de Alfinden. Gracias a la evaluación con usuarios reales se han detectado fallos y se han propuesto posibles opciones de mejora dejando abierta la opción de mejorar estos juegos en un futuro.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64192</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64192/files/TAZ-TFG-2017-2868_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/64192/files/TAZ-TFG-2017-2868.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería en Diseño Industrial y Desarrollo de Producto</dc:subject>
+    <dc:title>Diseño de juegos tangibles para Espacios Interactivos, orientados a formar a niños en el pensamiento lógico y computacional</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Design of Tangible video-games in an Interactive Environment, aimed for training logical and computational reasoning to children</dc:title>
+</oai_dc:dc>

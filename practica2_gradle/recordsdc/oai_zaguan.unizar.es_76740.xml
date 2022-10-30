@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Merino Filella, Pedro</dc:contributor>
+    <dc:contributor>Tejero López, Tomás</dc:contributor>
+    <dc:creator>Sanz Martínez, Ignacio Jesús</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>Las Glicosiltransferasas son las enzimas que se encargan de trasferir azucares a diversos receptores como proteínas, lípidos, nucleósido, etc. Entre las glicosiltransferasas se encuentra la enzima O-GlcNAc transferasa (OGT), la cual como su nombre indica, se encarga de la trasferencia concreta de la acetilglucosamina. Dicha enzima se relaciona con multitud de trastornos y enfermedades en los seres vivos, incluidos humanos, lo que hace que sea una potencial diana para el desarrollo de moléculas que puedan inhibir su funcionamiento y así convertirse en potenciales fármacos para dichos trastornos.  Varios inhibidores han sido planteados para esta enzima, sin embargo, todos ellos presentan una elevada carga molecular que limita su capacidad de atravesar la membrana celular (biodisponibilidad) lo que los inhabilita como fármacos. A lo largo de este trabajo se procede al diseño y estudio computacional de numerosos inhibidores dirigidos a la OGT, en todos ellos se busca una mayor biodisponibilidad además de, por supuesto, un buen binding con la enzima. Todo esto con el objetivo de servir de base a posteriores síntesis experimentales y posteriores estudios in vitro con la enzima.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76740</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Orgánica; Área de Química Orgánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76740/files/TAZ-TFG-2018-3227.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Química</dc:subject>
+    <dc:title>Diseño computacional de glicomiméticos dirigidos a glicosiltransferasas</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Computational desing of glycomimetics directed to glycosyltransferases</dc:title>
+</oai_dc:dc>

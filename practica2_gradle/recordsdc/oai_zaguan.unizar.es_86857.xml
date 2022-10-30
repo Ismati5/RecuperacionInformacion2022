@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Remacha Andrés, Mónica</dc:contributor>
+    <dc:creator>Rico Vicente, Rebeca</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>En el presente Trabajo Fin de Grado se desarrolla un exoesqueleto para la pierna derecha de un usuario con una patología específica. Este desarrollo se basa en los fundamentos teóricos explicados posteriormente con detalle.&lt;br /&gt;La evolución del proyecto se desarrolla en el ámbito mecánico y electrónico. Se calculan las dimensiones del conjunto sabiendo qué geometría se desea en el actuador, se diseñan las piezas con Inventor 2019 y se fabrican los elementos. Después se ajusta la tolerancia del conjunto para obtener un movimiento óptimo durante el ciclo de Gait. En función de las necesidades del sistema desarrollado en el trabajo, se calculan las características mecánicas que debe poseer el motor.&lt;br /&gt;A partir de las dimensiones mecánicas se definen los requisitos electrónicos del actuador, y el consumo del mismo. Se halla la función de transferencia del sistema completo para después aplicar un control PID sobre esta, y ajustar con precisión el movimiento generado por la pierna. La alimentación del motor se controla por PWM (Pulse Width Modulation) para regular la velocidad del motor. La selección de componentes electrónicos, es correcta ya que ningún componente se ha dañado debido a las altas intensidades.&lt;br /&gt;Las verificaciones realizadas del modelo se basan en reproducir diez ciclos de Gait. El diseño mecánico es correcto ya que cumple con los requisitos estructurales: rozamiento mínimo, recorrido lineal sobre el husillo y la férula no se ha dañado durante las pruebas. El diseño electrónico satisface la necesidad cinemática del sistema.&lt;br /&gt;De las comprobaciones anteriores se puede concluir que el modelo teórico mecánico diseñado es funcional. Los componentes electrónicos se han dimensionado correctamente. Para obtener el movimiento deseado en el actuador, se ajusta la respuesta del sistema con el microcontrolador.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/86857</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/86857/files/TAZ-TFG-2019-4749_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/86857/files/TAZ-TFG-2019-4749.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecatrónica</dc:subject>
+    <dc:title>Modelo de un exoesqueleto para pierna derecha</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Right Leg Exoskeleton Model</dc:title>
+</oai_dc:dc>

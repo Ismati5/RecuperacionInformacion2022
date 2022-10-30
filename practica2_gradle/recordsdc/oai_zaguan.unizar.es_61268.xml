@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Piqueras Lorente, Ana</dc:contributor>
+    <dc:contributor>Fernández Concellón, Pedro José</dc:contributor>
+    <dc:contributor>Baselga Ariño, Santiago</dc:contributor>
+    <dc:creator>Ruiz Lafoz, Pablo</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>El laboratorio del departamento de Ingeniería Mecánica de la Universidad de Zaragoza se encuentra ante la necesidad de desarrollar la implementación de un procedimiento de ensayo de frenado, lo cual es la motivación del presente proyecto. En el cual, se ha realizado el estudio sobre los Reglamentos relativos a los ensayos de frenada y se han analizado los condicionantes que se establecen para realizar un ensayo de frenada.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61268</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería e Infraestructura de los Transportes</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61268/files/TAZ-TFG-2016-2124.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Implementación de un procedimiento de ensayo de frenado según el Reglamento 13 y 13H</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Implementation of a braking test procedure under Regulation 13 and 13H</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Barrio Gil, Roberto</dc:contributor>
+    <dc:creator>Begué Pedrosa, Nuria</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>En el presente trabajo se prentende la inmersión en el mundo de los modelos matemáticos de neuronas. En primer lugar, se expone uno de los más modelos más significativos llevado a cabo por Hodgkin y Huxley, con el cual se llevaron el premio Nobel. Este modelo es capaz de describir la generación y propagación del potencial de acción. Por otro lado, la complejidad del modelo anterior en cuanto a estructura lleva a que se presenta el modelo de Hindmarsh y Rose, el cual presentaron posteriormente. Se pretende realizar un estudio cualitativo del mismo con el fin de entender la dinámica neuronal que se sucede durante una acción potencial.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/16202</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Matemática Aplicada; Área de Matemática Aplicada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/16202/files/TAZ-TFG-2014-1590.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>potencial de acción</dc:subject>
+    <dc:subject>acción potencial</dc:subject>
+    <dc:subject>bifurcación</dc:subject>
+    <dc:subject>dinámica neuronal</dc:subject>
+    <dc:subject>fold</dc:subject>
+    <dc:subject>hopf</dc:subject>
+    <dc:subject>homoclínica</dc:subject>
+    <dc:subject>Graduado en Matemáticas</dc:subject>
+    <dc:title>Modelos matemáticos de neuronas</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

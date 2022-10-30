@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Larrodé Pellicer, Emilio</dc:contributor>
+    <dc:creator>Arias Martín, Juan Manuel</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>El presente trabajo de fin de máster consiste en el estudio de las prestaciones necesarias para el diseño de un vagón de mercancías autopropulsado. Para ello se ha estudiado el estado de la técnica en el transporte ferroviario, la dinámica de los vehículos ferroviarios y las opciones más habituales en la tracción ferroviaria.&lt;br /&gt;A partir de las ecuaciones que gobiernan la dinámica de los vehículos ferroviarios se han establecido unos escenarios de referencia sobre los que se ha realizado el análisis de las prestaciones. Estos escenarios recogen algunas situaciones habituales en las que podría introducirse un vagón como el que se propone en el trabajo. Se han propuesto diseños para los escenarios contemplados.&lt;br /&gt;Por último, se han resumido las conclusiones alcanzadas durante la realización del trabajo y se han propuesto posibles líneas futuras para complementar el trabajo.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/84764</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería e Infraestructura de los Transportes</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/84764/files/TAZ-TFM-2019-1065.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Industrial</dc:subject>
+    <dc:title>Diseño y análisis de un vagón de mercancías autopropulsado. Comparación entre tracción diésel, híbrida y eléctrica</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Design and analysis of a self-propelled freight wagon. Comparison between diesel, hybrid and electrical traction</dc:title>
+</oai_dc:dc>

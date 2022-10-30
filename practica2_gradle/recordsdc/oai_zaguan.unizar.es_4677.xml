@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Santolaria Mazo, Jorge</dc:contributor>
+    <dc:contributor>Yagüe Fabra, José Antonio</dc:contributor>
+    <dc:creator>Aguado Lamana, Jorge</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>El objetivo principal del proyecto es la comparación de diferentes métodos de verificación geométrica de máquinas-herramienta (MH) para determinar sus errores geométricos y realizar su compensación. Dicha comparación se realiza con métodos tradicionales y con métodos novedosos que persiguen una disminución del tiempo y coste de esta operación. El proyecto se centra en los errores geométricos de una MH (errores de posición, angulares, de rectitud y de perpendicularidad). Se describen los distintos métodos usados para determinar dichos errores con la máquina en vacío (sin pieza y sin mecanizar) mediante movimientos de la misma. Se lleva a cabo una intensa experimentación sobre una fresadora de control numérico a la que se aplican diferentes métodos para poder encontrar experimentalmente qué método es mejor desde los puntos de vista de precisión, tiempo y coste. Los métodos que se comparan son el interferómetro láser, el nivel electrónico, el reloj comparador electrónico, el palpador autocentrante con barra de esferas y el láser-tracker. Para poder llevar a cabo este proceso, se realizan además diversos trabajos previos. En primer lugar, se calibra un palpador autocentrante mediante la repetida medida de un patrón y el posterior análisis de los datos contrastado con el modelo informático del palpador, que transforma las medidas de los sensores en la posición del centro de la esfera medida. También se realiza un programa que genera automáticamente programas de control numérico para trayectorias de medidas para el láser-tracker. Gracias a este programa se genera un código que mueve el cabezal por todo el volumen que especifica el usuario y se detiene en los distintos puntos el tiempo definido por el usuario para tomar datos con el láser-tracker. Por último se indica cómo compensar los errores de las posiciones que se encuentran dentro de la nube de puntos de la que hemos encontrado el error. Este sistema sería el primer paso para una compensación pre-proceso que permita crear un programa que genere el código de control numérico con las posiciones corregidas y enviar a la máquina a un punto más cercano.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4677</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4677/files/TAZ-PFC-2010-027.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/4677/files/TAZ-PFC-2010-027_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Verificación geométrica</dc:subject>
+    <dc:subject>Máquina-Herramienta (MH)</dc:subject>
+    <dc:subject>Metrología</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Comparación experimental de técnicas tradicionales y novedosas de verificación geométrica de máquinas-herramienta</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

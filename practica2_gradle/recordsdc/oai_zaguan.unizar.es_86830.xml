@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ramón García, Santiago</dc:contributor>
+    <dc:contributor>Lucía Quintana, Ainhoa</dc:contributor>
+    <dc:creator>Ezquerra Aznárez, José Manuel</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>The incidence of drug-resistant bacteria is soaring worldwide in the last decades and becoming increasingly difficult to treat. This emergence has been accompanied by a failure to deliver new antimicrobials into the market. Drug discovery approaches include target-based and phenotypic screening, but most current antimicrobials have been identified using the latter. However, this strategy does not provide any information on how the identified compounds inhibit bacterial growth, being the elucidation of the mode of action a major bottleneck in the discovery process. &lt;br /&gt;The antimicrobial activity of two series of compounds, the avermectins and the EPMM compounds, was recently characterised at the D2AMR Group in the Department of Microbiology. Based upon these studies, the main aim of this Master’s Final Project (TFM) was to isolate mutants with changes in their susceptibility profile to the compounds. Subsequent genomic analysis, beyond the scope of this TFM, will aid to elucidate their mode of action. &lt;br /&gt;Two complementary approaches were used to isolate mutants with changes in their susceptibility to avermectins: first, standard mutant isolation assays with the Mycobacterium smegmatis ∆nucS hypermutator strain using inhibitory concentrations of selamectin; and second, screening of a Mycobacterium bovis BCG transposition library to identify either resistant or hypersusceptible mutants. Susceptibility changes were evaluated by testing the candidates’ susceptibility in broth, agar plates and by time-kill kinetics. Using these strategies, eight M. smegmatis mutants resistant to selamectin were validated. &lt;br /&gt;Similar methodologies were used to initiate mode of action studies for EPMM Compound 18 (C18). Staphylococcus aureus mutants were isolated by two different strategies: first, from liquid cultures exposed to inhibitory concentrations of C18; and second, from standard mutant isolation assays. Seventeen S. aureus mutants resistant to C18 were confirmed. &lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/86830</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Microbiología, Medicina Preventiva y Salud Pública; Área de Microbiología</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/86830/files/TAZ-TFM-2019-307.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Biotecnología Cuantitativa</dc:subject>
+    <dc:title>Estudios de caracterización del modo de acción de nuevos agentes antimicrobianos</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Mode of action elucidation studies of new antimicrobial compounds</dc:title>
+</oai_dc:dc>

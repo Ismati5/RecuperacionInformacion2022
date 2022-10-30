@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Pueyo Campos, Ángel</dc:contributor>
+    <dc:contributor>Zúñiga Antón, María</dc:contributor>
+    <dc:creator>Arranz López, Aldo</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>La información sanitaria ha dejado de ser un campo exclusivo de los profesionales médicos,abriéndose a otros ámbitos de conocimiento como es la geografía, que gracias a su capacidad de análisis con Sistemas de Información Geográfica, es capaz de analizar y representar indicadores y variables sanitarias de gran interés. Este trabajo, en el contexto del interés del Instituto Geográfico Nacional en desarrollar un nuevo Atlas Nacional de España, plantea una propuesta para el volumen de salud. Ésta se concreta en el desarrollo de una batería de indicadores sanitarios, en la realización de análisis espaciales de accesibilidad y localización óptima (representativos del potencial de los SIG en el análisis sanitario) y en la presentación de la cartografía multiescala en formato tradicional y su implementación en nuevas herramientas de geovisualización.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9686</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio; Área de Geografía Humana</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9686/files/TAZ-TFM-2012-1190.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Sanidad</dc:subject>
+    <dc:subject>Atlas nacional de España</dc:subject>
+    <dc:subject>Indicadores</dc:subject>
+    <dc:subject>Sistemas de información geográfica</dc:subject>
+    <dc:subject>Cartografía</dc:subject>
+    <dc:subject>Máster Universitario en Tecnologías de la Información Geográfica para la Ordenación del Territorio: Sistemas de Información Geográfica y Teledetección</dc:subject>
+    <dc:title>Herramientas cartográficas para la representación de indicadores de salud</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

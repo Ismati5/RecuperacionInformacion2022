@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mayordomo Cámara, Elvira</dc:contributor>
+    <dc:contributor>Álvarez Jarreta, Jorge</dc:contributor>
+    <dc:creator>Miguel Lozano, Enrique</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Los principales objetivos de este proyecto fin de carrera son la traducción de ADN a proteínas, la construcción de árboles filogenéticos utilizando proteínas y su comparación con los árboles construidos directamente a partir de secuencias completas de ADN. La filogenética es la disciplina que estudia las relaciones evolutivas entre distintos individuos o especies. El ADN mitocondrial es un tipo especial de ADN que está almacenado en unos orgánulos de la célula llamados mitocondrias. Parte del ADN mitocondrial codifica proteínas. Los árboles filogenéticos se construyen utilizando modelos matemáticos que intentan explicar la evolución real de los individuos. En el caso tratado de ADN mitocondrial, las filogenias son especialmente útiles a la hora de diagnosticar las mutaciones de un paciente como patógenas. Para poder construir estos árboles es necesario identificar las proteínas dentro de la secuencia de ADN mitocondrial y extraer su información. Debido a la falta de homogeneidad en las bases de datos donde se encuentran almacenadas las secuencias es necesaria una primera fase de procesamiento para así poder localizar las proteínas. La comparación de árboles filogenéticos es un tema abierto y candente en la filogenia computacional para el que no se conocen en la actualidad soluciones satisfactorias, por lo que las herramientas existentes no permiten un análisis profundo de los resultados. Futuros desarrollos en el área de comparación de filogenias serán el punto de partida de posteriores investigaciones a partir de las herramientas y resultados obtenidos en este PFC. En este proyecto se trabaja con árboles filogenéticos construidos mediante proteínas, un tema novedoso en investigación por lo que se espera publicar los resultados en breve y que este proyecto sea el punto de partida de futuros estudios. Durante todo el proyecto se ha tenido que dedicar mucho tiempo a la formación en temas de índole biológica. También se ha usado gran cantidad de herramientas bioinformáticas. Se ha conseguido el objetivo de construir los árboles correspondientes a un total de 4.824 secuencias, un número considerado alto en filogenia computacional dado el gran coste computacional de los métodos empleados. Tras compararlos con los árboles de ADN disponibles se ha llegado a la conclusión que son muy distintos, hecho que puede tener varias explicaciones biológicas y que da pie a nuevas investigaciones para dar explicaciones a este suceso.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9824</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9824/files/TAZ-PFC-2012-791.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/9824/files/TAZ-PFC-2012-791_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>filogenética</dc:subject>
+    <dc:subject>árbol filogenético</dc:subject>
+    <dc:subject>proteínas</dc:subject>
+    <dc:subject>modelos evolutivos</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Estudio y análisis de métodos de inferencia filogenética: del ADN a las proteínas</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

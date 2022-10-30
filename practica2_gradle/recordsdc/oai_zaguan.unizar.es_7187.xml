@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>González Bedia, Manuel</dc:contributor>
+    <dc:contributor>Serón Arbeloa, Francisco José</dc:contributor>
+    <dc:creator>Sánchez Serrano, Carlos</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>En el presente proyecto se pretende llevar a cabo una serie de simulaciones en el contexto de los videojuegos en primera persona, que demuestre la capacidad de los sistemas multiagente a la hora de resolver problemas de exploracion y busqueda en entornos. Emplearemos tecnicas basadas en algoritmos bioinspirados, tales como el Swarming, y la organizacion en roles de nuestros agentes (bots) en sistemas distribuidos, estudiando las posibles interacciones y dependencias entre ellos. Se analizara el contexto en el que nos encontramos actualmente, el estado del arte de la inteligencia articial en el mundo de los videojuegos y las diferentes metodologas y tecnicas empleadas para la realizacion de nuestras simulaciones.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/7187</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/7187/files/TAZ-PFC-2012-211.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/7187/files/TAZ-PFC-2012-211_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>ia</dc:subject>
+    <dc:subject>swarm</dc:subject>
+    <dc:subject>multi-agent systems</dc:subject>
+    <dc:subject>videojuego</dc:subject>
+    <dc:subject>videogame</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Diseño de estrategias multiagente para el control de equipos de bots en el entorno del videojuego Unreal Tournament 2004</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

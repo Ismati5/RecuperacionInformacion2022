@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gargallo Valero, Pilar</dc:contributor>
+    <dc:contributor>Beamonte San Agustín, María Asunción</dc:contributor>
+    <dc:creator>España Morales, Maria</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>Este trabajo tiene como fin la creación de una herramienta automatizada que, teniendo en cuenta el contexto socioeconómico y las necesidades familiares, ofrezca al usuario alternativas habitacionales tales como compra, alquiler u otros contratos de tenencia intermedia. Previo al diseño de la herramienta, este estudio presenta un análisis del panorama macroeconómico del mercado inmobiliario, así como un análisis microeconómico de los factores que influyen en la fijación del precio de una vivienda desde el punto de vista de los agentes que intervienen en el proceso de compra-venta. Además, esta investigación incorpora el trabajo de campo necesario para poder confeccionar una base de datos a partir de los anuncios de viviendas en venta de tres distritos de la capital Zaragozana. La base de datos se obtiene con herramientas de data harvest. El trabajo finaliza con una propuesta de vivienda para dos perfiles distintos de personas que quieren establecer su hogar en Zaragoza.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/69508</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Estructura e Historia Económicas y Economía Pública; Área de Métodos Cuantitativos para la Economíay la Empresa</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/69508/files/TAZ-TFG-2018-238.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/69508/files/TAZ-TFG-2018-238_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Administración y Dirección de Empresas</dc:subject>
+    <dc:title>Diseño de una app web para la búsqueda de vivienda: una visión holística.</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Design of a web app for housing search: a holistic vision.</dc:title>
+</oai_dc:dc>

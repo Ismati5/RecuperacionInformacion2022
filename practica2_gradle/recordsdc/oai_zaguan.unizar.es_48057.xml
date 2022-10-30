@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sarto Marzal, José Luis</dc:contributor>
+    <dc:creator>Aznar Expósito, Elia</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>En este proyecto se explica, que es en realidad el fondo de inversión garantizado, centrándonos más en el de rendimiento variable. Esto es así porque, el fondo que aquí se crea, es una modificación de éste. El primero sigue una estrategia pasiva de compra de call. No obstante, en el segundo pretende seguir, en parte, una estrategia activa utilizando además la venta de futuros para poder realizar dos figuras financieras, como son la compra de put sintética y el cono comprado. Con esta estrategia se pretende que este fondo pueda conseguir rendimientos positivos incluso en mercados bajistas, siendo así ventajoso para el inversor, ya que mitiga o elimina uno de los inconvenientes del fondo garantizado de rendimiento variable, que en ocasiones se pudiera no percibir ningún beneficio, lo que suponía una pérdida del poder adquisitivo de ese capital invertido.    Además de explicar esas figuras financieras y cómo crear este nuevo fondo, también incluye una simulación del proceso, un modelo folleto y otro de contrato.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/48057</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/48057/files/TAZ-TFG-2015-237.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/48057/files/TAZ-TFG-2015-237_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Finanzas y Contabilidad</dc:subject>
+    <dc:title>Creación de un Fondo de Inversión Garantizado de Rendimiento Variable Parcialmente Liberalizado</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

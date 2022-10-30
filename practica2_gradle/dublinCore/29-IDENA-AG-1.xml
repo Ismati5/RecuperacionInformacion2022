@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<csw:Record xmlns:csw="http://www.opengis.net/cat/csw/2.0.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ows="http://www.opengis.net/ows" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:language>es</dc:language>
+  <dc:identifier>29-IDENA-AG-1</dc:identifier>
+  <dc:description>División de Navarra en 7 Comarcas Agrarias de Navarra (I Noroccidental, II Pirineos, III Cuenca de Pamplona, IV Tierra Estella, V Navarra Media, VI Ribera Alta-Aragón y VII Ribera Baja).</dc:description>
+  <dc:format>SHP</dc:format>
+  <dc:identifier>http://www.cfnavarra.es/agricultura</dc:identifier>
+  <dc:language>es</dc:language>
+  <dc:subject>GEOGRAFIA HUMANA.GEOGRAFIA RURAL.GEOGRAFIA AGRARIA.ESTRUCTURA AGRARIA</dc:subject>
+  <dc:subject>GEOGRAFIA HUMANA.GEOGRAFIA RURAL.GEOGRAFIA AGRARIA.ESTRUCTURA AGRARIA.MORFOLOGIA AGRARIA</dc:subject>
+  <dc:subject>GEOGRAFIA HUMANA.GEOGRAFIA POLITICA.GEOGRAFIA DE LA ADMINISTRACION.ORGANIZACION TERRITORIAL DEL ESTADO.COMARCAS</dc:subject>
+  <dc:subject>farming</dc:subject>
+  <dc:title>Comarcas agrarias</dc:title>
+  <dc:type>dataset</dc:type>
+  <dcterms:accessRights>copyright</dcterms:accessRights>
+  <dcterms:issued>2004-01-01</dcterms:issued>
+  <dcterms:license>Será necesario nombrar la fuente de procedencia de la información de la manera siguiente: "Información geográfica propiedad del Gobierno de Navarra. Departamento de Agricultura, Ganadería y Alimentación. Acceso público y gratuito: [http://idena.navarra.es]".</dcterms:license>
+  <dcterms:spatial>Navarra (Cdad. Foral de).31: Navarra</dcterms:spatial>
+  <dcterms:spatial>COUNTRIES.SPAIN</dcterms:spatial>
+  <dcterms:temporal>begin=2004-01-01; end=2004-01-01;</dcterms:temporal>
+  <ows:BoundingBox>
+    <ows:LowerCorner>-2.4493441666666698 41.758125</ows:LowerCorner>
+    <ows:UpperCorner>-0.8228166666666681 43.691875</ows:UpperCorner>
+  </ows:BoundingBox>
+</csw:Record>

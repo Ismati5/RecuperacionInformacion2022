@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ubieto Artur, Pedro</dc:contributor>
+    <dc:contributor>García Hernández, César</dc:contributor>
+    <dc:creator>Sanz Calvo, Javier</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Definición y ejecución del software informático SingCirCAD para llevar a cabo una completa identificación de las diferentes tipos de señales colocadas a día de hoy en la zona de estudio, con el objetivo de elaborar una serie de mejoras para la posterior implantación de una nueva gestión de señales para la prevención de riesgos laborales y optimizar la señalización actual del edificio. La zona objeto de estudio se encuentra situada en el Campus Rio Ebro de la Universidad de Zaragoza, más concretamente, el Edificio Betancourt. El presente estudio de señalización tiene como fin dar a conocer las bases y especificaciones técnicas para el desarrollo y el establecimiento de las medidas básicas de prevención de riesgos, dando cumplimiento a las normas nacionales e internacionales existentes al respecto, para facilitar la identificación de áreas o zonas de riesgo, contribuyendo de esta manera a la prevención de accidentes en las diferentes zonas de trabajo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6423</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Expresión Gráfica de la Ingeniería</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6423/files/TAZ-PFC-2011-580.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6423/files/TAZ-PFC-2011-580_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Estudio de señalización del Edificio Betancourt</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

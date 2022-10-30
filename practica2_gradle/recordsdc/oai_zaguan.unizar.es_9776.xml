@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Santolaya Sáenz, José Luis</dc:contributor>
+    <dc:creator>Casanova Sánchez, Germán</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El objeto de este trabajo ha sido el análisis detallado del funcionamiento de un freno delantero de motocicleta, el diseño y modelado de un sistema de freno con mando radial para motocicletas de gran cilindrada y la elaboración de un completo manual de instrucciones para realizar operaciones de montaje, reparación y sustitución. Para ello, se han estudiado diferentes tipos de freno, sus características y su modo de operación en motocicletas y se ha revisado la correspondiente normativa aplicada a sistemas de frenado. Utilizando como referencia una motocicleta de alta cilindrada y teniendo en cuenta la dinámica básica en frenada, se ha realizado el modelado 3D y cálculo de un sistema de freno delantero. En la optimización del sistema se tan tenido en cuenta aspectos como la integración en el vehículo, la adecuada adaptación al piloto y la reparación o sustitución de componentes. Este sistema está formado por dos partes esenciales: el sistema de mando situado en el manillar y accionado por el piloto con su mano derecha y el sistema de actuación, montado en la rueda delantera para ejercer finalmente la fuerza de frenado.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9776</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Expresión Gráfica de la Ingeniería</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9776/files/TAZ-PFC-2012-758.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/9776/files/TAZ-PFC-2012-758_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>sistema de freno</dc:subject>
+    <dc:subject>motocicleta</dc:subject>
+    <dc:subject>diseño</dc:subject>
+    <dc:subject>montaje</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Operación, diseño y montaje de un sistema de freno para motocicletas</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

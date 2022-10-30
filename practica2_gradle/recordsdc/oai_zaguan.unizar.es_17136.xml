@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Andaluz Funcia, Joaquín</dc:contributor>
+    <dc:contributor>Jarne Jarne, Gloria</dc:contributor>
+    <dc:creator>Crespo Estage, Daniel</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El modelo de Hotelling es el paradigma en el estudio de la competencia espacial. Con el desarrollo de la teoría de diferenciación horizontal del producto se extiende a otras vertientes de la microeconómia convirtiéndose en un referente. En la literatura reciente se aborda el análisis dinámico del equilibrio en mercados duopolísticos. Siguiendo esta línea, en  este trabajo se desarrolla el modelo de Hotelling con costes cuadráticos en un contexto dinámico atendiendo a diferentes formulaciones de las expectativas, en concreto expectativas con racionalidad limitada, expectativas adaptativas y expectativas heterogéneas. La variedad de resultados encontrados abarca casos como estabilidad asintótica del equilibrio, inestabilidad e incluso dinámica compleja. Se concluye que el principio de máxima diferenciación es compatible con la estabilidad del equilibrio de Nash, siempre que la velocidad de ajuste de las empresas sea lo suficientemente baja. Con el objeto de ilustrar el comportamiento del modelo son presentadas una serie de simulaciones, atendiendo al caso en el que nos encontremos, las cuales permiten comprender la evolución temporal de las variables.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/17136</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Análisis Económico; Área de Fundamentos del Análisis Económico</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/17136/files/TAZ-TFG-2014-2317.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>hotelling</dc:subject>
+    <dc:subject>diferenciación del producto</dc:subject>
+    <dc:subject>dinámicata</dc:subject>
+    <dc:subject>estabilidad asintótica del equilibrio de nash</dc:subject>
+    <dc:subject>Graduado en Economía</dc:subject>
+    <dc:title>Dinámica en el modelo de Hotelling con costes cuadráticos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

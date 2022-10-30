@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Haas, Franz</dc:contributor>
+    <dc:contributor>Royo Vázquez, Emilio Julián</dc:contributor>
+    <dc:creator>Calejero Martínez, Juan</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>In the following thesis a benchmark for CAD/CAM systems in the area of tool making is explained. This benchmark is adapted to the specific requirements existing in a hot-forging company located in the region of Styria (Austria). The mid-sized company demands an improvement of the current software situation to enhance the efficiency of the CAD/CAM processes and its landscape towards future digitalization processes. Due to the broad spectrum of CAD/CAM software systems existing in today’s market, it might be challenging to choose one software system that really fits to the requirements. In order to solve this situation, a benchmark is done. Out of this benchmark, two CAD/CAM software systems were considered as future potential alternatives based on the requirements existing at the company. Then, a decision-making procedure made of five different scenarios and based on certain criteria is proposed. These five different scenarios are the combination of the current software systems existing at the Styrian forging company and the alternative software systems.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/84884</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/84884/files/TAZ-TFM-2019-051.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Industrial</dc:subject>
+    <dc:title>System benchmark of CAD-CAM in the area of tool making</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">System benchmark of CAD-CAM in the area of tool making</dc:title>
+</oai_dc:dc>

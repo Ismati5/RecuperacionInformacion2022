@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Oliveros Colay, María José</dc:contributor>
+    <dc:creator>Bentué Lalueza, Inés</dc:creator>
+    <dc:date>2020</dc:date>
+    <dc:description>En la actualidad, cada vez hay más mercados y  los clientes son complicados de satisfacer, los ciclos de vida de los productos son más y más cortos, por lo que las empresas están siempre están en un continuo cambio para poder satisfacer a los clientes. Por eso, es muy importante la integración de la colaboración dentro de las cadenas de suministro.&lt;br /&gt;Este  trabajo se estructura  en tres partes, la primera una parte de investigación y búsqueda de diferentes artículos y trabajos para poder abordar el tema de la colaboración entre los agentes de la CdS. Donde se definen de forma general los posibles agentes que intervienen en la cadena, así como las diferentes formas y grados de colaboración.&lt;br /&gt;Posteriormente una segunda parte centrada en el diseño de la cadena, se definirá la estructura general, en forma de bloques, es decir, cada bloque representará a los agentes tradicionales, pero sin indicar cuantos agentes forman la cadena, tras plasmar la cadena general se pasará a definir tanto el flujo de materiales como el de información. Una vez esté todo bien definido, se plantearán cuatro posibles casos de estructuras, con un número limitado de agentes y referencias.&lt;br /&gt;Y en la última parte, nos encontraremos con el diseño del modelo conceptual, se explicará cuales son los datos de entrada, el comportamiento de los agentes, el grado de colaboración entre ellos, los escenarios a plantear para evaluar el modelo de simulación en WITNESS, la forma de conectar los agentes, ese flujo de información y materiales . Finalmente pasaremos a la construcción del modelo en WITNESS.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/90131</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/90131/files/TAZ-TFG-2020-024.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Estudio, modelización y simulación de diferentes estructuras de cadena de suministro</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Study, modeling and simulation of different supply chain structures</dc:title>
+</oai_dc:dc>

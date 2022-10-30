@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Calvo Calzada, Elena</dc:contributor>
+    <dc:creator>Arana Iturralde, Marta</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>El sector del aceite de oliva es uno de los más importantes de España, porque es su principal productor y uno de sus principales consumidores. Este aceite se puede utilizar en la industria pero su consumo más importante se realiza en los hogares. En este trabajo se ha analizado el sector del aceite de oliva en el periodo 2004-2015, se ha evaluado su forma de consumo y comercialización y mediante un modelo predictivo se ha analizado el carácter complementario o sustitutivo de otros aceites, y se han evaluado los efectos de la crisis en el consumo de aceite de oliva. Se ha construido un modelo de Cobb-Douglas capaz de predecir el consumo de aceite en el primer trimestre de 2015 con un error del 8,9%. De los resultado del análisis econométrico se ha concluido que existen relaciones significativas entre el consumo del aceite de oliva y su precio y el consumo final, que no existen aparentemente productos complementario ni sustitutivos del aceite de oliva aunque en tiempos de crisis algunos consumidores podrían haber sustituido el aceite de oliva por el de orujo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/56540</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Análisis Económico</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/56540/files/TAZ-TFG-2016-2425.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Administración y Dirección de Empresas</dc:subject>
+    <dc:title>Análisis Econométrico de la demanda de Aceite de Oliva en España (2004-2015)</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">The econometric analysis demand of olive oil in Spain (2004-2015)</dc:title>
+</oai_dc:dc>

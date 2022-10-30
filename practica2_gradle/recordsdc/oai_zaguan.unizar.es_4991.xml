@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sola Zuñiga, Íñigo</dc:contributor>
+    <dc:creator>Salcedo Robles, Óscar</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>El presente documento titulado “Estudio y diseño de infraestructura virtualizada distribuida para el soporte de una arquitectura basada en Cloud Computing” recoge el trabajo realizado por el autor como Proyecto Final de Carrera en el periodo comprendido entre julio de 2009 y agosto de 2010 en el programa de becas de la empresa Consultoría y Comunicaciones. En dicho periodo se contempla también el tiempo empleado en el estudio previo y que igualmente se recoge aquí. Se mostrará la manera en que ha sido entendido el paradigma Cloud Computing y cómo se ha acomodado éste a una situación concreta: la modernización de la infraestructura que soporta la labor empresarial de CyC. Se introducirán conceptos como virtualización, hipervisor o red de almacenamiento relacionados con infraestructuras de comunicaciones que serán debidamente explicados en el texto principal y ampliados y desarrollados en los diferentes anexos. Se validará todo lo expuesto con la realización de un piloto que cubra los principales campos de la solución dada y se intentará, en la medida de lo posible, dar nociones de otros aspectos que, si bien se encuentran enmarcados dentro del despliegue de una infraestructura genérica, van más allá de los objetivos de este estudio. El funcionamiento interno, el análisis pormenorizado de la infraestructura, así como otros aspectos confidenciales a juicio de CyC no podrán ser incluidos en este documento, sin que ello resulte impedimento para la comprensión de los objetivos, desarrollo y resultados del proyecto al que se refiere esta memoria.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4991</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingenieria Telematica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4991/files/TAZ-PFC-2010-159.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/4991/files/TAZ-PFC-2010-159_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Virtualización</dc:subject>
+    <dc:subject>Infraestructura distribuida</dc:subject>
+    <dc:subject>Cloud Computing</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicaciones</dc:subject>
+    <dc:title>Estudio y diseño de infraestructura virtualizada distribuida para el soporte de una arquitectura basada en Cloud Computing</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

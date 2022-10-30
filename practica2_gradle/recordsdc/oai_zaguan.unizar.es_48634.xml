@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mena Nieto, Eduardo</dc:contributor>
+    <dc:creator>Arellano Vicente, Víctor</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>Un nuevo género de videojuegos basados en cubos e inspirados en el famoso título Minecraft (Mojang AB, 2009) está irrumpiendo en el mercado, creciendo rápidamente en popularidad. No obstante, no existen aún motores gráficos open-source populares especializados en este género. Además, los motores gráficos tradicionales no son capaces de explotar suficientemente las características que un mundo dividido en cubos ofrece, y no permiten desarrollar este tipo de videojuegos con facilidad. Por esta razón, los títulos de este género están forzados a implementar su propio motor gráfico cuyo desarrollo es, dado el amplio coste en tiempo y recursos que la creación de un motor gráfico complejo conlleva, relevado  a un segundo plano en la mayor parte de los casos. Esto causa un estándar de calidad gráfica en este género realmente bajo, muy por debajo del estándar de industria actual. En este proyecto se implementa, usando tan solo Java y OpenGL, desde cero y en código abierto, un motor gráfico orientado a cubos con la calidad gráfica y la eficiencia como máximas prioridades. Sobre el mismo se ha desarrollado, asimismo, un videojuego basado en la exploración y creación de estructuras, con todas las características que un título de este género posee.  Es nuestra intención que, dada la naturaleza de código abierto de este título, cualquier programador interesado en este género pueda basarse en este proyecto para resolver sus dudas, obtener partes de código para implementar funcionalidades que necesite o, incluso, extender fácilmente este proyecto a un prototipo de mayor jugabilidad, centrándose únicamente en el desarrollo del mismo y despreocupándose del motor básico, ya implementado.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/48634</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/48634/files/TAZ-TFG-2016-439.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>Kubex, desarrollo de un motor gráfico 3D basado en cubos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

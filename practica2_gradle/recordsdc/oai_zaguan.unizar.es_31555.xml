@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Acero Acero, Jesús</dc:contributor>
+    <dc:creator>Marcos Otal, Diego</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Hoy en día la sociedad es consciente de que los hábitos alimenticios tienen un efecto directo en la salud y es importante que la comida sea de buena calidad, a las horas apropiadas y en las cantidades adecuadas. Sin embargo, en la sociedad el problema del exceso de peso está incrementando y esta tendencia parece no tener final, siendo el 25% de la población mundial obesa. Este problema no sólo afecta a las personas, ya que en el caso de los animales los datos son incluso más preocupantes, pues el porcentaje alcanza el 50%. Como solución para este problema se ha diseñado y construido un sistema para alimentar a un perro de manera adecuada dependiendo del tamaño y la raza de la mascota. Además, el dueño no tiene que estar preocupado por estar en casa para alimentarlo o dejarle una gran cantidad de comida que el perro se come de una sola vez. Se ha diseñado un sistema automático de alimentación para perros haciendo una investigación y analizando los requerimientos del cliente para el alimentador a través de encuestas a propietarios y tiendas especializadas. Además, se han investigado las necesidades de los perros, focalizando los tamaños y razas para los cuales el sistema estaba dirigido. Posteriormente, se generaron múltiples ideas y se evaluaron las ventajas e inconvenientes de cada una. Se diseñaron las partes mecánicas y electrónicas de manera teórica basadas en cálculos y subsiguientemente se simularon. Un prototipo con el mismo concepto que el diseño teórico fue construido para entender el principio de funcionamiento de este sistema haciendo las modificaciones apropiadas a lo largo de su desarrollo. El prototipo fue comprobado y ensayado con comida real.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31555</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31555/files/TAZ-PFC-2014-636.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>solidworks</dc:subject>
+    <dc:subject>arduino</dc:subject>
+    <dc:subject>alimentador de perros</dc:subject>
+    <dc:subject>prototipo</dc:subject>
+    <dc:subject>soldadura tig</dc:subject>
+    <dc:subject>microrruptor</dc:subject>
+    <dc:subject>necesidades de perros</dc:subject>
+    <dc:subject>lanzamiento</dc:subject>
+    <dc:subject>diseño</dc:subject>
+    <dc:subject>construcción</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Desarrollo de un sistema de bajo costo para la alimentación de un perro</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

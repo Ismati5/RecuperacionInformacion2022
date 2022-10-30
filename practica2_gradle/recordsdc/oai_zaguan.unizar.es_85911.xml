@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mahulea, Cristian</dc:contributor>
+    <dc:contributor>Montijano Muñoz, Eduardo</dc:contributor>
+    <dc:creator>Saury Echagüe, Mathias Ricardo</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>En la actualidad, uno de los problemas que se está abordando en la robótica es dar mayor autonomía a los robots móviles, entendiendo como autonomía el proceso de poder interactuar con el entorno para poder realizar acciones que le permitan ejecutar su tarea.  La cuestión que se abordará se basa en un problema de planificación de trayectorias en entornos desconocidos, donde un conjunto de robots en unas respectivas posiciones iniciales deberán encontrar el camino para llegar a distintos destinos finales.  El objetivo de este trabajo de fin de grado, consiste en evaluar un algoritmo basado en aprendizaje por refuerzo junto con algoritmos de consenso distribuido para implementar un sistema multi-robot que permita conseguir este fin. El algoritmo empleado para su resolución es Dyna-Q, el cual se estudia primero para el caso de un solo robot, para después extenderlo al caso multi-robot. En este último caso, se desarrollan y analizan distintos protocolos de comunicación que ayuden a la consecución del objetivo. Se han realizado simulaciones para evaluar el comportamiento de los robots con los distintos protocolos, examinando además cómo actúan con un número distinto de robots y de tamaños de entorno.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/85911</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/85911/files/TAZ-TFG-2019-085.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Planificación de trayectorias de sistemas multi-robot en entornos desconocidos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Path planning in unknown environments in multi-robot systems</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Blesa Moreno, Fernando</dc:contributor>
+    <dc:contributor>Torcal Milla, Francisco José</dc:contributor>
+    <dc:creator>Andaluz Arbe, Jorge</dc:creator>
+    <dc:date>2020</dc:date>
+    <dc:description>Según el MAPA (2019), España es el principal país europeo productor de frutas y hortalizas y el primer exportador. Dentro de los países europeos que más manzanas producen, España se sitúa en sexto lugar. Las frutas más consumidas en España son los cítricos, las exóticas y las de pepita, como es el caso de la manzana, siendo la variedad Golden Delicious la más consumida. &lt;br /&gt;La manzana debe ser sometida a ciertos procedimientos para determinar su calidad, un aspecto actualmente demandado por el consumidor. Como índices de calidad se encuentran el peso, la forma, el color, la dureza o firmeza y los Sólidos Solubles Totales (SST). La metodología actual para determinar la firmeza y los SST se caracteriza por emplear equipos como el penetrómetro y el refractómetro, respectivamente. Debido a que se tratan de métodos destructivos es imposible aplicarlos a todas las unidades en una industria. Por este motivo, se están buscando otras alternativas a dichos métodos como son la espectroscopía del infrarrojo cercano (NIRS) y el Análisis de Imágenes Multiespectrales.&lt;br /&gt;Con este trabajo se pretende comparar los resultados obtenidos con el penetrómetro y el refractómetro con los obtenidos por un método alternativo. Para ello, se aplicará espectroscopía con haz láser de dos longitudes de onda (670 nm y 785 nm) para la determinación de la firmeza y los SST de las manzanas analizadas y, posteriormente, se analizará la correlación de dichos parámetros con los medidos por métodos convencionales. Las manzanas empleadas en este estudio pertenecen a las variedades Golden Delicious, Fuji y Kanzi.&lt;br /&gt;Las manzanas pertenecientes a variedades amarillas, como Golden Delicious, mostraron una mayor correlación entre los métodos invasivos y no invasivos respecto a la firmeza, mientras que Fuji y Kanzi, cuya piel es de color rojo, mostraron una correlación mayor en relación al contenido en SST.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/94798</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Aplicada; Área de Física Aplicada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/94798/files/TAZ-TFG-2020-999.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ciencia y Tecnología de los Alimentos</dc:subject>
+    <dc:title>Medida y correlación de la firmeza de manzanas realizada por métodos ópticos y mecánicos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Measurement and correlation of apple firmness done by optical and mechanical methods</dc:title>
+</oai_dc:dc>

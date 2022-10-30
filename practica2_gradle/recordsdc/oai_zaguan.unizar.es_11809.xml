@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Romeo Tello, Antonio</dc:contributor>
+    <dc:creator>Martín  Blázquez, Inmaculada</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>A partir de una simulación para MATLAB incluida en la versión 9.7 de la Robotic Toolbox de Peter Corke, se ha procedido a realizar una caracterización empírica del modelo del sistema así como de realizar un control de trayectoria para éste. Además, se ha procedido a programar un generador de trayectorias y una interfaz gráfica para un uso mas amigable de la simulación para un posible usuario.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/11809</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/11809/files/TAZ-PFC-2013-397_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/11809/files/TAZ-PFC-2013-397.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>robótica</dc:subject>
+    <dc:subject>simulación</dc:subject>
+    <dc:subject>software de control</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electrónica Industrial)</dc:subject>
+    <dc:title>Caracterización empírica y diseño del sistema de control de trayectoria de un quadrotor mediante simulación</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Fillat Castejón, Maria F. </dc:contributor>
+    <dc:contributor>González Rodríguez, Andrés</dc:contributor>
+    <dc:creator>Guerrero Perales, Claudia</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>El control de la homeostasis del hierro es indispensable para evitar daños celulares. Para ello, gran parte de los procariotas poseen las proteínas Fur (Ferric uptake regulator). Fur es una proteína que actúa como regulador de la transcripción de genes implicados en el metabolismo del hierro. El parálogo de Fur en Anabaena sp. PCC 7120 es FurA. Recientemente, se ha descrito que FurA, además de ejercer su función reguladora presenta actividad disulfuro reductasa. En esta actividad se encuentran implicados sus motivos redox C101VKC104 y C141PKC144. Este resultado podría indicar la interacción de FurA con otras proteínas de la célula en reacciones redox. En este trabajo se llevó a cabo el clonaje y expresión de las tiorredoxinas TrxA y All2341 recombinantes de Anabaena sp. PCC 7120 en Escherichia coli y su purificación mediante cromatografía de afinidad, con el objetivo de estudiar su potencial interacción con FurA y otras proteínas de la familia FUR. Los resultados mostraron que no existe una interacción directa entre las tiorredoxinas TrxA y All2341 y las proteínas de la familia FUR. Sin embargo, la presencia de TrxA parece favorecer la estabilidad de los dímeros de las proteínas de la familia FUR. Además, en esta estabilización podrían estar implicados los residuos de cisteína C104 y C144 que se encuentran presentes en los motivos redox de FurA.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/77872</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Bioquímica y Biología Molecular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/77872/files/TAZ-TFG-2018-2097.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Biotecnología</dc:subject>
+    <dc:title>Obtención de un sistema redox de interés biotenológico: clonaje, expresión y purificación de dos tiorredoxinas bacterianas</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Preparation of a redox system of biotechnological interest: cloning, expression and purification of two bacterial thioredoxins</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Civera Sancho, Javier</dc:contributor>
+    <dc:creator>Tirado Garín, Javier</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>La calibración de una cámara consiste en la caracterización de cómo la realidad 3D se proyecta en el plano imagen 2D, siendo de gran importancia para sistemas de reconstrucción 3D. El procedimiento habitual de calibración consiste en la captura de varias imágenes de un patrón de geometría conocida, desde distintos puntos de vista. La precisión de la calibración está muy relacionada con dichas vistas; y sin embargo, la literatura acerca de la relación entre ambas es escasa y los pocos métodos existentes son secuenciales: A partir de una calibración predicen cuál es la siguiente vista a tomar para minimizar el error. En la literatura no existen resultados teóricos ni análisis acerca del problema general, no secuencial, de cuáles son las mejores vistas para calibrar una cámara.&lt;br /&gt;    &lt;br /&gt;    El objetivo de este TFG es establecer, mediante análisis teórico y con simulación, una forma general de ubicar los patrones de calibración sin conocimiento previo de otras imágenes. Dicho de otra forma, encontrar unas posiciones y orientaciones de cámara que aseguren un error de calibración bajo. Además, se desarrollará una herramienta interactiva para ayudar a la colocación relativa entre patrón y cámara que asegura dicho error bajo. &lt;br /&gt;    &lt;br /&gt;    Para ello se estudia la relación entre la posición y la orientación de la cámara que capturó las imágenes del patrón con el error o incertidumbre en la estimación de los parámetros del modelo. Nuestros resultados experimentales han mostrado mejoras con respecto al estado del arte en simulación e imágenes reales. En concreto, nuestro método tiene errores de calibración menores o comparables al estado del arte, con un coste significativamente menor.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/85000</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/85000/files/TAZ-TFG-2019-3461.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>¿Cómo debemos posicionar la cámara en el proceso de calibración para reducir el error?</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">How we should position the camera during the calibration process to reduce the error?</dc:title>
+</oai_dc:dc>

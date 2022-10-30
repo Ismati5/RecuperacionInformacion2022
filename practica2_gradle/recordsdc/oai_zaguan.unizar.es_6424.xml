@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ubieto Artur, Pedro</dc:contributor>
+    <dc:contributor>García Hernández, César</dc:contributor>
+    <dc:creator>Gracia Pérez, Alejandro</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>En este proyecto se presenta un sistema de seguridad que pretende proteger a las personas y bienes materiales existentes en la implantación donde está instalado. Esta protección se conseguirá mediante un circuito cerrado de televisión (CCTV), compuesto por domos y cámaras, tanto analógicas como IP, tanto en el exterior del perímetro como en el interior del edificio. EL proyecto se centra en la parte de cámaras de un CCTV, no haciendo tanto hincapié, en lo que se refiere a servidores de video, centro de monitoreo, instalación eléctrica de cableado para las diferentes cámaras, así como tampoco la implementación de alarmas y subsistema de anti-intrusión...etc., aunque a lo largo del mismo sí se explica detalladamente cada parte de que trata para entender el funcionamiento de cada uno de los factores. En los diferentes capítulos se hablará sobre los principales componentes del sistema de seguridad desarrollado. Se tratarán los principios básicos del Vídeo a través de la red IP, configuraciones, cámaras, servidores de vídeo, etc. Y se abordará el sistema desarrollado a través del programa SignCirCAD, que será el medio para implementar el sistema de seguridad que vamos a llevar a cabo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6424</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Expresión Gráfica de la Ingeniería</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6424/files/TAZ-PFC-2011-581.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6424/files/TAZ-PFC-2011-581_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Estudio CCTV del Edificio Betancourt</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

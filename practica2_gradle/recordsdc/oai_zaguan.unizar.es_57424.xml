@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>González-Hidalgo, J. Carlos</dc:contributor>
+    <dc:creator>Martínez Urra, Asier</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>En el presente estudio se analiza la evolución y el comportamiento que han tenido las temperaturas promedio estacionales durante el periodo 1951-2010 en la España peninsular en función de la altitud. Para ello han sido seleccionados diferentes rangos altitudinales (&lt;400 m, 400-1000 m y &gt;1000 m), representativos de los grandes paisajes peninsulares de costa, interior y montaña. La investigación se ha realizado empleando la base de datos de temperaturas medias mensuales de máximas y mínimas de la parte continental española denominada MOTEDAS (MOnthly TEmperature DAtaSet) y se ha enfocado a analizar si han existido diferencias estacionales en función de la altitud en las tendencias de las temperaturas máximas (Tmax) y mínimas (Tmin). El análisis de tendencias se ha realizado empleando ventanas móviles de diferente longitud (30 años, 25 años y 20 años); la significación de la tendencia se ha analizado por medio del test de Mann-Kendal, y la tasa mediante el estimador de pendiente de Sen. Los resultados sugieren que la tasa de calentamiento en la España peninsular alcanzó un máximo la década de 1970, seguido de una disminución en la intensidad, tanto en Tmax y Tmin hasta el presente en todos los rangos altitudinales. Por otra parte, la disminución de la tasa de calentamiento en Tmax ha sido mayor que en Tmin en las últimas décadas, por lo tanto el calentamiento anual más reciente parece depender más de las temperaturas nocturnas (Tmin) que diurnas (Tmax). El estudio detecta algunas diferencias entre estaciones y, durante las últimas décadas, las tasas más altas de calentamiento se encuentran en la primavera y el verano, con Tmax y Tmin comportándose de diferentes maneras en cada rango altitudinal. Por último el presente este estudio pone de relieve cómo la tasa de calentamiento depende en gran medida de la duración del período analizado.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/57424</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/57424/files/TAZ-TFG-2016-726.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Geografía y Ordenación del Territorio</dc:subject>
+    <dc:title>Análisis de la variabilidad de las tendencias de la temperatura en España por rangos altitudinales (1951-2010)</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Variability analysis of temperature trends in Spain by altitudinal ranges (1951-2010)</dc:title>
+</oai_dc:dc>

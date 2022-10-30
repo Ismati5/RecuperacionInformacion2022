@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Larrodé Pellicer, Emilio</dc:contributor>
+    <dc:creator>Nuño Esteban, Samuel</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>En el trabajo se analiza un sistema de transporte intermodal de mercancías ligeras donde se combina el transporte ferroviario con vehículos eléctricos como transporte de distribución urbana. Se realiza un análisis previo desde un punto de vista técnico, para comprobar si el caso propuesto puede ser implementado y las condiciones asociadas que conlleva. Posteriormente se realiza un análisis en la última milla desde un punto de vista operativo y económico, donde se garantiza dar un servicio y se analiza las distintas combinaciones de vehículos eléctricos que pueden realizar el servicio. Para obtener la combinación de vehículos óptima que satisface el servicio y genera un menor coste, se utiliza una ecuación de coste que es función del uso de los vehículos, el consumo de estos y del coste asociado a los recursos humanos que realizan el servicio con los vehículos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/78616</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería e Infraestructura de los Transportes</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/78616/files/TAZ-TFG-2018-4480.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Diseño y análisis de un modelo intermodal de transporte de mercancía ligera combinando ferrocarril y vehículo urbano (RailCarPack)</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Design and analysis of an intermodal transport model of light freight combining railway and urban vehicle (RailCarPack)</dc:title>
+</oai_dc:dc>

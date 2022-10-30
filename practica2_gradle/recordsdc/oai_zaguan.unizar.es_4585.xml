@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mur Buil, Francisco</dc:contributor>
+    <dc:contributor>Martínez Sánchez, Ángel</dc:contributor>
+    <dc:creator>Sánchez Estevan, Diego</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>Con el objetivo de mejorar y modernizar la gestión del almacén de TUZSA, se ha planteado un análisis de los métodos actuales de gestión que dé lugar a la implantación de un nuevo sistema de codificación de materiales, una reorganización física del almacén y un recálculo de los parámetros de gestión utilizados, como el stock de seguridad y el punto de pedido de cada material. El nuevo sistema de codificación resulta de la inclusión de TUZSA en el grupo AVANZA, que integra a varias empresas dedicadas al transporte de viajeros por carretera. Dado que en cada una de estas empresas se utiliza una forma distinta de codificar los materiales o repuestos utilizados, el grupo no tiene control del volumen de compras de los distintos productos empleados por cada explotación. Para poder optimizar ese proceso y negociar de forma conjunta el proceso de compra, se ha establecido un código común para todas las empresas del grupo. Además, debido a la obsolescencia encontrada en los métodos de localización y manutención de piezas, se plantea reformar el sistema de gestión actual, recalculando los parámetros de gestión empleados y reorganizando la disposición física del almacén de TUZSA. Como último paso, para dotar de una mayor agilidad a los procesos de recepción, colocación y entrega de piezas, así como a los inventarios de almacén o a cualquier otro proceso que se realice habitualmente, además de reducir el número de errores y el volumen de papel empleado, se ha diseñado un sistema de gestión por código de barras que sea intuitivo, ágil y que esté integrado en el software de gestión actualmente empleado.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4585</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Dirección y Organización de Empresas; Área de Organización de Empresas</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4585/files/TAZ-PFC-2010-019.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/4585/files/TAZ-PFC-2010-019_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>logística</dc:subject>
+    <dc:subject>almacén</dc:subject>
+    <dc:subject>punto de pedido</dc:subject>
+    <dc:subject>stock de seguridad</dc:subject>
+    <dc:subject>clasificación ABC</dc:subject>
+    <dc:subject>códigos de barras</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Diseño e implementación de un sistema de codificación y gestión de almacenes en la empresa Transportes Urbanos de Zaragoza S.A.U.</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

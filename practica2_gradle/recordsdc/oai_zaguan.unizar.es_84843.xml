@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Martínez Montiel, José María</dc:contributor>
+    <dc:contributor>Lamarca Peiro, José</dc:contributor>
+    <dc:creator>Morlana Ledesma, Javier</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>En este proyecto se ha adaptado y evaluado un sistema de VSLAM (Simultaneous Location and Mapping with Visual sensor) deformable monocular para el procesamiento de escenas médicas. El objetivo es implementar un algoritmo que procese secuencias médicas, obteniendo un modelo 3D deformable de la escena, así como la posición relativa de la cámara respecto del modelo. &lt;br /&gt;Para construir el software se modifica el algoritmo DefSLAM, un sistema VSLAM deformable monocular en etapa de desarrollo y que ha sido probado en una tela que se deforma. Se modifica y sintoniza para que pueda procesar secuencias médicas donde hay deformación.&lt;br /&gt;Para ello se realiza una primera sintonía, de manera que se tenga el sistema en funcionamiento en escenas médicas. Se define una métrica propia para evaluar la calidad de la geometría estimada, por medio de la estimación estéreo de la superficie, calculada en cada imagen de la secuencia.&lt;br /&gt;El sistema presenta algunas limitaciones que serán resueltas. Para reducir la deriva de escala, se propone modificar la política de inserción de keyframes. Para gestionar las oclusiones y reflejos que se puedan dar, se propone por un lado, incluir un prior de movimiento suave para la cámara, y por otro, la generación de unas máscaras que detecten las regiones ocluidas o que contengan reflejos, y eliminar los puntos detectados en ellas.&lt;br /&gt;El sistema ha sido validado experimentalmente y es capaz de procesar las secuencias médicas seleccionadas, estimando las deformaciones.&lt;br /&gt;La implementación se ha hecho en C++ y está disponible en un repositorio privado de GitHub.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/84843</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/84843/files/TAZ-TFM-2019-354.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Industrial</dc:subject>
+    <dc:title>Evaluación y procesamiento de escenas médicas con sistema VSLAM no rígido</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Evaluation and processing of medical scenes with non-rigid VSLAM system</dc:title>
+</oai_dc:dc>

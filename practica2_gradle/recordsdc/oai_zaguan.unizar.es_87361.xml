@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Larrodé Pellicer, Emilio</dc:contributor>
+    <dc:contributor>Polanco González, Ernesto</dc:contributor>
+    <dc:creator>Pérez Vázquez, Álvaro</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>El objetivo del trabajo es el desarrollo de una metodología que permita crear herramientas de&lt;br /&gt;cálculo para el estudio de los tiempos en los procesos de handling aeroportuario y a partir de&lt;br /&gt;aquí investigar las nuevas tecnologías que incrementen la productividad de dichos procesos.&lt;br /&gt;En primer lugar, se ha definido paso a paso el proceso de carga de una aeronave en función de&lt;br /&gt;los productos que se transportan, haciendo hincapié en dos canales logísticos concretos, como&lt;br /&gt;son, el de la exportación de producto textil y el de la importación de pescado. Se ha&lt;br /&gt;desarrollado una metodología que consiste en realizar una serie de suposiciones teóricas sobre&lt;br /&gt;estos procesos y a partir de datos obtenidos de forma experimental, proceder a la creación de&lt;br /&gt;herramientas que sean capaces de calcular los tiempos de carga de las aeronaves.&lt;br /&gt;Estas herramientas de cálculo han permitido visualizar como afecta a los tiempos de carga en&lt;br /&gt;los canales logísticos citados con anterioridad, la distinta repartición de operarios en las tareas&lt;br /&gt;a realizar, también se han cuantificado las reducciones de tiempos que pueden conseguirse si&lt;br /&gt;se aplican una serie de mejoras, seleccionando aquellas más interesantes. Se ha estudiado el&lt;br /&gt;impacto de las distintas mejoras tanto a nivel puramente operativo, como a nivel económico.&lt;br /&gt;Para finalizar, se ha realizado una reflexión sobre la conveniencia de implementar unas&lt;br /&gt;mejoras concretas en función de su rentabilidad tanto a corto como a largo plazo teniendo en&lt;br /&gt;cuenta las previsiones de desarrollo que existen para el Aeropuerto de Zaragoza.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87361</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería e Infraestructura de los Transportes</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87361/files/TAZ-TFG-2019-4411.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Análisis de las operaciones en la carga aérea. Estudio de tecnologías avanzadas y nuevos procedimientos operativos, y su implantación</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Analysis of air cargo operations. Study of advanced tehcnologies and new operating procedures, an their implementation</dc:title>
+</oai_dc:dc>

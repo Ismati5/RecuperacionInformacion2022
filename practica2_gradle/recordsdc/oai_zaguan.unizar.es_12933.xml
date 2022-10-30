@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Monne Bailo, Carlos</dc:contributor>
+    <dc:creator>Flecha Lescún, Julio</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Tras estudiar los componentes artísticos de la Catedral se proyecta un modelo tridimensional, a partir de los planos, para obtener las dimensiones de áreas tanto de cerramientos como de vidrieras.  Se calculan los coeficientes globales de transmisión de calor y se comienza con el dimensionado de la instalación de baja y alta temperatura.  La instalación de baja temperatura, alimentada por tres calderas de condensación que se nutren de gas natural, está formada por suelo radiante y un sistema de radiadores que se colocarán en los bancos de la planta y capillas del templo. La instalación de alta temperatura, sin embargo, utiliza una única caldera de biomasa y está formada por elementos emisores que se colocan a la altura del suelo, con el objetivo de que toda la instalación quede perfectamente integrada.  Se realiza un estudio sobre el número de colectores que se deberían instalar en el tejado del Palacio Arzobispal, situado en la misma plaza donde se levanta la fábrica, para cubrir aproximadamente un 25% de la demanda de la instalación de baja temperatura.  Por útlimo, se hace un breve análisis de la evolución de las temperaturas en el interior del templo con la solución propuesta.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12933</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12933/files/TAZ-PFC-2013-696.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/12933/files/TAZ-PFC-2013-696_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>calefacción en catedrales</dc:subject>
+    <dc:subject>suelo radiante</dc:subject>
+    <dc:subject>biomasa</dc:subject>
+    <dc:subject>gas natural</dc:subject>
+    <dc:subject>colectores solares</dc:subject>
+    <dc:subject>simulación de transferencia de calor</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Instalación de un sistema de climatización para la Catedral de León</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

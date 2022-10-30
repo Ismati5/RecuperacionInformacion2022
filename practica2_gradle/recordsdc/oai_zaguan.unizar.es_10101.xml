@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Lara Doñate, Yolanda</dc:contributor>
+    <dc:contributor>Romeo Giménez, Luis Miguel</dc:contributor>
+    <dc:creator>Viscor Zárate, Ana</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>La reacción reversible entre el CaO y el CO2 se presenta como un proceso prometedor en la captura de CO2 emitido en centrales termoeléctricas y en plantas industriales. Haciendo uso de un sistema de carbonatación-calcinación se genera una corriente pura de CO2, que será comprimida e inyectada en los estratos geológicos. Sin embargo, la adopción de tal sistema de captura supone una importante penalización energética, tanto térmica (necesidad de combustible en el calcinador) como eléctrica (compresión de CO2 y producción de O2 para la oxi-combustión). En el presente proyecto se estudia la utilización de este sistema de captura en una planta productora de papel basada en el proceso de Kraft en el que las fibras de celulosa son liberadas en un proceso de cocción, al disolverlas a altas temperaturas en una solución química de NaOH y Na2S (licor blanco).  Con este fin, se realiza un modelo de fábrica de papel, definiendo el consumo y/o producción de energía en cada una de sus etapas y cuantificando las emisiones de CO2 que en ellas se producen. Se procede entonces al diseño del sistema de captura, capaz de generar una corriente pura de dióxido de carbono a partir de los gases de salida de la fábrica modelada.  Con la intención de minimizar la penalización energética que se deriva del sistema de captura, el Proyecto Fin de Carrera recoge un estudio de la posible integración energética del sistema, de modo que se aproveche el calor excedente en el ciclo de potencia de la planta. Este estudio se realiza haciendo uso de la Tecnología Pinch.  Por último, se da un paso más en la integración de ambos procesos y se propone la unión del horno de cal de la planta con el calcinador del sistema de captura en único reactor químico y el posterior estudio de su integración energética.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10101</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10101/files/TAZ-PFC-2013-054.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Estudio de la integración de un sistema de captura de CO2 en una planta de producción de papel</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

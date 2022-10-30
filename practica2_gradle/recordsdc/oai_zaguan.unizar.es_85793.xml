@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Estrada Peña, Agustín</dc:contributor>
+    <dc:creator>Fernández Ruiz, Natalia</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Las zoonosis bacterianas del grupo Borrelia burgdorferi s.l. son trasmitidas por garrapatas y actualmente se están expandiendo por Europa. La tendencia del clima es uno de los factores condicionantes de esta evidencia. Por ello, en este trabajo se ha desarrollado una herramienta informática que emplea modelos de distribución del vector, sus hospedadores y los reservorios del agente infeccioso, para delinear el riesgo por borreliosis de Lyme en Europa según escenarios climáticos futuros. Los resultados muestran que la regresión utilizada para proyectar el nicho ambiental tiene un error asumible, correspondiéndose los escenarios de los años 2030 y 2050 con las previsiones publicadas por otros grupos de investigación. Estos resultados confirman un claro aumento del riesgo por B. burgdorferi s.l. en áreas europeas septentrionales y orientales, debido al solapamiento espacial del hábitat entre los reservorios y el vector. Si bien, se demarca una gran incertidumbre en la distribución esperada para el año 2050. También reflejan la influencia de los reservorios sobre la distribución de las distintas especies de B. burgdorferi s.l., y la ruptura de los focos estables según la tendencia climática. Los mapas obtenidos constituyen una herramienta epidemiológica para implementar medidas de prevención en Europa, tanto en el presente como en el futuro.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/85793</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Patología Animal; Área de Sanidad Animal</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/85793/files/TAZ-TFG-2019-1040.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Veterinaria</dc:subject>
+    <dc:title>Impacto de la tendencia del clima en la circulación de patógenos transmitidos por garrapatas en Europa</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">The impact of the trends of climate on the circulation of tick-born pathogens in Europe</dc:title>
+</oai_dc:dc>

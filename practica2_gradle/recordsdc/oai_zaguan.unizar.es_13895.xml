@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>López Pérez, José María</dc:contributor>
+    <dc:creator>Villarroya Garcés, Santiago</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Este trabajo se centra en el desarrollo de un nuevo producto, Bee-Light. Se corresponde con un modelo de proyecto Tipo B. En las siguientes líneas se describe con gran detalle todas las fases que se han ido siguiendo y cumplimentando, desde la idea que sugirió el concepto hasta su completo desarrollo físico y su implementación electrónica. La razón de éste proyecto es reducir el consumo de energía eléctrica mejorando los hábitos de uso de los dispositivos electrónicos desde edades tempranas. El desarrollo se ha llevado a cabo entre grupos de diseñadores y electrónicos, trabajando de forma colaborativa y avanzando paralelamente para conseguir completar  las distintas fases. Bee-Light es un interruptor que avisa que hay que apagar la luz al salir de la habitación, y además, posee unas funcionalidades que no tiene ningún otro dispositivo de la competencia. Va dirigido para los más pequeños del hogar. Con las características que tiene se pretenden inculcar una serie de buenos hábitos en los niños. Se dirige a ellos porque son quienes no tienen definidas unas rutinas de actuación y si tienen algún mal hábito todavía se puede corregir, cabe decir que las personas adultas tienen muy arraigados sus hábitos y es muy difícil cambiarlos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/13895</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/13895/files/TAZ-PFC-2014-191.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>interruptor arduino</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electrónica Industrial)</dc:subject>
+    <dc:title>Sistema electrónico para el ahorro eléctrico en los hogares</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

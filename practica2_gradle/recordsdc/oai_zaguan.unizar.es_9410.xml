@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Domenech Zueco, Sergio</dc:contributor>
+    <dc:creator>Bravo Bizarro, Borja</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Las crecidas fluviales son fenómenos muy importantes que deben ser estudiados y controlados para minimizar los daños que éstas pueden provocar, tanto materiales como humanos. Incluso en las cuencas aforadas éstas pueden provocar grandes inundaciones, como en el caso del río Ebro en su tramo medio. Por ello, desde la implementación de los Sistemas de Información Geográfica (S.I.G.) y su consiguiente evolución en el tiempo, son muchas las aplicaciones y técnicas que se han desarrollado con la finalidad de modelar y predecir dichas crecidas. En el presente estudio se va a aplicar el Método del Hidrograma Unitario para modelar con herramientas S.I.G. el caudal de crecida de la cuenca del río Vero (Huesca) durante un episodio ocurrido en Diciembre de 1997.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9410</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio; Área de Análisis Geográfico Regional</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9410/files/TAZ-TFM-2012-1035.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>sig</dc:subject>
+    <dc:subject>hidrología</dc:subject>
+    <dc:subject>modelización</dc:subject>
+    <dc:subject>hidrograma unitario</dc:subject>
+    <dc:subject>caudales de crecida</dc:subject>
+    <dc:subject>Máster Universitario en Tecnologías de la Información Geográfica para la Ordenación del Territorio: Sistemas de Información Geográfica y Teledetección</dc:subject>
+    <dc:title>Aplicación de los Sistemas de Información Geográfica al modelado de caudales de crecida: El río Vero (Huesca) y el evento de diciembre de 1997</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

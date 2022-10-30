@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Simpson, Mike</dc:contributor>
+    <dc:contributor>Marín Herrero, José María</dc:contributor>
+    <dc:creator>Barrón Viela, Ignacio</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Este proyecto ha sido llevado a cabo en la Central Térmica de Ratcliffe-on-Soar, que se halla en las inmediaciones de Nottinghamshire (Reino Unido) y es propiedad de la multinacional alemana E.ON. A partir del mismo, pretendo crear nuevas ubicaciones técnicas para el sistema de Reducción Catalítica Selectiva (RCS) y asociar las modificaciones a los equipos disponibles en SAP (Sistemas, Aplicaciones y Productos en procesamiento de datos). Tales objetivos han sido incorporados al Plan de Actualización Ambiental (REUP) diseñado por la empresa. En las páginas que siguen, describo los requisitos para la PRA (estructura de codificación utilizada en la identificación de los sistemas correspondientes a la Central Térmica de Ratcliffe-on-Soar), y detallo las premisas de codificación para una implementación exitosa del sistema RCS. De igual modo, analizo y propongo una nueva estructura de codificación para el nuevo sistema que ha de instalarse y valoro las referencias técnicas ya existentes con el fin de aplicarlas en otra planta en funcionamiento necesitada de reformas sustanciales. Todo ello servirá de fundamento en el desarrollo de una estrategia de mantenimiento óptimo de la central y para facilitar la operación del sistema RCS. En particular, examino el sistema de ventiladores de tiro inducido y el sistema de inyección y almacenamiento de amoniaco, coadyuvando así a la ampliación de conocimientos técnicos sobre los sistemas eléctricos, de lubricación, refrigeración, tuberías e instrumentación. El proyecto se basa, por un lado, en el estudio y aplicación de los componentes técnicos pertenecientes a la planta de amoniaco y los ventiladores de tiro inducido en SAP, y, por otro, en la descripción y actividad de la Central Térmica a través de SAP. Además, tratará de identificar la manera de usar SAP al introducir nuevas ubicaciones técnicas, y la situación actual de la empresa en relación con los procesos de mantenimiento y de negocios en SAP.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/7809</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/7809/files/TAZ-PFC-2012-343.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/7809/files/TAZ-PFC-2012-343_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>sap</dc:subject>
+    <dc:subject>central térmica</dc:subject>
+    <dc:subject>reducción catalítica selectiva</dc:subject>
+    <dc:subject>rcs</dc:subject>
+    <dc:subject>ventilador de tiro inducido</dc:subject>
+    <dc:subject>amoniaco</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Implantación en SAP del Sistema de Reducción Catalítica Selectiva (RCS) en la Central Térmica de Ratcliffe-on-Soar (Reino Unido)</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

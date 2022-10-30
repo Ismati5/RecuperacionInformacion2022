@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Viruete Navarro, Eduardo Antonio</dc:contributor>
+    <dc:contributor>Fernández Navajas, Julián</dc:contributor>
+    <dc:creator>Bernal Antorán, Ana María</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>En este proyecto, y de acuerdo a lo que veremos a continuación, se pretende analizar las soluciones convergentes de telefonía que existen en el mercado y cómo se deben aplicar en entornos empresariales multisede. Detallaremos las premisas fundamentales que sirven de base para el diseño conveniente de una red convergente, es decir, se analizarán tanto los requerimientos técnicos básicos como los entornos físicos y lógicos empresariales. La tecnología base sobre la que se sustentan todas las soluciones de voz de redes convergentes es la tecnología VoIP (Voice Over IP), que posteriormente analizaremos con detalle. Así mismo, haremos referencia al proceso que experimenta la señal de voz tradicional para poder ser procesada por los nuevos dispositivos de voz IP. Tal y como hemos mencionado, otro factor fundamental en el diseño de redes son los escenarios de implementación de las soluciones particulares. En este sentido, atenderemos a la clasificación de los entornos empresariales, pero no según su dimensionamiento estándar o facturación, sino prestando atención al uso e influencia de las comunicaciones de voz en sus procesos empresariales. Del mismo modo, atenderemos a los entornos físicos sobre los que se van a sustentar las soluciones convergentes de telefonía. Esta nueva tecnología utiliza la infraestructura física de las redes de datos como medio para establecer las soluciones de voz sobre IP, por lo que su análisis y estudio es esencial para el correcto diseño de este tipo de soluciones. En los puntos siguientes desarrollaremos una solución global de comunicaciones convergentes, destacando los puntos relevantes y detallando las diferentes posibilidades funcionales que nos aportan dichas redes, considerando especialmente las aplicaciones avanzadas de telefonía, las cuales son, en definitiva, las que aportan valor a los nuevos escenarios de voz. Como punto final, se ofrece una guía de diseño a través de la cual podamos tener una solución de partida adecuada, que permita a las empresas poder establecer su propio plan de implantación en función de sus requerimientos actuales y los esperados a medio plazo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4724</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingenieria Telematica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4724/files/TAZ-PFC-2010-074.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/4724/files/TAZ-PFC-2010-074_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Voz IP </dc:subject>
+    <dc:subject>Telefonía IP</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicaciones</dc:subject>
+    <dc:title>Estudio y análisis de las redes convergentes de telefonía IP y aplicaciones distribuidas para empresas multisede</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

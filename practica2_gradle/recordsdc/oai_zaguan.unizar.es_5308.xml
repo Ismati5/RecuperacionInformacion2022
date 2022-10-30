@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Barcelona Liédana, Miguel Ángel</dc:contributor>
+    <dc:contributor>Ilarri Artigas, Sergio</dc:contributor>
+    <dc:creator>Sáenz Antoñanzas, Fernando</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>El proyecto “Simulación basada en agentes aplicada a la cadena de suministro” se realiza dentro del departamento de Logística y TICs del Instituto Tecnológico de Aragón.  El objetivo del proyecto es afrontar el problema existente en la toma de decisiones asociadas a la cadena de suministro. Tomando la compartición de información y la negociación  como base del comportamiento de los miembros integrantes de la cadena de suministro, se trata de mejorar el funcionamiento de la misma. Se utilizan tecnologías de modelado basadas en agentes, lo que permitirá  caracterizar la cadena de suministro desde los siguientes puntos de vista: autonomía, comunicación, aprendizaje y toma de decisiones determinadas por el contexto. Para validar el modelo, se utilizarán datos reales de una cadena de suministro del sector de la gran distribución como Centros Comerciales Carrefour S.A. En las fases previas del proyecto se desarrolla un Documento de Visión y se planifica el proyecto. Teniendo cómo fin adquirir conocimiento y verificar que es factible su utilización, se hace un estudio sobre el modelado basado en agentes. También se comparan las diferentes herramientas existentes. Tras este punto de partida, se desarrolla el análisis y diseño del sistema, teniendo como referencia el modelo UML (Unified Modelling Language). El proyecto se implementa con una herramienta libre y de código abierto llamada Repast Simphony. Esta herramienta destinada al modelado basado en agentes simplifica la creación y el uso del concepto de agentes en simulación. A partir de la implementación de los modelos correspondientes se obtienen resultados en forma de gráficas y listados de datos, que son posteriormente interpretados para la obtención de conclusiones. El uso de agentes y dotándolos de comportamiento a través de algoritmos de negociación y compartición de información han permitido alcanzar los objetivos definidos. Se obtienen resultados que mejoran  ciertos aspectos de la cadena de suministro (incremento de ingresos, disminución de costes de inventario) a través de la aplicación de la aplicación de técnicas de negociación y compartición de información entre agentes. En concreto, se ha conseguido mejorar los beneficios en proveedores y tiendas, y disminuir los costes globales en las plataformas, siendo estos los objetivos principales de cada uno de los integrantes de la cadena de suministro que se ha modelado.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5308</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5308/files/TAZ-PFC-2010-304.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5308/files/TAZ-PFC-2010-304_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>logística colaborativa</dc:subject>
+    <dc:subject>sistemas multiagente</dc:subject>
+    <dc:subject>cadena de suministro</dc:subject>
+    <dc:subject>negociaciones</dc:subject>
+    <dc:subject>agentes</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Simulación basada en agentes aplicada a la cadena de suministro</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

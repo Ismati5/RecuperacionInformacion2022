@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Cueto Prendes, Elías</dc:contributor>
+    <dc:creator>Moya García, Beatriz</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>A lo largo de la historia se han creado múltiples obras arquitectónicas, muchas de ellas de compleja geometría, que han sobrevivido al paso de los siglos. Sin embargo, son complicadas de reproducir con las herramientas actuales de análisis computacional, y un ejemplo de ello son las estructuras funiculares.  La teoría de redes de empujes presenta una metodología que tiene por objeto dar un nuevo enfoque al cálculo de estructuras abovedadas en su primera fase de diseño.  Este método se basa en representaciones geométricas como alternativa a los métodos analíticos para la relación entre la forma, la fuerza y la fabricación, presentando como ventajas las mismas que la estática gráfica, proporcionar un enfoque simple e intuitivo en continua interacción con el usuario. La viabilidad de esta teoría ha llevado al Institute of Technology in Architecture de Zurich a materializarla en el plug-in RhinoVAULT del software Rhinoceros para complementar otros métodos de modelado disponibles en dicha herramienta. Con este trabajo se quieren analizar el alcance y las limitaciones de la teoría de redes de empujes a través de la implementación del método en Matlab de varios ejemplos prácticos, cuyo resultado será comparado con el obtenido en RhinoVAULT para su validación. “Los ordenadores sólo pueden calcular lo que está conceptualmente ya dentro de ellos; sólo puedes encontrar lo que buscas en los ordenadores. Sin embargo, puedes encontrar lo que no habías buscado con experimentación libre” De A Conversation with Frei Otto, por Juan María Songel.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/63745</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/63745/files/TAZ-TFM-2017-243.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/63745/files/TAZ-TFM-2017-243_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Industrial</dc:subject>
+    <dc:title>Estudio de la aplicación de la teoría de empujes en estructuras abovedadas</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Implementation study of thrust network analysis for vaulted structures</dc:title>
+</oai_dc:dc>

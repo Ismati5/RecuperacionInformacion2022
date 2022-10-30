@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Tardós Solano, Juan Domingo</dc:contributor>
+    <dc:creator>Gómez Rodríguez, Juan José</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>El problema de localización y mapeo simultáneos, más conocido por sus siglas en inglés SLAM, consiste en localizar un agente (por ejemplo, un robot, un dron, un coche autónomo, o unas gafas de realidad aumentada) dentro de un mapa generado gracias a información obtenida por una serie de sensores de a bordo. ORB-SLAM2 es un sistema de SLAM desarrollado por el grupo de Robótica, Percepción y Tiempo Real de la Universidad de Zaragoza, que utiliza cámaras como sensores. Como la mayoría de de sistemas de SLAM visual, representa los puntos del mapa en coordenadas Cartesianas y utiliza un modelo de cámara oscura (pinhole en inglés) para la toma de imágenes. En el presente trabajo se ha investigado el uso de una representación alternativa para los puntos del mapa de ORB-SLAM2, en el que se almacenan sus coordenadas angulares y la inversa de su profundidad con respecto de la primera cámara que los observó. Esta representación exhibe una serie de propiedades teóricas que resultan muy beneficiosas en sistemas de SLAM basados en el filtro de Kalman extendido. Sin embargo, nuestros resultados muestran que en el caso de ORB-SLAM2, que utiliza optimización no lineal, la representación en profundidad inversa aumenta el coste computacional sin mejoras significativas en la precisión. Por otro lado, se ha estudiado el modelo de cámaras con objetivos gran angular y ojo de pez y, modificando a fondo ORB-SLAM2, se ha desarrollado el primer sistema de SLAM visual capaz de trabajar con este tipo de cámaras, tanto en monocular como en estéreo. Los resultados obtenidos con unas gafas de realidad aumentada muestran que este tipo de cámaras, al cubrir un mayor campo de visión que las basadas en el modelo pinhole, permiten mapear regiones más amplias, mejorando la robustez del SLAM visual ante oclusiones.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/77729</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/77729/files/TAZ-TFG-2018-2489.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>Localización y construcción de mapas con puntos en profundidad inversa y con cámaras gran angular en ORB-SLAM2</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Localization and mapping with inverse depth points and wide angle cameras in ORB-SLAM2</dc:title>
+</oai_dc:dc>

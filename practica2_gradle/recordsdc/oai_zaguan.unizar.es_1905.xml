@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Abaurrea, Jesús</dc:contributor>
+    <dc:creator>Cebrián Guajardo, Ana C.</dc:creator>
+    <dc:date>1999</dc:date>
+    <dc:description>El objetivo de esta memoria es el desarrollo de modelos estocásticos para la ocurrencia y magnitud de episodios de sequía, y su aplicación en la predicción de magnitudes de interés en la gestión hídrica. Poponemos una definición operativa de sequía basada en modelos de Exceso sobre umbral y, dentro de la teoría de valores extremos, se desarrolla un modelo estocástico para este proceso, que consiste en un proceso de Poisson cluster para representar las ocurrencias y un proceso de marcas formado por un vector de variables aleatorias para describir la severidad de los eventos. El modelo se justifica teóricamente y se aplica al análisis de cinco series españolas de precipitación también se desarrollan herramientas adecuadas para validar este tipo de modelos. Finalmente, se analiza la predicción de la duración restante de un evento utilizando modelos para el riesgo de fallo con covariables dependientes del tiempo. The aim of this work is to develop stochastic models to analyze the occurrence and severity of drought events, in order to apply them in the forecasting of values of interest in water management. We suggest an operational definition of drought events based on an 'Excess over threshold' approach and, in the framework of Extreme value theory, we develop a stochastic model to represent a drought process. The model consists of a Poisson cluster process to represent drought occurrence and a mark process composed of a vector of random variables to describe the severity of the events. The model is theoretically justified and it is applied to the modeling of five Spanish rainfall series. Adequate procedures to check the validity of the models are also developed. Finally, we consider the forecasting of the remaining length of an event using risk of failure models with time dependent covariates. </dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/1905</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Métodos Estadísticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/1905/files/1905.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>drought events</dc:subject>
+    <dc:subject>climate stochastic models</dc:subject>
+    <dc:subject>Poisson process</dc:subject>
+    <dc:subject>Extreme value theory</dc:subject>
+    <dc:subject>episodios de sequías</dc:subject>
+    <dc:subject>modelos estocásticos climáticos</dc:subject>
+    <dc:subject>proceso Poisson</dc:subject>
+    <dc:subject>Teoría de valores extremos</dc:subject>
+    <dc:title>Análisis, modelización y predicción de episodios de sequía</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

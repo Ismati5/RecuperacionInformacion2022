@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<csw:Record xmlns:csw="http://www.opengis.net/cat/csw/2.0.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ows="http://www.opengis.net/ows" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:language>es</dc:language>
+  <dc:identifier>08-bcn1000</dc:identifier>
+  <dc:creator>Instituto Geográfico Nacional (España)</dc:creator>
+  <dc:description>Base Cartográfica Numérica que contiene la información generalizada de la BCN200. Está información está estructurada en los siguientes temas geográficos: Tema 01: límites provinciales Tema 02: hidrografía Tema 03: comunicaciones (carreteras y ferrocariles) Tema 04: nucleos de población Tema 05: relieve Tema 06: toponimia En general, los nombres de los objetos están introducidos como textos</dc:description>
+  <dc:format>ARCE - ARC/INFO Export format</dc:format>
+  <dc:language>eu</dc:language>
+  <dc:language>ca</dc:language>
+  <dc:language>gl</dc:language>
+  <dc:language>es</dc:language>
+  <dc:publisher>Centro Nacional de Información Geográfica (España)</dc:publisher>
+  <dc:subject>GEOGRAFIA FISICA.HIDROLOGIA.HIDROLOGIA FLUVIAL.REDES HIDROGRAFICAS.RIOS</dc:subject>
+  <dc:subject>GEOGRAFIA HUMANA.GEOGRAFIA POLITICA.GEOGRAFIA DE LA ADMINISTRACION.LIMITES TERRITORIALES.LIMITES ADMINISTRATIVOS</dc:subject>
+  <dc:subject>GEOGRAFIA HUMANA.GEOGRAFIA POLITICA.GEOGRAFIA DE LA ADMINISTRACION.ORGANIZACION TERRITORIAL DEL ESTADO.PROVINCIAS</dc:subject>
+  <dc:subject>GEOGRAFIA HUMANA.GEOGRAFIA DE LAS COMUNICACIONES.GEOGRAFIA DEL TRANSPORTE.TRANSPORTE TERRESTRE.TRANSPORTE POR CARRETERA.CARRETERAS</dc:subject>
+  <dc:subject>GEOGRAFIA HUMANA.GEOGRAFIA DE LAS COMUNICACIONES.GEOGRAFIA DEL TRANSPORTE.TRASNPORTE TERRESTRE.TRANSPORTE FERROVIARIO.FERROCARRILES</dc:subject>
+  <dc:subject>GEOGRAFIA HUMANA.GEOGRAFIA URBANA.CIUDADES.ASENTAMIENTOS</dc:subject>
+  <dc:subject>GENERALIDADES.CARTOGRAFIA.TOPOGRAFIA.ALTIMETRIA</dc:subject>
+  <dc:subject>GEOGRAFIA.PARTE HISTORICA.GEOGRAFIA HISTORICA.TOPONIMIA</dc:subject>
+  <dc:title>Base Cartográfica Numérica 1:1.000.000</dc:title>
+  <dc:type>series</dc:type>
+  <dcterms:accessRights>license</dcterms:accessRights>
+  <dcterms:issued>2003-12-31</dcterms:issued>
+  <dcterms:spatial>ESPAÑA</dcterms:spatial>
+</csw:Record>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Otín, Angel Luis</dc:contributor>
+    <dc:creator>Millán Placer, Ana Cristina</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Las vesículas extracelulares, que incluyen cuerpos apoptóticos, microvesículas y exosomas, han suscitado un gran interés en los últimos años debido al papel que ejercen en la comunicación intercelular, tanto en procesos fisiológicos como patológicos. Estas vesículas pueden modular diversas funciones biológicas mediante la transferencia de su contenido a células vecinas o distantes. Existen estudios que demuestran que los exosomas y microvesículas derivados de células progenitoras endoteliales tipo ECFC pueden trasmitir información a las células endoteliales, e inducir procesos pro- y antiangiogénicos in vivo. Por ello, el objetivo del presente Trabajo Fin de Grado ha sido aislar los exosomas derivados de ECFCs mediante tres métodos diferentes y analizar si existen diferencias en las poblaciones de exosomas que se obtienen. Asimismo, se ha pretendido estudiar si los niveles de oxígeno a los que se exponen las células alteran el contenido de los exosomas y microvesículas. Para ello, se analizó la morfología y tamaño de los exosomas aislados mediante TEM, se cuantificó la proteína total por Micro BCA y se estudió la presencia de marcadores exosomales (CD9, CD63 y CD81) mediante Western Blot. Además, se trató de analizar mRNAs y miRNAs específicos mediante aislamiento de RNA y posterior RT-qPCR. A pesar de que en los exosomas aislados no se lograron detectar los marcadores exosomales ni analizar los perfiles de expresión de los miRNAs y mRNAs objeto de estudio debido a que existía limitación de muestra de partida, se observó que los niveles de expresión de las tetraspaninas CD9 y CD81, y de los miRNAs let-7b-5p, miR-126-3p, miR-99b-5p y miR-20b-5p en las microvesículas dependen de los niveles de O2 a los que se cultivan las apb-ECFCs. Esto sugiere que las microvesículas aisladas podrían reflejar el estado de la célula en el momento de su biogénesis e incluso mediar acciones pro-angiogénicas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64121</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64121/files/TAZ-TFG-2017-3142.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Biotecnología</dc:subject>
+    <dc:title>Obtención y caracterización de exosomas de células progenitoras endoteliales</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Obtention and characterization of exosomes from endothelial progenitor cells</dc:title>
+</oai_dc:dc>

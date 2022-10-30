@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gómez Benito, María José</dc:contributor>
+    <dc:contributor>Javierre Pérez, Etelvina</dc:contributor>
+    <dc:creator>Jordán Palomar, Elena Irene</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>A partir de un caso clínico de herida catastrófica en pie, se realiza una simulación de la misma para aplicarla y conseguir la mejor funcionalidad de la misma. Esto se analiza desde un punto de vista médico e ingenieril haciendo especial  hincapié en la influencia de factores mecánicos.  Del mismo modo, se realiza una revisión del  proceso  de cicatrización de heridas estudiando heridas problemáticas como  queloides, traumáticas, diabéticas,... Estas heridas tienen fuerte componente mecánico, aunque sin duda la patología del paciente es determinante.Este  poyecto se enmarca en un proyecto de investigación en el que se plantean modelos matemáticos para la simulación de la formación  y curación de heridas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5080</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5080/files/TAZ-TFM-2010-056_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5080/files/TAZ-TFM-2010-056.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>heridas</dc:subject>
+    <dc:subject>actores mecánicos</dc:subject>
+    <dc:subject>simulación computacional</dc:subject>
+    <dc:subject>reconstrucción funcional</dc:subject>
+    <dc:subject>elementos finitos</dc:subject>
+    <dc:subject>plataforma de cargas</dc:subject>
+    <dc:subject>Máster Universitario en Ingeniería Biomédica</dc:subject>
+    <dc:title>Factores bioquímicos y mecánicos en la generación de heridas : estudio in vitro e in vivo</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

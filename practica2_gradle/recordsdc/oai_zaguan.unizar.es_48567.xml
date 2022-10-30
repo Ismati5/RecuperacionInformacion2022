@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Serón Arbeloa, Francisco José</dc:contributor>
+    <dc:creator>Viamonte Olmeda, Juan</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>En el diseño y la ingeniería se han desarrollado una gran cantidad herramientas y formas de trabajo ligadas a la digitalización: desde herramientas de diseño, software CAD  y CAM hasta la fabricación CNC. En este proyecto se profundiza en el diseño basado en la programación,  en qué consiste y de qué forma ayuda en la resolución de problemas de ingeniería y diseño. Además, se estudia como materializar aquello que se modela de forma directa con los métodos constructivos de los que se dispone gracias a herramientas de CAD/CAM y la fabricación digital. También se hace una labor de comprensión y ejercitación del software Rhinoceros + Grasshopper para su uso en el proyecto. Tras esa fase de investigación, se resolverá un caso práctico que consistirá en el diseño de un elemento de arquitectura efímera (un stand de exposición para una marca de ropa) usando el software y las herramientas de diseño aprendidas anteriormente. Se pretende hacer especial hincapié en los métodos constructivos usados y su correcta aplicación además de conseguir un diseño coherente y práctico, explorando las diversas alternativas y seleccionando la óptima.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/48567</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/48567/files/TAZ-TFG-2015-3655.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/48567/files/TAZ-TFG-2015-3655_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería en Diseño Industrial y Desarrollo de Producto</dc:subject>
+    <dc:title>Diseño de un stand usando técnicas basadas en Smart Geometry y fabricación digital</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

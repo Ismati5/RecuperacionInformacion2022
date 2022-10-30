@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Pérez del Palomar Aldea, Amaya</dc:contributor>
+    <dc:creator>Calvo Echenique, Andrea</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>La motivación principal de este proyecto es el estudio mediante técnicas ingenieriles de problemas asociados a la biomedicina, con el propósito de mejorar la calidad de vida de las personas que deben someterse a operaciones de implantes protésicos. Su finalidad fundamental es la determinación de la cirugía más adecuada a aplicar a un paciente aquejado de dolores lumbares. En primer lugar se ha modificado el modelo de elementos finitos de la columna lumbar desarrollada por Moramarco (1) validandolo con los datos existentes el la bibliografía (2). Este modelo supone una mejora significativa con respecto a los modelos computacionales que existentes ya que incorpora la geometría no sólo de vértebras y discos, sino de ligamentos y fibras en los tejidos, necesarios para la simulación correcta del movimiento. A continuación se ha simulado la degeneración del disco D45, variando sus propiedades y comparando los resultados con los efectos reales de la degeneración. Tras ver los problemas de las patologías lumbares se han realizado diferentes modelos en elementos finitos que permitan modelar las diferentes cirugías existentes, como son la artrodesis y los implantes intervertebrales con fijación posterior mediante tornillos. Una vez realizado el cálculo computacional de estos modelos se establece, por comparación con la columna lumbar sana, que disminuyen drásticamente el movimiento relativo en el segmento intervenido. Esta disminución de movimiento, conlleva un incremento de giro relativo en el resto de segmentos, lo cual provoca un aumento de tensiones. El incremento de tensiones en los discos adyacentes, puede provocar dolor y aumentar la probabilidad de propagación de la degeneración. Con el objetivo de conseguir una técnica quirúrgica que respete el movimiento natural de la columna, se ha simulado una cirugía en la que únicamente se introduzca el espaciador intervertebral, sin fijación posterior.  Viendo los resultados de esta nueva técnica se concluye que aunque la fijación mediante tornillos consigue una perfecta estabilización de la columna, la mejor técnica desde el punto de vista biomecánico es el implante sin fijación posterior, que consigue estabilizar la columna sin modificar drásticamente el movimiento natural del paciente.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/11847</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/11847/files/TAZ-PFC-2013-418_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/11847/files/TAZ-PFC-2013-418.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>columna lumbar</dc:subject>
+    <dc:subject>disco intervertebral</dc:subject>
+    <dc:subject>degeneración</dc:subject>
+    <dc:subject>prótesis de disco</dc:subject>
+    <dc:subject>artrodesis</dc:subject>
+    <dc:subject>artroplastia</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Estudio y simulación mediante software de elementos finitos de las diferentes cirugías de disco intervertebral</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

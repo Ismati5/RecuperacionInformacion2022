@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ayensa Pardo, Alberto</dc:contributor>
+    <dc:contributor>Gracia Villa, Luis</dc:contributor>
+    <dc:creator>Bentué Bueno, Javier</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El presente trabajo pretende aportar un pequeño ejemplo de cómo funciona este entorno haciendo uso de dos programas afines al mismo: realizando un modelo de un edificio de hormigón con el programa Revit, y haciendo una lectura en tiempo real del mismo desde el programa Robot, que será desde el que se realice el cálculo estructural. Este cálculo cuenta con la complicación extra de tratarse de un edificio con elementos de hormigón pretensado, para cuyo cálculo se ha usado el software Prontuario Informático EHE-08. Se proporcionan en este documento, para la realización de todo ello, una serie de datos del edificio real, que permitieron su modelización, el proceso de creación de modelo en sí, así como el proceso de cálculo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61015</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61015/files/TAZ-TFM-2017-045.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Industrial</dc:subject>
+    <dc:title>Modelización y cálculo de un edificio de hormigón con programas del entorno BIM</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Modeling and calculation of a concrete building with BIM environment programs</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Cogolludo Agustín, José Ignacio</dc:contributor>
+    <dc:creator>Aguelo Jiménez, Celia</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>La teoría de Bases de Gröbner se desarrolló en los años 60 junto con el algoritmo de Buchberger teniendo un gran impacto en el álgebra computacional. Esto ha hecho posible el cálculo eficiente de ecuaciones polinómicas permitiendo investigar complicados ejemplos. Es por esto que las bases de Gröbner tienen multitud de aplicaciones en campos como la criptografía, la teoría de grafos, la robótica, la resolución de sistemas de ecuaciones polinómicas,... Entre todas estas aplicaciones nos vamos a centrar en la resolución de sistemas de ecuaciones con polinomios diferenciales. El objetivo de este trabajo es desarrollar la teoría de las bases de Gröbner para llegar a resolver ecuaciones polinómicas y sistemas de ecuaciones diferenciales polinómicas tanto de manera teórica como realizando un programa en Sage que permita su resolución. Para ello este trabajo está estructurado en cuatro capítulos: En el capítulo 1 presentamos definiciones que nos permiten introducir las bases de Gröbner. En el capítulo 2 se introduce el concepto de las bases de Gröbner y el algoritmo de Buchberger que permite calcularlas. En el capítulo 3 se extienden los conceptos aprendidos en los capítulos anteriores a anillos diferenciales, explicando un método equivalente al algoritmo de Buchberger llamado proceso de reducción. En el capítulo 4 se realiza un ejemplo que ilustra la teoría anterior. Para su resolución se ha implementado en Sage una serie de programas que facilitan su resolución que se muestran en el anexo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76341</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Matemáticas; Área de Geometría y Topología</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76341/files/TAZ-TFG-2018-4824.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Matemáticas</dc:subject>
+    <dc:title>Bases de Gröbner e Ideales Diferenciables</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Gröbner Basis an Differential Ideals</dc:title>
+</oai_dc:dc>

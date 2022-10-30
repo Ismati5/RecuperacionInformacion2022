@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Castejón Herrer, Luis</dc:contributor>
+    <dc:contributor>Dehesa Vicién, Joseba Koldobika</dc:contributor>
+    <dc:creator>Medina Jarones, Miguel</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>En este proyecto se va a diseñar, calcular y optimizar un semirremolque con cisterna criogénica fabricado en acero inoxidable. Para poder realizar este estudio se parte de un modelo geométrico de un semirremolque criogénico con aislamiento de perlita y estructura de acero al carbono modificando dicha estructura con acero inoxidable y aislamiento de multicapa con vacío. Se llevan a cabo los cálculos mediante el método de elementos finitos en diferentes estados de carga para posteriormente, optimizar dicha estructura a través de diferentes iteraciones aligerando los elementos sobredimensionados y reforzando aquellos puntos para conseguir un conjunto con un coeficiente de seguridad adecuado. Finalmente, se muestran los resultados obtenidos con el diseño optimizado del semirremolque.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/78386</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería e Infraestructura de los Transportes</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/78386/files/TAZ-TFM-2018-1285.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Mecánica</dc:subject>
+    <dc:title>Diseño, cálculo y optimización de un semirremolque con cisterna criogénica hecho en acero inoxidable y con aislamiento de vacío</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Design, calculation and optimization of a cryogenic tank semitrailer made of stainless steel and with vacuum isolation</dc:title>
+</oai_dc:dc>

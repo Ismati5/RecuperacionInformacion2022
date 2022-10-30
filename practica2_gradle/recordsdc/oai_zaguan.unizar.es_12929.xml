@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Maza Frechín, Mario</dc:contributor>
+    <dc:creator>López Sebastián,Alejandro</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>En este trabajo final de Máster se pretende abordar la evolución llevada a cabo por el fabricante japonés de coches, Toyota, en su primer modelo híbrido de producción en masa, el Prius. En primer lugar se realizará un estudio del estado del arte para tener una visión clara del mercado actual y obtener así una perspectiva global de la posición del Toyota Prius. A continuación, se analizarán las características que definen la arquitectura de este vehículo con el paso de los años, y se remarcarán las particularidades de su versión plug-in. Posteriormente se entrará en este análisis con mayor profundidad, pasando a describir uno por uno los elementos que conforman el tren de potencia de la tercera generación, y cómo influyen todos ellos en el conjunto. Será entonces, con todos los elementos definidos y teniendo claro el funcionamiento del Toyota Prius, y sobre todo, los flujos de potencia, cuando pasaremos al desarrollo del modelo de estudio de su comportamiento. Se estudiarán los flujos de energía en la batería y motor térmico al realizar el ciclo NEDC, es decir, venciendo unas resistencias provocadas por la velocidad, aceleración y rodadura. Una vez tengamos los datos de esta simulación virtual, se obtendrán las conclusiones del aporte específico de la batería como elemento individual, y la repercusión que tiene el tren de potencia tiene frente a un vehículo convencional.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12929</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería e Infraestructura de los Transportes</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12929/files/TAZ-TFM-2013-1101.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>toyota</dc:subject>
+    <dc:subject>prius</dc:subject>
+    <dc:subject>híbrido</dc:subject>
+    <dc:subject>tren de potencia</dc:subject>
+    <dc:subject>baterías</dc:subject>
+    <dc:subject>ciclos de conducción </dc:subject>
+    <dc:subject>nedc</dc:subject>
+    <dc:subject>Máster Universitario en Sistemas Mecánicos</dc:subject>
+    <dc:title>Estudio del tren de potencia del Toyota Prius y la influencia de la batería en los diferentes modos de conducción</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

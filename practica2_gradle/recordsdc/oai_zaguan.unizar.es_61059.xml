@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mahulea, Cristian</dc:contributor>
+    <dc:contributor>Albareda Albareda, Jorge</dc:contributor>
+    <dc:creator>García Barreto, José</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>Trabajo que se engloba en el proyecto "Métodos y modelos formales para la gestión del servicio de salud" y consiste en la participación en el diseño e implementacion de la herramienta informática (HEAT), modelado de vías clínicas en formato UML y su análisis de dichas vías clínicas mediante Redes de Petri.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61059</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61059/files/TAZ-TFG-2016-4561.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Gestión hospitalaria utilizando el modelado, análisis y optimización de las vías y guías clínicas</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Hospital management using modeling, analysis and optimization of clinical pathways and guidelines</dc:title>
+</oai_dc:dc>

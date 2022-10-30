@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Aznar, José Manuel</dc:contributor>
+    <dc:contributor>González Valverde, Ismael Daniel</dc:contributor>
+    <dc:contributor>González Valverde, Ismael D.</dc:contributor>
+    <dc:creator>Serrano Alcalde, Francisco</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>En el presente Trabajo fin de Máster se pretende estudiar uno de los tipos de migración celular conocidos del que todavía no se entiende con certeza qué condiciones deben darse para que se produzca, migración basada en lobopodia. Para la ingeniería de tejidos, así como enfermedades en las que entender los procesos de migración celular tiene un papel fundamental, resulta necesario realizar estudios tanto experimentales como computacionales para avanzar en su conocimiento. Hasta ahora la mayoría de estudios se han realizado en dos dimensiones (2D), sin embargo, con el avanza de la tecnología y la posibilidad de realizar ensayos en tres dimensiones (3D) se ha descubierto un nuevo tipo de migración celular, migración basada en lobopodia. Este tipo de migración sólo aparece en matrices extracelulares 3D, aunque sólo bajo ciertas condiciones que todavía no están claras. En ella, la célula crea una protusión a través de la cual el núcleo comienza a pasar y actúa de pistón, dividiendo la célula en dos partes y aumentando la presión en la parte delantera. Una de las hipótesis existentes sobre cuando aparece este tipo de migración es que depende de las propiedades mecánicas de la matriz extracelular. Según si ésta es elástica lineal o elástica no lineal (además de otros factores químicos) aparecerá el lobopodio y el núcleo comenzará a pasar a través de él. Para intentar dilucidar si las propiedades mecánicas de la matriz tienen influencia o no en la elección del tipo de migración, se ha desarrollado un modelo de elementos finitos partiendo de un ensayo realizado en el laboratorio del M2BE, en el cual una célula de fibroblasto migra usando lobopodia, para simular distintas matrices con diferentes propiedades mecánicas (rigidez, compresibilidad, elástica lineal o dependiente de la deformación).</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/63735</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/63735/files/TAZ-TFM-2017-288.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/63735/files/TAZ-TFM-2017-288_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Biomédica</dc:subject>
+    <dc:title>Influencia de la rigidez de la matriz extracelular en la migración celular en tres dimensiones</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">The role of the matrix stiffness on 3D cell migration</dc:title>
+</oai_dc:dc>

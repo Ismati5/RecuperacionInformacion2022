@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Dán, György</dc:contributor>
+    <dc:contributor>Bernués del Río, Emiliano</dc:contributor>
+    <dc:creator>Aurensanz Clemente, Alberto</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>La extracción de características de una imagen se utiliza hoy en día para la búsqueda y clasificación de información presente en las imágenes. Esta extracción puede verse como una forma especial de reducción dimensional consistente en detectar y guardar puntos de interés contenidos en una imagen. Esta información es usada para compararla con la existente en una base de datos y poder reconocer un objeto o una persona dentro de la imagen. Así, la extracción de características de imágenes se emplea en multitud de aplicaciones: reconocimiento de objetos, reconocimiento facial, del tipo de movimiento, en seguimiento de un objeto en una secuencia de vídeo, etc. Existen muchos tipos de características posibles en una imagen. En este proyecto se trabaja con las características definidas como puntos de interés, con cómo se guarda ese punto de interés (descriptor) y con cómo se hace la comparación con la base de datos.  El proyecto que se presenta parte de un sistema ya creado que realiza la extracción de características SURF de imágenes. Esta extracción se realiza de forma distribuida en varios nodos, de manera que se reparta la carga computacional. Uno de los nodos actúa como cámara, otro como conexión con el servidor (ordenador portátil) y los demás son nodos de procesamiento. Los nodos son los ordenadores de tamaño tarjeta de crédito BeagleBone Black, que se comunican entre ellos de forma inalámbrica utilizando la tecnología ZigBee. Las modificaciones llevadas a cabo en el sistema y que constituyen el trabajo y objetivo central del proyecto se dividen en dos partes. Por una parte, se quiere mejorar el sistema de extracción de características de imágenes, y por otra, se quiere optimizar los aspectos de transmisión del sistema. Para el primer caso, se va a modificar la arquitectura y la lógica del sistema para incluir otro tipo de características de imagen además de SURF; se va a optar por el sistema BRISK. Pudiendo elegir el usuario entre las dos propuestas, esto servirá para comparar las prestaciones de ambos sistemas de extracción de características y extraer conclusiones sobre su modo de funcionamiento. Para el segundo objetivo de optimización del sistema de transmisión, se va a implementar un protocolo de transmisión más fiable que evite las pérdidas de datos. Este protocolo estará basado en retransmisiones de paquetes perdidos, acknowledgements y timeouts, con el objetivo de evitar las pérdidas de paquetes, algo de lo que el sistema sufría. Además, esto permite un incremento en la velocidad garantizando una transmisión libre de pérdidas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/16030</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/16030/files/TAZ-PFC-2014-423.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>red de procesamiento distribuido</dc:subject>
+    <dc:subject>extracción de características de imagen</dc:subject>
+    <dc:subject>surf</dc:subject>
+    <dc:subject>brisk</dc:subject>
+    <dc:subject>protocolo de transmisión fiable</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicación</dc:subject>
+    <dc:title>Extensión de funcionalidad en una red visual de procesamiento distribuido: inclusión de BRISK e implementación de un protocolo de retransmisiones</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

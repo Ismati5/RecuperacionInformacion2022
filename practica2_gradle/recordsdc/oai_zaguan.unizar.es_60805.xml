@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Serrano Pacheu, Ana</dc:contributor>
+    <dc:contributor>Masiá Corcoy, Belén</dc:contributor>
+    <dc:creator>Calvo Fantova, Santiago</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Este proyecto se sitúa en el campo de la computación gráfica y el procesado digital de imagen. El proyecto se centra en el planteamiento de un sistema de procesado de imagen mediante el uso de redes neuronales convolucionales. Uno de los campos dentro de la computación gráfica y el procesado de imagen, objeto de investigación en los últimos años ha sido la transferencia de texturas y estilos entre imágenes mediante la aplicación y utilización de diferentes técnicas. Una de estas técnicas nace con la introducción de redes neuronales en el campo de la imagen computacional. Dentro de este campo nos encontramos con alguna limitación que tratamos de resolver, la principal era que estos sistemas realizaban una transferencia de estilo entre imágenes de forma que distorsionaban la información de contenido de la imagen que aportaba la estructura a la imagen final (pequeños detalles, líneas y bordes se perdían). Uno de nuestros objetivos principales fue desarrollar un sistema que corrigiese esos errores de forma que se consiguiese una transferencia de estilo similar a la propuesta en el estado del arte, pero poniendo concienciación en mantener la información de estructura y contenido de la imagen final.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/60805</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/60805/files/TAZ-TFG-2017-060.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías y Servicios de Telecomunicación</dc:subject>
+    <dc:title>Transferencia de textura y estilo entre imágenes utilizando redes neuronales convolucionales: un enfoque orientado a la conservación de contenido</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Content-aware texture and style transfer using convolutional neural networks</dc:title>
+</oai_dc:dc>

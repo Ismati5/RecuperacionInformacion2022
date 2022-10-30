@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Georg, Umlauf</dc:contributor>
+    <dc:contributor>Grisser, Dennis</dc:contributor>
+    <dc:contributor>Fabra Caro, Francisco Javier</dc:contributor>
+    <dc:creator>Martínez Blasco, Pablo</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>This bachelor thesis provides a first step towards Hardware-less DJing, simulating a controller by mapping it to image coordinates obtained from a camera feed. Coloured gloves are used to perform image analysis, as it is far easier to accomplish a good result with bright colours as opposed to skin, by using a HSV filter and morphological operations. Subsequently, contours and regions are later recognized for the fingers. As the real-time component of the system is important, gesture recognition is performed electrically by the use of an Arduino UNO board, therefore skipping the need to train a visual model to recognize certain gestures. A MIDI loopback and MIDI messages are used to connect the application to the DJing software. The main goal is to provide the same interactions a DJ is already used to, as to not require changing the muscle memory they have acquired by using normal controllers.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/84903</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/84903/files/TAZ-TFG-2019-3964.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>Un primer enfoque hacia el Hardwareless DJing</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">An early approach to Hardwareless DJing</dc:title>
+</oai_dc:dc>

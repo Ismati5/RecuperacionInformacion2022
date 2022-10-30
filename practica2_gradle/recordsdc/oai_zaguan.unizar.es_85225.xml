@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Armejach Sanosa, Adrià</dc:contributor>
+    <dc:contributor>Moretó Planas, Miquel</dc:contributor>
+    <dc:contributor>Suárez Gracia, Darío</dc:contributor>
+    <dc:creator>Soria Pardos, Víctor</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Hoy en día, la mayoría de repertorios de instrucciones (ISA) incluyen instrucciones que procesan multiples datos en una única instruccion. Éstas instrucciones se utilizan para acelerar aplicaciones de alto rendimiento (HPC). La primera parte de este trabajo busca caracterizar aplicaciones HPC que han sido optimizadas utilizando NEON, que es el actual subcojunto de instrucciones vectoriales soportado por los procesadores basados en la ISA ARMv8. Para alcanzar este objetivo tenemos a nuestra disposición dos procesadores tope de gama basados en ARMv8, que son ThunderX y ThunderX2, y dos de los principales compiladores del mercado, GCC y Arm HPC Compiler. Con ellos hemos caracterizado una colección de benchmarks extraidos del conjunto de benchmarks RAJAPerf y las aplicaciones HACCKernels y HPCG. Esta caracterización incluye una serie de experimentos que buscan calcular el speed-up, la escalabilidad, la eficiencia energética y de consumo de potencia. Además, hemos analizado el código ensamblador para identificar que optimiaciones se han llevado a cabo y qué caracteristicas hacen que unos experimentos sean más rápidos que otros. La segunda parte de este trabajo se centra en la nueva extensión vectorial escalable (SVE) de Arm, la cual está especificada en la ISA ARMv8.2. Esta especificación introduce el modelo de programación independiente de la longitud de los registros vectoriales (VLA). La cual permite que los fabricantes de procesadores puedan elegir diferentes longitudes de vectores entre 128 y 2048 bits, para la implementación de sus microarquitecturas. A día de hoy, no existe ninguna máquina que implementa este nuevo repertorio de instrucciones, por lo tanto hemos tenido que usar una herramienta de emulación (ArmIE) desarrollada por Arm. Esta herramienta nos permite ejecutar binarios compilados con soporte para SVE en procesadores de la ISA ARMv8. Nuestro trabajo analiza cómo los compiladores GCC y Arm HPC Compiler vectorizan estos benchmarks y además propone ciertas optimizaciones de bajo nivel para mejorar la generación de código.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/85225</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Arquitectura y Tecnología de Computadores</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/85225/files/TAZ-TFG-2019-2895.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>Caracterización de aplicaciones HPC para extensiones vectoriales de ARM</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Characterization of HPC applications for ARM SIMD instructions</dc:title>
+</oai_dc:dc>

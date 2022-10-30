@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Muñoz Rodríguez, Mariano</dc:contributor>
+    <dc:creator>Sanz Moreno, Antonio</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Los objetivos principales de este PFC son modelar y resolver el ciclo de Stirling a través del Método LHA y realizar un software que permita simular motores Stirling a través de una serie de datos de entrada. Quedan recogidos el desarrollo matemático, las aproximaciones impuestas, explicación termodinámica, así como las condiciones de utilización del Método LHA. Del software de simulación se recoge el diagrama de flujo que permite la resolución de las ecuaciones en Matlab y la presentación gráfica, funcionalidades, etc. de dicho software. También se ha buscado una razón desde el punto de vista de la termodinámica  y la mecánica de fluidos a los resultados y análisis sensitivos que se obtienen con el software de simulación. Además se ha testeado el software realizado con varios motores Stirling cuyas características son conocidas a través de la diferente bibliografía. El documento sirve para mostrar las principales dificultades que surgen al simular motores Stirling, cualquiera sea el método que se use.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/7735</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/7735/files/TAZ-PFC-2012-337.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>motor stirling</dc:subject>
+    <dc:subject>método lha</dc:subject>
+    <dc:subject>simulación computacional</dc:subject>
+    <dc:subject>matlab</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Simulación del motor stirling por el método LHA</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

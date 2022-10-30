@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Meehan, Kathleen </dc:contributor>
+    <dc:contributor>Aznar Colino, Eduardo</dc:contributor>
+    <dc:contributor>Aznar Colino, Eduardo</dc:contributor>
+    <dc:creator>Gonzalez Martinez, Martin</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>The aim of this Final Year Project was to design a shopping trolley that is able to navigate autonomously following a human within a 3 feet distance, transport a load up to 20 kg and avoid collisions. Due to the large weight of the load, it has been decided to build a smaller prototype and then choose the components needed to build the real size trolley.  One infrared transmitter is attached to the body of the target person and several infrared phototransistors are placed on the robot to calculate the relative position robot-person and the distance between them. A collision avoidance algorithm has been implemented using ultrasonic sensors for detecting the nearest obstacles.  An ARM mbed NXP LPC1768 microcontroller coordinates every sensor measure and control calculation. It also controls the power stage designed for driving the motors.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/63734</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/63734/files/TAZ-TFM-2017-292.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Industrial</dc:subject>
+    <dc:title>Diseño y prototipado de un carrito de la compra capaz de seguir a una persona y evitar obstáculos</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Design and prototyping of a shopping trolley able to follow a human and avoid obstacles</dc:title>
+</oai_dc:dc>

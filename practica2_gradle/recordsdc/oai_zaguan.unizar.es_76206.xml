@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Civera Sancho, Javier</dc:contributor>
+    <dc:contributor>Fácil Ledesma, José María</dc:contributor>
+    <dc:creator>Olid Hernández, Daniel</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>El reconocimiento de lugares es un problema que tiene gran relevancia gracias a sus aplicaciones en navegación autónoma. Actualmente sigue sin estar resuelto de forma robusta. El reto que se afronta en este trabajo es el cambio en la apariencia visual de los lugares por factores como los fenómenos meteorológicos o la iluminación. La mayoría de aproximaciones se basan en una única vista y estudian diversos algoritmos para procesar las imágenes. Se ha demostrado que los métodos basados en redes neuronales son más robustos ante cambios de apariencia. En este trabajo se emplean redes neuronales y además se propone el uso de múltiples vistas. La hipótesis de partida es que la información que contiene una secuencia de imágenes puede ayudar a mejorar la robustez del reconocimiento de lugares ante cambios de aspecto. Para poder utilizar la información secuencial en este trabajo se proponen varias estrategias, entre ellas el estudio de las redes neuronales recurrentes. Cada estrategia requiere una fase de análisis, ajuste de parámetros y estudio de las arquitecturas neuronales óptimas. Las estrategias analizadas mejoran con respecto a los resultados obtenidos tanto por aproximaciones del estado del arte que no utilizan la información temporal como por aproximaciones que la utilizan. El reconocedor desarrollado es capaz de identificar correctamente más de un 92% de lugares en tramos de más de 80 kilómetros de recorrido cuando las condiciones son adversas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76206</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76206/files/TAZ-TFM-2018-959.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Electrónica</dc:subject>
+    <dc:title>Reconocimiento de lugares con invarianza a cambios del entorno mediante redes neuronales recurrentes</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Condition invariant place recognition using recurrent neural networks</dc:title>
+</oai_dc:dc>

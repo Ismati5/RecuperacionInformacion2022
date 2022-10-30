@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Esteban Escaño, Javier</dc:contributor>
+    <dc:creator>Urgel García, Mario</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>El uso de drones es uno de los campos que mayor evolución está teniendo dentro del campo de la robótica aérea. Este sector abarca infinidad de posibilidades y se puede utilizar en múltiples tareas. Esta es la razón por la que su interés, tanto a nivel usuario como a nivel empresarial, haya experimentado un elevado crecimiento y el futuro de estas tecnologías se presente lleno de posibilidades. El objetivo de este Trabajo Fin de Grado es el diseño de un cuadricóptero que permita vigilar una determinada instalación de forma remota. Para alcanzar este objetivo se han seguido una serie de pasos. En primer lugar, se ha establecido el empuje necesario para este tipo de drones (3 Kg) así como la relación empuje/peso para el tipo de vuelo a realizar. A continuación, se ha calculado la relación potencia/empuje parametrizando la velocidad máxima estimada (60 Km/h). Con los resultados obtenidos se halla la potencia, se escoge un paso (3) y se fija la tensión de alimentación de los motores (12 V). Una vez realizado este proceso se han elegido los modelos comerciales de los motores y las hélices que se van a montar en el cuadricóptero. Posteriormente se ha realizado el diseño en 3D del dron tomando como referencia varios modelos de cuadricópteros existentes en el mercado. Para ello se ha utilizado el software Autodesk Inventor. El siguiente proceso ha sido el diseño electrónico para el cuál se han analizado diversos tipos de componentes comerciales para escoger los que más se ajustan a las necesidades establecidas. Se ha realizado el diseño del circuito por medio del programa KiCAD para, por medio del mismo, crear la PCB (Placa de Circuito Impreso). Por último, se ha realizado el diseño del algoritmo de control que permita al dron, por medio de los componentes electrónicos establecidos previamente, realizar correctamente las funciones propuestas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/58025</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/58025/files/TAZ-TFG-2016-4609.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecatrónica</dc:subject>
+    <dc:title>Diseño de un dron de vigilancia de forma remota con teléfono móvil</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Mobile Phone Remote Surveillance Drone Design remotely</dc:title>
+</oai_dc:dc>

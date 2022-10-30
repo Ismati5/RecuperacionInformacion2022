@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Romeo Giménez, Luis Miguel</dc:contributor>
+    <dc:creator>Martínez Valtueña, José María</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El transporte es uno de los medios de contaminación más importantes en  la actualidad y un factor muy influyente en el cambio climático. Dentro del transporte hay una gran variedad de medios, el que se va a tratar en este trabajo va a ser el transporte marítimo.  El proyecto plantea una manera de propulsión alternativa, para intentar evitar al máximo uno de los principales contaminantes como es la emisión de 〖CO〗_2 . La primera etapa va a consistir en una descripción de la embarcación y la manera de propulsión de la misma. Una vez definidos estos parámetros, se plantean diferentes métodos de captura de 〖CO〗_2 y se estudia la viabilidad de la instalación de algunos de ellos en el interior del barco. Una vez definido qué proceso es el más adecuado para las características dadas, se procede a una simulación por medio del programa EES. La simulación se dividirá en dos partes. La primera parte plantea el ciclo de vapor simple, es decir, sin captura de 〖CO〗_2. La segunda parte añade al ciclo el proceso de separación del 〖CO〗_2. Con los datos obtenidos para ambas simulaciones, se hace una comparativa de  los resultados  más importantes. Después, se estudia la relación existente entre el comportamiento del motor para diferentes cargas y el consumo de la embarcación para cada una de ellas. Todo esto acompañado de gráficas, donde se puedan comparar los casos planteados y las diferencias obtenidas. A continuación, se hace un breve estudio económico del caso. Se plantea las tasas sancionadoras atribuidas a las emisiones de 〖CO〗_2  en la actualidad y las que se prevén para los próximos años. Comparando la viabilidad económica del proyecto en función de las sanciones aplicadas.  Por último, se expondrán las conclusiones tomadas a partir del conjunto de resultado que se han ido obteniendo en el desarrollo del proyecto.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64004</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64004/files/TAZ-TFG-2017-3500.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Simulación de Transporte Marítimo sin emisiones de CO2</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Maritime Transport Simulation without CO2 emissions</dc:title>
+</oai_dc:dc>

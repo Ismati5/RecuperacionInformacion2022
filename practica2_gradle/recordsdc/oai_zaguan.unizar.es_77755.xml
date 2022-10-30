@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>LÓPEZ MOLINERO, ÁNGEL</dc:contributor>
+    <dc:creator>ESTEBAN PARICIO, ALEJANDRO</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>Se han desarrollado métodos de colorimetría digital para la determinación de peróxido de hidrógeno y putrescina a través de cámara digital, con medidas del color RGB reflejado en tiras reactivas, con 3, 3', 5, 5'-tetrametilbencidina. Se estudiaron factores de reacción tales como: adición de la secuencia de reactivos y composición de surfactante. También se consideraron factores instrumentales: tipo de formato de imagen, número de píxeles, cámara digital y color de la iluminación de la escena digital. En primer lugar, se estudió y optimizó la determinación de HP en tiras reactivas comerciales con peroxidasa HRP y sustrato TMB. Se aplicaron tres procedimientos diferentes de calibración, entre lo que se incluyó redes neuronales artificiales, RNA. Las predicciones se llevaron a cabo no solo a partir de un único color sino también según valores de RGB. Se evidenciaron diferencias en las prestaciones analíticas, además de errores de predicción. La variación de color y el análisis de factores del proceso cromático demostraron que la componente R con iluminación blanca justificó el 67% de la variación cromática. La influencia de la iluminación evidenció que el la iluminación r favoreció el color R reflejado, que aumentó y justificó el 93% de la variación cromática. Se adaptaron estudios previos de detección de HP a putrescina como amina biógena sobre tiras reactivas. La enzima DiAminoOxidasa demostró ser un catalizador eficiente para la descomposición de la diamina con producción de HP. También se evaluó el rendimiento analítico en diferentes condiciones de iluminación. Se estudió y caracterizó interferencias tales como la cadaverine. Ese método se ha aplicado al control de aminas biógenas en embutidos. La comparación estadística con patrones de referencia demostró que no hubo errores sistemáticos en la determinación.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/77755</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Analítica; Área de Química Analítica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/77755/files/TAZ-TFG-2018-2427_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/77755/files/TAZ-TFG-2018-2427.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Química</dc:subject>
+    <dc:title>Detección de aminas biógenas en la salubridad de alimentos, mediante métodos de tratamiento de imágenes digitales</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Detection of Biogenic Amines in safety of foods by digital image processing methods</dc:title>
+</oai_dc:dc>

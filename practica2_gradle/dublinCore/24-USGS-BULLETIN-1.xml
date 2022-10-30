@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<csw:Record xmlns:csw="http://www.opengis.net/cat/csw/2.0.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ows="http://www.opengis.net/ows" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:language>es</dc:language>
+  <dc:identifier>24-USGS-BULLETIN-1</dc:identifier>
+  <dc:contributor>Ron Worl and Kate Johnson (all USGS) compiled the geologic terrane map onto stable-base material at a 1:250,000. That plate was published as USGS publication Bulletin 2064-A, Plate 1. TechniGraphic System, Inc. of Fort Collins Colorado digitized that plate for the USGS in 1999 under contract for N.Shock (USGS). G.Green (USGS) edited and prepared for release a digital version as a geographic information system database. The digital geologic terrane database can be queried in many ways to produce a variety of geologic maps. The files are stored in the following projection - UTM, meters, zone 11, NAD27, Clarke 1866.</dc:contributor>
+  <dc:creator>R.G. Worl</dc:creator>
+  <dc:creator>K.M. Johnson</dc:creator>
+  <dc:description>The paper version of Map Showing Geologic Terranes of the Hailey 1°x2° Quadrangle and the western part of the Idaho Falls 1°x2° Quadrangle, south-central Idaho was compiled by Ron Worl and Kate Johnson in 1995. The plate was compiled on a 1:250,000 scale topographic base map. TechniGraphic System, Inc. of Fort Collins Colorado digitized this map under contract for N.Shock. G.Green edited and prepared the digital version for publication as a geographic information system database. The digital geologic map database can be queried in many ways to produce a variety of geologic maps.</dc:description>
+  <dc:format>ARC/INFO export</dc:format>
+  <dc:identifier>http://greenwood.cr.usgs.gov/pub/bulletins/b2064-a/hailey.tar</dc:identifier>
+  <dc:language>eng</dc:language>
+  <dc:publisher>U.S. Geological Survey</dc:publisher>
+  <dc:source>stable-base material clear films from orginals</dc:source>
+  <dc:subject>geology</dc:subject>
+  <dc:subject>3100 - Vector</dc:subject>
+  <dc:subject>stratigraphy</dc:subject>
+  <dc:title>Map Showing Geologic Terranes of the Hailey 1°x2° Quadrangle and the western part of the Idaho Falls 1°x2° Quadrangle, south-central Idaho</dc:title>
+  <dcterms:accessRights/>
+  <dcterms:issued>1995-01-01</dcterms:issued>
+  <dcterms:spatial>Hailey</dcterms:spatial>
+  <dcterms:spatial>16001 = Ada</dcterms:spatial>
+  <ows:BoundingBox>
+    <ows:LowerCorner>-116.0 43.0</ows:LowerCorner>
+    <ows:UpperCorner>-113.25 44.0</ows:UpperCorner>
+  </ows:BoundingBox>
+</csw:Record>

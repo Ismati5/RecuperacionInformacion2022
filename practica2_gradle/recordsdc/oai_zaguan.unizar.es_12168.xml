@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Vicente Ruiz, José</dc:contributor>
+    <dc:contributor>Moret-Fernández, David</dc:contributor>
+    <dc:contributor>Viñals Yúfera, Víctor</dc:contributor>
+    <dc:creator>Fatás Clavero, Enrique</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>En la actualidad, la técnica “Reflectrometría de Dominio Temporal” (TDR por sus siglas en inglés) proporciona a los grupos de investigación en agronomía, hidrología o ciencias del suelo, un método fiable para la medida de la humedad (θ) y la conductividad eléctrica (σ) del suelo, factores que regulan el crecimiento y desarrollo de las plantas. La existencia de aplicaciones informáticas que manejen TDR es escasa, por lo que se plantea la necesidad de desarrollar aplicaciones compatibles con los diferentes equipos TDR disponibles en el mercado que aporten productividad y fiabilidad en la medida de θ y σ. En la actualidad, resulta inviable para un organismo investigador el coste extra del software de control necesario para cada nuevo dispositivo TDR. Para reducir costes y complejidad de manejo, surgió la versión inicial de la aplicación TDR-LAB.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12168</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Arquitectura y Tecnología de Computadores</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12168/files/TAZ-PFC-2013-581.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>tdr-lab</dc:subject>
+    <dc:subject>conductividad eléctrica</dc:subject>
+    <dc:subject>software</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>TDR-LAB 2.0 improved TDR software for soil water content and electrical conductivity measurements</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

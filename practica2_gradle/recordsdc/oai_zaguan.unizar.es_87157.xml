@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Buldaín Pérez, Julio David</dc:contributor>
+    <dc:contributor>Casa Nebra, Roberto José</dc:contributor>
+    <dc:creator>Vizárraga Turmo, Jorge</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Este proyecto nace del intento de reducir la cantidad de datos enviados por sensores inteligentes para prolongar así su vida útil y dotarles de cierta seguridad al realizar una abstracción de los datos en crudo haciendo imposible su interpretación.&lt;br /&gt;Para ello se hace uso de una técnica ya desarrollada hace años, el vector quantization pero añadiéndole una serie de mejoras que permitan recalcular la disposición de los centroides para conseguir minimizar el error de reconstrucción. &lt;br /&gt;Se ha desarrollado esta técnica en lenguaje Python y se va a evaluar con una base de datos existente variando, los parámetros de muestreo, el uso de codificación por media y desviación típica, la composición con una o las tres componentes del sensor inercial y el tamaño de la red de entrenamiento.&lt;br /&gt;Con este sistema definido, se propone una clasificación de los datos reducidos para intentar sacar aun mayor índice de compresión frente a los datos enviados por el sensor en crudo.&lt;br /&gt;Una vez verificado el comportamiento del modelo se implementa en lenguaje micro Python en un sensor inteligente para evaluar el sistema compresor frente a su uso convencional.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87157</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87157/files/TAZ-TFM-2019-1443.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Electrónica</dc:subject>
+    <dc:title>Reducción de dimensionalidad y técnicas de inferencia de estado para sensores inteligentes</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Dimensionality reduction and simple status inference techniques for smart embedded sensors</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Zabalza Bribian, Ignacio</dc:contributor>
+    <dc:creator>Andrés Bailón, Mª Pilar</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Dentro de las diversas organizaciones existe un conjunto de empresas conocidas como multi-punto. Se les conoce con ese nombre ya que perteneciendo a una misma entidad, ofrecen servicios en áreas geográficas extensas con un amplio número de establecimientos donde el consumo de energía está altamente atomizado, como es el caso de las sucursales bancarias. Si estos gastos son multiplicados por el total de sucursales, los costes derivados del consumo de energía representan un volumen importante por lo que resulta necesaria la definición de una estrategia que permita a la organización llevar a cabo un control y una gestión energética, así como un conocimiento de su situación actual desde el punto de vista de la eficiencia energética. Lo anterior obliga a pensar en adoptar medidas de ahorro energético con una alta replicabilidad en el conjunto de sedes a través de un plan de ahorro energético que proporcione una estrategia de inversión cuantificando su volumen y rentabilidad. El primer paso para proponer inversiones en la reducción de los costes energéticos, es conocer las instalaciones típicas y tecnologías existentes en la tipología de organización a estudio, así como las variables que afectan en el consumo final de cada sucursal. Estas variables pueden permitir encontrar modelos de regresión que caractericen el consumo de energía, detectando desviaciones entre el consumo real y el esperado proporcionado por la regresión, que manifiesten la necesidad de un estudio de eficiencia energética más detallado. Para ello, en el presente proyecto se propone la caracterización energética de un Grupo Bancario basada en una metodología a través de la cual se pueda llegar a la creación de un plan de acción global de Ahorro Energético, definiendo la regresión estadística que describe el consumo de energía en las sucursales bancarias, el potencial existente en la reducción del coste energético, así como el listado de medidas necesarias y sus costes de inversión.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/13001</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/13001/files/TAZ-TFM-2013-1137.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>caracterización energética</dc:subject>
+    <dc:subject>sector edificación</dc:subject>
+    <dc:subject>sucursal bancaria</dc:subject>
+    <dc:subject>eficiencia energética</dc:subject>
+    <dc:subject>análisis estadístico</dc:subject>
+    <dc:subject>Máster Universitario en Energías Renovables y Eficiencia Energética</dc:subject>
+    <dc:title>Caracterización del consumo de energía y potencial de ahorro energético en el sector bancario español</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>López Gallego, Fernando</dc:contributor>
+    <dc:creator>Muñoz de la Peña Morales, Emilio</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>En este trabajo se ha desarrollado un método de análisis de imagen de microscopía de fluorescencia que permite caracterizar cinéticamente el biocatalizador heterogéneo a nivel de partícula simple. Para ello, monitorizando la fluorescencia del interior de las micropartículas se han obtenido los cursos de reacción a nivel de partícula simple de las enzimas inmovilizadas en su interior. Esto ha sido posible debido al tipo de muestras analizadas, con enzimas dependientes de cofactores de nicotamida autofluorescentes en su forma reducida (NADH/NADPH), permitiendo asociar la fluorescencia con la concentración de cofactor, y por tanto con la actividad enzimática. Posteriormente, estos cursos de reacción enzimáticos han sido ajustados con una función Lambert W para calcular sus parámetros cinéticos. A lo largo de este trabajo se explican las diferentes fases llevadas a cabo para, partiendo de las imágenes iniciales de fluorescencia, obtener los parámetros cinéticos finales en las partículas del biocatalizador. Para este trabajo han sido analizadas muestras de diferentes sistemas enzimáticos donde las enzimas, co-inmovilizadas con los cofactores en micropartículas porosas, catalizaron distintas reacciones monitorizadas en el microscopio de fluorescencia.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/84856</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Orgánica; Área de Química Orgánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/84856/files/TAZ-TFM-2019-300.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Biomédica</dc:subject>
+    <dc:title>Métodos de caracterización cinética de biocatalizadores heterogéneos a nivel de partícula simple</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Kinetic characterization methods of heterogeneous biocatalysts at single particle level</dc:title>
+</oai_dc:dc>

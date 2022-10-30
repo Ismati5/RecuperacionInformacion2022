@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gallego Martínez, José Ramón</dc:contributor>
+    <dc:creator>Latorre Alberich, Alejandro</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Este TFG consiste en el desarrollo de una aplicación para Smartphone, EncuestAPP, cuyo propósito es el de facilitar la posibilidad al usuario de realizar encuestas para compartirlas con otros usuarios y poder consultar el estado de la misma en cualquier momento. También ofrece la posibilidad de responder a la encuesta que hayas recibido y seguir el resultado de ésta. Por otro lado, existe la posibilidad de borrar la encuesta una vez haya sido creada por si queremos que deje de estar disponible y nadie pueda verla de nuevo. Todo esto se realiza a través de una aplicación móvil, un servidor basado en PHP y una base de datos MySQL que gestiona todas las encuestas y los votos de las mismas. Si el usuario quiere que la encuesta sea privada, puede añadir una contraseña que será requerida para acceder al resultado de la encuesta y, si se desea, borrarla. El objetivo es conseguir que la aplicación sea usable, de forma que se pueda utilizar de manera rápida y sencilla.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/15385</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingeniería Telemática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/15385/files/TAZ-TFG-2014-1093.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/15385/files/TAZ-TFG-2014-1093_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>encuesta</dc:subject>
+    <dc:subject>android </dc:subject>
+    <dc:subject>aplicación</dc:subject>
+    <dc:subject>software</dc:subject>
+    <dc:subject>app</dc:subject>
+    <dc:subject>servidor</dc:subject>
+    <dc:subject>php</dc:subject>
+    <dc:subject>base de datos</dc:subject>
+    <dc:subject>Graduado en Ingeniería de Tecnologías y Servicios de Telecomunicación</dc:subject>
+    <dc:title>Desarrollo de aplicación cliente-servidor para la creación y realización de encuestas mediante móvil</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

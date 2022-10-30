@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Abaurrea, Jesús</dc:contributor>
+    <dc:contributor>Cebrian, Ana C.</dc:contributor>
+    <dc:contributor>Escorihuela Sahún, María Etelvina</dc:contributor>
+    <dc:creator>Escorihuela Sahún, María Etelvina</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El objetivo de este trabajo es aplicar un procedimiento de downscaling estadístico a las series de temperatura máxima y mínima diarias de 10 observatorios de la Península Ibérica en tres escenarios de cambio climático, así como analizar los cambios previstos respecto al clima presente. El primer paso del procedimiento de downscaling es seleccionar las trayectorias válidas de la temperatura diaria proporcionadas por los modelos de circulación general. Esta selección se realiza en base a la calidad con que dichas trayectorias reproducen la climatología observada de los observatorios en el periodo 1971-2000, tanto respecto a la distribución global como respecto a la parte central y las colas de la distribución. Con las trayectorias seleccionadas se obtienen las proyecciones de los valores medios mensuales de las series de temperatura para 2031-60 en los escenarios A1B, A2 y B1. Finalmente, para obtener una única proyección mensual que resuma de forma robusta el cambio previsto para cada observatorio y escenario, se calcula una media ponderada del haz de proyecciones correspondiente a las trayectorias obtenidas en cada caso. Los resultados muestran un aumento del valor medio de las temperaturas para el periodo 2031-2060, en todos las regiones.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9047</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Métodos Estadísticos; Área de Estadística e Investigación Operativa</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9047/files/TAZ-TFM-2012-789.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>cambio climático</dc:subject>
+    <dc:subject>temperatura</dc:subject>
+    <dc:subject>Máster Universitario en Modelización Matemática, Estadística y Computación</dc:subject>
+    <dc:title>Evaluación y aplicación de un procedimiento estadístico para la generación de escenarios futuros de temperatura a escala diaria y local</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

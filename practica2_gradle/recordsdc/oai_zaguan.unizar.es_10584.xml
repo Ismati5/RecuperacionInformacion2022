@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Arcega Solsona, Francisco Javier</dc:contributor>
+    <dc:creator>Fernández Sánchez, Raúl</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El presente proyecto evalúa a nivel energético una planta industrial dedicada a la extrusión de aluminio. Se ponen en común los registros de consumo de electricidad, gas natural y agua de un año completo de producción, para a continuación desglosar los principales consumidores de cada área, determinando su potencia y horas de funcionamiento anuales. Mediante este análisis y varias visitas a la planta, se localizan los posibles puntos de mejora en la instalación. Siempre tratando de utilizar las últimas tecnologías presentes en el mercado, se plantean diversas mejoras relacionadas con la contratación del suministro eléctrico, los sistemas eléctricos de la planta, monitorización, e implantación de una instalación de aprovechamiento de energías alternativas. Cada una de las propuestas se acompaña de un estudio técnico y una valoración del ahorro potencial tanto económico como energético, también se detalla un presupuesto aproximado del coste de la implantación de la mejora y del periodo de retorno de la inversión. La propuesta de aprovechamiento de energías renovables consiste en una fotovoltaica sobre cubierta que será diseñada en su práctica totalidad y cuya producción se destinará a autoconsumo de una sección concreta de la planta, no a la venta de energía a la red. Con ello se pretende mostrar la posibilidad del “balance neto” en una planta industrial de pequeño tamaño. Por último se ponen en común los resultados obtenidos de acuerdo al conjunto de mejoras propuestas, a nivel energético, económico y medioambiental, se extraen las conclusiones y se finaliza con una reflexión del significado y la importancia del concepto de eficiencia energética para una empresa de tamaño medio.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10584</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10584/files/TAZ-PFC-2013-267.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electrónica Industrial)</dc:subject>
+    <dc:title>Evaluación y optimización energética de planta industrial</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

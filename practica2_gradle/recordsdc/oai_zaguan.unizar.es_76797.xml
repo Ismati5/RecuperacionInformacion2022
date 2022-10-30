@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bartley, Tim</dc:contributor>
+    <dc:creator>Milla Val, Jaime</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>Generating measurement-induced non linearity with a BS (Beam splitter) is an easy way to produce entangled states and potentially reduce the quadratures uncertainty as BS is a simple tool that can be implemented in a huge number of experimental setups without too much difficulty. The importance of this kind of states arises in the fields of quantum information and communication and metrology. To study this method, simulations, with the help of the software package QuTiP for Python, of three different setups involving BS, detectors and phase selectors have been done varying different parameters of the setup. In a simulation with one BS and a detector a reduction of the quadratures uncertainty has been observed. It has been found that same levels of entanglement are reached with one BS or two BS for a photon and a coherent state as input states.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76797</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76797/files/TAZ-TFG-2018-3089.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Física</dc:subject>
+    <dc:title>Simulating Measurement-induced Non Linearity with a Quantum-Optical Computational toolbox</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Simulating Measurement-induced Non Linearity with a Quantum-Optical Computational toolbox</dc:title>
+</oai_dc:dc>

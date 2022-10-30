@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Royo Herrer, Francisco Javier</dc:contributor>
+    <dc:creator>Jiménez Douglas, Leticia</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>En el presente proyecto se simula y analiza el comportamiento de un ciclo Rankine orgánico experimental (ORC) de pequeña potencia (10 kW) para generación eléctrica a partir de la recuperación del calor en una instalación de trigeneración. Dicha planta está siendo operada en las instalaciones del Centro de Investigación de Recursos y Consumos Energéticos (CIRCE). Las bajas temperaturas características de los calores residuales (de 90  a 150 ) impiden su aprovechamiento mediante un ciclo Rankine clásico de vapor de agua, más adecuado para la utilización de fuentes energéticas de alta temperatura. Esto conduce a la necesidad de estudiar otros fluidos, de carácter orgánico, cuyas propiedades termodinámicas los hacen adecuados para operar con calores de media y baja temperatura. En el presente proyecto se ha empleado el software Engineering Equation Solver (EES) para las simulaciones de los siguientes modelos realizados para el ciclo Rankine Orgánico (ORC) y el ciclo Rankine Orgánico con Recuperador de calor (RORC). •	Modelo ORC y RORC simple •	Modelo ORC y RORC basado en el comportamiento de la turbina •	Modelo ORC completo  Los modelos ORC y RORC simple han servido para la selección final del fluido orgánico de trabajo. En las simulaciones se han empleado solo aquellos fluidos que verificaban las condiciones adecuadas para la operación, en función de sus propiedades termodinámicas. Dichas simulaciones han permitido la selección del 1,1,1,3,3 pentafluoropropano (R245fa) como fluido óptimo de trabajo.  Tras este paso previo, empleando el fluido seleccionado, se realiza el segundo modelo en el que se simula el comportamiento de la turbina. Estas simulaciones se realizan en un ciclo Rankine Orgánico (ORC) y en una modificación del ciclo basada en la inclusión de un recuperador de calor (RORC) con el fin de evaluar las ventajas de rendimiento asociadas. Ésta modificación se descarta finalmente debido al bajo beneficio energético observado en las simulaciones.  Por último, se realiza el modelo ORC completo desarrollado para optimizar el funcionamiento de la planta experimental. En éste modelo se simula el comportamiento de la turbina, evaporador y condensador en diferentes condiciones de operación. Igualmente se calculan las pérdidas de carga en el ciclo que permitan analizar, entre otros, si se produce el fenómeno de cavitación en la bomba de la instalación.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10288</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10288/files/TAZ-TFM-2013-131.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>orc</dc:subject>
+    <dc:subject>optimización</dc:subject>
+    <dc:subject>trigeneración</dc:subject>
+    <dc:subject>baja temperatura</dc:subject>
+    <dc:subject>fluido orgánico</dc:subject>
+    <dc:subject>rorc</dc:subject>
+    <dc:subject>simulación turbina</dc:subject>
+    <dc:subject>intercambiadores de calor</dc:subject>
+    <dc:subject>pérdidas de carga instalación</dc:subject>
+    <dc:subject>Máster Universitario en Energías Renovables y Eficiencia Energética</dc:subject>
+    <dc:title>Simulación y optimización de un ciclo Rankine orgánico (ORC) de pequeña potencia (10kW)</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

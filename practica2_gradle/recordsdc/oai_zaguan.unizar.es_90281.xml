@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Castelló Pastor, José Juan</dc:contributor>
+    <dc:creator>González Yagüe, Carlos Santiago</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Los conflictos armados del siglo XXI demandan nuevos sistemas de Mando, Control y Comunicaciones de última tecnología, capaces de integrar en una misma red toda la información relativa a maniobra, logística e inteligencia. A este respecto, las pequeñas unidades de Caballería deben adaptar sus vehículos para la instalación del Battlefield Management System (BMS), que se configurará como el sistema de Mando y Control universal de nivel grupo táctico. Sin embargo, el proceso de instalación e implantación del BMS en el Vehículo de Combate y Reconocimiento de Caballería (VRCC) Centauro resulta más complicado de lo que pueda parecer a simple vista. Por un lado, la complejidad del sistema unida a su integración con las telecomunicaciones demanda personal experto que garantice su funcionamiento. Por otro lado, la instalación requiere una inversión económica en equipos hardware acorde con los requisitos tácticos y técnicos del proyecto, así como la creación de un equipo de trabajo que garantice la Calidad en todo el proceso.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/90281</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/90281/files/TAZ-TFG-2017-4071.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Organización Industrial</dc:subject>
+    <dc:title>Implantación del BMS en la plataforma VRCC Centauro</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">BMS Implementation on Centauro Reconnaissance Anti-tank Platform</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Irastorza, Igor</dc:contributor>
+    <dc:creator>Gracia Garza, Javier</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>En este trabajo hemos estudiado la aplicación de los planos de lectura Micromegas, una estructura para la amplificación de la carga en detectores gaseosos, al campo de la detección de sucesos poco probables. En el experimento CAST para la detección de axiones; y en el proyecto TREX-DM para la búsqueda de WIMPs de baja masa. Tanto los axiones como los WIMPs son excelentes candidatos para formar la materia oscura del universo dado que no aparecen como solución ad hoc para resolverlo, sino que se propusieron para solucionar imporantes problemas del Modelo Estandard de física de partículas. Tanto los axiones como los WIMPs producirían un ritmo de sucesos extremadamente bajo y a muy bajas energías.  Los detectores Micromegas pueden alcanzar niveles de fondo muy bajas y umbrales de energía por debajo del keV, debido a la granularidad del detector, radiopureza, unifromidad de la respuesta y alta ganancia.  Pequeños detectores gaseosos de unos 3 cm de espesor se utilizan en el experimento CAST para la detección de los rayos-x inducidos por los axiones.  En este trabajo se muestran los niveles de fondo alcanzados por los detectores del experimento, las técnicas de reducción de fondo y finalmente, en ausencia de una señal positiva, se obtienen límites a la constante de acoplo axion-fotón.  Una versión similar, pero superior en tamaño se pretende utilizar para la detección de WIMPs de baja masa en el proyecto TREX-DM. TREX-DM pretende operar un detector a alta presión con un material blanco ligero equipado con planos de lectura Micromegas. Se describe el detector y la puesta a punto del mismo, así como los primeros resultados de la caracterización y la sensibilidad anticipada que puede alcanzar el experimento en caso de operar en un laboratorio subterráneo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/47876</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Teórica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/47876/files/TESIS-2016-060.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>física nuclear</dc:subject>
+    <dc:subject>física de partículas</dc:subject>
+    <dc:title>Micromegas for the search of solar axions in CAST and low-mass WIMPs in TREX-DM</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

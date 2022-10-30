@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Espitia Escuer, Manuel</dc:contributor>
+    <dc:creator>Felices Manero, Diego</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El circuito profesional de tenis está regido por la Association of Tennis Professionals (ATP). Esta institución con sede en Londres designa una serie de torneos puntuables a lo largo del año y con estos puntos realiza un ránking con los mejores jugadores del momento. A lo largo de este Trabajo de Fin de Grado, se analiza la intensidad competitiva en el tenis profesional. Para llevar a cabo dicho análisis, se tomará el circuito profesional como un sector económico y los tenistas participantes en las clasificaciones ATP serán considerados agentes económicos. En este proyecto, se detallan los distintos métodos y técnicas necesarios para realizar el análisis, así como los resultados obtenidos. Asimismo, se utilizan diferentes formas de medir el output que permiten observar el tenis profesional desde perspectivas más completas. El objetivo de este estudio no es otro que observar el nivel de competitividad en este deporte. Para ello, se realizan comparaciones entre temporadas y entre los torneos Grand Slam. En la realización del trabajo, se ha tratado de poner en práctica los conocimientos teóricos obtenidos durante el Grado en Administración de Empresas, más concretamente en las asignaturas de Dirección Estratégica y Econometría. Por otra parte, la mayor parte del análisis estadístico y gráfico fue realizado en el software RStudio.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/63951</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/63951/files/TAZ-TFG-2017-3714.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Administración y Dirección de Empresas</dc:subject>
+    <dc:title>Análisis de la intensidad competitiva en el circuito ATP</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Analysis of the competitive intensity in the ATP circuit</dc:title>
+</oai_dc:dc>

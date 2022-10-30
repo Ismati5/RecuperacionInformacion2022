@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Zúñiga Antón, María</dc:contributor>
+    <dc:contributor>Postigo Vidal, Raúl</dc:contributor>
+    <dc:creator>Caudevilla Lambán, Maria</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Los mapas publicados para promoción e información turística constituyen un subgrupo particular de los mapas turísticos que pueden realizarse mediante el uso de Sistemas de Información Geográfica (SIG). En la presente memoria se pone en evidencia la escasez de reflexiones sistemáticas sobre cartografía turística y de propuestas metodológicas para confeccionar mapas turísticos. Por ello, se ha llevado a cabo una propuesta metodológica para la producción de un mapa turístico para la provincia de Huesca. El proyecto ha sido desarrollado de la mano del Departamento de Desarrollo y Medio Ambiente de la Diputación Provincial de Huesca, entidad con competencias en turismo. La herramienta cartográfica se ha diseñado con base en las necesidades de promoción turística de la Administración Pública, buscando el punto medio entre persuasión y precisión a la hora de representar los elementos sobre el mapa. Dado que es un proyecto ambicioso de política turística en cuyo futuro se deberán actualizar y modificar datos, se han empleado softwares libres de manera que la administración pueda después usar los datos, modificarlos y actualizarlos. Además, se ha querido validar el proyecto mediante encuestas a dos públicos diferenciados (general y experto), con el objetivo de mejorar el mapa original en función de las percepciones de los distintos usuarios.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87882</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio; Área de Análisis Geográfico Regional</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87882/files/TAZ-TFM-2019-1249_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/87882/files/TAZ-TFM-2019-1249.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Tecnologías de la Información Geográfica para la Ordenación del Territorio: Sistemas de Información Geográfica y Teledetección</dc:subject>
+    <dc:title>Protocolo metodológico para el diseño de cartografía turística y su aplicación a la provincia de Huesca.</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Methodological protocol for the design of tourist cartography and its application to the province of Huesca.</dc:title>
+</oai_dc:dc>

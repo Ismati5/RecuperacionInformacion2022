@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Rodríguez Fernández, Ricardo J.</dc:contributor>
+    <dc:contributor>Merseguer Hernáiz, José Javier</dc:contributor>
+    <dc:creator>Artal Lozano, Juan Antonio</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>La Instrumentación Dinámica de Ejecutables (Dynamic Binary Instrumentation, DBI) es una técnica muy potente que permite analizar el comportamiento, en tiempo de ejecución, de cualquier aplicación. DBI se puede usar, por ejemplo, para contar el número de instrucciones que ejecuta o contar todas las transferencias (lectura y/o escritura) a memoria que realiza un determinado programa. Un framework de DBI es una plataforma software que incluye programas, librerías, documentación y una API para manipulación de instrucciones en tiempo de ejecución. Existen diferentes frameworks de DBI (p.e., Pin, Valgrind, DynamoRIO, Paradyn/Dyninst), que proporcionan APIs muy extensas para que cada ingeniero pueda desarrollar sus propias herramientas de análisis dinámico, llamadas herramientas DBA (Dynamic Binary Analysis). Las herramientas DBA permiten analizar, generar optimizaciones y monitorizar el comportamiento de programas. El objetivo de este PFC es realizar un estudio comparativo centrado a nivel de impacto en rendimiento (performance) de diferentes frameworks de DBI. Es decir, se comprobará el rendimiento de una aplicación ejecutada de forma nativa, sin instrumentar, y se comparará con esta misma aplicación instrumentada por herramientas programadas bajo diferentes frameworks de DBI. De esta forma se obtiene el impacto en rendimiento de cada uno de los frameworks. Para poder llevar a cabo este estudio, se han seleccionado un conjunto de aplicaciones para crear un benchmark, que nos dará información de rendimiento de cada framework de DBI. Además, se pretende comparar cada framework de DBI atendiendo a las siguientes características: plataformas y tipos de ejecutables que aceptan, necesidad de disponer del código fuente, API proporcionada, facilidad de programación de herramientas DBA, licencia/coste y la posibilidad de vincular a un proceso en ejecución.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/7141</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/7141/files/TAZ-PFC-2012-187.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>instrumentación dinámica</dc:subject>
+    <dc:subject>dbi</dc:subject>
+    <dc:subject>benchmark</dc:subject>
+    <dc:subject>rendimiento</dc:subject>
+    <dc:subject>pin</dc:subject>
+    <dc:subject>valgrind</dc:subject>
+    <dc:subject>dynamorio</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Estudio comparativo de frameworks de instrumentación dinámica de ejecutables</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

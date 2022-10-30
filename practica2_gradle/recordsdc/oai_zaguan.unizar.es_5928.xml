@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Martínez Gracia, Amaya</dc:contributor>
+    <dc:creator>Sánchez Tapia, David</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Este proyecto fin de carrera va a tratar sobre la generación directa de vapor en colectores solares y estudiará su viabilidad como fuente de generación eléctrica. La novedad de este proyecto radica en que no existe actualmente ninguna planta comercial de generación directa de vapor. Tan solo existen lazos de pruebas y plantas de demostración que nos dan una idea de la viabilidad de estas tecnologías. Así pues, parece especialmente interesante hacer una comparativa entre los sistemas de concentración, describiendo sus componentes y analizando las ventajas e inconvenientes de las distintas opciones. En este proyecto se ha hecho especial hincapié en los colectores lineares Fresnel por ser la opción menos estudiada en la actualidad. Se ha dimensionado una planta de 45 MW con este tipo de tecnología, estudiando su viabilidad técnica y económica. También se ha hecho una comparativa frente a otros estudios de Generación Directa de Vapor en instalaciones de CCP. Para hacer este estudio de la instalación de colectores fresnel se han analizado las plantas de demostración actualmente construidas y los proyectos de plantas futuras. También se ha hecho uso de herramientas informáticas como los programas Termograf y EES con el fin de analizar los ciclos termodinámicos que tienen lugar en dichas plantas. En los dos últimos capítulos, el proyecto se centra en estudiar los resultados obtenidos y analizar las conclusiones extraídas de esos resultados.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5928</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5928/files/TAZ-PFC-2011-253.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>energía solar termoeléctrica</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Estudio técnico y económico de una instalación solar con colectores lineales Fresnel</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

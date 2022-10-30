@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Neira Parra, José</dc:contributor>
+    <dc:contributor>Piniés Rodríguez, Pedro</dc:contributor>
+    <dc:creator>Latif, Yasir</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>This thesis deals with the problem of indoor environment modelling using depth cameras.  We propose a system that allows to traverse an environment with a hand held camera, and no other sensor, and compute a dense 3D textured geometric reconstruction.  In the front-end, camera motion is computed by detecting interest points in the images and matching them across  frames.  We propose a loop closing or place recognition algorithm that is robust over time, and thus allows the system to reconsider past loop closing decisions once additional information becomes available. The backend of the system is the g2o graph optimization algorithm. We test our system both in simulations and with real data coming from a Kinect sensor.  Results show that thus system is viable and precise. Our future goal is to incorporate robust outlier detection algorithms that will allow the system to ignore dynamic objects, such as people, and avoid the inclusion of these elements in the model.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6781</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6781/files/TAZ-TFM-2011-143.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>slam</dc:subject>
+    <dc:subject>graph optimization</dc:subject>
+    <dc:subject>loop closing</dc:subject>
+    <dc:subject>depth cameras</dc:subject>
+    <dc:subject>Máster Universitario en Ingeniería de Sistemas e Informática</dc:subject>
+    <dc:title>Dense mapping of indoor environments</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

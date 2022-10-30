@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mateo Collazos, Pedro M</dc:contributor>
+    <dc:creator>Alberto Moralejo, Isolina</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>En esta tesis se presentan herramientas para mejorar la eficiencia de los algoritmos evolutivos multiobjetivo. Se presenta en primer lugar una metodología para el almacenamiento y manipulación de los individuos de las poblaciones de los algoritmos evolutivos multiobjetivo demostrando su superioridad sobre los métodos habituales. A continuación, y haciendo uso de la metodología anterior, se presentan dos nuevos operadores (uno de mutación y otro de recombinación) basados en la calidad de las soluciones involucradas, medida ésta en términos de su eficiencia. Para ambos operadores se realiza una comparativa con operadores habituales, mostrando que los operadores propuestos presentan mejores resultados.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6532</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Métodos Estadísticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6532/files/TESIS-2011-062.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>algoritmos evolutivos</dc:subject>
+    <dc:subject>investigación operativa</dc:subject>
+    <dc:title>Herramientas para algoritmos evolutivos multiobjetivo</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

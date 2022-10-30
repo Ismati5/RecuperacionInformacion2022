@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ester Sola, Francisco Javier</dc:contributor>
+    <dc:contributor>Gimeno Asín, Manuel</dc:contributor>
+    <dc:contributor>Peña Torre, José Ignacio</dc:contributor>
+    <dc:creator>Concheso Doria, Carlos</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>La tecnología del marcaje digital láser está siendo cada vez más desarrollada e implementada en la industria. Su uso anteriormente se restringía al marcaje de códigos de piezas cuya finalidad era únicamente la del seguimiento de los productos a lo largo de la línea de montaje, y no consistían por tanto en una parte estética para el cliente sino meramente funcional para los procesos industriales de fabricación. Con el desarrollo de esta tecnología el uso del láser se expande a campos nuevos como puede ser los productos alimenticios, donde las tintas tienen su uso restringido por motivos de salud; la joyería, y también el campo donde se trabajará en este proyecto: los electrodomésticos. En este proyecto se va a realizar un estudio enfocado a la implantación de la tecnología de marcaje digital láser en la cadena de producción de lavavajillas de BSH Lódz, Polonia. El alcance de este trabajo va a ser la realización de pruebas que permitan optimizar los parámetros de funcionamiento del láser adecuados para su uso. El marcaje conllevará la necesidad de una calidad suficiente, produciendo una serie de requerimientos técnicos y estéticos. Los requerimientos técnicos vendrán dados por las normativas internas de la propia compañía y los estéticos serán examinados por los diseñadores encargados de evaluar su calidad. El objetivo final es la sustitución de los métodos de tampografiado y serigrafiado de los frontales de los lavavajillas producidos en Lódz, por un proceso de marcaje láser más limpio, económico y flexible. En este trabajo nos centraremos esencialmente en los lavavajillas de la compañía y, de éstos, en la parte frontal del mismo, de acero inoxidable. El marcaje en acero inoxidable tiene múltiples usos como son la fabricación de redes de difracción por procesos de “engraving” en la superficie del material, la producción de marcas de agua o bajo contraste, muy usada en cubertería, por procesos de “anealing” en la superficie, o la producción de marcas de alto contraste, lo cual se consigue tanto con procesos de “anealing” como de “engraving” y tiene un valor puramente estético y cuyo uso es la reproducción de símbolos, letras, logos, imágenes, etc. Esta última aplicación es la que interesa para este proyecto ya que se pretende reproducir la simbología del frontal de todo lavavajillas producido en la fábrica. Es comprensible por tanto que los requerimientos estéticos sean críticos, ya que su incumplimiento supondría la incorrecta visualización de la decoración por parte del usuario. Se realizará un estudio posterior para comprender la fenomenología de este proceso de marcaje láser en acero inoxidable. Para tal fin se llevarán a cabo experimentos y mediciones para obtener una información más científica de los procesos internos del acero al ser tratado con láser. Finalmente, tras haber estudiado todas las posibilidades contempladas de marcaje láser en acero con los equipos disponibles se harán todos los ensayos pertinentes para asegurar el cumplimiento de los requisitos necesarios para que esta tecnología pueda ser implantada en la cadena de montaje de la fábrica de Lódz.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/13610</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Ciencia de los Materiales e Ingeniería Metalúrgica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/13610/files/TAZ-PFC-2014-164.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/13610/files/TAZ-PFC-2014-164_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>láser</dc:subject>
+    <dc:subject>marcaje láser</dc:subject>
+    <dc:subject>marcaje digital</dc:subject>
+    <dc:subject>acero inoxidable ferrítico</dc:subject>
+    <dc:subject>electrodomesticos</dc:subject>
+    <dc:subject>proceso industrial</dc:subject>
+    <dc:subject>annealing</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Marcaje digital láser aplicado a la decoración de frontales de lavavajillas</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

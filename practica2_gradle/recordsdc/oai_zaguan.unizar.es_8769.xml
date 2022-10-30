@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Lasierra Beamonte, Nelia</dc:contributor>
+    <dc:contributor>Alesanco Iglesias, Álvaro</dc:contributor>
+    <dc:creator>Arribas Arribas, Juan Carlos</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>En este proyecto se ha desarrollado un conjunto de herramientas que facilitan el desarrollo de agentes SNMP (Simple Network Management Protocol) así como de las MIBs (Management Information Base) que implementa a partir de su definición formal. El sitema consta de tres bloques independientes entre sí, pero que están diseñados para funcionar conjuntamente. El primer bloque consta de un interfaz gráfico con las herramientas necesarias para poder diseñar una MIB. El segundo bloque se encarga de transformar la definición formal de una MIB cualquiera en una estructura de tablas genéricas para su almacenamiento en una BBDD (base de datos). El último bloque permite desarrollar un agente SNMP para establecer comunicaciones SNMP con un gestor externo y así facilitar a este la gestión de la MIB implementada en la BBDD.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8769</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingeniería Telemática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8769/files/TAZ-PFC-2012-516_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/8769/files/TAZ-PFC-2012-516.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>snmp</dc:subject>
+    <dc:subject>mib</dc:subject>
+    <dc:subject>implementación agente snmp</dc:subject>
+    <dc:subject>base de datos de una mib</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicación</dc:subject>
+    <dc:title>Implementación automática de un agente SNMP a partir de la definición formal de su MIB</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

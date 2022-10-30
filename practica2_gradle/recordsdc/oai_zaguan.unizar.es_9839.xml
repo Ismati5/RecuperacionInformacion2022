@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Vecchi, Giuseppe</dc:contributor>
+    <dc:contributor>Masgrau Gómez, Enrique</dc:contributor>
+    <dc:creator>Masgrau Rite, Enrique</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>En este proyecto se desarrolla una aplicación basada en "Microwave Imaging" (MWI), implementada con el propósito de obtener las propiedades materiales desconocidas de un determinado objeto. Este método consta de dos partes fundamentales: El Problema Directo y el Algoritmo Inverso. La primera etapa, el Problema Directo, implica la medición del campo eléctrico disperso a lo largo de un dominio material. El Objeto de Interés (OI) representa un cuerpo material desconocido que se encuentra dentro de un tanque, rodeado por un conjunto de antenas que iluminan el escenario y almacenan los datos experimentales de las mediciones relacionadas con el campo eléctrico. Además, se introduce un medio adaptador dentro del recinto cerrado, el cual es denominado como "background". Con el objetivo de simular los datos experimentales, se desarrolla el Método de los Elementos Finitos. FEM representa una técnica matemática e ingenieril muy potente que nos permite resolver un conjunto de ecuaciones lineales que describen el comportamiento electromagnético. De este modo, podremos generar los datos sintéticos referidos a las variables nodales, que definen el escenario de imagen simulado mediante un simulador de FEM, denominado GiD y desarrollado por la UPC. Después de resolver el Problema Directo, se aborda el "Contrast Source Inversion Method" (CSIM) con el propósito de reconstruir los parámetros físicos originales que definen el OI. Haciendo uso de este algoritmo de inversión será viable alcanzar el error mínimo global entre los datos reales y los reconstruidos. Cuando este método iterativo converja, los resultados reconstruidos serán analizados con el objeto de identificar los materiales implicados en el "Imaging Domain". En este trabajo se describen los diferentes experimentos relacionados con el Problema Directo y Algoritmo Inverso, obteniendo diversas conclusiones sobre el funcionamiento de FEM-CSIM. En concreto, se analizan los conductores eléctricos perfectos, la distribución de las fuentes de corriente, las própiedades dieléctricas del "background" y la influencia de la frecuencia. Del mismo modo, los resultados de reconstrucción serán comparados en diferentes experimentos, obteniendo información sobre la resolución del método y las limitaciones del algoritmo. Finalmente es importante destacar las simulaciones realizadas con medios con y sín pérdidas, y los experimentos de biomedicina que tratan de representar posibles experimentos reales de imagen médica. Observaremos como CSIM proporciona una calidad alta en los resultados cómo para poder detectar la posicion y características de los objetivos. En las mejores situaciones de reconstrucción obtendremos errores en torno al 25%, que aunque puedan parecer discretos, son suficientes en muchas aplicaciones de imagen médica.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9839</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9839/files/TAZ-PFC-2012-803.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>tomografía computerizada</dc:subject>
+    <dc:subject>electromagnetismo</dc:subject>
+    <dc:subject>microwave imaging</dc:subject>
+    <dc:subject>biomedicina</dc:subject>
+    <dc:subject>problema directo</dc:subject>
+    <dc:subject>problema inverso</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicación</dc:subject>
+    <dc:title>A finite element approach to inverse scattering problems</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

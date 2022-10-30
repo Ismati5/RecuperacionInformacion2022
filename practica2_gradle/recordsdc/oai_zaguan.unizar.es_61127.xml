@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Blasco Alberto, Javier</dc:contributor>
+    <dc:creator>Urdeitx Diaz, Pau</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>En el presente proyecto se va a modelar una red de riego por goteo ya instalada. Se busca obtener un modelo que refleje de forma fiel las condiciones de la red real. A partir de este modelo se generará una propuesta de ampliación de dicha red a una serie de parcelas adyacente. Es importante verificar la correspondencia de los datos obtenidos con el modelo y la red real ya que se va a tratar de obtener una ampliación que trabaje de la manera más óptima posible. Las fases del proyecto se definen en 4: a) Recogida de datos para modelar la red. b) Creación de un modelo informático fiel. c) Comprobación de los resultados. d) Propuesta de ampliación de dicha red. Se van a utilizar los conocimientos adquiridos en el grado de ingeniería mecánica de distintas áreas lo cual, sumado a que es un proyecto real, hace el proyecto muy atractivo. Para la caracterización de los elementos se van a aplicar los conocimientos de las asignaturas de la rama de fluidos y con más importancia sobre las demás la asignatura de “Teoría de máquinas e instalaciones de fluidos”. A parte de esto, se aplicarán conocimientos informáticos y de programación por la necesidad de crear un programa de apoyo en la creación de los modelos, así como conocimientos de manipulación y creación de planos técnicos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61127</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61127/files/TAZ-TFG-2016-4194.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/61127/files/TAZ-TFG-2016-4194_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Modelado y propuesta de mejora de un sistema de riego por goteo para el riego de frutales</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Modeling and upgrade proposal for drip irrigation of fruit trees</dc:title>
+</oai_dc:dc>

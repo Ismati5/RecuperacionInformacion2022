@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mena Nieto, Eduardo</dc:contributor>
+    <dc:creator>Marcén Altarriba, Rafael</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>En la actualidad, el desarrollo de videojuegos ha crecido enormemente gracias a los nuevos motores gráficos y su modelo de negocio donde el desarrollo independiente no necesita realizar un gran desembolso para adquirir una licencia que permita usar el motor gráfico. En este trabajo de fin de grado se explora la idea de crear un videojuego de carreras futurista denominado “Syncopia” partiendo de cero y utilizando como plataforma de desarrollo principal uno de los motores gráficos más populares entre los desarrolladores independientes como es Unity. Unity proporciona una base muy sólida para trabajar con entornos en 3D permitiendo un desarrollo orientado a múltiples plataformas, pero sin automatizar la creación y desarrollo del conjunto de sistemas que componen un videojuego. Para lograr esto, se han abordado diversos problemas relacionados con el mundo de los videojuegos en el campo técnico. En concreto, se ha priorizado el desarrollo de los siguientes aspectos:  •	Diseño e implementación de una inteligencia artificial adaptativa capaz de reaccionar y adaptarse a los cambios que se producen en el entorno. •	Aplicación de técnicas avanzadas de procesamiento de imágenes (antialiasing, oclusión ambiental, etc.).  •	Diseño e implementación de la infraestructura de red necesaria para añadir un modo multijugador en red. Además, como el desarrollo de un videojuego no solo depende de los aspectos técnicos, sino que el aspecto artístico tiene un peso muy importante, se han tenido en cuenta otros factores como la creación y búsqueda de modelos 3D, texturas, música o el diseño e implementación de las interfaces.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61390</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61390/files/TAZ-TFG-2017-086.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>Creación de un videojuego de carreras en 3D</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Making a 3D racing videogame</dc:title>
+</oai_dc:dc>

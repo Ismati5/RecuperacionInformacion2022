@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Coronas Ceresuela, Joaquín</dc:contributor>
+    <dc:contributor>Téllez Ariso, Carlos</dc:contributor>
+    <dc:creator>Galve Guinea, Alejandro</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El objetivo principal de esta tesis es el estudio estructural de materiales laminares y su utilización para la preparación de membranas mixtas, específicamente se ha buscado conseguir membranas que muestren propiedades barrera y propiedades de separación mejoradas para la mezcla hidrógeno/metano. Se ha realizado el estudio estructural de las zeolitas Nu-6(1) y Nu-6(2) a partir de datos de difracción de rayos X obtenidos en el sincrotrón ESRF de Grenoble. El principal objetivo era obtener información sobre la influencia de la incorporación de aluminio en la estructura cristalina y como afecta al proceso de deslaminación. Los datos fueron tratados con el programa comercial Materials Studio realizándose refinamientos Pawley, Rietveld y simulaciones de energía. Las membranas mixtas se prepararon utilizando como materiales inorgánicos el titanosilicato laminar JDF-L1 y esferas de sílice mesoporosas MCM-41. Como fase polimérica se utilizó principalmente lo copoliimida 6FDA-4MPD/6FDA-DABA 4:1. Las láminas individuales de JDF-L1 solo son permeables al hidrógeno disminuyendo considerablemente la permeabilidad del resto de los gases. De esta manera se consiguieron membranas con efecto barrera, principalmente para oxígeno. Las esferas de MCM-41 incrementan la permeabilidad de todos los gases reduciendo la selectividad para la mezcla hidrógeno/metano. Se prepararon membranas mixtas con ambos materiales inorgánicos con el objetivo de obtener sinergías entre los dos materiales incrementando tanto la selectividad como la permeabilidad de la mezcla hidrógeno/metano. La caracterización de las membranas, polímeros y diversos materiales inorgánicos (JDF-L1, MCM-41, Nu-6(1) y Nu-6(2)) se realizó mediante diversas técnicas: difracción de rayos X, microscopía electrónica de barrido y de transmisión, análisis termogravimétrico, adsorción/desorción de N2, fluorescencia de rayos X, espectroscopia Raman y resonancia magnética nuclear. Las membranas se utilizaron para separar mezclas de oxígeno/nitrógeno e hidrógeno/metano.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10398</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10398/files/TESIS-2013-040.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>ingeniería química</dc:subject>
+    <dc:subject>separación química</dc:subject>
+    <dc:subject>procesos químicos</dc:subject>
+    <dc:subject>síntesis química</dc:subject>
+    <dc:subject>propiedades de materiales</dc:subject>
+    <dc:title>Estudio estructural de materiales laminares y su aplicación en membranas mixtas material laminar-polímero</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

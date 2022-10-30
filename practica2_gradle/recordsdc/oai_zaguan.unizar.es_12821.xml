@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Larrodé Pellicer, Emilio</dc:contributor>
+    <dc:creator>Oliva Cerdán, Gerard</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El presente proyecto recoge una serie de estudios de comportamiento, ante un caso específico de carga aplicada, de los elementos que componen un conjunto pisadera, correspondiente a un modelo concreto de puerta automática de rellano de ascensor de la empresa Fermator SA. Los diversos resultados obtenidos en los estudios, dadas las condiciones específicas de carga representadas por una carretilla manual cargada, han proporcionado unos resultados óptimos y significativos en lo que respecta a los modelos de elementos estudiados. No solamente se ha dado validez al conjunto dando una solución específica y concreta a cada uno de los casos planteados, sino que se ha conseguido obtener una visión clara respecto a distintos aspectos en referencia a los elementos, con posibilidad de mejora en su diseño. Los tres estudios realizados (estático, de frecuencias naturales y de fatiga), han proporcionado una información completa y suficiente para validar el conjunto en conceptos específicos de rigidez del sistema, resistencia mecánica de cada elemento o durabilidad del conjunto, dadas las condiciones especificadas. A nivel de empresa, con este estudio se ha pretendido crear una base para el análisis de los casos planteados por el cliente, respecto a la elección entre los distintos modelos de pisadera y escuadras de fijación que dispone la empresa, dado un caso real de cargas en la misma y las dimensiones constructivas restrictivas. En la situación actual, son muchas las demandas de dicha información y relativamente pocos los datos técnicos de los que se disponen, lo que se ha considerado un gran aliciente para su realización. Por ello, se ha pretendido que el Proyecto constituyera un punto de partida, ampliando el mismo con el resto de modelos de pisaderas y escuadras y aplicando distintas condiciones de carga (por peticiones de clientes o porque así se estime oportuno) y así, optimizar la respuesta técnica ofrecida en cada uno de los casos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12821</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería e Infraestructura de los Transportes</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12821/files/TAZ-PFC-2013-639.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/12821/files/TAZ-PFC-2013-639_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>estudio </dc:subject>
+    <dc:subject>carga</dc:subject>
+    <dc:subject>ascensor</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Puertas de rellano de un ascensor de viviendas. Estudio carga en conjunto pisadera</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Artal Sévil, Jesús Sergio</dc:contributor>
+    <dc:contributor>Bernal Agustín, José Luis</dc:contributor>
+    <dc:creator>Lecina Sayas, Jorge</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El proyecto plantea la integración de un sistema de carácter renovable en una vivienda aislada de la red eléctrica y de suministro de agua, que pueda autoabastecerse sin necesidad de un apoyo externo. La ubicación del proyecto está demasiado lejos de los núcleos urbanos, por lo tanto si se desea consumir electricidad o agua se necesita desviar hasta allí un suministro, algo totalmente inviable, haciendo ideal el uso de los recursos presentes en la zona.  El objetivo principal es realizar un análisis de un sistema que abarque las 4 energías renovables que se quiere estudiar en este proyecto, demostrando si este caso será viable y si es la combinación  elegida  la más favorable medioambiental y económicamente. El desarrollo de este proyecto constará de las siguientes fases: en primer lugar, se llevará a cabo un breve dimensionado de cómo sería el suministro de ACS, de las necesidades energéticas y la forma de aportar esta energía; en segundo lugar, se realizará el dimensionado del sistema eléctrico; finalmente, se establecerán simulaciones con Homer, software recomendado para evaluar la viabilidad económica de sistemas energéticos especialmente con energías renovables.  Además, al final del proyecto, de entre los 11 casos que señalamos a continuación, se explicarán los resultados del mejor de ellos (caso nº 5): 1.	Sistema fotovoltaico para carga eléctrica, 2.	Sistema fotovoltaico apoyado de grupo electrógeno para carga eléctrica, 3.	Sistema mini eólico y grupo electrógeno para carga eléctrica, 4.	Sistema mini eólico, fotovoltaica y grupo electrógeno para carga eléctrica, 5.	Sistema mini eólico, fotovoltaica y grupo electrógeno para dos cargas, 6.	Sistema fotovoltaico para dos cargas, 7.	Sistema mini eólico y grupo electrógeno para dos cargas, 8.	Sistema con grupo electrógeno para dos cargas, 9.	Sistema de ACS con fotovoltaica, 10.	Sistema de ACS con solar y mini eólica, 11.	Sistema de ACS con mini eólica, fotovoltaica y grupo electrógeno. Por último, se concluirá el proyecto mostrando la cantidad de CO2 no emitidos a la atmósfera y de otros compuestos contaminantes.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31473</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31473/files/TAZ-TFG-2014-2513.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/31473/files/TAZ-TFG-2014-2513_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>homer</dc:subject>
+    <dc:subject>sistema aislado</dc:subject>
+    <dc:subject>energías renovables</dc:subject>
+    <dc:subject>fotovoltaica</dc:subject>
+    <dc:subject>eólica</dc:subject>
+    <dc:subject>biomasa</dc:subject>
+    <dc:subject>solar térmica</dc:subject>
+    <dc:subject>acs</dc:subject>
+    <dc:subject>Graduado en Ingeniería Química</dc:subject>
+    <dc:title>Análisis de energías renovables para el autoabastecimiento de una vivienda aislada y ACS a través de la biomasa</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

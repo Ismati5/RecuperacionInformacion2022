@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Comech Moreno, María Paz</dc:contributor>
+    <dc:creator>Murillo Murillo, Adrián</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>La energía eólica es, a día de hoy, la fuente renovable más usada, madura y eficiente. Su fuente primaria es la energía del viento que no es controlable ni almacenable, por lo que se considera como generación no gestionable. Además, se trata de generadores no convencionales, ya que no están basados en máquinas síncronas directamente conectadas a la red. Es por esto, que para evitar un posible impacto negativo en la red debido a los aerogeneradores, los operadores del sistema (TSO) de los diferentes países han elaborado requisitos de conexión para la generación eólica dentro de los denominados “Códigos de red” o “Grid Codes”. Estos requisitos establecen el comportamiento que deben presentar los parques eólicos tanto en operación normal como ante eventos junto con las instrucciones para su conexión a red. El objetivo del presente TFG es el de elaborar un procedimiento que permita comprobar que un parque eólico cumple los requisitos de conexión a red mediante simulación, siguiendo las instrucciones del Grid Code de Reino Unido. El trabajo se compone de las siguientes fases: - Revisión de los principales requisitos de conexión a red establecidos para parques eólicos y realizar una comparativa entre diferentes países. - Revisión y análisis de los requisitos de conexión a red en el Grid Code analizado. - Definición del procedimiento necesario para realizar mediante simulación la verificación del cumplimiento de los requisitos de conexión a red de una instalación según el Grid Code analizado. - Aplicación del procedimiento a una instalación ejemplo mediante DIgSILENT PowerFactory.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61202</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61202/files/TAZ-TFG-2016-2918.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Eléctrica</dc:subject>
+    <dc:title>Verificación mediante simulación de los requisitos de conexión de un parque eólico a la red de transporte</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Verification of grid connection requirements for a wind farm</dc:title>
+</oai_dc:dc>

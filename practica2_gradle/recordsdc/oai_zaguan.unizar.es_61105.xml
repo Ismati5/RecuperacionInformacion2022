@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Blasco Alberto, Javier</dc:contributor>
+    <dc:contributor>Gutiérrez Pérez, Diego</dc:contributor>
+    <dc:creator>Magallón Ramos, Jorge</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>El presente proyecto busca desarrollar un sistema que permita grabar en vídeo (con manos libres y de forma cómoda) lo que una persona está viendo en primera persona. El dispositivo desarrollado puede resultar muy útil para mostrar a otra persona lo que estamos haciendo. Sus usos son innumerables pudiéndose aplicar para demostraciones comerciales, docencia, operaciones quirúrgicas, formación en el manejo de aparatos, tutoriales entre muchas otras. El trabajo consistirá principalmente en el desarrollo y diseño del producto, definiéndolo completamente tanto formal como funcionalmente. También se desarrollará su secuencia de uso, sus dimensiones generales, y los componentes internos necesarios para su uso.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61105</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61105/files/TAZ-TFG-2016-4377.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/61105/files/TAZ-TFG-2016-4377_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería en Diseño Industrial y Desarrollo de Producto</dc:subject>
+    <dc:title>Desarrollo de un dispositivo para la grabación de vídeo en primera persona</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Development of a filming device for first-person perspective</dc:title>
+</oai_dc:dc>

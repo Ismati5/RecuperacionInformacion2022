@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Presa Irazábal, Lara</dc:contributor>
+    <dc:contributor>Masiá Corcoy, Belén</dc:contributor>
+    <dc:contributor>Gutiérrez Pérez, Diego</dc:contributor>
+    <dc:creator>García Girón, Luis</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>En los últimos años, la investigación en el campo de la Fotografía Computacional ha dado lugar a numerosos avances en las múltiples disciplinas que lo componen, rebasando los límites de la fotografía convencional. Uno de estos límites es la incapacidad de las cámaras fotográficas de representar toda la gama de luminancias presentes en una escena, y que se solucionó tras la aparición de la técnica del alto rango dinámico o HDR (High Dynamic Range). Esta técnica permite fusionar una serie de imágenes de una escena, capturadas con distintos parámetros de exposición, de modo que la imagen resultante recoge todo el rango dinámico conjunto de las imágenes empleadas para su obtención. En este proyecto se ha trabajado con imágenes HDR, y en particular con el problema de reenfocado de las mismas. El desenfoque, provocado por la limitada profundidad de campo o por una incorrecta elección de los parámetros de la cámara, es un problema clásico en fotografia. Se han implementado y analizado dos técnicas diferentes de reenfocado de imágenes HDR. La primera de ellas consiste en el empleo de aperturas codificadas, máscaras que se colocan en la lente de la cámara y que permiten codificar el desenfoque, facilitando su corrección a posteriori mediante técnicas computacionales. El empleo de aperturas codificadas es habitual en el reenfocado de imágenes convencionales de bajo rango dinámico o LDR (Low Dynamic Range), pero hasta la fecha estas técnicas no se habían extendido a las imágenes HDR y se desconocía su viabilidad. La segunda técnica que se estudia es la de generación y reenfoque de imágenes HDR con aperturas múltiples. Con esta técnica se emplean imágenes de una misma escena obtenidas variando el tamaño de la apertura, por lo que no sólo varía la exposición entre ellas, sino también el desenfoque. Gracias a ello, se permite obtener al mismo tiempo información sobre la luminancia y sobre la profundidad de la escena, permitiendo obtener fotografías HDR de la misma, que además pueden ser reenfocadas como se desee.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/7942</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/7942/files/TAZ-PFC-2012-360.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>fotografía computacional</dc:subject>
+    <dc:subject>aperturas codificadas</dc:subject>
+    <dc:subject>alto rango dinámico</dc:subject>
+    <dc:subject>tratamiento digital de imagen</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicación</dc:subject>
+    <dc:title>Reenfocado de imágenes de alto rango dinámico con aperturas codificadas y aperturas múltiples</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

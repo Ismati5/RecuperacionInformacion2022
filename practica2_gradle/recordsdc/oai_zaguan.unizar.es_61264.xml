@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Romeo Giménez, Luis Miguel</dc:contributor>
+    <dc:creator>Compadre Senar, David</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>El trabajo "Simulación de un ciclo de potencia con CO2 supercrítico", surge por el interés de continuar con los estudios que se están realizando sobre un nuevo fluido de trabajo en los ciclos de generación de energía como es el CO2 en estado supercrítico. Este interés surge debido al veloz crecimiento de las  economías asiáticas China e India, que se traduce en una voraz máquina que demanda energía, y gran parte de esta energía es producida mediante centrales térmicas de vapor que funcionan con la quema de carbón. Para mejorar el rendimiento de estas centrales se han puesto en marcha nuevas líneas de investigación para aumentar el rendimiento global, una de ellas es la construcción de un ciclo Brayton con CO2 en estado supercrítico, que es el ciclo que vamos a tratar en este proyecto. En primer lugar, se simula mediante el programa EES; un ciclo Rankine con vapor supercrítico, ciclos con un rendimiento en torno al 45%, y un ciclo Brayton con CO2 supercrítico, de los cuales se calcula su modelo termodinámico y sus variaciones en el rendimiento frente a diversos parámetros del ciclo. A partir de aquí, se presentan las conclusiones frente a la decisión de seguir apoyando el ciclo Brayton, ya que durante el proceso de simulación se han obtenido resultados referentes al rendimiento del ciclo Brayton entre el [50-60]% que se apoyan en los datos obtenidos en el artículo  escrito por Yann Le Moullec y Mounir Mecheri que hablan de un rendimiento del ciclo entre el 52,4% y el 53,5%. Además se observa una fuerte disminución del tamaño de los equipos a emplear debido a las propiedades que presenta el CO_2 en un estado supercrítico, que nos permiten trabajar con un flujo volumétrico mucho menor que el que necesitaríamos con el ciclo de vapor.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61264</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61264/files/TAZ-TFG-2016-2153.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Simulación del funcionamiento de un ciclo de potencia con CO2 supercrítico</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Simulation of operation of a supercritical CO2 power cycle</dc:title>
+</oai_dc:dc>

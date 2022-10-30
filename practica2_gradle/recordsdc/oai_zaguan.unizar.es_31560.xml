@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Rodríguez, Juan Antonio</dc:contributor>
+    <dc:creator>Beltrán Larred, Héctor</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Estudio de atomizador basado en la tecnología venturi-vortex, enfocado en el comportamiento de este con líquidos de diferentes viscosidades y la variación tanto de parámetros de operación así como parámetros geométricos del mismo, clasificando el comportamiento en calidad de nebulizado y cantidad producida por el dispositivo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31560</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31560/files/TAZ-PFC-2014-599.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/31560/files/TAZ-PFC-2014-599_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>atomización</dc:subject>
+    <dc:subject>vórtice</dc:subject>
+    <dc:subject>efecto venturi</dc:subject>
+    <dc:subject>viscosidad</dc:subject>
+    <dc:subject>Ingeniero Químico</dc:subject>
+    <dc:title>Influencia de la viscosidad y de parámetros geométricos en atomizadores Venturi-Vórtice</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

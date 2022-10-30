@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Letosa Fleta, Jesús</dc:contributor>
+    <dc:creator>Iturrate Gil, Iker Xabier</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>En este Trabajo Fin de Máster (TFM) se ha realizado el estudio de un rodamiento magnético activo axial mediante simulaciones de elementos finitos. Así, en primer lugar, se ha realizado una revisión del estado del arte sobre rodamientos magnéticos para estudiar las topologías que se utilizan en el diseño de los mismos. Tras esto, se ha simulado un modelo mediante el programa Finite Element Method Magnetic (FEMM v4.2) a partir de uno de los modelos publicados. Una vez se dispone del modelo simulado, se han realizado una serie de pruebas de validez para analizar la sensibilidad de los resultados obtenidos frente a diversas modificaciones en el entorno de FEMM. Asimismo, se ha comparado el modelo simulado con el modelo validado mediante varios estudios para evaluar su comportamiento electromagnético. Después, se ha profundizado en el estudio paramétrico de la geometría que define el rodamiento magnético, con el objetivo de simular un modelo mediante FEMM que mejore las prestaciones del modelo validado. Para ello, se ha implementado un algoritmo en Matlab vR2011 que ejecuta FEMM y permite el diseño y análisis de rodamientos magnéticos activos axiales, basados en la topología estudiada, pero con los parámetros geométricos que se deseen. Así, con esta herramienta diseñada en Matlab, se ha podido llevar a cabo el estudio paramétrico del rodamiento de una manera más visual y rápida. En consecuencia, tras el estudio de diversas modificaciones en la geometría del rodamiento magnético, se ha simulado un rodamiento magnético activo axial que aporta más fuerza axial que el modelo validado. Por último, se ha simulado un modelo mediante FEMM de un rodamiento magnético activo axial que permite compensar las fuerzas resultantes en sentido axial para un prototipo operativo de rotor levitado.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9225</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9225/files/TAZ-TFM-2012-915.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>rodamiento magnético activo axial, método elementos finitos, femm, matlab</dc:subject>
+    <dc:subject>Máster Universitario en Energías Renovables y Eficiencia Energética</dc:subject>
+    <dc:title>Estudio de un rodamiento magnético activo axial mediante simulaciones de elementos finitos</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

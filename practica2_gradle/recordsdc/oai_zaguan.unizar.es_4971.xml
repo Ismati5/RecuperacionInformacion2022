@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Larrodé Pellicer, Emilio</dc:contributor>
+    <dc:creator>Romero Porroche, Jaime</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>El objetivo del proyecto es el diseño de la cadena de tracción de un vehículo eléctrico, diseño que se ha llevado a cabo seleccionando en un banco de datos los distintos elementos que la componen: baterías, motor eléctrico y accionamientos mecánicos para la transmisión del movimiento. Se han optimizado varios modelos según el escenario de demanda correspondiente: vehículo de uso particular, vehículo tipo taxi o vehículo de transporte de mercancías.  Las distintas configuraciones se han dimensionado y simulado con el programa Advisor. Mediante iteraciones en el diseño de los vehículos, modificando sucesivamente las baterías y motores, se han seleccionado aquellos que cumplen las exigencias de los ciclos de funcionamiento con un consumo energético mínimo.  Pese al menor consumo energético del coche eléctrico frente al coche térmico, hay que tener en cuenta que la producción y transporte de electricidad es energéticamente menos eficiente que la extracción, refino y distribución de los combustibles fósiles. Evidentemente, lo que realmente cuenta es el consumo de la energía disponible en el medio que es destinada al transporte, en nuestro caso al transporte en entorno urbano. Para ello se hace necesario una comparación de la eficiencia y el consumo “del pozo a la rueda” para los vehículos estudiados eléctricos frente a los actuales térmicos. También se realiza una distinción entre consumo de energías renovables y limpias y el consumo de energías no renovables y contaminantes. Complementando lo anterior, se realiza un pequeño estudio del coste de mantenimiento de dichos vehículos frente a los actuales de combustión interna, basándonos en el precio del Kwh eléctrico y de los combustibles fósiles. Finalmente se comentará la limitación de los resultados obtenidos, las nuevas tendencias en movilidad eléctrica, las ventajas cualitativas del uso del coche eléctrico y las áreas de investigación prioritarias en este campo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4971</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería e Infraestructura de los Transportes</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4971/files/TAZ-PFC-2010-150.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>vehículos eléctricos</dc:subject>
+    <dc:subject>cadena de tracción</dc:subject>
+    <dc:subject>análisis energético de vehículos</dc:subject>
+    <dc:subject>del pozo a la rueda</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Dimensionamiento de la cadena de tracción de un vehículo eléctrico para distintos escenarios en entorno urbano</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

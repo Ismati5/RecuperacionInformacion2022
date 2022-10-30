@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Piedrafita Moreno, Ramón</dc:contributor>
+    <dc:creator>Escudero Cestero, Cristian</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El curso de programación de videojuegos en Unity 3D para iPad es un PFC que consiste en una aplicación iOS interactiva diseñada y creada para el dispositivo iPad de Apple. Con esta aplicación se pretende facilitar y estimular la enseñanza de la programación de videojuegos. Unity es un motor gráfico multiplataforma que se distribuye junto a un IDE (Entorno de Desarrollo Integrado) que permite la creación de contenido 3D (en especial videojuegos) de forma más rápida y sencilla que la mayoría de entornos existentes. La aplicación tiene el objetivo de introducir a los usuarios dentro del mundo del desarrollo de videojuegos mediante el uso de Unity 3D. Para ello se ha creado una amplia documentación que cubre desde los aspectos más básicos hasta la creación de un videojuego completo. Esta aplicación está compuesta por las siguientes partes: - Visor: es la parte de la aplicación que centraliza todo el curso. Desde el visor se accede al resto de elementos. Se han programado las funcionalidades típicas de los visores de documentos (zoom, desplazamiento táctil, acceso a los contenidos y a la ayuda), así como el lanzamiento del reproductor de vídeos, ejecución de las aplicaciones y del juego completo. También muestra la documentación del curso. - Documentación: conjunto de temas escritos que explican la programación de videojuegos con Unity 3D. - Vídeos: ejemplos visuales que resumen partes de las explicaciones escritas más relevantes. Los vídeos se reproducen en la misma aplicación. - Aplicaciones: ejemplos interactivos creados con Unity 3D, que se ejecutan desde el visor y se manejan dentro de la aplicación principal. - Juego: ejemplo completo de videojuego. Es una parte fundamental puesto que es una aplicación en sí misma ya que posee los elementos tradicionales de un videojuego. El juego se comunica con una aplicación web de gestión de máximas puntuaciones. La aplicación está diseñada para que su manejo sea intuitivo y sencillo y que pueda ser usada por cualquier persona sin la necesidad de tener conocimientos avanzados en este tipo de dispositivos. Para el seguimiento del curso se recomienda tener mínimos conocimientos de programación.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12071</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12071/files/TAZ-PFC-2013-525.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>curso</dc:subject>
+    <dc:subject>programación videojuegos</dc:subject>
+    <dc:subject>unity 3d</dc:subject>
+    <dc:subject>ipad</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Curso de programación de videojuegos en Unity 3D para iPad</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

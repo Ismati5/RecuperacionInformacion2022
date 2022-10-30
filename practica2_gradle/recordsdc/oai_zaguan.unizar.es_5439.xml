@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Auñón Hidalgo, Juan Antonio</dc:contributor>
+    <dc:contributor>Santos Raez, Isidro María</dc:contributor>
+    <dc:creator>Arancón Beobide, Jorge Fernando</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>El objetivo del proyecto que nos ocupa es la puesta en funcionamiento y mejora de la maqueta de inyección del motor DW10TD proveniente de un Citröen Xsara 2.0 HDI. La maqueta se usará para ver como afectan ciertos parámetros característicos del motor a la hora de calcular el mapa de inyección en la unidad de control. Esta maqueta, entre otras cosas se va a usar para docencia en prácticas de laboratorio del departamento de Máquinas y motores térmicos de la Universidad de Málaga. Por ello se requiere la maqueta sea robusta y no se dañe ni con el tiempo ni con el uso. El control de la maqueta debe de ser eficaz y preciso, para ello han de poder visualizarse los parámetros característicos del motor en tiempo real, así como variarlos dentro de unos márgenes en que la unidad de control no presente errores. Es importante que la interfaz de la maqueta sea robusta e intuitiva, ya que se va a usar para docencia. La seguridad de alumnos y profesores debe de ser prioritaria por ello habrá hacer mejoras en este aspecto</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5439</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5439/files/TAZ-PFC-2010-383.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5439/files/TAZ-PFC-2010-383_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Common-rail</dc:subject>
+    <dc:subject>Maqueta</dc:subject>
+    <dc:subject>Microcontrolador</dc:subject>
+    <dc:subject>Programación C</dc:subject>
+    <dc:subject>Inyector</dc:subject>
+    <dc:subject>Diesel</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electrónica Industrial)</dc:subject>
+    <dc:title>Rediseño, montaje y análisis de funcionamiento de una maqueta dinámica del sistema common-rail</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

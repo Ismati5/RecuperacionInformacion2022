@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Marzo Rubio, Isabel</dc:contributor>
+    <dc:creator>Ortiz de Solórzano Reig, Blanca</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>Los fármacos antimitóticos producen desviaciones en el ciclo mitótico de las células y se ha visto que son eficaces agentes antitumorales, ya que causan daños celulares que además de inhibir la proliferación de las células desencadenan mecanismos de muerte celular entre los que destaca la apoptosis. Dentro de los antimitóticos existen diferentes grupos en función de su naturaleza y sus dianas celulares. Los taxanos y los alcaloides de la vinca son compuestos que actúan sobre la dinámica de los microtúbulos, inhibiendo su polimerización y despolimerización, respectivamente. Por otra parte, en los últimos años se han desarrollado moléculas que actúan como inhibidores de las aurora quinasas, proteínas importantes en la regulación del ciclo celular. Este trabajo estudia los efectos de tres fármacos antimitóticos (uno de cada uno de los tipos mencionados): vincristina, docetaxel y barasertib en la línea celular de cáncer colorrectal HCT116, utilizando células WT y Bak/Bax DKO resistentes a la apoptosis. Se ha realizado un ensayo de toxicidad en el que las células se han tratado con estos compuestos durante diferentes tiempos y se ha medido la muerte celular por apoptosis mediante la unión a anexinaV‐DY634 por citometría de flujo. También se han llevado a cabo estudios morfológicos y un ensayo clonogénico. La vincristina y el docetaxel han demostrado tener un potente efecto antitumoral en estas células, produciendo efectos que desencadenan la apoptosis. El barasertib, sin embargo, no tiene tanta capacidad de provocar apoptosis en esta misma línea celular y se observa el fenómeno denominado “slippage” que da lugar a células multinucleadas y que han perdido la capacidad de proliferar.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/59140</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Bioquímica y Biología Molecular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/59140/files/TAZ-TFG-2016-2154_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/59140/files/TAZ-TFG-2016-2154.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Biotecnología</dc:subject>
+    <dc:title>Mecanismos de muerte celular inducida por compuestos antimitóticos en la línea de cáncer colorrectal HCT116</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Cell death mechanisms induced by antimitotic agents in the colorectal cancer cell line</dc:title>
+</oai_dc:dc>

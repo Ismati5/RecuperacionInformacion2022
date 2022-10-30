@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bernués del Río, Emiliano</dc:contributor>
+    <dc:contributor>Ruiz Más, José</dc:contributor>
+    <dc:creator>Martín Ruiz, Carlos</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Las redes móviles han necesitado desde sus primeros inicios con GSM del apoyo de las redes troncales con las que interconectar cada uno de los nodos de acceso entre sí y con los sistemas de provisión de los servicios, en este primer caso de GSM, con las centrales de conexión con la red telefónica conmutada, los servicios de enrutamiento de SMS y los servicios de control de acceso a la red y facturación. En esos primeros años en los que el servicio principal a transportar era la voz, estas redes troncales fueron una extensión de la tecnología usada en las centrales telefónicas, pasando al mundo de la radio las mismas técnicas (muy similares) que se emplean para conmutar circuitos de voz. Así, los enlaces radio troncales y de distribución contaban con sistemas para la transmisión de conmutación de circuitos en el aire, usando protocolos de jerarquía digital, síncrona o plesiócrona (SDH y PDH). Conforme los primeros móviles han ido evolucionando hacia los servicios añadidos de datos y GSM ha migrado hacia UMTS y HSPA+, y vislumbrándose ya las primeras puestas en producción de LTE, las redes que soportan estos servicios de usuario deben acomodarse a las nuevas necesidades. Ya no es tan crítica la voz, sino que ahora los datos copan la mayoría de los enlaces. Y estos datos viajan mucho más cómodos en tecnologías de capa 2 Ethernet y capa 3 IP, es decir, por conmutación de paquetes. Hasta hace poco más de un año, se mantenía la compatibilidad de las antiguas redes SDH y PDH con los servicios de datos usando protocolos de encapsulamiento como GFP. Pero se están desarrollando nuevas soluciones para extender directamente Ethernet de forma nativa por al aire con las mismas garantías de calidad y seguridad que los sistemas anteriores, y el cambio de las redes troncales móviles puede acometerse con garantías. Este trabajo fin de master comparará las dos tecnologías, analizará las mejoras que representa esta evolución y planteará una hoja de ruta para realizar las migraciones de red de forma segura y empleando los últimos avances. Expondrá porqué otras tecnologías de transporte Ethernet, como WiMAX, no pueden suplantar hoy a los enlaces analizados. Se concluirá con una mirada de futuro a los avances que se beneficiarán del transporte Ethernet.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9124</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9124/files/TAZ-TFM-2012-834.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>sdh</dc:subject>
+    <dc:subject>pdh</dc:subject>
+    <dc:subject>ethernet nativo</dc:subject>
+    <dc:subject>radioenlace</dc:subject>
+    <dc:subject>redes móviles</dc:subject>
+    <dc:subject>redes troncales</dc:subject>
+    <dc:subject>provider bridge</dc:subject>
+    <dc:subject>Máster Universitario en Tecnología de la Información y Comunicaciones en Redes Móviles</dc:subject>
+    <dc:title>Evolución de red troncal de interconexión para servicios de redes móviles</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

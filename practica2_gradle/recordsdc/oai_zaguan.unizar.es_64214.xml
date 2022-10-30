@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Clemente Gallardo, Jesús</dc:contributor>
+    <dc:creator>Bouthelier Madre, Carlos</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>La Mecánica Clásica  se ha descrito tradicionalmente con  elementos de Geometría Diferencial, mientras que para la Mecánica Cuántica se ha recurrido a Ánálisis Funcional y Álgebra. Para poder estudiar ambas bajo un marco matemático unificado se ha ido desarrollando desde los 70 la Formulación Geométrica de la Mecánica Cuántica, que presenta diferencias estructurales esenciales con respecto a la de la Mecánica Clásica. La estructura lineal que presenta el espacio de Hilbert H  es una de las diferencias más grandes y constituye uno de los aspectos más relevantes del formalismo.  Tras introducir esta formulación, se abordará el estudio de sistemas cuántico-clásico mixtos, lo que se conoce como Formalismo de Ehrenfest, bajo una estructura geométrica conjunta, la cual permitirá construir una mecánica estadística para el sistema mixto de modo análogo a como se hace en sistemas clásicos. En esta línea, introduciremos el Hybrid Canonical Ensemble como una generalización para sistemas mixtos del conjunto de Schrödinger-Gibbs definido para sistemas puro cuánticos. Finalmente, mediante un Hamiltoniano en concreto, se mostrará la no-aditividad de los potenciales termodinámicos lejos del límite termodinámico para dicho ensemble y la relación de la no aditividad con el entrelazamiento de la parte cuántica como ocurre en el ensemble de Schrödinger-Gibbs.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64214</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Teórica; Área de Física Teórica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64214/files/TAZ-TFG-2017-2254_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/64214/files/TAZ-TFG-2017-2254.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Física</dc:subject>
+    <dc:title>Formulación geométrica de la Mecánica Cuántica y Aplicaciones</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Geometric Formulation of Quantum Mechanics and Applications</dc:title>
+</oai_dc:dc>

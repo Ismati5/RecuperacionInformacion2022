@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gutiérrez Pérez, Diego</dc:contributor>
+    <dc:creator>Gregorio García, Andrea Pilar</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>La empresa BSH lleva varios años desarrollando su concepto de la cocina del futuro, un proyecto multidisciplinar para el cual se contactó con Graphics and Imaging Lab. A este, BSH le propuso el reto de visualizar datos al usuario que actualmente son invisibles.  Por tanto, el objetivo principal consiste en proponer una idea o concepto para la cocina del futuro. Se desarrollará en este caso una interfaz que muestre a los usuarios datos que actualmente son invisibles, y estos datos serán gestionados proporcionando una interfaz intuitiva y sencilla para el usuario. Es por esto que el presente proyecto incidirá en las opiniones de los usuarios para su consecuente desarrollo. En cuanto al alcance del proyecto consiste en el diseño de un primer prototipo que mejore la experiencia del cocinado de un chuletón. Es decir, el proyecto consiste en la generación de diferentes ideas que irán siendo evaluadas mediante diferentes test de usuario para llegar a un prototipo final. Este prototipo será el presentado, y además seguirá siendo desarrollado en el entorno de la empresa hacia el objetivo último de desarrollo de la cocina del futuro de BSH.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/85501</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/85501/files/TAZ-TFG-2019-2028.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/85501/files/TAZ-TFG-2019-2028_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería en Diseño Industrial y Desarrollo de Producto</dc:subject>
+    <dc:title>La cocina del futuro: Diseño de interfaz táctil</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">The future kitchen: Touch interface design</dc:title>
+</oai_dc:dc>

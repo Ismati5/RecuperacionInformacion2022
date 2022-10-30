@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Aznar, José Manuel</dc:contributor>
+    <dc:contributor>Merino Casallo, Francisco</dc:contributor>
+    <dc:creator>Modrego Bravo, Alejandro</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>La migración celular en células cancerígenas es un proceso vital a la hora de la formación y proliferación de la masa tumoral. Los hidrogeles de colágeno son los más usados en ensayos in vitro debido a su biocompatibilidad y a su capacidad de reproducir las características de los tejidos humanos.&lt;br /&gt;En el presente Trabajo de Fin de Grado (TFG) se va a tratar de replicar una serie de ensayos in vitro realizados con células tumorales de pulmón (línea H1299) en hidrogeles con base de colágeno mediante un modelo computacional. Este modelo computacional simula la migración celular en función de las características mecánicas de la matriz extracelular en la que se encuentran, como la rigidez, la viscosidad o el comportamiento elástico.&lt;br /&gt;Se estudiará la precisión del modelo utilizado a la hora de simular diferentes casos en los que la proliferación celular es distinta debido a diferentes parámetros iniciales que determinan, directa o indirectamente, las características mecánicas de la matriz. Las simulaciones que se van a realizar en este estudio se centrarán en analizar los valores de tres características indicadoras de la proliferación de las células tumorales. Estas características que se van a medir son:&lt;br /&gt;-	Número de agregados celulares que se forman.&lt;br /&gt;-	Tamaño de estos agregados celulares.&lt;br /&gt;-	 Velocidad de migración de las células y los agregados.&lt;br /&gt;En los ensayos que se van a tratar de replicar, se estudia la influencia de la hormona TGF-β en los resultados. Obteniéndose unos resultados que indican que, en presencia de esta hormona, se facilita la proliferación celular.&lt;br /&gt;Además, este modelo permite la visualización de los resultados iteración por iteración mediante un programa externo llamado Paraview, en este va a ser posible importar las simulaciones realizadas y observar la formación de los agregados celulares a través del tiempo.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87321</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87321/files/TAZ-TFG-2019-4562.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Estudio de las características mecánicas de la matriz extracelular en la formación de esferoides tumorales</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Study of the mechanical characteristics in the extracelular matrix in tumour spheroids formation</dc:title>
+</oai_dc:dc>

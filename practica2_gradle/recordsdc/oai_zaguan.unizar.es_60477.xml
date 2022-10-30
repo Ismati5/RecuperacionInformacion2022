@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Yusta Loyo, José María</dc:contributor>
+    <dc:creator>García Delgado, Rafael</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>La escasez de infraestructuras médicas en los lugares donde se producen catástrofes humanas hacen que sea necesaria la disponibilidad de equipos móviles para intervenir en situaciones de emergencia sanitaria. De aquí surge la idea del diseño de un módulo portátil para emergencias, con la finalidad ofrecer asistencia sanitaria y agua potable a la población afectada por estas catástrofes y conflictos. El módulo se ha diseñado buscando la sostenibilidad, aprovechando el recurso solar para el funcionamiento de sus sistemas de potabilización y equipos sanitarios y utilizando contenedores marítimos reciclados para su diseño. Para el desarrollo del proyecto se ha realizado un estudio de los distintos sistemas de atención sanitaria extrahospitalaria existentes en el mercado. Además, se han realizado entrevistas a la directora de un Centro de Salud y a un oficial militar. Basándonos en las conclusiones obtenidas en el análisis previo, se han desarrollado los distintos bloques de los que consta el módulo. Seguidamente se han dimensionado las instalaciones que proporcionarán energía al Módulo.Por un lado la instalación fotovoltaica y por otro lado el grupo electrógeno de apoyo. Debido a que el Módulo Sostenible de Emergencias puede ser utilizado en cualquier localización del planeta en función de las necesidades se ha realizado un análisis de las posibilidades de utilización de las cargas en función de las diferentes latitudes. También se ha diseñado un sistema de potabilización de agua, mediante el cual se cubrirán las necesidades básicas que puedan darse en cualquiera de los escenarios para los que el Módulo está diseñado. En definitiva se pretende ofrecer una herramienta a las distintas ONGs, gobiernos y entidades para afrontar de forma más eficaz y sostenible situaciones críticas como catástrofes naturales y conflictos bélicos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/60477</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/60477/files/TAZ-TFM-2016-1021.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Energías Renovables y Eficiencia Energética</dc:subject>
+    <dc:title>Diseño energéticamente eficiente de un módulo portátil para emergencias médicas</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">An energy-efficient design of a portable module for health emergencies</dc:title>
+</oai_dc:dc>

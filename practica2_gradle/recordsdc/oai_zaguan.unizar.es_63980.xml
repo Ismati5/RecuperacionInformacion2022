@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sierra Pérez, Jorge José</dc:contributor>
+    <dc:contributor>López Forniés, Ignacio</dc:contributor>
+    <dc:creator>Franco Aliaga, Miguel</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Se trata de un proyecto real, encargado por Trayectos (Festival de Danza Contemporánea) para el “Laboratorio Danza y Nuevos Medios”, que tendrá lugar en Etopia (Centro de Arte y Tecnología, Zaragoza) el 22 de Junio de 2017. El objetivo es integrar un robot TurtleBot en una de las coreografías de este festival, siendo un miembro más del equipo multidisciplinar, formado por bailarinas, estudiantes, gestores... Respecto a la parte de Diseño Industrial y Desarrollo de Producto, los objetivos principales son: Desarrollar hasta la fabricación de la carcasa que utilizará el robot Turtlebot2; Estudiar y analizar la existencia de experiencias similares; Diseñar, desarrollar y coliderar un proceso creativo para la obtención de conceptos; Diseñar diferentes alternativas según los requerimientos específicos del robot seleccionado; y Fabricar mediante impresora 3D y otras técnicas la carcasa utilizada durante el festival.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/63980</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Expresión Gráfica de la Ingeniería</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/63980/files/TAZ-TFG-2017-3550_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/63980/files/TAZ-TFG-2017-3550.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería en Diseño Industrial y Desarrollo de Producto</dc:subject>
+    <dc:title>Robot + Danza. Diseño y fabricación de la carcasa de un robot para un festival de danza</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Robot + Dance. Design and manufacture of a robot housing for a dance festival</dc:title>
+</oai_dc:dc>

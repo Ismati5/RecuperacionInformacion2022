@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Aranda Alcañiz, Miguel Ángel</dc:contributor>
+    <dc:contributor>Merseguer Hernáiz, José Javier</dc:contributor>
+    <dc:creator>Antón Lou, David</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>La utilización de formularios dentro de una página web resulta, actualmente, una tarea muy habitual dentro de las entidades del sector bancario, surgiendo la problemática de tener que estar en continuo contacto con programadores para la realización de pequeños cambios o creación de nuevas páginas. El objetivo que se persigue con el proyecto es el de construir una herramienta que permita la creación de formularios sin necesidad de tener altos conocimientos sobre lenguajes de programación. El presente proyecto, se va a encargar de realizar dicha tarea y para ello se ha pensado en una herramienta que funcione sobre una plataforma de software libre. Consistirá en un plugin para el entorno de programación Eclipse, y para facilitar su utilización por parte del usuario, se utilizará un entorno gráfico simple y amigable, haciendo uso de las librerías de edición gráfica(GEF), el sistema de modelado de eclipse(EMF) y del lenguaje de programación Java. El plugin de Eclipse, se subdividirá en dos partes claramente diferenciadas, que corresponden a las capas de controller y view del patrón de diseño MVC. El modelador, que corresponderá al controller y el diseñador al view. Serán dos zonas de edición gráfica diferentes, pero se interconectarán entre si para que se pueda completar toda la trazabilidad de la información. Las estructuras de datos con la información de los componentes gráficos se guardarán en ficheros, y existirá un fichero diferente para cada uno de los dos editores gráficos. El modelador se encargará de recibir operativas, hacer las operaciones necesarias sobre ellas, y proceder al envío de la información necesaria para la maquetación en la vista de la página web. Finalmente, en el diseñador se definirá el aspecto de la página o formulario para su posterior procesamiento y generación de código HTML. Esta herramienta, estará integrada dentro de la arquitectura MC-Server de la empresa TBSolutions. MC-Server es un framework para implementación de aplicaciones web de misión crítica y transaccionales, que puede ser utilizado para dar servicio a distintas aplicaciones del sector de la banca electrónica. La motivación que me ha llevado a elegir este proyecto es poder realizar una herramienta que pueda ser utilizada por programadores con poca experiencia, para facilitar sus labores.Además, adquirir altos conocimientos en la programación en el lenguaje Java, así como, hacer hincapié en todas las fases de las que consta un proyecto de ingeniería del software de gran envergadura.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10086</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10086/files/TAZ-PFC-2013-043.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>eclipse</dc:subject>
+    <dc:subject>plugin</dc:subject>
+    <dc:subject>java</dc:subject>
+    <dc:subject>banca electrónica</dc:subject>
+    <dc:subject>formularios</dc:subject>
+    <dc:subject>mc-server</dc:subject>
+    <dc:subject>diseñador</dc:subject>
+    <dc:subject>modelador</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Plugin de Eclipse para la generación de formularios web para MC-Server v5.0</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

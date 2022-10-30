@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Marzo Rubio, Isabel</dc:contributor>
+    <dc:creator>Roca Portolés, Alba</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>En los últimos años, se han propuesto diferentes antimitóticos como candidatos para el diseño de fármacos antitumorales. En particular barasertib, un inhibidor de Aurora quinasa B se ha descrito que induce la parada del ciclo celular en G2/M, pero tras quitar el fármaco los resultados mostraron que las células pueden seguir varias vías; apoptosis, entrar en senescencia o endoreduplicación, formando células poliploides. Su actividad antitumoral es limitada cuando se usa como agente único, por lo que para potenciarla se podría combinar con otros fármacos apoptóticos como ABT-737 y ABT-199 que son miméticos BH3, los cuales inducen apoptosis inhibiendo las proteínas Bcl-2 anti-apoptóticas. ABT-737 se une con igual afinidad a Bcl-2, Bcl-XL and Bcl-W, mientras que ABT-199 solo tiene afinidad por Bcl-2. Los resultados han mostrado que barasertib junto con ABT-737 tienen sinergia en células A549, induciendo apoptosis por la vía dependiente de las caspasas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31739</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Biología Celular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31739/files/TAZ-TFG-2015-1810.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Biotecnología</dc:subject>
+    <dc:title>Mecanismo de muerte inducida en células tumorales por la combinación de barasertib y miméticos de BH3</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

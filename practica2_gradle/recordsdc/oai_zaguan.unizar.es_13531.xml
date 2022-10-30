@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Hernández, César</dc:contributor>
+    <dc:creator>Leciñena Sánchez, Jorge</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Previo a la comercialización de un aerogenerador en Europa, el fabricante o representante legal establecido en la Unión Europea, se ha debido asegurar de que el producto satisface los requisitos legales derivados de la Directiva 2006/42/EC (Directiva de máquinas), culminando el proceso con la emisión de una Declaración CE de conformidad, un manual de instrucciones y el marcado físico de la máquina con el marcado «CE». Históricamente el cumplimiento de los requisitos legales se revisa al final del proceso de diseño lo que es ineficiente y costoso, debido a que se deben realizar rediseños en fases avanzadas del diseño del producto, en las cuales muchos parámetros se encuentran ya congelados, haciéndose necesario un nuevo enfoque, que tiene como objetivo identificar y aplicar los requisitos en la fases tempranas del diseño. Este proyecto trata de conseguir que el fabricante tenga una guía para establecer unos procedimientos estructurados dentro de su Sistema de Gestión de Diseño de Productos, asegurando que el proceso de diseño del producto, y de los procesos de fabricación, integren los requisitos legales y normativos citados. La implantación de estos procedimientos ayudará a que el diseñador cumpla con los requisitos, dentro de los flujos de trabajo habituales, minimizando costosas ineficiencias generadas por la identificación de estos requisitos en fases avanzadas del diseño. De este modo, se definen las pautas para la incorporación de los requisitos legales y normativos en las soluciones técnicas de diseño y la confección de un Expediente Técnico de un aerogenerador, elaborando así una herramienta de ayuda para las Ingenierías de Diseño de Producto y de Fabricación que contenga los procedimientos a seguir en la fase de diseño, asegurando que en la comercialización se cumpla el marco legislativo europeo actual sobre la armonización técnica de productos (Directivas europeas de nuevo enfoque), principalmente la Directiva de máquinas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/13531</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Expresión Gráfica de la Ingeniería</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/13531/files/TAZ-PFC-2014-130.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/13531/files/TAZ-PFC-2014-130_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>marcado ce</dc:subject>
+    <dc:subject>directiva de máquinas</dc:subject>
+    <dc:subject>directiva 2006/42/ce</dc:subject>
+    <dc:subject>armonización técnica</dc:subject>
+    <dc:subject>europea</dc:subject>
+    <dc:subject>aerogeneradores</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Herramienta de ayuda al cumplimiento de reglamentaciones europeas de armonización técnica aplicada al diseño de aerogeneradores</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

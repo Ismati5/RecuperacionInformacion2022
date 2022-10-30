@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Montano Gella, Luis</dc:contributor>
+    <dc:contributor>Ruiz Bueno, Diana</dc:contributor>
+    <dc:creator>Redondo Salvo, Santiago</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>El presente Trabajo Fin de Máster se enmarca en el proyecto HYPER-Consolider, en el que el Grupo de Robótica de la Universidad de Zaragoza pretende desarrollar exoesqueletos robóticos que ayuden a la rehabilitación funcional de pacientes con trastornos motores. En este sentido, uno de los elementos necesarios para su consecución es la estimación del par de fuerzas producido durante el movimiento de las articulaciones a partir de las señales de electromiografía superficial (sEMG) generadas por la activación de los músculos. La razón de ello es que, una vez conseguido predecir el movimiento voluntario que pretende realizar el paciente, se posibilita el que pueda ser ajustado por el exoesqueleto de forma que contribuya más eficientemente a su rehabilitación. En este trabajo se han desarrollado modelos de caja negra basados en redes neuronales y otras técnicas de aprendizaje automático, diseñando su estructura y definiendo sus variables de entrada, de forma que se permita comparar el rendimiento de las distintas opciones con el obtenido anteriormente a partir de un modelo paramétrico basado en las técnicas de Hill. Como conclusión final se propondrá el modelo que mejor se ajuste a las necesidades del proyecto, valorándose sus posibilidades de generalización e indicándose sus limitaciones.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/36800</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/36800/files/TAZ-TFM-2015-883.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Biomédica</dc:subject>
+    <dc:title>Diseño de modelos basados en aprendizaje para la estimación de pares articulares para la rehabilitación motora mediante exoesqueletos</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

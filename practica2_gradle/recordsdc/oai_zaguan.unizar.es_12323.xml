@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Monzón Bescós, Antonio</dc:contributor>
+    <dc:creator>Ramírez Galilea, Adrián</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El presente “Trabajo Fin de Máster” surge de una colaboración entre la Universidad de Zaragoza y la Universidad de Twente y se enmarca dentro del ámbito de la nanotecnología, concretamente dentro del campo de la síntesis de los nanotubos de carbono alineados verticalmente (VACNTs) por deposición química en fase vapor (CVD). El crecimiento de VACNTs sobre sustratos planos por CVD se ha convertido en una opción atractiva para la fabricación de múltiples dispositivos electrónicos debido a las excelentes propiedades que presentan los VACNTs, sin embargo, todavía no se conoce con detalle el efecto de las diversas variables de operación en el crecimiento alineado de los nanotubos de carbono. El objetivo principal de este estudio es establecer la correlación entre los diversos parámetros de operación y la dinámica de crecimiento por CVD de los VACNTs sobre sustratos planos. Para ello se ha investigado el efecto de las principales variables de operación: fuente de carbono (propileno, etileno y acetileno), composición del gas, temperaturas de reacción y de activación, contenido de metal, y distribución de las nanopartículas metálicas sobre el sustrato plano. A partir de los resultados obtenidos, caracterizados mediante técnicas de microscopía electrónica (SEM y TEM), microscopía de fuerza atómica (AFM), espectroscopia de fotoelectrones emitidos por rayos X (XPS), y microanálisis por dispersión de energías de rayos X (EDX), se ha propuesto un mecanismo de crecimiento que tiene en cuenta todas las variables estudiadas.   En definitiva, en este trabajo fin de máster se ha estudiado el efecto de las principales variables de operación en el crecimiento de VACNTs, obteniendo en última instancia una serie de resultados que permiten optimizar las condiciones experimentales para lograr el crecimiento de VACNTs.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12323</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Ingeniería Química</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12323/files/TAZ-TFM-2013-814.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>nanotubos de carbono alineados verticalmente</dc:subject>
+    <dc:subject>cvd</dc:subject>
+    <dc:subject>mecanismo de crecimiento</dc:subject>
+    <dc:subject>Máster Universitario en Iniciación a la Investigación en Ingeniería Química y del Medio Ambiente</dc:subject>
+    <dc:title>Mecanismo de crecimiento de nanotubos de carbono alineados verticalmente por deposición química en fase vapor</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

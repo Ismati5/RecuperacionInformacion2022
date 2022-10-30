@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Cea Mingueza, Pilar</dc:contributor>
+    <dc:contributor>Martín Solans, Santiago</dc:contributor>
+    <dc:creator>Trasobares Sánchez, Jorge</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>La progresiva miniaturización de los componentes empleados en los dispositivos electrónicos ha permitido el desarrollo de la tecnología tal y como se ve relacionado mediante la ley de Moore; sin embargo, se está llegando al límite de miniaturización en la tecnología del silicio, por lo que se hace necesario explorar nuevos campos para poder progresar en la fabricación de dispositivos más pequeños, eficientes y con nuevas propiedades. En este punto destaca la electrónica molecular mediante una tecnología híbrida (Si-electrónica molecular) en un futuro cercano y esboza una completa sustitución de la tecnología del silicio en un futuro algo más lejano. Gracias a las sofisticadas técnicas de ensamblaje molécula a molécula introducidas por los avances en Nanociencia se espera que la electrónica molecular sea una prometedora vía por la que se pueda mantener el proceso de miniaturización actual. Este proyecto se centra en la deposición del electrodo metálico superior sobre la una monocapa orgánica ensamblada mediante la técnica de Langmuir–Blodgett. Con este fin, en este trabajo se presentan tres diferentes aproximaciones. La ruptura de un compuesto organometálico que contiene un átomo de oro en el interior de su esqueleto; tal ruptura lleva asociada la reducción del átomo de oro, generándose nanopartículas sobre la monocapa que pueden comportarse cómo el electrodo metálico superior. Un segundo acercamiento es utilizar de la novedosa tecnología del “Stencil Lithography” como máscara para evaporar pequeñas cantidades de metal a través de ella; de esta forma se minimiza la posibilidad de generar un cortocircuito. Finalmente se ha estudiado la formación de monocapas de óxido de grafeno con lo técnica de Langmuir-Blodget. Estas láminas pueden depositarse sobre la monocapa orgánica y tras su reducción se puede conseguir generar la formación de un electrodo semiconductor superior.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8889</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Física</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8889/files/TAZ-TFM-2012-738.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>langmuir-blodgett</dc:subject>
+    <dc:subject>molecular electronics</dc:subject>
+    <dc:subject>top-contact electrode</dc:subject>
+    <dc:subject>rupture of a metal organic compound</dc:subject>
+    <dc:subject>stencil</dc:subject>
+    <dc:subject>graphene oxide</dc:subject>
+    <dc:subject>Máster Universitario en Materiales Nanoestructurados para Aplicaciones Nanotecnológicas (Nanostructured Materials for Nanotechnology Applications)</dc:subject>
+    <dc:title>Use of highly conjugated organic compounds for the fabrication of metal/monolayer/metal devices</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

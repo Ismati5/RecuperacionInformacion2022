@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Solanas Casals, David</dc:contributor>
+    <dc:contributor>Oliveros Colay, María José</dc:contributor>
+    <dc:creator>Millán Turón, Carlota</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>La finalidad de este proyecto es demostrar la viabilidad de un sistema Pull en la planta productiva de Magna Automotive Spain situada en el polígono de Pedrola.  Se empieza seleccionando el tipo de gestión que mejor se adecúa a las características y necesidades de dicha empresa. Tras un análisis del comportamiento del cliente se elige como sistema de gestión el denominado “Consumption Control”. A partir de aquí, el proyecto se centra en la explicación de los pasos a seguir para la implementación de dicho sistema. Se parte de un análisis general de los procesos y los productos fabricados; se realizan unas consideraciones generales y, poco a poco, se va profundizando en cada proceso para establecer las características y relaciones que influyen en la implementación. Se divide la planta productiva según los procesos y los ciclos de producción en los que se ven envueltos. Siempre que se pueda se establecerá un almacén de tipo supermercado entre los procesos. Los cálculos llevan a la determinación del número de tarjetas Kanban en circulación para cada tipo de almacén supermercado. Este número de tarjetas se traduce físicamente como el número de contenedores en el ciclo. Por último, mediante métodos visuales (determinación de mínimos y máximos en los almacenes) y reglas heurísticas se regirá el funcionamiento del sistema.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76529</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76529/files/TAZ-TFG-2018-3753.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Estudio y diseño de un sistema Pull entre líneas de fabricación desacopladas</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Research and design of a Pull system between uncoupled manufacturing lines</dc:title>
+</oai_dc:dc>

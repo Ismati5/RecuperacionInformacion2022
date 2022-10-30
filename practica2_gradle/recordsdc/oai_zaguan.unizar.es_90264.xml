@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gutiérrez Rodrigo, Sergio</dc:contributor>
+    <dc:creator>Mendinueta Bernardos, Iker</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Como consecuencia de la dificultad que supone la identificación correcta de posibles enemigos acorazados/mecanizados en el combate, y además, tratándose de los carros de combate actuales en los que se debe tener en cuenta otros factores como la distancia eficaz de fuego (alcance de varios kilómetros) o la localización de objetivos en ambientes de poca visibilidad (nocturno, climatología adversa), es necesario adquirir e implementar un sistema electrónico capaz de ofrecernos la capacidad de diferenciar indudablemente entre los medios amigos o enemigos para evitar daños propios como los que ya, en alguna ocasión, se han producido. Por ello, el objetivo principal de este trabajo será dotar al carro de combate español Leopardo 2E de un sistema IFF (Identification Friend or Foe) que se ajuste a las capacidades del mismo permitiendo así, localizar un objetivo e inmediatamente clasificarlo como amigo o enemigo. Dicho sistema tiene ya sus precedentes en la aviación por lo que se buscará una forma basada en éste para introducirlo en el carro de combate.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/90264</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/90264/files/TAZ-TFG-2017-4169.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Organización Industrial</dc:subject>
+    <dc:title>Sistemas de identificación amigo enemigo (IFF) en el carro de combate español</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Identification Friend or Foe (IFF) systems for the Spanish tank</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Monge Prieto, Rosa María</dc:contributor>
+    <dc:contributor>Fernández, Luis J.</dc:contributor>
+    <dc:creator>Torrejón García, Alberto Héctor</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Este proyecto fin de carrera forma parte de un proyecto más amplio cuyo objetivo es el desarrollo de nuevas herramientas dedicadas al cultivo celular. Los métodos tradicionales para el cultivo celular son los llamados “in vitro”, que proporcionan un entorno estático y a macroescala muy diferente al de los organismos vivos, que poseen un sistema a microescala más complejo. Mediante la inclusión de sistemas microfluídicos se quiere proporcionar un entorno parecido al “in vivo” para el cultivo celular. Se pretende conseguir la formación de un ambiente en el que se recreen las condiciones que se dan en un ser vivo y sobre el que se tenga control químico y mecánico. Para ello se fabrican chips de microfluídica, que tienen microcámaras donde quedarán adheridas las células y microcanales a través de los cuales se les hará llegar a las células el medio con los nutrientes necesarios para que puedan sobrevivir. Por tanto, será necesario el montaje de un setup microfluídico que permita hacer llegar el medio al chip en las condiciones adecuadas. Conseguir que esas condiciones sean las deseadas será el objetivo fundamental del presente proyecto. La principal variable a controlar será el flujo de medio que llega al chip. Para el control de esa variable será necesario un circuito electrónico comandado por un microcontrolador con el que controlaremos el funcionamiento de la microbomba que bombea el medio a través del setup. Será también necesaria la colocación de un sensor de flujo para poder hacer un control en lazo cerrado y que, de esta manera, el flujo permanezca siempre en los niveles deseados con total independencia de las condiciones que rodean al setup.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8831</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8831/files/TAZ-PFC-2012-556_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/8831/files/TAZ-PFC-2012-556.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>setup</dc:subject>
+    <dc:subject>microfluídica</dc:subject>
+    <dc:subject>cultivo celular</dc:subject>
+    <dc:subject>microcontrolador</dc:subject>
+    <dc:subject>arduino</dc:subject>
+    <dc:subject>sensor de flujo</dc:subject>
+    <dc:subject>bomba de membrana</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electrónica Industrial)</dc:subject>
+    <dc:title>Sistemas de control autorregulados para setups microfluídicos dedicados al cultivo celular</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

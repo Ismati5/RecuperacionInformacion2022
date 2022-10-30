@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Usón Sardaña, Antonio</dc:contributor>
+    <dc:creator>Martín Pérez, Jorge</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El proyecto depositado pretende poner en funcionamiento un motor artesanal de alimentación trifásica cuyo rotor consiste en un lata de conservas de material ferromagnético. El bobinado de los devanados del estator ha sido realizado manualmente arrollando hilo de cobre sobre varios tornillos dispuestos en hilera y sujetos mediante pletinas de acero y tuercas, formando así cada uno de los polos necesarios para su funcionamiento. El motor obtendrá la alimentación necesaria a través del convertidor de frecuencia-tensión MICROMASTER420 de la empresa Siemens. Con él podremos variar éstas dos magnitudes con el fin de buscar los valores que favorecen el rendimiento del motor. Aparte de proporcionar la alimentación, MICROMASTER posee numerosas prestaciones que pueden resultar interesantes para nuestro motor. Las mejoras constructivas en cuanto al diseño original ha sido otra de las labores realizadas a lo largo de éste proyecto. El ámbito de trabajo del motor de lata de conservas será tanto para pequeñas aplicaciones domésticas como para aplicaciones docentes y divulgativas dentro del Dpto. de Ingeniería Eléctrica de la Universidad de Zaragoza. El convertidor en cambio, puede aplicarse en el ámbito no sólo doméstico y docente, sino también en el industrial para alimentar motores de mayor envergadura y potencia. Sus reducidas dimensiones posibilitan un transporte móvil de ambos aparatos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10111</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10111/files/TAZ-PFC-2013-061.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>micromaster 420</dc:subject>
+    <dc:subject>motor experimental edemuz</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electrónica Industrial)</dc:subject>
+    <dc:title>Adaptación del variador Siemens Micromaster 420 para la alimentación de un motor experimental y mejoras constructivas</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

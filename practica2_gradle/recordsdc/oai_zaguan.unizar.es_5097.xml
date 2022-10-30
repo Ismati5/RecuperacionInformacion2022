@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ibáñez Marín, Pablo</dc:contributor>
+    <dc:creator>Albericio Latorre, Jorge</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>La prebúsqueda agresiva ha demostrado ser una técnica eficiente para mejorar el rendimiento de los sistemas monoprocesador. Sin embargo, en sistemas multiprocesador con un último nivel de memoria cache compartido (LLC), la actividad de prebúsqueda inducida por un núcleo consume recursos comunes como espacio en la LLC y ancho de banda. Esto puede degradar el rendimiento del resto de núcleos e incluso el rendimiento general del sistema. Por tanto, la prebúsqueda hardware en un multiprocesador que tiene un último nivel de cache compartido (LLC) es un reto. En este trabajo presentamos ABS, un mecanismo de bajo coste que adecúa la agresividad de la prebúsqueda de cada uno de los núcleos en cada uno de los bancos de la LLC de un chip multiprocesador. El mecanismo se ejecuta de forma independiente en cada banco de la LLC usando sólo información local. A intervalos temporales regulares un núcleo es seleccionado y la tasa de fallos del banco y la utilidad de la prebúsqueda de dicho núcleo son muestreadas. Estas métricas son utilizadas para ajustar la agresividad de la prebúsqueda asociada al núcleo elegido. Nuestros análisis con cargas multiprogramadas de SPEC2K6 muestran que el mecanismo mejora tanto las métricas de usuario (el tiempo medio de retorno un 27% y la equidad un 11%) como las de sistema (la productividad agregada mejora un 22% y el ancho de banda consumido se reduce un 14%) con respecto a un sistema base con ocho núcleos que usa prebúsqueda secuencial marcada de grado fijo. Los resultados son consistentes cuando se utiliza un sistema con dieciséis núcleos o cuando comparamos nuestro mecanismo con propuestas previas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5097</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Arquitectura y Tecnología de Computadores</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5097/files/TAZ-TFM-2010-064.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Prebúsqueda</dc:subject>
+    <dc:subject>Prefetch</dc:subject>
+    <dc:subject>Chip multiprocesador</dc:subject>
+    <dc:subject>Chip multiprocessor</dc:subject>
+    <dc:subject>Multinúcleo</dc:subject>
+    <dc:subject>Multicore</dc:subject>
+    <dc:subject>CMP</dc:subject>
+    <dc:subject>Máster Universitario en Ingeniería de Sistemas e Informática</dc:subject>
+    <dc:title>Prebúsqueda adaptativa en un chip multiprocesador</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

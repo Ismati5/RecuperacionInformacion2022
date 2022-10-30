@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gracia Gómez, Francisco Javier</dc:contributor>
+    <dc:contributor>Montañes Espinosa, Antonio Joaquín</dc:contributor>
+    <dc:creator>Arenaz Peralo, Álvaro</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>En el presente Trabajo de Fin de Grado se ha desarrollado un manual del proceso de análisis de incidencias en la Red de Alta Tensión, una librería en la que se tipifican las distintas faltas que se producen en los elementos del Sistema Eléctrico de Potencia de Aragón y una guía en cual se recogen los casos más frecuentes de incidencias con sus respectivas causas y soluciones. Finalmente, se ha desarrollado una herramienta informática que permite mejorar la operativa en el análisis de incidencias. Para conocer el funcionamiento del aplicativo, también se ha elaborado el manual de uso del mismo. &lt;br /&gt;El proyecto a sido desarrollado durante la realización de la beca de Protección y Telecontrol impartida en e-Distribución Redes Digitales S.L., y que se inició el  3 de junio de 2019. Dicha beca fue proporcionada por la Fundación CIRCE, amparada en el convenio de Cooperación Educativa firmado entre esta Fundación y Endesa. &lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87323</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87323/files/TAZ-TFG-2019-4535.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Análisis de incidencias debidas a faltas en red de alta tensión</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Analysis of incidents due to faults in high voltage network</dc:title>
+</oai_dc:dc>

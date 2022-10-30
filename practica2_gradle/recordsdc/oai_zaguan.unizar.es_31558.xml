@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sequeira Villarreal, Luis</dc:contributor>
+    <dc:contributor>Fernández Navajas, Julián</dc:contributor>
+    <dc:creator>Fabra Pineda, Alejandro</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>En la actualidad existen diversas alternativas de aplicaciones y servicios para establecer una comunicación multimedia en tiempo real a través de Internet. Se comparten contenidos multimedia en vivo entre usuarios, mediante la red actual y se aprovechan características de las redes (Peer to Peer, P2P). También los sistemas de televisión por Internet han proliferado ylos proveedores de servicios de Internet (Intenet Service Provider, ISP), han visto cómo (Internet Protocol Television, IPTV) les permite desplegar un nuevo conjunto de aplicaciones sobre la misma infraestructura compitiendo contra la televisión digital terrestre y la televisión por satélite. Así, el uso extendido de este tipo de servicios ha provocado que los usuarios demanden progresivamente más calidad, y mayor ubicuidad para acceder a estos servicios. Otros servicios como los de videoconferencia y (Voice over Internet Protocol, VoIP) también se han extendido sobre Internet llegando a sustituir a los servicios tradicionales.  El objetivo de este proyecto es estudiar el comportamiento del tráfico de servicios multimedia mediante el uso de un software de simulación de redes. Existen una gran cantidad de investigaciones para la simulación de redes y protocolos de comunicación. Entre estos simuladores de redes están NS-2, GloMoSim, OMNeT++, NCTUNs. Tras el estudio de las características de estos sistemas de simulación, se ha seleccionado NS-2como entorno de trabajo. Se han generado escenarios de red para el estudio y ejecución de scripts de pruebas automatizadas. Se han sacado conclusiones en base a parámetros de Calidad de Servicio (Quality of Service,QoS) conocidos en la transmisión multimedia como son: el ancho de banda, el retardo, la variación del retardo o jitter y la tasa de pérdida de paquetes. Se busca optimizar el uso de aplicaciones multimedia streaming mediante diferentes técnicas. Se han usado trazas de aplicaciones VoIP y (Peer to Peer Televisión, P2PTV) que permiten el estudio de las características de la transmisión de datos en tiempo real con el objetivo de medir las reacciones del sistema ante los cambios en las condiciones de la red. La técnica utilizada ha sido el alisado de tráfico. Para que los servicios multimedia comparados con los tradicionales funcionen bien (sean aceptables y con calidad suficiente), la red de datos debe tener soporte de QoS, especialmente cuando la red posee cuellos de botella y/o aparecen situaciones de congestión. Por último, mediante el análisis de los resultados obtenidos, se han extraído conclusiones aplicables a situaciones reales. Con las simulaciones se pretende obtener la mayor fidelidad sobre las características y funcionamiento de las aplicaciones multimedia. Analizándose posibles mejoras y líneas futuras.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31558</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingeniería Telemática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31558/files/TAZ-PFC-2014-603.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>servicios de tv por internet</dc:subject>
+    <dc:subject>servicios en tiempo real</dc:subject>
+    <dc:subject>p2ptv</dc:subject>
+    <dc:subject>iptv</dc:subject>
+    <dc:subject>ns-2</dc:subject>
+    <dc:subject>p2p live streaming</dc:subject>
+    <dc:subject>videoconferencia</dc:subject>
+    <dc:subject>streaming</dc:subject>
+    <dc:subject>video-on-demand</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicación</dc:subject>
+    <dc:title>Análisis del tráfico multimedia en accesos a Internet</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

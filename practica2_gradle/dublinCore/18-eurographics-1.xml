@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<csw:Record xmlns:csw="http://www.opengis.net/cat/csw/2.0.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ows="http://www.opengis.net/ows" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:language>es</dc:language>
+  <dc:identifier>18-eurographics-1</dc:identifier>
+  <dc:creator>EuroGeographics</dc:creator>
+  <dc:description>EuroGlobalMap es un dataset geográfico que abarca los países de la Unión Europea (Andorra, Croacia, Chipre, República Checa, Islas Feroe, Estonia, Hungría, Islandia, Letonia, Moldavia, Monaco, Noruega, Polonia, San Marino, Eslovenia, Suiza, Turquía y el Vaticano) a escala 1:1.000.000. Se ha elaborado en colaboración con National Mapping Agencies de Europa a partir de bases de datos oficiales a nivel nacional de los paises integrantes. Las capas temáticas son: límites administrativos, hidrografía, transportes, asentamientos, puntos de elevación y topónimos.</dc:description>
+  <dc:format>ARCC</dc:format>
+  <dc:language>en</dc:language>
+  <dc:publisher>EuroGeographics</dc:publisher>
+  <dc:source>Este dato es el original y se encuentra en Eurogeographics</dc:source>
+  <dc:subject>GENERALIDADES.CARTOGRAFIA.TOPOGRAFIA</dc:subject>
+  <dc:subject>GEOGRAFIA HUMANA.GEOGRAFIA POLITICA.GEOGRAFIA DE LA ADMINISTRACION.LIMITES TERRITORIALES.LIMITES ADMINISTRATIVOS</dc:subject>
+  <dc:subject>GEOGRAFIA FISICA.HIDROLOGIA</dc:subject>
+  <dc:subject>GEOGRAFIA HUMANA.GEOGRAFIA DE LAS COMUNICACIONES.GEOGRAFIA DEL TRANSPORTE.TRANSPORTE</dc:subject>
+  <dc:subject>GEOGRAFIA HUMANA.GEOGRAFIA URBANA.CIUDADES.ASENTAMIENTOS</dc:subject>
+  <dc:subject>GENERALIDADES.CARTOGRAFIA.TOPOGRAFIA.ALTIMETRIA.ALTITUD.COTAS DE ALTITUD</dc:subject>
+  <dc:subject>GEOGRAFIA. PARTE HISTORICA.GEOGRAFIA HISTORICA.TOPONIMIA.TOPONIMOS</dc:subject>
+  <dc:subject>boundaries</dc:subject>
+  <dc:subject>inlandWaters</dc:subject>
+  <dc:subject>transportation</dc:subject>
+  <dc:subject>society</dc:subject>
+  <dc:subject>elevation</dc:subject>
+  <dc:subject/>
+  <dc:title>EuroGlobalMap</dc:title>
+  <dc:type>dataset</dc:type>
+  <dcterms:issued>2004-01-31</dcterms:issued>
+  <dcterms:license>Este recurso debería usarse sólo en aplicaciones de pequeña escala (1:500.000 - 1:2.000.000) Disponible sólo por medio de Eurogeographics, National Mapping Agencies y distribuidores con licencia. Áreas de paises individuales por medio de National Mapping Agencies.</dcterms:license>
+  <dcterms:spatial>ESPAÑA</dcterms:spatial>
+  <dcterms:spatial>PORTUGAL</dcterms:spatial>
+  <dcterms:spatial>ANDORRA</dcterms:spatial>
+  <dcterms:spatial>FRANCIA</dcterms:spatial>
+  <dcterms:spatial>GRAN BRETAÑA </dcterms:spatial>
+  <dcterms:spatial>IRLANDA</dcterms:spatial>
+  <dcterms:spatial>ISLANDIA</dcterms:spatial>
+  <dcterms:spatial>SUIZA</dcterms:spatial>
+  <dcterms:spatial>ITALIA</dcterms:spatial>
+  <dcterms:spatial>BÉLGICA</dcterms:spatial>
+  <dcterms:spatial>LUXEMBURGO</dcterms:spatial>
+  <dcterms:spatial>HOLANDA</dcterms:spatial>
+  <dcterms:spatial>ALEMANIA </dcterms:spatial>
+  <dcterms:spatial>DINAMARCA</dcterms:spatial>
+  <dcterms:spatial>SUECIA</dcterms:spatial>
+  <dcterms:spatial>NORUEGA</dcterms:spatial>
+  <dcterms:spatial>FINLANDIA</dcterms:spatial>
+  <dcterms:spatial>CROACIA</dcterms:spatial>
+  <dcterms:spatial>CHIPRE</dcterms:spatial>
+  <dcterms:spatial>REPÚBLICA CHECA</dcterms:spatial>
+  <dcterms:spatial>ISLAS FEROE</dcterms:spatial>
+  <dcterms:spatial>ESTONIA</dcterms:spatial>
+  <dcterms:spatial>HUNGRÍA</dcterms:spatial>
+  <dcterms:spatial>LETONIA </dcterms:spatial>
+  <dcterms:spatial>MOLDAVIA </dcterms:spatial>
+  <dcterms:spatial>MÓNACO</dcterms:spatial>
+  <dcterms:spatial>POLONIA</dcterms:spatial>
+  <dcterms:spatial>SAN MARINO</dcterms:spatial>
+  <dcterms:spatial>ESLOVENIA</dcterms:spatial>
+  <dcterms:spatial>TURQUÍA</dcterms:spatial>
+  <dcterms:spatial>VATICANO</dcterms:spatial>
+  <ows:BoundingBox>
+    <ows:LowerCorner>-31.268 27.635</ows:LowerCorner>
+    <ows:UpperCorner>44.819 71.252</ows:UpperCorner>
+  </ows:BoundingBox>
+</csw:Record>

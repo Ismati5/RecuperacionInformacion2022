@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Tomás Cortés Arcos</dc:contributor>
+    <dc:creator>Javier Blesa Yanguas</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>Dentro de las etapas que comprenden el diseño de un sistema de evaluación automática, este trabajo se centra en la investigación de los parámetros que se deben seleccionar para obtener resultados representativos de la calidad de las muestras y de cómo medir dichos parámetros. En cuanto al tipo de muestras a analizar, se ha seleccionado la variedad “Denominación de Origen Melocotón de Calanda”, debido a su máximo grado de calidad y a sus parámetros totalmente prefijados dentro de unos rangos determinados. La evaluación de las muestras se ha realizado mediante la interpretación de la información proveniente de sensores e imágenes, utilizando dos herramientas, el microcontrolador Arduino y el software de cálculo matemático Matlab. Los resultados servirán para decidir que herramientas y sensores han de ser implementadas en el sistema de evaluación automático.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76624</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76624/files/TAZ-TFG-2018-3504_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/76624/files/TAZ-TFG-2018-3504.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecatrónica</dc:subject>
+    <dc:title>Diseño de un sistema automático de evaluación de la calidad de la fruta</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Automatic System Design for Fruit Quality Evaluation</dc:title>
+</oai_dc:dc>

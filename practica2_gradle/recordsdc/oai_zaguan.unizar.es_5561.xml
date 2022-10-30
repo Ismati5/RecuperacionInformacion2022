@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Desmet, Bram</dc:contributor>
+    <dc:contributor>Peña Torre, José Ignacio</dc:contributor>
+    <dc:creator>Arizcuren Salinas, Aitor</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El presente proyecto se incluye en la línea de investigación sobre el estudio y control de la reología del hormigón constituido por plastificantes y aceleradores o retardadores simultáneamente, en el que participa la Real Academia Militar de Bélgica. El objetivo del proyecto general de investigación es dominar y controlar la influencia de los diferentes componentes en el hormigón y en su reología, y cómo evoluciona con el tiempo cuando se usan diferentes combinaciones de aditivos. El programa está centrado principalmente en hormigón autocompactante, ya que en él se combina normalmente estos aditivos. En este contexto, el Departamento de Construcción y Materiales de la Real Academia Militar de Bélgica ha trabajado en los últimos años en la caracterización de diferentes morteros autocompactantes tanto por medio de ensayos tradicionales, así como por monitorización continua con ultrasonidos. Mediante estas técnicas de ultrasonidos, las propiedades del mortero pueden ser medidas de manera no destructiva, reproducible y objetiva. La técnica está basada en el estudio y observación de las ondas longitudinales transmitidas a través del compuesto durante el proceso de hidratación del cemento. Una de las maneras de determinar el fraguado inicial del hormigón y mortero es mediante la determinación del punto de inflexión de la curva de velocidad de la onda ultrasónica longitudinal. El tratamiento de datos de uno de los dispositivos de monitorización por ultrasonidos, llamado Freshcon, es problemático, sobre todo en las primeras horas de vida del mortero. En este periodo de tiempo los niveles de ruido son superiores o similares a la señal recibida y la forma, amplitud, y espectro frecuencial de la señal cambian rápidamente, hechos que impiden una correcta obtención de la curva de velocidad de la onda longitudinal. El objetivo de este proyecto es el desarrollo y aplicación de un método automatizado para el tratamiento de las señales registradas por Freshcon para la obtención de curvas de velocidad de la onda longitudinal para morteros y hormigones. En este proyecto se ha estudiado las señales de ultrasonido recibidas por Freshcon durante un ensayo de ultrasonidos y el algoritmo de detección del tiempo de llegada de la señal. Tras este estudio, se ha desarrollado un método automatizado para el tratamiento de  las señales  ultrasónicas mediante filtros discretos de tipo Bessel para la obtención de curvas de velocidad de la onda longitudinal. La validez del método desarrollado ha sido probada y este ha sido aplicado en los resultados de un programa experimental sobre mortero autocompactante.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5561</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Ciencia de los Materiales e Ingeniería Metalúrgica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5561/files/TAZ-PFC-2011-013.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5561/files/TAZ-PFC-2011-013_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>ultrasonidos</dc:subject>
+    <dc:subject>mortero</dc:subject>
+    <dc:subject>autocompactante</dc:subject>
+    <dc:subject>SCC</dc:subject>
+    <dc:subject>freshcon</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Desarrollo y aplicación de un método automatizado para el análisis de datos de un dispositivo de monitorización continua de la hidratación de mortero y hormigón mediante señales de ultrasonidos de banda ancha</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

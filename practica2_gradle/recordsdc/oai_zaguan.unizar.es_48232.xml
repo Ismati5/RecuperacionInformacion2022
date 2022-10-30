@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Artigas Maestre, José Ignacio</dc:contributor>
+    <dc:creator>Jaime Casas, Pablo</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>Obtener un modelo matemático adecuado del convertidor reductor Buck sobre el que se trabajará. Diseñar un controlador que asegure un error de posición cero a la salida del sistema y que permita obtener una tensión regulada y constante ante cambios en la carga o la tensión de entrada. Realizar una correcta implementación del controlador en lenguaje C y coma fija sobre la placa MSP430FR5739. Diseñar y montar la placa de circuito impreso con el Buck para su fácil conexión con la placa de control. Verificar el correcto funcionamiento del sistema mediante pruebas reales en el laboratorio.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/48232</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/48232/files/TAZ-TFG-2015-3393.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Control en modo tensión con microcontrolador de un reductor tipo Buck</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

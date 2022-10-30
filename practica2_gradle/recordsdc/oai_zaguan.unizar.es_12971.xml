@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ilarri Artigas, Sergio</dc:contributor>
+    <dc:creator>Bedoya Reyes, Alain</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>La última década ha sido testigo de un creciente interés en las VANETs  (Vehicular Ad-Hoc Networks),  redes formadas entre diferentes vehículos que intercambian datos utilizando tecnologías de comunicación de corto alcance, intentando ofrecer al conductor información dinámica que pueda resultarle de utilidad, brindándole seguridad y evitando riesgos potenciales al proporcionar un mayor conocimiento de las condiciones del camino. Se han propuesto diversos sistemas de intercambio y gestión de datos para redes de vehículos. Sin embargo, para realizar pruebas de su funcionamiento es conveniente utilizar simuladores del entorno real. De esta manera los costes serían menores, se garantizaría la obtención de resultados fiables y un mayor rendimiento del producto final. El objetivo de este trabajo es realizar un estudio de los simuladores más utilizados en el ámbito de las redes de vehículos, con el fin de contribuir a la comunidad investigadora en el momento de decidir qué simulador utilizar. Para ello se emplearán artículos realizados por diferentes investigadores y distintos software de simulación que permitan determinar características, ventajas, desventajas, actividad en la comunidad científica y otros criterios de evaluación que nos ayuden a la toma de decisiones en el momento de utilizar algún simulador específico.  A partir de este punto se seleccionarán los que se consideren más adecuados para realizar simulaciones de diversos tipos, incluyendo escenarios de ciudades reales, así como ejemplos propios de los simuladores, donde se darán directrices de cómo llevar cabo la simulación y qué análisis se puede realizar con los resultados obtenidos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12971</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12971/files/TAZ-TFM-2013-1124.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/12971/files/TAZ-TFM-2013-1124_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>redes vehiculares</dc:subject>
+    <dc:subject>simuladores de vanet</dc:subject>
+    <dc:subject>modelos de movilidad</dc:subject>
+    <dc:subject>sistemas de transporte inteligente (its)</dc:subject>
+    <dc:subject>comunicación entre vehículos (v2v)</dc:subject>
+    <dc:subject>comunicación vehículo infraestructura (v2i)</dc:subject>
+    <dc:subject>Máster Universitario en Ingeniería de Sistemas e Informática</dc:subject>
+    <dc:title>Estudio de entornos de simulación en redes de vehículos</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

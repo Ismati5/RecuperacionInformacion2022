@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Martínez Pérez, María Aránzazu</dc:contributor>
+    <dc:creator>Pérez García, Ignacio</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>El presente trabajo aborda el diseño y desarrollo del mecanismo de apertura mediante pedal de la tapa de usuario de un contenedor de carga lateral en fase de restyling. El diseño del mecanismo deberá ser incorporado en un diseño de contenedor cerrado previamente en cuanto a estética, pero que no ha tenido en cuenta la necesidad de dicho mecanismo. Se procurará reducir al máximo el número de piezas necesarias, y que el máximo de estas piezas se pueda fabricar en plástico mediante inyección.  Durante el desarrollo del trabajo, será necesaria la formación en software de diseño y simulación, así como en diseño en plástico. Se trabajará con un programa CAD para diseño de diferentes conceptos de mecanismos de apertura mediante pisado de pedal, teniendo en cuenta el recorrido máximo permitido del pedal, la apertura mínima requerida de tapa y la fuerza máxima permitida en el pisado. Posteriormente se desarrollará en CAD el concepto elegido actualizando el diseño según se realizan las simulaciones resistentes mediante FEM. Por último, se simulará mediante MOLDFLOW la inyección de las piezas plásticas y se estimarán los costes.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/78625</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería Mecánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/78625/files/TAZ-TFG-2018-4423.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería en Diseño Industrial y Desarrollo de Producto</dc:subject>
+    <dc:title>Diseño y desarrollo de sistema de apertura de tapa “usuario” mediante pedal, implementado en un contenedor de carga lateral en fase de restyling</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Design and development of "user" lid opening system by means of pedal in a restyled side-loading container</dc:title>
+</oai_dc:dc>

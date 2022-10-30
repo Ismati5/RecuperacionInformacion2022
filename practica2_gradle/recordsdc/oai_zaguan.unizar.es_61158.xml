@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Cerezo Bagdasari, Eva</dc:contributor>
+    <dc:contributor>Bonillo Fernández, Clara</dc:contributor>
+    <dc:creator>Nebra Burillo, María</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>La mesa NIKVision ha sido desarrollada por el grupo GIGA (Grupo de Informática Gráfica Avanzada) Affective Lab de la Universidad de Zaragoza dentro de la línea de investigación de interfaces tangibles. Su meta es acercar la potencialidad terapéutica, educativa y lúdica de los videojuegos para estimular a personas con limitaciones funcionales.  	El objetivo propuesto es la creación de actividades cognitivas orientadas a la terapia con personas mayores. Dichos ejercicios han de hacer uso de todas las potencialidades de la interacción tangible pero adaptadas a las especiales características de la tercera edad.  	Para la correcta realización de los objetivos se ha creado una colaboración con la residencia Romareda perteneciente al IASS, que permite trabajar de primera mano con los pacientes residentes. Al comienzo del proyecto se ha realizado una fase analítica necesaria para comprender el ámbito de la interacción tangible y donde recopilar la información sobre los tabletops, haciendo especial énfasis en aquellos relacionados con la tercera edad. También se ha estudiado en profundidad el usuario objetivo y su actividad dentro de la terapia ocupacional a través de las sesiones realizadas en la residencia Romareda. La realización de una prueba inicial de la mesa con pacientes reales ha permitido sacar las conclusiones necesarias para elegir el segmento de personas más interesante, así como las características que lo definen y que serán la base para el desarrollo de las actividades. En la fase ejecutiva se han tenido en cuenta todos los datos recogidos con     anterioridad y han sido contrastados con la opinión de la terapeuta de la residencia Romareda conllevando la creación de tres juegos independientes que pueden complementar las sesiones de terapia. Por último, aprovechando la colaboración con la residencia, se ha realizado una evaluación con los pacientes del grupo escogido (personas con problemas cognitivos) para corroborar el correcto funcionamiento de las actividades y detectar posibles fallos a corregir para conseguir una experiencia completa para el usuario.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61158</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61158/files/TAZ-TFG-2016-3578.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/61158/files/TAZ-TFG-2016-3578_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería en Diseño Industrial y Desarrollo de Producto</dc:subject>
+    <dc:title>Diseño de actividades cognitivas para personas mayores basadas en interacción tangible</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Design of cognitive activities for elderly people based on tangible interaction</dc:title>
+</oai_dc:dc>

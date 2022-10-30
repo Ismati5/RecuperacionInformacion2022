@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Eced Cerdán, Javier</dc:contributor>
+    <dc:contributor>Zarazaga Soria, Francisco Javier</dc:contributor>
+    <dc:creator>Gracia Cabrera, Héctor</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>GeoSpatiumLab S.L., empresa dedicada al desarrollo de Sistemas de Información Geográfica en la cual se desarrolló este PFC[1], tiene entre sus líneas de negocio el desarrollo de visores Web de mapas. El objetivo principal del PFC[1] es diseñar un nuevo modelo para la creación de visores de mapas en el S.O. iOS de iPhone, que esté basado en el desarrollado para las plataformas Web. Para cumplir con el propósito de este PFC[1] se ha desarrollado un Framework[12] para la creación de visores de mapas que funcionan como aplicaciones nativas de iPhone y aprovechan todo su potencial tanto a nivel gráfico como de interfaz. Estos visores permiten mostrar gráficamente sobre un mapa capas de información base junto con información vectorial, proveniente de distintos formatos, en un área geográfica concreta. Más detalladamente, los visores creados a partir de este Framework ofrecen las siguientes funcionalidades: •	Acceso a capas base proporcionadas por servicios Web compatibles con el estándar Web Map Service (WMS) de Open GeoSpatial Consortium (OGC). • Acceso a capas base teseladas proporcionadas por servicios Web compatibles con la especificación Web Map Service Tile Caching (WMS-C) de OSGeo. •	Herramientas básicas de movimiento sobre el mapa (desplazamiento, cambio de nivel de zoom, etc.) que aprovechen todas las ventajas que ofrece la pantalla multitáctil del dispositivo. • Representación de información vectorial sobre el mapa, mediante el dibujo de las geometrías asociadas a esa información (puntos, líneas, etc.) y posibilidad de elegir el estilo de representación de las mismas. Adicionalmente, para mostrar todo el potencial del Framework[12], se ha desarrollado una aplicación nativa sobre iOS de iPhone para la gestión de rutas sobre el mapa. Una ruta está formada por un origen, un destino y una serie de puntos de paso y de información asociados. Esta aplicación incluye un visor creado haciendo uso de dicho Framework[12] y permite, a partir de un listado de rutas que puede ser modificado mediante la importación y exportación de datos, su representación sobre el mapa, así como obtener información de cada uno de sus elementos. Además, es capaz de geolocalizar la posición del usuario gracias al GPS del dispositivo móvil.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6867</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6867/files/TAZ-PFC-2012-033.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>ios</dc:subject>
+    <dc:subject>iphone</dc:subject>
+    <dc:subject>framework</dc:subject>
+    <dc:subject>visor de mapas</dc:subject>
+    <dc:subject>wms</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Framework para la creación de visores de mapas compatibles con estándares internacionales sobre el iOS de iPhone</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

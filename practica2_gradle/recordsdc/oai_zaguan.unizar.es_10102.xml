@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gotchev, Atanas</dc:contributor>
+    <dc:contributor>Serón Arbeloa, Francisco José</dc:contributor>
+    <dc:creator>Valle Badenas, David Ángel</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Desde que el ser humano ha sido capaz de reproducir objetos del mundo real en material sintético, el objetivo ha estado determinado por concebir sistemas de experiencias virtuales más precisos, desde las primeras fotografías estereográficas hasta las contemporáneas producciones cinematográficas en 3D. Los productos actualmente disponibles en el mercado son consecuencia de investigaciones iniciadas décadas atrás. Sin embargo, nuevas exploraciones en tecnologías más complejas han dado lugar a nuevas inmersiones de realidad virtual. Los estereogramas holográficos, los cuales proveen una perspectiva más amplia y una mayor cantidad de puntos de vista, se suponen ser el siguiente paso en la evolución de los sistemas visuales 3D. Esta tecnología no ha sido introducida en el mercado todavía, sin embargo, el progreso realizado en el campo del hardware que permite una mayor cantidad de almacenamiento y proceso de datos y, mejores diseños y algoritmos de software que consiguen resultados de forma más eficiente, harán posible la disponibilidad de pantallas holográficas al consumidor en un futuro cercano. Actualmente, los objetos 3D pueden ser manipulados fácilmente y la posibilidad de obtener su información digital lleva al desarrollo de hologramas generados por ordenador basados en sistemas multi-vista. La captura y post-procesado de las vistas necesarias para crear un holograma generado por ordenador conlleva un coste de almacenamiento y computación alto. Esta tesis afronta el problema de optimización del número de vistas o cámaras requeridas para reconstruir una escena compuesta por un número de vistas totalmente densa. El método desarrollado parte de una escena 3D y un set completo de vistas. Solo algunas de esas vistas son utilizadas para reproducir la escena completa. A través del análisis de las imágenes en el dominio espacial y de frecuencia de Fourier, se han utilizado técnicas de procesado de señal para interpolar y regenerar la escena original. Se han considerado un número diferente de vistas disponibles inicialmente, las cuales son procesadas para reconstruir la escena \textit{a posteriori}, de manera que se pueda establecer un ratio entre el número mínimo de cámaras necesarias y el número total de cámaras que la escena contiene. Los resultados de este estudio sugieren, comparando la semejanza entre las escenas originales y sus versiones optimizadas, que la reconstrucción de todas las vistas puede ser obtenida a partir de muchas menos cámaras y sin una pérdida de calidad considerable. El siguiente texto muestra el análisis del problema y las técnicas utilizadas para resolverlo. La memoria concluye con una valoración de las técnicas y herramientas desarrolladas, así como de los resultados obtenidos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10102</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10102/files/TAZ-PFC-2013-055.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>holografía</dc:subject>
+    <dc:subject>estereograma</dc:subject>
+    <dc:subject>hologram</dc:subject>
+    <dc:subject>light field</dc:subject>
+    <dc:subject>signal processing</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Multi-view image rendering for stereographic hologram printing</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Shröder, Sebastian</dc:contributor>
+    <dc:contributor>Meyer, Henning</dc:contributor>
+    <dc:contributor>Marcuello Pablo, Juan José</dc:contributor>
+    <dc:creator>Mellado Modrego, Javier</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>El trabajo de fin de master ha consistido en el diseño y montaje de un prototipo de maquina con 3 grados de rotacion que será usado en un robot que se encarge del mantenimiento automatico de jardines verticales.&lt;br /&gt;Para desarrollar este prototipo se ha creado una lista con los requerimientos generales del sistema y,de acuerdo con estos requerimientos, se han seleccionado una combinación de articulaciones y motores que permitan moverse al sistema de la forma deseada.&lt;br /&gt;Para finalizar se ha diseñado y producido una base para colocar todos los elementos del sistema y se ha testeado las carácteristicas del prototipo.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87149</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87149/files/TAZ-TFM-2019-1569.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Industrial</dc:subject>
+    <dc:title>Design, construction and testing of an 3-axis joint system</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Design, construction and testing of an 3-axis joint system</dc:title>
+</oai_dc:dc>

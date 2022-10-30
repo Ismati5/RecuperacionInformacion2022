@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Puyal Puente, Diego</dc:contributor>
+    <dc:contributor>Llorente Gil, Sergio</dc:contributor>
+    <dc:creator>Pérez García, Máximo</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Este proyecto se enmarca dentro de las tareas de pre-desarrollo de la nueva generación de productos denominada IH6.2, cuyas conclusiones condicionan prácticamente todo el diseño posterior, tanto de la electrónica como de los inductores. Se pretende analizar las ventajas e inconvenientes competitivas o de coste de un cambio de paradigma en lo relativo a la frecuencia de trabajo, concretamente en el rango frecuencial de 20 kHz a 30 kHz, cuyos resultados afectan a los productos del segmento medio (IH) y bajo (MPX). 	Se han realizado simulaciones de la topología electrónica con diferentes modelos numéricos de cargas y varios modelos de interruptores de potencia (IGBT’s), bajo el marco de tres posibles escenarios de diseño, para evaluar los resultados de eficiencia electrónica a las nuevas frecuencias de conmutación y también preseleccionar IGBT, incluyendo la posibilidad de compatibilizar inductores ente ambas plataformas. 	Para completar el estudio se ha sometido a la electrónica de ambas plataformas, a dos tipos de ensayos de uso, con el objetivo de evaluar las prestaciones de la encimera y poder observar en qué medida cambian las condiciones de trabajo de diferentes partes de ésta, como son el filtro de red, el puente de diodos y los propios IGBT’s.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12200</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12200/files/TAZ-PFC-2013-600.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/12200/files/TAZ-PFC-2013-600_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>inducción</dc:subject>
+    <dc:subject>eficiencia</dc:subject>
+    <dc:subject>inversor resonante</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Elección de la frecuencia óptima de diseño para un sistema de calentamiento por inducción doméstico</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

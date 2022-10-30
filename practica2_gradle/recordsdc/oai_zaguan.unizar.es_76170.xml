@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Pueyo Campos, Ángel</dc:contributor>
+    <dc:creator>García Mañeru, Alejandra</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>Los espacios habitados sufren continuamente cambios y presiones, y en ocasiones la calidad de vida y el bienestar social se ven amenazados por determinados fenómenos, dando lugar a espacios excluidos o vulnerables. En los últimos años se ha desarrollado un modelo territorial, donde se ha intensificado la vulnerabilidad y desvitalización de determinados espacios y poblaciones, especialmente del medio rural. Para evitar estos problemas la acción a escala local es fundamental, y las decisiones tomadas a esta escala tienen una gran repercusión en la vida de los ciudadanos, por lo que la administración debe apoyarse en una serie de herramientas, estrategias, informes, estudios… que ayudan al análisis territorial. En este trabajo se desarrolla un modelo metodológico para la elaboración de un diagnóstico de vulnerabilidad, centrándose en el protocolo de toma de datos, tratamiento de los mismos, la selección de indicadores de utilidad para el diagnóstico y la elaboración de productos cartográficos a través de una serie de herramientas SIG (Sistemas de Información Geográfica), con el objetivo de que sirva como instrumento para la gestión local y la toma de decisiones. Dicha metodología se ha desarrollado paralelamente al proyecto de diagnóstico de vulnerabilidad llevado a cabo en la comarca de Los Monegros por el Grupo de Estudios en Ordenación del Territorio (GEOT) de la Universidad de Zaragoza, en el contexto del proyecto INTERREG SECANTO POCTEFA.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76170</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76170/files/TAZ-TFM-2018-1058.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Tecnologías de la Información Geográfica para la Ordenación del Territorio: Sistemas de Información Geográfica y Teledetección</dc:subject>
+    <dc:title>Desarrollo de un modelo metodológico para la realización de un diagnóstico de vulnerabilidad geodemográfico: El caso de la comarca de Los Monegros</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Development of a methodological model for a geodemographic vulnerability diagnosis: The case of the region of Monegros</dc:title>
+</oai_dc:dc>

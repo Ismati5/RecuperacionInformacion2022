@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ballester Castañer, Javier Manuel</dc:contributor>
+    <dc:creator>Aranda Ibáñez, Diego</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>Este trabajo plantea el diseño de surrogates de un gasóleo, caracterizado por una composición compleja, mediante la mezcla de compuestos puros que presenten comportamientos evaporativos y de combustión similares a las de este.  Para ello se utilizan dos metodologías diferentes. Por un lado, la metodología de formulación más habitual, basada en comparar solamente las propiedades físico-químicas de las sustancias. Y por otro lado, una metodología novedosa que permite formular y evaluar el comportamiento real de surrogates en condiciones de combustión representativas de aplicaciones reales, determinando algunos parámetros clave como son los tiempos de calentamiento y combustión o la formación de hollín.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/78684</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/78684/files/TAZ-TFG-2018-447.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Química</dc:subject>
+    <dc:title>Diseño y evaluación de surrogates de gasóleo formulados en base a propiedades evaporativas y de combustión</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Design and evaluation of heating oil surrogates formulated based on evaporative and combustion properties</dc:title>
+</oai_dc:dc>

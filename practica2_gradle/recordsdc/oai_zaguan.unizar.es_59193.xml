@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>González Bedia, Manuel</dc:contributor>
+    <dc:contributor>Alquézar Baeta, Carlos</dc:contributor>
+    <dc:contributor>Alquézar Baeta, Carlos Alfonso</dc:contributor>
+    <dc:creator>Milla Pineda, Sergio</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>En los ámbitos de simulación computacional y modelado cognitivo se está produciendo un creciente  desplazamiento desde una perspectiva en la que se considera que las capacidades mentales se almacenan, procesan, ejecutan y desarrollan exclusivamente en el cerebro (la aproximación de la metáfora del ordenador) hacia una perspectiva en la que el enfoque recae sobre la interacción dinámica agente-entorno, centrando la atención sobre la fluidez del acoplamiento al mundo y la corporización de la acción como fundamentos de las capacidades cognitivas. A esta corriente se le denomina perspectiva sensomotora de la cognición y entiende que los procesos de reconocimiento y comprensión de nuestro entorno deben ser estudiados mediante modelos formales y experimentales que recojan la estructura dinámica del acoplamiento de un agente con su mundo a través de bucles de retroalimentación sensomotores (O’Regan &amp; Noë 2001). El enfoque sensomotor ha comenzado a desarrollarse en los últimos años desde diferentes disciplinas (a nivel neurocientífico y psicológico), pero no con la misma intensidad a nivel formal y computacional dentro del área de los sistemas inteligentes, donde se necesitan modelos mínimos que reduzcan la complejidad y la dimensionalidad de los sistemas de estudio, para facilitar su análisis y modelización. En este proyecto se ha desarrollado un entorno de experimentación que permite hacer análisis de capacidades sensomotoras simplificadas. Se trata de una plataforma virtual de interacción mínima en la que participan humanos y agentes software, en entornos de muy baja dimensionalidad, donde las interacciones sensomotoras entre sujetos y ambiente pueden registrarse con gran precisión, facilitando el estudio de las dinámicas de interacción.  El entorno virtual está diseñado para registrar, en los experimentos planteados, pautas sensomotoras y registros de la actividad cerebral de los sujetos mediante EEG (Electroencefalograma).</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/59193</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/59193/files/TAZ-PFC-2016-073.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Plataforma para la monitorización y análisis de experimentos sensomotores mínimos con EEG</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+    <dc:title xml:lang="en">Platform for monitoring and analysis of minimum sensorimotor experiments with EEG</dc:title>
+</oai_dc:dc>

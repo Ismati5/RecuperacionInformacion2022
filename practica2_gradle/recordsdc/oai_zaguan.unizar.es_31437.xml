@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ibáñez Marín, Pablo</dc:contributor>
+    <dc:creator>Díaz Maag, Javier</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El flujo de referencias que llega a una cache compartida de último nivel (SLLC) en sistemas CMP muestra poca localidad temporal. Si se realiza una gestión convencional, basada en esta localidad, el uso de la cache es ineficiente. Sin embargo, muestra localidad de reuso. En este trabajo se propone un nuevo mecanismo de selección de contenidos para caches exclusivas que aprovecha dicha localidad de reuso. Consiste en incluir un elemento denominado Detector de Reuso entre cada cache L2 y la SLLC, al que se dirigen todos los bloques expulsados de la cache L2. Su misión es detectar bloques sin reuso para evitar que sean insertados en la SLLC, realizando bypass de los mismos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31437</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Arquitectura y Tecnología de Computadores</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31437/files/TAZ-TFM-2014-650.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>memoria cache</dc:subject>
+    <dc:subject>cmp</dc:subject>
+    <dc:subject>sllc</dc:subject>
+    <dc:subject>exclusión</dc:subject>
+    <dc:subject>política de reemplazo</dc:subject>
+    <dc:subject>bypass</dc:subject>
+    <dc:subject>localidad de reuso</dc:subject>
+    <dc:subject>Máster Universitario en Ingeniería de Sistemas e Informática</dc:subject>
+    <dc:title>Selección de contenidos basada en reuso para caches compartidas en exclusión</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

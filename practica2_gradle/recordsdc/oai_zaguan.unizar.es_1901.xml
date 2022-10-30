@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Rebolledo Sanz, Miguel Ángel</dc:contributor>
+    <dc:contributor>Álvarez Abenia, José Miguel</dc:contributor>
+    <dc:creator>Martín Alonso, Juan Carlos</dc:creator>
+    <dc:date>1998</dc:date>
+    <dc:description>Hemos desarrollado un método de caracterización de fibras ópticas dopadas con erbio a partir del análisis combinado de la evolución de la fluorescencia transversal tras el encendido del bombeo más la evolución de la fluorescencia longitudinal tras la interrupción del bombeo. El método ha sido puesto a prueba con tres muestras de fibra dopada: por un lado, se han montado amplificadores ópticos con cada muestra y se ha medido tanto la ganancia proporcionada por cada uno como la respuesta dinámica a señales de entrada moduladas en baja frecuencia (de 10 a 1000 Hz). Por otro lado, mediante la técnica de caracterización se han obtenido los parámetros característicos de cada muestra requeridos para predecir numéricamente los resultados de los experimentos previamente mencionados. En general se obtiene un acuerdo aceptable entre simulaciones y medidas, lo que demuestra la validez del método de caracterización propuesto. A method for the characterization of erbium-doped fibers has been developed departing from the combined analysis of the transversal fluorescence evolution after pump switch-on together with the longitudinal fluorescence evolution after pump switch-off. The method has been put to the test with three erbium-doped fiber samples: on the one hand, optical amplifiers have been arranged with each sample; the gain provided by each amplifier as well as its dynamic response to low-frequency signals (10 1000 Hz) have been measured. On the other hand, by means of the characterization technique, we have obtained the characteristic parameters of each sample necessary to predict numerically the results of the previously mentioned experiments. In general, a good agreement between simulations and measurements is obtained, which proves the validity of the proposed characterization method. </dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/1901</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Fisica Aplicada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/1901/files/TUZ_0030_JCMartin.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>Fibras activas</dc:subject>
+    <dc:subject>erbio</dc:subject>
+    <dc:subject>amplificadores ópticos</dc:subject>
+    <dc:title>Estudio de propiedades dinámicas de fibras ópticas dopadas con erbio</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

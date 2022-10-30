@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Domínguez Navarro, José Antonio</dc:contributor>
+    <dc:creator>Alonso Bes, Carlos</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>La generación distribuida parece ser el futuro al que se encaminan nuestras redes eléctricas actuales. La gestión de dicha generación se quiere conseguir con el desarrollo del concepto de micro-red, que mediante una operación flexible permitiría la integración de las energías renovables. Debido a sus características, se necesitan nuevos sistemas de gestión distribuidos y escalables. El objetivo de este proyecto ha sido la creación de un sistema de gestión distribuido demicro-redes eléctricas que permita controlar los flujos de potencia y las tensiones en dichas redes. La plataforma multi-gente utilizada ha sido JADE y el simulador PSAT. Se ha usado JADE por ser una librería creada en Java y, por tanto, ser fácilmente portable a cualquier hardware con el intérprete adecuado. El simulador PSAT se ha elegido por ser de libre distribución. La comunicación entre el simulador y el sistema de control se hará a través de una versión ampliamente modificada de GridIQ, también de libre distribución. Finalmente se ha evaluado el sistema de gestión desarrollado en varias redes de prueba y se han analizado los resultados obtenidos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6871</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6871/files/TAZ-PFC-2012-036_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6871/files/TAZ-PFC-2012-036.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>micro-redes</dc:subject>
+    <dc:subject>micro-red</dc:subject>
+    <dc:subject>micro-grid</dc:subject>
+    <dc:subject>sistemas multi-agente</dc:subject>
+    <dc:subject>sma</dc:subject>
+    <dc:subject>sistema de control</dc:subject>
+    <dc:subject>sistema de gestión</dc:subject>
+    <dc:subject>jade</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Control distribuido de micro-redes eléctricas</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

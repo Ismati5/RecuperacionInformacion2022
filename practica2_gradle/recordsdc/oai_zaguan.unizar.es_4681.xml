@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Cortés Franco, Fernando</dc:contributor>
+    <dc:contributor>Velilla Marco, Santiago Miguel</dc:contributor>
+    <dc:creator>Peribáñez Guillén, José Angel</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>El proyecto consiste en el análisis, diseño, desarrollo e implantación de un sistema informático que posibilite la gestión de los proyectos de una organización, incluyendo la gestión de personas y la gestión de usuarios de la aplicación. La aplicación está diseñada para adaptarse con facilidad a pequeñas y medianas empresas de cualquier sector. El sistema está dividido en tres módulos principales:  -El primero se centra en la gestión de proyectos. En él se maneja y registra toda la información referente a las áreas, proyectos y tareas de la organización que forma la estructura de la gestión de proyectos. Dicha información incluye datos relativos a la planificación del proyecto, participantes en el proyecto, indicadores económicos y no económicos, datos característicos que califican y definen el proyecto.  -El segundo módulo permite la gestión de la personas, manejando datos relativos a empleados actuales e históricos de la organización. Dicha información incluye datos relativos a la información personal.  -El tercer módulo está orientado a la administración de la aplicación donde incluimos también la gestión de usuarios. Además de estos tres módulos básicos, la aplicación cuenta con otras funcionalidades, como la generación y exportación de diversos tipos de informes, la posibilidad de configurar diferentes parámetros del sistema para que se adapte a las necesidades de la organización. Durante la realización del proyecto, se han llevado a cabo actividades propias de las diferentes fases del ciclo de vida de desarrollo del software, desde las fases más tempranas de planificación y captura de requisitos, hasta las fases finales de implementación, pruebas e implantación del sistema. La metodología que ha guiado el desarrollo del proyecto ha sido la metodología RUP (Rational Unified Process) y el entorno tecnológico en el que se ha enmarcado el proyecto ha sido la plataforma tecnológica .NET Framework 2.0, con C# como lenguaje de desarrollo, SQL Server 2005 como sistema gestor de bases de datos y NHibernate como mapeador objeto-relacional.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4681</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4681/files/TAZ-PFC-2010-031_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/4681/files/TAZ-PFC-2010-031.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>sistema informático</dc:subject>
+    <dc:subject>tecnología .NET</dc:subject>
+    <dc:subject>SQL server</dc:subject>
+    <dc:subject>NHibernate</dc:subject>
+    <dc:subject>gestión de proyectos</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Desarrollo de una aplicación para la gestión y dirección de proyectos con tecnología .NET</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

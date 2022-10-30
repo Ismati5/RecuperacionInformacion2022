@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Segarra Flor, Juan</dc:contributor>
+    <dc:creator>López Ara, Marta</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Los dispositivos con requisitos de tiempo real son cada vez más utilizados, por ejemplo en automóviles (e.g. ABS), aeronáutica, electrodomésticos, etc. Para poder planificar los requisitos temporales de cualquier tarea, el primer paso es conocer (una cota superior de) su tiempo de ejecución en el peor caso (worst case execution time o WCET). Este cálculo depende de factores hardware y software, como por ejemplo de las memorias cache y del compilador utilizado, y debe conocerse previamente a su ejecución. Además, requiere información que maneja internamente el compilador pero no queda explícita en el ejecutable final, con lo que recuperarla es muy complejo. Cuanto más ajustada sea la cota superior obtenida, mejor se aprovecharán los recursos del sistema, aumentando así la planificabilidad del mismo. Por todo lo anterior, se ha realizado este proyecto de fin de carrera, cuyo objetivo principal ha sido la implementación de una serie de pasos (fases en la terminología usual de compiladores) que obtengan la información necesaria directamente en el proceso de compilación: reúsos de bloques de memoria y número máximo de iteraciones en bucles. Para ello se ha utilizado la infraestructura de compilación Low Level Virtual Machine (LLVM). Se han creado dos bibliotecas para ayudar al cálculo de la cota superior de los procesos. Estas bibliotecas van a sacar a relucir los accesos a memoria que existen, pudiendo así saber el reúso de variables y constantes, tanto temporal como espacial, y el número de veces que se ejecuta cada bucle de instrucciones como máximo. En particular: La biblioteca libmarcarLoadsStores localiza en el código intermedio de LLVM los accesos a memoria que existen (loads y stores) añadiéndoles los metadatas de depuración para su posterior reconocimiento con sus correspondientes instrucciones en el fichero que contiene el código ensamblador ARM. La biblioteca libbuclesReusos analiza en profundidad el código LLVM Intermediate Repesentation (IR) en busca de iteraciones y subiteraciones, indicando en el fichero ARM el máximo número de veces que se puede ejecutar un bloque básico de instrucciones, siempre que se sepa este dato en tiempo de compilación. Además, recoge los datos de los accesos a memoria, para poder identificar el reúso espacial y temporal, la variable o constante a la cual se refiere, y el desplazamiento que existe.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6393</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Arquitectura y Tecnología de Computadores</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6393/files/TAZ-PFC-2011-553.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6393/files/TAZ-PFC-2011-553_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>llvm</dc:subject>
+    <dc:subject>llvm ir</dc:subject>
+    <dc:subject>arm</dc:subject>
+    <dc:subject>wcet</dc:subject>
+    <dc:subject>optimización</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Desarrollo de fases de compilación para descubrir el tiempo de ejecución de peor caso</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

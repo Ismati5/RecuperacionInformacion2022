@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Fiscella, Michele</dc:contributor>
+    <dc:contributor>Laguna Lasaosa, Pablo</dc:contributor>
+    <dc:creator>Leonardo Daniel Garma Gavira</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Este proyecto se centra en el uso de dispositivos de microelectrodos MEAs (Multi Electrode Arrays) de última generación para el estudio y la manipulación de redes neuronales en cultivo. Chips MEA, con 26400 electrodos situados en una superficie de 3.85x2.10mm^2, fueron utilizados para registrar la actividad eléctrica de dos cultivos de neuronas corticales disociadas obtenidas de embriones de rata. En las mismas plataformas MEA, se implementó un protocolo de estimulación en bucle cerrado, de manera que se pudieran enviar pulsos eléctricos de estimulación a determinados electrodos en respues a potenciales de acción detectados en otro electrodo. Uno de los cultivos de neuronas fue sometido al protocolo de estimulación en bucle cerrado mientras que el segundo cultivo fue utilizado como control. Se desarrollaron diferentes métodos con el fin de hacer una caracterización funcional de los cultivos. El análisis funcional de los registros obtenidos en los experimentos indican que la estimulación en bucle cerrado provocó perdidas significativas y generalizadas de actividad y conectividad en la red neuronal en cultivo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/69830</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/69830/files/TAZ-TFM-2017-1153_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/69830/files/TAZ-TFM-2017-1153.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Biomédica</dc:subject>
+    <dc:title>Extracellular stimulation system for the modification of network parameters in cultured neural networks</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Extracellular stimulation system for the modification of network parameters in cultured neural networks</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Marco Marco, Álvaro</dc:contributor>
+    <dc:contributor>Martín del Brío, Bonifacio</dc:contributor>
+    <dc:creator>García Osés, Alejandro</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>El objetivo del trabajo consiste en la detección de actividades realizadas por una persona en su vida diaria. Esta detección se basa en un dispositivo PSoC (Programmable System-on-Chip), un circuito de sensado y comunicación Bluetooth Low Energy.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/60500</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/60500/files/TAZ-TFM-2016-638.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Electrónica</dc:subject>
+    <dc:title>Desarrollo de un dispositivo wearable para el reconocimiento de actividades de la vida diaria</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Development of a wearable for activities of daily living recognition</dc:title>
+</oai_dc:dc>

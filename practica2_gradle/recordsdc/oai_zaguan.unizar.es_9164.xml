@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Montano Gella, Luis</dc:contributor>
+    <dc:creator>Owen Medina, Eduardo</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El propósito de este proyecto es desarrollar un método de planificación de movimientos en ambientes dinámicos, evitando los obstáculos estáticos y dinámicos del entorno de navegación del robot mientras este se dirige hacia el objetivo. Para ello, se ha desarrollado un método para mapear los objetos dinámicos y estáticos en el espacio de velocidades del robot. Gracias a esto, pueden calcularse para cada objeto dinámico los tiempos a colisión y los tiempos de escape así como las velocidades del robot asociadas a estos. Como resultado final, la información obtenida es tratada para construir los Objetos Dinámicos de Velocidad(ODV), que representan un modelo dinámico de los objetos del entorno en el espacio de velocidades del robot. Esta epresentación unificada es usada para diseñar un método de planificación de movimientos en entornos dinámicos. El método tiene la capacidad de identificar situaciones en el espacio de velocidades del robot, realizando maniobras que evitan colisiones con los obstáculos del entorno conduciéndolo hasta el objetivo a alcanzar. Finalmente, el problema de encontrar una trayectoria hasta el objetivo es planteado como uno de optimización no lineal restringido, en el cual la trayectoria semilla inicial es generada directamente en el espacio de velocidades usando el modelo construido.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9164</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9164/files/TAZ-TFM-2012-866.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>robótica móvil</dc:subject>
+    <dc:subject>planificación de movimientos</dc:subject>
+    <dc:subject>ambientes dinámicos</dc:subject>
+    <dc:subject>evitación de colisiones</dc:subject>
+    <dc:subject>Máster Universitario en Ingeniería de Sistemas e Informática</dc:subject>
+    <dc:title>Planificación de movimientos en ambientes dinámicos usando objetos dinámicos de velocidad</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

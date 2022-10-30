@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Lema Camean, Paula</dc:contributor>
+    <dc:contributor>Bermejo Ruiz, José Manuel</dc:contributor>
+    <dc:contributor>González Bedia, Manuel</dc:contributor>
+    <dc:creator>Velilla Alegre, David</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El alquiler de vehículos tradicional está en declive. La necesidad de mantener personas físicas en cada una de las oficinas donde haya vehículos, sumada a las esperas por parte del cliente mientras toman sus datos y escanean sus documentos de identidad, más la imposibilidad de reservar menos de 24h, hacen que la alternativa, el denominado “Car Sharing”, esté en auge. Con este sistema, desde una aplicación web se llevan a cabo las verificaciones de identidad que permiten dar de alta un usuario, que después podrá realizar reservas en menos de un minuto y conducir de inmediato. Además, se puede reservar el tiempo deseado: sólo se paga por lo que se conduce. El coche recibe la orden a través de su router 3G, y permite que el usuario, con su tarjeta magnética, abra el vehículo a la hora adecuada. Este proyecto emprendedor de la empresa de innovación tecnológica FringesCT ha cubierto el análisis, diseño e implementación de una aplicación web completa para poner en funcionamiento este nuevo paradigma de alquiler de vehículos en nuestro país. La implementación se ha realizado usando el framework para PHP Symfony (en su versión 2.0), que facilita el modelo vista controlador y el desarrollo modular, poniendo a tu disposición múltiples herramientas como Twig: un lenguaje generador de plantillas que facilitan la interacción con la base de datos. Doctrine, que acerca las entidades de la base de datos al modelo, de modo que las sentencias SQL son generadas a partir de funciones DQL en PHP. Symfony2 también aleja los ficheros de configuración, parámetros y aspectos de la seguridad y control de acceso del resto de la aplicación en ficheros YAML o XML. La aplicación es completa y autosuficiente para controlar toda la parte software del sistema carsharing (el hardware instalado en los vehículos no forma parte de este proyecto). La base de datos diseñada consta de 18 tablas, y se ha implementado utilizando MySQL. De cara a un administrador, la aplicación ofrece un back-end para interaccionar con las distintas entidades de la base de datos con las restricciones impuestas por los requisitos. De cara al usuario, éste puede realizar las funciones que se podrían esperar de un front-end, como registrarse, realizar búsquedas de vehículos en las localizaciones que desee y reservarlos, modificar y cancelar reservas cuando se le permita, gestionar sus datos, abrir incidencias... La aplicación también genera las facturas de los clientes dependiendo de la forma de pago elegida (domiciliación bancaria o tarjeta de crédito), la tarifa escogida por el usuario (normal, premium, ...), la categoría del vehículo (deportivo, familiar, económico, ...), la duración de reserva y distancia recorrida. Las facturas generadas son almacenadas en el servidor y enviadas por email a los clientes. También se mandan emails a los administradores para advertir de múltiples eventos, como nuevos usuarios registrados, incidencias abiertas por usuarios, adjuntos de un permiso de conducción subidos por un usuario para que se le valide y se le deje hacer reservas... Resumiendo, el proyecto se ha basado en los siguientes puntos: diseño, implementación, e instalación en el servidor de la aplicación web en PHP que permite una funcionalidad completa y automatizada del sistema de carsharing descrito.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10572</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10572/files/TAZ-PFC-2013-259.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>software</dc:subject>
+    <dc:subject>aplicación web</dc:subject>
+    <dc:subject>symfony</dc:subject>
+    <dc:subject>framework</dc:subject>
+    <dc:subject>php</dc:subject>
+    <dc:subject>alquiler vehículos</dc:subject>
+    <dc:subject>alquiler coches</dc:subject>
+    <dc:subject>car sharing</dc:subject>
+    <dc:subject>carsharing</dc:subject>
+    <dc:subject>html</dc:subject>
+    <dc:subject>css</dc:subject>
+    <dc:subject>javascript</dc:subject>
+    <dc:subject>jquery</dc:subject>
+    <dc:subject>twig</dc:subject>
+    <dc:subject>mysql</dc:subject>
+    <dc:subject>dql</dc:subject>
+    <dc:subject>doctrine</dc:subject>
+    <dc:subject>web app</dc:subject>
+    <dc:subject>car hire</dc:subject>
+    <dc:subject>car rent</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Aplicación web PHP completa y automatizada para alquiler de vehículos</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

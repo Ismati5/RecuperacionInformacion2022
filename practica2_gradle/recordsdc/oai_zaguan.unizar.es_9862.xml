@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Arcega Solsona, Francisco Javier</dc:contributor>
+    <dc:creator>Vazeh Rasekh Modabberi, Shahed</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Thermoelectric (TE) phenomena were extremely gain attention due to their directly conversion of heat energy into electrical one base on well-known Seebeck effect. Thus reason made these materials a promising way in order to harvest wasted energy and as a consequence helping the global warming The conversion efficiency of such materials is quantified by the dimensionless figure of merit ZT, TS2/ρ where S is the Seebeck coefficient (or thermopower), ρ the electrical resistivity, κ the thermal conductivity, and T is the absolute temperature.  Therefore intense studies were carried out by various groups in order to obtain high performance thermoelectric modules. It is evident that the one pair of thermoelectric will not produce considerable electric energy for daily applications. The high volumes of work were done in order to minimize the dimensions of the TE pairs so the more pairs can be placed in the single modules. However, in order to obtaining the performance of these materials we should capable of measuring the ZT parameters, among them thermal conductivity. As for today there is not any commercial system capable of measuring the thermal conductivity of so low dimensions. In this work after the exploring the different methods and techniques, a simple but practical thermal conductivity measurement system and analysis for the low dimension bulk thermoelectric materials were successfully developed</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9862</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9862/files/TAZ-TFM-2012-1227.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>therma conductivity</dc:subject>
+    <dc:subject>thermoelectric</dc:subject>
+    <dc:subject>ceramics</dc:subject>
+    <dc:subject>Máster Universitario en Energías Renovables y Eficiencia Energética</dc:subject>
+    <dc:title>Thermal transport measurement techniques for the low dimension bulk thermoelectric materials</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Baldassarri Santa Lucía, Sandra</dc:contributor>
+    <dc:contributor>Marco Rubio, Javier</dc:contributor>
+    <dc:creator>García Azpiroz, Marta</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>En el Colegio Público de Educación Especial Alborada se escolarizan alumnos que padecen graves trastornos en el habla, lo que les limita a la hora de comunicarse con el entorno que les rodea. En la gran mayoría de los alumnos se encuentran afectadas de forma importante las funciones de comunicación, así como los procesos de relación con el entorno físico y social, los de adquisición de habilidades de autonomía y, en general, los procesos básicos de aprendizaje. Para facilitarles la expresión sin utilizar la palabra hablada surgen los llamados Sistemas Aumentativos y Alternativos de Comunicación que complementan o sustituyen el lenguaje oral. Muchos de ellos recurren al uso de imágenes y símbolos pictográficos que representen, de forma clara, las palabras y conceptos más habituales en la comunicación cotidiana. Este Proyecto Fin de Carrera comprende el desarrollo de dos sistemas de apoyo a la Comunicación Alternativa y Aumentativa. La primera herramienta desarrollada se denomina AraBoard, y consiste en un software para la creación y reproducción de tableros de comunicación que permiten trasladar el concepto tradicional de tablero a diversas plataformas informáticas y sistemas operativos como dispositivos móviles y tablets, con sistema operativo Android; y pizarras digitales y equipos informáticos convencionales, con sistema operativo Windows. AraBoard se compone de dos aplicaciones diferenciadas pero complementarias entre sí:  AraBoard Constructor: Esta herramienta se utiliza para la creación y edición de los tableros de comunicación, mediante la colección de pictogramas ARASAAC y cualquier otra imagen y audio almacenados en el dispositivo del usuario.  AraBoard Player: Esta herramienta se utiliza para ejecutar los tableros de comunicación previamente creados con AraBoard Constructor. La segunda herramienta desarrollada se denomina Acoti, y permite la generación de actividades pedagógicas interactivas destinadas a funcionar el tabletop NIKVision, prototipo de superficie horizontal interactiva desarrollado por el Affective Lab y el cual se encuentra disponible en el colegio Alborada. Esta herramienta facilita la labor de los educadores del centro permitiéndoles, sin necesidad de tener conocimientos de programación, configurar las actividades de apoyo al aprendizaje utilizando sus propios recursos de imágenes o sonidos y ejecutarlos sobre el tabletop NIKVision. Ambas aplicaciones han sido probadas por los usuarios finales, tanto profesores como alumnos del CPEE Alborada a lo largo de todo el proceso de desarrollo, lo que ha permitido distribuir una versión robusta de las aplicaciones.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8033</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8033/files/TAZ-PFC-2012-408.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>comunicación alternativa y aumentativa</dc:subject>
+    <dc:subject>educación especial</dc:subject>
+    <dc:subject>herramientas educativas</dc:subject>
+    <dc:subject>usabilidad</dc:subject>
+    <dc:subject>accesibilidad</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Creación de herramientas software de apoyo a la comunicación alternativa y aumentativa</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

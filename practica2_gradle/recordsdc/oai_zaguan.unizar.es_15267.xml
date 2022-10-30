@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Peñaranda Rivas, Siannah</dc:contributor>
+    <dc:creator>Castiella Esparza, Patricia</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El presente Trabajo de Fin de Grado tiene como finalidad estudiar los conceptos básicos de la Física del bosón de Higgs y los métodos de cálculo utilizados para explorar esta física. Para ello, en primer lugar se dedica una sección al estudio de los conceptos, ideas y fenómenos del Modelo Estándar de la Física de Partículas elementales, modelo que describe las interacciones fuertes, débiles y electromagnéticas. Dedicamos especial interés a la comprensión de la fenomenología del sector de Higgs de este modelo. Así, en esta primera parte, se repasa el contenido de partículas, se explican brevemente los términos del lagrangiano del Modelo Estándar y se desarrolla en detalle la ruptura espontánea de la simetría y el mecanismo de Higgs, responsable de la generación de masas de las partículas. Finalmente, se estudia la física de la partícula de Higgs a través de sus desintegraciones. Se calcula la anchura  de la desintegración de un bosón de Higgs a dos fermiones y la anchura de desintegración de un bosón de Higgs a dos bosones gauge. Finalmente, calculamos la razón de desintegración de un bosón de Higgs y se realiza un análisis numérico que permita entender el comportamiento de esta razón de desintegración. Introducimos el concepto de masa “running” de los fermiones que nos permite reproducir los resultados esperados, publicados en la literatura,  para la razón de desintegración del bosón de Higgs.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/15267</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Teórica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/15267/files/TAZ-TFG-2014-1019.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>bosón de higgs</dc:subject>
+    <dc:subject>Graduado en Física</dc:subject>
+    <dc:title>Física del bosón de Higgs en el LHC</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

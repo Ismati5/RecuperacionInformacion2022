@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ábrego Garrués, Javier</dc:contributor>
+    <dc:contributor>Sánchez Cebrián, José Luis</dc:contributor>
+    <dc:creator>García Sáinz, Gorka</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>La co-gasificación es un proceso termoquímico cuyo objetivo es la obtención de energía a partir de diferentes materias primas, como carbón y biomasa. Este proceso se presenta como una alternativa viable para la gestión de diferentes residuos ya que se elimina la dependencia estacional del mismo y hace posible la aplicación de una tecnología desarrollada para el carbón. El principal inconveniente de esta tecnología es la formación de alquitranes, por ello una de las líneas prioritarias de investigación en este campo es la eliminación de dichos compuestos. En este marco, el trabajo desarrollado se centra en el estudio del proceso de co-gasificación de lodos secos de depuradora junto con dos tipos de carbón para producir un gas combustible. Para ello se ha llevado a cabo un análisis del efecto de la composición en los productos de la cogasificación y se ha comprobado que la coalimentación de estos compuestos presenta ventajas con respecto a la gasificación de cada materia prima por separado, sobre todo por la reducción en la formación de alquitranes. A continuación, la investigación se ha centrado en la limpieza del gas generado utilizando catalizadores basados en óxidos de níquel para los alquitranes generados mediante craque catalítico. Para ello se ha llevado a cabo un estudio inicial de desulfuración con diferentes sólidos para evitar el envenenamiento de los catalizadores utilizados. Los resultados obtenidos han mostrado diferentes sólidos con la capacidad suficiente para eliminar el sulfuro de hidrógeno del gas de gasificación antes de que la corriente se ponga en contacto con el catalizador de níquel.  Una vez seleccionado el lecho desulfurante, se han llevado a cabo dos estudios de craqueo catalítico con dos catalizadores de níquel diferentes. En el primero se ha evaluado el comportamiento de un catalizador  comercial en un lecho fijo. En el segundo estudio se ha utilizado un catalizador no comercial en un reactor novedoso de lecho fluidizado de doble zona. Lo resultados en ambos casos han mostrado una mejora de la calidad del gas y una eliminación casi total de los alquitranes   </dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12805</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12805/files/TESIS-2013-137.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>termoquímica</dc:subject>
+    <dc:subject>cogasificación</dc:subject>
+    <dc:subject>tecnologías del medio ambiente</dc:subject>
+    <dc:title>Estudio experimental de la co-gasificación de fangos de EDAR y carbón con aire en lecho fluidizado</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

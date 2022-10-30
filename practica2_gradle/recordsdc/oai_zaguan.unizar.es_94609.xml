@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Horno Chéliz, María del Carmen</dc:contributor>
+    <dc:creator>López Otal, Miguel</dc:creator>
+    <dc:date>2020</dc:date>
+    <dc:description>Con la invención de los primeros ordenadores modernos, surgió un problema práctico que había que resolver: cómo lograr comunicarse de una manera efectiva con las máquinas. Para solucionarlo, en torno a los años cincuenta se intentó aproximar el lenguaje natural a la manera en la que las computadoras entienden y procesan la información. Con ello surgieron los primeros lenguajes de programación, un modelo híbrido de lenguaje en el que tanto máquina como humano, aunque tuvieron que sacrificar aspectos de sus respectivas formas de expresión, lograron hallar un punto medio en su comunicación. No obstante, estos lenguajes presentaban algunas carencias, debidas al hecho de haber sido creados por ingenieros que no poseían conocimientos lingüísticos específicos.&lt;br /&gt;Por este motivo, en este trabajo presentamos una visión desde la perspectiva de la Biolingüística, en la que reflexionamos sobre una estructura propia de estos lenguajes, las oraciones condicionales, y sobre cómo un conocimiento preciso de los mecanismos internos –sintáctico y semántico– de sus homónimas en las lenguas naturales, pasando por conceptos de Austin y Searle (entre otros), resulta de gran utilidad a la hora de analizar un problema técnico que surge en el seno de estas.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/94609</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Filología Española</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/94609/files/TAZ-TFG-2020-2559.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Filología Hispánica</dc:subject>
+    <dc:title>«Órdenes condicionadas»: Una propuesta lingüística para un nuevo modelo de oraciones condicionales destinada a los lenguajes de programación.</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">"Conditioned orders": A linguistic proposal for a brand-new model of conditional sentences in programming languages.</dc:title>
+</oai_dc:dc>

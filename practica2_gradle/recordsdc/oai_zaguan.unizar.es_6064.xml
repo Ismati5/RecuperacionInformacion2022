@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Baldassarri Santa Lucía, Sandra</dc:contributor>
+    <dc:contributor>Cerezo Bagdasari, Eva</dc:contributor>
+    <dc:creator>Ortea Suárez, César</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Los juegos por ordenador son herramientas de enseñanza-aprendizaje efectivas porque permiten que los usuarios aprendan mediante la participación activa a través de distintas formas de interacción, además de promover la resolución de problemas y, al mismo tiempo, enfatizan la exploración y el auto-descubrimiento. Además, se trata de un modo de entretenimiento y diversión para los niños sin que perciban que al mismo tiempo están aprendiendo. Sin embargo, el diseño y desarrollo de estos juegos, en particular aquellos destinados a niños pequeños, no es una tarea simple. Para obtener un buen producto es necesaria la participación de usuarios reales para que verifiquen la usabilidad (facilidad de uso), la experiencia de usuario (emociones que provoca en el usuario) y la accesibilidad (flexibilidad para acomodarse a las necesidades de cada usuario). En este trabajo, en primer lugar, se lleva a cabo un estudio exhaustivo del estado del arte de los métodos de evaluación que se utilizan con niños, los cuales se clasifican en función de sus características principales, se comentan sus ventajas y desventajas principales y, además, se enumeran los artículos que emplean dichos métodos. A partir del estudio del estado del arte, se seleccionan varios métodos de evaluación con el objetivo de realizar un estudio comparativo sobre diferentes técnicas de interacción natural con niños muy pequeños y niños con algún tipo de discapacidad cognitiva o física. Para ello, se parte de un juego de granja desarrollado mediante interacción tangible (a través de juguetes en una superficie horizontal) y se implementa una versión del mismo que puede ser utilizada por medio de teclado, ratón o por pantalla táctil. Posteriormente, para ambas interfaces se realiza un análisis de los datos (cuantitativo) de acuerdo a los métodos de evaluación escogidos, para valorar la usabilidad, la experiencia de usuario y la accesibilidad con usuarios reales. Los resultados indican, principalmente, la necesidad de realizar mejoras en las futuras iteraciones que se realicen.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6064</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6064/files/TAZ-TFM-2011-024.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>evaluación</dc:subject>
+    <dc:subject>videojuegos</dc:subject>
+    <dc:subject>niños</dc:subject>
+    <dc:subject>paradigmas de interacción</dc:subject>
+    <dc:subject>interfaces tangibles</dc:subject>
+    <dc:subject>Máster Universitario en Ingeniería de Sistemas e Informática</dc:subject>
+    <dc:title>Evaluación de diferentes paradigmas de interacción con niños de educación especial</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

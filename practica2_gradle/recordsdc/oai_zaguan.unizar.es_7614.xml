@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Rodríguez Chueca, Jorge Jesús</dc:contributor>
+    <dc:contributor>Mosteo Abad, Rosa</dc:contributor>
+    <dc:creator>López Gutiérrez, José Luis</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>En este proyecto se estudia la influencia de variables sobre la desinfección de E. coli mediante el proceso Fenton. Las variables seleccionadas son: · Presencia o ausencia de radiación solar. · Concentración de cloruro de hierro (III). · Concentración de peroxido de hidrogeno en procesos Fenton. Uno de los resultados mas relevantes que se ha obtenido en la investigación desarrollada es que se alcanzan desinfecciones de 5,81 utilizando como reactivos 5 ppm de cloruro de hierro, 20 ppm de H2O2 y uso de radiación solar. En general, los mejores resultados se obtienen siempre en presencia de radiación solar, lo que indica que es la variable más significativa. Según el análisis estadístico, realizado por el programa Minitab, para determinar la influencia de las variables seleccionadas en la desinfección de E. coli mediante un proceso Fenton se observa que la presencia de luz y el H2O2 son las variables más influyentes.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/7614</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Tecnologías del Medio Ambiente</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/7614/files/TAZ-PFC-2012-269.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>proceso fenton</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Química Industrial)</dc:subject>
+    <dc:title>Estudio de la influencia de variables sobre la desinfección de escherichia coli mediante técnicas basadas en el reactivo fenton</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

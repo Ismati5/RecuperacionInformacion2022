@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sánchez Rúa, María Teresa  </dc:contributor>
+    <dc:contributor>Lambán Villanueva, José Antonio</dc:contributor>
+    <dc:creator>Sotomayor, López, Juan Ramón</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>El objetivo de este trabajo es realizar el modelo y el análisis estructural de la torre multiusos, ya construida y ubicada en el centro de adiestramiento de San Gregorio, y proporcionar pautas para la futura optimización de construcciones del mismo tipo. Para hacer esto, se generan dos modelos tridimensionales diferentes con dos programas CAD diferentes, utilizando la información que se encuentra en los planos del proyecto proporcionados por el Batallón I de Zapadores. Después de aplicar las cargas adecuadas de acuerdo con los requisitos del Código Técnico de la Edificación (CTE), el análisis estructural se lleva a cabo utilizando dos programas de simulación diferentes: uno de ellos utilizando el método matricial y otro utilizando el método de elementos finitos. Los resultados obtenidos se analizan en profundidad y se presenta una comparación entre los dos programas. Finalmente, se proponen una serie de conclusiones y sugerencias para mejorar la estabilidad de este tipo de estructuras.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/89073</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/89073/files/TAZ-TFG-2018-3969.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Organización Industrial</dc:subject>
+    <dc:title>Modelado y análisis estructural de la torre multiusos en el Centro de Adiestramiento (CENAD) de San Gregorio.</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Modeling and structural analysis of the multipurpose tower in the training center (CENAD) in San Gregorio.</dc:title>
+</oai_dc:dc>

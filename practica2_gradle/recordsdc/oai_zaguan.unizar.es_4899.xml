@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Martínez, Tomás</dc:contributor>
+    <dc:contributor>Navarro López, María Victoria</dc:contributor>
+    <dc:contributor>Arauzo Pelet, Inmaculada</dc:contributor>
+    <dc:creator>Puértolas Lacambra, Begoña</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>En este trabajo, se ha profundizado en el conocimiento del proceso de adsorción de propano sobre zeolita ZSM-5 con el objetivo de establecer las bases para el desarrollo de trampas de hidrocarburos que presenten unas prestaciones adecuadas en la reducción de las emisiones de hidrocarburos durante el periodo de arranque en frío en vehículos de gasolina.  Para ello, se han llevado a cabo experimentos del proceso de adsorción-desorción así como de ciclos de encendido en frío en las diferentes condiciones de concentración, temperatura y flujo volumétrico que tienen lugar en las trampas de hidrocarburos. A continuación, y mediante comparación con los resultados experimentales, se han simulado estos procesos como primer paso para conocer los fenómenos de transferencia de materia y transferencia de energía que tienen lugar sobre la zeolita seleccionada. La herramienta seleccionada para llevar a cabo esta simulación dinámica ha sido el módulo Adsorption de AspenTech. A través de los resultados obtenidos, se ha demostrado que el modelo de simulación es adecuado para representar el proceso de adsorción de hidrocarburos en zeolitas bajo diferentes condiciones de operación, lo que indica la versatilidad del modelo y su alto grado de precisión, que lo convierte en una herramienta muy útil para la optimización del proceso y su posible escalado a una trampa real.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4899</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4899/files/TAZ-TFM-2010-012_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/4899/files/TAZ-TFM-2010-012.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>trampa de hidrocarburos</dc:subject>
+    <dc:subject>adsorción</dc:subject>
+    <dc:subject>zeolitas</dc:subject>
+    <dc:subject>arranque en frío</dc:subject>
+    <dc:subject>Máster Universitario en Energías Renovables y Eficiencia Energética</dc:subject>
+    <dc:title>Modelado de trampas de hidrocarburos aplicadas en el arranque en frío de vehículos de gasolina</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

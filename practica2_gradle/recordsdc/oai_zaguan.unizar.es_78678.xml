@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>F. King, Steve</dc:contributor>
+    <dc:creator>Pardo Sainz, Miguel</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>En este trabajo reproducimos la física desarrollada en los LHC Olympics, una serie de pruebas para físicos teóricos en las que deben interpretar unos conjuntos de datos, llamados cajas negras, los cuales son simulaciones de los datos reales obtenidos en colisiones en el LHC. Analizamos los archivos de datos usando Microsoft Excel y aplicamos algoritmos escritos en VBA para simular diferentes técnicas de análisis. Usando las muestras proporcionadas tratamos de determinar las masas de los bosones W y Z para comprobar que los métodos de masa invariante y masa transversa funcionan correctamente. Finalmente, usamos estos métodos para determinar la masa del quark top a partir de sus productos y discutimos los resultados obtenidos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/78678</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Teórica; Área de Física Teórica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/78678/files/TAZ-TFG-2018-508.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Física</dc:subject>
+    <dc:title>LHC Olympics</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">LHC Olympics</dc:title>
+</oai_dc:dc>

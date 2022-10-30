@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Artigas Maestre, José Ignacio</dc:contributor>
+    <dc:contributor>Barragán Pérez, Luis Ángel</dc:contributor>
+    <dc:creator>Iguaz Navarro, José Manuel</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El control en modo corriente de pico de convertidores continua-continua implementa dos lazos, uno interno de corriente y otro externo de tensión. Es uno de los más utilizados en las fuentes de alimentación conmutadas ya que limita la corriente de forma inherente y mejora la regulación respecto al control en modo tensión.  La mayor parte de los controles en modo corriente de pico se implementan analógicamente. El objetivo del presente trabajo es realizar un control digital de un convertidor reductor en modo corriente de pico. Este control incluye la técnica de control en modo tensión que ha sido visto en la asignatura "Control Digital de Etapas Electrónicas de Potencia" y complementa la formación recibida en el máster.  El control digital se describirá en VHDL y se implementará en una FPGA. Deberá incluir una rampa de compensación para que el funcionamiento sea estable para ciclo de trabajo mayor o igual que 0.5. El regulador digital elegido para el lazo externo de tensión será de tipo II. Su función de transferencia presenta un cero y dos polos, uno de los polos se posiciona en el origen para asegurar error de posición nulo.  Uno de los retos en la implementación de un control digital en modo corriente de pico es la comparación entre la rampa de compensación y la corriente por el inductor. Esta corriente cambia desde un valor mínimo hasta su valor máximo cada ciclo de conmutación. Una implementación digital de la comparación entre la rampa de compensación y la corriente, requeriría muestrear la corriente con un conversor A/D de gran ancho de banda. Por consiguiente, en este trabajo se analizarán alternativas que sean válidas para su implementación en FPGA.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12858</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12858/files/TAZ-TFM-2013-1076.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>control corriente de pico</dc:subject>
+    <dc:subject>convertidor reductor</dc:subject>
+    <dc:subject>fpga</dc:subject>
+    <dc:subject>Máster Universitario en Ingeniería Electrónica</dc:subject>
+    <dc:title>Control en FPGA de un convertidor reductor en modo corriente de pico</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

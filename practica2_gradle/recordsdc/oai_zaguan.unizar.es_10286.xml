@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bayod Rújula, Ángel Antonio</dc:contributor>
+    <dc:creator>Arrabal Dieste, Miriam</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El transformador es una máquina con rendimientos muy altos, pero el mal  uso o un mal dimensionamiento del mismo se traducen en una constante fuente de pérdidas de energía, de incremento de costes y baja eficiencia energética.  En este trabajo se analiza el rendimiento de un sistema  de instalación de Centro de Transformación que suministra energía a un edificio, desde el punto de vista de la eficiencia energética. Se han recogido los datos de demanda horaria de energía a lo largo del año 2012 de dicho edificio. Dependiendo de esa demanda y tomando varios tipos de transformadores  y potencias nominales, se ha optimizado el transformador  más adecuado energéticamente, mediante análisis en tablas Excel, analizando los siguientes parámetros: rendimientos, pérdidas anuales, costes de las pérdidas anuales y coste total de adquisición. Para ello, se han tomado de referencia el ciclo de vida del transformador de 30 años, tasa de retorno del 7%, 8.744 h de funcionamiento (por ser año bisiesto) y un precio de media de la energía de 0,15 €/kWh. De esta manera, se comprueba como un transformador más eficiente, supone un ahorro energético, tanto en costes como en pérdidas. A continuación, y como una medida más de optimización, se añade una instalación de autoconsumo fotovoltaico. Se recogen los datos de irradiación y generación de energía horaria a lo largo de un año de una instalación fotovoltaica sobre cubierta existente en Zaragoza  de 350 kWp. Con estos datos, y basándonos en el cálculo anterior, se han calculado los ahorros energéticos de pérdidas, costes de las mismas y costes de adquisición. La instalación aparte de tener su propio suministro de generación, contribuye a la eficiencia, y se consigue instalar un transformador más pequeño. Siguiendo la misma metodología, se plantea la instalación de un sistema de transformadores de acoplamiento  en paralelo para dicho sistema de autoconsumo. Este sistema sería el idóneo para instalaciones en las que se requiere del suministro de transformadores en paralelo para suplir la falta de energía por causa de fallo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10286</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10286/files/TAZ-TFM-2013-130.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/10286/files/TAZ-TFM-2013-130_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>transformador eficiente</dc:subject>
+    <dc:subject>autoconsumo fotovoltaico</dc:subject>
+    <dc:subject>transformadores en paralelo</dc:subject>
+    <dc:subject>Máster Universitario en Energías Renovables y Eficiencia Energética</dc:subject>
+    <dc:title>Eficiencia energética en centros de transformación de distribución en sistemas de autoconsumo fotovoltaico</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

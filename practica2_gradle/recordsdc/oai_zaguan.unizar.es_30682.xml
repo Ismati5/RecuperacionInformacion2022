@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Riva Fernández, Juan de la</dc:contributor>
+    <dc:contributor>Hernández Lázaro, Francisco Javier</dc:contributor>
+    <dc:creator>Langa Sánchez, Adrián</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>En el presente trabajo se ha desarrollado una metodología de trabajo que ha permitido obtener una caracterización espectral de los cultivos de regadío de la Comunidad General de Regantes del Canal de Barden
+as y de la Comunidad General de Riegos del Alto Aragón a lo largo de su ciclo fenológico. Una vez establecidos y determinados aquellos periodos óptimos para la discriminación de los diferentes cultivos, se ha desarrollado un proc
+eso de clasificación espectral supervisada del que se han extraído diferentes resultados, en función del análisis conjunto de diferentes imágenes Landsat, de momentos diversos del ciclo de los cultivos, lo que ha generado resulta
+dos más satisfactorios. La información utilizada, junto a las imágenes Landsat seleccionadas de los años 20011 a 2014, incluye la cartografía parcelaria de las zonas de estudio procedente del SIGPAC y su correspondiente declaraci
+ón de cultivo para los años señalados.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/30682</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio; Área de Análisis Geográfico Regional</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/30682/files/TAZ-TFM-2014-939.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>regadío</dc:subject>
+    <dc:subject>Landsat</dc:subject>
+    <dc:subject>Valle del Ebro</dc:subject>
+    <dc:subject>multiestacional</dc:subject>
+    <dc:subject>Máster Universitario en Tecnologías de la Información Geográfica para la Ordenación del Territorio: Sistemas de Información Geográfica y Teledetección</dc:subject>
+    <dc:title>Aplicación de técnicas de teledetección y SIG a la caracterización espectral e identificación de cultivos de regadío en el Valle del Ebro</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

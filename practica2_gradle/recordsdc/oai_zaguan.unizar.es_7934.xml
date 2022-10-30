@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Merseguer Hernáiz, José Javier</dc:contributor>
+    <dc:creator>Isarre Arnal, José Rafael</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Este PFC propone un “Software de gestión para la documentación académica en Centros de Secundaria”, englobando dos aplicaciones complementarias para centros de Educación Secundaria y el Servicio Provincial de Educación. Es un modelo de carácter estructural que afecta a la gestión, organización y comunicación de los procesos administrativos y documentales de los centros. Esta propuesta es una herramienta formal y legal, que ofrece diferentes aplicaciones de tramitación, transmisión y agilización de la documentación educativa, y que ha sido construída para ponerla en práctica con posterioridad. 	 Esta aplicación de gestión hace una propuesta concreta, útil y viable en torno a tres ámbitos: gestión administrativa, documentación académica y gestión de recursos. Permite opciones para compartir información (uso, selección, gestión, organización), buscando la mayor eficiencia en términos de costes y tiempos. A partir de la consideración de aspectos previos (estudio de viabilidad, DAR), se continuó con el proceso de diseño del sistema y se tomaron decisiones sobre las herramientas a utilizar (Java, NSIS, Jasperreport, MySQL, Java Web Start, etc.), y se implementó el proyecto realizando los diagramas entidad-relación, diseñando las interfaces de usuario, elaborando los ficheros que genera la aplicación, creando la firma digital para validar los archivos jar, etc.  Finalmente, se realizaron dos tipos de instaladores para adaptar el sistema a las necesidades de los centros educativos y simplificar así el despliegue de la aplicación. 	El programa ha requerido un seguimiento exhaustivo que se ha ajustado a la planificación inicial, a pruebas del sistema realizadas por los usuarios finales, reuniones para tomar las decisiones sobre el diseño de interfaz de usuario, etc. 	La mejora de procesos y métodos en la gestión de los centros, justifica su implantación para dar respuesta a una necesidad coyuntural ya que desarrolla una aplicación completa: desde un análisis de requisitos hasta su utilización por el usuario.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/7934</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/7934/files/TAZ-PFC-2012-356.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/7934/files/TAZ-PFC-2012-356_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>educacion</dc:subject>
+    <dc:subject>centro educativo</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Software de gestión para la documentación académica en centros de secundaria</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

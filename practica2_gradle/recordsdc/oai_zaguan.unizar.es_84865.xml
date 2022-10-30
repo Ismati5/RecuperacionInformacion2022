@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Manzano Martínez, Raquel</dc:contributor>
+    <dc:contributor>Arruebo Gordo, Manuel</dc:contributor>
+    <dc:creator>Celorrio Aranda, Laura</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>El descubrimiento de mutaciones de la enzima superóxido-dismutasa 1 (SOD1) en pacientes con Esclerosis Lateral Amiotrófica (ELA) como causa de la enfermedad ha abierto la puerta a nuevas investigaciones con el objetivo de encontrar un tratamiento eficiente. El principal problema se encuentra en el direccionamiento de las terapias a las motoneuronas, afectadas en la ELA, por lo que se buscan vectores biocompatibles que cumplan cuatro objetivos: una carga eficiente del fármaco, atravesar la barrera hematoencefálica, la internalización celular y la liberación del fármaco. En el presente trabajo se propone caracterizar los efectos de nanopartículas de oro en la viabilidad y ciclo celular de las neuronas motoras, para posteriormente ser utilizadas como transporte de RNA de interferencia (siRNA). El objetivo que se busca es una reducción en la expresión de la proteína mutada por degradación del RNA mensajero (mRNA) que la codifica en una línea celular de motoneuronas NSC-34. Los resultados muestran una unión muy eficiente de siRNA con las nanopartículas Au-PEI-PEG para todas las concentración evaluadas. Respecto a la viabilidad celular, se obtiene un incremento de la dosis subcitotóxica del 300% tras la conjugación con el siRNA y una buena internalización a partir de las 24 horas de tratamiento. Sin embargo se precisa indagar más en los mecanismos moleculares que desencadenan los cambios observados en el ciclo celular y granularidad tras el tratamiento. Finalmente, se ha concluido que las nanopartículas de oro presentan un alto potencial como vector de moléculas en terapia génica para tratamiento de enfermedades neurodegenerativas.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/84865</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Ingeniería Química</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/84865/files/TAZ-TFM-2019-228.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Biomédica</dc:subject>
+    <dc:title>Nanopartículas de oro como vector de terapia genética en el tratamiento de la Esclerosis Lateral Amiotrófica</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Gold nanoparticles as a gene therapy vector in the treatment of Amyotrophic Lateral Sclerosis</dc:title>
+</oai_dc:dc>

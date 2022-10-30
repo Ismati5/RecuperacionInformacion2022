@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Moliner Álvarez, Rafael</dc:contributor>
+    <dc:contributor>Sebastián del Río, David</dc:contributor>
+    <dc:contributor>Teruel Maicas, María Isabel</dc:contributor>
+    <dc:creator>Lanao Sisó, Eloy</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El progresivo agotamiento de los combustibles fósiles y la contaminación que genera su combustión crean la necesidad de utilizar otras fuentes energéticas y nuevas formas de producción y conversión de la energía. Las pilas de combustible se ven como una de las soluciones, dentro de las cuales destacan las de membrana de intercambio de protones (PEMFC) para aplicaciones portátiles y automoción. Sin embargo, todavía es necesario mejorar ciertos aspectos. Una de las líneas de investigación se centra en la sustitución del soporte catalítico por nanofibras de carbono con el objetivo de obtener una mayor eficiencia con la menor cantidad posible de metal noble (Pt), reduciendo así su coste. En el presente proyecto se han preparado electrocatalizadores de PtRu soportados sobre nanofibras de carbono (CNF) para pilas de combustible de alcohol directo (DAFC) utilizando el método de microemulsión. Para la caracterización de los catalizadores se utilizan técnicas analíticas como la espectroscopía de energía dispersiva de rayos X (EDX), la difracción de rayos X (XRD), la microscopía electrónica de transmisión (TEM) y la espectroscopía de plasma de acoplamiento inductivo (ICPS). Finalmente se lleva a cabo la caracterización electroquímica de los catalizadores en una semicelda en la que se estudian las reacciones de oxidación de CO y los alcoholes (metanol y etanol). El objetivo de este proyecto es realizar un estudio del efecto de diversas propiedades de las CNFs, utilizadas como soporte catalítico, sobre la actividad y estabilidad catalítica en las reacciones de oxidación (ánodo) de monóxido de carbono y de alcoholes (metanol y etanol) en pilas de combustible de alcohol directo (DAFC). También se realiza una comparación con los soportes comerciales y el catalizador comercial. Se han obtenido catalizadores con nanopartículas metálicas (PtRu) con tamaños de cristal alrededor de 2 nm con una concentración de un 20% en peso. Se ha visto la importancia de las propiedades del soporte en la actividad catalítica; para la oxidación de metanol se obtienen mejores resultados con catalizadores soportados sobre nanofibras sintetizadas a altas temperaturas, mientras que para la oxidación de etanol la temperatura de síntesis debe ser baja. El uso de CNFs funcionalizadas no representa en líneas generales una ventaja en términos de actividad catalítica. Las CNFs sintetizadas en el Instituto de Carboquímica son más activas que el catalizador soportado sobre las CNFs comerciales (Antolin). También se ha visto que el catalizador sobre Vulcan XC-72R (negro de carbono comercial) preparado por microemulsión muestra mayor actividad catalítica que el catalizador comercial (E-TEK).</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5984</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Orgánica y Química Física; Área de Química Física</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5984/files/TAZ-PFC-2011-302.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>pilas de combustible</dc:subject>
+    <dc:subject>alcohol</dc:subject>
+    <dc:subject>platino</dc:subject>
+    <dc:subject>rutenio</dc:subject>
+    <dc:subject>nanofibras de carbono</dc:subject>
+    <dc:subject>metanol</dc:subject>
+    <dc:subject>etanol</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Química Industrial)</dc:subject>
+    <dc:title>Electrocatalizadores de PtRu soportados sobre nanofibras de carbono para pilas de combustible de alcohol directo</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

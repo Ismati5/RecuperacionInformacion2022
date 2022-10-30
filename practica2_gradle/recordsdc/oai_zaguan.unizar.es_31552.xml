@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Piedrafita Moreno, Ramón</dc:contributor>
+    <dc:creator>Pallás Román, Ricardo</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El Grupo de Sistemas de Información Avanzados (IAAA) está desarrollando, junto a la empresa GeoSpatiumLab y el grupo HowLab, un sistema de tracking en entornos offline, basado en el protocolo "Location Based Offline Services via SMS" desarrollado por los grupos anteriores, para la monitorización en tiempo real de nodos móviles. En un principio, el protocolo había sido pensado para ser utilizado con dispositivos específicos incorporados con GPS. En este TFG se propone la ampliación del protocolo para soportar dispositivos móviles basados en Android en el sistema de tracking, así como el desarrollo en un framework Android que implemente dicho protocolo. De esta manera, se incorporan dispositivos Android al sistema de tracking, siendo capaces de operar en entornos offline (sin cobertura 3G) y online (con cobertura 3G), haciendo uso del framework desarrollado en este TFG. Está ampliación se ha propuesto debido a las características de los nuevos teléfonos basados en Android. Éstos disponen de GPS y sensores (luminosidad, campo magnético, presión atmosférica, etc.). Por ello, son dispositivos válidos para funcionar en el sistema, ya que tienen las características de hardware que tienen los dispositivos específicos del sistema (ambos disponen de GPS), e incluso las superan (los dispositivos Android tienen sensores). Se han incorporado nuevas operaciones el protocolo debido a las nuevas características de los dispositivos Android. Dichas nuevas operaciones son de lectura de sensores. En un principio, uno de los posibles usos del sistema era la monitorización de la posición en vehículos agrícolas en entornos offline, de tal manera que cada vehículo agrícola incorporaba uno de los dispositivos específicos. Pero, con el resultado de este TFG, los posibles casos de uso del sistema de tracking aumentan en gran medida, debido a que el uso de dispositivos Android en la actualidad está muy extendido. Por ejemplo, se podría realizar un sistema de tracking para personas mayores (puesto que no se necesitarían dispositivos específicos, sino solo sus teléfonos Android), entre otros muchos ejemplos. Por último, como se pudo ver en la propuesta del proyecto, existía un objetivo doble, es decir, además del framework se pretendía la creación de una aplicación que debía ser un caso de uso, en el cual se refleje el potencial del framework implementado.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31552</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31552/files/TAZ-TFG-2014-1605.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>android </dc:subject>
+    <dc:subject>java</dc:subject>
+    <dc:subject>tracking</dc:subject>
+    <dc:subject>gps</dc:subject>
+    <dc:subject>sensores</dc:subject>
+    <dc:subject>3g</dc:subject>
+    <dc:subject>sms</dc:subject>
+    <dc:subject>protocolo</dc:subject>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>Desarrollo de un sistema de tracking en tiempo real en entornos sin cobertura 3G integrado en una aplicación para dispositivos Android con implementación del protocolo 'Location Based Offline Services via SMS'</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

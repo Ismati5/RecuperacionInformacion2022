@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Vea Muniesa, Fernando</dc:contributor>
+    <dc:creator>Sáez Martínez, Ignacio</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Mediante la utilización de diferentes herramientas informáticas el proyecto permite la creación de una ruta y su exportación a un dispositivo GPS. Se trabaja con herramientas SIG para la cartografía, de modo que ofrece suficiente información al usuario para la selección de la ruta. El proyecto está pensado para la realización de las rutas con moto de campo, por lo que la información ofrecida está dirigida expresamente a este medio. Además se centra en la comarca del Campo de Cariñena, aportando a su vez información sobre lugares de interés para el usuario. En el DVD se incluyen todas las herramientas necesarias para la creación y exportación de la ruta.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6378</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Matemática Aplicada; Área de Matemática Aplicada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6378/files/TAZ-PFC-2011-540.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>gps</dc:subject>
+    <dc:subject>sig</dc:subject>
+    <dc:subject>cariñena</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electrónica Industrial)</dc:subject>
+    <dc:title>Sistema de creación de rutas para GPS en la comarca del Campo de Cariñena</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

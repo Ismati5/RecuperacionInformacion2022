@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Yagüe Fabra, José Antonio</dc:contributor>
+    <dc:creator>Peris Rivas, Jonatan</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>Este proyecto surge a raíz de las mejoras a implantar concluidas por el proyectando tras un estudio previo similar que llevó a cabo en un entrenamiento de misión de simulación a Marte (programa Mars Simulated Missions) desarrollado en Abril de 2013 en el desierto de Los Monegros (Aragón). El objetivo principal del proyecto es exponer una propuesta de baja inversión a llevar a cabo en los programas MSM (Mars Simulated Missions). Estos programas de misiones de simulación están siendo gestionados por un equipo, de entre los que se encuentra el proyectando, cuyo objetivo es que sean válidos como Producto Mínimo Viable (PVM) de un proyecto empresarial que están desarrollando en el momento de redacción de esta propuesta, denominado STARS (Space Tourism and Analogue Research Station; www.joinstars.org) y cuya fase se encuentra en el proceso de validación de clientes para recoger información inicial que permita discernir si las hipótesis de negocio son válidas.  El estudio trata del desarrollo de una herramienta para la investigación cognitiva a través de una interfaz cerebro computador (BCI) de bajo coste consistente en las plataformas Arduino y Neurosky, cuyo objetivo es establecer un análisis cognitivo en diferentes áreas en tareas de tripulantes durante misiones espaciales de simulación. A través de un posterior análisis matemático, basado en control de procesos (mediante gráficos de control por variables), estudios de variabilidad, etc, podrán extraerse conclusiones de rendimientos y mejoras a establecer en los procesos de las tareas llevadas a cabo por los tripulantes.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/37176</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/37176/files/TAZ-PFC-2015-195.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Desarrollo de una herramienta para el análisis de datos cognitivos mediante  una interfaz cerebro-computador</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

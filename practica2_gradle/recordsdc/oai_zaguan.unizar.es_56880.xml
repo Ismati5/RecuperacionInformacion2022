@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Estrada Peña, Agustín</dc:contributor>
+    <dc:creator>Casado González, Alba Luna</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>La Fiebre Manchada (o maculosa en portugués), causada por Rickettsia rickettsii es una enfermedad zoonósica transmitida por Amblyomma sculptum y Amblyomma aerolatum, y Rhipicephalus sanguineus potencialmente. En Brasil se sitúa como la zoonosis transmitida por garrapatas de mayor importancia por su carácter re-emergente, pero la mayor incidencia se da en el estado de Sao Paulo. El aumento de poblaciones de las capibaras, el principal reservorio, resulta esencial para la amplificación de la infección, pero además, algunos factores climáticos podrían estar detrás de esta re-emergencia. En este trabajo se ha tratado de elaborar un modelo de predicción ambiental capaz de predecir la incidencia de Fiebre Manchada en el estado de sao paulo en función de determinadas variables derivadas del clima. Se trata de un modelo de regresión múltiple para el que se ha utilizado una base de datos del clima interpolados, documentación geográfica y los datos de incidencia por municipio de la enfermedad, según la Secretaria de estado de salud de Sao Paulo. De acuerdo con los resultados, la incidencia se verá favorecida por las variables de temperatura media anual en primer lugar, seguida de la temperatura media del trimestre más seco, la precipitación media anual y la precipitación media del trimestre más seco. Sin embargo, influirán negativamente a la incidencia de Fiebre Manchada: la temperatura media del trimestre más cálido, temperatura media del trimestre más frío, la precipitación media de trimestre más húmedo y la precipitación media de trimestre más frío. Este modelo muestra como las temperaturas bajas, una precipitación media elevada y una alta cantidad de lluvia en los momentos más fríos del año, son perjudiciales para todos los eslabones de la cadena epidemiológica, por lo que la incidencia no será tan alta como en condiciones de temperaturas más cálidas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/56880</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Patología Animal; Área de Sanidad Animal</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/56880/files/TAZ-TFG-2016-3359.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Veterinaria</dc:subject>
+    <dc:title>Indicadores ambientales de la incidencia de la Fiebre Maculosa en el estado de Sao Paulo (Brasil)</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Environment indicators of the Spotted Fever´s incidence in Sao Paulo state (Brazil)</dc:title>
+</oai_dc:dc>

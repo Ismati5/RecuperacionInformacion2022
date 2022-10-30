@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<csw:Record xmlns:csw="http://www.opengis.net/cat/csw/2.0.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ows="http://www.opengis.net/ows" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:language>fr</dc:language>
+  <dc:identifier>15-SMEAG-1</dc:identifier>
+  <dc:contributor>SMEAG</dc:contributor>
+  <dc:description>Localisation des dépôts de vase, sable, graviers ou cailloux, en bordure de berge ou dans le lit même du cours d'eau, créés par une diminution de la vitesse du courant</dc:description>
+  <dc:format>SHP</dc:format>
+  <dc:identifier>http://www.garona-i-garonne.com</dc:identifier>
+  <dc:identifier>http://www.garona-i-garonne.com/Territoire_71_3_3.php?pk_langue=3&amp;id_page=71</dc:identifier>
+  <dc:identifier>http://www.smeag.fr</dc:identifier>
+  <dc:language>fr</dc:language>
+  <dc:subject>SOCIAL ASPECTS, ENVIRONMENTAL POLICY MEASURES.ENVIRONMENTAL POLICY.ENVIRONMENTAL MANAGEMENT.WATER MANAGEMENT.SURFACE WATER MANAGEMENT.RIVER MANAGEMENT</dc:subject>
+  <dc:subject>NATURAL ENVIRONMENT, ANTHROPIC ENVIRONMENT.LITHOSPHERE (SOIL, GEOLOGICAL PROCESSES).LITHOSPHERE.SEDIMENT.ALLUVION</dc:subject>
+  <dc:subject>inlandWaters</dc:subject>
+  <dc:title>Atterrissement</dc:title>
+  <dc:type>dataset</dc:type>
+  <dcterms:created>1999-01-01</dcterms:created>
+  <dcterms:spatial>FRANCE</dcterms:spatial>
+  <ows:BoundingBox>
+    <ows:LowerCorner>-0.4911000000000012 42.83610389610389</ows:LowerCorner>
+    <ows:UpperCorner>1.528599999999999 44.907194805194806</ows:UpperCorner>
+  </ows:BoundingBox>
+</csw:Record>

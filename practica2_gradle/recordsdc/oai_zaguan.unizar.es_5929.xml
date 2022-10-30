@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Val Blasco, Sonia</dc:contributor>
+    <dc:creator>Lorente Santolaria, Germán</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Es una herramienta para la gestión integral de una Pyme, con la cual se puede gestionar los datos de los pedidos para realizar facturas y un control de las empresas con las que se trata, también tiene un módulo para la gestión de los turnos de trabajo y sus trabajadores.  Con esta herramienta se pretende que ayude a la empresa a  que resulte más fácil la planificación de la empresa. Contiene tres módulos uno de facturación, otro de turnos de trabajo y otro de calidad. El primero el de facturación se realiza un pedido donde se introducen datos de la empresa y características del pedido y luego se realiza una factura para el pago de los plazos. En el segundo se introduce unos horarios de turnos de trabajo y luego unos trabajadores especificando a que turno pertenecen Y el tercero de calidad se han adjuntado unos documentos de calidad en la empresa.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5929</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Proyectos de Ingeniería</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5929/files/TAZ-PFC-2011-254.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>PYME</dc:subject>
+    <dc:subject>informática</dc:subject>
+    <dc:subject>gestión</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Herramienta informática para la gestión integral de una PYME</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

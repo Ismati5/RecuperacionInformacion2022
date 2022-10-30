@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Pérez Ansón, María Ángeles</dc:contributor>
+    <dc:creator>Cabanillas Jimeno, Ángel Santiago</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>Cuando hay una caída o un accidente que hace que se produzca una fractura de alguno de los elementos de la cadera, se altera la biomecánica de la misma. Para volver a recuperarla se recurre a colocar una prótesis. Hoy en día hay dos  grandes tipos de prótesis: cementadas y no cementadas. Las cementadas utilizan el cemento como elemento de unión entre prótesis y hueso, mientras que en las no cementadas el contacto entre hueso e implante es directo. Todas las prótesis presentan una durabilidad entorno a diez años, tras los cuales empiezan a aparecer problemas como aflojamiento de las interfaces, deterioro del cemento, tejido fibroso entre el hueso y el implante, etc. que pueden llevar al fallo de la fijación. Existen una serie de técnicas que pueden aportar información al respecto del aflojamiento de las prótesis, por ejemplo, un análisis mecánico de vibraciones.  Por tanto, el objetivo de este proyecto es la simulación computacional mediante el método de los elementos finitos de esta técnica. El análisis mecánico de vibraciones se va a aplicar en una prótesis de cadera no-cementada de tipo Zweymüller.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5325</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5325/files/TAZ-PFC-2010-319.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Análisis de vibraciones en una prótesis de cadera no cementada</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

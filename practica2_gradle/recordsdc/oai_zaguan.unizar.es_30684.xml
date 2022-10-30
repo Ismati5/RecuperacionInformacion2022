@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Letosa Fleta, Jesús</dc:contributor>
+    <dc:creator>Samplón Chalmeta, Miguel</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>En esta tesis se ha estudiado la problemática de calibración de dispositivos de medida de corriente eléctrica basados en la Ley de Ampere (en adelante ALBA), con énfasis en la componente de incertidumbre asociada la variabilidad geométrica de los conductores sobre los que pueden actuar. En una primera parte se analizan las especificaciones que deben acompañar a estos dispositivos para poder ser calibrados, y se introduce una caracterización de los mismos mediante una función respuesta que permite homogeneizar el tratamiento de la calibración independientemente de que el ALBA se comporte como un transductor o un instrumento de medida.  A continuación, se definen las características de una clase de dispositivos destinados a recrear el efecto de un conductor cualquiera sobre el ALBA mediante un conjunto de circuitos predefinidos excitados con las corrientes adecuadas. Este tipo de dispositivo es el que se utilizará para la calibración. Se establece una metodología de obtención de las corrientes óptimas a aplicar basada en el Analisis Funcional. Asimismo, se lleva a cabo un análisis paramétrico de estos sistemas de calibración en base a diferentes índices de calidad. Finalmente se establece un método para llevar a cabo la calibración de un ALBA mediante el sistema de calibración, así como el análisis de la incertidumbre del resultado. La información de calibración permite estimar la respuesta del ALBA frente a cualquier posible excitación. En base a ello se indica la posibilidad de construir un mapa de la respuesta del ALBA frente a excitaciones formadas por hilos indefinidos ubicados en diferentes posiciones. Este mapa constituye una representación gráfica de la calidad y rendimiento del ALBA. Los resultados obtenidos han sido contrastados por vía experimental sobre un prototipo de laboratorio, así como mediante simulaciones numéricas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/30684</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/30684/files/TUZ_0702_samplon_nueva.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>medición de magnitudes eléctricas</dc:subject>
+    <dc:subject>calibración de unidades</dc:subject>
+    <dc:subject>metrología</dc:subject>
+    <dc:title>Nueva metodología de calibración de dispositivos de medida de corriente eléctrica basados en la Ley de Ampere</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

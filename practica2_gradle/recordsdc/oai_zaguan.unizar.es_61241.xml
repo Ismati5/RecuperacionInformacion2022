@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Pelayo Gil, Javier</dc:contributor>
+    <dc:contributor>López Pellicer, Francisco Javier</dc:contributor>
+    <dc:creator>Anadón León, Héctor</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>Adidas tiene una gran cantidad de proyectos software y por tanto, de desarrolladores, superior a cien, tanto internos como externos. En GSD se captura una gran cantidad de datos sobre la calidad de este código que puede ser calificada como Big Data. Esta información es crucial para evaluar tanto a programadores internos como a empresas proveedoras de software externas. Actualmente no existe una herramienta unificada de análisis que, en un vistazo, se pueda ver el estado de un proyecto y su evolución con respecto al tiempo. Se realizará una aplicación Web pesada con Modelo-Vista-Controlador que accederá a estos datos en tiempo real y proporcionará herramientas visuales avanzadas de análisis. Esta aplicación será utilizada tanto por los jefes de proyecto como por los propios programadores para controlar el estado general de un proyecto, su evolución, su velocidad de desarrollo y sus principales debilidades. Desde una única herramienta será posible acceder a todos los proyectos y a su información de una forma gráfica e intuitiva. El objetivo principal del proyecto consiste en la evaluación de la calidad de código de los distintos proyectos software en los que Adidas participa, siendo tanto desarrollador propio como director. Actualmente existen herramientas para ver datos de calidad de código como Jira y Sonar, sin embargo, se busca una herramienta unificada tanto de las distintas informaciones de evaluación de código como de los distintos proyectos. Se quiere observar el rendimiento de los distintos proyectos propietarios de Adidas para poder comparar la calidad de las distintas compañías externas contratadas, así como su equipo de programadores. Se espera ver que, gracias a la inclusión en el proyecto de GSD, tanto desarrollando como revisando código, se ve una sustancial mejora en el estado general del proyecto en número de issues, en velocidad de crecimiento, legibilidad y mantenibilidad del código.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61241</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61241/files/TAZ-TFG-2016-2829.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>ADIDAS GSD-MP: Portal de Métricas de Desarrollo de Software de ADIDAS GSD</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">ADIDAS GSD-MP: Portal de Métricas de Desarrollo de Software de ADIDAS GSD</dc:title>
+</oai_dc:dc>

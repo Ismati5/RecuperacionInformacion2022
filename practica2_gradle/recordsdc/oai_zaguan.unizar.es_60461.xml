@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Casa Nebra, Roberto</dc:contributor>
+    <dc:creator>Ramírez Ladislao, Álvaro Valerio</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>El presente trabajo aborda un enfoque novedoso a la hora de la identificación de cargas eléctricas de forma no invasiva, centrándose en cuantificar las prestaciones que una red neuronal artificial puede alcanzar  para  el caso de usar dispositivos computacionales de bajo consumo y medias prestaciones.  Basándose en la impronta que cualquier carga eléctrica fija en la corriente que consume se idea un sistema electrónico capaz de, mediante una red neuronal, clasificar dicha carga únicamente capturando la onda de corriente en la acometida de cualquier usuario. Empezando con una adquisición detallada de los datos, se eligen aquellas características que se extraerán de la corriente así medida y se analizan las posibles técnicas de ahorro operacional y de adquisición de datos. Posteriormente se realizan comparativas entre diversos tipos de redes neuronales artificiales en función de sus requerimientos de memoria frente a  sus resultados clasificadores.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/60461</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/60461/files/TAZ-TFM-2016-1070.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Electrónica</dc:subject>
+    <dc:title>Reconocimiento no intrusivo de cargas eléctricas domésticas mediante redes neuronales para implementación en dispositivos de bajo consumo</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Non intrusive appliance recognition by means of neural networks for the implementation into low power devices</dc:title>
+</oai_dc:dc>

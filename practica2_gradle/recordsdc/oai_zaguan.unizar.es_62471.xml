@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Casajús Mallén, José Antonio</dc:contributor>
+    <dc:contributor>Garatachea Vallejo, Nuria</dc:contributor>
+    <dc:creator>Pérez Lasierra, José Luis</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El VO2max y el Umbral anaeróbico (UAn) son dos parámetros ampliamente conocidos y utilizados en el ámbito del ejercicio físico ya sea desde un enfoque posicionado en el rendimiento deportivo o en la salud, pero para conocerlos de forma objetiva son necesarias técnicas complejas y caras. Por otro lado la variabilidad de la frecuencia cardiaca (HRV) representada por diversos indicadores, es un método fácil y barato de valorar la actividad simpática y parasimpática de nuestro sistema nervioso autónomo (SNA), encargado de controlar entre otras variables la frecuencia cardiaca (FC). De ese modo nuestro objetivo es llegar a estimar tanto el VO2max como la FC al UAn a partir de modelos matemáticos que incluyan parámetros de HRV. Para nuestro estudio hemos utilizado 25 sujetos, todos varones entrenados, a los que hemos evaluado el VO2max y la FC al UAn mediante una prueba de esfuerzo máxima en tapiz rodante con analizador de gases, y la HRV mediante un análisis espectrográfico de un registro de FC realizado en una fase de reposo de 5 min con un pulsómetro comercial. Los resultados obtenidos muestran como es posible estimar la FC al UAn a partir de la HRV mediante un modelo matemático que explica un 69,6% (p&lt;0,05) de la variabilidad, pero no es posible estimar el VO2max ya que el modelo matemático resultante no es significativo estadísticamente (p&gt;0,05). Los posibles resultados podrían tener innumerables e innovadoras aplicaciones prácticas, pero somos conscientes de que en este caso están sujetos a ciertos sesgos y limitaciones que sin duda se deberán resolver en futuras investigaciones antes de poder utilizar dichos resultados en una aplicación real.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/62471</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Fisiatría y Enfermería; Área de Educación Física y Deportiva</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/62471/files/TAZ-TFM-2017-216.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Evaluación y Entrenamiento Físico para la Salud</dc:subject>
+    <dc:title>Variabilidad de la frecuencia cardiaca, consumo máximo de oxígeno y umbral anaeróbico</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Heart rate variability, maximal oxygen uptake and anaerobic threshold</dc:title>
+</oai_dc:dc>

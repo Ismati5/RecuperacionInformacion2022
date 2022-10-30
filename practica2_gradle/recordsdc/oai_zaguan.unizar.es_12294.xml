@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Nuñez Bruis, José Luis</dc:contributor>
+    <dc:contributor>Calvo Molina, Susana</dc:contributor>
+    <dc:creator>Zeballos Fuentes, Soledad</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El presente documento de memoria recoge las actividades realizadas y los resultados obtenidos en el desarrollo una metodología para analizar el comportamiento resistente y a fatiga de uno de los componentes que forma parte de la atracción denominada “Saltamontes”, el brazo móvil cuyo movimiento de “salto” es proporcionado por un cilindro hidráulico.  El marco de este proyecto se centra en el desarrollo y aplicación de una metodología que permitan estimar la vida a fatiga de forma fiable en componentes reales consiguiendo estructuras con mejores prestaciones en un tiempo y bajo un coste razonable. Para lograr dicho objetivo, se han marcado una serie de pautas específicas a cumplir que marcan el contenido del presente documento de memoria: •Revisión de los modelos de daño existentes en bibliografía, y el estudio de aquellos que más se adecúen al componente analizado. •Evaluación del comportamiento resistente del componente real del caso práctico, mediante análisis por el método de los elementos finitos. •Análisis de las propiedades mecánicas del material empleado en la fabricación del componente y realización de la caracterización del material en probetas bajo ensayos a fatiga multiaxial.  •Determinación de modelos de daño de fatiga multiaxial, y su posterior validación con datos experimentales de probetas caracterizadas a fatiga con curvas S-N y ε-N. •Estimación de vida a fatiga en el componente y conclusiones de la aplicación de la metodología. Estos objetivos permiten obtener como conclusión, el desarrollo de una herramienta que permite analizar una nueva historia de carga para el desarrollo de un nuevo concepto de atracción, y ver cómo dicha  historia de carga afecta a la vida a fatiga, dando la posibilidad de tomar decisiones antes de la fabricación.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12294</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12294/files/TAZ-TFM-2013-797.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>fatiga</dc:subject>
+    <dc:subject>multiaxial</dc:subject>
+    <dc:subject>Máster Universitario en Mecánica Aplicada</dc:subject>
+    <dc:title>Aplicación de modelos de daño de fatiga multiaxial en aceros de bajo contenido en carbono. Validación de la metodología aplicada en la predicción de vida a fatiga en probeta y en componente real sometidos a fatiga</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

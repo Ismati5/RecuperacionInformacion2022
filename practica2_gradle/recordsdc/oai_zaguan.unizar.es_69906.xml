@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Romero Pascual, Enrique</dc:contributor>
+    <dc:contributor>Soler Herrero, Jaime</dc:contributor>
+    <dc:creator>Escriche Martínez, Cristina</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Realización del análisis de la viabilidad técnica de un sistema micro-CHP basado en el empleo de amoniaco como materia prima para alimentar una pila HT-PEM con objeto de obtener electricidad y calor. El modelo de la pila de combustible se integra con un sistema de combustión y tratamiento de metano, para suministrar la energía necesaria a la reacción de descomposición de amoniaco. La pila es capaz de entregar 1 kW de potencia eléctrica, mientras que la red de intercambiadores de calor del sistema permite el aprovechamiento de la energía sobrante de las corrientes a altas temperaturas para calentar un circuito de agua y producir agua caliente sanitaria (ACS).  Se realiza la simulación del sistema mediante la herramienta software AspenOne HYSYS, para posteriormente analizar los resultados obtenidos, y se ofrece un presupuesto preliminar del sistema micro-CHP planteado.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/69906</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Ingeniería Química</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/69906/files/TAZ-TFG-2017-4462_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/69906/files/TAZ-TFG-2017-4462.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Simulación de un sistema micro-CHP con pila de combustible HT-PEM utilizando amoniaco como fuente de hidrógeno</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Simulation of a MCHP system with HT-PEM fuel cell using ammonia as hydrogen source</dc:title>
+</oai_dc:dc>

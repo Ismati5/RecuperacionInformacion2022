@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Alesanco Iglesias, Álvaro</dc:contributor>
+    <dc:creator>López Lafuente, Miguel Ángel</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Este Trabajo Fin de Grado ha consistido en el desarrollo de una plataforma colaborativa orientada al senderismo cuyos módulos principales son una aplicación para smartphones Android, un grupo privado de usuarios en Facebook y su integración a través de los módulos de programación. La aplicación para Android es capaz de contar los pasos que el usuario realiza, así como de guardar la ruta que va siguiendo y mostrarlo en un mapa, ya que utiliza técnicas de geoposicionamiento mediante GPS. Además hay una integración con Facebook (para los grupos de la unidad didáctica) y con Google Maps (para la visualización de las rutas recorridas). Para la gestión del historial y de las estadísticas de pasos y metros, utiliza una base de datos interna (MySQL) para guardar los resultados en el smartphone y para acceder a ellos de forma rápida y sencilla. Esta aplicación se complementa con otras funciones, como una opción para poder ver todas las novedades del grupo de la unidad didáctica, los ajustes de la aplicación y un menú de Ayuda. El grupo privado de Facebook permite que se compartan los comentarios e imágenes de los usuarios, así como controlar y analizar los resultados obtenidos y hace que los usuarios interaccionen de forma cómoda y rápida.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/15422</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingeniería Telemática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/15422/files/TAZ-TFG-2014-1128.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/15422/files/TAZ-TFG-2014-1128_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>podómetro</dc:subject>
+    <dc:subject>android</dc:subject>
+    <dc:subject>aplicación móvil</dc:subject>
+    <dc:subject>plataforma</dc:subject>
+    <dc:subject>senderismo</dc:subject>
+    <dc:subject>educación</dc:subject>
+    <dc:subject>Graduado en Ingeniería de Tecnologías y Servicios de Telecomunicación</dc:subject>
+    <dc:title>Plataforma social de senderismo: Desarrollo de una app para tracking y su integración en Facebook</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

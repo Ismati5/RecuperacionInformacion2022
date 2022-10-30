@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Peucheret, Christophe</dc:contributor>
+    <dc:contributor>Garcés Gregorio, Juan Ignacio</dc:contributor>
+    <dc:creator>Estarán Tolosa, José Manuel</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Se ha evaluado el rendimiento de una red óptica aviónica bajo las exigentes condiciones del entorno que típicamente se encuentran en los sistemas aerotransportados. Tasas de error (BER), márgenes de potencia y máximas tasas de transmisión conseguibles se han obtenido a -40oC, 25oC y 90oC. Las vibraciones y los impactos han sido estadísticamente analizados a través de desalineaciones radiales, longitudinales y angulares en los conectores del sistema óptico. El test ha sido elaborado para Non-Return-to-Zero (NRZ). Multiplexación óptica por división en frecuencias ortogonales (OOFDM) con modulación en amplitud y cuadratura (4-QAM, 16-QAM y 32-QAM) se ha propuesto como una opción factible y fiable para dar soporte a las futures y crecientes demandas de ancho de banda. Su rendimiento también ha sido evaluado para cada una de las tres temperaturas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/7992</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/7992/files/TAZ-PFC-2012-381.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>óptica</dc:subject>
+    <dc:subject>aviónica</dc:subject>
+    <dc:subject>simulación</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicación</dc:subject>
+    <dc:title>Evolución a largo plazo de redes ópticas aviónicas</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

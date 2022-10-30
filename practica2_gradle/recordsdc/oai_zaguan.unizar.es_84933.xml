@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Malón Litago, Hugo</dc:contributor>
+    <dc:contributor>Valladares Hernando, David</dc:contributor>
+    <dc:creator>Torres López, Javier</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>El presente Trabajo de Fin de Grado “Diseño de una jaula de seguridad para un vehículo turismo”, se ha realizado con fin de diseñar una estructura de seguridad para un vehículo Volkswagen Polo III Classic de 1996. Pudiendo ser esta estructura homologada ante la F.I.A. (Federación Internacional del Automóvil) a partir de las especificaciones de diseño y llevando a cabo la simulación de ensayos que se imponen en dicha normativa. Esta simulación de ensayos se ha realizado mediante el software de diseño SolidWorks.&lt;br /&gt;Para el desarrollo del proyecto, inicialmente se ha tenido que realizar un estudio de las normativas aplicables. Tras el estudio de las especificaciones de las tres normativas vigentes se ha decidido realizar el diseño a partir de la normativa expuesta por la F.I.A.&lt;br /&gt;Una vez elegida la normativa a aplicar, se ha realizado el diseño inicial de la jaula en base a la normativa. Este diseño se ha llevado a cabo a partir del software de diseño SolidWorks. Además se ha realizado un estudio del material a aplicar y se ha realizado una comprobación de sus propiedades en dicho programa.&lt;br /&gt;Al finalizar el diseño inicial con su respectiva aplicación del material, se ha procedido al estudio de mallado del material. Este estudio se ha llevado a cabo a partir de la simulación del ensayo del arco principal aplicando las condiciones de contorno y casos de carga correspondientes, con el fin de obtener un número de elementos óptimo en cuanto a calidad reduciendo al máximo el tiempo de trabajo.&lt;br /&gt;En el desarrollo de estas simulaciones de ensayos se ha realizado una simulación de ensayos de elementos tipo Shell debido a la geometría de la jaula. Al observar la deformación plástica del material se ha procedido a realizar las simulaciones no lineales de los ensayos impuestos por la normativa.&lt;br /&gt;Una vez realizadas las simulaciones se han obtenido resultados de tensión, desplazamiento y coeficientes de seguridad, los cuales han sido determinantes para la evaluación de la aptitud del prototipo inicial y la evaluación del posible rediseño de dicho prototipo.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/84933</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería Mecánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/84933/files/TAZ-TFG-2019-3601.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/84933/files/TAZ-TFG-2019-3601_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Diseño de una estructura de seguridad para turismo de competición</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Design of a competition car’s safety cage</dc:title>
+</oai_dc:dc>

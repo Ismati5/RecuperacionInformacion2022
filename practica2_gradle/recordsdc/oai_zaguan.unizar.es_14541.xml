@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Clemmensen, Line Katrine</dc:contributor>
+    <dc:contributor>Herrero Jaraba, José Elías</dc:contributor>
+    <dc:creator>Emerson Serrano, Mónica</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Los controles de calidad en la industria alimenticia son esenciales tanto por seguridad como de cara a la satisfacción del cliente. Durante el proceso de fabricación de comida, objetos no deseados pueden introducirse en los productos, resultando peligroso o poco apetitoso para el consumidor. Hoy en día, los sistemas de rayos -X incorporados a líneas de producción pueden detectar materia no orgánica. Sin embargo, encontrar objetos orgánicos en comida utilizando rayos-X convencionales todavía supone un reto. El objetivo de este proyecto es demostrar la mejora introducida por una nueva técnica de rayos-X en la detección de objetos extraños, cuando éstos pueden ser de origen orgánico. Esta novedosa técnica está basada en interferometría de rayos, creada a base de añadir rejillas de difracción a una fuente de rayos-X convencional. Así, obtenemos información sobre las propiedades de absorción, refracción y dispersión de una muestra; mientras que los rayos-X convencionales sólo proporcionan la absorción. Los datos fueron tomados personalmente en Technische Universitåt München. Cada imagen consta de tres modalidades (absorción, contraste de fase y campo oscuro) y contiene una muestra de comida contaminada por objetos de distintos tamaños, orgánicos y no orgánicos. Se tomaron imágenes de varios productos que cuentan con distintas propiedades y son de importancia para los colaboradores del proyecto NEXIM (New X-ray Imaging Modalities for safe and high quality food) dentro del cual se encuentra este PFC. En esta memoria, se compara el rendimiento de dos métodos de clasificación, uno supervisado y otro no-supervisado. Se hará hincapié en la técnica no-supervisada, comparando modelos de comida con distintos atributos y contrastando los resultados de detección con aquellos que se obtendrían usando únicamente la modalidad de absorción.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/14541</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/14541/files/TAZ-PFC-2014-274.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/14541/files/TAZ-PFC-2014-274_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>rayos-x</dc:subject>
+    <dc:subject>refracción</dc:subject>
+    <dc:subject>dispersión</dc:subject>
+    <dc:subject>detección</dc:subject>
+    <dc:subject>gmm</dc:subject>
+    <dc:subject>svm</dc:subject>
+    <dc:subject>estadística</dc:subject>
+    <dc:subject>imagen</dc:subject>
+    <dc:subject>aprendizaje de máquinas</dc:subject>
+    <dc:subject>objetos extraños</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicación</dc:subject>
+    <dc:title>Detección automática de objetos extraños utilizando Rayos X basados en interferometría por rejillas de difracción</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Baldassarri Santa Lucía, Sandra</dc:contributor>
+    <dc:contributor>Marco Rubio, Javier</dc:contributor>
+    <dc:creator>Enjuanes Traín, Alejandro</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>La idea principal de este proyecto fin de carrera (PFC) consiste en conseguir que los niños muy pequeños puedan interactuar con software y elementos informáticos de una manera más natural, sin depender de los dispositivos básicos, como ratón o teclado, sino usando cualquier tipo de juguete o con sus propias manos. Para lograr este propósito, este PFC se centró en el estudio y ampliación de un software de reconocimiento visual para dispositivos tabletop. El trabajo se realiza sobre NIKvision, una mesa de interacción tangible especialmente diseñada para su uso por niños pequeños. En primer lugar se ha realizado un estudio de los elementos del sistema de NIKvision para, posteriormente, realizar varias fases de análisis e implementación de las distintas funcionalidades necesarias. La primera fase consiste en la búsqueda de reglas para poder crear marcadores personalizados, con la finalidad de que sean capaces de adaptarse a las distintas formas que poseen los juguetes y que puedan tener una determinada forma o significado, no sólo para el ordenador, si no también para los niños (formas de animales, objetos, etc.). La siguiente fase consiste en la modificación del framework de ReacTIVision para permitir la captura de dibujos realizados por los niños en un folio de papel. Estos dibujos estarán marcados con un marcador personalizado diseñado en la fase anterior, para luego poder trabajar con ellos en juegos o aplicaciones que usen la mesa como soporte. La última fase consiste en permitir la detección de movimientos y pulsaciones de las manos de los niños sobre la mesa, así como la detección de juguetes “planos” (juguetes que no lleven marcas especiales en su base) y la orientación que éstos tengan. A partir de cada una de las mejoras se han creado varios juegos para comprobar su funcionamiento. También se ha creado un juego que recoge todo lo implementado en la fases anteriores. El juego captura uno o varios dibujos, realizados en un folio con un fiducial personalizado, para luego poder interaccionar con las versiones digitales de éstos. Los dibujos se muestran en la superficie del tabletop repetidas veces para que el niño pueda golpearlos con sus manos, haciendo que  desaparezcan, o desplazarlos a través de la pantalla con sus manos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5369</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5369/files/TAZ-PFC-2010-359.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Tabletop</dc:subject>
+    <dc:subject>Reconocimiento visual</dc:subject>
+    <dc:subject>Juegos para niños</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Adaptación de algoritmos de reconocimiento visual para la implementación de juegos para niños basados en dispositivos Tabletop</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

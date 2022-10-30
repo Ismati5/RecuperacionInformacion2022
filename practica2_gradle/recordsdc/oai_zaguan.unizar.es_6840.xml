@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Monne Bailo, Carlos</dc:contributor>
+    <dc:creator>Unzueta Joven, Óscar</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El presente proyecto se engloba dentro del ámbito de la ingeniería industrial. Es un proyecto ofertado por el Área de Máquinas y Motores Térmicos de la Escuela de Ingeniería y Arquitectura de la Universidad de Zaragoza. Se basa en el estudio de una instalación de refrigeración solar situada en el campus universitario San Francisco. El principal elemento de la instalación es una máquina de absorción de la casa Rotártica. La instalación consta, también con un sistema híbrido de disipación de calor. Se han recogido los datos registrados en la instalación durante el verano de 2011, cuando la instalación estuvo en funcionamiento. Siguiendo una metodología de trabajo, toda la información registrada ha sido cribada, clasificada y expuesta mediante gráficas a para su posterior análisis. La memoria incluye una comparativa entre los datos obtenidos durante este último año con los datos obtenidos en años anteriores (2007, 2008 y 2009). Se muestra también una diferenciación según la forma de disipar el calor; sistema con aerotermo o sistema geotérmico. Por otro lado, se ha estudiado el arranque de la máquina de absorción, haciendo hincapié en diversos términos tales como la evolución de las temperaturas, los tiempos de respuesta, arranque en día nublado, arranque en día soleado… También se ha forzado a la instalación a trabajar bajo posibles fallos de control, principalmente problemas de impulsión. Se han analizado los resultados obtenidos bajo este tipo de situaciones. Gracias a esta experimentación, se ha podido entender mejor el funcionamiento de la instalación y puede servir en un futuro para detectar problemas de funcionamiento. Asimismo, a lo largo de toda la memoria se sugieren cambios y/o mejoras para futuros estudios de la instalación.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6840</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6840/files/TAZ-PFC-2012-009_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6840/files/TAZ-PFC-2012-009.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>refrigeración solar</dc:subject>
+    <dc:subject>disipación híbrida</dc:subject>
+    <dc:subject>sistema geotérmico</dc:subject>
+    <dc:subject>ciclo de absorción</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Estudio del comportamiento de un sistema de refrigeración solar con disipación híbrida</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

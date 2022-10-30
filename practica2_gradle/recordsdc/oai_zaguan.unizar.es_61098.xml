@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sánchez González, Pascual</dc:contributor>
+    <dc:creator>Longás López, Ismael</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>Este proyecto, se centra primero en la recogida de información médica y de aspectos de diseño de un esterilizador médico y sus características requeridas para una correcta esterilización, y posteriormente, se centra en desarrollar una maquina autoclave a un coste menor que el de las comerciales para poder dar servicio a países menos favorecidos a un coste ínfimo. De este modo se acerca la posibilidad de que en estos países se viva en unas condiciones más salubres. Tras el análisis del proceso de esterilización, se pasará al análisis de la máquina comercial, viendo su funcionamiento y proponiendo alternativas de diseño de precio reducido para conseguir este objetivo final de una máquina low cost.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61098</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Proyectos de Ingeniería</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61098/files/TAZ-TFG-2016-4405.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Diseño de un esterilizador para equipo hospitalario (autoclave de vapor con ciclo de prevacío) para su utilización en países en vías de desarrollo basado en tecnología Arduino</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Design of a sterilizer for hospital equipment (steam autoclave cycle pre-vacuum ) for use in developing countries based on Arduino technology</dc:title>
+</oai_dc:dc>

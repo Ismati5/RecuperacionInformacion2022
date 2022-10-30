@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Lacalle, Javier</dc:contributor>
+    <dc:creator>Martín Díaz, Eduardo</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>La situación actual y las perspectivas de evolución de las pensiones públicas están suponiendo que, desde distintos ámbitos, se hagan recomendaciones a los ciudadanos de planificar de forma privada mecanismos de ahorro que complementen la pensión recibida desde la Seguridad Social. Tras realizar una revisión de distintos mecanismos de ahorro, este trabajo ha consistido en diseñar una hoja de cálculo (Excel) que permite personalizar los cálculos de aportaciones y estimación de la pensión a recibir. Aunque hay disponibles distintas páginas webs y aplicaciones que permiten estimar la pensión futura, la hoja de cálculo diseñada incluye la posibilidad de que el usuario introduzca una mayor cantidad de variables. La hoja de cálculo diseñada es una herramienta que podría ser utilizada tanto por profesionales como por particulares para respaldar su toma de decisiones. En su elaboración se han tenido en cuenta tanto aspectos fiscales como las rentabilidades ofrecidas por distintos planes de pensiones, por ser el instrumento de ahorro complementario a las pensiones más utilizado en España. La simulación resultante de las diferentes alternativas de aportaciones, traspasos y rescates de los planes de pensiones introducidos en la hoja de cálculo permiten concluir que los planes de pensiones privados constituyen una buena opción para aquellos partícipes que disponen de ahorros cada año y cuyos rendimientos del trabajo sean medios-altos, ya que su rentabilidad financiero-fiscal es superior a la de la inversión en otros activos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/63949</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/63949/files/TAZ-TFG-2017-3716_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/63949/files/TAZ-TFG-2017-3716.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Administración y Dirección de Empresas</dc:subject>
+    <dc:title>Desarrollo de Herramienta de Cálculo de Pensión de Jubilación Privada. Optimización de decisiones en aportaciones, traspasos y rescates.</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Development of a Private Pension Plan Calculation Tool. Decision optimisation on contributions, transfers and redemptions.</dc:title>
+</oai_dc:dc>

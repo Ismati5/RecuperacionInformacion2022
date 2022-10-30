@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Santolaria Mazo, Jorge</dc:contributor>
+    <dc:creator>Pueo Arteta, Marcos</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Los ensayos de rodadura se revelan como el tipo de ensayo más cercano a las condiciones de funcionamiento real. En este TFM se ha realizado un retofit completo de una máquina, fuera de uso, de ensayos de rodadura a dos flancos para reducciones sinfín corona. Para ello se ha presentado el modelado CAD analizando su funcionamiento mecánico, se ha planteado una selección de componentes de medida, se ha rediseñado la máquina con los nuevos componentes y se ha determinado el montaje, ajuste y puesta en marcha. Por otro lado también se han sentado las bases de un procedimiento estándar de calibración para este tipo de equipos, inexistente en la actualidad, además de desarrollar su caracterización metrológica que determina la incertidumbre de los resultados obtenidos en función de la variación de diferentes parámetros. Por último se ha relacionado los resultados de los ensayos con las tolerancias de montaje del par de engranajes en su carcasa.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6693</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6693/files/TAZ-TFM-2011-110.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6693/files/TAZ-TFM-2011-110_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>ensayo de rodadura a un flanco</dc:subject>
+    <dc:subject>ensayo de rodadura a dos flancos</dc:subject>
+    <dc:subject>engranajes</dc:subject>
+    <dc:subject>verificación</dc:subject>
+    <dc:subject>calibración</dc:subject>
+    <dc:subject>metrología</dc:subject>
+    <dc:subject>Máster Universitario en Sistemas Mecánicos</dc:subject>
+    <dc:title>Retrofit de una máquina de ensayos de rodadura a dos flancos para engranajes sinfín corona</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Civera Sancho, Javier</dc:contributor>
+    <dc:contributor>Montesano del Campo, Luis</dc:contributor>
+    <dc:contributor>Montesano del Campo, Luis</dc:contributor>
+    <dc:creator>Oliva Maza, Jesús</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>El objetivo de este trabajo es la reconstrucción tridimensional de una escena a partir de una única vista, usando para ello aprendizaje automático, en concreto el algoritmo de redes neuronales artificiales.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/47495</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/47495/files/TAZ-TFG-2015-2755_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/47495/files/TAZ-TFG-2015-2755.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Reconstrucción 3D a partir de una imagen</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

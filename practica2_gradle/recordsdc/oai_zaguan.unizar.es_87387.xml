@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Miana Sanz, Pedro José</dc:contributor>
+    <dc:creator>Sanz Muñoz, Marta</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>En este Trabajo de Fin de Grado se estudia la transformada de Laplace desde tres puntos de vista diferentes reflejados en los capítulos 3, 4 y 5.&lt;br /&gt;En los dos primeros capítulos encontramos, por un lado, una introducción histórica a la transformada de Laplace junto con algunas propiedades que satisface, y por otro lado, se exponen diversos conceptos previos, algunos de ellos vistos durante el grado de matemáticas que serán de utilidad en el seguimiento del texto.&lt;br /&gt;En los tres últimos capítulos, encontramos en primer lugar una visión de la transformada de Laplace en espacio L1 de la recta real positiva junto con teoría de semigrupos. &lt;br /&gt;En un segundo lugar, tenemos nuevamente la transformada de Laplace en el espacio de Hilbert L2 de la recta real positiva, enunciando conceptos del espacio estudiado para finalmente llegar a enunciar el teorema de Paley-Wiener en el que se basa principalmente este capitulo visto desde la notación clásica de la transformada de Fourier. &lt;br /&gt;Y por último, mostramos el aspecto práctico de la transformada en la resolución de ecuaciones diferenciales.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87387</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Matemáticas; Área de Análisis Matemático</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87387/files/TAZ-TFG-2019-3125.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Matemáticas</dc:subject>
+    <dc:title>La transformada de Laplace: del Análisis Funcional a la resolución de Ecuaciones Diferenciales</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">The Laplace transform: from Functional Analysis to the resolution of Differential Equations</dc:title>
+</oai_dc:dc>

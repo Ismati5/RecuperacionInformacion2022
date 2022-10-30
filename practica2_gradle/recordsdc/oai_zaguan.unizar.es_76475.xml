@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Peña Baquedano, Estefanía</dc:contributor>
+    <dc:contributor>Broeckmann, Christoph</dc:contributor>
+    <dc:creator>García Aranda, Álvaro</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>El trabajo consiste en la simulación del proceso de calentamiento por inducción para aplicarlo a procesos de temple superficial. Consiste en una serie de simulaciones que estudian el efecto de la inducción para condiciones cada vez más complejas. Adicionalmente, se estudia el proceso de calentamiento por inducción en el interior de un dilatómetro para distintas velocidades de calentamiento.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76475</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76475/files/TAZ-TFG-2018-3932.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Simulación de calentamiento por inducción de una barra cilíndrica de acero</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Simulation of induction heating of a cylindrical steel rod</dc:title>
+</oai_dc:dc>

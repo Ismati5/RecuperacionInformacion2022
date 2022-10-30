@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Navarro Artigas, Jesús</dc:contributor>
+    <dc:creator>Fustero Zapata, Oscar</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Simulador web de circuitos con amplificadores operacionales. Su objetivo es que sirva como herramienta docente complementaria a la asignatura de Electrónica Analógica. Programado en Java, necesita un navegador web con la maquina virtual de Java instalada. Optimizado para una resolucion 1024x768.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12119</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12119/files/TAZ-PFC-2013-553.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/12119/files/TAZ-PFC-2013-553_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>simulador</dc:subject>
+    <dc:subject>web</dc:subject>
+    <dc:subject>circuitos</dc:subject>
+    <dc:subject>amplificador operacional</dc:subject>
+    <dc:subject>electrónica</dc:subject>
+    <dc:subject>analógica</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electrónica Industrial)</dc:subject>
+    <dc:title>Simulador web de circuitos con amplificadores operacionales</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

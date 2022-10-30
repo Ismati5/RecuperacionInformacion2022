@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Vicente Borruel, Luis</dc:contributor>
+    <dc:creator>Sesma Caselles, Eduardo</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>El objetivo del proyecto es implementar una herramienta de conversión voz a voz, donde partiendo de una señal de voz de un locutor fuente se transforme para que suene como la voz de un locutor objetivo. Con esta herramienta un único locutor podría generar diferentes voces objetivo, pero con su propia entonación, pausas y dinámica.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/47655</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/47655/files/TAZ-TFG-2015-3241.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías y Servicios de Telecomunicación</dc:subject>
+    <dc:title>Conversión de voz basada en Modelos Ocultos de Markov</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Anel Bernal, Alberto</dc:contributor>
+    <dc:creator>Gascón Resano, María</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El empleo de la inmunoterapia como tratamiento del cáncer está adquiriendo gran importancia, convirtiéndose en una estrategia prometedora y en desarrollo. Los estudios y avances en el conocimiento de las células NK hace que se estén convirtiendo en una importante herramienta en la inmunoterapia celular adoptiva. Nuestro grupo ha desarrollado un protocolo de activación y expansión de células NK humanas (eNK),basado en el uso de citoquinas (IL2 + IL15) y de células estimuladoras (721.221)inactivadas, y se han ensayado sobre células de pacientes de leucemia linfocítica crónica de células B (LLC-B). Tras realizar distintos ensayos en presencia de eNK, dos muestras de pacientes de LLC-B fueron resistentes a este tratamiento mientras que muestras anteriores de los mismos pacientes habían resultado sensibles. Con el objetivo de explicar la posible causa de esta resistencia y pensando que podría deberse a una propiedad intrínseca de las células leucémicas adquirida con el tiempo, se ha analizado la expresión de distintos marcadores de superficie de las células de LLC-B, el efecto de la droga metabólica DCA en la expresión de estos marcadores y en ensayos de citotoxicidad, así como el efecto del anticuerpo bloqueante anti-PD1 pembrolizumab. Se observa que los niveles de expresión de los NCR han disminuido mientras que los de PD-L1 aumentan en las muestras resistentes. Así mismo, en presencia de DCA,disminuye la expresión de PD-L1 sin causar ningún efecto tóxico adicional sobre las células de LLC-B.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/63658</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Bioquímica y Biología Molecular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/63658/files/TAZ-TFM-2017-896.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster en Biología Molecular y Celular</dc:subject>
+    <dc:title>Inmunoterapia de la leucemia linfática crónica de células B con células NK expandidas</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Immunotherapy of chronic lymphatic leukemia of B cells with expanded NK cells</dc:title>
+</oai_dc:dc>

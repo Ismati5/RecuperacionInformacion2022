@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Van Oosterwyck, Hans</dc:contributor>
+    <dc:contributor>Vargas, Diego</dc:contributor>
+    <dc:contributor>García Aznar, José Manuel</dc:contributor>
+    <dc:creator>Lafuente Gracia, Laura</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Cell adhesion and migration play an essential role in processes within the human body such as embryogenesis, tissue regeneration or cancer. Thus, to fully understand the behaviour of the mechanisms that regulate them would be a big step in biomedicine. In recent years, computational models have been postulated as firm candidates in terms of cellular research, since they constitute a very powerful tool complementary to traditional in vitro research: thanks to them, we are able to analyze what is happening within the cell even at subcellular level. In this work, we used a computational model  to approach such cellular processes by studying the mechanical stimuli that govern the interaction of a cell with its environment. In particular, our interest resided in analyzing how the cell exerts traction through its actomyosin stress fibers by sensing the substrate stiffness, which is known as mechanosensing; as a consequence, the cell is deformed and this allows cell migration. To mimic some biological functions regarding cell-matrix adhesions, Bell's model and fiber maturation were implemented in the computational model. From the results we obtained after running some simulations, it is shown that there are many factors that influence cell traction. For instance, the total amount of focal adhesions at a certain time determines the number of fibers exerting force at the same time, which is translated as a higher force. Also, if those focal adhesions are able to live longer, there are more fibers coexisting. Substrate stiffness also plays an important role: as stiffness increases, stress fibers mature further and thus exert higher forces on the substrate; in addition, it also determines the size of the contact interface between the cell and the substrate. All in all, computational methods give quantitative and qualitative data with a lot of detail; hence, further research in this line is indeed a big step forward.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/84887</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/84887/files/TAZ-TFM-2019-033.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Biomédica</dc:subject>
+    <dc:title>Where shall I go? The mechanosensing adventures of a computational single cell</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Where shall I go? The mechanosensing adventures of a computational single cell</dc:title>
+</oai_dc:dc>

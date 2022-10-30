@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Serrano Cinca, Carlos</dc:contributor>
+    <dc:contributor>Gutiérrez Nieto, Begoña</dc:contributor>
+    <dc:creator>Reyes Maldonado, Nydia Marcela</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Los microempresarios tienen dos grandes dificultades que obstaculizan su crecimiento: el acceso al crédito y la falta de herramientas para una adecuada gestión de sus negocios. Esta tesis examina las razones de estos dos problemas para ofrecer alternativas de solución. Respecto a la primera dificultad, el acceso al crédito, encontramos que el sector microfinanciero es quien está atendiendo las necesidades de financiación  de los microempresarios, pero actualmente tienen el problema de no contar con herramientas para medir su riesgo de crédito. En la tesis hemos propuesto un modelo de calificación crediticia o ¿credit scoring¿ para seleccionar clientes beneficiarios de microcrédito, teniendo en cuenta sus criterios financieros y sociales, utilizando para ello el método del caso en la microfinanciera Fundesan. Respecto de la segunda dificultad, la falta de herramientas para una adecuada gestión, hemos reflexionado en las causas por las cuales los microempresarios no llevan contabilidad. Ilustramos como ejemplo promisiorio, el de la empresa Frogtek y su software contable Tiendatek, diseñado para que pequeñas tiendas de barrio cuenten con una herramienta útil de gestión. Uno de los problemas detectados por Frogtek es que muchos tenderos acceden al producto pero dejan de usarlo. Se hace preciso identificar los factores que favorecen el empleo de esta herramienta para poder seleccionar los tenderos más adecuados. Para ello en la tesis hemos desarrollado dos modelos: un sistema experto basado en el conocimiento de los analistas de Frogtek y un sistema de ¿scoring¿ estadístico a partir de datos de usuarios reales de la aplicación, desarrollado mediante modelos matemáticos multivariantes. En la tesis concluimos que llevar contabilidad e implantarla mediante una tecnología fácil de usar puede ser una solución a los dos problemas identificados de los microempresarios, pues la contabilidad permitirá la toma de decisiones acertadas, lo que redundará en una buena gestión y la transparencia mejorará el acceso al microcrédito. Pensamos que el medio para recibir préstamos y llevar contabilidad en el futuro será la tecnología móvil, la cual se está volviendo accesible y útil para los microempresarios</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9914</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Contabilidad y Finanzas</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9914/files/TESIS-2012-147.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>organización y gestión de empresas</dc:subject>
+    <dc:subject>contabilidad social</dc:subject>
+    <dc:subject>teoría del crédito</dc:subject>
+    <dc:title>El uso de la contabilidad y la calificación crediticia para facilitar la gestión de la microempresa y su acceso al microcrédito</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

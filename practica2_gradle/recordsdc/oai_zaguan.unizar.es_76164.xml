@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Montorio Llovería, Raquel</dc:contributor>
+    <dc:contributor>Pérez Cabello, Fernando</dc:contributor>
+    <dc:creator>Franco García, Javier</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>Las comunidades de pasto ocupan una gran parte de la superficie en el Pirineo Aragonés, consti-tuyendo una fuente de recursos económicos debido a su explotación por parte del sector agrario, por lo que su gestión es clave. Numerosos estudios han profundizado en todo lo referente a los pastos. Muchos de ellos incorporan el estudio de imágenes de satélite como una herramienta más de análisis. En este caso, a partir de los productos de los satélites multiespectrales Sentinel-2 se pretende identificar las claves para la discriminación espectral de dos asociaciones clave en la gestión de recursos ganaderos desde una aproximación multitemporal (Bromion erecti y Nardion strictae), así como conocer su reparto en dos zonas de estudio concretas del Pirineo Aragonés mediante la aplicación de una clasificación supervisada utilizando el algoritmo Spectral Angle Mapper. A través de un amplio análisis estadístico de los datos extraídos de imágenes Sentinel-2, se establecen las mejores regiones del espectro electromagnético, índices de vegetación o fechas para el proceso de caracterización de los pastos de la zona de estudio que, en este caso, son los meses de septiembre y octubre en los que se acentúan las diferencias espectrales entre ambas comunidades de pastos; el índice MCARI2 el que mejor las caracteriza; y la fecha concreta del trece de septiembre de 2017 la que mejor resume estos sucesos en una sola imagen. Concreta-mente, la serie temporal de la evolución del índice MCARI2 muestra unos buenos porcentajes de acuerdo en la clasificación, empleando unos ángulos espectrales particularmente reducidos aso-ciados a una alta precisión, por lo que se selecciona como objeto de la cartografía final de pasti-zales de alta montaña en el Pirineo Aragonés.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76164</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76164/files/TAZ-TFM-2018-1078.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Tecnologías de la Información Geográfica para la Ordenación del Territorio: Sistemas de Información Geográfica y Teledetección</dc:subject>
+    <dc:title>Reconocimiento de patrones temporales para la clasificación digital de pastizales de alta montaña (Bromion erecti y Nardion strictae)</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Temporal pattern recognition in high mountain pastures digital classification (Bromion erecti y Nardion strictae)</dc:title>
+</oai_dc:dc>

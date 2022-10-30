@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Lanaja del Busto, Francisco Javier</dc:contributor>
+    <dc:creator>Escribano Moya, Paula</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El proyecto aquí presente, tiene como objetivo, investigar el uso del software Thermo Scientific ToxID en la detección de sustancias prohibidas de base nitrogenada de las muestras de orina enviadas para su análisis al Laboratorio Forense Antidoping. Este software está diseñado para utilizar archivos de datos LCMSMS generados con el software Thermo Scientific Xcalibur.  Se ha desarrollado un método con ToxID que permite la búsqueda automática de una lista específica de veintidós sustancias toxicológicas. El método ha resultado ser muy superior, en términos de velocidad y precisión, a los métodos de procesamiento de datos convencionales. Este método permite la búsqueda tanto de muestras individuales como de lotes de muestras. Se aplicó con éxito a un gran número de muestras reales.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8768</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Orgánica; Área de Química Orgánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8768/files/TAZ-PFC-2012-515.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>detección selectiva msms</dc:subject>
+    <dc:subject>detección de drogas</dc:subject>
+    <dc:subject>espectrometría de masas</dc:subject>
+    <dc:subject>cromatografía de gases</dc:subject>
+    <dc:subject>software xcalibur</dc:subject>
+    <dc:subject>aplicación toxid</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Química Industrial)</dc:subject>
+    <dc:title>Desarrollo de un método para la detección selectiva MSMS de sustancias prohibidas en muestras deportivas usando ToxID, una nueva herramienta de software</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

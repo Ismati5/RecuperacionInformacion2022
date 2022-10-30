@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Tardioli, Danilo</dc:contributor>
+    <dc:contributor>Villarroel Salcedo, José Luis</dc:contributor>
+    <dc:creator>Durán Balda, Rubén</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El protocolo RT-WMP (Real-Time Wireless Multi-hop Protocol), desarrollado dentro del Grupo de Robótica, Percepción y Tiempo Real, es un protocolo de tiempo real con multitud de aplicaciones de distinta naturaleza. Sin embargo, las redes construidas con este protocolo se encuentran aisladas del mundo exterior. Esto implica que no es posible tener acceso a los nodos que la constituyen desde fuera ni acceder a redes externa (por ejemplo Internet) desde dentro de la red. Con este proyecto se superan estas limitaciones, permitiendo el uso de aplicaciones convencionales sobre estas redes y su interconexión con redes basadas en IP. Además, se permite que las aplicaciones funcionando sobre redes RT-WMP hagan uso de sus características, tales como la asignación de prioridades estáticas o la gestión de la calidad de servicio en las comunicaciones.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6765</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6765/files/TAZ-PFC-2011-755.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>pasarela</dc:subject>
+    <dc:subject>rt-wmp</dc:subject>
+    <dc:subject>ip</dc:subject>
+    <dc:subject>tcp/ip</dc:subject>
+    <dc:subject>protocolo</dc:subject>
+    <dc:subject>tiempo real</dc:subject>
+    <dc:subject>red</dc:subject>
+    <dc:subject>interconexión</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Implementación de una pasarela entre el protocolo RT-WMP y TCP/IP</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Celorrio de Pablo, Ricardo</dc:contributor>
+    <dc:contributor>Pardo Zubiaur, David</dc:contributor>
+    <dc:creator>Osés Villanueva, Javier</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El método de elementos finitos (FEM)  ha probado ser uno de los métodos mas eficientes para resolver ecuaciones diferenciales. Diseñado para aprovechar las capacidades de calculo de los ordenadores, las mejores realizadas a lo largo de los años han permitido solucionar problemas cada vez mas grandes.  Una de las ultimas mejoras ha sido el desarrollo de las tarjetas gráficas (GPU). La programación científica con GPUs era extremadamente compleja hasta que en 2006 la compañía NVIDIA desarrolló CUDA. Es un lenguaje genérico de programación que no requiere de conocimientos de la tradicional programación con  GPUs.  Estos dispositivos son capaces de realizar grandes cantidades de operaciones simultáneamente. Esta capacidad los hace muy atractivos para el calculo en FEM.  Una de las partes del FEM que mas recursos computacionales requiere, es la solución de sistemas de ecuaciones lineales. En este trabajo de fin de máster, se implementará un algoritmo para la solución de sistemas de ecuaciones lineales en CUDA. Dicho sistema provendrá de la aplicación de un método hp-FEM a la ecuación de Laplace. El objetivo es comparar la ejecución del solucionador implementado CUDA frente a una implementación en C y comprobar si CUDA presenta ventajas sobre la programación tradicional.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9988</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Matemática Aplicada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9988/files/TAZ-TFM-2013-031.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>cuda</dc:subject>
+    <dc:subject>fem</dc:subject>
+    <dc:subject>hp solver system</dc:subject>
+    <dc:subject>linear equations</dc:subject>
+    <dc:subject>gpu</dc:subject>
+    <dc:subject>Máster Universitario en Modelización Matemática, Estadística y Computación</dc:subject>
+    <dc:title>CUDA implementation of the solution of a system of linear equations arising in an hp-Finite Element code</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

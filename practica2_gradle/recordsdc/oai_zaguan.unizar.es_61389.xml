@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Resano Ezcaray, Javier</dc:contributor>
+    <dc:contributor>Navarro Tabernero, Denis</dc:contributor>
+    <dc:creator>Alcolea Moreno, Adrián</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>La empresa de electrodomésticos Balay utiliza el lenguaje de descripción de hardware VHDL para realizar el diseño de sus circuitos integrados. En el desarrollo de los mismos, la necesidad de modificar habitualmente los bancos de registros acaba suponiendo una sobrecarga de trabajo. Para solucionarlo se ha planteado este proyecto desde la empresa, cuyo objetivo principal es "desarrollar un software para la generación automática de bancos de registros en lenguaje VHDL a partir de unas especificaciones". En el desarrollo de este proyecto se han llevado a cabo tres tareas principales. Por un lado, se ha definido un formato sencillo mediante el cual realizar las especificaciones de los bancos de registros en una hoja de cálculo de manera muy visual. Este formato permite detallar todas las características de los registros que la empresa requiere. Por otro, se han diseñado los bancos de registros VHDL que deben generarse. Se ha tenido en cuenta la importancia de hacer un código claro y legible, aunque vaya a ser generado de manera automática. Para ello se han utilizado estrategias como definir ciertas especificaciones en un fichero de librería separado, o la creación de registros genéricos a partir de los cuales se realizan las instancias dentro de los bancos. Finalmente, se ha desarrollado el programa de traducción que, tomando las especificaciones como entrada, genera automáticamente los ficheros VHDL que contienen la definición de los bancos de registros especificados, respetando siempre el formato y comportamiento descritos en la entrada. Para el desarrollo del traductor se ha utilizado el lenguaje Java junto con JavaCC, un lenguaje específico para la generación de analizadores sintácticos. Esto ha facilitado el diseño y organización del programa, y ha permitido adaptar el análisis de la entrada de forma iterativa, conforme se concretaban aspectos de las especificaciones.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61389</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Arquitectura y Tecnología de Computadores</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61389/files/TAZ-TFG-2017-094.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>Generación automática de bancos de registros en VHDL mediante una herramienta de traducción en JavaCC</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Automatic generation of register banks in VHDL with a translation tool in JavaCC</dc:title>
+</oai_dc:dc>

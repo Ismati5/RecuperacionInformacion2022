@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Lozano Serrano, Miguel Ángel</dc:contributor>
+    <dc:creator>Frago Moreno, Javier</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>La creciente demanda energética y el progresivo agotamiento de los recursos energéticos no renovables hacen urgente la búsqueda de alternativas de suministro y soluciones tecnológicas basadas en energías renovables. Con la entrada en vigor del Código Técnico de la Edificación , el marco normativo español comenzó a promover la instalación de sistemas de energía solar térmica en edificios. Específicamente, con la nueva legislación se exige, para edificios de nueva construcción, una cobertura solar del 30% - 70% de la demanda de agua caliente sanitaria (ACS). Comparando la magnitud de la demanda de ACS con la de otras demandas térmicas que tienen lugar en los edificios (calefacción, climatización,...) resulta evidente que dicha exigencia no va a ser suficiente para desarrollar el potencial a largo plazo estimado para la energía solar térmica por la UE. La utilización de grandes sistemas que combinan los captadores solares térmicos con la tecnología de acumulación térmica estacional permite acoplar la mayor oferta de radiación solar (verano) con la mayor demanda energética (calefacción en invierno) y alcanzar elevadas fracciones solares (superiores al 50%) de la demanda combinada de ACS y calefacción, superando con mucho la cobertura impuesta por el Código Técnico de la Edificación (CTE). El ámbito específico de aplicación de la acumulación térmica estacional comprende sistemas con demandas elevadas de calefacción, agua caliente sanitaria (ACS), e incluso demandas moderadas de refrigeración en verano. En este trabajo se analiza el potencial de aplicación de los grandes sistemas solares térmicos a lo largo y ancho de la geografía española, en función parámetros climáticos como la radiación solar global, la severidad climática de invierno y verano, etc. La estimación de las demandas de ACS, calefacción y refrigeración junto con los datos climáticos y modelos de simulación dinámica de estos sistemas, permiten determinar sus prestaciones y ajustar sus dimensiones (superficie colectora y volumen de acumulación). Es decir, encontrar las dimensiones del sistema más adecuado para cada ciudad en términos de la relación coste-beneficio, obteniendo una valoración aproximada del coste económico del calor solar, del ahorro de energía primaria y de la reducción de emisiones contaminantes. Se realiza también un estudio más detallado en función de los parámetros de diseño de la planta para un caso concreto: localización de la instalación y tamaño (número de viviendas a cubrir en el sector residencial). Se determina el esfuerzo económico en función de la cobertura solar deseada, o bien la cobertura solar conseguida para un límite impuesto de esfuerzo económico.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6336</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería Mecánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6336/files/TAZ-PFC-2011-501.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6336/files/TAZ-PFC-2011-501_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>calefacción</dc:subject>
+    <dc:subject>energía solar</dc:subject>
+    <dc:subject>energía</dc:subject>
+    <dc:subject>acumulación térmica</dc:subject>
+    <dc:subject>acumulación estacional</dc:subject>
+    <dc:subject>colector solar</dc:subject>
+    <dc:subject>análisis económico</dc:subject>
+    <dc:subject>análisis geográfico</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Análisis económico y geográfico de sistemas de calefacción de distrito con acumulación estacional</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

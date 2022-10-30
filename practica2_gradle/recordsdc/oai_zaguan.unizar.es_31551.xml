@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Muñoz Rodríguez, Mariano</dc:contributor>
+    <dc:creator>Clavijo Royo, Borja</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Este Trabajo de Fin de Grado tiene como objetivo principal la creación de un programa que simule el ciclo de Stirling mediante el método de Schmidt. Este programa ayudará en labores docentes aportando una idea del comportamiento de un ciclo Stirling ante diversos cambios. Para la realización del programa, primero se realizó un estudio del método de Schmidt, centrándose tanto en las hipótesis como en las ecuaciones que definen dicho método. Posteriormente, dichas ecuaciones fueron implementadas en un código informático usando el software EES (Engineering Equation Solver). A continuación, se creó un interfaz que facilita la interacción fluida entre el programa y el usuario. En éste, el usuario puede introducir diferentes valores de las variables de entrada o incluso puede elegir el fluido de trabajo con el que trabajaría el motor de Stirling simulado. También, ante cualquier duda, el usuario tiene a su disposición un manual de ayuda, al que podrá acceder desde el mismo interfaz.  Por último, realizando modificaciones sobre el código implementado se realizaron diversos estudios paramétricos mediante tablas y gráficas, en donde, se puede observar la influencia de la variación de diferentes variables de entrada sobre aspectos como el rendimiento, potencia o el trabajo desarrollado en el motor Stirling simulado.  También, en este Trabajo de Fin de Grado se muestran diferentes desviaciones del ciclo ideal de Stirling sobre la realidad y posibles alternativas futuras de mejora del programa.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31551</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31551/files/TAZ-TFG-2014-1711.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>ciclo stirling según método schmidt</dc:subject>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Caracterización, simulación y parametrización del ciclo Stirling según el método Schmidt</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Montesano del Campo, Luis</dc:contributor>
+    <dc:contributor>Mínguez Zafra, Javier</dc:contributor>
+    <dc:creator>Rodrigo Gómez, Miguel</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Un interés creciente ha aparecido, en los últimos años, en torno al uso de "interfaces cerebro computador" aplicadas a terapias de rehabilitación, para ayudar a personas con discapacidad motora a mover sus miembros. Una de las aplicaciones más importantes dentro de este contexto, es la de detectar las intenciones del paciente y, gracias a ellas, ajustar mejor las terapias de rehabilitación, así como, un control más preciso de prótesis robóticas. El objetivo del proyecto será detectar los estados de reposo, preparación o anticipación y ejecución del movimiento del brazo, utilizando la señal de electroencefalograma obtenida durante el proceso. Para ello, a partir de la señal original, estudiaremos cómo distintos filtros espaciales lineales, filtros frecuenciales, recticado y suavizado de la señal, actúan en la mejora de la separabilidad de las tres clases. Con las mejores características seleccionadas, trataremos de detectar, por un lado, los estados por parejas: reposo y preparación, reposo y movimiento y preparación y movimiento, y, por otro lado, las tres clases de manera simultánea, para lo cual entrenaremos dos clasificadores lineales: "lineal discriminant analysis", LDA, y "shrinkage". Los resultados de la clasicación, en el caso de detectar los estados en parejas, fueron cercanos al 65% de datos bien clasificados, alcanzando en algunos sujetos una cota cercana al 75 %. En el caso de la clasificación de los tres estados simultáneamente conseguimos una tasa de aciertos en torno al 55% de promedio, obteniendo en algunos casos valores por encima del 60 %. Como conclusión, hay que destacar que el procesado de la señal para seleccionar las características que mejoren la separabilidad de las clases, da unos resultados aceptables, puesto que este es un campo de investigación reciente y en el cual se está investigando mucho en la actualidad. La mejora de las técnicas de selección de características permitirá en el futuro, desarrollar unas terapias de rehabilitación que se ajusten de manera personal a cada paciente, además logrará que la integración de prótesis robóticas a la persona sea más íntima y eficaz de lo que es en la actualidad.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6491</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6491/files/TAZ-PFC-2011-627_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6491/files/TAZ-PFC-2011-627.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>movimiento</dc:subject>
+    <dc:subject>clasificación</dc:subject>
+    <dc:subject>eeg</dc:subject>
+    <dc:subject>bci</dc:subject>
+    <dc:subject>reposo</dc:subject>
+    <dc:subject>preparación</dc:subject>
+    <dc:subject>electroencefalograma</dc:subject>
+    <dc:subject>interfaz cerebro-ordenador</dc:subject>
+    <dc:subject>brazo</dc:subject>
+    <dc:subject>linear discriminant analysis</dc:subject>
+    <dc:subject>shrinkage</dc:subject>
+    <dc:subject>lda</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Clasificación de los estados de reposo, preparación y ejecución del movimiento del brazo a través del electroencefalograma</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

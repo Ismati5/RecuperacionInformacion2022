@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Larrodé Pellicer, Emilio</dc:contributor>
+    <dc:creator>Oca Gadea, Darwin Sirio</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Este trabajo de fin de grado pretende analizar el comportamiento real en prueba en carretera del vehículo DUOTRAILER para poder analizar datos y valores relativos a su estabilidad, eficiencia energética, y consumos, debido a la influencia de fuerzas aerodinámicas sobre los vehículos. Por otro lado, se analizarán las variaciones de consumos y la relación de emisiones correspondientes por km debido a estas acciones externas. &lt;br /&gt;Mediante los registros proporcionados por el CAN bus del vehículo y los datos de dirección y velocidad del viento de estaciones meteorológicas próximas a la carretera se obtendrá la información necesaria para calcular la resistencia aerodinámica a lo largo de la ruta Zaragoza – Martorell en 18 viajes que el camión realizó durante todo junio de 2019. &lt;br /&gt;Con esto se pretende desarrollar un método con el cual, a partir de la previsión de viento del día en la ruta, obtener la velocidad del vehículo óptima para no superar el umbral que se decida de consumo de combustible o emisiones de CO2 a la atmósfera&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87363</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería e Infraestructura de los Transportes</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87363/files/TAZ-TFG-2019-4408_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/87363/files/TAZ-TFG-2019-4408.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Análisis del comportamiento de un vehículo Duo Trailer sometido a cargas aerodinámicas, y comparación de prestaciones del vehículo en operaciones de transporte</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Analysis of the behaviour of a Duo Trailer vehicle subject to aerodynamic loads, and comparison of vehicle performance in transport operations</dc:title>
+</oai_dc:dc>

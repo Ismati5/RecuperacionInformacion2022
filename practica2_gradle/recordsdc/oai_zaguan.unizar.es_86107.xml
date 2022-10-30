@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bothun Geoffrey</dc:contributor>
+    <dc:contributor>Sánchez Cebrián, José Luis</dc:contributor>
+    <dc:creator>Esparza Gómez de Segura, Jorge</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Engineer an approach to synthesize and control the assembly of multiple types of Gold nanoparticles.  Investigate synthesis and assembly mechanisms, and the effects of operating conditions (Flow Rate, Reynolds number, Radius, Angle, Lenght and Diameter of the tube...) Creating complex, multicomponent nanoparticles in batch mode, test tubes, often yields heterogeneous structures. This is primarily due to changes in concentration as one solution is added stepwise to another, as well as insufficient mixing. We have observed this when creating layersomes (liposomes coated with one or more layers of polyelectrolytes) and nanoparticle-decorated liposomes (nanoparticles adsorbed onto the surface of liposomes) – both of which are potential approaches to designing nanoparticle-based therapeutics that can combine multiple therapeutic objectives such as drug delivery, diagnostics, and imaging in a single platform. Continuous flow processes offer advantages over batch mode for creating homogenous structures including the ability to work with small reaction volumes and to control shear, mixing, and reaction, residence time. Investigate synthesis and assembly mechanisms, and the effects of operating conditions Reynolds Number, Angle, Radius.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/86107</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Ingeniería Química</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/86107/files/TAZ-TFG-2018-005.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Química</dc:subject>
+    <dc:title>Síntesis y Formación de Nanopartículas de Oro en procesos de flujo continuo</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Gold Nanoparticles Synthesis and Assembly in Continuous Flow Processes</dc:title>
+</oai_dc:dc>

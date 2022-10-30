@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Martínez Gómez, Francisco Javier</dc:contributor>
+    <dc:creator>Nuviala Civera, Daniel</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>En este proyecto se describiran y diseñaran las partes que componen el sistema de dirección para un automovil de Formula Student preparado para competir en circuitos abiertos.  Empezaremos conociendo la historia de esta competición y sus actuales normativas y seguiremos con las características generales del sistema de dirección de un automóvil. Finalmente, pasaremos al diseño de nuestro coche teniendo en cuenta las partes del mismo que influyen directa e indirectamente en el sistema de dirección. Diferenciaremos también entre los elementos comerciales que formarán parte plenamente del presupuesto y los elementos que podremos diseñar nosotros para construir el coche.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6276</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería Mecánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6276/files/TAZ-PFC-2011-444.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>steering system</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Descripción y diseño del sistema de dirección de un Formula Student</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

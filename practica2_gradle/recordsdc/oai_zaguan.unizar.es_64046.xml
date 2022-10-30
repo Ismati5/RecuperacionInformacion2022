@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>González Bedia, Manuel</dc:contributor>
+    <dc:creator>Sevilla Blasco, Juan Miguel</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>En este proyecto se ha buscado conocer la capacidad que tiene el dispositivo comercial Emotiv Epoc+ a la hora de detectar picos en la actividad encefalográfica debidos a estímulos cognitivos, también conocidos como potenciales evocados cognitivos, utilizando para ello Matlab.  Para ello, se ha realizado una revisión sobre el cerebro humano, analizando las funciones que tienen cada área del cerebro, el tipo de onda que se generan en cada una de ellas y su significado.  Se ha estudiado el funcionamiento de Emotiv Epoc+, así como de sus softwares y como puede ser utilizado Matlab para procesar las señales obtenidas previamente con Emotiv Epoc+.  Para procesar las señales, se ha utilizado la librería de EEGlab, debido a su fácil manejo y a que está creada para procesar señales electroencefalográficas.  Se ha dado una visión general del estado del arte de este tipo de tecnologías y se han explicado las principales aplicaciones en las cuales se están usando este tipo de dispositivos.  Para las pruebas, se ha utilizado el paradigma del ente extraño. Esta prueba consiste en usar dos tipos de estímulos, uno frecuente y otro infrecuente. El estímulo infrecuente provoca la aparición de los potenciales cognitivos.  Para localizar los potenciales evocados cognitivos, se han utilizado clusters y comparación por medio del coeficiente de correlación de Pearson. Para ello se precisa de una librería de plantillas de potenciales evocados que pueda ser usado para la detección de nuevos potenciales evocados.  En este proyecto se han realizado tres tipos de pruebas. Habiéndose realizado un total de 90 sesiones.  Se ha podido concluir que, aun siendo capaces de detectar cierto número de potenciales evocados, su fiabilidad no es total y por tanto, no debe utilizarse este método como prueba concluyente en un juicio.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64046</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64046/files/TAZ-TFG-2017-3406.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Brain hacking: descifrado de patrones visuales a través de Electroencefalografía</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Brain hacking: decoding visual patterns through EEG technology</dc:title>
+</oai_dc:dc>

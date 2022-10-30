@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<csw:Record xmlns:csw="http://www.opengis.net/cat/csw/2.0.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ows="http://www.opengis.net/ows" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:language>es</dc:language>
+  <dc:identifier>27-USGS-REPORTS-751</dc:identifier>
+  <dc:contributor>We are grateful to the shipboard scientists and crews of cruises who obtained Arctic cores and samples that provided the material for this database. We are also especially appreciative of the following colleagues who have freely and kindly provided material for ostracode study: Dr. J. T. Andrews, K. Foley, Prof. D. Fütterer, Dr. A. Grantz, Dr. S. Ishman, Dr. E. Reimnitz, Dr. P. Barnes, Dr. S. Lehman, Dr. A. Mackensen, Dr. D. Nurnberg, Dr. L. Polyak, Dr. R.Z. Poore, Dr. R. Spielhagen, Dr. R. Stein, Prof. J. Thiede, Dr. C. Vogt, Dr. J. Wollenburg. Much of the ostracode research was supported by the U.S. Geological Survey (USGS) Global Change and Climate History Program, in collaboration with INSTAAR (University of Colorado) and the Institute of Earth Studies, Aberystwyth, (University College, Wales), and with assistance from the Alfred Wegener Institute (Bremerhaven) and GEOMAR (Kiel). Most of the taxonomy of this database was agreed upon at a conference on deep-sea Ostracoda held in summer, 1993, at the USGS in Reston, Virginia, sponsored by the USGS Global Change and Climate History Program.</dc:contributor>
+  <dc:creator>Thomas M. Cronin</dc:creator>
+  <dc:creator>Thomas R. Holtz</dc:creator>
+  <dc:creator>Elisabeth M. Brouwers</dc:creator>
+  <dc:creator>William M. Briggs</dc:creator>
+  <dc:creator>Robin C. Whatley</dc:creator>
+  <dc:creator>Adrian Wood</dc:creator>
+  <dc:description>The Arctic Ostracode Database provides species census data for about 100 species of benthic marine Ostracoda from modern surface and late Quaternary sediments from various parts of the Arctic Ocean and adjacent seas. Ostracodes are a microfossil group of bivalved Crustacea that secrete a calcareous shell commonly preserved in sediments in the Arctic region. Because many ostracode species have ecological limits controlled by temperature, salinity, oxygen, food and other factors, they can provide an important tool for paleoceanographic reconstruction in the Arctic. Some recent applications of ostracodes to understanding Arctic Ocean history include Briggs (1983), Reimnitz et al. (1983, 1992), McDougall et al. (1986), Clark et al.(1990), Pak et al. (1992), Brouwers et al. (1991), Cronin et al. (1993, 1994, 1995), Penney (1993a,b), Nurnberg et al. (1994), and Briggs and Mudie (in prep.).</dc:description>
+  <dc:format>ASCII</dc:format>
+  <dc:language>eng</dc:language>
+  <dc:publisher>U.S. Geological Survey</dc:publisher>
+  <dc:source>paper</dc:source>
+  <dc:source>paper</dc:source>
+  <dc:source>paper</dc:source>
+  <dc:source>paper</dc:source>
+  <dc:source>paper</dc:source>
+  <dc:source>paper</dc:source>
+  <dc:source>paper</dc:source>
+  <dc:source>paper</dc:source>
+  <dc:source>paper</dc:source>
+  <dc:source>paper</dc:source>
+  <dc:source>paper</dc:source>
+  <dc:source>paper</dc:source>
+  <dc:source>paper</dc:source>
+  <dc:source>paper</dc:source>
+  <dc:source>paper</dc:source>
+  <dc:source>paper</dc:source>
+  <dc:source>paper</dc:source>
+  <dc:source>paper</dc:source>
+  <dc:source>paper</dc:source>
+  <dc:source>paper</dc:source>
+  <dc:source>paper</dc:source>
+  <dc:source>paper</dc:source>
+  <dc:source>paper</dc:source>
+  <dc:source>paper</dc:source>
+  <dc:source>paper</dc:source>
+  <dc:source>paper</dc:source>
+  <dc:source>paper</dc:source>
+  <dc:source>paper</dc:source>
+  <dc:source>paper</dc:source>
+  <dc:subject>Ostracoda</dc:subject>
+  <dc:subject>1700 - Paleontology</dc:subject>
+  <dc:title>Arctic Ostracode Database</dc:title>
+  <dcterms:accessRights/>
+  <dcterms:issued>1995-01-01</dcterms:issued>
+  <dcterms:spatial>Arctic Ocean</dcterms:spatial>
+  <dcterms:spatial>OC10 = Arctic</dcterms:spatial>
+  <ows:BoundingBox>
+    <ows:LowerCorner>-180.0 52.78</ows:LowerCorner>
+    <ows:UpperCorner>180.0 90.0</ows:UpperCorner>
+  </ows:BoundingBox>
+</csw:Record>

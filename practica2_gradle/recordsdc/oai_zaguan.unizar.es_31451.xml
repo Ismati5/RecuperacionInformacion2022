@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Peña Baquedano, Estefanía</dc:contributor>
+    <dc:contributor>Peña Banquedano, Juan Antonio</dc:contributor>
+    <dc:creator>Ruiz-Alejos Sánchez, David</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>A pesar de que es sabida la importancia e influencia de la fascia en el desarrollo de patologías locomotoras, todavía no hay un conocimiento claro de sus propiedades mecánicas. Por ello, en este proyecto se van a realizar ensayos mecánicos y se va a desarrollar un modelo de comportamiento que se ajuste a las propiedades observadas en los ensayos realizados. Para su caracterización se ha procedido a ensayar distintas muestras de fascia de oveja, concretamente de los cuádriceps de las patas traseras de distintos ejemplares. Los ensayos llevados a cabo han sido uniaxiales y de tensión plana, disponiendo de 6 tipos de probetas. Además de la máquina de tracción uniaxial utilizada, se ha contado con un equipo de cámaras que ha permitido el ajuste de las curvas obtenidas en los ensayos, y ha sido capaz de proporcionar los campos de deformaciones en cada instante. Por último, se ha procedido a la implementación de los modelos de dos muestras en concreto en un programa de elementos finitos. De esta manera, se han podido comparar los resultados obtenidos con los que se disponían de los ensayos experimentales evaluando el trabajo desarrollado y, por tanto, valorando su posible uso o continuidad en investigaciones o proyectos futuros.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31451</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31451/files/TAZ-TFG-2015-143.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Estudio numérico-experimental del comportamiento mecánico de la fascia</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

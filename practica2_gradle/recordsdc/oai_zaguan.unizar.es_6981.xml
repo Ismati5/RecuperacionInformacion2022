@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Pérez Ansón, María Ángeles</dc:contributor>
+    <dc:creator>Gil Rubio, María Pilar</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El análisis mediante elementos finitos viene aplicándose en la bibliografía al estudio biomecánico de las prótesis de rodilla.  En este proyecto se ha realizado la geometría, el mallado y el análisis estructural utilizando el método de los elementos finitos para determinar la estabilidad y estado tensional de la articulación de la rodilla con un espaciador temporal de cemento óseo comercial Spacer K que le ha sido implantado. Para la realización del modelo presentado en este proyecto se parte de Tomografías Axiales Computarizadas (TAC) tomadas a una paciente, mujer de 65 años de edad y 70 kg de peso corporal, a la que se le ha colocado el espaciador temporal comercial Spacer K (Fig.3.2).  Se han importado las imágenes desde el programa Mimics V10.1 (Materialise) y se ha desarrollado un modelo tridimensional de la geometría comprendida entre la diáfisis de la tibia y la diáfisis del fémur que incluye el espaciador, y que una vez suavizado, es exportado a un programa de mallado (Harpoon mesh) donde se genera un modelo discreto.  Este es nuevamente exportado a Mimics para a partir del nivel de grises (Hounsfield units – HU) de las imágenes obtener las propiedades mecánicas del hueso (densidad, módulo de Young y coeficiente de Poisson), y finalmente se exporta al procesador de cálculo Abaqus (versión 6.9) para realizar, mediante el método de los elementos finitos, el análisis de la estabilidad y estado tensional de la articulación de la rodilla y del espaciador.  A partir de las cargas que actúan sobre el extremo proximal del fémur y fijando la tibia distalmente, se han analizando en el conjunto los desplazamientos, en el tejido óseo deformación equivalente y tensiones principales, y en el espaciador tensiones principales. En el primer análisis se presentan cuatro modelos discretizados agrupando las densidades óseas en 5, 20, 50 y 100 materiales de densidades medias, sobre la misma geometría a 0º de flexión y aplicando las mismas cargas. En la segunda parte se analiza el efecto de las cargas, de 2’25, 1’85 y 3’5 veces el peso corporal, sobre el modelo discretizado con 50 materiales, en tres momentos del ciclo de la marcha a 5’5º, 15’5º y 4’5º de flexión respectivamente.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6981</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6981/files/TAZ-PFC-2012-135.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>análisis por el método elementos finitos</dc:subject>
+    <dc:subject>estabilidad y estado tensional</dc:subject>
+    <dc:subject>espaciador temporal de rodilla</dc:subject>
+    <dc:subject>artroplástia de revisión de rodilla</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Análisis por elementos finitos de un espaciador temporal de rodilla: estabilidad y estado tensional</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

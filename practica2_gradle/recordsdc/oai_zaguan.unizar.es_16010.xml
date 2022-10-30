@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Rodríguez, Juan Antonio</dc:contributor>
+    <dc:contributor>Santolaya Sáenz, José Luis</dc:contributor>
+    <dc:creator>Ranz Elías, Alberto</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Los procesos de atomización de líquidos tienen un papel muy destacado en la industria actual. La utilización de energía ultrasónica para atomizar tiene cada vez mayor interés dada la posibilidad de conseguir distribuciones monodispersas y con tamaño de gota controlado por la frecuencia de onda. La atomización en este tipo de sistemas se lleva a cabo mediante la excitación de un material piezoeléctrico capaz de generar una onda ultrasónica. En este trabajo se ha realizado una exploración de la atomización ultrasónica en líquidos con partículas en suspensión. Este tipo de muestras no han sido objeto de estudio hasta ahora, ya que los líquidos explorados han sido sustancias puras o mezclas. Utilizando métodos experimentales, se ha realizado el estudio del comportamiento en función de la concentración de partículas y del voltaje de excitación del piezoeléctrico. Se han usado dos tipos de partículas: alúmina en polvo (Al2O3) de tamaño nominal 0.5 μm y una poliamida comercial (orgasol) que consta de partículas esféricas de 60 μm. Para el desarrollo de los experimentos se ha construido una instalación apropiada y se han definido y determinado los parámetros que permiten la caracterización del proceso de atomización. En particular, se ha determinado la tasa de atomización y se ha obtenido el voltaje mínimo necesario que produce dicho fenómeno para varias concentraciones de partículas. Los resultados obtenidos revelan que la presencia de partículas en suspensión dificulta el proceso de atomización, con una notable reducción en la medida de masa atomizada. Por su parte, el aumento del voltaje de alimentación favorece la atomización de la muestra. No obstante, al aumentar la concentración también lo hace el voltaje mínimo para el cual se produce la formación de una nube de gotas. Además, en este trabajo se ha determinado la cantidad de sólido que es transportado por la masa atomizada. Los resultados indican que el porcentaje de sólido se incrementa cuando la concentración inicial de partículas en la muestra aumenta. Muchas de estas medidas pueden considerarse el punto de partida para la caracterización de un proceso que todavía resulta muy desconocido y para el que no se existen explicaciones convincentes de ciertos fenómenos físicos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/16010</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/16010/files/TAZ-PFC-2014-412.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>atomización ultrasónica</dc:subject>
+    <dc:subject>suspensiones</dc:subject>
+    <dc:subject>materiales pulverulentos</dc:subject>
+    <dc:subject>Ingeniero Químico</dc:subject>
+    <dc:title>Caracterización experimental de la atomización ultrasónica de líquidos con partículas en suspensión</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

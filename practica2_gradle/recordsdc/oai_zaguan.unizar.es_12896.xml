@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Julián Burillo, Ignacio</dc:contributor>
+    <dc:contributor>Herguido Huerta, Francisco Javier</dc:contributor>
+    <dc:creator>Montesinos Tomey, Hector</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El propileno es una olefina con múltiples usos entre los que se encuentran la industria petroquímica (como aditivo en gasolinas) y en la industria química (en polimerización). La reacción sometida a estudio es una reacción gas-sólido catalítica cuyas limitaciones residen principalmente en la elevada endotermicidad, la restricción del equilibrio termodinámico, y la existencia de reacciones paralelas que merman la selectividad del propileno. El catalizador a utilizar Pt-Sn/MgAl2O4 está mejorado para esta reacción en trabajos previos. El uso de temperaturas elevadas provoca que entre las reacciones paralelas aparezca la formación de coque que se deposita en el catalizador desactivándolo. De ahí que se haya optado por el uso de un reactor de lecho fluidizado de dos zonas (RLFDZ patentado por la Universidad de Zaragoza en 2008) en el que simultáneamente se llevan a cabo la reacción y la regeneración del catalizador en un mismo lecho fluidizado. Para conseguir una mayor producción de propileno, se han añadido al reactor dos nuevas membranas de aleación Pd/Ag  permeoselectivas a hidrógeno con el objetivo de retirar un mayor caudal de hidrógeno producido y desplazar el máximo posible el equilibrio de la reacción. Con todo ello se pretende estudiar los factores que afectan a estas nuevas condiciones del reactor, entre las que destacarán la rápida desactivación del catalizador por la retirada masiva de hidrógeno a través de las membranas.  Los objetivos del Proyecto Fin de Carrera son: -	Montaje del sistema experimental. -	Calibración de los equipos a utilizar: Cromatógrafo de gases y medidores de flujo. -	Determinación de las propiedades fluidodinámicas del catalizador en distintas condiciones. -	Estudio de los factores que influyen en la permeabilidad del hidrógeno a través de las membranas. -	Estudio intensivo de los factores que afectan al rendimiento de la reacción: Temperatura, Velocidad del gas, Concentración de reactivos… -	Discusión y análisis de los resultados y comparativa con otros estudios previos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12896</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Ingeniería Química</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12896/files/TAZ-PFC-2013-680.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>deshidrogenación de propano</dc:subject>
+    <dc:subject>reactor de membrana</dc:subject>
+    <dc:subject>dos zonas</dc:subject>
+    <dc:subject>lecho fluidizado</dc:subject>
+    <dc:subject>permeación de hidrógeno</dc:subject>
+    <dc:subject>reactor catalítico</dc:subject>
+    <dc:subject>membrana de pd/ag</dc:subject>
+    <dc:subject>Ingeniero Químico</dc:subject>
+    <dc:title>Uso de varias membranas en la deshidrogenación catalítica de propano en un reactor RLFDZ+MB</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

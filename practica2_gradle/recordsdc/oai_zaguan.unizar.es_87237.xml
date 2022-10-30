@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Navarro Ferrando, María Ángeles </dc:contributor>
+    <dc:contributor>Herrera Marcos, Luis Vicente</dc:contributor>
+    <dc:creator>Stoian,  Andrei Mihai</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Este estudio pretende lograr la expresión transitoria de genes en macrófagos peritoneales de ratones knockout para la apoliproteína E (ApoE –) bajo la regulación de un promotor especifico de macrófagos. Para ello se clonó en un plásmido la región promotora del gen Cd68 murino, que codifica una glicoproteína específica de monocitos y macrófagos; seguido del gen Pon3 murino, que codifica una proteína con actividad lactonasa y función antioxidante; y el gen reportero luc de la luciérnaga oriental, que codifica la proteína luciferasa.&lt;br /&gt;El clonaje de la región promotora se abordó siguiendo dos estrategias distintas: una basada en la recombinación de secuencias homólogas y otra basada en la ligación de secuencias con extremos compatibles. Posteriormente se realizó la transfección de macrófagos peritoneales con el plásmido pCd68.Pon3.luc utilizando diferentes reactivos basados en dos métodos: transfección mediante liposomas o lipofección y transfección dirigida al núcleo mediante un campo eléctrico o electroporación.&lt;br /&gt;La sobreexpresión del plásmido se comprobó mediante medición de la actividad luciferasa, fosfatasa alcalina y proteína verde fluorescente.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87237</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Bioquímica y Biología Molecular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87237/files/TAZ-TFG-2019-4780.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Biotecnología</dc:subject>
+    <dc:title>Métodos de transfección en macrófagos peritoneales de ratones ApoE K.O.</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Transfection methods in ApoE K.O. mice peritoneal macrophages</dc:title>
+</oai_dc:dc>

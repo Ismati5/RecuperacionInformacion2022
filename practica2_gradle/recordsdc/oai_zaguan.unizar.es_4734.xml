@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Aznar Baranda, José Ignacio</dc:contributor>
+    <dc:contributor>Fernández Navajas, Julián</dc:contributor>
+    <dc:creator>Remón García, David</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>El panorama actual de las telecomunicaciones evoluciona hacia un punto de convergencia de tecnologías donde el término redes de nueva generación (Next Generation Network, NGN) toma un significado fundamental. Las NGN nacen con el objetivo de provisionar los servicios actuales sobre una infraestructura única, junto con el desarrollo de nuevas aplicaciones multimedia y servicios 4G, cuyos requerimientos son más exigentes. La gestión de la calidad de servicio (Quality of Service, QoS) adquiere un papel de relevancia por la necesidad de adaptarse tanto a las características propias de cada tipo de servicio, como a las necesidades individuales de los suscriptores. Las herramientas existentes de monitorización de la QoS deben adaptarse a las NGN y a sus elevados volúmenes de datos y tasas de transmisión. En este proyecto se describe la QoS y los parámetros característicos que la definen. Más en concreto, se plantea el problema de la monitorización de la capacidad y se presentan algunas de las herramientas más actuales que la realizan como son Pathrate y EQoSIM. Se describe la metodología de análisis de estas herramientas y se aplica paso a paso sobre los métodos de estimación de capacidad. La plataforma de simulación OPNET apoyada en la herramienta MATLAB, han permitido llevar a cabo el estudio del comportamiento de los métodos actuales de monitorización con el objetivo de manifestar sus puntos fuertes y débiles. Los resultados obtenidos han sido posteriormente utilizados como base para su optimización. Finalmente se ha establecido una comparación entre los métodos originales y sus optimizaciones y se han razonado las conclusiones más relevantes relacionadas con el análisis de herramientas de estimación de capacidad, así como de los métodos concretos objeto de estudio. Este PFC ha sido desarrollado dentro del GTC (Grupo de Tecnologías de las Comunicaciones) en el Departamento de Ingeniería Electrónica y Comunicaciones de la Universidad de Zaragoza.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4734</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingenieria Telematica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4734/files/TAZ-PFC-2010-084_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/4734/files/TAZ-PFC-2010-084.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>QoS</dc:subject>
+    <dc:subject>Calidad de Servicio</dc:subject>
+    <dc:subject>NGN</dc:subject>
+    <dc:subject>Redes de nueva generación</dc:subject>
+    <dc:subject>Simulación</dc:subject>
+    <dc:subject>Capacidad</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicaciones</dc:subject>
+    <dc:title>Herramientas de estimación de la capacidad en redes de nueva generación</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Calvo Calzada, Elena</dc:contributor>
+    <dc:contributor>Tapia Barcones, Javier</dc:contributor>
+    <dc:creator>Molinero Jorge, Sergio</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>La importancia del sector vitivinícola en la economía de España es indiscutible y nos proponemos analizar, desde una perspectiva econométrica, el consumo de vino tinto de mesa, uno de los vinos con mayor consumo en España. En concreto, queremos estudiar la respuesta de los consumidores ante cambios en magnitudes relacionadas con la riqueza, cambios en el precio del bien, cambios en el precio de bienes sustitutivos o complementarios, gustos o preferencias de los consumidores y tamaño del mercado entre otras variables. Se comenzó el estudio valorando múltiples variables independientes, finalmente han sido 6 las variables resultantes significativas para el modelo: PIB, el precio del vino de mesa nacional, el precio del vino de mesa extranjero, la población mayor de 21 años, el precio del vino rosado con denominación de origen y el precio de los vinos espumosos. En el caso del vino rosado con DO y de los vinos espumosos, al ser sus elasticidades cruzadas negativas, se deduce que son productos que actúan con carácter complementario al vino de mesa tinto. Esta situación también se da con los vinos de mesa extranjeros. En relación a la población mayor de 21 años se ha obtenido un resultado interesante puesto que aumentos de un 1% generan disminuciones en el consumo de un 10%. Por otra parte, la elasticidad renta es de 1,21 lo que indica que, como cabria de esperar, el vino es un bien de lujo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/62501</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/62501/files/TAZ-TFG-2017-2695.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Administración y Dirección de Empresas</dc:subject>
+    <dc:title>Estimación econométrica del consumo de vino tinto de mesa en España</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Econometric estimation of red table wine consumption in Spain</dc:title>
+</oai_dc:dc>

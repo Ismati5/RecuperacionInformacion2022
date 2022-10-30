@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Muñoz Orbañanos, Adolfo</dc:contributor>
+    <dc:creator>Alejandre Escriche, Adrián</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>La generación de imágenes fotorrealistas es una de las principales disciplinas de la Informática Gráfica que más repercusión tiene hoy en día. Conseguir estas imágenes es un proceso complicado y pesado que requiere simular el transporte que realiza la luz por la escena. Para conseguir una simulación físicamente correcta hay que utilizar un algoritmo adecuado para recorra todos los caminos posibles que realiza la luz y modelos para representar la apariencia de los objetos que forman la escena. Los modelos que definen las propiedades de apariencia suelen estar representados por funciones n-dimensionales que pueden depender de modelos heurísticos o pueden ser datos tabulados provenientes de capturas o simulaciones. Estas funciones describen como interacciona la luz con el material y debido a la dimensionalidad de estas, tabuladas pueden requerir un alto espacio en memoria. Además, cuando los datos están tabulados, la producción de una imagen es muy costosa y ralentiza el ya de por si lento proceso de renderizar una imagen. En este proyecto, con el objetivo de acelerar la convergencia de generación de imágenes sintéticas que requieren de datos tabulados, se propone una adaptación del algoritmo Expectation-Maximization para aproximar de forma eficiente y eficaz datos físicos de la apariencia de los materiales. Generando un Gaussian Mixture Model que adapta la función tabulada mediante la suma de un conjunto de Gaussianas. Permitiendo así, realizar Importance Sampling, una técnica de muestreo que concentra los cálculos en las partes con más contribución a la imagen final, reduciendo el tiempo que necesario para obtener resultados similares.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/69860</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/69860/files/TAZ-TFG-2017-4714_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/69860/files/TAZ-TFG-2017-4714.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>Generación de imágenes sintéticas optimizadas para representaciones masivas de apariencia</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Optimized generation of synthetic images for massive appearance representation</dc:title>
+</oai_dc:dc>

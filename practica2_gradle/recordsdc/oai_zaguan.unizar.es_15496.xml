@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Santolaya Sáenz, José Luis</dc:contributor>
+    <dc:contributor>Serrano Tierz, Ana</dc:contributor>
+    <dc:creator>Marín Alcalá, Iñigo</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El estudio de este proyecto surge debido a la búsqueda de nuevas soluciones para las personas con movilidad reducida. Propone diversas opciones para que los usuarios de sillas de ruedas puedan acoplar su silla a una bicicleta, de manera que ambas puedan realizar paseos y actividades conjuntas. Se pretende crear sistemas de apoyo a través de los cuales el usuario de una silla de ruedas puede disfrutar y verse implicado como uno más sin el sumo desgaste físico que supondría hacerlo sin ningún tipo de ayuda. De acuerdo a la posición relativa ocupada por la bicicleta y la silla de ruedas se han considerado dos alternativas: 1)	Sistema Silla delante - Bicicleta detrás, para el que se ha diseñado un conjunto de acoplamiento entre el manillar de la bicicleta y el respaldo de la silla. Además se propone la posibilidad de montar un monociclo en la parte delantera de la silla de ruedas de manera que el usuario de ésta sea el encargado de la dirección del sistema. 2)	Sistema Bicicleta delante - Silla detrás, para el que se ha diseñado igualmente el acoplamiento desde eje trasero de la bicicleta hasta la estructura delantera de la silla.  Se han estudiado los tipos y características de las bicicletas y sillas existentes en el mercado para proponer soluciones adaptadas a su geometría y se ha buscado la utilización de piezas y componentes que faciliten el montaje y acoplamiento. Para cada una de las soluciones propuestas, se ha hecho el correspondiente análisis cinemático, se han analizado condiciones de carga y se han calculado tensiones en piezas críticas. Finalmente, en cada diseño se han determinado los materiales y los procesos más adecuados para poder efectuar su fabricación y se ha hecho una estimación del coste para los usuarios.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/15496</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Expresión Gráfica de la Ingeniería</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/15496/files/TAZ-TFG-2014-1191_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/15496/files/TAZ-TFG-2014-1191.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>sillas de ruedas</dc:subject>
+    <dc:subject>bicicleta</dc:subject>
+    <dc:subject>acoplamiento</dc:subject>
+    <dc:subject>adaptación a usuarios</dc:subject>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Sistemas tándem para ciclistas y usuarios de sillas de ruedas</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

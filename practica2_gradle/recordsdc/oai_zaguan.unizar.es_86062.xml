@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Miguel Salcedo, Natividad</dc:contributor>
+    <dc:contributor>Gómez Muñoz, Jairo</dc:contributor>
+    <dc:creator>León Osta, Daniel</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>La gran demanda de fertilizantes ha supuesto un aumento en la explotación de las reservas de roca fosfórica, sin embargo, éstas son limitadas y no renovables, por lo que es necesario buscar alternativas como puede ser la recuperación de fósforo de las aguas residuales en forma de fosfato. Las sales inorgánicas formadas pueden ser principalmente fosfatos de magnesio, fosfatos de calcio o hidroxiapatita (Cieślik &amp; Konieczka, 2017), siendo la estruvita la más interesante de todas ellas, por su posible uso como fertilizante. El objetivo de esta investigación es realizar un estudio sobre la recuperación de fósforo del agua procedente de la deshidratación de fangos de la EDAR de Tudela mediante su precipitación en forma de fosfato. Para ello se determinan las condiciones óptimas de operación, se realiza un trabajo experimental a escala piloto y se estima la influencia del método a escala real. Los resultados obtenidos en el laboratorio muestran rendimientos de recuperación de fósforo en torno al 90%, operando con las condiciones óptimas (pH 8.5, sin magnesio añadido, temperatura ambiente (20ºC), agitación en jar test, 1 hora de reacción). A escala piloto se obtiene aproximadamente un 80% de recuperación con estas mismas condiciones y un tiempo de reacción adecuado. Finalmente, se estima que la concentración de fósforo en el efluente de la EDAR de Tudela puede reducirse 0,6 mg P/l con este método, lo que permite mitigar la eutrofización de los cauces receptores de las aguas depuradas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/86062</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Tecnologías del Medio Ambiente</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/86062/files/TAZ-TFG-2018-1815.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ciencias Ambientales</dc:subject>
+    <dc:title>Estudio de recuperación de fósforo del agua de retorno de la deshidratación de fangos en la estación depuradora de aguas residuales de Tudela</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Study of phosphorus recovery of the returned water from sludge dehydration in the urban wastewater treatment plant of Tudela</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Olmos Gassó, Salvador</dc:contributor>
+    <dc:creator>Martínez Cortés, Juan Pablo</dc:creator>
+    <dc:date>2005</dc:date>
+    <dc:description>Las alternancias de onda T (AOT) en el ECG constituyen un índice prometedor para estratificar el riesgo de arritmias ventriculares malignas. En esta tesis se revisan los métodos planteados en la literatura proponiendo un marco de referencia unificado para su estudio. Se proponen también nuevas técnicas estadísticas de análisis basadas en modelos. Se considera para ello modelos de ruido no estacionario con distribución gaussiana generalizada que abordan el problema de forma realista, ya que el ruido presente en el ECG es leptocúrtico y no estacionario. Los métodos se han validado con señales reales con alternancia simulada. Las mejores prestaciones se obtuvieron usando detectores basados en modelos laplacianos no estacionarios, mejorando las de los métodos más utilizados en la literatura. Finalmente se ha realizado un estudio clínico en señales registradas durante una intervención de angioplastia coronaria (PTCA). Usando las metodologías propuestas se han podido caracterizar las AOT durante los primeros minutos de la isquemia aguda de miocardio, estudiando la evolución temporal del fenómeno, su forma de onda y su distribución espacial. Resumen (Aragonés) As alternanzias donda T (AOT) en o ECG son un endize prometedor ta estratificar o risque darritmias bentriculars malinnas. En ista tesis se rebisan os metodos planteyaus en a literatura proposando una bastida de referencia unificada ta o suyo estudeo. Se i proposan también nuevas tecnicas estatisticas danalís basadas en modelos. Se considera ta ixo modelos de ruido no estazionario con destribuzión gaussiana cheneralizada que samanan ta o problema de trazas reyalistas, pues o ruido present en o ECG ye leptocurtico y no estazionario. Os métodos shan balidau con siñals reyals con alternancia simulada. As millos prestazions sobtenioron fendo servir detectors basaus en modelos laplacianos no estazionarios, amillorando as dos metodos más emplegaus en a literatura. A la fin sha feito un estudeo clínico en siñals rechistraus mientres una interbenzión danchioplastia coronaria (PTCA). Emplegando as metodolochías propuestas sha puesto carauterizar as AOT en os primers menutos disquemia aguda de miocardio, estudiando a eboluzión temporal do fenómeno, a suya forma donda y a suya destribuzión espazial. </dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/1910</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/1910/files/TUZ_0022_cortes_analisis.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>Onda T</dc:subject>
+    <dc:subject>Repolarización</dc:subject>
+    <dc:subject>Alternancias de onda T</dc:subject>
+    <dc:subject>estimación</dc:subject>
+    <dc:subject>electrocardiografía</dc:subject>
+    <dc:subject>detección</dc:subject>
+    <dc:subject>ECG</dc:subject>
+    <dc:title>Análisis de alternancias de onda T en la señal electrocardiográfica.</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Laguna Bercero, Miguel Ángel</dc:contributor>
+    <dc:contributor>Monzón Alcázar, Hernán</dc:contributor>
+    <dc:creator>Pinós Santafé, Javier</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El objetivo del presente trabajo es la optimización y caracterización de una capa de ánodo funcional como mejora para pilas de combustible de óxido sólido microtubulares. Mediante la implementación de esta capa se pretende reducir la resistencia de activación presente en el ánodo de este tipo de dispositivos. Para realizar dicho objetivo se propone optimizar el proceso de deposición de una capa fina de 10 - 20 micras de espesor sobre un soporte anódico, así como la composición y microestructura de dicha capa. Para ello será necesario, en primer lugar, fabricar pastas cerámicas con las que posteriormente se realizará la deposición de dichas pastas mediante dip-coating sobre los soportes anódicos.  Una vez seleccionados los parámetros óptimos de dicha capa funcional, se procederá a la fabricación de la celda completa. Adicionalmente se fabricarán celdas de referencia sin capa funcional que permitirán establecer una comparativa de los efectos de la capa. La comparativa se realizará en base a una serie de experimentos, como son la observación mediante microscopía electrónica y diversas técnicas de caracterización electroquímica, fundamentalmente curvas densidad de corriente/ voltaje y espectroscopia de impedancia. Se observarán los efectos que produce la capa funcional para poder evaluar la utilidad de la misma dentro de las pilas de combustible de óxido sólido.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/11996</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Ciencia de los Materiales e Ingeniería Metalúrgica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/11996/files/TAZ-PFC-2013-488.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>sofc</dc:subject>
+    <dc:subject>microtubular</dc:subject>
+    <dc:subject>ánodo</dc:subject>
+    <dc:subject>ni-ysz</dc:subject>
+    <dc:subject>Ingeniero Químico</dc:subject>
+    <dc:title>Optimización de capas funcionales del ánodo para pilas de combustible de óxido sólido microtubulares</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

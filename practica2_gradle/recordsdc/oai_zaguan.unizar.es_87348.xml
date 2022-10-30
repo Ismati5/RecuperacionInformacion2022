@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Samplón Chalmeta, Miguel</dc:contributor>
+    <dc:creator>Sullca Trillo, Julio Sebastián</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Un estudio exterior a este proyecto desea conocer cómo afecta a la medida de corriente la posición relativa entre el conductor por el que circula la corriente y una pinza amperimétrica. Para ello se usará una espira, la cual conducirá una corriente conocida y la trasladaremos a varias posiciones dentro del instrumento. El objetivo del proyecto es la construcción de una máquina capaz de llevar a cabo esta labor. Es decir, se trasladará la espira a una posición dada en el interior de la pinza.&lt;br /&gt;La primera parte del proyecto, y la más larga, consistirá en la construcción del prototipo de posicionador. Hasta obtenerlo pasaremos por diversos estadios. Empezando por la construcción de un solo eje que servirá como banco de pruebas; este nos dará una visión más amplia de lo que queremos conseguir y nos ayudará a concretar un primer diseño. El segundo estadio consiste en elaborar éste primer diseño a partir de las conclusiones extraídas del primer estadio. Este diseño se planteará desde un punto de vista teórico y será el que finalmente se ejecute. La última parte consiste en el montaje del prototipo. Durante el cual fueron surgiendo varios problemas e imprevistos que no se tuvieron en cuenta en el diseño y a los que se les dará solución. Informaremos de ellos para tenerlos en cuenta en el futuro.&lt;br /&gt;La segunda parte del proyecto se lleva a cabo una vez que el prototipo es funcional. Se hará un estudio de calibración al posicionamiento del cual pretendemos obtener una estimación de la corrección o el sesgo e incertidumbre &lt;br /&gt;El proyecto da solución a un problema de posicionamiento y sienta las bases para proyectos de posicionamiento posteriores.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87348</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87348/files/TAZ-TFG-2019-4461.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Diseño y construcción de un posicionador de coordenadas para la calibración de pinzas amperimétricas</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Design and develop of a coordinate positioner for current clamp meter calibration purpouses</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Porta Royo, Luis</dc:contributor>
+    <dc:creator>Lambán Cosculluela, César</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>El presente proyecto consiste en el diseño de un driver de potencia, para el control de una matriz de leds RGBW. Esta matriz a su vez, está controlada por una placa Arduino, con una aplicación de Windows para su control y visualización en PC. Este driver además de controlar la cantidad de iluminación de cada uno de los canales de la matriz (rojo, verde, azul o blanco), controla la temperatura de la misma, para evitar posibles daños por un sobrecalentamiento excesivo. Una de las principales aplicaciones de estas matrices de leds, es la utilización como luces espectaculares y ambientales, donde soportan varias horas de servicio ininterrumpido, dando lugar a la posible situación de sobrecalentamiento. El proyecto ha sido íntegramente elaborado en la Escuela de Ingeniería y Arquitectura de la Universidad de Zaragoza.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/37195</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/37195/files/TAZ-PFC-2015-126.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/37195/files/TAZ-PFC-2015-126_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electrónica Industrial)</dc:subject>
+    <dc:title>Driver para matriz de leds RGBW</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

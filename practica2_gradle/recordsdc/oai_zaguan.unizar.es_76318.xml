@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Karlsson, Björn</dc:contributor>
+    <dc:contributor>Serra de Renobales, Luis María</dc:contributor>
+    <dc:creator>Compadre Senar, David</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>The current energy situation is taking a turn towards renewable energies, due to the new pacts to curb global warming. These agreements, together with governmental aid, are facilitating an escalation in the production and improvement of new energy systems and the price decrease due to a larger-scale production. Within these energy alternatives, solar energy is found, specifically the subject to be treated in this project is photovoltaic energy, due to its exponential growth in the last 10 years, new tools are being developed for its monitoring and modelling. Therefore, the main objective of this thesis is to develop a method  for installation testing of a PV-system. The method should give the installed nominal power of the system and show if the maximum power point trackers work as expected. A large PV-system was installed on the roof of Gävle Arenaby during 2017. A measurement system for monitoring of the power of the system and of the solar irradiance was installed. Different parameters have been taken into account for the adjustment of the model that vary the performance of the system. These factors are: the irradiance received, the module temperature and the angle of incidence. It has been concluded that the results obtained indicate a correct adjustment of the theoretical power against the real power, which means, a correct operation of the generated model. Besides, the expected power follows a linear trend, reaching the power set by the manufacturer for Standard Test Conditions. The results show that the monitored modules-strings fulffill the promised performance and the method for installation testing work as expected. The linear correlation between corrected power and irradiance means that the maximum power point tracker in the inverter works independent of the power.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76318</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76318/files/TAZ-TFM-2018-134.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Industrial</dc:subject>
+    <dc:title>Evaluación del comportamiento de una planta de energía solar fotovoltaica en la azotea del edificio Gävle Arenaby (Gävle, Suecia): Pruebas de instalación</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Performance evaluation of a rooptop solar photovoltaic power plant in the Gävle Arenaby (Gävle, Sweden): Installation testing</dc:title>
+</oai_dc:dc>

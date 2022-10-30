@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Monné Bailo, Carlos</dc:contributor>
+    <dc:creator>Jarauta Zarza, Ana</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El presente Proyecto Fin de Grado de Tecnologías Industriales de la Escuela de Ingeniería y Arquitectura de la Universidad de Zaragoza, Análisis del cambio horario (DST) y su incidencia en el Ahorro Energético, estudia la problemática del cambio de hora respecto al ahorro de energía. Este término también es conocido como Daylight Saving Time (DST). Se trata de comprobar si dicho ahorro se ve reflejado económicamente en la factura de la luz, o por el contrario si se aumenta, o se mantiene constante los consumos energéticos. La finalidad del proyecto es analizar energéticamente estas modificaciones horarias para estimar si realmente se obtiene un ahorro energético o no para la sociedad en la que vivimos. Para ello se ha estudiado el estado del arte del Daylight Saving Time (DST) observando los diferentes resultados en diversos países y las diferentes metodologías para saber cuál podría ser la más apropiada, observando que el método de diferencias de diferencia es el más adecuado con ligeros cambios como separar estudio de días laborables de fines de semana y festivos. Posteriormente se ha recopilado datos de consumo energético de diversos países del continente europeo. Se han elegido de manera que se representen en el estudio, tanto el norte de Europa (Países Nórdicos y Dinamarca), como el centro (Bélgica, Francia, Alemania y Países Bajos), y el sur (España), desde el año 2007 al 2013. El estudio que se va a llevar a cabo mediante un análisis estadístico con datos de dos semanas anteriores y posteriores al DST. También se hace distinción entre días laborables y fines de semana y festivos, todos estos días divididos en tres periodos, uno de mañana de 7h a 15h, uno de tarde de 15h a 23h y uno de noche de 23h a 7h. Sin tener en cuenta razones psicológicas que afectan a los seres humanos los días posteriores a estos cambios. Obteniendo conclusiones de tal manera que haciendo la comparación entre el cambio de Marzo-Abril (horario de verano) y Octubre-Noviembre (horario de invierno) para los diferentes resultados obtenidos, se considera que no se ahorra energía ya que lo que se consigue ahorrar con el horario de verano, se consume con el horario de invierno. Todo ello teniendo en cuenta el efecto que hace en los datos la crisis económica sobre todo en los años 2007, 2008 y 2009 ya que aumentan los costes de producción de la electricidad y de las manufacturas, por lo que lleva a los consumidores a reducir sus gastos y a una menor confianza.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31536</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31536/files/TAZ-TFG-2014-1872.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/31536/files/TAZ-TFG-2014-1872_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>energía</dc:subject>
+    <dc:subject>ahorro energético</dc:subject>
+    <dc:subject>cambio horario</dc:subject>
+    <dc:subject>dst</dc:subject>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Análisis del cambio horario (Daylight Saving Time) y su incidencia en el ahorro energético</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Colom Piazuelo, José Manuel</dc:contributor>
+    <dc:creator>Requeno Jarabo, José Ignacio</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>El análisis filogenético es la rama de la bioinformática que se encarga de estudiar la clasificación de un conjunto de especies distintas en función de su relación de proximidad evolutiva. La metodología de trabajo que sigue actualmente es muy “ad-hoc”; es decir, cuando especificamos una nueva propiedad biológica o añadimos otra especie al modelo necesitamos reimplementar el algoritmo de verificación para que considere los nuevos datos. Para solucionarlo, nuestra aproximación trata de sistematizar el método de trabajo en el análisis filogenético, además de reaprovechar conceptos y métodos consolidados en otras áreas de análisis de sistemas. Para ello proponemos el uso de “model checking”, una técnica de verificación automática madura en el mundo de la verificación.  Nuestra aproximación se sustenta sobre tres pilares principales. Primero, el modelado de la dinámica evolutiva es análogamente equivalente al modelado de un sistema de transiciones, donde las características biológicas de las especies (ADN, fenotipo, etc) definen las variables de los estados; y la mutación o salto entre especies se corresponde con la ejecución de una transición. Segundo, el uso de lógicas temporales sistematiza el proceso de formulación y aporta formalismo a la especificación de propiedades filogenéticas. Por último, la verificación de estas fórmulas se realiza de manera automática por cualquiera de las herramientas informáticas existentes, devolviendo un contraejemplo en el caso de resultar falsas. Además de la aportación teórica, hemos evaluado empíricamente las prestaciones del sistema sobre una herramienta software de model checking real: SMV. Esta tecnología ha demostrado ser viable cuando trabaja aisladamente con genes o fragmentos de ADNmt, ya que su tamaño no es excesivamente grande. Sin embargo, su coste temporal escala cuadráticamente con la longitud de las secuencias, mientras que el consumo de memoria crece linealmente hasta alcanzar más de 2,5 GBytes en el caso peor. Por estos motivos, en estudios filogenéticos futuros sobre el ADNmt completo (o el ADN nuclear, que es más grande) será necesario paralelizar y componer la solución a partir de los resultados parciales. También se ha propuesto una estructura de datos basada en los diagramas de decisión para manejar cadenas de ADNmt de forma más eficiente en memoria a cómo se realiza en la actualidad.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5302</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5302/files/TAZ-TFM-2010-075.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Análisis filogenético</dc:subject>
+    <dc:subject>Verificación formal</dc:subject>
+    <dc:subject>Lógica temporal</dc:subject>
+    <dc:subject>Model checking</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Análisis filogenético mediante lógica temporal y model checking</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

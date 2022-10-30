@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Santillán Lázaro, Ángel</dc:contributor>
+    <dc:creator>Calvo Medrano, Javier</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El presente proyecto de tipo B, tiene por objeto llevar a cabo un análisis técnico de la implantación de distintas tecnologías fotovoltaicas en un terreno dado, con el fin último de generar energía eléctrica para su venta a la red de distribución en alta tensión. El enfoque principal del proyecto se centrará en analizar y diseñar las distintas tipologías más comunes de la generación de energía eléctrica con origen fotovoltaico; en lo referente a sistemas de seguimiento solar o estructuras fijas. No se pretende realizar un estudio comparativo de los módulos fotovoltaicos existentes en el mercado aunque si se expondrán las características del estado del arte de módulos actuales. Una vez realizadas las simulaciones y diseños de las instalaciones generadoras, se procederá a ejecutar el diseño de las infraestructuras de evacuación en alta tensión de la energía generada en un punto ficticio de la red de distribución en alta tensión. Por último, el proyecto contemplará una guía administrativa de los trámites y pasos a seguir desde el diseño hasta la puesta en marcha de una instalación fotovoltaica. Las instalaciones diseñadas no estarán ubicadas en un emplazamiento en particular, si bien es cierto que a efectos de cálculo y diseño se realizarán siguiendo las condiciones climáticas, administrativas y técnicas de la ciudad de Zaragoza.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5643</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5643/files/TAZ-PFC-2011-095.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5643/files/TAZ-PFC-2011-095_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electricidad)</dc:subject>
+    <dc:title>Diseño y análisis de instalación fotovoltaica conectada a red de 500 kWn</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

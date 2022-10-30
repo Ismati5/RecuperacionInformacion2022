@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Civera Sancho, Javier</dc:contributor>
+    <dc:creator>Escorihuela Miravet, Santiago</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>La visión por computador es la disciplina cuyo objetivo se suele plantear como "que un ordenador pueda ver". La definición de "ver" es bastante compleja, puesto que todos los mecanismos de la visión humana todavía no están bien entendidos. Pero sin duda alguna, uno de los aspectos que involucra la visión humana y que ha sido objeto de estudio por la visión por computador es el reconocimiento de escenas. En dicho problema, un computador recibe una imagen y debe clasificarla según la escena en la que ha sido tomada (parque, oficina, aeropuerto...). Uno de los aspectos más importantes en el reconocimiento de imágenes es cómo describir el contenido de la imagen. Algebráicamente, un descriptor suele ser un vector de números reales más o menos complejo de extraer a partir de la imagen. Idealmente, dicho descriptor debería contener la información necesaria para clasificar la escena de la imagen. En el estado actual de la técnica, las tasas de reconocimiento visual de escenas son bastante bajas y el problema dista mucho de estar resuelto y es objeto de investigación. Un problema de algunos descriptores es la cantidad de cómputo necesario para extraerlos y evaluarlos y la memoria requerida para almacenarlos. Este problema es muy relevante cuando las bases de datos de imágenes adquieren tamaños muy grandes, como Google Images o las imágenes de Facebook. En estas bases de datos, cualquier mejora en tiempo o almacenamiento conlleva un gran ahorro. El objetivo del proyecto es la propuesta de un descriptor binario y global para la clasificación de imágenes. La ventaja de este descriptor respecto a otros es en tiempo de cómputo y almacenamiento: Las operaciones binarias pueden realizarse muy rápidamente en los procesadores actuales. Y un número binario ocupa 1 bit, mientras que un real ocupa como mínimo 32 bits. Además de la propuesta, evaluaremos el comportamiento del descriptor en una base de datos estándar de visión por computador (SUN database) y lo compararemos con el descriptor más similar (Tiny Image). En dicha evaluación exploraremos diferentes configuraciones del descriptor para encontrar la configuración óptima y poder compararla con un descriptor del estado del arte.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10569</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10569/files/TAZ-PFC-2013-257.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>visión por computador</dc:subject>
+    <dc:subject>reconocimiento de escenas</dc:subject>
+    <dc:subject>descriptores de imagen</dc:subject>
+    <dc:subject>descriptores binarios</dc:subject>
+    <dc:subject>clasificación</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Descriptores globales binarios para el reconocimiento de imágenes</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Casas Nebra, Roberto José</dc:contributor>
+    <dc:creator>Ayerbe Monclús, Gonzalo</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>En la actualidad, el uso de dispositivos wearable que utilizan transductores piezoeléctricos como Energy Harvesting para autoalimentarse, evitando así el uso de baterías y su contaminación, se multiplica exponencialmente. Esto se debe a su bajo nivel de consumo de energía y su reducido tamaño. La variedad de formas de recolección de esta energía es muy amplia, pero destacaremos la marcha humana, la energía que se desprende al caminar o correr.&lt;br /&gt;En este trabajo se ha analizado la situación actual, recabando información de la piezoelectricidad y de los piezoeléctricos. Se han comparado numerosos ejemplos de utilización de diferentes piezoeléctricos en diferentes formas de recolección. Se ha tratado de escoger los más eficientes para la aplicación a la marcha humana, dentro de las nuestras posibilidades tanto por precio como por tiempo. Los piezoeléctricos seleccionados se han caracterizado y utilizado para realizar las diferentes mediciones. Se han analizado los circuitos de acondicionamiento que habitualmente se utilizan y se ha elegido el módulo más adecuado para nuestra aplicación. Con los diferentes piezoeléctricos y las posibles configuraciones del módulo de acondicionamiento se han realizado diversas simulaciones y mediciones tratando siempre de maximizar la generación de energía y de optimizar su almacenamiento. Se ha diseñado un prototipo PCB en el que se ha añadido un regulador de tensión para adaptarlo a los dispositivos wearable para los que está diseñado. Esta placa no se ha fabricado, pero nos da una idea del prototipo final, su tamaño y su adaptabilidad al calzado convencional.&lt;br /&gt;El resultado final es un conjunto de conclusiones a cerca del circuito y de los componentes que lo integran, que optimizan todo el proceso desde la generación hasta la alimentación, pasando por el almacenamiento. &lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/85215</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/85215/files/TAZ-TFG-2019-2913.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/85215/files/TAZ-TFG-2019-2913_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Electrónica y Automática</dc:subject>
+    <dc:title>Diseño de un sistema de alimentación de un dispositivo portátil por recolección de energía de la pisada</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Design of a power supply system for a wearable by harvesting energy of the tread</dc:title>
+</oai_dc:dc>

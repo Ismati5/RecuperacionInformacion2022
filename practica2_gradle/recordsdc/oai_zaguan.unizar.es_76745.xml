@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Vázquez Lapuente, Manuel</dc:contributor>
+    <dc:contributor>Jiménez Seral, Paz</dc:contributor>
+    <dc:creator>Ayerra Balduz, Irene</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>Estudio de la teoría algebraica de curvas elípticas. Aplicación a la criptografía de clave pública, en concreto, a la curva de WhatsApp.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76745</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Matemáticas; Área de Algebra</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76745/files/TAZ-TFG-2018-3214.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Matemáticas</dc:subject>
+    <dc:title>Criptografía y curvas elípticas. La curva WhatsApp</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Cryptography and Elliptic Curves. The WhatsApp Curve</dc:title>
+</oai_dc:dc>

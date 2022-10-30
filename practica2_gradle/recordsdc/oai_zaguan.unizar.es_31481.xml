@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Martínez Perez, Arantza</dc:contributor>
+    <dc:contributor>Aísa Arenaz, Jorge</dc:contributor>
+    <dc:creator>Martín Gil, Julia</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El presente Trabajo Fin de Grado resume la labor de diseño y desarrollo de un cubo para recogida de residuos urbanos de 240 litros,  así como el diseño estético de una tapa para dicho cubo. La finalidad es actualizar la línea de producto que ya se encuentra en la calle.   Este proyecto se ha desarrollado dentro del TIIP (Taller de Inyección de la Industria del Plástico) del departamento de Ingeniería Mecánica de la EINA, el cual tiene una gran experiencia en el desarrollo de elementos de plástico. El objetivo general del proyecto  es encontrar un diseño estético acorde con la línea de mercado a la vez que se resuelven  las limitaciones mecánicas y de fabricación del cubo. Además se pretende un peso de cubo menor del que tienen cubos actuales.  El resultado final de este proyecto es la aplicación de una metodología adquirida en el propio Grado de Diseño: recopilación de información y documentación, generación de conceptos para su posterior desarrollo y resultado final. Para el correcto desarrollo de este cubo en concreto, se han añadido los estudios y análisis pertinentes propios del cálculo de piezas plásticas, como son las simulaciones de inyección (con el software MOLDFLOW) y ensayos mecánicos (con el software PRO-ENGINEER). En cuanto al desarrollo del producto en sí, el cubo consta de dos piezas: cuerpo y tapa. Se realiza el diseño estético de ambos, partiendo del cuerpo para posteriormente crear 3 líneas diferentes de tapa. Se ha tenido en cuenta que hay elementos adicionales como las ruedas que montan sobre el cuerpo, o el ensamblaje mediante clips cilíndricos que hacen las veces de bisagras entre cuerpo y tapa. Paralelamente al diseño estético del cuerpo, se trabaja en su desarrollo, siempre cumpliendo la normativa para cubos UNE EN-840-1, y asegurando su resistencia, fabricabilidad y funcionalidad mediante análisis FEM. Dado que el grado del material para fabricar el producto no está especificado de antemano, se ha trabajado con dos polietilenos, uno más fluido que el otro. Este hecho ha llevado a un resultado diferente en cuanto a espesores de pieza y por tanto, ha generado diferencias en las evaluaciones resistentes y la estimación de costes.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31481</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería Mecánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31481/files/TAZ-TFG-2014-2475.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/31481/files/TAZ-TFG-2014-2475_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>diseño en plástico</dc:subject>
+    <dc:subject>simulación mecánica</dc:subject>
+    <dc:subject>simulación inyección</dc:subject>
+    <dc:subject>polietileno</dc:subject>
+    <dc:subject>contenedor carga trasera</dc:subject>
+    <dc:subject>Graduado en Ingeniería en Diseño Industrial y Desarrollo de Producto</dc:subject>
+    <dc:title>Diseño y desarrollo de un cubo para residuo urbano, de dos ruedas, capacidad de 240 l. e inyectado en polietileno</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

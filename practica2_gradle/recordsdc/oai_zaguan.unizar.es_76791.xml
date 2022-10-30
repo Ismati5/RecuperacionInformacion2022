@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Pinilla Ibarz, José Luis</dc:contributor>
+    <dc:contributor>Barberá Gracia, Joaquín</dc:contributor>
+    <dc:creator>Pueyo Acin, Alvaro</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>La actual preocupación por el agotamiento de los recursos fósiles impulsa la búsqueda de fuentes alternativas de origen renovable, entre los cuales la celulosa posee un gran potencial de aprovechamiento. Una de las vías para su conversión se basa en el empleo de sistemas catalíticos multifuncionales que operan en procesos one-pot (varias reacciones ocurren de manera consecutiva en un mismo reactor). Se ha estudiado el caso de la hidrogenación hidrolítica de celulosa a sorbitol mediante catalizadores heterogéneos bifuncionales, que combinan la acidez del soporte (nanofibras de carbono (CNF)) para favorecer la hidrolisis, y partículas metálicas de Ni que catalizan la reacción de hidrogenación. Con objeto de mejorar la capacidad de hidrogenación del Ni se prepararon diferentes combinaciones bimetálicas Ni-metal noble (Ru, Pt, Pd) soportadas sobre CNF oxidadas (CNFox) con una carga metálica teórica del 3% en Ni y 0,5% en metal noble (% peso). Los catalizadores obtenidos se caracterizaron por diversas técnicas: reducción a temperatura programada (TPR), difracción de Rayos-X (XRD), espectroscopia fotoelectronica de Rayos-X (XPS) y microscopia electrónica de transmisión (TEM), su actividad se evaluó en la hidrogenación hidrolítica de un compuesto modelo (celobiosa) a 180ºC y 3h, comparándola con sus respectivos componentes monometálicos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76791</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Orgánica; Área de Química Orgánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76791/files/TAZ-TFG-2018-3102.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Química</dc:subject>
+    <dc:title>Conversión one-pot de celulosa en productos de valor añadido mediante catalizadores bifuncionales basados en materiales de carbono nanoestructurados</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Cellulose one-pot conversion into added value compounds using bifunctional catalysts based on nanostructured carbon materials</dc:title>
+</oai_dc:dc>

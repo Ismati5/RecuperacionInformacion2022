@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Moreno Jiménez, José María</dc:contributor>
+    <dc:creator>Pina Beatove, Jesús</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Hoy en día prácticamente todo se mide en función de un aspecto: el valor económico. La importancia o relevancia de un bien depende de dicho valor y es por esto que en los últimos tiempos uno de los campos de investigación en los que se ha avanzado considerablemente ha sido en los métodos de valoración de activos.Las cuestiones relacionadas con la valoración que se intentan responder en este trabajo son: ¿Cuál es el valor de mercado de un equipo de fútbol? ¿En qué hay que basarse para determinar cuánto se debería pagar por uno de estos clubes? El principal objetivo de este documento es la creación de un modelo para valorar una sociedad anónima deportiva, no sólo añadiendo a la valoración los aspectos intangibles de un club, sino dándoles una mayor relevancia debido al tipo de empresa que se estudia en este trabajo. Esta valoración se realizará mediante el Proceso de Análisis Jerárquico. Para ello será necesario identificar y analizar las variables que aportan la totalidad del valor de un club deportivo. Estas variables deberán ser ponderadas y priorizadas por un experto. En el caso de este documento, esta labor será llevada a cabo por el autor del mismo. Una vez creado el modelo, será utilizado en el caso concreto del Real Zaragoza, SAD, para determinar su valor real de mercado.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/17127</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Métodos Estadísticos; Área de Estadística e Investigación Operativa</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/17127/files/TAZ-TFG-2014-2308.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>valoración multicriterio</dc:subject>
+    <dc:subject>valoración de equipos de fútbol</dc:subject>
+    <dc:subject>valoración sad</dc:subject>
+    <dc:subject>ahp</dc:subject>
+    <dc:subject>valor económico</dc:subject>
+    <dc:subject>Graduado en Administración y Dirección de Empresas</dc:subject>
+    <dc:title>Valoración económica de equipos de fútbol con metodología AHP</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

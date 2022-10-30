@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ratón Arjona, Víctor</dc:contributor>
+    <dc:contributor>Zarazaga Soria, Francisco Javier</dc:contributor>
+    <dc:creator>Redrado Martínez, Jessica</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>En este proyecto se ha creado la solución web ADM (Asseco Device Management). El servicio ADM es una solución global a las necesidades de gestión, monitorización y seguridad de dispositivos móviles (tablets, smartphones) en empresas. El proyecto ha sido desarrollado en Asseco Spain, una de las principales compañías de servicios y desarrollo IT a nivel nacional, especialista en la gestión de Grandes Despliegues y Soluciones de Negocio en ámbitos IT. La presencia de sus soluciones en el mercado la posicionan como uno de los diez primeros vendedores de software en Europa. El sistema desarrollado en este proyecto está destinado principalmente a los encargados de tener controlados y monitorizados los dispositivos de cada uno de los trabajadores de la empresa, reduciendo los riesgos de seguridad del negocio y reduciendo a su vez los costes. ADM simplifica el caos que supone implementar y administrar un elevado número de dispositivos móviles en la empresa en tiempo real. La plataforma ADM de Asseco Spain permite a las empresas: 1.	Tomar el control: Controlar las operaciones de dispositivos móviles con rapidez. 2.	Reducir costes: Acabar con los sustos de las facturas, reducir el importe del consumo inalámbrico y el plan de datos hasta un 20%. 3.	Fomentar el autocontrol y la productividad con servicios como la visibilidad de uso y la oferta de aplicaciones de la empresa. La mayoría de las empresas tienen una visión insuficiente de lo que hay en un dispositivo móvil y cómo se utiliza. La arquitectura exclusiva de ADM elimina este punto ciego. La plataforma Asseco Device Management se presenta como un software de servidor virtual fácil de instalar o bien como un complemento opcional que se conecta a una red empresarial y permite a nuestros clientes tomar el control con rapidez de sus operaciones con dispositivos. La plataforma ADM es una solución que facilita la administración de dispositivos móviles en tiempo real, así como el control de costes. Es integrable en los sistemas existentes, devuelve el control de los dispositivos móviles a la empresa, permite la gestión remota sobre dispositivos (bloqueo / borrado / gestión apps), ofrece homogeneidad en políticas de seguridad además del cumplimiento de normativas corporativas y el apoyo y soporte en tiempo real a usuarios. Un MDM o Mobile Device Management es un tipo de software que permite asegurar, monitorear y administrar dispositivos móviles sin importar el operador de telefonía o proveedor de servicios.  El trabajo realizado a lo largo del proyecto ha requerido un esfuerzo extra en los siguientes puntos: la investigación de las tecnologías actuales de MDM, el análisis de la herramienta base a construir en la que lo principal era entender qué datos necesitan los administradores de los dispositivos móviles para intentar mostrar y hacer que la forma de la gestión o de la monitorización de los mismos fuera de la forma más intuitiva y sencilla posible para ellos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31572</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31572/files/TAZ-PFC-2014-557.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>movilidad</dc:subject>
+    <dc:subject>smatphones</dc:subject>
+    <dc:subject>tablets</dc:subject>
+    <dc:subject>dispositivos móviles</dc:subject>
+    <dc:subject>solución web</dc:subject>
+    <dc:subject>mdm</dc:subject>
+    <dc:subject>adm</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Solución web usable para la gestión de dispositivos móviles en empresas</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

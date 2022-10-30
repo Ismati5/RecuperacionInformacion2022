@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sanz Alcober, Antonio</dc:contributor>
+    <dc:contributor>Salazar Riaño, José Luis</dc:contributor>
+    <dc:creator>Ramírez Vega, José Carlos</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>Diseñar un plan de mejora en la detección de malware,  a través de la adaptación de software existente para analizar sistemáticamente el comportamiento de archivos, usando una máquina virtual y/o sandbox que imite un sistema real. El malware actual intenta detectar si está dentro de una máquina virtual y/o sandbox empleando distintas técnicas, para quedar inactivo en lugar de desplegar su actividad maligna, evitando de esta forma su detección en estos sistemas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/48229</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingeniería Telemática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/48229/files/TAZ-TFG-2015-3399.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías y Servicios de Telecomunicación</dc:subject>
+    <dc:title>Mejora de la detección de malware mediante la modificación profunda de sistemas de sandboxing</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

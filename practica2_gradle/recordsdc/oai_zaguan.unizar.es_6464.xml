@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Renault, Éric</dc:contributor>
+    <dc:contributor>Nogueras Iso, Francisco Javier</dc:contributor>
+    <dc:creator>Pérez Felices, Bárbara</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Este proyecto se ha desarrollado en la universidad francesa Telecom SudParis, formando parte del proyecto de la Unión Europea MOBESENS (Mobility for Long Term Water Quality Monitoring) cuyo objetivo es la creación de una infraestructura completa que permita vigilar y monitorizar una zona acuática dada, mediante sensores, con fines medioambientales. El objetivo del presente proyecto ha sido diseñar, desarrollar e implementar una aplicación de monitorización ergonómica y eficaz a fin de vigilar la actividad de los sensores y las medidas efectuadas por ellos vía web. Ofreciendo la posibilidad al operador de reaccionar frente a los problemas eventuales que puedan sobrevenir en este tipo de medio acuático. Las líneas principales de trabajo en este proyecto han sido las siguientes: -Definición de un modelo de datos que permita representar toda la información recogida por los sensores acuáticos. Como formato de intercambio de la información de los sensores se propone la utilización de XML. -Gestión y almacenamiento de los documentos XML (que guardan la información de los sensores) a través de una base de datos nativa XML que soporta xQuery como lenguaje de consulta. -Creación de un simulador que genere la información de los sensores y los almacene en la base de datos nativa. En las primeras fases del proyecto MOBESENS no se dispone todavía de todos los dispositivos físicos de los sensores, y se hace necesario simular un entorno real que permita avanzar en el desarrollo de la infraestructura. -Desarrollo de una aplicación de monitorización, mediante tecnologías web, que llevará a cabo las siguientes funciones: determinación geográfica de la posición de los sensores, así como de su movimiento en tiempo real; especificación de los valores de las medidas realizadas por los sensores; y análisis de dichas medidas mediante un sistema de creación de gráficos históricos. Para la realización del proyecto, se han utilizado las siguientes herramientas: ICEfaces y SDK Eclipse como entornos de programación para Java y aplicaciones web dinámicas; el API de Google Maps para la integración del dispositivo de localización geográfica de los sensores; el API de Google Charts para la creación del sistema de gráficos; y  eXistDB y Tahoe LAFs para la gestión de la base de datos nativa.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6464</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6464/files/TAZ-PFC-2011-608_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6464/files/TAZ-PFC-2011-608.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>aplicación web</dc:subject>
+    <dc:subject>base de datos nativa xml</dc:subject>
+    <dc:subject>sensores</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicaciones</dc:subject>
+    <dc:title>Visualización y seguimiento via web de sensores en medios acuáticos</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Franco Gimeno, José Manuel</dc:contributor>
+    <dc:creator>Valdivia Sánchez, Juan Jesús</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>En el presente trabajo se pretende cubrir el planteamiento, diseño y verificación de una matriz de extrusión, dando solución al proceso de fabricación de la misma y su puesta a punto en prensa. Se parte de un perfil dado, a implementar en una matriz con dos salidas. En el proceso de diseño de la misma se contemplan las dilataciones y deformación del perfil desde su salida de la matriz hasta la temperatura ambiente, teniéndolo en cuenta en el dimensionado del perfil. Es implementada a su vez en la salida del perfil un espesor de contacto con el aluminio de espesor variable para la regulación de la velocidad de la tira extruida, además del diseño del SINK-IN. Para la verificación de la matriz se ha propuesto una simulación de la placa de extrusión en la cual se verifican las tensiones y los giros producidos en las zonas de mayor desplazamiento y una simulación FEM no lineal con la que se pretende comparar los efectos producidos al variar un parámetro de salida. Proceso de fabricación de la matriz partiendo del acero en bruto hasta la puesta a punto en máquina.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/48514</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/48514/files/TAZ-TFG-2016-023.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Diseño y fabricación de matriz para extrusión</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sagüés Blázquiz, Carlos</dc:contributor>
+    <dc:creator>Tierz López, Javier</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Con el objetivo de encontrar una relación más intuitiva entre personas y ordenadores, en los últimos años se han producido grandes avances en el estudio y aplicación de la interacción hombre-máquina (HCI, Human Computer Interaction). En esta área se ubican el reconocimiento de voz, las pantallas táctiles de smartphones y tablets y el reconocimiento gestual, presente para el gran público a raíz de la salida al mercado de varios dispositivos en el campo del entretenimiento. En este contexto, a principios de 2013 empezó a venderse el dispositivo Leap Motion, que ha supuesto una pequeña revolución en el mundo de la HCI. Es de destacar por su gran precisión, pequeño tamaño y bajo coste. Frente a otros dispositivos, que hacen el tracking en un entorno más amplio, de un cuerpo entero, y a una distancia de un metro o algo más, el Leap permite exclusivamente el tracking de dedos y manos.   En el presente Trabajo Fin de Máster se realiza un estudio del Leap, analizando las posibilidades de desarrollo que ofrece e implementando gestos que sean sencillos de realizar, pero a la vez precisos, para hacer el sistema robusto. Asimismo, se elabora un vocabulario gestual y se aplica a un caso práctico: una cocina de inducción.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12916</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12916/files/TAZ-TFM-2013-1096.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>gesture recognition</dc:subject>
+    <dc:subject>leap motion</dc:subject>
+    <dc:subject>artificial intelligence</dc:subject>
+    <dc:subject>man-machine interface</dc:subject>
+    <dc:subject>range sensor</dc:subject>
+    <dc:subject>Máster Universitario en Ingeniería de Sistemas e Informática</dc:subject>
+    <dc:title>Reconocimiento e interpretación de gestos con dispositivo Leap</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

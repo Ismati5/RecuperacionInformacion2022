@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Lassen, Benny</dc:contributor>
+    <dc:contributor>Artigas Maestre, José Ignacio</dc:contributor>
+    <dc:creator>Forcada Pardo, Antonio</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>Hoy en día la mayoría de los sistemas de ventilación en uso se calibran manualmente. Teniendo en cuenta esto con la necesidad de asegurar buena ventilación en todas las oficinas, normalmente los sistemas funcionan a mayor capacidad de la necesaria. Debido a esto se puede conseguir ahorrar energía introduciendo estrategias de control con la objetivo de asegurar una buena ventilación  al mínimo consumo. Para lograr esto, sistemas de ventilación con válvulas controlables han sido consideradas en este proyecto. Estrategias de control optimas dan los requerimientos necesarios con el mínimo consumo de energía para cada situación. Para realizar este control, el primer paso es saber las ecuaciones del sistema y como funcionan estos sistemas. Para implementar el control tienen que conocerse los parámetros que lo gobiernan. Algunos parámetros como los de los ventiladores y las válvulas son conocidos pero otros como las perdidas de carga en las tuberías pueden no ser conocidos. Por lo tanto los parámetros no conocidos tienen que ser estimados. En este proyecto el objetivo es diseñar como estimar los parámetros de sistemas de ventilación. Cuando los parámetros son conocidos, el sistema puede ser conducido a trabajar con un mínimo consumo para cada situación. De esta manera se alcanzará mayor eficiencia en estos sistemas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/47645</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/47645/files/TAZ-TFG-2015-1625.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Optimal control of ventilation system</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

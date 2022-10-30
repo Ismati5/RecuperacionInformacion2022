@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Nievas López, Javier</dc:contributor>
+    <dc:creator>Alvarez Moya, Lucía</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>La obtención y medida del PIB potencial tiene interés tanto desde el punto de vista económico como metodológico, ya que nos informa de si las capacidades económicas de un país están bien usadas o existen recursos sin utilizar. Según la literatura hay dos enfoques para calcular el PIB potencial. Uno de los enfoque es que el PIB potencial es aquel que se alcanza utilizando todos los factores productivos al máximo nivel posible. El segundo enfoque lo considera como aquel que se da en una economía con un desempleo situado en la tasa natural de desempleo. Por todo ello, el primer objetivo de ese trabajo es describir los distintos métodos existentes en la literatura económica referente a la estimación del PIB potencial; A continuación, con la ayuda de una función de producción de tipo CobbDouglas, estimaremos la evolución del PIB potencial para España durante el periodo 19952014 y evaluaremos los resultados, comparándolos con los obtenidos por otros organismos internacionales.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/47200</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Análisis Económico</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/47200/files/TAZ-TFG-2015-4424.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/47200/files/TAZ-TFG-2015-4424_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Economía</dc:subject>
+    <dc:title>Estimación del PIB  potencial. Una aproximación al caso español</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

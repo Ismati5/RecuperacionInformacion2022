@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Florentín Mahulea, Cristian </dc:contributor>
+    <dc:contributor>Civera Sancho, Javier</dc:contributor>
+    <dc:creator>San Miguel Tello, Alberto</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Este Trabajo Fin de Grado aborda el problema de navegación de unos agentes móviles sobre un entorno con obstáculos desconocidos para ellos, realizando los movimientos necesarios para alcanzar una serie de posiciones finales partiendo de unas iniciales. El método elegido para su resolución ha sido el algoritmo Dyna-Q, que combina técnicas Aprendizaje por Refuerzo y Planificación, implementándose primero en el caso de un agente para después extenderlo al caso multiagente mediante un planteamiento propuesto en este estudio. Se ha realizado una fase de experimentación sobre los parámetros del algoritmo para el caso de un agente con el fin de interpretar su influencia sobre la ejecución del problema, y determinados resultados se han aplicado sobre los casos multiagente y se ha evaluado su viabilidad. Finalmente, se ha planteado la implementación de los métodos y evaluación de los resultados sobre una plataforma real compuesta por varios agentes móviles, abarcando las posibles limitaciones que presente. planteado la implementación de los métodos y evaluación de los resultados sobre una plataforma real compuesta por varios agentes móviles,abarcando las posibles limitaciones que presente.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/65359</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/65359/files/TAZ-TFG-2017-1809.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Aprendizaje por Refuerzo y Planificación en un Sistema Multirobot</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Reinforcement Learning and Planning on a Multi-Robot System</dc:title>
+</oai_dc:dc>

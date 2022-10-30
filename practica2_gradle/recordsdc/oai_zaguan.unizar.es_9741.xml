@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Dufo López, Rodolfo</dc:contributor>
+    <dc:contributor>Bernal Agustín, José Luis</dc:contributor>
+    <dc:creator>Azabal Domínguez, Antonio</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Resumen La propiedad intrínseca de las energías renovables es que se dispone de ellas únicamente en el momento en el que existe el recurso. Esto parece motivo suficiente para plantear estrategias que permitan un mayor aprovechamiento de este tipo de energías ya que, lógicamente, la demanda no tiene porqué coincidir con la disponibilidad del recurso, es más, por ejemplo en el caso de la energía eólica suele ocurrir lo contrario,  cuando se dispone de mayor recurso (normalmente por la noche)  la demanda es menor.  Una posible estrategia es plantear el almacenamiento de energía, en primer lugar porque esto permitiría disponer de la energía cuando se necesite adaptando en cada momento la generación a la demanda y, otra razón puramente económica, porque puede interesar la venta de la energía en otro momento en el que el precio de ésta es mayor que durante los períodos en los cuales se dispone del recurso. El objetivo de este trabajo consiste en analizar esta estrategia, determinando en primer lugar las tecnologías de almacenamiento más adecuadas. El estudio mostrará que cada tecnología de almacenamiento tiene una aplicación según lo que se pretenda, gestión de la  energía o mejora de la calidad de red.  El trabajo se plantea de la siguiente forma: En primer lugar se realiza una revisión del estado del arte de las diferentes tecnologías de almacenamiento, en segundo lugar se analizan las curvas de la demanda nacional y de generación renovable en España así como los precios del mercado eléctrico y las primas a las renovables y, para finalizar, se procede a realizar simulaciones con el fin de optimizar una instalación de energía eólica y fotovoltaica conectada a red. Primero se  ha planteado el sistema fotovoltaico y eólico sin almacenamiento y a continuación se plantea el mismo sistema implementando un almacenamiento con  baterías tipo NaS comparando los resultados obtenidos en los dos casos. Como conclusión final se verá que es posible gestionar de manera eficaz la energía mediante almacenamiento en los períodos valle y venta en los períodos punta en los que normalmente el precio de la energía es mayor puesto que la demanda es más alta. Pero, actualmente, para que  esto sea económicamente rentable, es preciso un desarrollo tecnológico que permita abaratar costes de los sistemas de almacenamiento o introducir subvenciones dado que los precios a los que habría que vender la energía no son económicamente competitivos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9741</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9741/files/TAZ-TFM-2012-1207.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>energías renovables</dc:subject>
+    <dc:subject>eólica</dc:subject>
+    <dc:subject>fotovoltaica</dc:subject>
+    <dc:subject>almacenamiento</dc:subject>
+    <dc:subject>optimización</dc:subject>
+    <dc:subject>Máster Universitario en Energías Renovables y Eficiencia Energética</dc:subject>
+    <dc:title>Análisis y optimización de sistemas fotovoltaicos y eólicos con almacenamiento energético conectados a la red eléctrica</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

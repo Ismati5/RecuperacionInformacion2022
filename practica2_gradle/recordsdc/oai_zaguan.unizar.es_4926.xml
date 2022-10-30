@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Laguna Bercero, Miguel Ángel</dc:contributor>
+    <dc:creator>Monzón Alcázar, Hernán</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>El presente proyecto tiene por objeto el estudio de la estabilidad microestructural de los cermets (compuestos cerámico-metal) de Ni-YSZ, con objeto de mejorar sus propiedades frente a los ciclos térmicos y a los de oxidación reducción (ciclados redox). Estos compuestos se utilizan principalmente como ánodos para pilas de combustible de óxidos sólidos (SOFC). Como mejora para estos materiales frente al ciclado redox se propone sustituir el contenido en YSZ de los cermets tradicionalmente utilizados, que son de un contenido en itria (Y2O3) del 8% en mol (8YSZ) por mezclas de 8YSZ y 3YSZ (circona con un 3% en mol de itria, la cual presenta mejores propiedades mecánicas). Para cumplir estos objetivos el procedimiento seguido ha sido:  • Preparación de muestras de Ni-YSZ, teniendo la fase de YSZ distintas composiciones. Se han fabricado 8 muestras de cada una de las 6 composiciones seleccionadas para disponer de suficiente material para los diferentes ensayos y poder así aplicar diferentes tratamientos a las muestras de cada composición. Dichas muestras han sido fabricadas mediante la técnica de prensado isostático en frío de polvo seguido de un posterior sinterizado.  • Realización de una simulación de fallo de combustible en la pila mediante cambios entre atmósfera reductora (5% de H2 en argón) a oxidante (aire) acompañados por un ciclado térmico. Este procedimiento se ha llevado a cabo en un horno tubular a las temperaturas de operación de la pila (800ºC).  • Observación al microscopio electrónico de barrido (SEM Jeol 6400 del servicio de microscopía electrónica de la Universidad de Zaragoza) de una muestra de cada composición para cada estado del ciclado redox.  • Realización de ensayos de microdureza mediante un microindentador (MXT 50 Matzusawa Seiki Co. Ltd.) para determinar la evolución de la dureza de las muestras durante el ciclado redox.  • Realización de una serie de dilatometrías de muestras seleccionadas en función de los resultados obtenidos en los análisis anteriores (dilatómetro diferencial Setaram de NETZSCH). Durante estas dilatometrías se han realizado ciclados redox análogos a los realizados en el horno tubular, controlando la variación de longitud de las muestras en función del ciclado redox.  Los resultados obtenidos se discuten en el cuerpo principal de la memoria.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4926</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Ciencia de los Materiales e Ingeniería Metalúrgica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4926/files/TAZ-PFC-2010-125.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/4926/files/TAZ-PFC-2010-125_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>SOFC</dc:subject>
+    <dc:subject>níquel</dc:subject>
+    <dc:subject>YSZ</dc:subject>
+    <dc:subject>3YSZ</dc:subject>
+    <dc:subject>8YSZ</dc:subject>
+    <dc:subject>circona estabilizada con itria</dc:subject>
+    <dc:subject>pilas de combustible</dc:subject>
+    <dc:subject>redox</dc:subject>
+    <dc:subject>Ingeniero Químico</dc:subject>
+    <dc:title>Estabilidad de los cermets de Ni-YSZ (circona estabilizada con itria) frente a los ciclados de oxidación reducción</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

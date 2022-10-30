@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Lex, Cornelia</dc:contributor>
+    <dc:contributor>Mahulea, Cristian</dc:contributor>
+    <dc:creator>Esteban Fuertes, Miguel</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Identificación y cálculo del parámetro "wheel slip" de un vehículo a través de un estimador de velocidad longitudinal. El estimador es desarrollado con la integración de diferentes sistemas de sensores RISS y GPS y probado con datos de conducción reales, recogidos en diferentes maniobras con un vehículo del Automotive Institute de TU Graz.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/84821</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/84821/files/TAZ-TFM-2019-757.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Industrial</dc:subject>
+    <dc:title>Identification of wheels' longitudinal dynamics using a longitudinal velocity estimator</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Identification of wheels' longitudinal dynamics using a longitudinal velocity estimator</dc:title>
+</oai_dc:dc>

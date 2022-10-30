@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Monné Bailo, Carlos Miguel</dc:contributor>
+    <dc:creator>Vijuesca Martínez, María José</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>El Análisis de Ciclo de Vida (ACV) es una herramienta empleada para valorar los impactos ambientales de productos y servicios. Además de haber realizado una revisión de las bases de datos y programas comerciales existentes, se ha desarrollado una herramienta en VBA para Excel con el fin de aplicar el ACV en equipos HVAC. Finalmente, esta herramienta se ha empleado con éxito en el cálculo del ACV de dos equipos deshumidificadores.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76211</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76211/files/TAZ-TFM-2018-946.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Industrial</dc:subject>
+    <dc:title>Diseño y desarrollo de una herramienta informática para la realización de análisis de ciclo de vida en equipos HVAC</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Design and development of a program for the life cycle assessment of HVAC products</dc:title>
+</oai_dc:dc>

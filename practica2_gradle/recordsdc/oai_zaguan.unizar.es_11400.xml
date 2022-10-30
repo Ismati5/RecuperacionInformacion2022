@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Vallés Brau, Juan A.</dc:contributor>
+    <dc:contributor>Collados Collados, Mª Victoria</dc:contributor>
+    <dc:creator>Alonso Calderón, María</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>En este trabajo se estudia la utilización de hiperoculares como ayudas de baja visión para visión cercana y visión excéntrica con ayuda de un sofwere de trazado de rayos. Primeramente se simulan ojos con diferentes ametropías esféricas en eje a partir de un modelo de ojo determinado (modelo de Navarro) y se evalúa la variación de la refracción en función de la excéntricidad, posteriormente, para dos fijaciones excéntricas, se diseñan un conjunto de hiperoculares para su uso en visión cercana y se estudia el aumento y el campo proporcionado por estas ayudas para un objetivo fijado, lectura de periódico. Por último, se estudia el error esferocilíndrico que presentan estos diseños en función del centrado que se elija al ser montadas en gafa, con el objetivo de valorar si el centrado convencional es apto para estas ayudas en visión excéntrica.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/11400</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Aplicada; Área de Optica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/11400/files/TAZ-TFG-2013-559.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>lentes positivas alta potencia</dc:subject>
+    <dc:subject>visión excéntrica</dc:subject>
+    <dc:subject>hipeocular</dc:subject>
+    <dc:subject>Graduado en Óptica y Optometría</dc:subject>
+    <dc:title>Lentes positivas de alta potencia como ayuda para baja visión en visión excéntrica</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

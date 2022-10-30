@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Garrido Picazo, Piedad</dc:contributor>
+    <dc:contributor>Esteban Navarro, Miguel Ángel</dc:contributor>
+    <dc:creator>Hernández Pérez, Beatriz</dc:creator>
+    <dc:date>2020</dc:date>
+    <dc:description>El presente Trabajo Fin de Máster (TFM) consiste en el diseño un proyecto de implementación de un servicio de visualización de datos en entorno OLAP en una empresa basados en la metodología, las técnicas y las herramientas de estrategia de inteligencia de negocios. Se realiza un análisis de la literatura sobre los fundamentos y el estado de desarrollo actual de la inteligencia de negocios y un estudio de campo con técnicas cuantitativas y cualitativas sobre las iniciativas realizadas por el grupo empresarial español Esprinet en el entorno OLAP. Se presentan como resultados un análisis del estado de madurez digital de la compañía, el diseño de una guía de ayuda para la creación de informes ad hoc, basado en metodología BI y BA, que sirva de ayuda para la implementación del servicio en todos los departamentos de la compañía y, una propuesta de criterios para valorar tomar decisiones sobre la viabilidad e implementación de un servicio de visualización de datos como propuestas de valor para el cliente final. Se concluye con la valoración de los resultados obtenidos, la aportación del presente trabajo en área de comunicación estratégica y la recomendación de nuevas líneas de investigación como la creación de una guía de implantación del servicio en la organización basada en metodologías ágiles.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/88611</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Dirección de Márketing e Investigación de Mercados; Área de Comercialización e Investigación de Mercados</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/88611/files/TAZ-TFM-2020-032.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Consultoría de Información y Comunicación Digital</dc:subject>
+    <dc:title>Proyecto de implementación de un servicio de visualización de datos en entorno OLAP del  Grupo Esprinet.</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Project to implement a data visualization service in OLAP environment of Esprinet Group.</dc:title>
+</oai_dc:dc>

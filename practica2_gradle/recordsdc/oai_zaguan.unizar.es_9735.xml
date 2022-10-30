@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Álvarez Cabal, Ramón</dc:contributor>
+    <dc:contributor>Gracia Villa, Luis</dc:contributor>
+    <dc:creator>Sánchez Marta, Lucía</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El presente proyecto se centra en el análisis de la influencia que los cerramientos tienen sobre la distribución de cargas en las estructuras. El proyecto se ha realizado dentro de una línea de investigación de la empresa INTEMAC (Instituto de materiales y construcciones). Dicho análisis se realizará mediante el programa ANSYS. Para definir el comportamiento de la fábrica de ladrillo se realiza un estudio previo tanto de las características de los cerramientos como de la forma de construcción actual. Una vez realizado, se estudiarán varios modelos sencillos en los que se tienen en cuenta las cargas externas que afectan a las edificaciones, tales como la humedad, la retracción del hormigón, la temperatura y la historia de cargas. Además se analizará un edificio real de la ciudad de Lorca para observar el efecto de la tabiquería y de las cargas externas comentadas. Por último se hace un repaso de las patologías que los resultados provocan en la realidad y las soluciones aportadas en otros países.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9735</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería de la Construcción</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9735/files/TAZ-PFC-2012-726.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>construcción</dc:subject>
+    <dc:subject>ladrillos</dc:subject>
+    <dc:subject>estudio</dc:subject>
+    <dc:subject>análisis</dc:subject>
+    <dc:subject>elementos finitos</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Estudio de la influencia de los cerramientos en la capacidad resistente de las estructuras de edificación</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Lücke, Jörg</dc:contributor>
+    <dc:creator>Yus López, Diego</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>This bachelor thesis theoretically derives and implements an unsupervised probabilistic generative model called Binary Non-Negative Matrix Factorization. It is a simplification of the standard Non-Negative Matrix Factorization where the factorization into two matrices is restricted to one of them having only binary components instead of continuous components. This simplifies the computation making it exactly solvable while keeping most of the learning capabilities and connects the algorithm to a modified version of Binary Sparse Coding. The learning phase of the model is performed using the EM algorithm, an iterative method that maximizes the likelihood function with respect to the parameters to be learned in a two-step process. The model is tested on artificial data and it is shown to learn the hidden parameters on these simple data although it fails to work properly when applied to real data.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/70412</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/70412/files/TAZ-TFG-2018-517.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Física</dc:subject>
+    <dc:title>Machine Learning: Binary Non-negative Matrix Factorization</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Machine Learning: Binary Non-negative Matrix Factorization</dc:title>
+</oai_dc:dc>

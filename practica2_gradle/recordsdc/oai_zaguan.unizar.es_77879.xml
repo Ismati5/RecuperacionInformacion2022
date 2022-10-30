@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>de la Osada García, Jesús</dc:contributor>
+    <dc:contributor>Herrera Marcos, Luis Vicente</dc:contributor>
+    <dc:creator>Gimeno Blasco, Elena</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>El gen Pcyox1 o prenilcistein oxidasa 1 codifica una enzima implicada en la degradación de proteínas preniladas liberando peróxido de hidrógeno, una especie reactiva de oxígeno. Se expresa de manera ubicua en todos los tejidos, y su expresión hepática es la responsable de su presencia en las lipoproteínas VLDL y LDL del plasma. También se encuentra en los lisosomas. Se ha propuesto su actividad como fuente de estrés oxidativo en la ateroesclerosis y factores de la dieta y hormonas son muy importantes en su regulación. Está implicada en diversos procesos celulares como la modulación de la cadena respiratoria, la muerte celular o el metabolismo y degradación de proteínas. Además, la posible asociación a enfermedades de sus variantes genéticas o su relación con el cáncer, obesidad o enfermedad cardiovascular todavía se desconoce. Dado que el hígado es la fuente principal de la presencia plasmática de esta enzima, este estudio pretende la sobreexpresión hepática de Pcyox1 en ratones normales de la estirpe C57BL/6J. Para ello, se clonó el gen hepático murino Pcyox1 en un plásmido (pLIVEIRESluc) con promotor específico de hepatocito, un gen reportero de luciferasa y un gen de resistencia a kanamicina para la selección bacteriana utilizando el In-Fussion® HD Cloning kit de Takara Bio USA. Posteriormente, se valoró la funcionalidad del plásmido en el modelo celular HepG2, previo a la inyección hidrodinámica de los modelos animales para verificar su sobreexpresión mediante luminiscencia y expresión de ARNm. En los resultados se comprobó la sobreexpresión hepática de Pcyox1 en los animales tratados.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/77879</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Bioquímica y Biología Molecular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/77879/files/TAZ-TFG-2018-2081.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Biotecnología</dc:subject>
+    <dc:title>Caracterización fenotípica de la sobreexpresión Pcyox1 en ratón</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Phenotypic characterization of Pcyox1 overexpression in mouse</dc:title>
+</oai_dc:dc>

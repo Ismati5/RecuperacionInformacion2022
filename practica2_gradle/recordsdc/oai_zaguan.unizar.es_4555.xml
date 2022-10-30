@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Tarancón, Alfonso</dc:contributor>
+    <dc:contributor>López Bruna, Daniel</dc:contributor>
+    <dc:creator>Reynolds Barredo, José Miguel</dc:creator>
+    <dc:date>2009</dc:date>
+    <dc:description>Se resuelve la ecuación cinética de plasmas en la aproximación de centro guía (5-d) con el objeto de simular plasmas atrapados en dispositivos de confinamiento magnético para la fusión termonuclear. El trabajo describe tanto el marco teórico del modelo como los métodos de discretización en las tres dimensiones espaciales (sdm), dos en velocidad (espectral) y una temporal (métodos directos e indirectos de avance, estacionarios). La modelización teórica y la discretización se han reunido en un código que permite simular los plasmas en las condiciones mencionadas. Se han llevado a cabo dos tipos de simulaciones:- comparaciones  para tokamak axisimétrico frente a la teoría neoclásica. - primeros cálculos para demostrar el objetivo principal del código: su capacidad para resolver geometrías magnéticas tan complejas como la del Heliac TJ-II, el dispositivo experimental del laboratorio nacional de fusión (CIEMAT, Madrid).por último, se detalla el software implementado para generar mallas bien adaptadas a la geometría magnética, asi como para visualizar resultados permitiendo el uso de una plataforma de realidad expandida. Ésta se basa en la proyección por estéreo pasivo y posicionamiento e interación con el usuario mediante cámaras infrarrojas, trabajo desarrollado también durante el transcurso de la tesis.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4555</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Teórica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4555/files/TESIS-2010-030.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>FISICA DE PLASMAS</dc:subject>
+    <dc:subject>REACTORES DE FUSION NUCLEAR</dc:subject>
+    <dc:subject>FUSION TERMONUCLEAR</dc:subject>
+    <dc:subject>SIMULACION</dc:subject>
+    <dc:title>Simulación de plasmas mediante las ecuaciones cinéticas de deriva en geometrías complejas</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

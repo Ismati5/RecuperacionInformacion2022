@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mínguez Zafra, Javier</dc:contributor>
+    <dc:creator>Escolano Marco, Carlos</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>Las interfaces cerebro-ordenador (BCIs, siglas de su término inglés Brain-Computer Interfaces) proporcionan a sus usuarios comunicación y control únicamente con su actividad cerebral. Éstas no dependen de los canales de salida habituales del cerebro de nervios periféricos y músculos, abriendo un nuevo y valioso canal de comunicación para personas con enfermedades neurológicas o musculares severas, tales como la esclerosis lateral amiotrófica (ELA), infarto cerebral, parálisis cerebral, y daños en la médula espinal. La combinación de las interfaces cerebro-ordenador con la robótica puede dotar a los usuarios de una entidad física personicada en un entorno real (en cualquier parte del mundo con acceso a Internet) preparada para percibir, explorar, e interaccionar, controlada únicamente con la actividad cerebral. Además, ha sido sugerido que este tipo de sistemas podría proporcionar benecios en patientes de ELA dentro del contexto de neurorehabilitación o mantenimiento de la actividad neural. Esta tesis fin de máster presenta el proceso completo de desarrollo de un prototipo inicial de un sistema de telepresencia basado en BCIs y su evaluación con usuarios sanos, y su posterior rediseño (para cubrir las necesidades de pacientes reales) y evaluación con pacientes de ELA. Los resultados mostraron la viabilidad de esta tecnología en pacientes reales.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4870</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4870/files/TAZ-TFM-2010-002.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>interfaces cerebro-ordenador</dc:subject>
+    <dc:subject>BCI</dc:subject>
+    <dc:subject>robótica</dc:subject>
+    <dc:subject>telepresencia</dc:subject>
+    <dc:subject>ELA</dc:subject>
+    <dc:subject>ALS</dc:subject>
+    <dc:subject>Máster Universitario en Ingeniería de Sistemas e Informática</dc:subject>
+    <dc:title>Sistema de telepresencia controlado por una interfaz cerebro-computador: pruebas iniciales con pacientes de ELA</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

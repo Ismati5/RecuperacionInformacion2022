@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Muro-Medrano, Pedro R.</dc:contributor>
+    <dc:contributor>Nogueras Iso, Francisco Javier</dc:contributor>
+    <dc:creator>Béjar Hernández, Rubén</dc:creator>
+    <dc:date>2009</dc:date>
+    <dc:description>Las Infraestructuras de Información (II) son grandes sistemas de información en red, que carecen de una autoridad central. Las Infraestructuras de Datos Espaciales (IDE) son II centradas en compartir datos y servicios espaciales. Los datos espaciales, o geográficos, son aquellos que describen información relacionada con alguna localización sobre la superficie de la Tierra. Los servicios espaciales son entidades software, descubribles y auto-contenidas, especialmente diseñadas procesar datos espaciales.  Esta tesis propone modelos para facilitar la especificación, el diseño y la documentación de las IDE y de sus servicios de representación gráfica. Primero se propone un modelo siguiendo el modelo de referencia para el procesamiento distribuido y abierto de la organización internacional para la estandarización (ISO RM-ODP). Después se desarrolla un estilo arquitectural para sistemas de información que van a ser integrados en una IDE. Finalmente se presentan varias contribuciones al diseño de los servicios de representación gráfica de las IDE. Information Infrastructures (IIs) are large, networked information systems, without a central authority. Spatial Data Infrastructures (SDIs) are IIs focused on sharing spatial data and services. Spatial, or geographical, data describe information tied to some locations on the Earth's surface. Spatial services are coarse-grained, discoverable and self-contained software entities, which are specially designed to access and process spatial data. This PhD thesis proposes models to facilitate the specification, design and documentation of SDIs and their portrayal services. First, a model following the International Organization for the Standardization (ISO) Reference Model for Open Distributed Processing (RM-ODP) Enterprise Language is proposed. Then, an architectural style is developed in order to facilitate the design of information systems intended to be integrated in SDIs. Finally, several contributions to the design of SDI portrayal services, and examples of their applications, are presented.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/3383</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/3383/files/TESIS-2009-073.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>Infraestructura de Datos Espaciales</dc:subject>
+    <dc:subject>Arquitectura de Software</dc:subject>
+    <dc:subject>Patrón</dc:subject>
+    <dc:subject>Modelo</dc:subject>
+    <dc:subject>Servicio de Visualización</dc:subject>
+    <dc:subject>Spatial Data Infrastructure</dc:subject>
+    <dc:subject>Software Architecture,Pattern</dc:subject>
+    <dc:subject>Model,Portrayal Service.</dc:subject>
+    <dc:title>Contributions to the modelling of spatial data infrastructures and their portrayal services</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

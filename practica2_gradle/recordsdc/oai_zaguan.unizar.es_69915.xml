@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Salinas Áriz, Íñigo</dc:contributor>
+    <dc:contributor>Alcaín Ruiz, Raúl</dc:contributor>
+    <dc:creator>Castillo Tapia, Pilar</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>En este Trabajo de Fin de Grado se expone el problema del uso de vidrios bajoemisivos en ferrocarriles para el aislamiento térmico de los vagones ya que atenúan considerablemente la señal de radiofrecuencia usada por los móviles. Se propone el uso de superficies selectivas en frecuencia como solución a este problema. Para ello, se ha realizado un estudio del funcionamiento de estas superficies, tanto teórico como mediante simulaciones numéricas, para poder diseñar después vidrios para las bandas de transmisión de interés. Una vez comprendida la base teórica de estas superficies, se han diseñado y fabricado una serie de prototipos, cuya transmisión se ha medido en el interior de una cámara anecoica para su posterior análisis. Los resultados obtenidos permiten concluir que el uso de superficies selectivas en frecuencia puede ser una buena solución en determinadas situaciones y sirven de base para futuras investigaciones dentro de este campo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/69915</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/69915/files/TAZ-TFG-2017-4406_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/69915/files/TAZ-TFG-2017-4406.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías y Servicios de Telecomunicación</dc:subject>
+    <dc:title>Estudio teórico y experimental del apantallamiento electromagnético de acristalamientos bajoemisivos en las bandas de telefonía móvil. Propuestas de estructuras pasobanda</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Experimental and theoretical study of EM shielding in low-e glass al mobile frequency bands. Design of passband structures</dc:title>
+</oai_dc:dc>

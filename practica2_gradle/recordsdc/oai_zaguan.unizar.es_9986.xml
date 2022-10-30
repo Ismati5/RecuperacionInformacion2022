@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Hueso Martos, José Luis</dc:contributor>
+    <dc:contributor>Santamaría Ramiro, Jesús</dc:contributor>
+    <dc:creator>Gaona Marín, Jesús</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Resumen del Trabajo Realizado: Se ha realizado un estudio sistemático en la síntesis de nanopartículas anisotrópicas de oro mediante el método de crecimiento con semillas de plata y el empleo de diferentes copolímeros que actúan como agentes estructurantes. Para este estudio se han variado parámetros fundamentales en la síntesis como por ejemplo, la concentración de las semillas, el tipo y concentración de surfactante etc. Comparando los resultados obtenidos se ha llegado a entender como estos diferentes parámetros afectan al tamaño y morfología de las nanoestructuras de oro sintetizadas. Gracias a este primer estudio realizado se ha conseguido obtener un mayor control y entendimiento sobre la síntesis, y gracias a ello hemos podido crear nanoparticulas de oro con una morfología y respuesta óptica deseadas para emplearlas en dos aplicaciones muy diferentes entre sí: Surface enhanced raman Spectroscopy (SERS): En el caso del SERS, las nanopartículas han sido usadas como nanoantenas, (debido a su morfología y tamaño) aumentando la señal del analito y como consecuencia la sensitividad de la técnica. Hipertermia óptica: Aprovechando la capacidad que poseen nuestras nanopartículas de generar calor cuando son irradiadas por laser, hemos sintetizado nanoestructuras cuyo máximo de absorción se encuentra a longitudes de onda en las cuales el cuerpo humano prácticamente no absorbe. En este apartado hemos medido los incrementos de temperatura a diferentes concentraciones y hemos evaluado la citotoxidad celular de las partículas mediante estudios de viabilidad.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9986</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9986/files/TAZ-TFM-2013-029.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>oro</dc:subject>
+    <dc:subject>nanoparticulas</dc:subject>
+    <dc:subject>anisotrópicas</dc:subject>
+    <dc:subject>pluronic</dc:subject>
+    <dc:subject>Máster Universitario en Materiales Nanoestructurados para Aplicaciones Nanotecnológicas (Nanostructured Materials for Nanotechnology Applications)</dc:subject>
+    <dc:title>From silver nanostructures to gold nanostars: Synthesis and characterization of tunable plasmonic materials</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

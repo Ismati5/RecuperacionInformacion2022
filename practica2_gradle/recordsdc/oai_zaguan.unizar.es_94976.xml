@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Martín, Alberto</dc:contributor>
+    <dc:creator>Saiz Hontangas, Gonzalo</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>El objetivo del presente Trabajo de Fin de Grado es determinar la capacidad de paso de los vehículos del Ejército de Tierra (ET) en plantilla por diversos puentes y otro tipo de obras civiles. Para ello se ha desarrollado una aplicación informática que utiliza los procedimientos doctrinales actuales del ET y de otros países de la OTAN para obtener la clasificación militar de vehículos de ruedas y cadenas y la clasificación militar de puentes y obras civiles. La ejecución del programa se basa en la petición al usuario de datos sobre las características básicas del puente y de los vehículos que lo transitan. A partir de dichos datos el programa calcula automáticamente un resultado para sus respectivas MLC y agiliza, a la vez que facilita, la toma de decisiones del Jefe de la Unidad.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/94976</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/94976/files/TAZ-TFG-2015-2620.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Organización Industrial</dc:subject>
+    <dc:title>Desarrollo de una aplicación informática para la determinación de la capacidad de paso de vehículos militares a través de puentes u obras civiles</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

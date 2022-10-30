@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Andrés Gimeno, María Nieves</dc:contributor>
+    <dc:contributor>Palero Díaz, Virginia Raquel</dc:contributor>
+    <dc:creator>Gracia García-Lisbona, Juan</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>En este trabajo se ha aplicado la Microscopia Holográfica fuera de eje para medir la posición de partículas magnéticas en un microcanal. En primer lugar se h apuesto a punto el montaje óptico y se ha validado con arrays de microlentes para comprobar tanto los aumento como los programas para extraer la amplitud completa y propagación de la misma a distintos planos. Se ha registrado hologramas en un microcanal previamente para estudiar las características del flujo, concentración y la fluídica que se conecta para generar el flujo. Finalmente la técnica se ha aplicada a un microcanal cuadrado de 100 micras de lado que se ha diseñado para este trabajo y que ha sido creado por la Start-Up de la universidad BeOnChip. Se han registrado hologramas del flujo en este microcanal enfocando el plano superior. Esta técnica permite el registro de todo el volumen simultáneamente y en el posterior análisis se puede reconstruir cada planaode forma independiente.  Diferentes formas de análisis se han estudiado para poder detectar con precisión tanto en XY como en Z todas las partículas. Una nueva visualización presentando las imágenes tanto en planos XY como en XZ mejora la interpretación de los resultados en 2 diferentes planos que se visualizan se han presentado. &lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87241</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Aplicada; Área de Física Aplicada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87241/files/TAZ-TFG-2019-4768.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Física</dc:subject>
+    <dc:title>Aplicación de microscopía holográfica en microcanales</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Application of holographic microscopy in microchannels</dc:title>
+</oai_dc:dc>

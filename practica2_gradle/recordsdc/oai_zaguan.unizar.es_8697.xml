@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Villa Gazulla, Juan Luis</dc:contributor>
+    <dc:creator>Ons Fuertes, Marcos</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El estudio realizado esta centrado en el análisis y cálculo de los campos magnéticos creados por un sistema de carga de baterías de vehículos eléctricos por inducción magnética. El sistema original, construido en el CIRCE, consta de una potencia nominal de 30 KV trabajando a una frecuencia de 18000 Hz. Esta compuesto por dos bobinas cuadradas horizontales paralelas entre sí con acoplo magnético y en resonancia entre ellas. El funcionamiento consiste en alimentar la bobina principal a través de la red eléctrica, de la cual absorbe 441 A en condiciones nominales, debido al estado de resonancia en el que se encuentra con la bobina de secundario. De esta forma, se induce en el secundario una corriente de 141 A desfasada 90º respecto a la de primario por el efecto resonante La circulación de ambas corrientes por el sistema produce altos campos magnéticos, los cuales, al variar con una frecuencia de 18000 Hz, permiten recargar la batería del vehículo eléctrico por medio de inducción magnética en pocos minutos. El estudio de dichos campos magnéticos es necesario y fundamental para controlar la transferencia de potencia del sistema a la batería del vehículo y el cumplimiento de la normativa impuesta para los campos magnéticos que afectan al ser humano. Para controlar dicha normativa, es necesario apantallar y aislar el campo magnético de forma que el que pueda salir del sistema (si es que sale algo de campo magnético) sea menor a 10 µT, que es el máximo impuesto por normativa para el ser humano. Para ello se ha desarrollado una simulación en 3D utilizando el programa de elementos finitos Comsol Multiphysics V4.2. Utilizando el propio sistema de diseño del programa se ha diseñado el sistema completo de carga y se han analizado los campos magnéticos que este crea para comprobar la distribución espacial de los mismos. El análisis de campos magnéticos se ha realizado con cada una de las bobinas por separado, con ambas bobinas a la vez, con ambas bobinas y unas láminas de ferrita, con ambas bobinas y unas chapas de aluminio y con todos los elementos a la vez. El objetivo final es encontrar la combinación de elementos que permiten que el campo magnético no escape del propio sistema y que la transferencia de potencia sea lo más eficaz posible. Por ello resulta necesario el cálculo y comprobación de cada campo magnético producido en cada caso, para ver como afectan los elementos añadidos al sistema como la ferrita y las chapas de aluminio y comprobar en que beneficia o perjudica en cada caso.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8697</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8697/files/TAZ-PFC-2012-462.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>elementos finitos</dc:subject>
+    <dc:subject>comsol multiphysics</dc:subject>
+    <dc:subject>carga inductiva</dc:subject>
+    <dc:subject>vehículos eléctricos</dc:subject>
+    <dc:subject>apantallamiento</dc:subject>
+    <dc:subject>campos magnéticos</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electricidad)</dc:subject>
+    <dc:title>Estudio electromagnético mediante elementos finitos del apantallamiento de un sistema de carga inductiva de vehículos eléctricos</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

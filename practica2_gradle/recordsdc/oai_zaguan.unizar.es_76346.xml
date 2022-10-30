@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Huerta Abad, Pedro Pablo</dc:contributor>
+    <dc:creator>Horno Pérez, Juan José</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>El proyecto se basa en el desarrollo e implementación de un sistema automatizado en una granja porcina, en la que su proceso productivo se realizaba de forma muy rudimentaria generando graves problemas de rendimiento. Para solucionar este problema, se vio necesario la instalación de un autómata programable, Siemens “S7 300 CPU 315 C-2 PN/DP”, que fuese capaz de controlar aquellos aspectos que aportaran beneficios al proceso productivo: ventilación, calefacción, alimentación y agua. Para la automatización del sistema se ha utilizado un lenguaje de programación AWL. Además, se ha incluido un SIMATIC HMI Panel y tres estaciones de trabajo ET 200S configuradas a través de Win CC Flexible. Gracias a ello, se puede observar el proceso productivo a tiempo real, además de poder realizar las modificaciones y controles necesarios de cada uno de los sistemas que componen la granja. Todo ello forma parte de un proyecto real que abarca, desde la elección de cada uno de los sensores hasta el cálculo de las bombas de agua, las mallas eléctricas, las dimensiones del depósito de agua y de los silos…, y que una vez implementado se conseguirá reducir los costes de mano de obra y aumentar la calidad del producto.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76346</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76346/files/TAZ-TFG-2018-4803.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/76346/files/TAZ-TFG-2018-4803_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecatrónica</dc:subject>
+    <dc:title>Supervisión y control de la automatización de una granja porcina</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Pig Farm Automation Monitoring and control</dc:title>
+</oai_dc:dc>

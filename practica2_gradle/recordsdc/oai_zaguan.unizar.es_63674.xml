@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Lantz, Anna Eliasson</dc:contributor>
+    <dc:contributor>Hundebøl, Ivan</dc:contributor>
+    <dc:contributor>Gonzalo Callejo, Alberto Ignacio</dc:contributor>
+    <dc:creator>Artigas Ortega, Melania</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Tasks regarding the commission and equipment assessment on the fermenter situated in PILOT PLANT Research Center were carried out. The bioreactor consists in a pilotscale fermenter with a capacity of 150L. Piping and Instrumentation Diagrams were elaborated, in which a posterior Sterilization Standard Operating Procedure was designed. In such SOP, Steam In Place method was implemented. The sterilization was designed as a batch process, in which the reaction medium is sterilized simultaneously to the fermentation vessel. This way, the use of additional equipment was avoided and the risk of contamination between sterilization and fermentation start was minimized. Optimal saturated vapor temperature was taken as 121ºC. The required holding time for equipment sterilization (spare parts) was determined to be 10 minutes, whereas a holding time of 20 minutes was considered for medium sterilization. Other key factors taken into account for the design of the procedure were condensate removal, air evacuation and post-sterilization integrity, The SOP is still in need of validation. A sealing test revealed the inoperability of the safety device (burst disk). This device was then replaced and tested with success. Gas-liquid mass transfer capacity of the fermenter was assessed, applying the hydrogen peroxide method. A KLa of 25±3.3 h-1was determined when the stirrer run at 450 rpm. However, due to supersaturation effect, this value could be an overestimation of the actual value. Comparison with other typical KLa values for pilot-scale bioreactors led to the conclusion that the aeration capacity of the fermenter is low and might be insufficient for some biochemical processes. A change in the impeller type is proposed in order to address this problem.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/63674</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/63674/files/TAZ-TFM-2017-796.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Química</dc:subject>
+    <dc:title>Commissioning and equipment assessment of a semi-industrial bioreactor</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Commissioning and equipment assessment of a semi-industrial bioreactor</dc:title>
+</oai_dc:dc>

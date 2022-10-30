@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Cremades Casasín, Nunilo </dc:contributor>
+    <dc:contributor>Bruscolini, Pierpaolo</dc:contributor>
+    <dc:creator>López Borbón, Adrian</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>The amyloid aggregation of alpha synuclein (αS), an intrinsically disordered protein, plays a key role in the etiology of Parkinson disease. The molecular mechanisms of αS amyloid aggregation are not well described at the moment and in this research, we move the first steps towards the characterization of two different mechanisms of αS aggregation as well as the of the phase transition between them using methanol (MetOH) as an inducing agent, with an approach that will combine the experimental and theoretical perspective with a residues-based theoretical modelling.&lt;br /&gt;On the one hand the determination of the phase transition range between the two observed mechanisms was carried out by performing αS aggregation kinetics at different MetOH concentrations and carrying out structural analysis of the generated aggregates by Fourier Transform Infrared Spectroscopy (FTIR). On the other hand, the preference for one mechanism or the other was studied with pyrene excimer emission fluorescence spectroscopy and the coexistence of both types of aggregation mechanisms was observed in the transition phase. The results obtained from FTIR and emission fluorescence spectroscopy were in agreement and complementary to each other.&lt;br /&gt;From the theoretical perspective an initial approach for the αS aggregation modelling was given by computing the accuracy of online secondary structure predictors in order to determine the importance of different αS amino acid regions in the preference for the type of amyloid aggregation mechanism. &lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/86821</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Teórica; Área de Física Teórica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/86821/files/TAZ-TFM-2019-344.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Biotecnología Cuantitativa</dc:subject>
+    <dc:title>Estudio de las propensidades estructurales de la sequencia de alfa sinucleína</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Study of the structure-propensities of alpha-synuclein sequence</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Julián, Asunción</dc:contributor>
+    <dc:creator>Rey Pazos, Antía</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>En este artículo se plasma el trabajo desarrollado durante mi período de prácticas en el Instituto de Estudios del Territorio (Consellería de Medio Ambiente, Territorio e Infraestruturas, Xunta de Galicia). Dicho trabajo se centra en la explicación y análisis exhaustivo del proyecto SIOSE 2011. El principal objetivo es la actualización de capas de información pertenecientes al territorio de la Comunidad Autónoma de Galicia mediante el programa OrtoSky. Este programa permite, mediante la intersección de capas de información y fotografías de satélite, desarrollar un estudio sobre el espacio identificando las variaciones existentes en el mismo a lo largo de un período de tiempo determinado, teniendo la posibilidad de actualizar dichos cambios, y generando así una nueva capa de información. Para desarrollar esta función correctamente, es necesario poseer conocimientos de fotointerpretación y del propio programa. Los resultados obtenidos mediante este trabajo serán enviados al Instituto Geográfico Nacional, que es el ente encargado de realizar un control de calidad sobre los mismos y de generar una capa de información final. Los datos generados serán de utilidad para múltiples funciones, entre las que cabría destacar la realización de consultas o la generación de cartografía de diferente tipo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31159</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio; Área de Geografía Física</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31159/files/TAZ-TFM-2013-985.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Proyecto SIOSE 2011</dc:subject>
+    <dc:subject>OrtoSky</dc:subject>
+    <dc:subject>Máster Universitario en Ordenación Territorial y Medioambiental</dc:subject>
+    <dc:title>Actualización del Proyecto SIOSE 2011 mediante el programa OrtoSky: Instituto de Estudios del Territorio</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

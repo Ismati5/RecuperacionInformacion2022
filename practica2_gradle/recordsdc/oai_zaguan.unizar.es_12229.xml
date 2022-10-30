@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ruiz Pesini, Eduardo</dc:contributor>
+    <dc:contributor>Bayona Bafaluy, María Pilar</dc:contributor>
+    <dc:creator>Prieto López, Carlos Damián</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>La mutación en el DNA mitocondrial (mt-DNA) humano m.1494C&gt;T, sola o en presencia de aminoglicósidos, afectan al gen codificante del RNA ribosomal mitocondrial de la subunidad pequeña (mt-rRNA 12S) impidiendo una lectura precisa del código genético mitocondrial y afectando a la síntesis de las subunidades proteicas del sistema de fosforilación oxidativa (OXPHOS). Como consecuencia, hay una disminución en la producción de energía por parte de las mitocondrias de las células ciliadas y se induce a la expresión de sordera. El hecho de que esta mutación sea homoplásmica pero que no todos los individuos que la padecen expresen este fenotipo indica que hay otros factores, además de los aminoglicósidos, que influyen en la penetrancia. La familia de primates Cercopithecoidea tienen la mutación humana fijada como la forma silvestre pero, a diferencia de los humanos, no sufren el fenotipo patológico por lo que debe de haber en esta especie otros factores que compensen la mutación patológica. Se propone un estudio para la búsqueda de estos factores modificantes que compensen la mutación m.1494C&gt;T. La proteína ribosomal mitocondrial S12 (MRPS12) juega un papel importante en el sitio de decodificación A para la selección de los RNAs de transferencia (tRNAs) y además se encuentra cerca de la posición de la mutación m.1494C&gt;T por lo que es muy probable que polimorfismos de esta proteína sean uno de los factores que explique la incompleta penetrancia de esta enfermedad en humanos y la inmunidad de la familia Cercopithecoidea a la mutación. Para confirmar esto último, se han construido varias líneas celulares humana y de un pariente de la familia Cercopithecoidea (Macaca nemestrina), las cuales sobreexpresan dos variantes de MRPS12 que afectan a el aminoácido 68; MRPS12:68R y MRPS12:68L.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12229</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Bioquímica y Biología Molecular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12229/files/TAZ-TFM-2013-756.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>mrps12</dc:subject>
+    <dc:subject>Máster Universitario en Biología Molecular y Celular</dc:subject>
+    <dc:title>Búsqueda de factores que modifican la penetrancia de mutaciones patológicas en el DNA mitocondrial</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Montañés Espinosa, Antonio</dc:contributor>
+    <dc:creator>Sangüesa Ortiz, Juan Francisco</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El objetivo del proyecto es utilizar una de las placas Arduino, concretamente la Arduino Uno Rev3, como controladora junto con el lenguaje de programación S4A, basado en Scratch, para facilitar al profesorado de la asignatura de tecnología de 4º ESO, herramientas para impartir de forma integrada y amena para los alumnos, los conocimientos, las habilidades, destrezas  y actitudes relacionados con la electricidad, electrónica, control y robótica. Partiendo del Real Decreto de enseñanzas mínimas y de la orden por la que se aprueba el currículo aragonés para enseñanza secundaria, integrar los contenidos anteriormente citados, trabajar las competencias clave y llegar a proporcionar a los docentes de la especialidad de tecnología una serie de herramientas que les ayuden a impartir la materia. Las herramientas que se pretende proporcionar son: •	Manuales de uso de Arduino, Scratch y S4A. •	Listado de material necesario y presupuesto. •	Colección de prácticas para trabajar en el aula taller. •	Colección de proyectos para proponer al alumnado. Otro objetivo es fomentar entre el alumnado el uso de hardware y software libre. El objetivo final es que los alumnos se aproximen lo máximo posible a los objetivos de la materia al acabar la etapa de la ESO y que adquieran un grado de desarrollo de las competencias clave lo más alto posible, con el fin de que puedan continuar sus estudios con solvencia en ciclos formativos de grado medio, grado superior, bachillerato y universidad. Conforme se desarrolle el proyecto, se va a ir poniendo en práctica en el aula.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61423</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61423/files/TAZ-PFC-2017-005.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Integración de los contenidos de la asignatura de Tecnología de 4º ESO para ser impartidos con Arduino y S4A</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+    <dc:title xml:lang="en">Integration of the technology contents of 4th of Secondary Education to be taught with Arduino and S4A</dc:title>
+</oai_dc:dc>

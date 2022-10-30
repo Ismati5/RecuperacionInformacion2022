@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sancho Sanz, Javier</dc:contributor>
+    <dc:creator>Rozado Aguirre, Zuriñe</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El receptor de lipoproteínas de baja densidad (rLDL) es una proteína de membrana que juega un papel crucial en el mantenimiento de concentraciones adecuadas de colesterol en el organismo. Su disfunción se asocia con la aparición de Hipercolesterolemia Familiar (HF), una enfermedad común caracterizada por altos niveles de colesterol en los vasos sanguíneos.  El mecanismo por el cual el receptor lleva a cabo la internalización de las lipoproteínas a las células y su posterior liberación en los endosomas sigue siendo hoy en día de gran interés para entender en segundo lugar disfunciones del receptor asociadas a HF. Entre los distintos dominios del receptor, se encuentra el dominio de unión a ligando, compuesto a su vez por 7 repeticiones homólogas  de unos 40 aminoácidos, conocidas como módulos LR (1-7) de los cuales los números 4 y 5 son los directamente implicados en la unión con las lipoproteínas. Todos ellos requieren la presencia de Ca2+ para adoptar una conformación estable y mantener a las LDL unidas. En este trabajo se expone un estudio de las propiedades del módulo 4 y el tándem 4-5 con objeto de estudiar sus diferencias conformacionales en presencia y ausencia de Ca2+ y Mg2+ tanto en condiciones extracelulares (pH 7)  como endosomales (pH 5.5), donde se produce la liberación.  Entre los estudios llevados a cabo en este trabajo, se encuentran en su mayoría ensayos cinéticos de asociación y disociación, realizado mediante el sistema de flujo detenido,  de los módulos LR4 y LR5 con Ca2+y Mg2+en ambas condiciones que en algunos casos se complementan con otras técnicas termodinámicas. Por otro lado, en el trabajo también se lleva a cabo la purificación y una caracterización espectroscópica preliminar del dominio de unión a ligando completo LR (1-7).</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8243</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Bioquímica y Biología Molecular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8243/files/TAZ-TFM-2012-330.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>ldl</dc:subject>
+    <dc:subject>receptor ldl </dc:subject>
+    <dc:subject>colesterol</dc:subject>
+    <dc:subject>hipercolesterolemia familiar</dc:subject>
+    <dc:subject>Máster Universitario en Biología Molecular y Celular</dc:subject>
+    <dc:title>Estabilidad e interacciones del dominio de unión del receptor de LDL</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

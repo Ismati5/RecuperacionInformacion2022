@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bel Cacho, José David</dc:contributor>
+    <dc:creator>Fleta Melero, Adrián</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>El presente trabajo de fin de grado (TFG) “Análisis estructural de la cubierta de un centro comercial”, es meramente académico y fruto de un largo periodo de trabajo a lo largo de todo el curso académico, en colaboración con el Área de Ingeniería Mecánica de Medios Continuos y Teoría de Estructuras de la EINA, y bajo la dirección de D. José David Bel Cacho. 	El objeto principal del proyecto es analizar la estructura del centro comercial “Le Paquebot” en Saint Nazaire (Francia). Pero no la estructura en su totalidad, si no más concretamente la estructura metálica que sustenta la cubierta de los edificios que conforman el centro, y la estructura tridimensional que une ambos edificios que componen el centro, dando cohesión al enclave y a su vez sustentando dos grandes pasarelas que unen ambos edificios. Para la realización del trabajo, en una primera etapa se indaga sobre la información disponible a cerca del centro “Le Paquebot” en cuanto a historia, características técnicas, dimensiones y materiales. 	En un segundo paso se implementan modelos de cálculo que nos permitan estudiar toda la estructura del modo más preciso y exacto posible, y se realizan unas simulaciones para el cálculo de los esfuerzos que resistirán los elementos de la estructura, producidos por las distintas acciones pertinentes que actúan sobre dicha estructura. Con el fin de analizar las tensiones y deformaciones a las que estará sometida la estructura objeto de proyecto. 	 	Para la realización del modelo y el posterior cálculo de la estructura se utiliza el programa “CESPLA” y “CESTRI”. Ambos son programas docentes para el cálculo de estructuras mediante el método matricial, que es más que suficientemente exacto para este tipo de estructura. Para el cálculo de las acciones se recurren a los “Eurocódigos”, debido a que son la norma a aplicar a la hora de proyectar e implantar estructuras dentro de la Unión Europea y fuera del nivel nacional.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/47455</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/47455/files/TAZ-TFG-2015-3220.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/47455/files/TAZ-TFG-2015-3220_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Análisis estructural de la cubierta de un centro comercial</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

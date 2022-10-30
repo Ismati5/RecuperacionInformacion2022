@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Franco Gimeno, José Manuel</dc:contributor>
+    <dc:creator>Molinos Arruebo, Eduardo</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>La teoría de cálculo de costes LCC (“Life Cycle Cost” o, en castellano “Coste de Ciclo de Vida”) tiene como objeto el definir el coste global de una instalación o equipo durante su ciclo de vida completo, incluyendo costes de adquisición y de explotación (y eliminación en caso de que exista). En este Proyecto Fin de Carrera (PFC) se ha realizado un estudio con el fin de establecer un método de categorización de componentes mecánicos de vehículos ferroviarios basado en la fiabilidad. Este estudio está orientado al campo del mantenimiento ferroviario dado que las averías de dichos componentes condicionan de forma directa el funcionamiento del tren, y puede dar lugar a fallos en el servicio que se pretende dar a los usuarios. Para ello se ha elaborado un modelo de cálculo de costes y el número de operaciones de mantenimiento preventivo y correctivo, y se ha implementado en la herramienta informática “Arquímedes”, que es un software de cálculo de presupuestos, y tiene la potencia de cálculo necesaria para obtener resultados instantáneos del coste de mantenimiento en función de la fiabilidad. De esta se traducen número de operaciones de mantenimiento en costes anuales de mantenimiento, que a su vez son fundamentales para establecer el (LCC) de cada componente. Una vez calculado el coste LCC de cada componente, se ha logrado establecer los dos parámetros, mínimo coste LCC y riesgo, en los que se basa la escala para la categorización de dichos componentes. Se han escogido siete componentes mecánicos de un tren, sobre los cuales se ha aplicado el modelo de cálculo y el método de categorización. Como resultado final se han establecido cuatro grupos de categorización en función de la criticidad. Cada uno de estos grupos reúne componentes, que por su naturaleza y características, tienen influencias similares entre elementos de un mismo grupo y a su vez difieren con aquellos que pertenecen a grupos diferentes. De esta forma se establece una clara diferenciación entre componentes que tienen una repercusión importante sobre el coste del plan de mantenimiento anual, y que por tanto lo tendrán también sobre el coste LCC, de aquellos cuya repercusión en ambos parámetros es menos significativa.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10612</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10612/files/TAZ-PFC-2013-283.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>mantenimiento ferroviario</dc:subject>
+    <dc:subject>fiabilidad</dc:subject>
+    <dc:subject>lcc</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Análisis y categorización de componentes ferroviarios según un modelo de cálculo de costes de mantenimiento basado en la fiabilidad</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

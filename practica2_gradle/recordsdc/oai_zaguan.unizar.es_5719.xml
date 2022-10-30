@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Castejón Herrer, Luis</dc:contributor>
+    <dc:creator>Pérez García, Diego</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Tal y como se indica en su título, el presente proyecto consiste en la realización de un programa informático para el cálculo de una gama de grúas torre sin pináculo de características variables: Altura, longitud y carga en punta de pluma. Para su realización se emplearán dos lenguajes de programación: Visual Basic y MatLab. El primero de ellos se usará para el cálculo y dimensionamiento de todos los elementos necesarios para el funcionamiento de la grúa: Gancho, poleas, cable, tambor, motor… de los mecanismos de elevación, traslación y orientación. Una vez definidos esos elementos, se utilizará MatLab para la realización del cálculo estructural de la grúa y su deformada, aplicando para ello las teorías del cálculo matricial, gracias a la gran potencia de MatLab para realizar operaciones con vectores y matrices. También se utilizará Visual Basic para la programación del interfaz de usuario del programa.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5719</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería e Infraestructura de los Transportes</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5719/files/TAZ-PFC-2011-168_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5719/files/TAZ-PFC-2011-168.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>grúa</dc:subject>
+    <dc:subject>grúa torre</dc:subject>
+    <dc:subject>estructuras</dc:subject>
+    <dc:subject>cálculo matricial</dc:subject>
+    <dc:subject>elementos de grúas</dc:subject>
+    <dc:subject>elevación</dc:subject>
+    <dc:subject>transporte</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Programa para el cálculo de la estructura y elementos de grúas torre sin pináculo</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

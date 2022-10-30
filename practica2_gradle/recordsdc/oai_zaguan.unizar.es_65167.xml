@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>López Molinero, Angel</dc:contributor>
+    <dc:creator>Herrera Fernández, Sergio</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>La captura de imágenes digitales con sensores de cámaras fotográficas, así como ‘‘webCam’ han sido evaluadas y aplicadas en el desarrollo de metodología analítica. Procedimientos que dan lugar a coloración o fluorescencia han sido elegidos. La medida de colores básicos RGB y su relación con el analito permite desarrollar métodos rápidos de análisis. Inicialmente, la reacción colorimétrica de Boedecker con sulfitos, se ha estudiado con una modificación en la que se introducen nano-partículas de Grafeno. Sus prestaciones analíticas se han comparado frente a determinaciones similares en ausencia de Grafeno.  La medida de procesos fluorescentes ha sido objetivo principal y llevada a cabo sobre reacciones de referencia. La fluorescencia de Calceina, Grafeno y Grafeno oxidado y La cromaticidad de la reacción de la Calceina con Ca(II) ha sido caracterizada mediante valores RGB de imágenes digitales.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/65167</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Analítica; Área de Química Analítica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/65167/files/TAZ-TFG-2017-2065.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Química</dc:subject>
+    <dc:title>Métodos analíticos basados en imágenes digitales: Procesos de luminiscencia medidos con sensores</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Analytical methods by means of digital images: luminiscence processes measured with sensors</dc:title>
+</oai_dc:dc>

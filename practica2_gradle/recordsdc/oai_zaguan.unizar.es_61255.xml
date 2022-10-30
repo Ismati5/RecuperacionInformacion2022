@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Beltrán Blázquez, José Ramón</dc:contributor>
+    <dc:creator>Compais Serrano, Pedro Luis</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>El objetivo principal del trabajo es la construcción y validación de un motor electrostático corona que utilice la electricidad atmosférica. Para su realización, se abordarán los siguientes problemas: análisis constructivo del motor electrostático corona, diseño e implementación del motor, análisis de la captura de electricidad atmosférica y característica y medida operativa. Se usarán como herramientas del proyecto el estudio teórico del comportamiento de los motores electrostáticos y del sistema eléctrico atmosférico. El propio diseño y construcción del motor, así como la validación del sistema desarrollado, serán otras herramientas de la metodología del proyecto. En este proyecto se ha conseguido construir y validar un motor electrostático corona, además de profundizar en la problemática del sistema de captura de electricidad atmosférica.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61255</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61255/files/TAZ-TFG-2016-2208.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/61255/files/TAZ-TFG-2016-2208_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Diseño e implementación del motor electrostático corona con aprovechamiento de la electricidad atmosférica</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Design and implementation of a corona electrostatic motor exploiting atmospheric electricity</dc:title>
+</oai_dc:dc>

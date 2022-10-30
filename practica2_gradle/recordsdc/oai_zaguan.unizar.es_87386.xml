@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Jiménez Seral, Paz</dc:contributor>
+    <dc:contributor>Vázquez Lapuente, Manuel</dc:contributor>
+    <dc:creator>Miralles Millas, Laura</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Esta memoria está destinada a demostrar el Teorema de Perron-Frobenius y una de sus múltiples aplicaciones: el índice Eigenfactor en el Journal Citation Reports (JCR).&lt;br /&gt;Este teorema del siglo XX, aparentemente abstracto y teórico, demostrado por los matemáticos Oskar Perron y F.G. Frobenius -como su nombre indica- asegura la existencia de un valor propio real de una matriz positiva e irreducible, que acota en módulo al resto de valores propios de la matriz. Además, el vector propio asociado a dicho valor propio cumple que todas sus componentes son positivas y reales. &lt;br /&gt;Entre las diversas aplicaciones encontramos el conocido algoritmo Pagerank de Google o la obtención de ordenaciones, rankings o clasificaciones de un conjunto de personas o entidades. Será esta aplicación la que se desarrolla en la segunda parte del trabajo. Más concretamente, el ranking de las revistas listadas en el JCR.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87386</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Matemáticas; Área de Algebra</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87386/files/TAZ-TFG-2019-3127.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/87386/files/TAZ-TFG-2019-3127_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Matemáticas</dc:subject>
+    <dc:title>Teorema de Perron-Frobenius. Aplicación en el JCR (Eigenfactor TM Score en el JCR)</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Perron-Frobenius theorem. Application in the JCR (Eigenfactor TM Score in the JCR)</dc:title>
+</oai_dc:dc>

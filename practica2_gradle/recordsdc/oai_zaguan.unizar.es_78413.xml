@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Weiner, Christian</dc:contributor>
+    <dc:contributor>Marcuello Pablo, Juan José</dc:contributor>
+    <dc:creator>Oroz Joven, Javier</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>This thesis will be the second part of a project whose goal is to build a test set-up of a DC-DC boost converter in the power electronics lab at h-da. Thanks to this set-up, future students will be able to see the differences between several control techniques with Power Factor Correction (PFC) in a boost converter. The main specification of the project is to transform the input energy into an output voltage of 50 DCV with a limitation of maximum 60 DCV. Since the power factor has become an element to take into account especially when it comes to charging batteries, it is very important to use power factor correction techniques. And this converter will be made by means of two different types of PFC control circuits: Continuous Conduction Mode (CCM) and Discontinuous Conduction Mode (DCM). So, the goal of this project is to test if this build-up works, to improve the safety circuit, to research about the different types of PFC circuits and to design and build them the in some interchangeable PCBs in order to make the circuit more didactic for students.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/78413</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/78413/files/TAZ-TFM-2018-1211.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Industrial</dc:subject>
+    <dc:title>Test Set-up for Power Factor Correction Boost Converter Circuits</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Test Set-up for Power Factor Correction Boost Converter Circuits</dc:title>
+</oai_dc:dc>

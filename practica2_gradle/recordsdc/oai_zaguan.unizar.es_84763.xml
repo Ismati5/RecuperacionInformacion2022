@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Casas Nebra, Roberto José</dc:contributor>
+    <dc:creator>Martínez Galindo, Pablo</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>El presente trabajo se enfoca en el mantenimiento predictivo. Este concepto adquiere gran relevancia con el auge de la denominada Industria 4.0, caracterizada por las fábricas conectadas e inteligentes. (López Ramón y Cajal, 2016)&lt;br /&gt;El trabajo se divide en dos partes. En primer lugar, se ha realizado un estudio del estado del arte actual del mantenimiento predictivo. Se han analizado y explicado las diferentes etapas que se deben llevar a cabo para establecer un programa de mantenimiento predictivo, así como las técnicas y herramientas utilizadas en cada fase. El objetivo de este estudio es determinar cuáles son las técnicas de monitorización que permiten predecir la mayoría de las averías comunes en máquinas.&lt;br /&gt;En segundo lugar, se ha desarrollado una herramienta de monitorización de máquinas. Esta herramienta, basándose en el estudio del estado del arte realizado, pretende poder predecir aquellos fallos que ocurren con mayor frecuencia en la mayoría de las máquinas. Para ello se compone de un acelerómetro, un medidor de consumo eléctrico, un micrófono y un medidor de gradientes de temperatura.&lt;br /&gt;La adquisición, almacenamiento y procesado de datos se realiza con una Raspberry Pi, la cual puede servir de interfaz al usuario o enviar de forma remota los resultados a otros equipos.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/84763</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/84763/files/TAZ-TFM-2019-1066.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Industrial</dc:subject>
+    <dc:title>Mantenimiento predictivo; estado del arte y desarrollo de herramienta para monitorización</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Predictive maintenance; state of the art and monitoring tool development</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Royo Sánchez, Jesús</dc:contributor>
+    <dc:contributor>Valencia Méndez, Javier</dc:contributor>
+    <dc:creator>Pascual Fernández, Jorge</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>En este proyecto se han empleado las diversas soluciones informáticas existentes en el mercado, además de una desarrollada en la Universidad de Zaragoza, Carbon Footprint for Logistics, para calcular la huella de carbono (concepto utilizado para medir las emisiones de gases de efecto invernadero, expresadas en Kg de CO2e o Tn de CO2e) generada por determinadas operaciones de la empresa Carreras, Grupo Logístico. Dado este contexto, también ha sido un objetivo del proyecto el evaluar la validez del programa desarrollado en la Universidad de Zaragoza, el cual es el primero en su tipo especializado en entornos logísticos, mediante su comparación con las otras aplicaciones empleadas. Para lograr lo anterior, en primer lugar se han recopilado los diferentes instrumentos que se mencionan en las fuentes consultadas. Estos instrumentos han sido estudiados y se han descartado aquellos que no son útiles para el cálculo de huella de carbono de procesos logísticos, siendo los restantes programas informáticos analizados en mayor profundidad y evaluados según determinados criterios subjetivos establecidos por el autor para este fin. Cabe mencionar que previo al recuento de la huella de carbono para la empresa Carreras, se ha determinado la validez de Carbon Footprint for Logistics mediante el cálculo de las emisiones de GEI a la atmósfera en un proceso logístico ficticio ideado por el autor, muy similar a uno real. Por último, se ha llevado a cabo el cálculo de un proceso logístico real, con datos proporcionados por Carreras, Grupo Logístico, pertenecientes a parte de la operativa de la empresa. Para este cálculo se han empleando los tres programas informáticos que obtuvieran una mayor puntuación en la evaluación, entre los que se incluye el realizado por personal de la Universidad de Zaragoza. Los resultados proporcionados por las tres herramientas han sido similares, con lo que se ha alcanzado el doble objetivo de calcular la huella de carbono de la operativa de Carreras, Grupo Logístico y comprobar la validez del instrumento de estudio, Carbon Footprint for Logistics. Tras el cálculo, los resultados fueron presentados a la empresa Carreras en diversas reuniones con sus responsables de logística, que quedaron muy satisfechos con el trabajo y comenzaron a contemplar la posibilidad de ampliar el estudio a nuevas áreas de sus operaciones con vistas a reducir su huella de carbono. En última instancia se han propuesto diferentes ideas de mejora para la herramienta desarrollada por la Universidad de Zaragoza a sus creadores, que han sido tomadas muy en cuenta para el próximo desarrollo de la versión 2.0 de la aplicación.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8671</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8671/files/TAZ-PFC-2012-439.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/8671/files/TAZ-PFC-2012-439_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>contaminación</dc:subject>
+    <dc:subject>huella de carbono (hc)</dc:subject>
+    <dc:subject>logística</dc:subject>
+    <dc:subject>3pls</dc:subject>
+    <dc:subject>cadena de suministro</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Cálculo de la huella de carbono de la operativa de "Carreras, Grupo Logístico" mediante diferentes herramientas de cálculo</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

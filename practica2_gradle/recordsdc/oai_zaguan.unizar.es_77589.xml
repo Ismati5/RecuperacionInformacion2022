@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Rodríguez Fernández, Ricardo Julio</dc:contributor>
+    <dc:contributor>Merseguer Hernaiz, José Javier</dc:contributor>
+    <dc:creator>Marcos Cincunegui, Ibai</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>Modbus/TCP es un protocolo de comunicaciones estandarizado de las redes de control industrial, utilizado principalmente en los controladores lógico programables y por sistemas o equipos de supervisión y adquisición de datos (SCADA). Inicialmente, estos sistemas se encontraban en redes aisladas, con lo que la seguridad de los datos no era un factor prioritario ni determinante. Sin embargo, la rápida evolución de la industria y de la tecnología, con la aparición de Internet, ha llevado a estos sistemas a hacer uso del protocolo Modbus en redes abiertas. Esta nueva exposición de la información en los sistemas SCADA ha generado una necesidad de securización de los datos, antes inexistente. Con el objetivo de introducir una herramienta que permita el inicio de la securización del protocolo, en este trabajo se ha desarrollado un entorno de simulación del protocolo Modbus/TCP que permite analizar soluciones de seguridad en este tipo de redes sin necesidad de disponer de un entorno real. Para validar el simulador, se ha dispuesto de un entorno real con una red SCADA que hace uso del protocolo Modbus/TCP. De esta red, se han recogido muestras del tráco de red, analizándolas en detalle. Tras la evaluación del trabajo realizado, se ha obtenido de forma satisfactoria un escenario simulado que reproduce un escenario equivalente al analizado. Además, se han podido reproducir diferentes ataques al protocolo Modbus/TCP en el simulador, lo que permite disponer de un entorno donde se pueden probar diferentes soluciones de seguridad. La realización de este trabajo sirve como punto de partida para nuevos desarrollos orientados hacia la securización del ya estandarizado Modbus/TCP, acelerar la integración de nuevas tecnologías en las redes SCADA o facilitar el estudio, conocimiento y solución de los puntos vulnerables en sistemas similares.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/77589</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/77589/files/TAZ-TFG-2018-2924.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías y Servicios de Telecomunicación</dc:subject>
+    <dc:title>Análisis de vulnerabilidades y securización de protocolo Modbus/TPC</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Vulnerability Analysis and Securization of Modbus/TPC Protocol</dc:title>
+</oai_dc:dc>

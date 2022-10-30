@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Vea Muniesa, Fernando</dc:contributor>
+    <dc:contributor>López Pérez, José María</dc:contributor>
+    <dc:creator>Lasheras Bes, Javier</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Los circuitos electrónicos se utilizan para resolver problemas de la electrónica. Estos circuitos están constituidos por componentes electrónicos interconectados. Dichos componentes electrónicos pueden clasificarse en dos grandes grupos: componentes pasivos y componentes activos. Entre los componentes pasivos se incluyen las resistencias, los condensadores y las bobinas. Entre los componentes activos, el grupo de los semiconductores es uno de los más importantes para la electrónica, entre los que cabe destacar los diodos, los transistores y los tiristores. Por ello, éstos son los componentes que se estudian en este proyecto. A partir de la aparición de algunos de estos componentes, los progresos subsiguientes en la tecnología de semiconductores llevaron al desarrollo del circuito integrado. Estos dispositivos pueden contener centenares de miles de componentes, permitiendo la construcción de circuitos electrónicos complejos. No obstante, este tema podría ser objeto de otro proyecto, dada la importancia y extensión del mismo. La información de cada componente se ha distribuido según los siguientes bloques principales: Resistencias: Clasificación, Características técnicas, Resistencias ajustables y potenciómetros y Resistencias no lineales. Condensadores: El primer condensador (La Botella de Leyden), Clasificación y aplicaciones, Características técnicas y Los supercondensadores (artículo). Bobinas: Principio básico de funcionamiento, Clasificación, Características técnicas, Principales aplicaciones y Transformadores. Diodos: Teoría de semiconductores, Características técnicas, Tipos de diodos y Simbología. Transistores: Breve historia y Tipos de transistores. Tiristores: SCR y TRIAC. La información contenida en este proyecto se presenta en un DVD multimedia mediante una aplicación interactiva realizada con el programa Adobe DIRECTOR. De este modo, se facilita el acceso a la información y se hace más amena su consulta.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/16057</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Matemática Aplicada; Área de Matemática Aplicada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/16057/files/TAZ-PFC-2014-438.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>componentes electrónicos</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electrónica Industrial)</dc:subject>
+    <dc:title>Exposición virtual de componentes electrónicos</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mena Nieto, Eduardo</dc:contributor>
+    <dc:creator>Clemente Salvador, Roberto</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>El MIH (Museo de Informática Histórica) cuenta con un gran número de ítems en su colección, al mismo tiempo que un número limitado de vitrinas para exponerlos. Por ello, estos objetos se suelen exponer juntos en un entorno reducido, lo cual no deja espacio para colocar sus respectivas etiquetas. El propósito de este proyecto es evitar esta limitación, llevando la información de dichas etiquetas a una plataforma móvil. A través de la cámara del dispositivo el usuario podrá reconocer los objetos que se encuentren ante él y, acto seguido, el sistema dibujará una etiqueta virtual sobre el objeto reconocido mediante técnicas de Realidad Aumentada. Además, el usuario podrá seleccionar los objetos que reconozca para visualizar información más detallada de los mismos, incluyendo una descripción, una imagen y un modelo	3D con el que poder interactuar. Además, el sistema permitirá visualizar estanterías y objetos virtuales como si realmente figurasen en el museo. Para que los datos de la aplicación sean consistentes con los objetos que figuran actualmente en el museo se implantará una base de datos en un servidor externo, desde la que será posible actualizar los datos de la aplicación en caso de modificación. Para gestionar dicha BD se creará una herramienta con interfaz gráfica, facilitando así su mantenimiento por parte del administrador.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76507</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76507/files/TAZ-TFG-2018-3804.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>Aplicación de realidad aumentada para el museo de informática histórica (MIH) de la Universidad de Zaragoza</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Augmented Reality application for museo de informática histórica (MIH) of Universidad de Zaragoza</dc:title>
+</oai_dc:dc>

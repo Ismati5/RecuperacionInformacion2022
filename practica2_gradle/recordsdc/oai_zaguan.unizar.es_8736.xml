@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Fernández Navajas, Julián</dc:contributor>
+    <dc:creator>Santos Tena, Elisa</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El crecimiento en el uso de las aplicaciones multimedia en los últimos años ya sean Web, vídeo en tiempo real, conversaciones de voz, aplicaciones P2P y un largo etcetera, ha hecho que aumente su tráfico en la red. El incremento de ese tráfico ha provocado la aparición de ciertos puntos críticos a lo largo del trayecto, siendo necesaria la identificación y el análisis de los mismos. Este hecho, ha incitado a los expertos a buscar soluciones para controlar y gestionar este tráfico, y por ello se están desarrollando continuamente herramientas que faciliten esta tarea. Este proyecto se basa en la implementacion de una herramienta automatizada enfocada al sector empresarial, para el estudio del comportamiento del tráfico de aplicaciones sobre un entorno de red controlado. La necesidad viene dada porque es necesario conocer de antemano si la red será capaz de soportar el lanzamiento de un servicio y para ello es muy útil contar con una herrameinta que garantice repetibilidad en su análisis. Con el fin de desarrollar la herramienta, el primer paso fue seleccionar aquellas aplicaciones multimedia que se pueden definir como casos de uso común y que presentan modelos de tráfico significativos en la red, como pueden ser voz, juegos online y videovigiliancia entre otros. Para facilitar esta selección se acudió al entorno empresarial, de tal forma que se identificaron aplicaciones de uso frecuente. En segundo lugar se realizó la selección de escenarios comunes en los entornos (WiFi y Ethernet) y que se han utilizado en el presente trabajo. Por último se eligió la herramienta adecuada para proceder a la captura del tráfico. Como resultado de todo el proceso llevado a cabo se obtuvo una herramienta automatizada para el análisis de tráfico, la captura y generación de  flujos IP multimedia que permite obtener medidas de calidad en diferentes entornos controlado de laboratorio, así como en entornos reales, de manera que sirva para la evaluación de distintas tecnologías y aplicaciones, así como la caracterización de entornos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8736</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingeniería Telemática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8736/files/TAZ-PFC-2012-492.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>ip</dc:subject>
+    <dc:subject>multimedia</dc:subject>
+    <dc:subject>modelado</dc:subject>
+    <dc:subject>virtualización</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicación</dc:subject>
+    <dc:title>Análisis de tráfico Ip multimedia en entornos empresariales: Automatización del proceso</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

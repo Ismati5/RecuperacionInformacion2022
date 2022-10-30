@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Villarroya Gaudó, María</dc:contributor>
+    <dc:contributor>Suárez Gracia, Darío</dc:contributor>
+    <dc:creator>Ortín Obón, Marta</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Los computadores más recientes incluyen complejos chips compuestos de varios procesadores y una cantidad significativa de memoria cache. La tendencia actual consiste en conectar varios nodos, cada uno de ellos con un procesador y uno o más niveles de cache privada y/o compartida, utilizando una red de interconexión. La importancia de esta red está aumentando a medida que crece el número de nodos que se integran en un chip, ya que pueden aparecer cuellos de botella en la comunicación que reduzcan las prestaciones. Además, la red contribuye en gran medida al consumo de energía y área del chip. En este proyecto, comparamos el comportamiento de tres topologías: el anillo bidireccional, la malla y el toro. El anillo es una topología mínima con bajo coste en energía pero peor rendimiento debido a la mayor latencia de comunicación entre nodos. Por otro lado, el toro tiene mayor número de enlaces entre nodos y ofrece mejores prestaciones. La malla ha sido incluida como una opción intermedia altamente popular. Analizaremos también dos topologías de anillo adicionales que aprovechan la reducida área y complejidad del mismo: una con mayor ancho de banda y otra con routers de menor número de ciclos. Modelamos cuidadosamente todos los componentes del sistema (procesadores, jerarquía de memoria y red de interconexión) utilizando simulación de sistema completo. Ejecutamos aplicaciones reales en arquitecturas con 16 y 64 nodos, incluyendo tanto cargas paralelas como multiprogramadas (ejecución de varias aplicaciones independientes). Demostramos que la topología de la red afecta en gran medida al rendimiento en sistemas con 64 nodos. Con las topologías de anillo, los tiempos de ejecución son mucho mayores debido al aumento del número de saltos que le cuesta a un mensaje atravesar la red. El toro es la topología que ofrece mejor rendimiento, pero la elección más óptima sería la malla si tenemos en cuenta también energía y área. Por otro lado, para chips con 16 nodos, las diferencias en rendimiento son menores y un anillo con routers de 3 cyclos ofrece un tiempo de ejecución aceptable con el menor coste en área y energía. Nuestra aportación más significativa está relacionada con la distribución del tráfico en la red. Vemos que el tráfico no está distribuido uniformemente y que los nodos con mayores tasas de inyección varían con la aplicación. Hasta donde nosotros sabemos, no hay ningún trabajo de investigación previo que destaque este comportamiento.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9222</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Arquitectura y Tecnología de Computadores</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9222/files/TAZ-TFM-2012-912.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>arquitectura de computadores</dc:subject>
+    <dc:subject>chip multiprocesador</dc:subject>
+    <dc:subject>redes de interconexión</dc:subject>
+    <dc:subject>topologías</dc:subject>
+    <dc:subject>Máster Universitario en Ingeniería de Sistemas e Informática</dc:subject>
+    <dc:title>Characterization of interconnection networks in CMPs using full-system simulation</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

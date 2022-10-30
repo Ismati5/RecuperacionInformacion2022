@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Arcega Solsona, Francisco Javier</dc:contributor>
+    <dc:creator>Echeverría Ciaurri, Iván</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El presente trabajo consiste en un análisis mediante modelos de simulación de los distintos métodos de medida que se emplean para caracterizar supercondensadores. Con ello, partiendo de una revisión de las técnicas más empleadas y a través de un modelado de supercondensadores adecuado mediante software de simulación, se plantea estudiar la forma en que la energía estimada y los parámetros que definen el supercondensador se ven afectados por el método empleado. La variación de resultados con los métodos de medida actuales suponen un problema a la hora de caracterizar supercondensadores. El presente trabajo está enfocado a investigar una metodología que permita establecer la forma más adecuada de llevar a cabo la medida real de un supercondensador, de manera que se obtenga una forma rápida, eficaz y rentable de caracterizar supercondensadores.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6744</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6744/files/TAZ-TFM-2011-125.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>medida</dc:subject>
+    <dc:subject>supercondensador</dc:subject>
+    <dc:subject>simulación</dc:subject>
+    <dc:subject>energía</dc:subject>
+    <dc:subject>Máster Universitario en Energías Renovables y Eficiencia Energética</dc:subject>
+    <dc:title>Estudio de métodos de medida para supercondensadores</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

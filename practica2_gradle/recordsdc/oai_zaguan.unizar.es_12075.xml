@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Dwivedi, Satyam</dc:contributor>
+    <dc:contributor>Masgrau Gómez, Enrique</dc:contributor>
+    <dc:creator>Lacasa Calvo, Luis</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>La localización en interiores de usuarios móviles es actualmente un tema central para muchas aplicaciones y campos, incluidas las redes de sensores, gestión de activos, asistencia sanitaria y localización de personal de seguridad pública. Las soluciones existentes se basan a menudo en la fusión de la información de múltiples sensores. La posibilidad de utilizar un sistema de banda ultra ancha (UWB) para la medición inalámbrica de distancias basada en el tiempo de ida y vuelta (RTT) se ha investigado en este proyecto final de carrera. Los receptores UWB no coherentes se han analizado utilizando dos enfoques diferentes: la detección de la amplitud y la detección de la energía. Para el análisis, se desarrolla un estudio teórico y también se han realizado diversas simulaciones. Además, ambos receptores UWB no coherentes han sido diseñados e implementados. Por otra parte, un método ha sido propuesto para permitir la reconstrucción de un pulso UWB a partir del submuestreo de una ráfaga de pulsos UWB y tratar de aproximar el rendimiento óptimo del receptor UWB ideal. Las simulaciones producen resultados interesantes en cuanto al rendimiento de la estimación de RTT. Ambas técnicas de detección se comparan, describiendo las ventajas y desventajas de cada uno.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12075</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12075/files/TAZ-PFC-2013-527.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>uwb</dc:subject>
+    <dc:subject>estimación de tiempo de llegada</dc:subject>
+    <dc:subject>detección de pulsos</dc:subject>
+    <dc:subject>localización</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicación</dc:subject>
+    <dc:title>Investigation of variety of non-coherent front end detectors for timing estimation</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

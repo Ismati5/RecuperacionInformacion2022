@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Muñoz Rodríguez, Mariano</dc:contributor>
+    <dc:creator>Serret Martín, Vicente</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>Este proyecto presenta el proceso que se ha llevado a cabo para el diseño de un sistema independiente de refrigeración, el cual debe actuar específicamente sobre el aceite que discurre a través del sistema de lubricación de una turbina de gas. Dicha instalación está localizada en el laboratorio de motores térmicos de la EINA. El trabajo de diseño se ha basado en el planteamiento de problemas analíticos relativos a la transferencia de calor, teniendo en cuenta diferentes caudales de fluidos como agua, aire y aceite, y el intercambio de calor que ha de producirse entre ellos. En el documento se muestra además, de manera detallada, toda la metodología empleada en los cálculos. También se ha recopilado información sobre algunos componentes que deben formar parte de la instalación (bomba de agua, ventilador, etc.) y, habiéndose sometido éstos a búsqueda, se han adjuntado especificaciones técnicas acerca de aquellos que se han considerado los más adecuados para instalar en el sistema.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/48234</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/48234/files/TAZ-TFG-2015-3386.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Diseño del sistema de lubricación del aceite de refrigeración de una turbina de gas</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

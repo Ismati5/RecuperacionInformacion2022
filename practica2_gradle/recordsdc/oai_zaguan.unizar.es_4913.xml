@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Murillo Villuendas, Ramón</dc:contributor>
+    <dc:contributor>Grasa Adiego, Gemma</dc:contributor>
+    <dc:contributor>Romeo Giménez, Luis Miguel</dc:contributor>
+    <dc:creator>Martínez Berges, Isabel</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>En este trabajo se ha estudiado el proceso de reformado de CH4 con vapor con captura in situ de CO2 mediante CaO, desde el punto de vista de consumos energéticos y producción de H2, con el fin de proponer unas condiciones de operación óptimas. Para ello, se desarrolló un modelo de simulación en Aspen HYSYS (Versión 3.0.1.) de una planta de reformado de estas características, teniendo en cuenta una serie de hipótesis en lo referente a operación de la planta. Se planteó un estudio paramétrico en función de las principales variables de operación (ratio S/C, ratio CaO/CH4 y kg NiO/kg CH4), y se aplicó la metodología Pinch en cada caso para calcular la necesidad externa de energía de la red de intercambiadores de calor, que resulta de aprovechar al máximo la energía de las corrientes de producto calientes que se enfrían y calientan a los reactivos fríos que entran al proceso. A partir de la definición del rendimiento térmico de la planta, que tiene en cuenta la producción de H2 y los consumos de energía asociados al CH4 alimentado, la Unidad de Separación de Aire y el aporte externo necesario en la red de intercambiadores de calor, se determinó que los parámetros óptimos de la planta eran un ratio S/C de 3, un ratio CaO/CH4 de 5 y 1 kg NiO/kg CH4. Para estas condiciones de operación, se propuso un diseño de la red de intercambiadores de calor que minimizaba el aporte externo de energía necesario. Finalmente, se compararon los resultados obtenidos con el proceso de reformado catalítico de CH4 que se usa tradicionalmente para producir H2. Se comprobó que el rendimiento térmico neto de ambos procesos era similar con la diferencia fundamental de que el CO2 capturado era prácticamente del 100 % para el reformado con captura in situ de CO2, operando ambos procesos bajo las mismas hipótesis.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4913</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4913/files/TAZ-TFM-2010-016.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/4913/files/TAZ-TFM-2010-016_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Energías Renovables y Eficiencia Energética</dc:subject>
+    <dc:title>Optimización energética del proceso de reformado de metano con captura in situ de CO2</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

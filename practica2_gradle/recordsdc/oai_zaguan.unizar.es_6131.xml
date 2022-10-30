@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Canales Compés, María</dc:contributor>
+    <dc:creator>Ciria Camino, Rafael</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Este proyecto se enmarca dentro del estudio de técnicas eficientes de reconfiguración y adaptación al entorno en un contexto de redes inalámbricas multisalto distribuidas. El proyecto propone técnicas distribuidas de reparto de recursos evaluadas mediante teoría de juegos. La teoría de juegos es una herramienta matemática que analiza las interacciones estratégicas entre múltiples agentes que toman decisiones. Por ello, resulta adecuada para analizar las prestaciones de este tipo de redes, donde cada nodo debe decidir sus parámetros de configuración de manera competitiva. Sin embargo, la complejidad matemática de los problemas a resolver resulta difícil de abordar computacionalmente. Por ello, una aproximación alternativa es el desarrollo de simuladores que modelan las interacciones entre los individuos, partiendo de diversas condiciones iniciales, que permiten evaluar las soluciones propuestas al problema planteado. 	 En este proyecto se ha modificado un simulador ya existente sobre el que se han implementado las distintas estrategias distribuidas de reparto de recursos. Cada alternativa propuesta pretendía mejorar a las anteriores introduciendo un mayor grado de realismo en las simulaciones. 	 Como conclusión, se ha comprobado la capacidad de la teoría de juegos para modelar mecanismos de gestión de recursos radio en redes cognitivas y se han diseñado propuestas distribuidas locales (necesitan poca información de señalización) con buenas prestaciones, comparadas con una solución que garantiza la convergencia y la proximidad al máximo (juego potencial). Por último, se ha demostrado que la incorporación de aprendizaje “no-regret” permite hacer frente a situaciones de no convergencia demostrando la potencialidad de las soluciones propuestas para adaptarse a escenarios variantes. Todo esto permite establecer el punto de partida para desarrollar en el futuro algoritmos distribuidos de gestión de recursos radio y su implementación en protocolos en redes mesh cognitivas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6131</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingenieria Telematica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6131/files/TAZ-PFC-2011-359.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6131/files/TAZ-PFC-2011-359_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>redes inalámbricas cognitivas</dc:subject>
+    <dc:subject>teoría de juegos</dc:subject>
+    <dc:subject>gestión de recursos radio</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicaciones</dc:subject>
+    <dc:title>Estudio de estrategias distribuidas de reparto de recursos en redes inalámbricas cognitivas mediante teoría de juegos</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

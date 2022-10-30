@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<csw:Record xmlns:csw="http://www.opengis.net/cat/csw/2.0.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ows="http://www.opengis.net/ows" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:language>es</dc:language>
+  <dc:identifier>21-CLC2000_aragon</dc:identifier>
+  <dc:contributor>Entidades financiadoras: CLC2000 European Environment Agency; Instituto Geográfico Nacional (España); Aragón. Dirección General de Calidad Ambiental Equipo de validación del dato: Aragón. Diputación General de Aragon y Tecnologías y Servicios Agrarios, S.A.</dc:contributor>
+  <dc:creator>Tecnologías y Servicios Agrarios, S.A.</dc:creator>
+  <dc:creator>Aragón. Servicio de Prevención Ambiental</dc:creator>
+  <dc:description>Base de datos a escala 1:100.000 sobre la ocupación del suelo de la Comunidad Autónoma de Aragón</dc:description>
+  <dc:format>ARCC</dc:format>
+  <dc:language/>
+  <dc:publisher>Aragón. Dirección General de Calidad Ambiental</dc:publisher>
+  <dc:publisher>Tecnologías y Servicios Agrarios, S.A.</dc:publisher>
+  <dc:subject>GEOGRAFIA HUMANA.GEOGRAFIA URBANA.URBANISMO.SUELO URBANO.USOS DEL SUELO</dc:subject>
+  <dc:subject>imageryBaseMapsEarthCover</dc:subject>
+  <dc:title>Corine Land Cover 2000 de Aragón</dc:title>
+  <dc:type>dataset</dc:type>
+  <dcterms:spatial>ESPAÑA.ARAGÓN</dcterms:spatial>
+  <dcterms:temporal>begin=2002-06-10; end=2003-12-03;</dcterms:temporal>
+  <ows:BoundingBox>
+    <ows:LowerCorner>-2.2408150000000013 39.82241379310345</ows:LowerCorner>
+    <ows:UpperCorner>0.7202991666666634 42.98649425287356</ows:UpperCorner>
+  </ows:BoundingBox>
+</csw:Record>

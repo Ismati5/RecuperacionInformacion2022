@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Del Hoyo Alonso, Rafael</dc:contributor>
+    <dc:contributor>Medrano Marqués, Nicolás J.</dc:contributor>
+    <dc:creator>Lahoz Muñoz, Miguel</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Las redes neuronales se están consolidando como método de resolución de problemas de difícil modelización: desde comportamiento predictivo, hasta modelos del lenguaje. En este trabajo se va a estudiar qué es una red neuronal y su modelización matemática, poniendo especial hincapié en las redes orientadas al tratamiento del lenguaje. Se explicarán los modelos Encoder-Decoder, junto a los módulos Transform, estudiando los más populares actualmente y comparando sus resultados en diversas tareas, finalizando con el estudio más completo de un modelo.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87391</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87391/files/TAZ-TFG-2019-3115_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/87391/files/TAZ-TFG-2019-3115.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Física</dc:subject>
+    <dc:title>Estudio de nuevos modelos de Deep Learning para el análisis y comprensión de grandes cantidades de datos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Study of new models of Deep Learning for the analysis and understanding or large data amounts</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Grasa Orús, Jorge</dc:contributor>
+    <dc:creator>Diego Sáenz-López, Borja</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El presente Proyecto Fin de Carrera ha sido desarrollado en el Área de Mecánica de Medios Continuos y Teoría de Estructuras, en el departamento de Ingeniería Mecánica de la Universidad de Zaragoza.  Parte de la idea de llevar a cabo dos objetivos principales. El primero de ellos, es el estudio del comportamiento de un modelo de elementos finitos del músculo tibial anterior de rata frente a la variación de los parámetros del material. En este caso se ha simulado el comportamiento pasivo del material, utilizando tanto geometrías idealizadas del músculo y del tendón, como una malla de elementos finitos que reproduce la unidad músculo-tendón. Para ello se han utilizado tanto los valores de la media y la desviación obtenidos mediante ensayos experimentales en laboratorios, como valores aleatorios generados a partir de los mismos. En el segundo objetivo, se ha llevado a cabo la simulación del comportamiento activo frente a contracciones isotónicas concéntricas. En este modelo se distinguen dos orientaciones diferentes de las fibras musculares. En la primera de ellas, todas las fibras están orientadas a lo largo de la dirección longitudinal, y la otra simulación sigue la geometría fusiforme del músculo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6250</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6250/files/TAZ-PFC-2011-422.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>simulación computacional tejido muscular esquelético</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Simulación computacional del tejido muscular esquelético. Sensibilidad del modelo y comportamiento activo</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

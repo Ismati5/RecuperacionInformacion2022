@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Garcés García, Elena</dc:contributor>
+    <dc:contributor>Gutiérrez Pérez, Diego</dc:contributor>
+    <dc:creator>Osanz Tello, Daniel</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Actualmente, herramientas como Google imágenes nos permiten realizar búsquedas de imágenes prediseñadas -clip art- “visualmente similares” a la imagen de consulta. Sin embargo, los resultados obtenidos se limitan a imágenes con histogramas de color parecidos pero con estilos visuales que pueden ser totalmente diferentes. Esto hace que cuando queramos realizar una composición o un diseño gráfico cuyos elementos sean coherentes visualmente tengamos problemas en la búsqueda de imágenes del mismo estilo. El problema estriba en que los seres humanos somos capaces de interpretar el estilo de manera innata, sin embargo, un ordenador no es capaz de realizar esta tarea de manera automática. En este proyecto se pretende indagar en este problema y analizar a fondo cuáles son las características visuales que definen un estilo de arte gráfico, es decir, qué elementos hacen que imágenes generadas por ordenador nos resulten perceptualmente similares. Además, para dar a conocer la aplicación, se desarrollará la imagen de marca de esta, un prototipo que simule la búsqueda de imágenes teniendo en cuenta sus características con el que se puedan crear composiciones de manera rápida y sencilla, una web promocional y un vídeo explicativo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12312</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12312/files/TAZ-TFG-2013-823.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/12312/files/TAZ-TFG-2013-823_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>diseño</dc:subject>
+    <dc:subject>imagen vectorial</dc:subject>
+    <dc:subject>estilo visual</dc:subject>
+    <dc:subject>Graduado en Ingeniería en Diseño Industrial y Desarrollo de Producto</dc:subject>
+    <dc:title>Diseño de una aplicación de búsqueda de imágenes vectoriales mediante su estilo visual</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

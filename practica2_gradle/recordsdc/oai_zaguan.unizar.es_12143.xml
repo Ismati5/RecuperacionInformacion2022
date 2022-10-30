@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ilarri Artigas, Sergio</dc:contributor>
+    <dc:creator>Sainz Vela, Jorge</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Los agentes móviles son programas que pueden viajar de un ordenador a otro y continuar su ejecución en el ordenador destino. Se ha demostrado su utilidad en diversos contextos, especialmente en entornos inalámbricos y distribuidos. Así, ofrecen diversas ventajas, como la posibilidad de desplazar el procesamiento a los datos para realizar un procesamiento local y minimizar las comunicaciones. Sin embargo, dichas ventajas implican ciertos problemas de seguridad, los cuales han impedido el desarrollo y el uso generalizado de la plataformas de agentes móviles. Dichos problemas de seguridad, se suelen categorizar de la siguiente forma: • Agente contra plataforma. Medidas para evitar que un agente dañe la plataforma sobre la que esta corriendo. Por ejemplo, ataques de denegación de servicio, acceso a recursos no permitidos, etc. • Agente contra agente. Ataques entre agentes, mediante denegaciones de servicio en el paso de mensajes, robos de datos, etc. • Plataforma contra agente. Modificación o copia de código y/o datos del agente, modificación de los mensajes que se envían los agentes, enrutamiento incorrecto del agente, etc. En el proyecto hemos estudiado el estado del arte y hemos elegido e implementado las medidas de seguridad más importantes para proveer a la plataforma de agentes móviles SPRINGS (Scalable PlatfoRm for MovINg Software) de un marco seguro de ejecución que permite su utilización en despliegues sobre redes abiertas y “no confiables”. Se ofrece un diseño que permite al administrador de la plataforma hacer uso o no de las funcionalidades de seguridad que considere oportunas según sus necesidades. Las extensiones de seguridad integradas en SPRINGS permitirán al grupo SID (Research Group of Distributed Information Systems) de la Universidad de Zaragoza continuar el desarrollo de la plataforma con soporte para proteger a los sistemas de agentes móviles de posibles ataques. El grupo SID tiene intención de continuar el estudio y extender la arquitectura diseñando e implementando otras medidas de seguridad que puedan resultar de interés. Posteriormente, se cree que se estará en condiciones de poder preparar un artículo de investigación conjunto que incluya parte del trabajo desarrollado en este proyecto.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12143</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12143/files/TAZ-PFC-2013-568.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>agentes móviles</dc:subject>
+    <dc:subject>seguridad</dc:subject>
+    <dc:subject>java</dc:subject>
+    <dc:subject>springs</dc:subject>
+    <dc:subject>pki</dc:subject>
+    <dc:subject>certificado digital</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Análisis y diseño de mecanismos de seguridad de agentes móviles para la plataforma SPRINGS</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

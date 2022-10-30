@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Almudí Higueras, Isabel</dc:contributor>
+    <dc:contributor>Fatás Villafranca, Francisco</dc:contributor>
+    <dc:contributor>Sánchez Chóliz, Julio</dc:contributor>
+    <dc:creator>Palacio Alsina, Jesús Rafael</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>En este trabajo se realiza una breve revisión sobre la teoría clásica de juegos no-cooperativos. Posteriormente se muestra la teoría de juegos evolutivos centrándose en el conceptos de trayectoria evolutivamente estable y el de la dinámica replicador, dichos conceptos se relacionan con la teoría de juegos no-cooperativos. Tras este marco teórico se realiza un modelo  de dinámica industrial en el marco de los juegos evolutivos, donde las empresas fijan sus precios de acuerdo a una rutina. Finalmente se adapta este modelo a la teoría de juegos no cooperativos y se comparan los resultados.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/63622</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Análisis Económico</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/63622/files/TAZ-TFM-2017-1067.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Economía</dc:subject>
+    <dc:title>Un estudio de fijación de precios y dinámica industrial en el marco de los juegos evolutivos</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">A study of pricing routines and industrial dynamics within the framework of evolutionary games</dc:title>
+</oai_dc:dc>

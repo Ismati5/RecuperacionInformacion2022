@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Olave Rubio, Pilar</dc:contributor>
+    <dc:creator>Fabián Abad, Andrea</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El uso de técnicas computacionales en el campo del análisis web es obligatorio, con el incipiente desarrollo de negocios web y de ámbitos empresariales en línea, la búsqueda de la obtención de valor  radica de un análisis minucioso del usuario y de sus necesidades.  El objetivo de este estudio es la investigación de técnicas predictivas en el ámbito del marketing digital y su uso en la optimización de contenidos. Buscando patrones que ayuden al redactor a conseguir mejores resultados de impacto entre sus lectores, entre casi 40.000 artículos de la web mashable.com. Los días de la semana  más óptimos en referencia a acciones, son los fines de semana y los lunes. Gracias a esta información se establece un criterio de publicación sabiendo que pasadas unas 24 horas el artículo tomará un impacto fuerte. Aunque como vemos este no es el único factor que influye en la predicción, por lo que se han propuesto varios métodos de modelización.  El modelo que mejor resultado ofrece para predecir la popularidad es el diagrama de árbol, a partir de dos características: Promedio de palabras clave, número de archivos web. Estas técnicas consiguen optimizar la redacción de contenidos y facilitan  mejores resultados empresariales en lo que al Marketing digital se refiere.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/65133</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Estructura e Historia Económicas y Economía Pública</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/65133/files/TAZ-TFG-2017-2484.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/65133/files/TAZ-TFG-2017-2484_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Marketing e Investigación de Mercados</dc:subject>
+    <dc:title>Optimización de contenidos web: un factor clave del éxito empresarial</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Web content optimization: a key factor of business success</dc:title>
+</oai_dc:dc>

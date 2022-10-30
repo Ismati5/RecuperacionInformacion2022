@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Isern Quetglas, Águeda</dc:contributor>
+    <dc:contributor>Nogueras Iso, Francisco Javier</dc:contributor>
+    <dc:creator>Soteras Arilla, Beatriz</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>Las Infraestructuras de Datos Espaciales (IDE) son las que permiten la interoperabilidad de los datos espaciales, pero para garantizar esa interoperabilidad, deben existir unas directrices que marquen las normas que tienen que cumplir esos datos. INSPIRE es la Directiva Europea que marca esas normas para los estados miembros, y permite la creación de IDE siguiendo una estructura jerárquica. INSPIRE engloba los datos espaciales en una serie de temáticas, agrupadas en tres anexos según su importancia. Estas temáticas, compuestas por datos y servicios, deben cumplir unos requisitos y fechas de implantación,  El objetivo de este Trabajo Fin de Máster, es la implantación de temáticas del Anexo I de INSPIRE de municipios de la Tramuntana (Mallorca), para los que se recabará y manipulará la información para adecuarla a los modelos de datos que marcan las directivas, se crearán los servicios de visualización y descarga y los metadatos correspondientes. Para todo esto, se utiliza una serie de software, tanto libre como propietario, que cumple con los estándares que dicta la Directiva INSPIRE.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/47055</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/47055/files/TAZ-TFM-2015-937.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Tecnologías de la Información Geográfica para la Ordenación del Territorio: Sistemas de Información Geográfica y Teledetección</dc:subject>
+    <dc:title>Elaboración de la IDE local de municipios de la Tramuntana (Mallorca) en conformidad con la directiva INSPIRE</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

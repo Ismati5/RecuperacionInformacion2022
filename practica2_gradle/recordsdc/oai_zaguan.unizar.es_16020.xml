@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>López Pérez, José María</dc:contributor>
+    <dc:creator>Moreno Mínguez, Pablo</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>En este proyecto se propone como objetivo principal el diseño de un producto electrónico capaz de concienciar el gasto de agua que puede generarse en un domicilio. Concretamente se ha centrado en el consumo de agua que se genera cuando se riega el jardín o las diferentes macetas que puedan disponerse es una vivienda. El proyecto se encuentra desarrollado en colaboración con equipos de estudiantes del Grado en Ingeniería de Diseño Industrial y Desarrollo de Producto. El sistema electrónico final, consta de dos dispositivos electrónicos, uno de ellos se encarga de realizar las medidas de la humedad en la tierra y transmitir esta información a un dispositivo central móvil, el cual se encarga de visualizar dicha información mediantes señales luminosas. La comunicación se hace de forma inalámbrica.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/16020</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/16020/files/TAZ-PFC-2014-417.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/16020/files/TAZ-PFC-2014-417_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>electrónica</dc:subject>
+    <dc:subject>comunicación</dc:subject>
+    <dc:subject>sensor de humedad</dc:subject>
+    <dc:subject>desarrollo</dc:subject>
+    <dc:subject>prototipo</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electrónica Industrial)</dc:subject>
+    <dc:title>Sistema electrónico para la concienciación del gasto de agua en domicilios</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

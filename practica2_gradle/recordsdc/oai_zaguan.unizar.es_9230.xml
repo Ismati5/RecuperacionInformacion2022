@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Orrite Uruñuela, Carlos</dc:contributor>
+    <dc:creator>Suárez Fernández, Ramón A.</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El seguimiento de objetos en secuencias de imágenes es actualmente un tema investigación importante debido a que tiene un amplio rango de aplicaciones tales como video vigilancia, análisis deportivo, etc. Un ejemplo común es el análisis de jugadores en un partido de fútbol. Mediante el procesamiento de  las imágenes se puede establecer la trayectoria de cada jugador durante el partido y así proveer información importante sobre su actividad. El problema del seguimiento de objetos tiene dos grandes pasos principales, el primero  es detectar y localizar los objetos dentro de los fotogramas del video y el segundo es la parte de seguimiento, esto implica implementar un método que obtenga las trayectorias de los objetos detectados resolviendo las oclusiones que pueden establecer entre ellos. En este trabajo se propone un método para  el seguimiento de múltiples objetos. Se parte de un trabajo previo donde se detectó a los jugadores en la imagen y se estableció la localización de todos ellos en el terreno de juego, afrontando el segundo problema explicado, es decir, la asignación de una etiqueta inequívoca para cada jugador a lo largo  de todo el partido. Para llevar a cabo esta tarea previamente se ha procedido  a un etiquetado manual de todos los jugadores para posteriormente verificar  la fiabilidad del método propuesto. El método planteado sigue un análisis de probabilidades de presencia de cada jugador en una posición determinada del campo y un método robusto de asignación temporal de todas las posiciones de  los jugadores mediante el algoritmo de Viterbi.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9230</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9230/files/TAZ-TFM-2012-920.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>seguimiento de objetos</dc:subject>
+    <dc:subject>algoritmo de viterbi</dc:subject>
+    <dc:subject>análisis deportivo</dc:subject>
+    <dc:subject>análisis de probabilidades</dc:subject>
+    <dc:subject>hmm</dc:subject>
+    <dc:subject>Máster Universitario en Ingeniería Electrónica</dc:subject>
+    <dc:title>Seguimiento de múltiples objetos basado en el algoritmo de Viterbi</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

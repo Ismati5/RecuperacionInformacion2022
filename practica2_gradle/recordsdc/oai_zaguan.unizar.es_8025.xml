@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Marín Herrero, José María</dc:contributor>
+    <dc:creator>Bernad Casalé, Ángel</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Lo que pretende este Proyecto Fin de Carrera es establecer un modelo térmico que intente predecir las temperaturas que alcanzarán tanto el procesador Intel Pentium IV como sus elementos de disipación de calor (disipador y radiador), así como la potencia disipada por el mismo. Al mismo tiempo se hará una comparativa de cómo afectan térmicamente la ejecución de distintos programas informáticos.Para finalizar y con la intención de poder mostrar otras formas de refrigeración electrónica no tan usuales como a las que estamos acostumbrados, se ha estudiado la posibilidad de sumergir  los componentes de un ordenador en  un aceite térmico especial y estudiar si este aceite será capaz de evacuar por sí mismo el calor producido o si por el contrario necesitara de otros elementos de refrigeración.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8025</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8025/files/TAZ-PFC-2012-402.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>refrigeración electrónica</dc:subject>
+    <dc:subject>disipación de potencia</dc:subject>
+    <dc:subject>disipadores</dc:subject>
+    <dc:subject>método diferencias finitas</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Estudio y modelo térmico de la refrigeración de microprocesadores</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

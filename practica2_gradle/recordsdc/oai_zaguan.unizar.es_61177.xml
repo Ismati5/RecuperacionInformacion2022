@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Béjar Hernández, Rubén</dc:contributor>
+    <dc:creator>Lázaro Tello, Patricia</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>Este proyecto tiene como objetivo la creación de una aplicación para la recopilación y seguimiento de esfuerzos que incite y motive al usuario a utilizarla y rellenar de forma diaria o regular sus horas de esfuerzos en los distintos proyectos en los que participa. Para motivar al usuario a continuar rellenando sus esfuerzos en la aplicación, se han utilizado técnicas de gamificación como elementos que añaden una componente competitiva a la aplicación y ayudan a los usuarios a permanecer en la aplicación y recopilando sus esfuerzos. Los elementos de gamificación utilizados en este proyecto han sido: un sistema de logros, que recompensa al usuario de forma excepcional, y un sistema de reputación, que recompensa al usuario en sus tareas del día a día.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61177</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61177/files/TAZ-TFG-2016-3512.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>Aplicación móvil para la recopilación y seguimiento de esfuerzos en proyectos en equipo con técnicas de gamificación y serious games para fomentar su uso</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Mobile application for effort gathering and tracking in team projects with gamification and serious games techniques to encourage its use</dc:title>
+</oai_dc:dc>

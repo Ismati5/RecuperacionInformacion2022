@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gil Herrando, Eduardo</dc:contributor>
+    <dc:creator>Florentín Martín, Diego Alberto</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>En este proyecto se plantea el desarrollo de un método robusto de estimación de la señal respiratoria a partir de otras señales fisiológicas (obtenidas no-invasivamente y que son ampliamente utilizadas en la rutina clínica) que permita obtener información de la respiración de relevancia en la práctica clínica. Con este fin, se ha estimado la señal respiratoria utilizando diversos métodos, a partir de las señales Fotopletismográfica de Pulso (PPG), Electrocardiográfica (ECG) y de Presión Arterial (PPG), evaluándose la precisión de los mismos y, posteriormente, comparándola con la señal respiratoria que constituirá la señal de referencia. Inicialmente, se han desarrollado una serie algoritmos que han permitido obtener diversas señales respiratorias derivadas de las señales PPG, BP y ECG. Posteriormente, se ha procedido a evaluar los métodos propuestos usando como referencia la señal Respiratoria tomada directamente del paciente y comparándola con las señales Respiratorias Derivadas (DR). Como medio de evaluación, se ha utilizado, además de un análisis tiempo-frecuencia de éstas para así detectar la frecuencia respiratoria en cada instante y el error relativo cometido en la estimación, un análisis estándar bastante reconocido en las pruebas realizadas en entornos médicos, basado en el cálculo de Verdaderos Positivos (TP), Falsos Positivos (FP), Falsos Negativos (FN), Sensibilidad (Se) y Predictibilidad Positiva (+P), hallando para ello los puntos característicos donde se refleja la inspiración. Finalmente, se compara, a modo de referencia, los métodos desarrollados para la obtención de la respiración, con los métodos descritos en la tesis mencionada a lo largo del proyecto y en la bibliografía, con el fin de afianzar los resultados obtenidos en la evaluación.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4975</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4975/files/TAZ-PFC-2010-153.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/4975/files/TAZ-PFC-2010-153_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Señal Respiratoria (RES)</dc:subject>
+    <dc:subject>Señal Fotopletismográfica de Pulso (PPG)</dc:subject>
+    <dc:subject>Señal de Presión Arterial (BP)</dc:subject>
+    <dc:subject>Señal electrocardiográfica (ECG)</dc:subject>
+    <dc:subject>Señal Respiratoria Derivada (DR)</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicaciones</dc:subject>
+    <dc:title>Estimación y evaluación de la señal respiratoria a partir de la señal fotopletismográfica de pulso, señal de presión arterial y señal electrocardiográfica</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

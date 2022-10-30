@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Calvo Calzada, María Begoña </dc:contributor>
+    <dc:contributor>Remón Martín, Laura</dc:contributor>
+    <dc:creator>Cabeza Gil, Iulen</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>La norma ISO 11979-3:2012: Implantes oftálmicos. Lentes intraoculares. Propiedades mecánicas y métodos de ensayo, establece los requisitos y ensayos mecánicos que deben satisfacer las lentes intraoculares (LIOs) antes de su comercialización para garantizar su seguridad y funcionamiento una vez implantadas en el ojo. El objetivo de este TFG consiste en abordar numéricamente la realización de dichos ensayos mediante el método de elementos finitos, lo cual mejoría la etapa de diseño de las mismas. En este TFG  se analizarán 4 diseños diferentes de LIOs fabricadas en 2 materiales distintos (HEMA e hidrófobo), previamente caracterizados de forma experimental.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/65414</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/65414/files/TAZ-TFG-2017-1693.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Análisis numérico de la estabilidad biomecánica de lentes intraoculares</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">In silico biomechanical stability of intraocular lenses</dc:title>
+</oai_dc:dc>

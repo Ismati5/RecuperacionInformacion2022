@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sesé Monclús, Javier</dc:contributor>
+    <dc:contributor>Luis Vitalla, Fernando María</dc:contributor>
+    <dc:creator>Gella Bitrián, Diego</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>Una de las técnicas más eficaces para medir susceptibilidad magnética utiliza sensores SQUID, fabricados y comercializados a tamaño micrométrico (microSQUIDs). Una propuesta para aumentar su acoplo con muestras nanométricas es fabricar una nanoespira en uno de los brazos de un sensor microSQUID. En este trabajo se han abordado dos retos que buscan optimizar la microsusceptometría SQUID aplicada a nanodiscos superconductores. En primer lugar, se ha desarrollado un método de colocación de muestras reversible y no destructivo a partir de portamuestras  de nitruro de silicio fabricados mediante litografía óptica. Después, sirviendonos de estos portamuestras, se ha llevado a cabo un estudio experimental en el que se ha estudiado la señal magnética de nanodiscos de W depositado mediante FIBID en función de su posición en el sensor, en el que se ha fabricado una nanoespira. Los discos han sido detectados en todas las posiciones del SQUID, sin embargo, la fabricación de una nanoespira no ha supuesto una mejora ya que no se ha podido optimizar la altura de las muestras.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31645</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física de la Materia Condensada; Área de Física de la Materia Condensada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31645/files/TAZ-TFM-2015-421.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Física y Tecnologías Físicas</dc:subject>
+    <dc:title>Microsusceptometría SQUID aplicada a nanodiscos superconductores</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

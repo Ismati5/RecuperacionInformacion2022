@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ugarte Martínez, María Dolores</dc:contributor>
+    <dc:contributor>Lacruz, Beatriz</dc:contributor>
+    <dc:creator>Navarro Esteban, Paula</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>La estimación de riesgos de mortalidad es trascendental en salud pública. Las  desigualdades en salud existentes en las distintas provincias españolas en cuanto a los riesgos de mortalidad e incidencia de enfermedades es un problema social conocido.  Por ello,  es muy importante detectar provincias que manifiesten riesgos extremos ya que hoy en día, existe evidencia suficiente que demuestra que las desigualdades en salud son evitables, ya que pueden reducirse mediante políticas públicas sanitarias y sociales y planes de salud adecuados. La principal finalidad de este trabajo es estimar riesgos de mortalidad por cáncer de próstata en las provincias españolas mediante modelos de suavizado en dos periodos distintos: 1975-1991 y 1992-2008,  y detectar a su vez, provincias cuyo riesgo de morir por cáncer de próstata es mayor que el riesgo global de España.  Los riesgos de mortalidad estimados se representan en forma de mapas que muestran el patrón geográfico de mortalidad de una determinada enfermedad. Cuando se estudian enfermedades raras (es decir, con pocos casos) o se tienen regiones poco pobladas, las medidas clásicas de estimación de riesgos, como la conocida razón de mortalidad estandarizada –RME-,  adolecen de algunos problemas. En particular,  la RME  es muy variable lo que hace que las estimaciones sean poco fiables. Por ello, hay que emplear métodos de suavizado.    En este trabajo se utiliza el modelo de Besag, York y Mollié para suavizar riesgos. Se trata  de un modelo condicional autorregresivo que incorpora dependencia espacial.  El modelo se estima desde una perspectiva completamente Bayesiana y para su estimación se considera el método INLA que, en inglés, se denomina “Integrated Nested Laplace Approximation”. Este novedoso método es una alternativa computacionalmente más rápida que los métodos MCMC (en inglés “Markov Chain Monte Carlo”).</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8880</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Matemática Aplicada; Área de Matemática Aplicada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8880/files/TAZ-TFM-2012-736.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>suavización de riesgos</dc:subject>
+    <dc:subject>Máster Universitario en Modelización Matemática, Estadística y Computación</dc:subject>
+    <dc:title>Análisis espacial de riesgos de mortalidad por cáncer de próstata con INLA</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

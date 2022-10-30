@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mur Amada, Joaquín</dc:contributor>
+    <dc:contributor>Sallán Arasanz, Jesús</dc:contributor>
+    <dc:creator>Capilla Mozas, Joaquín</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El propósito de mi trabajo es realizar un estudio sobre la variabilidad de la generación eólica. Los datos de partida son datos meteorológicos facilitados por organizaciones medioambientales de aeropuertos y datos publicados en la web de Red Eléctrica Española (REE). El estudio lo realizo con el programa Windfreedom, este programa permite analizar variables meteorológicas de forma estadística en el dominio del tiempo y en de la frecuencia. Una vez seleccionado los emplazamientos, estudiaré los datos meteorológicos que presentan a lo largo de un periodo de estudio de un año. Asimismo realizaré un análisis de coherencia entre dos estaciones para estimar las diferencias en amplitud y tiempo de las oscilaciones. También analizaré la generación eólica española (años 2007 y 2008) con los métodos analíticos de Windfreedom e intentaré ver qué factores influyen en dicha generación. Adicionalmente, he realizado un resumen del manual de usuario de Windfreedom que permite al lector poder hacer sus propios estudios o consultas. Esta guía rápida complementa los casos planteados en el estudio y muestra las posibilidades prácticas del programa. Los análisis realizados con las series de datos de viento y de generación eólica son los siguientes: El estudio en el dominio de la frecuencia utilizando la transformada de Fourier de una serie de datos (espectro del viento). El estudio en el dominio del tiempo con cadenas de Markov y la matriz de transición obtenida experimentalmente de los datos. El estudio en el dominio del tiempo a distintas escalas temporales utilizando la transformada wavelet contínua de tipo Morlet. El estudio en el dominio conjunto tiempo-frecuencia utilizando espectrogramas. La comparación de dos estaciones en el dominio conjunto tiempo-frecuencia utilizando la coherencia temporal y el intervalo de tiempo entre la observación de una variación en dos estaciones.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6705</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6705/files/TAZ-PFC-2011-716.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>variabilidad</dc:subject>
+    <dc:subject>viento</dc:subject>
+    <dc:subject>incertidumbre</dc:subject>
+    <dc:subject>eólica</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electrónica Industrial)</dc:subject>
+    <dc:title>Estudio de la variabilidad de la generación eólica en España</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

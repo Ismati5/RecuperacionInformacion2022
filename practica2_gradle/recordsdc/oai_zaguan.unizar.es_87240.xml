@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Abadías Ullod, Luciano</dc:contributor>
+    <dc:contributor>Galé Gimeno, José Esteban</dc:contributor>
+    <dc:creator>Fombuena Esteban, Claudia</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>El propósito de este trabajo es estudiar las propiedades de compacidad y dualidad en el espacio de funciones  holomorfas sobre un dominio abierto complejo. Para ello, en un primer lugar definiremos la topología de la convergencia uniforme sobre compactos, ya que es la noción natural de convergencia para sucesiones de funciones holomorfas. A través de esta topología, estudiaremos la compacidad y convergencia de los espacios de funciones continuas y holomorfas. Este estudio se realiza a través de los teoremas de ARZÈLA-ASCOLI, WEIERSTRASS, HURWITZ y MONTEL. Finalmente, se estudia la dualidad del espacio de funciones holomorfas en un abierto del plano complejo. Comenzamos estudiando un caso muy particular, la dualidad del espacio de  las funciones holomorfas en el disco unidad. Podremos utilizar germenes, sucesiones y series de potencias, herramientas especificas de este caso. Por último estudiaremos la dualidad del espacio de funciones holomorfas para un abierto cualquiera del plano complejo.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87240</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Matemáticas; Área de Análisis Matemático</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87240/files/TAZ-TFG-2019-4773.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Matemáticas</dc:subject>
+    <dc:title>El espacio de funciones holomorfas sobre un dominio complejo</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">The space of holomorphic functions on a complex domain</dc:title>
+</oai_dc:dc>

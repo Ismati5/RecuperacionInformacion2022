@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mateo Pérez, Carlos</dc:contributor>
+    <dc:contributor>García Dúcar, Paloma</dc:contributor>
+    <dc:creator>Pérez Gil, Nieves</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>El objetivo de este TFG es la evaluación de dos técnicas de predistorsión digital aplicadas a dos señales en bandas concurrentes del estándar LTE  en un sistema de transmisión híbrido, formado por óptica y RF. Las nuevas redes de acceso 5G requieren un despliegue de sistemas de transmisión de alta eficiencia energética basados en tecnologías híbridas de óptica y RF. En ese contexto se ha realizado el estudio, caracterización, evaluación y corrección de los efectos degradantes que se producen en el sistema de transmisión híbrido, teniendo en cuenta tanto la parte óptica formada por un diodo láser, fibra SMF y fotodetector, como la de radiofrecuencia, principalmente el amplificador de potencia. Además, debido a la saturación de servicios en estas nuevas redes de acceso 5G en un mismo enlace pueden viajar señales de diferentes estándares en distintas bandas de frecuencia. Este trabajo propone un sistema dual-band donde se va a caracterizar y corregir las distorsiones que aparezcan en el sistema de transmisión híbrido mediante predistorsión digital de la señal en un escenario real con señales del estándar LTE en dos bandas concurrentes. La caracterización del sistema de transmisión híbrido está basada en estudios teóricos conjuntamente con medidas experimentales, en las cuales se utilizan señales del estándar LTE adecuadamente escogidas para respetar los requerimientos impuestos a la hora de utilizar agregación de portadoras y generadas vía software mediante la aplicación SystemVue. Posteriormente, se desarrollarán mediante $Matlab$ dos métodos de corrección de distorsión, predistorsión digital (DPD) y predistorsión digital en un sistema bibanda (2D-DPD) mediante las expresiones matemáticas que se estudiarán previamente, obteniendose resultados de ambos métodos tanto en simulación como experimentalmente. Por último se realizará una comparativa de los dos métodos de predistorsión desarrollados (DPD y 2D-DPD) tanto en simulación como experimentalmente, para las señales LTE creadas en un sistema híbrido para dos bandas de frecuencia concurrentes.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61216</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61216/files/TAZ-TFG-2016-2892.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/61216/files/TAZ-TFG-2016-2892_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías y Servicios de Telecomunicación</dc:subject>
+    <dc:title>Diseño e Implementación de un predistorsionador digital en un sistema de transmisión híbrido</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Design and implementation of digital predistortion in a hybrid transmission system</dc:title>
+</oai_dc:dc>

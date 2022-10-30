@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Marzo Rubio, Isabel</dc:contributor>
+    <dc:creator>Romero Martín, Andrea</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>En las células de mieloma múltiple se ha visto una sobreexpresión de la quinasa Btk y las proteínas antiapotóticas de la familia Bcl-2. Lo que plantea la inhibición de la Btk, mediante Ibrutinib, y el contrarrestar el efecto de las proteínas antiapóptoticas de Bcl-2, mediante los análogos de BH3 ABT-199 y ABT-737, como un posible tratamiento para dicho cáncer. En este estudio se ha evaluado la actividad de dichos fármacos sobre la línea celular MM.1S, por separado y combinados, mediante diferentes técnicas. Los resultados de estos estudios reflejan que Ibrutinib es un citostático que induce catástrofe mitótica en las células e induce la fosforilación de Bcl-2. Por otro lado, ABT-199 y ABT-737 son capaces de aumentar la sensibilidad celular ante el inhibidor de la Btk, mejorando su actividad, lo que posibilita el uso de combinaciones de Ibrutinib y BH3 miméticos en terapia.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31742</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Biología Celular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31742/files/TAZ-TFG-2015-1792.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Biotecnología</dc:subject>
+    <dc:title>Mecanismo de muerte celular inducida por el inhibidor de Btk Ibrutinib en células de mieloma múltiple</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

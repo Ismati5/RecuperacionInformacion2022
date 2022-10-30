@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Cruz Hidalgo, Raúl</dc:contributor>
+    <dc:contributor>Mazo Torres, Juan José</dc:contributor>
+    <dc:creator>Echeverría Huarte, Iñaki</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>En este trabajo se ha estudiado numéricamente el proceso de evacuación de un conjunto de personas a través de una salida estrecha. Con este objetivo, se implementaron  modelos de elementos discretos (DEM), de sistemas compuestos por partículas no esféricas autopropulsadas (peatones).  Así, se desarrollaron nuevas metodologías de interacción  entre peatones teniendo en cuenta la forma de la partícula y su correlación con la dirección deseada de movimiento. Para ello, se hizo uso de la estructura paralela de las unidades de procesamiento gráfico (GPU).  Se ejecutó  un estudio sistemático, ajustando varios parámetros del modelo, con el objetivo de reproducir condiciones experimentales específicas. Así, se varió la agitación de los individuos y la tendencia a mantener una dirección de movimiento deseada, manteniendo constante la magnitud de la velocidad deseada.  Como punto de partida,  hemos utilizado valores de flujo obtenidos experimentalmente, para validar si el modelo presenta una respuesta coherente. Además,  se exploraron propiedades micromecánicas del sistema, como son: orientación de los peatones en posiciones cercanas a la puerta de salida y la proyección de estas sobre la dirección deseada. Finalmente, y motivados por los resultados experimentales muy recientes, hemos añadido un grado de complejidad al sistema, introduciendo un obstáculo. Las conclusiones que hemos obtenido han resultado del todo interesantes, en general obtenemos que introducir un obstáculo no resulta beneficioso para mejorar el flujo de personas. Así, nuestros resultados parecen contradecir opiniones preliminares de que la presencia de un obstáculo favorecería el proceso de evacuación. Sin embargo, reproducimos de manera fidedigna resultados experimentales, obtenidos muy recientemente, en el departamento de Física y Matemáticas de la Universidad de Navarra.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76304</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76304/files/TAZ-TFM-2018-241.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/76304/files/TAZ-TFM-2018-241_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Modelización e Investigación Matemática, Estadística y Computación</dc:subject>
+    <dc:title>Diagrama fundamental del movimiento de peatones: Efecto de la competitividad</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Fundamental diagram of the pedestrian movement: Effect of competitiveness</dc:title>
+</oai_dc:dc>

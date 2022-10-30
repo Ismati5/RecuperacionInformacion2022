@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Hernández Solana, María Ángela</dc:contributor>
+    <dc:contributor>Valdovinos Bardají, Antonio</dc:contributor>
+    <dc:creator>Gállego Martínez, José Ramón</dc:creator>
+    <dc:date>2007</dc:date>
+    <dc:description>La provisión de calidad de servicio (QoS) en redes inalámbricas ad hoc requiere el soporte de mecanismos de acceso al medio para gestionar eficientemente el acceso al sistema y conseguir un elevado reúso de los recursos. El estándar IEEE 802.11 es el protocolo de acceso al medio más utilizado en este contexto. Su principal ventaja, la sencillez, es a su vez la principal limitación para proporcionar QoS. El objetivo de esta tesis es el diseño y evaluación de un protocolo de acceso al medio que permita resolver las principales limitaciones de las propuestas existentes. Para ello, se ha diseñado una estructura TDMA consistente en una subtrama de control y una subtrama de datos, sobre la que se han incluido mecanismos de reserva de recursos y diferenciación de servicios. La propuesta se ha evaluado bajo un modelo de propagación realista, que incluye desvanecimientos multicamino e interferencia del resto de usuarios.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4525</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4525/files/TESIS-2010-020.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>redes ad hoc</dc:subject>
+    <dc:subject>protocolos MAC</dc:subject>
+    <dc:subject>reserva de recursos</dc:subject>
+    <dc:subject>diferenciación de servicios</dc:subject>
+    <dc:subject>desvanecimientos multicamino</dc:subject>
+    <dc:subject>QoS</dc:subject>
+    <dc:subject>ad hoc networks</dc:subject>
+    <dc:subject>MAC protocols</dc:subject>
+    <dc:subject>resource reservation</dc:subject>
+    <dc:subject>service differentiation</dc:subject>
+    <dc:subject>multipath fading</dc:subject>
+    <dc:subject>QoS</dc:subject>
+    <dc:title>Contribución al desarrollo de protocolos de acceso al Medio (MAC) en redes inalámbricas "ad hoc" multiservicio</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

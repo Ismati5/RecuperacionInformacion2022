@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Montealegre Gracia, Antonio Luis </dc:contributor>
+    <dc:creator>Villarmín Martín, Alejandro </dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>El río Ebro en su curso medio, especialmente aguas abajo de la confluencia del Aragón‐Arga, presenta crecidas frecuentes, siendo una de las más destacables la ocurrida en invierno de 2015, debido a la extensión de la superficie inundada, a los daños producidos y a la repercu-sión social. &lt;br /&gt;El presente trabajo tiene como objetivo simular este evento de avenida haciendo uso de un modelo digital de elevaciones de precisión y de unas superficies de rozamiento obtenidas me-diante datos LiDAR (Light Detection and Ranging) del Plan Nacional de Ortofotografía Aérea (PNOA). Asimismo, se pretende comparar los resultados de la simulación con las superficies de rozamiento derivadas de Corine Land Cover (CLC). La validación de la extensión de la lámi-na de agua se ha realizado mediante una imagen satelital de Landsat 7, y el calado se ha comprobado con los datos de las estaciones de aforo. &lt;br /&gt;Los resultados obtenidos muestran que la identificación de las superficies mediante el uso de datos LiDAR es más precisa que la propuesta por CLC. Sin embargo, al trabajar con una reso-lución espacial de 30 m para la simulación de la inundación, la lámina de agua obtenida consi-derando las superficies de CLC se ajusta mejor a la imagen satelital. Por otra parte, la valida-ción espacial de los resultados demuestra su utilidad frente a la tradicional comparación entre los calados observados y los predichos por la simulación.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/88659</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio; Área de Análisis Geográfico Regional</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/88659/files/TAZ-TFM-2019-1280.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Tecnologías de la Información Geográfica para la Ordenación del Territorio: Sistemas de Información Geográfica y Teledetección</dc:subject>
+    <dc:title>Simulación numérica de la avenida del Ebro de 2015 y análisis de rozamiento de las superficies mediante datos LIDAR-PNOA y Corine Land Cover.</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Numerical simulation of the Ebro flood in 2015 and estimation of surface roughness using LIDAR-PNOA data and Corine Land Cover.</dc:title>
+</oai_dc:dc>

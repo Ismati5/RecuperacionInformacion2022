@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Puyal Latorre, Óscar</dc:contributor>
+    <dc:contributor>Briz Velasco, José Luis</dc:contributor>
+    <dc:creator>Gariburo Cortés, José Ángel</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Un estudio sobre la viabilidad y conveniencia de la migración de la aplicación comercial de manejo de vídeo VisionSurfer de su actual plataforma de 32 bits (IA32) a una de 64 (Intel® 64). Esta aplicación, gracias a su sistema "Cluster" de almacenamiento, permite al usuario grabar la información en todos los discos duros repartidos entre los servidores y así garantizar la disponibilidad del video grabado ante fallos de discos duros e incluso de un servidor completo. Por otro lado dispone de un sistema inteligente gracias a la virtualización, denominado Failover que, detecta la caída de aplicaciones de alguno de los equipos y se pone en marcha automáticamente en otro servidor para garantizar la continuidad de servicio. Se ha estudiado la arquitectura conocida como Intel® 64 y los posibles problemas surgidos al migrar desde IA32. Se han comprobado la disponibilidad y correcto funcionamiento en 64 bits de las librerías usadas en 32 bits, y se han buscado y comparado herramientas de análisis estático de código que nos puedan ayudar en esta tarea (como PVS-Studio). Con los resultados obtenidos se ha hecho una primera estimación del coste temporal aproximado de la migración total de la aplicación. Se ha desarrollado una aplicación de ejemplo que sirva para entender y ejemplificar la aplicación objetivo. Debido a la extensión y complejidad de la aplicación VisionSurfer, finalmente se ha procedido a la migración de una aplicación crucial dentro de esta llamada SCATIRTPVideoClient. A continuación se han evaluado las posibilidades de mejora del rendimiento en la aplicación. Para ello se han buscado cuellos de botella, causados por el uso intensivo de memoria, detección de posibles fugas de memoria y posibilidad de vectorización. Por último se han realizado pruebas de aceptación y evaluación del rendimiento.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10515</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Arquitectura y Tecnología de Computadores</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10515/files/TAZ-PFC-2013-213.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>64 bits</dc:subject>
+    <dc:subject>intel</dc:subject>
+    <dc:subject>arquitectura de computadores</dc:subject>
+    <dc:subject>optimización</dc:subject>
+    <dc:subject>migración 64 bits</dc:subject>
+    <dc:subject>cctv</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Migración y optimización de la aplicación VisionSurfer sobre plataforma Intel 64 bits</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

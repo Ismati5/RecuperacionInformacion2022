@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>de la Riva Fernández, Juan</dc:contributor>
+    <dc:creator>Pérez Cardiel, Estela</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>El trabajo tiene por objeto la obtención de cartografía de la superficie de nieve en el sector occidental del Pirineo Aragonés a partir de las imágenes de los satélites Landsat y mediante el cálculo del Índice de Diferencia Normalizada de Nieve. La metodología aplicada contempla la doble dimensión espacio-temporal en el análisis de las imágenes satélite e incorpora información auxiliar en un contexto de análisis SIG. Todo ello permite i) hacer una aproximación a las variaciones espaciales de la distribución intra-anual; ii) caracterizar la influencia de algunos factores estructurales que afectan a su distribución, como son la altitud, las pendientes, la orientación y la ocupación del suelo; iii) establecer una tipología de situaciones en función del momento del año y los factores estructurales; y iv) analizar con mayor detalle el sector del flysch.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31906</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio; Área de Análisis Geográfico Regional</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31906/files/TAZ-TFG-2015-2267.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Geografía y Ordenación del Territorio</dc:subject>
+    <dc:title>Análisis espacio-temporal del manto de nieve en el Pirineo occidental aragonés mediante imágenes Landsat</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

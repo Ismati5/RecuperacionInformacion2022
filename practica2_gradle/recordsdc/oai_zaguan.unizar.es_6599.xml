@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Losada Binué, María Ángeles</dc:contributor>
+    <dc:creator>Estéban Sánchez, Amanda</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El objetivo de este proyecto es la caracterización de conectores de fibras ópticas de plástico  (Plastic Optical Fibers, POF) y el análisis de sus efectos sobre las propiedades de transmisión de este tipo de fibras. Esta caracterización se realiza mediante una matriz ya que la descripción de la propagación de potencia en la fibra se realiza mediante un modelo matricial previamente desarrollado. El cálculo de la matriz de propagación requiere la obtención de dos funciones que son características del tipo de fibra: la atenuación y difusión en función del ángulo de propagación.  Para poder estimar estas funciones de forma eficiente, se ha desarrollado en este proyecto un protocolo experimental basado en medidas del perfil de la distribución de potencia a la salida de un segmento corto de fibra, inyectando una fuente de luz colimada en distintos ángulos. Este método ha sido aplicado a POFs de salto de índice y 1 mm de diámetro de varios fabricantes, entre otras un nuevo tipo de fibra diseñado específicamente por la compañía Boeing para su uso en redes de comunicaciones dentro de aviones y que está preparada para soportar altas temperaturas. Por otra parte, se han caracterizado dos tipos de conector: el Versalink (VL) y el ST que es similar al que se está diseñando en Boeing. Para realizar dicha caracterización ha sido necesario hacer una evaluación de las distintas herramientas de terminación comerciales para POF, con el fin de determinar la más adecuada para cada tipo de conector. La caracterización de cada tipo de conector se ha realizado mediante un protocolo experimental similar al mencionado para la obtención de las funciones características de un tipo de fibra usando tramos cortos. Para obtener la matriz característica del conector, hemos modelado el efecto que tendría éste sobre la potencia como la que causaría una fibra de una cierta longitud y se han ajustado los parámetros de las funciones de atenuación y difusión a los resultados experimentales. La validez del modelo conjunto fibra-conector se ha comprobado utilizando medidas de distribución angular de potencia y de anchos de banda en función de la longitud de fibra. Finalmente, se han realizado simulaciones para estudiar el impacto del conector en el comportamiento de una red de comunicaciones en función del tipo de fuente.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6599</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6599/files/TAZ-PFC-2011-654.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>fibra óptica de plástico (pof)</dc:subject>
+    <dc:subject>conectores</dc:subject>
+    <dc:subject>caracterización de fibras</dc:subject>
+    <dc:subject>modelo de propagación</dc:subject>
+    <dc:subject>ancho de banda</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicaciones</dc:subject>
+    <dc:title>Análisis de los efectos de conectores sobre las propiedades de transmisión de fibras ópticas de plástico</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

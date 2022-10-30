@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Pérez Cabello, Fernando</dc:contributor>
+    <dc:creator>Moraleja Segura, Alejandro</dc:creator>
+    <dc:date>2020</dc:date>
+    <dc:description>Los incendios forestales se han convertido en los últimos años en un gran problema a nivel nacional. Su estudio y análisis es uno de los puntos claves de la teledetección ambiental. El objetivo de este trabajo es analizar la regeneración vegetal mediante la utilización del NDVI y el LAI obtenidos a partir de imágenes Sentinel. Para ello se seleccionan 3 incendios forestales (Acebo, Quintana del Castillo y Luna), localizados en diferentes contextos bioclimáticos dentro de la Península Ibérica para analizar los niveles de regeneración 4 años tras el fuego (2015-2019) y la influencia de varios factores: Contextos bioclimático, tipo de vegetación y variables morfo-topográficas. Los resultados principales apuntan a que el contexto bioclimático y el tipo de vegetación afectada, son las variables con mayor peso a la hora de explicar los niveles de regeneración vegetal. En concreto los matorrales sub-atlánticos de la montaña leonesa, son los que presentan mayor nivel de regeneración (NDVI=~0,37; LAI=~ 0,85).&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/94615</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/94615/files/TAZ-TFG-2020-2537.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Geografía y Ordenación del Territorio</dc:subject>
+    <dc:title>Análisis de la regeneración vegetal (LAI-NDVI) post-incendio en diferentes contextos bioclimáticos mediante imágenes Sentinel.</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Analysis of post-fire plant regeneration (LAI-NDVI) in different bioclimatic contexts using Sentinel images.</dc:title>
+</oai_dc:dc>

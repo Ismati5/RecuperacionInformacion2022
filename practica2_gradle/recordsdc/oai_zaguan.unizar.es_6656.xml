@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Piedrafita Moreno, Ramón</dc:contributor>
+    <dc:creator>Giménez Gaudes, Emilio José</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Dicho proyecto ha sido enfocado a la automatización de la célula de fabricación localizada en los laboratorios de la Universidad mediante autómatas programables de Rockwell Automation, la comunicación será realizada mediante el protocolo Ethernet/Ip . La finalidad de este es comprender el funcionamiento del software así como llevar a cabo la programación de diferentes estaciones de trabajo tanto individual como conjuntamente.  Al mismo tiempo se ha elaborado un manual de prácticas el cual será destinado a la asignatura impartida por el profesor "Ramón Piedrafita Moreno".</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6656</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6656/files/TAZ-PFC-2011-684.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>autómata programable</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electrónica Industrial)</dc:subject>
+    <dc:title>Automatización de la célula de fabricación</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

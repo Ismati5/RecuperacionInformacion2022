@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sánchez Tapia, Carlos</dc:contributor>
+    <dc:contributor>Domínguez Rodríguez,  José Miguel</dc:contributor>
+    <dc:creator>Aguirre Moret, Arturo</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>El propósito del presente Trabajo de Fin de Grado es realizar un análisis de las redes desplegables de alta disponibilidad del Ejército de Tierra. Las redes desplegables en el Ejército de Tierra adolecen de falta de redundancia tanto en las conexiones como en los equipos que conforman la red, esto hace a las redes desplegables más sensibles y vulnerables. Por ello en este trabajo se buscan formas de solucionar los problemas que aparecen en los Nodos de SIMACET en su versión 5.  La metodología seguida en este TFG ha sido, primeramente, realizar un estudio sobre los componentes del nodo y, de forma simultánea, realizar entrevistas con los administradores con el fin de detectar y recopilar las vulnerabilidades, si es que poseen alguna, de los diferentes equipos. Posteriormente se han buscado soluciones a los problemas existentes, así como mejoras para conseguir que sean más operativos. Finalmente, se ha realizado un estudio de costes con el fin de cuantificar las mejoras.  La conclusión obtenida en el siguiente trabajo es que a pesar de buscar una reducción de medios y por tanto de costes en los nodos, las necesidades operativas y tácticas a las que se enfrenta el Ejército de Tierra hacen necesaria la incorporación de un segundo Nodo SIMACET v.5 de menor entidad para ser usado como respaldo, así como pequeñas modificaciones en los equipos.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/90257</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/90257/files/TAZ-TFG-2018-367.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Organización Industrial</dc:subject>
+    <dc:title>Infraestructura de alta disponibilidad en redes desplegables</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">High availability infraestructure on deployable networkings</dc:title>
+</oai_dc:dc>

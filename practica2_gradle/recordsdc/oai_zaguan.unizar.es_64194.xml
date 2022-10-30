@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Arroyo García, Juan Bautista</dc:contributor>
+    <dc:creator>Amatriaín Ordóñez, Ana</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El objetivo de este proyecto consiste en el estudio del sistema de protección de una instalación de MT de una planta industrial centrado en protecciones de sobreintensidad. Para ello, se parte de una instalación que consta de una SET de 45/5,5 kV y de un Centro de Transformación en 5,5 kV. A partir de su aparamenta, de los elementos de la instalación y de las conexiones de red se determinará su circuito equivalente con todas las impedancias de las líneas y elementos que intervienen en la instalación. Como se verá durante el desarrollo de la memoria, los elementos que intervienen en el circuito equivalente se han calculado tanto en sus unidades correspondientes como en valores por unidad.  Una vez obtenido el circuito equivalente se pasará a la realización y análisis de los diferentes tipos de cortocircuito, concretamente se van a estudiar 4: cortocircuito tripolar (FFF), cortocircuito unipolar a tierra (FT), cortocircuito bipolar sin contacto a tierra (FF) y cortocircuito bipolar con contacto a tierra (FFT).  Durante el desarrollo de la memoria se explicará en que consiste cada tipo de cortocircuito y como se calculan sus tensiones e intensidades en cada nudo de la instalación.  Tras haber analizado el comportamiento de la instalación con el estudio de cada tipo de cortocircuito, se emplearán los resultados obtenidos para estudiar la viabilidad de las protecciones que se van a colocar. Dentro de las protecciones de sobreintensidad, que son en las que se va a centrar el proyecto, se van a estudiar las de tiempo diferido y las inmediatas o de tiempo definido.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64194</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64194/files/TAZ-TFG-2017-2862.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Estudio del sistema de protección de la instalación eléctrica de media tensión de una planta industrial</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Study of the protection system of medium voltage´s electric installation in an industrial plant</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Rave, Wolfgang</dc:contributor>
+    <dc:contributor>Masgrau Gómez, Enrique</dc:contributor>
+    <dc:creator>Jalle Ibarra, Javier</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Por estimación de canales entendemos la aproximación de la respuesta impulsional discreta de un canal desconocido usando el criterio de mínimo error cuadrático medio (MSE). En un enfoque clásico, esta aproximación es obtenida ajustando de manera adaptativa los coeficientes de un filtro FIR transversal, también conocido como 'entrenamiento'. La estimación de canales en canales de banda ultra ancha (UWB) tiene que hacer frente a respuestas impulsionales largas debido a la alta frecuencia de muestreo y usualmente la energía está concentrada en una pequeña fracción de los intervalos de  tiempo. Usando un filtro transversal FIR, se requiere un orden elevado para poder estimar de manera correcta la larga respuesta impulsional y la mayoría de los coeficientes del filtro reúnen poca o ninguna energía debido a la concentración de la energía en pequeñas fracciones de intervalos de tiempo. La fuente de este problema viene del hecho de que una aproximación consiste en representar una función como una suma ponderada de una base ortonormal completa (también llamadas funciones base), y luego truncar esta suma a un número fijo de términos (equivalente al orden del filtro). En el enfoque clásico del filtro FIR transversal, las funciones base se corresponden con la delta de Kronecker, también conocida como la base canónica. El problema con los canales UWB surgen debido a la extensión temporal extremadamente corta de las funciones base de los filtros FIR. Este estudio es una aproximación teórica para caracterizar la viabilidad de los filtros de Laguerre en un sistema de comunicación UWB. La aproximación es llevada a cabo por medio de otra base ortonormal, las secuencias de Laguerre, las cuales forman un compromiso entre los sistemas FIR y los IIR; y además pueden ser consideradas como una generalización de los filtros FIR. Estas secuencias son utilizadas para la estimación del canal para varios canales de prueba en el ámbito UWB y para realizaciones del modelo estocástico de canales UWB proporcionado por el estándar IEEE 802.15.4a, mostrando que ofrecen mejor rendimiento, en términos del error cuadrático medio (MSE), como generalización de los filtros FIR, sin embargo esta mejora no es muy grande cuando el canal presenta cambios abruptos, debido al comportamiento paso bajo de los filtros de Laguerre. Métodos adaptativos, como el algoritmo RLS son utilizados para caracterizar de forma práctica estas aproximaciones y verificar los resultados obtenidos teóricamente.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6662</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6662/files/TAZ-PFC-2011-689.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6662/files/TAZ-PFC-2011-689_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>ultra-wideband</dc:subject>
+    <dc:subject>laguerre</dc:subject>
+    <dc:subject>banda ulta ancha</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicaciones</dc:subject>
+    <dc:title>Estimación de canales de banda ultra ancha (UWB) mediante el uso de filtros de Laguerre</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

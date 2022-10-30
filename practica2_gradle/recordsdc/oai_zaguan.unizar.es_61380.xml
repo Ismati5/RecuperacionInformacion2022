@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Muñoz Rodríguez, Mariano</dc:contributor>
+    <dc:creator>Domínguez Conti, Javier</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El objetivo del trabajo es desarrollar un programa que permita realizar un estudio propio, autónomo y completo del comportamiento que presentan los ciclos simples de turbina de gas en función de sus variables de diseño fundamentales. Para ello se realiza, en primer lugar, una amplia revisión bibliográfica de ciclos simples de turbina de gas con objeto de comprender con rigor y en detalle los aspectos fundamentales de las plantas de turbina de gas, lo que a su vez permite establecer las bases sobre las que se fundamenta el trabajo posterior, es decir, conocer las relaciones, parámetros y variables implicadas, modelos utilizados, etc. Una vez acotado el alcance y el propósito del trabajo, es necesario un análisis y desarrollo propio de las ecuaciones necesarias. El desarrollo de las citadas ecuaciones conlleva un estudio y análisis de las bases termodinámicas y físicas de las turbinas de gas. Tras el desarrollo de las citadas ecuaciones, se lleva a cabo la implementación de un código de programación que facilita su interpretación y análisis. Para implementar dicho código, es necesario el estudio y selección del lenguaje de programación idóneo para el propósito establecido. El programa desarrollado exige numerosas revisiones para alcanzar un funcionamiento y rendimientos óptimos. Tanto en el desarrollo de las ecuaciones como en el del programa, se busca en todo momento alcanzar la máxima precisión y rigor posibles. Para ello se justifican todos los desarrollos realizados y se optimiza al máximo el funcionamiento del programa. También se elaboran procesos de cálculo y fuentes de datos propias que amplían el alcance y posibilidades del trabajo. A partir de gráficas obtenidas con el programa mencionado, se realiza un profundo estudio de la influencia que tienen diferentes variables de diseño sobre el funcionamiento global de las turbinas de gas y que demuestra la validez del programa.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61380</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61380/files/TAZ-TFG-2017-457.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Análisis paramétrico de ciclos de turbina de gas</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Parametric analysis of gas turbines cycles</dc:title>
+</oai_dc:dc>

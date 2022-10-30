@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Pastor Tejedor, Ana Clara</dc:contributor>
+    <dc:creator>Plaza Alfonso, Antonio</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Este proyecto se realiza en paralelo con el trabajo desempeñado en la empresa Kongsberg Automotive situada en Épila (Zaragoza) durante un año y medio, primero con una beca de la universidad y luego como ingeniero de procesos encargado del área de autobuses y camiones. Se trata de una mediana empresa de fabricación de tubos de plástico para el sector de la automoción. El proyecto se lleva a cabo debido a varios problemas que surgen en la empresa: •	Incorporación de nuevos prototipos que pasan a producción. •	Problemas de espacio en planta. •	Productividad de la zona relativamente baja. •	Necesidad de aumento de la flexibilidad de los procesos productivos. •	Saturación de los medios logísticos disponibles. Al tratarse de un cambio real en la planta de producción se podrá apreciar y contrastar mediante datos empíricos la evolución de las mejoras realizadas. El proyecto trata de un estudio e implementación de cambio de layout para minimizar movimientos de materiales y personas en la planta de producción, es decir, se pretenden eliminar o reducir operaciones que no aportan valor al producto. Antes de realizar ningún cambio se han fijado una serie de objetivos de obligado cumplimiento y otros opcionales que ha de cumplir la nueva disposición; con estos objetivos se ha buscado una solución óptima que maximice el grado de cumplimiento de éstos. Se han realizado estudios de viabilidad técnica y económica de los cambios a realizar, para evaluar las posibles soluciones a implementar y el impacto de éstas.  Con este cambio se pretende: •	Mejorar los tiempos de suministro de materia prima y recogida de producto terminado, que repercutirá directamente en un aumento de la productividad. •	Reestructurar las distintas zonas de trabajo para que éste se realice de una forma más eficiente y ordenada. •	Ahorrar costes de mano de obra al haber mejorado la productividad, ya que actualmente existe un gasto muy alto en horas extra y contratación de empleados temporales. Pasado un año y medio desde el cambio y con los datos que se disponen pasado este tiempo, una vez comparados con los datos que había entonces se puede concluir que se consiguió aumentar la productividad en más de un 30 %, lo que llevó a un ahorro mensual de más de 20.000 euros.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/13391</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Dirección y Organización de Empresas; Área de Organización de Empresas</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/13391/files/TAZ-PFC-2014-043.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>optimización</dc:subject>
+    <dc:subject>organización industrial</dc:subject>
+    <dc:subject>sector auxiliar de automoción</dc:subject>
+    <dc:subject>cambio de layout</dc:subject>
+    <dc:subject>mejora de procesos</dc:subject>
+    <dc:subject>incremento de productividad</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Optimización de la producción mediante un cambio de layout en una empresa del sector de la automoción</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

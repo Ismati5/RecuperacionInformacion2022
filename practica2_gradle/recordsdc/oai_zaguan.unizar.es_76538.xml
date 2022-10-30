@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Usón Sardaña, Antonio</dc:contributor>
+    <dc:creator>Ferrer Pérez, Gonzalo</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>Simulación de un aislador en suspensión por medio del método de elementos finitos para calcular su voltaje de ruptura y comparativa con un experimento real en el laboratorio.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76538</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76538/files/TAZ-TFG-2018-3711.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Eléctrica</dc:subject>
+    <dc:title>Cálculo del voltaje de ruptura en un aislador mediante el método de elementos finitos (M.E.F.) en tres dimensiones</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Measurement and evaluation of the inception voltage in glass suspension insulator using the three-dimensional finite element method (F.E.M.)</dc:title>
+</oai_dc:dc>

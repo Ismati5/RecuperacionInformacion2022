@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Serrano Pacheu, Ana Belén</dc:contributor>
+    <dc:contributor>Gutiérrez Pérez, Diego</dc:contributor>
+    <dc:creator>Camón Julián, Javier</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>La realidad virtual (RV) es un reciente avance tecnológico que está abriendo las puertas a nuevas experiencias audiovisuales y procesos de diseño mucho más inmersivos que los convencionales. Su aplicabilidad al mundo del cine, los videojuegos y los entornos virtuales hace gala de un enorme potencial, dada su capacidad de situar al usuario, ya sea espectador pasivo o agente activo, en un mundo virtual diseñado a voluntad del creador. Este proyecto se enfoca en la adaptación de la cinematografía tradicional a la realidad virtual. Más concretamente se centra en analizar la influencia del sonido panorámico direccional (o panning) en la percepción de la continuidad cinematográfica en este nuevo entorno, con el fin de obtener una serie de conclusiones que permitan diseñar un marco sonoro que facilite la interacción audiovisual y la transmisión de la intención del director o editor. Con esta meta se desarrollan y realizan una serie de experimentos de tipo prueba de usuario, en los que se somete a los sujetos a escenas en realidad virtual complementadas con sonido panoramizado y orientable, después de lo cual se comparan los resultados con los obtenidos tras los mismos experimentos realizados sin la panoramización del sonido. Se elaboran entonces una serie de conclusiones a partir del conocimiento adquirido, cuya motivación será mostrar qué funciona mejor para contar una historia en realidad virtual: es decir, establecer ciertas pautas del lenguaje cinematográfico en RV, arrojando así algo de luz en la cada vez más débil reinante oscuridad en el mundo del cine en este nuevo entorno.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/63970</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/63970/files/TAZ-TFG-2017-3568.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería en Diseño Industrial y Desarrollo de Producto</dc:subject>
+    <dc:title>Edición en Realidad Virtual: influencia de técnicas sonoras en la continuidad narrativa</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Edition in Virtual Reality: influence of sound techniques on narrative continuity</dc:title>
+</oai_dc:dc>

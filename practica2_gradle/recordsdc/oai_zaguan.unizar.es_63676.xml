@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Lucía Gil, Óscar</dc:contributor>
+    <dc:contributor>Sarnago Andía, Héctor</dc:contributor>
+    <dc:creator>López Alonso, Borja</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>En este Trabajo de Fin de Máster se presenta un modelo electro-térmico en gran señal, que busca reproducir una experiencia de electroporación irreversible sobre hígado de cerdo llevada a cabo en condiciones reales. El objetivo es modelar y reproducir la evolución de las señales de corriente y temperatura para poder estudiar la dependencia de la impedancia del tejido biológico en función de las variables biológicas intrínsecas del hígado, y de las características del estímulo en forma de campo eléctrico que se toma como entrada del modelo.  En la presente memoria se recopila un amplio estado del arte que estudia los orígenes de la electroporación y su situación actual. También se analiza el papel de la electrónica y el modelado en este campo a día de hoy. Tras analizar los orígenes y estado actual de este campo, se comienza con el desarrollo del modelo, un modelo de elementos finitos realizado mediante un software multi-físico, que permite estudiar las interacciones entre la parte eléctrica y térmica. Se han desarrollado y estudiado distintas estrategias a fin de lograr un modelo versátil permitiendo así tomar parámetros y datos reales para su ajuste. Con el trabajo de simulación ha sido posible estudiar y plantear hipótesis sobre problemas reales encontrados en la experimentación, tales como la dificultad de colocar los sensores térmicos o la necesidad de refrigeración en los electrodos. También se ha llevado a cabo una experimentación en quirófano que ha permitido recopilar datos eléctricos y térmicos, con el fin de ajustar y validar el modelo previamente desarrollado. Mediante la experimentación, también ha sido posible extraer información sobre la evaluación de las lesiones producidas, las características necesarias de los electrodos y generadores para que el equipo médico pueda operar de manera cómoda y segura, e incluso ha sido posible extraer datos biológicos importantes para la investigación en este campo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/63676</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/63676/files/TAZ-TFM-2017-777.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Electrónica</dc:subject>
+    <dc:title>Modelado electro-térmico y caracterización en gran señal de electroporación de grandes tejidos para tratamientos oncológicos</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Electro-Thermal Modeling and Characterization of Irreversible Electroporation of Large Tissues for Cancer Treatment</dc:title>
+</oai_dc:dc>

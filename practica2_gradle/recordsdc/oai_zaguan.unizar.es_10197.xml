@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Callejero Cornao, Bernardino</dc:contributor>
+    <dc:creator>Roig Javierre, José Antonio</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El trabajo consiste en un manual que pueda servir de guía para el inicio en el diseño de equipos de proceso que trabajan a presión según el código ASME VIII. Para eso, se ha articulado en tres partes: La parte primera, desarrollo Teórico, donde se describen algunos de los conceptos básicos de las instalaciones industriales, formas de definir los aparatos a presión, los elementos que lo constituyen y la metodología de cálculo que sigue el código ASME VIII div.1 para cada zona del equipo. Así mismo,se da un recorrido por el código, sus inicios, secciones, restricciones, etc. La parte segunda es un ejemplo de cálculo de un depósito cilíndrico vertical completo. El depósito en sí es bastante sencillo, pero no se pretende demostrar el grado de dificultad sino el proceso de cálculo. Se hace incapié en el cálculo de refuerzos de tubuladuras, que aunque parezca repetitivo, presenta varias opciones de cálculo diferentes. Así mismo, se realiza el cálculo para las cargas exteriores de viento, sismo y peso propio, además de la presión interna.  La tercera parte está dedicada a los anexos. En este apartado, están concentradas todas las fórmulas que el código tiene dispersas para cada tipo de elemento, de tal forma que sirva de guía para poder seguir los cálculos de la segunda parte o para un cálculo que se pueda plantear ajeno a este manual. Así mismo, se incluyen partes de catálogos de piezas comerciales necesarias para la complementación de los apartados anteriores.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10197</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Expresión Gráfica de la Ingeniería</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10197/files/TAZ-PFC-2013-117.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Manual práctico para el diseño y cálculo de equipos de proceso para plantas industriales según el código ASME VIII división 1</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

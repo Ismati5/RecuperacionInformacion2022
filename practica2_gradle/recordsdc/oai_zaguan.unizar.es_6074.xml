@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ilarri Artigas, Sergio</dc:contributor>
+    <dc:creator>Valer Palacios, Santiago</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Los sistemas y técnicas tradicionales para el procesamiento de datos no resultan adecuados en contextos donde existe un flujo de entrada continuo de datos altamente dinámicos (por ejemplo, en aplicaciones de monitorización, redes de sensores, etc.). Así, a diferencia de lo que sucede en un gestor de bases de datos tradicional, no podemos asumir que vamos a poder ejecutar consultas sobre un conjunto finito y estático de datos almacenados. Al contrario, tenemos que considerar situaciones en las que no es posible almacenar el conjunto completo de datos de entrada y donde las consultas van a estar ejecutándose de forma continua conforme llegan nuevos datos, en lugar de como una consulta instantánea donde únicamente se obtiene una respuesta. Este nuevo entorno tiene implicaciones en múltiples aspectos, tanto en lo referente a algoritmos de procesamiento de consultas, arquitecturas y técnicas de gestión de datos, como en la definición de nuevos lenguajes de consulta y operadores adecuados para manejar conjuntos ilimitados de datos. A lo largo del tiempo, han ido surgiendo diversas propuestas y sistemas para el procesamiento de estos flujos de datos (denominados en la literatura "data streams"). Se considerarán diversos sistemas existentes, como STREAM (Stanford University), Cougar (Cornell University), Aurora/Borealis (Brandeis University, Brown University, MIT),TinyDB (Berkeley University), NiagaraCQ (University of Wisconsin-Madison), TelegraphCQ (University of California, Berkeley), Nile (Purdue Univesity), Gigascope (AT&amp;T Labs), ATLAS (INRIA - Institut National de Recherche en Informatique et en Automatique) o PLACE (Purdue Univesity) analizando en más detalle los sistemas que se consideren más relevantes. Se determinarán las características más destacables de cada aproximación, así como el estado del arte en relación a la aplicación de estos sistemas en entornos más novedosos, como entornos móviles, entornos distribuidos y redes de vehículos. Los objetivos de este Trabajo de Fin de Máster son: -Introducirse en la problemática del procesamiento de data streams. -Estudiar las aproximaciones existentes. -Comparar las propuestas más significativas, tanto cualitativamente como experimentalmente en los casos en los que se tenga acceso al prototipo. Como resultado del trabajo, se elaborará un documento con el estudio realizado y los resultados de la comparativa, que sirva como resumen del estado del arte en el campo. Se considerará el envío de dicho trabajo para su evaluación a alguna conferencia o revista relevante.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6074</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6074/files/TAZ-TFM-2011-033.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>data streams</dc:subject>
+    <dc:subject>gestión de datos</dc:subject>
+    <dc:subject>procesamiento de consultas</dc:subject>
+    <dc:subject>consultas continuas</dc:subject>
+    <dc:subject>monitorización</dc:subject>
+    <dc:subject>datos dinámicos</dc:subject>
+    <dc:subject>redes de sensores</dc:subject>
+    <dc:subject>Máster Universitario en Ingeniería de Sistemas e Informática</dc:subject>
+    <dc:title>Evaluación de técnicas y sistemas de procesamiento de data streams</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

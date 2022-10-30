@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Marzo Rubio, Isabel</dc:contributor>
+    <dc:contributor>Serrano del Valle, Alfonso</dc:contributor>
+    <dc:creator>Nafría Jiménez, Beatriz</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El mieloma múltiple humano es un cáncer hematológico caracterizado por una proliferación maligna de células plasmáticas. Aunque las nuevas terapias han mejorado significativamente la respuesta de los pacientes con mieloma múltiple, sigue siendo una enfermedad incurable.   Recientemente, ha emergido el concepto de muerte celular inmunogénica como un tipo de muerte celular regulada que induce la activación del sistema inmune, en la que tienen un papel fundamental diversos patrones moleculares asociados al daño celular. Entre ellos se encuentra la exposición de calreticulina en la membrana plasmática. Además, en la emisión de este factor inmunogénico desempeña una acción clave el estrés en el retículo endoplasmático, activando la “respuesta a proteínas mal plegadas”.  Es por ello, que se ha planteado la hipótesis de que compuestos inductores de estrés en el retículo podrían combinarse con fármacos habituales en la terapia antitumoral para inducir muerte celular inmunogénica. En el caso del mieloma múltiple, los inhibidores del proteasoma como bortezomib y carfilzomib presentan gran interés terapéutico. De esta manera, si se inhibe la ruta de degradación proteica llevada a cabo por el proteasoma, se produce un acúmulo de proteínas mal plegadas, induciendo dicho estrés y la posible muerte celular inmunogénica. Además, para potenciar este fenómeno, se podrían combinar con otros inductores de estrés, como DBeQ.  En este trabajo se ha evaluado el efecto citotóxico y la capacidad inmunogénica, medida por la exposición de calreticulina, de carfilzomib y su combinación con DBeQ, en líneas celulares de mieloma múltiple. Los resultados muestran que tanto DBeQ como carfilzomib desencadenan muerte por apoptosis, de forma dependiente del tiempo, observándose un efecto sinérgico al combinarlos en las líneas celulares U266 y MM.1S. Asimismo, en función del estado celular basal, carfilzomib y su combinación con DBeQ inducen la exposición de calreticulina en la línea celular MM.1S.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64241</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Biología Celular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64241/files/TAZ-TFG-2017-2183.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Biotecnología</dc:subject>
+    <dc:title>Muerte inmunogénica inducida por fármacos antitumorales en células de mieloma múltiple</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Immunogenic cell death induced by cancer chemotherapy in multiple myeloma cells</dc:title>
+</oai_dc:dc>

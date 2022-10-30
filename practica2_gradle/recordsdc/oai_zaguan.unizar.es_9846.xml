@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sanz Osorio, José Francisco</dc:contributor>
+    <dc:creator>Sánchez Pardos, Alejandro</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Mi proyecto fin de carrera trata sobre la remodelación de un aerogenerador de baja potencia que se encuentra fuera de servicio desde hace más de 20 años. Durante la realización de este proyecto se han planteado y analizado las posibles alternativas para poner en funcionamiento dicho aerogenerador, escogiéndose finalmente una regulación del aerogenerador a dos velocidades, consiguiéndose mejores resultados que regulando éste a una velocidad fija. Este proyecto consiste fundamentalmente en el diseño del circuito de potencia del sistema eólico y en la búsqueda y análisis de los componentes de dicho circuito. Por otro lado, también se ha considerado oportuno realizar una simulación informática del comportamiento eléctrico del aerogenerador, para todo el régimen de funcionamiento, mediante el programa MATLAB.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9846</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9846/files/TAZ-PFC-2012-807.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electrónica Industrial)</dc:subject>
+    <dc:title>Actualización de un aerogenerador de 30 kW en desuso para su nueva puesta en servicio</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

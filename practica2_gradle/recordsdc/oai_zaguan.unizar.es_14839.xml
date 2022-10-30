@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Losada Binué, María Ángeles</dc:contributor>
+    <dc:creator>Domínguez Chapman, Frank Alejandro</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>En este trabajo se ha realizado un estudio experimental de las pérdidas introducidas por los conectores para fibra de plástico en función de los factores que tienen influencia sobre dichas pérdidas: tipo de fibra,  tamaño y material del recubrimiento,herramientas de terminación, etc. Se han caracterizado conectores de tipo ST, para fibras de PMMA de 1 mm de diámetro total y de dos tipos: fibras de un solo núcleo(SC-POF) y fibras de múltiples núcleos (MC-POF). Se obtiene una estimación fiable de las pérdidas del conector en todas las condiciones testeadas, además, se ha determinado el procedimiento y la herramienta de terminación idóneos para cada tipo de fibra. Finalmente para las fibras MC-POF se muestra una evaluación del impacto de los diferentes desajustes en las pérdidas de inserción del conector y se propone que el desalineamiento rotacional puede ser la razón de las pérdidas más elevadas encontradas para conectores de fibras de múltiples núcleos en comparación con las de las fibras de un solo núcleo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/14839</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/14839/files/TAZ-TFG-2014-830.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>fibras de plástico</dc:subject>
+    <dc:subject>conectores</dc:subject>
+    <dc:subject>pérdidas de inserción del conector</dc:subject>
+    <dc:subject>desalineamientos</dc:subject>
+    <dc:subject>Graduado en Ingeniería de Tecnologías y Servicios de Telecomunicación</dc:subject>
+    <dc:title>Análisis de pérdidas en conectores para fibras de plástico</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

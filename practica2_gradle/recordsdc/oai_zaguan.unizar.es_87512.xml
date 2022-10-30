@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>López Gómez, Ricardo</dc:contributor>
+    <dc:creator>Gracia Izquierdo, Ana Isabel</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>El objetivo principal de este trabajo se basa en el diseño de un método que permita cuantificar el SO2 contenido en un vino modelo, optimizando los parámetros variables de un cromatógrafo de gases con un detector Fotométrico de Llama Pulsante (PFPD). El SO2 se añade en los vinos como agente antiséptico y antioxidante. Este se añade en forma de hidrogeno sulfito de sodio, y establece una serie de equilibrios en disolución, permitiendo encontrar distintas especies de SO2 (libre, combinado y molecular). El hecho de tener el analito en diferentes formas, dificulta la determinación debido a que el PFPD solo va a detectar el SO2 molecular. Se trató de cuantificar el SO2 total en forma de SO2 molecular desplazando los distintos equilibrios en los que se encontraba. La muestra se introdujo en el cromatógrafo mediante espacio de cabeza estático junto con un estándar interno adecuado, y se variaron las condiciones en los distintos experimentos realizados con la finalidad de observar como se comportaba el pico de interés. Para esto, se estudió la repetitividad, la influencia del pH y de la temperatura sobre el pico, la variabilidad del pico al variar el volumen de inyección, la disminución al formar aductos con acetaldehído y el aumento de este al romperlos. Regular y conocer estas condiciones permitió desarrollar un método mediante el cual se procedió a la cuantificación de las distintas especies en un vino modelo. Para esto se realizó una curva de calibrado siguiendo las condiciones del método desarrollado y se interpoló en ella los valores de señal de muestras de concentración desconocida. Los resultados obtenidos mediante el método desarrollado fueron validados frente al método de referencia Rankine.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87512</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Analítica; Área de Química Analítica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87512/files/TAZ-TFG-2019-1300_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/87512/files/TAZ-TFG-2019-1300.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Química</dc:subject>
+    <dc:title>Desarrollo y validación de un método de análisis de compuestos de interés en el aroma del vino</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Development and validation of a method of analysis of compounds of interest in the aroma of wine</dc:title>
+</oai_dc:dc>

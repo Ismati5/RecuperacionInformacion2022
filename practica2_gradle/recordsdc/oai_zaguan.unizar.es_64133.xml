@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Carrodeguas Villar, José Alberto</dc:contributor>
+    <dc:contributor>Medina Trullenque, María Milagros</dc:contributor>
+    <dc:creator>Novo Huerta, Nerea</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El factor inductor de apoptosis homólogo a AIF (AIFL) es un miembro de la familia de proteínas AIF (factor inductor de apoptosis) del que se posee escasa información tanto a nivel estructural como funcional. Con el objeto de estudiar la función de esta proteína se generó una línea celular humana KO para el gen que la codifica, aifm3, por medio de la técnica de edición genómica CRIPSR/Cas9. La expresión ubicua del factor sugiere una posible función esencial en la célula, que se vio sustentada por la observación de un crecimiento significativamente ralentizado en la línea celular silenciada. En paralelo, se estudió la hipotética función pro-apoptótica del factor, diseñando vectores de expresión tanto para células procariotas como eucariotas con el fin de sobreexpresar el gen aifm3 en Escherichia coli y en la línea celular humana HEK293T. La sobreexpresión en bacterias se demostró mediante Western Blot, mientras que no se observó expresión ni efectos significantes en las células humanas transfectadas. La optimización de la expresión en bacterias permitirá, en estudios posteriores, diseñar un protocolo de purificación para su caracterización tanto bioquímica (mediante ensayos cinéticos) como estructural (por técnicas de cristalización).</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64133</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Biología Celular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64133/files/TAZ-TFG-2017-3093.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/64133/files/TAZ-TFG-2017-3093_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Biotecnología</dc:subject>
+    <dc:title>Caracterización funcional de AIFM3 (Apoptosis-inducing factor mitochondrion-associated 3) mediante inactivación del gen por la técnica CRISPR-Cas9 y sobreexpresión de la proteína en bacterias y células eucariotas</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Functional characterization of AIFM3 (Apoptosis inducing factor mitochondrion-associated 3) through the knock-out of its gene with the technique CRISPR-Cas9 and over-expression of the protein in bacteria and eukaryotic cells</dc:title>
+</oai_dc:dc>

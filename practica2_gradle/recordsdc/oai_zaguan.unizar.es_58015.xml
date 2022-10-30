@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Asiain Ansorena, David</dc:contributor>
+    <dc:creator>Anzuela Recasens, Xavier</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>The project is based on the design of a Modular Battery Management System for a battery pack that will be in the Eupla Racing Team prototype racing in Alcañiz during the MotoStudent IV event. The present memory explains the development of such design. It starts presenting a state of the art and a theoretical framework to give the reader some background and understanding before starting with the technical work. Knowledge of the existing technologies is a must to be able to design a reliable BMS. The next section explains the development of the prototype. It is divided into several sections. MotoStudent regulations and the battery pack for which we are designing the BMS will be introduced to be able to start with the design. We will first carry out a market study of the available monitoring chips and search for one with the optimal features for our application. Once the chip is selected the electronic design will start taking into account the suggestions given by the manufacturer in the datasheet. Also the extra features needed for our application will be added. For instance, the conditioning circuit for the chosen temperature sensors; in our case, NTCs. For the hardware development we will have to choose an appropriate balancing current for a competition application and make the corresponding calculations such as trace width to withstand the current applied. A meticulous component selection will be elaborated to ensure we have a reliable prototype. Finally, software will be divided into two stages: software development and the interface. The former will be based on the chip libraries offered by the manufacturer and adapted to our application, the latter will be developed with LabVIEW. The LabVIEW interface will be a key feature to ensure a testing procedure and a quick way to check the battery pack state during the competition.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/58015</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/58015/files/TAZ-TFG-2016-4924_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/58015/files/TAZ-TFG-2016-4924.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecatrónica</dc:subject>
+    <dc:title>Diseño de un BMS modular para EV enfocado a MotoStudent</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Design of a modular BMS for EV focused on MotoStudent</dc:title>
+</oai_dc:dc>

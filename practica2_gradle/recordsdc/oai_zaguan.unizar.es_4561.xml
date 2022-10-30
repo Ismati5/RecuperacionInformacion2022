@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Júlvez Bueno, Jorge Emilio</dc:contributor>
+    <dc:creator>Jorge Salcines, Luis Jesús</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>En contraste con los circuitos síncronos, los circuitos asíncronos carecen de un reloj global y sincronizan sus operaciones por medio de hand-shakes locales. De esta manera los circuitos asíncronos evitan el calentamiento del circuito a frecuencias elevadas y ofrecen una mayor flexibilidad al diseñador. Normalmente el rendimiento de un circuito asíncrono está limitado por unos pocos componentes que se denominan cuellos de botella. Identificar correctamente los cuellos de botella es fundamental a la hora de optimizar el rendimiento del circuito. El objetivo de este proyecto consiste en identificar de manera eficiente cuellos de botella de un circuito asíncrono con retardos variables. Los cuellos de botella obtenidos serán utilizados para estimar el rendimiento de todo el circuito.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4561</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4561/files/TAZ-PFC-2010-013_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/4561/files/TAZ-PFC-2010-013.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Redes de Petri</dc:subject>
+    <dc:subject>Cuellos de botella</dc:subject>
+    <dc:subject>Simulación</dc:subject>
+    <dc:subject>Programación lineal</dc:subject>
+    <dc:subject>Optimización</dc:subject>
+    <dc:subject>Rendimiento</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Identificación de cuellos de botella en circuitos asíncronos</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

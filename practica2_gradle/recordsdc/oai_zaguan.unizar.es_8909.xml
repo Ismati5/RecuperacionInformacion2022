@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Westphal, Ralf</dc:contributor>
+    <dc:contributor>Montesano del Campo, Luis</dc:contributor>
+    <dc:creator>Quílez Velilla, Pablo Javier</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>La habilidad del neurocirujano puede suponer la diferencia entre el éxito o el fracaso de una operación de neurocirugía. Para facilitar su labor se han desarrollado a lo largo de la historia complejas técnicas de diagnóstico clínico y quirúrgicas. Actualmente las técnicas de diagnóstico más comunes son la tomografía axial computerizada (TAC), la tomografía por emisión de positrones (PET), la resonancia magnética nuclear (RMN) y la magnetoencefalografía (MEG). La microcirugía, la cirugía endoscópica o la cirugía estereotáxica representan algunos de los recientes avances más importantes en técnicas de quirófano. La neurocirugía es una especialidad médica que se encuentra en constante y rápida evolución. El uso de robots en las operaciones en general y en neurocirugía en particular cada vez tiene un mayor interés e importancia porque permiten sobrepasar la precisión y las habilidades humanas. La distinción entre tejido sano y tumoral es un problema añadido durante las operaciones de extirpación de tumores cerebrales. Es vital eliminar totalmente el tumor para evitar su reaparición, a la vez que conservar el mayor volumen posible de tejido sano circundante ayuda a reducir las secuelas y mejora la recuperación. En este documento se describe un método asistido por robot, con la ayuda de un sensor de fuerza y un sensor tumoral desarrollado en la Universidad Leibniz de Hanóver, para construir un mapa del tejido tumoral de la superficie del cerebro. A diferencia de otras tecnologías actuales, el proceso se puede efectuar de forma automatizada bajo supervisión humana. El objetivo de este proyecto es lograr movimientos seguros y precisos del brazo robótico mientras se construye el mapa, permitiendo incluso desplazar el sensor sobre la superficie en movimiento sin dañarla. Completar correctamente la tarea requiere un contacto perpendicular y constante del sensor con la superficie cerebral en cada punto a medir. Para ello se han desarrollado algoritmos, métodos, un controlador PID por software y las pruebas que se detallan en este documento. Aproximar el sensor tumoral de forma suave es uno de los requisitos más importantes, siendo otro compensar los movimientos de la superficie del cerebro debidos al pulso cardiaco mientras se mantiene el contacto con una fuerza constante. Si los movimientos del robot no se realizan con extrema precisión se pueden ocasionar daños graves al paciente o incluso su muerte. Las principales dificultades que se han enfrentado durante el proyecto son compensar la variación del peso medido por el sensor de fuerza al cambiar la orientación de la mano del robot, e identificar y reducir las fuentes de error como por ejemplo la precisión del sensor de fuerza o la alineación de las articulaciones del robot. Este proyecto también representa un punto de partida y de referencia para la investigación de nuevas aplicaciónes roboticas en cirugía de tejidos blandos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8909</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8909/files/TAZ-PFC-2012-603.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/8909/files/TAZ-PFC-2012-603_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>robótica</dc:subject>
+    <dc:subject>robotics</dc:subject>
+    <dc:subject>robot</dc:subject>
+    <dc:subject>cirugía</dc:subject>
+    <dc:subject>surgery</dc:subject>
+    <dc:subject>cerebro</dc:subject>
+    <dc:subject>brain</dc:subject>
+    <dc:subject>robótica médica</dc:subject>
+    <dc:subject>medical robotics</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Sensor guiado por robot para determinar regiones tumorales en la superficie cerebral: optimización de puntos de contacto</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

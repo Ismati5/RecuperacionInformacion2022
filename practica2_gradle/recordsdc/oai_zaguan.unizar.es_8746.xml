@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Santolaria Mazo, Jorge</dc:contributor>
+    <dc:contributor>Velázquez Sancho, Jesús</dc:contributor>
+    <dc:creator>Alierta Gazol, Daniel</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>En un entorno de alta competitividad en un sector como el de la máquina-herramienta (MH), la precisión y la posibilidad de compensación de los errores es una diferencia competitiva entre fabricantes y usuarios de las mismas, adquiriendo especial relevancia en el mecanizado de precisión. Tradicionalmente, la verificación geométrica ha sido ampliamente utilizada en la verificación de MH y máquinas de medir por coordenadas (MMC). Ésta se basa en la caracterización de los errores de cada eje por separado, independientemente del modelo cinemático de la máquina y de su secuencia de movimientos mediante la medición directa de los errores a compensar en unas posiciones determinadas de la máquina. El objetivo de este proyecto es adaptar los conocimientos que se tienen de la verificación de máquina-herramienta, a una impresora 3-D. Estas impresoras están sufriendo un boom en la actualidad debido al auge del prototipado rápido, cuyo proceso de fabricación se basa en ir añadiendo material capa a capa. Las impresoras 3-D funcionan de la siguiente manera: la pieza a fabricar se dibuja en un programa de CAD, a partir de ahí se obtiene el archivo STL, el cual se manda a la impresora para que se fabrique el objeto. Básicamente, el proyecto consiste en corregir los errores de la impresora EDEN 350 V. Las tareas que se van a realizar son las siguientes: • Introducción al Prototipado Rápido con las diferentes tecnologías existentes. • Definición y estudio del problema a resolver. Modelado y corrección de los 21 errores geométricos existentes en la impresora 3D (posición, alabeo, cabeceo…). • A partir de la formulación existente para la verificación de máquina herramienta se diseñará y construirá una pieza que permita calcular los errores. • Realización de un modelo geométrico en base a la formulación habitualmente utilizada en la verificación de máquina herramienta. • Realización de un modelo volumétrico que permita la identificación de parámetros de error mediante optimización no lineal. • Comparación de resultados y conclusiones. De esta manera se quiere conseguir que mediante un algoritmo, corregir el archivo STL del programa de CAD, de tal manera de que la pieza a fabricar salga ya perfectamente hecha con los errores corregidos. Los programas que se van a utilizar para realizar este proyecto son: Solid Edge, Ansys, Matlab, Object Studio y Metrolog.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8746</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8746/files/TAZ-PFC-2012-497.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>prototipado rápido</dc:subject>
+    <dc:subject>verificación geométrica</dc:subject>
+    <dc:subject>verificación volumétrica</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Modelado y compensación de errores de sistemas de prototipado rápido</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

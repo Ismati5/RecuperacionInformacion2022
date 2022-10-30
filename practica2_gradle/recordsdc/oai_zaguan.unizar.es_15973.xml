@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Yagüe Fabra, José Antonio</dc:contributor>
+    <dc:contributor>Aguilar Martín, Juan José</dc:contributor>
+    <dc:creator>Sanz Calvo, Javier</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El nuevo paradigma de enseñanza-aprendizaje introducido por el Espacio Europeo de Educación Superior coloca al estudiante en el centro de su proceso de aprendizaje. En relación a ello, el sistema universitario español ha realizado en estos últimos años grandes esfuerzos de adaptación al nuevo planteamiento docente y a las nuevas metodologías utilizadas. Dentro de este contexto la enseñanza no presencial cobra cada vez mayor importancia, a ello debemos unir las herramientas informáticas con las que se cuenta a día de hoy para llevar a cabo una enseñanza de garantías. El objetivo del presente proyecto es la utilización de muchas de estas herramientas formativas que nos ofrecen las TIC´S (Tecnologías de la información y la comunicación) y los Entornos virtuales de aprendizaje para el desarrollo de un curso de formación no presencial de Ingeniería de la Calidad. Siendo el resultado final del mismo un ejemplo de curso en la plataforma web de enseñanza no presencial Moodle 2.3, en el que se han incluido ejemplos de contenidos teóricos, casos prácticos, vídeo-presentaciones explicativas, herramientas de comunicación profesor-estudiantes, etc. El desarrollo de este proyecto se encuentra enmarcado en una de las asignaturas del Máster Propio en Metrología Industrial e Ingeniería de la Calidad, estudio propio de la Universidad de Zaragoza. En la elaboración del mismo se ha procedido a la realización y resolución de diferentes casos prácticos ligados a determinados conceptos teóricos, aplicables a día de hoy al entorno industrial y a las diferentes necesidades demandadas por este. Los casos prácticos a desarrollar incluyen temas relacionados con metodologías de calidad de gran actualidad y peso en la industria actual: Lean Manufacturing, 6 sigma, Advanced Product Quality Planning (APQP), etc.  Mediante el uso de Moodle 2.3 se ha optimizado la actividad docente no presencial, empleando para ello los recursos actuales de dicha herramienta, tales como: un espacio virtual para colgar el temario y los supuestos prácticos, foros, cuestionarios, etc. Además de la utilidad que nos ofrece Google Hangouts junto a YouTube para la aplicación de mensajería instantánea en la que gracias a su servicio de videoconferencias, permite realizar seminarios y tutorías online.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/15973</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/15973/files/TAZ-PFC-2014-393.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>ingeniería</dc:subject>
+    <dc:subject>herramientas</dc:subject>
+    <dc:subject>calidad</dc:subject>
+    <dc:subject>metrología </dc:subject>
+    <dc:subject>moodle</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Desarrollo de herramientas y casos para el aprendizaje no presencial de Ingeniería de la Calidad</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

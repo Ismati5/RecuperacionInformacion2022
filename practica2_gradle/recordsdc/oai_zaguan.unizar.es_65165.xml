@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mateo Collazos, Pedro</dc:contributor>
+    <dc:contributor>Surra Muñoz, Joaquín</dc:contributor>
+    <dc:creator>Rubio Latasa, Marta</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Este trabajo es una continuación y ampliación del Trabajo de Fin de Grado "Desarrollo de un Programa Informático para la Formulación de Piensos Compuestos". Su principal propósito es crear un módulo adicional al sofware creado en el anterior trabajo para poder realizar una formulación bi-objetivo de piensos compuestos. Por ello previamente se explican los conocimientos teóricos mínimos que permiten entender, modelar y resolver problemas multi-objetivo y más concretamente problemas lineales bi-objetivo, para posteriormente aplicarlos al programa informático.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/65165</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Métodos Estadísticos; Área de Estadística e Investigación Operativa</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/65165/files/TAZ-TFG-2017-2069.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Matemáticas</dc:subject>
+    <dc:title>Optimización bi-objetivo aplicada a la formulación de piensos compuestos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">A compound feeds formulation by bi-objective optimization</dc:title>
+</oai_dc:dc>

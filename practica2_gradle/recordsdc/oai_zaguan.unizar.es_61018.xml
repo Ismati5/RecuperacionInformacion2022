@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Beltrán Blázquez, José Ramón</dc:contributor>
+    <dc:creator>Díaz-Guerra Aparicio, David</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Este trabajo se plantea como una introducción a las técnicas de estimación de ángulo de llegada (DOA) en agrupaciones de micrófonos. En él, tras explicar la motivación y alcance del proyecto y una pequeña introducción al procesado de señal de agrupaciones, se estudian las distintas técnicas existentes a día de hoy para, a continuación, presentar 2 implementaciones en tiempo real. La primera, montada sobre un PC y usando micrófonos y equipos profesionales, sirve para demostrar las capacidades de este tipo de técnicas, mientras que la segunda, buscando reducir tamaños y costes, está más próxima a las necesarias en aplicaciones reales. Además, junto a la primera implementación se aborda el hecho de representar espacialmente, de manera conjunta, los resultados obtenidos mediante las técnicas de DOA con la imagen obtenida de una cámara de vídeo, y junto a la segunda, se presenta una técnica que permite combinar la información obtenida por diversas agrupaciones pequeñas para formar una red de agrupaciones de micrófonos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61018</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61018/files/TAZ-TFM-2017-034.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería de Telecomunicación</dc:subject>
+    <dc:title>Localización de fuentes sonoras mediante agrupaciones de micrófonos</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Sound source localization with microphone arrays</dc:title>
+</oai_dc:dc>

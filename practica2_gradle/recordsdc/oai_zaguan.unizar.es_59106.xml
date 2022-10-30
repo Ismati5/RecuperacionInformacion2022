@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>López Molinero,Angel</dc:contributor>
+    <dc:creator>GOMEZ ANSÓN, LORENA</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>Se ha desarrollado un método para la determinación de sulfitos mediante la captura de imágenes digitales y lectura de colores RGB reflejados producidos en la reacción cromogénica con nitroprusiato, o reacción de Boedeker.  Se estudia la influencia de factores de reacción como: tensoactivos, preparación de micro-partículas reactivas de nitroprusiato-zinc y diferentes aminas. Las aminas estudiadas han sido: la hexametilentetramina que se aplica como reactivo alternativo a la Piridina. Por otra parte aminas como, putrescina, cadaverina e histamina, han demostrado una diferente influencia en la cromaticidad. Así, la histamina favorece significativamente la coloración, mientras que la putrescina y la cadaverina son menos sensibles y más similares entre ellas.  Se han evaluado factores instrumentales como: el soporte donde se desarrolla la reacción y el tipo y color de iluminación ‘w-rgb’ de la imagen digital, además de la influencia de la captura de la imagen en un sistema abierto o cerrado con luz parásita controlada.  Se caracteriza la varianza cromática y su distribución en los factores fundamentales: analito, cámara y método. Las mejores prestaciones analíticas se consiguen con iluminación blanca, y colores reflejados R- G, lo que reduce el Límite de detección de 6.0 a 3.0 mg/l. Se ha estudiado la aplicación de un método de regresión múltiple, MLR, basado en la lectura de los colores RGB con iluminaciones roja, verde y azul. El método se ha aplicado al control de sulfitos en vino blanco comercial. La determinación se ha validado frente a un método de referencia oficial. La comparación estadística de resultados demuestra que no hay errores sistemáticos. Así mismo los valores de recuperación de una muestra aditivada, son del 98%.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/59106</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Analítica; Área de Química Analítica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/59106/files/TAZ-TFG-2016-2285.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/59106/files/TAZ-TFG-2016-2285_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Química</dc:subject>
+    <dc:title>METODOS ANALITICOS CON IMÁGENES DIGITALES</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">DIGITAL IMAGE FOR ANALITICAL METHODS</dc:title>
+</oai_dc:dc>

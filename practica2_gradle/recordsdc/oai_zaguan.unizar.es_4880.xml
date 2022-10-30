@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bel Martín, Marta</dc:contributor>
+    <dc:creator>Buil Mur, Manuel</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>El presente proyecto fin de carrera se enmarca dentro del proyecto CELTIC Feel@Home, el cual trata de crear una red avanzada de contenidos y servicios multimedia localizados en el hogar que finalmente acabe siendo adoptada por el mercado. Por tanto, está alineado con los últimos desarrollos en el campo de las ?smart homes? u hogares inteligentes. Concretamente, este proyecto se centra en la parte técnica, creando una red avanzada de contenidos. El proyecto se divide en varias etapas. La primera de ellas incluye el diseño y desarrollo del escenario local del hogar, el cual permite el control centralizado de todos los dispositivos y servidores multimedia del hogar. De este modo, el usuario consigue descubrir y reproducir en cualquiera de sus dispositivos contenido multimedia, independientemente de dónde se encuentre el servidor y el reproductor. Además, el proyecto incluye una sencilla red social. Ésta permitirá a los usuarios de cada hogar crear listas de amigos o grupos mediante las cuales poder compartir sus contenidos locales y reproducir los que les han sido compartidos. Para ello y para utilizar otras funcionalidades del sistema, se ha desarrollado una compleja aplicación web que ofrece de forma intuitiva los servicios del sistema. La siguiente etapa del proyecto, trata de interconectar todos los hogares. Para ello, desarrolla una red de forma que los contenidos compartidos puedan viajar de un hogar a otro de manera rápida y fiable. A su vez, permite al usuario acceder a los contenidos de su hogar remotamente a través de un dispositivo con acceso a internet. Para crear esta red se hace un estudio de las tecnologías más adecuadas para la interconexión de los hogares, seleccionando una de ellas en base a los requisitos de Feel@Home. Finalmente, el proyecto realiza el diseño e implementación de los elementos necesarios para lograr que el sistema sea interoperable con otra tecnología de interconexión de los hogares. En concreto, el sistema logra interoperar dos sistemas que basan esta interconexión entre hogares en VPN e IMS.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4880</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingenieria Telematica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4880/files/TAZ-PFC-2010-094.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/4880/files/TAZ-PFC-2010-094_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>hogar digital</dc:subject>
+    <dc:subject>contenidos multimedia</dc:subject>
+    <dc:subject>UPnP</dc:subject>
+    <dc:subject>acceso remoto</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicaciones</dc:subject>
+    <dc:title>Extended home: acceso remoto a los contenidos digitales del hogar</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

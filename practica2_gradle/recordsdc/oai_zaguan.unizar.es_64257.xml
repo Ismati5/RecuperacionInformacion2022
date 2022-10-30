@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Andreu Solano, Raquel</dc:contributor>
+    <dc:contributor>Franco Ontaneda, Santiago</dc:contributor>
+    <dc:creator>Tejeda Orusco, Víctor</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Debido al gran aumento del consumo energético a nivel mundial se ha hecho necesaria la búsqueda de nuevas alternativas energéticas renovables. Una de las que más futuro tiene es la energía solar, basada en dispositivos capaces de convertir la energía que proviene del Sol en  energía eléctrica.  Actualmente el mercado lo dominan los dispositivos basados en silicio, pero cada vez están cobrando mayor importancia las celdas solares que utilizan moléculas orgánicas, como por ejemplo las celdas orgánicas de heterounión masiva (BHJ).  En este trabajo se han sintetizado seis nuevas moléculas con la estructura Dador-πAceptor con forma de V. Estas moléculas cuentan con la misma parte dadora (unidad 4Hpiranilideno) y el mismo espaciador conjugado π (unidad ditiofenilmetileno) pero con distinto número (1 o 2) y tipo de aceptores (malononitrilo (A), 3‐dicianovinilindan‐1‐ona (B) y 2‐oxo‐4fenil‐2,5‐dihidrofuran‐3‐carbonitrilo (C)).   Por análisis de la estructura de Rayos X de los derivados de tipo 1, se ha visto que el anillo de tiofeno al que no está unida la unidad aceptora se coloca de manera cuasi‐perpendicular al  sistema π‐conjugado.   Se han estudiado las propiedades ópticas y electroquímicas de las moléculas finales para  investigar  su  posible  aplicación  para  celdas  de  tipo  BHJ, encontrando que son buenos candidatos. Además, se ha observado que los productos con dos unidades aceptoras, 2, presentan absorción a menores longitudes de onda, pero debido a los mayores valores del potencial de oxidación,el HOMO aparece más estabilizado. </dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64257</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Orgánica; Área de Química Orgánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64257/files/TAZ-TFG-2017-2138_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/64257/files/TAZ-TFG-2017-2138.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Química</dc:subject>
+    <dc:title>Sistemas conjugados en forma de V derivados de 4H-piranilideno para celdas solares</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">V‐shaped conjugated 4H‐pyranylidene derivatives for solar cells</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Plou Gómez, Jorge</dc:contributor>
+    <dc:contributor>Peña Llorente, José Ángel</dc:contributor>
+    <dc:creator>Segura Hernández, Eduardo</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El ámbito del proyecto se inscribe en la búsqueda de alternativas energéticas debido a la progresiva disminución de combustibles fósiles. En tales circunstancias, el hidrógeno se presenta como una alternativa limpia que puede ser obtenida a partir de fuentes de energía renovables, entre ellas, el biogás. El objetivo es determinar la viabilidad técnica de la producción de hidrógeno en continuo, a partir de biogás en un reactor de lecho fluidizado de dos zonas (TZFBR) mediante la combinación de los procesos “steam iron” y reformado seco de metano (MDR). El reformado seco de metano produce monóxido de carbono e hidrógeno a partir de corrientes de metano y dióxido de carbono (biogás desulfurado), gracias a un catalizador de níquel que es desactivado por la formación de coque. El proceso “steam-iron” consta de dos pasos: en un primer paso se produce la reducción de un óxido metálico (basado en óxido de hierro) con una corriente de gas reductora (en este trabajo, el hidrógeno producido en el MDR). En un segundo paso se obtiene hidrógeno al oxidar el hierro con vapor de agua. El reactor consta de dos zonas: en la zona de reducción del reactor se lleva a cabo el reformado seco de metano (MDR) que produce hidrógeno, el cual reacciona con el óxido de hierro para desplazar la reacción hacia los productos. En la zona de oxidación se produce la gasificación del coque y por tanto la regeneración del catalizador utilizado en la zona de reducción. En esta zona el hierro produce el hidrógeno que había consumido cerrando el ciclo del proceso “steam iron”.  Se ha determinado el efecto de diversos factores sobre la fluidización y se han conseguido las condiciones óptimas para fluidizar el lecho a través de pruebas de fluidización. Se ha determinado que, para conseguir una mezcla perfecta como se espera de un reactor fluidizado, el mejor tamaño de partícula de sólido es entre 100 y 200 µm y que necesita al menos un 15% en peso del lecho total de sílice 160-250 µm como agente disgregante. También se han calculado las velocidades mínimas de fluidización para determinar la velocidad óptima de operación. Como gas oxidante se ha utilizado vapor de agua en distintas proporciones y se ha observado una linealidad entre esta cantidad y la ratio entre caudales de H2 / CO debido al equilibrio “Water Gas Shift”, que representa la transición de reformado seco a reformado con vapor. Se ha comprobado que este reactor supone una gran mejora con respecto a un reactor de lecho fijo en las mismas condiciones y se ha determinado que su configuración óptima es aquella que opera con la etapa de reducción en la zona inferior y la oxidación en la zona superior. Sin embargo, se puede prescindir del proceso “steam iron” ya que gracias a la constante regeneración del catalizador se consigue consumir todo el metano sin necesidad del óxido de hierro, que además complica la fluidización.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8912</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Ingeniería Química</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8912/files/TAZ-PFC-2012-604.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>hidrógeno</dc:subject>
+    <dc:subject>biogás</dc:subject>
+    <dc:subject>biogas</dc:subject>
+    <dc:subject>mdr</dc:subject>
+    <dc:subject>reformado seco de metano</dc:subject>
+    <dc:subject>msr</dc:subject>
+    <dc:subject>reformado de metano con vapor de agua</dc:subject>
+    <dc:subject>steam-iron</dc:subject>
+    <dc:subject>redox</dc:subject>
+    <dc:subject>coque</dc:subject>
+    <dc:subject>coke</dc:subject>
+    <dc:subject>gas de síntesis</dc:subject>
+    <dc:subject>syngas</dc:subject>
+    <dc:subject>tzfbr</dc:subject>
+    <dc:subject>two zone fluidized bed reactor</dc:subject>
+    <dc:subject>rlfdz</dc:subject>
+    <dc:subject>reactor de lecho fluidizado de dos zonas</dc:subject>
+    <dc:subject>wgs</dc:subject>
+    <dc:subject>water gas shift</dc:subject>
+    <dc:subject>Ingeniero Químico</dc:subject>
+    <dc:title>Producción de hidrógeno a partir de biogás en reactor de lecho fluidizado de dos zonas (TZFBR)</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

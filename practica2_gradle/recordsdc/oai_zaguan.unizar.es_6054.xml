@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Izquierdo Pantoja, María Teresa</dc:contributor>
+    <dc:contributor>Juan Mainar, Roberto</dc:contributor>
+    <dc:contributor>Herguido Huerta, Francisco Javier</dc:contributor>
+    <dc:creator>García Díez, Enrique</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>En la combustión de carbón en las centrales térmicas se emiten a la atmósfera una cantidad considerable de mercurio. EL mercurio es altamente tóxico para el medioambiente, por lo que se debe investigar tecnologías para su retención. Por lo tanto el objetivo de este Proyecto es el desarrollo de sorbentes regenerables basados en Au/C para la eliminación de mercurio en fase gas. Se han preparado y caracterizado diferentes soportes de material carbonoso a partir de monolitos de carbono comerciales, a los cuales se les aplicó diferentes tratamientos que permitieron la modificación de su química superficial, concretamente un tratamiento de oxidación, para favorecer la deposición de oro. La deposición de oro sobre los soportes se ha llevado a cabo a partir de sal de oro siguiendo dos metodologías diferentes: i) reducción directa del Au sobre el soporte y ii) deposición de oro coloidal. Se pretende conseguir la deposición de partículas de oro de tamaño nanométrico. Una vez depositado el oro nanoparticulado, se caracterizaron mediante diferentes técnicas para determinar las condiciones óptimas de deposición de oro, en cuanto a distribución y tamaño de partícula, y repetitividad de su preparación. De esta forma, se obtuvieron tres grupos de sorbentes diferentes: i) Sorbentes con una elevada cantidad de oro depositada, (denominados de alta concentración), ii) Sorbentes con una cantidad intermedia de oro depositado con un tamaño de partícula inferior al caso anterior (denominados de media concentración), y iii) Sorbentes con baja cantidad de oro depositada, que mostraron una homogénea distribución de las partículas de oro con un pequeño tamaño de las mismas. Se evaluó la capacidad de retención de mercurio de estos sorbentes a 120 ºC y una velocidad espacial de 250000 h-1, con una concentración inicial de mercurio de 200 μg/m3. Los experimentos de retención se llevaron a cabo por duplicado para los tres tipos de sorbentes estudiados, obteniéndose para el caso más favorable una retención de 50 μg Hg/g de sorbente (50mg Hg/g Au). Paralelamente, se realizó un estudio de regenerabilidad con el objetivo de obtener la temperatura óptima para realizar la regeneración de los sorbentes agotados por la retención de mercurio, obteniéndose un valor de 220 ºC, muy inferior que con otros tipos de sorbentes utilizados. Los sorbentes se sometieron a varios ciclos de retención-regeneración, evaluando después de cada ciclo la capacidad de retención de mercurio. Se observó una elevada repetitividad en los ciclos para todos los grupos de sorbentes evaluados, indicando que la capacidad de retención del sorbente no se ve afectada de forma significativa después de varios ciclos de retención-regeneración.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6054</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Ingeniería Química</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6054/files/TAZ-PFC-2011-319.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>sorbentes regenerables</dc:subject>
+    <dc:subject>mercurio gas</dc:subject>
+    <dc:subject>retención</dc:subject>
+    <dc:subject>monolitos de carbono</dc:subject>
+    <dc:subject>oro nanoparticulado</dc:subject>
+    <dc:subject>Ingeniero Químico</dc:subject>
+    <dc:title>Sorbentes regenerables para la retención de mercurio en fase gas</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Miguel Artiaga, Antonio</dc:contributor>
+    <dc:creator>Vallés Martín, Juan</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El proyecto plantea el estudio de la viabilidad de un reconocedor automático del habla (RAH) con funciones en paralelo mediante el desarrollo de un prototipo. Los objetivos principales son la paralelización de la búsqueda de la secuencia de estados (sonidos) más probable y el cálculo de las verosimilitudes de los datos de entrada (observaciones), explorando las posibilidades que este paralelismo ofrece y viendo el rendimiento que con él puede llegarse a obtener. El desarrollo se lleva a cabo en el lenguaje de programación C, mientras que las funciones paralelizadas se implementan en GPUs utilizando CUDA, un modelo de programación adaptado a esta arquitectura, y su extensión para C.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/13402</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/13402/files/TAZ-PFC-2014-051.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>gpu</dc:subject>
+    <dc:subject>reconocimiento automático del habla (rah)</dc:subject>
+    <dc:subject>cuda</dc:subject>
+    <dc:subject>algoritmo de viterbi</dc:subject>
+    <dc:subject>heterogeneous parallel programming</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicación</dc:subject>
+    <dc:title>Paralelización del algoritmo de búsqueda de un reconocedor automático de voz</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mur Amada, Joaquín</dc:contributor>
+    <dc:creator>Fraile Ferreiro, Antonio</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>A través de este proyecto se han dimensionado los grupos electrógenos necesarios para dar suministro a un campamento de 5000 personas en Argelia, dentro de los elementos disponibles en el Ejército de Tierra. Las características de los grupos elegidos se han comparado con otros modelos civiles similares. Se han analizado algunas mejoras de los grupos para su adaptación a entornos desérticos, así como los medios eléctricos y electrónicos necesarios para el establecimiento de un campamento de refugiados de un modo lo más eficiente posible y con una menor dependencia de combustibles fósiles. Se han estudiado los sistemas de alimentación ininterrumpida para dar suministro a las cargas críticas. Se han planificado las tareas necesarias para la puesta en marcha del sistema y se han estimado los costes del combustible diario. Además de realizar un análisis DAFO, se han identificado riesgos y se han propuesto medidas correctoras. La metodología utilizada para la realización del proyecto es la metodología establecida por PMI (Proyect Managment Institute) conocida como PMBOK (Proyect Managment Body of Knowledge). La selección de los grupos electrógenos, el análisis DAFO y la matriz de riesgos se ha realizado gracias a la información y al simulador de campamentos facilitado por el tutor militar. La estimación de la demanda eléctrica del campamento se ha realizado en conformidad con el Reglamento Electrotécnico de Baja Tensión y con la experiencia aportada por el tutor militar y los profesores del CUD (Dra. Beatriz Rodriguez Soria y Dr. Jorge Pastor Pérez) que han sido cooperantes en proyectos de aldeas de Angola y en campamentos de refugiados saharauis. Se ha utilizado software para el estudio de microredes eléctricas con energías renovables (iHOGA y HOMER1) y para el diseño de instalaciones eléctricas (ECODIAL), aunque los resultados obtenidos no se han incluido en la memoria porque sobrepasaban el alcance del TFG.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/30704</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/30704/files/TAZ-TFG-2014-2227.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>generador</dc:subject>
+    <dc:subject>grupo electrógeno</dc:subject>
+    <dc:subject>campamentos de refugiados saharauis</dc:subject>
+    <dc:subject>Graduado en Ingeniería de Organización Industrial</dc:subject>
+    <dc:title>Generadores eléctricos en operaciones militares</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

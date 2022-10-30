@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Abadías Ullod, Luciano</dc:contributor>
+    <dc:contributor>Miana Sanz, Pedro José</dc:contributor>
+    <dc:creator>Condado Peñaranda, Juan</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>A finales del siglo XIX, Weierstrass demostró que el conjunto de los polinomios definidos en un intervalo compacto es denso en el conjunto de las funciones continuas con ese mismo dominio. Es natural preguntarse qué sucederá si, en lugar de polinomios al uso, con exponentes naturales, se consideran “polinomios” con exponentes en un conjunto infinito numerable cualquiera de números positivos. En este trabajo se caracteriza cuándo el conjunto de tales “polinomios” definidos en [0, 1] es denso en el de las funciones continuas con ese mismo dominio en términos de la divergencia de determinadas series asociadas a los exponentes (teorema de Müntz-Szász), suponiendo primero que el conjunto de los exponentes forma una sucesión estrictamente creciente y suprimiendo esa hipótesis después. También se dan resultados análogos sobre densidad de “polinomios” definidos en [0, 1] en los correspondientes espacios Lᵖ.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87501</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Matemáticas; Área de Análisis Matemático</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87501/files/TAZ-TFG-2019-2153.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Matemáticas</dc:subject>
+    <dc:title>El teorema de Müntz-Szász y algunas de sus extensiones en Análisis Matemático</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">The Müntz-Szász Theorem and some of its Extensions in Mathematical Analysis</dc:title>
+</oai_dc:dc>

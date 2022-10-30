@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Thurley, Matthew Jhon</dc:contributor>
+    <dc:contributor>Montesano del Campo, Luis</dc:contributor>
+    <dc:creator>Indurain Gaspar, Fernando</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Con el objetivo de calcular el volumen de rocas portado por una excavadora usaremos una imagen 3D de la misma. El método desarrollado se puede dividir en los siguientes subobjetivos: 1. Identificaremos el vehículo, descartando imágenes de vehículos irrelevantes. Para ello compararemos dos métodos, uno basado en operadores morfológicos y otro basado en transformadas de fourier. 2. Delimitar la pala del vehículo. Para ello compararemos dos métodos, uno basado en operadores morfológicos y otro basado en transformadas de fourier. 3. Identificar las esquinas de la pala. Para ello compararemos dos métodos, uno basado en el algoritmo de Hough y otro basado en el algoritmo de Harris. 4. Mediante las esquinas obtenidas y una transformada geométrica en 2D haremos coincidir una imagen de la pala vacía con la imagen de la pala llena. 5. Mediante la diferencia de ambas imágenes obtendremos las rocas y el cálculo de su volumen será resultado de multiplicar el área correspondiente a cada pixel con su altura. Todo este análisis deberá ser realizado en menos de 2 minutos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6390</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6390/files/TAZ-PFC-2011-550_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6390/files/TAZ-PFC-2011-550.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>imagen 3d</dc:subject>
+    <dc:subject>operador morfológico</dc:subject>
+    <dc:subject>harris</dc:subject>
+    <dc:subject>hough</dc:subject>
+    <dc:subject>transformación geométrica</dc:subject>
+    <dc:subject>minería</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Tratamiento de imágenes 3D para el cálculo de volúmenes</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

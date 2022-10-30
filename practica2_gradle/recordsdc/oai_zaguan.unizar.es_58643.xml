@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Cea Mingueza, Pilar</dc:contributor>
+    <dc:creator>Garcia Serrano, Aitor</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>The development of electronic devices smaller in size, with higher efficiency and low cost has become one a main objective in the micro and nanoelectronics industry in the last years. Due to the scarceness of raw materials used in electronic devices as well as their high cost the search for all-organic electronic devices is a priority. Good examples in the organic electronics industry include organic light emitting diodes and plastic photovoltaic cells. In this final master project, we extend this idea to the field of molecular electronics. Thus, an in situ synthesis of diazonium salts from their corresponding amines has been carried out. Thereafter, we have prepared films of controlled thickness by means of an electrografting process onto highly oriented pyrolytic graphite (HOPG) electrodes. The terminal trimethylsilane (TMS) group in the organic material used has shown its significance as protector group, preventing multilayer formation. In addition, electrochemistry, atomic force microscopy (AFM), X-ray photoelectron spectroscopy (XPS) and RAMAN characterization has provided information about the thickness of the film, the blocking degree of the substrate (thanks to the different information that can be obtained from the electrochemical response of potassium hexacyanoferrate (III) and dopamine redox probes), the resulting morphology (staring at the roughness or the thickness of the film) and the final chemical composition of the layer. Finally, a carbon top-contact electrode has been deposited onto the organic monolayer and the electrical circuit closed. The electric properties of these nascent carbon electrode/monolayer/carbon electrode devices were measured.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/58643</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Física; Área de Química Física</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/58643/files/TAZ-TFM-2016-831.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/58643/files/TAZ-TFM-2016-831_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Materiales Nanoestructurados para Aplicaciones Nanotecnológicas (Nanostructured Materials for Nanotechnology Applications)</dc:subject>
+    <dc:title>Hacia los dispositivos electrónicos moleculares carbonosos</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Towards all-carbon molecular electronic devices</dc:title>
+</oai_dc:dc>

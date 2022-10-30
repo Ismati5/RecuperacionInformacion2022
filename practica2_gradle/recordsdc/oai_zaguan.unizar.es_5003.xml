@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Blanco Martínez, Roberto</dc:contributor>
+    <dc:contributor>Mayordomo Cámara, Elvira</dc:contributor>
+    <dc:creator>Álvarez Jarreta, Jorge</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>Este proyecto fin de carrera tiene como objetivo principal el desarrollo de un sistema de inferencia filogenética a partir de secuencias de ADN, utilizando métodos de selección de modelos evolutivos y de construcción de superárboles. La filogenética es la ciencia que trata de establecer la relación evolutiva real entre individuos o especies. Los modelos evolutivos son modelos matemáticos que intentan explicar de la forma más fiel posible la evolución real de los datos a tratar, generando para ello árboles filogenéticos, en los cuales se refleja dicha relación. Los métodos de construcción de superárboles crean estas estructuras a partir de varios árboles filogenéticos cuyas hojas poseen cierto nivel de solapamiento. En la actualidad existen importantes barreras de coste computacional que limitan de forma práctica tanto la realización de filogenias extensivas (muchos de los métodos habituales sólo han sido realmente probados con cientos de secuencias) como la consideración de modelos evolutivos más generales, interesantes y explicativos que el modelo uniforme (estos modelos sólo se han utilizado hasta ahora en tamaños de problema muy reducidos). Las novedades que aporta el proyecto tienen dos vertientes principales: por un lado el desarrollo e implementación de nuevos algoritmos para la construcción de superárboles, y por el otro el desarrollo de un sistema de inferencia filogenética que concentra varios métodos sobre análisis de secuencias y estudio de filogenias que no se habían unido hasta el momento. Especial mención requiere la utilización de flujos de trabajo para la construcción de este sistema, pues nunca habían sido aplicados en este tipo de herramientas. El trabajo desarrollado ha exigido una intensa fase de formación debido a la novedad de los temas biológicos a tratar. De forma entrelazada a esta formación se ha estudiado, diseñado e implementado el sistema mencionado, incorporando como fase final aquellos métodos de superárboles que mejores prestaciones ofrecían. Debido a la utilización de los flujos de trabajo y a la elevada carga computacional que genera el sistema, la selección del marco tecnológico en el que se ha desarrollado ha requerido especial atención. Los resultados tanto del sistema diseñado como de los métodos de superárboles estudiados han sido excelentes en las pruebas realizadas (incluso las realizadas con datos mucho mayores que los que hasta ahora manejaban otro tipo de aplicaciones bioinformáticas), lo que se ha considerado como un rotundo éxito.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5003</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5003/files/TAZ-PFC-2010-170_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5003/files/TAZ-PFC-2010-170.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>filogenética</dc:subject>
+    <dc:subject>árbol filogenético</dc:subject>
+    <dc:subject>superárboles</dc:subject>
+    <dc:subject>modelos evolutivos</dc:subject>
+    <dc:subject>flujos de trabajo</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Análisis teórico-práctico de métodos de inferencia filogenética basados en selección de modelos y métodos de superárboles.</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

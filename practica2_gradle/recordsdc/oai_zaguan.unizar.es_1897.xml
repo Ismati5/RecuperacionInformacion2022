@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Rebolledo Sanz, Miguel Ángel</dc:contributor>
+    <dc:contributor>Álvarez Abenia, José Miguel</dc:contributor>
+    <dc:creator>Jarabo Lallana, Sebastián</dc:creator>
+    <dc:date>1994</dc:date>
+    <dc:description>Se desarrolla un modelo teórico para estudiar la amplificación en fibras ópticas de sílice dopada con erbio. Las características principales de este modelo son su simplicidad, su dependencia de parámetros físicos realistas y su acuerdo aceptable con los resultados experimentales. Además, este modelo teórico proporciona soluciones analíticas que mejoran el análisis y el diseño de los amplificadores ópticos de fibra dopada con erbio, permitiendo el desarrollo de métodos de caracterización experimental. También se realiza un estudio experimental a partir de medidas de ganancia y de potencia de fluorescencia en tres fibras dopadas con erbio, las cuales son caracterizadas. Finalmente, se compara teoría y experimento, obteniendo un acuerdo razonable para la amplificación, aunque se detecta un desacuerdo para la potencia de fluorescencia. </dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/1897</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Fisica Aplicada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/1897/files/TUZ_0024_jarabo_01.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>optical amplifier</dc:subject>
+    <dc:subject>Optical amplification</dc:subject>
+    <dc:subject>fibra óptica</dc:subject>
+    <dc:subject>Fibra óptica dopada con erbio</dc:subject>
+    <dc:subject>amplificador óptico</dc:subject>
+    <dc:subject>Amplificación óptica</dc:subject>
+    <dc:subject>Erbium-doped optical fibre</dc:subject>
+    <dc:subject>optical fibre</dc:subject>
+    <dc:title>Estudio teórico y experimental de amplificadores de fibra óptica dopada con erbio</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

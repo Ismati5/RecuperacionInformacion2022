@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Santillán Lázaro, Ángel</dc:contributor>
+    <dc:creator>Martínez Espinosa, Gabriel</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El presente proyecto fin de carrera, trata de exponer de una manera práctica los conocimiento previos adquiridos académicamente. En este, se pretende establecer las características a las que hay que ajustarse una instalación tipo, con lo que señalan los vigentes Reglamentos, con el fin de obtener la autorización pertinente para su instalación y puesta en servicio, como si de un caso real se tratase. Para la realización del mismo, he tomado como referencia un caso real ya proyectado de una Red subterránea en media tensión con centros de conmutación y para cesión a ENDESA, emplazado en ZARAGOZA PLAZA CENTER CAMPUS EMPRESARIAL, S.A.. Este proyecta realizar Red Subterránea de Media Tensión para interconexión de CIRCUITOS 5, 6 Y 12 en nuevos centros de conmutación para el suministro a los Centros de Transformación a ubicar en MANZANA CINS “PLATAFORMA LOGÍSTICA DE ZARAGOZA”, entre las calles Osca, Castillo de Capua y avenida Diagonal Plaza, con el objeto de suministrar energía a los edificios del Centro empresarial además de mejorar la operación y calidad de servicio en su zona de distribución. La mejora añadida con el proyecto, es la interconexión de los centros de conmutación CR1, CR2 y CR3, y su adaptación a la red de M.T. ya realizada previamente. Con esta nueva implementación se consigue que en caso de avería de una de las líneas generales, por mediación de cabina tele- mandadas, podamos mantener el suministro a la zona afectada alimentándola desde otra de las líneas colindantes.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6925</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6925/files/TAZ-PFC-2012-083.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>red media tensión</dc:subject>
+    <dc:subject>centro de seccionamiento y transformación</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electricidad)</dc:subject>
+    <dc:title>Proyecto de red subterránea en media tensión y centros de conmutación y transformación para cesión a ENDESA</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

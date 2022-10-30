@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Usón Gil, Sergio</dc:contributor>
+    <dc:contributor>Uche Marcuello, Javier</dc:contributor>
+    <dc:creator>Acevedo García, Luis Enrique</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El objetivo del proyecto es realizar una simulacion numerica de un proceso de fundicion de aluminio con dos tecnologias distintas (combustion de gas propano e ionizacion de gas nitrogeno, plasma) para realizar una comparacion de los consumos energeticos obtenidos, proporcionar criterios de optimizacion de los procesos y reducir el numero de pruebas fisicas, que al mismo tiempo implica la reduccion de costes de operacion en etapa de pruebas. Se emplea un modelo de transferencia de calor unidimensional con el que se simulan las caracteristicas termicas de un horno de fundicion de aluminio mediante combustion de gas propano y con una antorcha de plasma. El modelo empleado simula la camara de combustion, el comportamiento del plasma, y la conduccion de calor transitoria de las paredes del horno, asi como la carga metalica a fundir. Las ecuaciones se resuelven numericamente mediante guiones realizados en MATLAB. El  modelo matematico distingue entre dos tipos de horno: horno cilindrico de gas y horno cilindrico de plasma. La simulacion termica del horno, tras la fusion del aluminio, tiene como salida el perfil de temperatura que se obtiene en paredes, techo y metal, tambien arroja resultados sobre la energia consumida, los tiempos de operacion del horno, asi como los balances de energia y exergia que permite evaluar las perdidas de calidad de la energia. Con esta simulacion se comprueba que un sistema de fundicion de aluminio mediante la aplicacion de plasma es mas eficiente que un sistema convencional de gas. Un horno convencional consume 52.6% mas que un horno de plasma. Se encontro una diferencia en eficiencia de 10%. La investigacion demuestra que tecnologias como el plasma tienen una gran aplicacion en el campo de la ingenieria y, que con los analisis energetico y exergetico, pueden asegurar la sostenibilidad de dichas tecnologias con respecto al consumo de energia.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6498</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6498/files/TAZ-TFM-2011-075_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6498/files/TAZ-TFM-2011-075.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>horno</dc:subject>
+    <dc:subject>plasma</dc:subject>
+    <dc:subject>energía</dc:subject>
+    <dc:subject>exergía</dc:subject>
+    <dc:subject>Máster Universitario en Energías Renovables y Eficiencia Energética</dc:subject>
+    <dc:title>Modelado de un horno de fundición de aluminio mediante plasma</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Nicolás, José Ignacio</dc:contributor>
+    <dc:creator>Gracia Royo, Fernando</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>En el presente proyecto hemos estudiado la arquitectura de la familia de microcontroladores 80251 de Intel con el fin de poder diseñar un IP en VHDL sintetizable del mismo. Basados en la arquitectura clásica de 8 Bits de su predecesora, la familia de microcontroladores 8051, incrementa  su capacidad de computación con la extensión del tamaño de los datos con los que opera, pudiendo ser estos de  8, 16 y 32 Bits. Dichos microcontroladores trabajan con un conjunto de instrucciones tipo Cisc con instrucciones con distinto número de Bytes. Así mismo, dependiendo de la instrucción se invierten diferentes intervalos de tiempo en desarrollarlas. Cada instrucción está asociada a un número de ciclos de máquina dependiendo de la complejidad de la operación a realizar o los accesos a memoria que se deban realizar. La compatibilidad con programas diseñados para la arquitectura del 51 implica que el microprocesador pueda trabajar en dos modos, fuente y binario. Cada uno tiene una serie de instrucciones específicas y para poder trabajar con ellas en el otro modo se necesita un Opcode de escape, incrementando el tamaño de las instrucciones en un Byte. El estilo que siguen estos microprocesadores a la hora de apilar los datos en las memorias es del tipo big-endian, es decir, la parte de mayor peso de una palabra se coloca en la posición de la memoria más baja.  Nuestro objetivo ha sido el diseño del núcleo del microcontrolador 80251 en VHDL sintetizable para evaluar el número de puertas equivalentes.  También se  ha realizado mejoras de diseño para minimizar el número de ciclos de máquina requeridos por las instrucciones. Para lograrlo se  ha optimizado el acceso a las memorias para datos desalineados implementando una configuración de memorias que permiten acceder a las memorias en un ciclo de reloj. En el desarrollo del diseño se ha tenido en cuenta el consumo de recursos de la FPGA realizando procesos de síntesis periódicos para asegurar un tamaño de hardware adecuado. La utilidad de este proyecto es reemplazar al 8051 de tres ciclos de reloj por ciclo de máquina. El motivo es el incremento velocidad de ejecución de programas al poder operar con datos de 1, 2 o 4 Bytes y aprovechar la reducción en el tamaño de código que permite obtener el conjunto de instrucciones adicionales.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5574</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5574/files/TAZ-PFC-2011-026.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5574/files/TAZ-PFC-2011-026_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>VHDL</dc:subject>
+    <dc:subject>IP</dc:subject>
+    <dc:subject>microcontroladores</dc:subject>
+    <dc:subject>8051</dc:subject>
+    <dc:subject>80251</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Diseño de microcontrolador compatible con 80251</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

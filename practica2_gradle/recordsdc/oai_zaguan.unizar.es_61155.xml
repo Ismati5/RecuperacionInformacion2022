@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Usón Sardaña, Antonio</dc:contributor>
+    <dc:creator>Sedano Sánchez, Pablo</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>Este trabajo se dedica al cálculo mediante el método  de los  elementos finitos (MEF) de  los campos electromagnéticos generados por líneas eléctricas  aéreas de alta tensión, para posteriormente contrastarlos con los publicados en los artículos ciéntificos y compararlos con aquellos valores recomendados por las autoridades sanitarias como límites admisibles para seres vivos. Para determinar los valores de campo eléctrico E (V/m)  y campo magnético B (T) se emplea el programa FEMM, que permite el cálculo de estas magnitudes en dos dimensiones. Se incluye un modelo  de una línea de alta tensión de 400 kV cercana a la población de Andorra (Teruel), que puede ser empleado en actividades docentes de la asignatura “Líneas Eléctricas” del grado de Ingeniería Eléctrica.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61155</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61155/files/TAZ-TFG-2016-3596.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Eléctrica</dc:subject>
+    <dc:title>Desarrollos de modelos en elementos finitos (MEF) para el estudio de los efectos de campos electromagnéticos (CEMs) en la salud</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Development of finite element models (FEM) to study the effects of electromagnetic fields (EMFs) on health</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ayuda Bosque, María Isabel</dc:contributor>
+    <dc:creator>Aspas Molla, Alexander</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>ArcelorMittal es una de las acereras más importantes del mundo, cotiza en distintos índices bursátiles, entre ellos en el IBEX35. En este trabajo se proporciona información sobre la misma y se analiza el comportamiento de la cotización de sus acciones en la última década. Se ha buscado también información que nos indique las variables que han podido influir en la cotización de las acciones con objeto de plantear un modelo econométrico que nos permita predecir el precio o la rentabilidad de las mismas. Para ello se ha aplicado la econometría estudiada en el grado y se concluye que este tipo de modelos no son válidos para este tipo de datos. Aun así al final se analiza el comportamiento predictivo de los modelos para ver si es posible obtener algún tipo de rentabilidad invirtiendo en acciones de esta empresa.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/77722</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Análisis Económico; Área de Fundamentos del Análisis Económico</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/77722/files/TAZ-TFG-2018-2501.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/77722/files/TAZ-TFG-2018-2501_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Economía</dc:subject>
+    <dc:title>Predicción de la rentabilidad de una acción de ArcelorMittal a través de un modelo econométrico.</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Prediction of the profitability of an ArcelorMittal share through an econometric model.</dc:title>
+</oai_dc:dc>

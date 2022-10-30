@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Celma Pueyo, Santiago</dc:contributor>
+    <dc:contributor>García Bosque, Miguel</dc:contributor>
+    <dc:creator>Martín Pinardel, Rubén</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Este trabajo fin de grado ha tenido como objetivo la introducción teórica a las funciones físicas no clonables (PUF), mediante el conocimiento de sus propiedades y aplicaciones. Además, se ha desarrollado a lo largo del mismo un tipo de estructura concreta de PUF, conformada por osciladores de anillo (RO-PUF). Para ello, se ha realizado un primer estudio bibliográfico de las PUF, así como de la estructura concreta que íbamos a implementar, considerando ventajas y desventajas. A continuación, se ha introducido el flujo de diseño en la aplicación Vivado, la sintaxis propia del lenguaje de programación hardware Verilog y la arquitectura de la matriz de puertas programables (FPGA). Posteriormente, se han diseñado e implementado varias RO-PUF en FPGA, teniendo en cuenta las peculiaridades y posibles efectos que conlleva dicha implementación. Finalmente, se han realizado medidas experimentales de la PUF implementada en FPGA y recogido a través de una placa de desarrollo de microcontrolador. Por último, se ha realizado un análisis exhaustivo de las mismas mediante programas de procesado en lenguaje C, con el objetivo final de extraer los parámetros característicos propios de la PUF implementada, así como su adecuación a los parámetros característicos ideales.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87491</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87491/files/TAZ-TFG-2019-2305.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Física</dc:subject>
+    <dc:title>Diseño CMOS de funciones físicas no clonables</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">CMOS design of physically unclonable functions</dc:title>
+</oai_dc:dc>

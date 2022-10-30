@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Fuentelsaz Gallego, Jesús</dc:contributor>
+    <dc:creator>López Domingo, Pablo</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>En el presente trabajo fin de grado se diseña y se calcula una caja reductora para el abatimiento eléctrico de los retrovisores de un vehículo a partir de unas especificaciones impuestas inicialmente, como son la relación de transmisión, dimensiones máximas y punto de trabajo del motor de dicha caja reductora. Para ello, en primer lugar, seleccionamos el material plástico adecuado para la fabricación de las ruedas dentadas y carcasa del conjunto reductor. Para ello, estudiamos los principales materiales plásticos utilizados en mecanismos similares al del diseño, quedándonos con el material que mejores características nos proporciona. Una vez seleccionado el material, realizamos el diseño cinemático del conjunto reductor. Por lo tanto, estudiamos diferentes configuraciones de engranajes, con el fin de obtener una relación de transmisión y dimensiones que cumplan los requisitos expuestos en las especificaciones de diseño. Una vez obtenido el diseño de las diferentes etapas de engranaje, se realiza el análisis cinemático. Éste se realiza a través del teorema de Willis. Posteriormente, con el análisis cinemático desarrollado, procedemos al análisis dinámico de viabilidad resistente de cada una de las etapas de reducción que componen el conjunto. Este se realiza a través de diferentes métodos Lewis, AGMA y contacto por un punto único, según corresponda para cada una de las etapas. Comprobada la viabilidad cinemática y dinámica del conjunto reductor, realizamos el diseño mecánico en 3D de éste, mediante el programa PTCreo Parametric 3.0. Con el diseño 3D, realizamos la simulación del proceso de inyección de los elementos plásticos que constituyen el conjunto reductor. De tal manera, que sacaremos las entradas de inyección óptimas para cada una de los elementos. Por último, optimizamos dichos procesos de inyección y realizamos un presupuesto de coste unitario de cada una de las piezas inyectadas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/48257</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería Mecánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/48257/files/TAZ-TFG-2015-3336.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/48257/files/TAZ-TFG-2015-3336_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Cálculo y diseño de una caja reductora para el abatimiento eléctrico de los retrovisores de un vehículo</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

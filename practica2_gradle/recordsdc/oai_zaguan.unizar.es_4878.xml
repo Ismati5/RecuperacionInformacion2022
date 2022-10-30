@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Monzón Bescós, Antonio</dc:contributor>
+    <dc:contributor>Latorre Sierra, Nieves</dc:contributor>
+    <dc:creator>Cazaña Pérez, Fernando</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>La presente memoria de “Trabajo Fin de Máster” se enmarca dentro del ámbito de la nanotecnología, más concretamente dentro del campo de la síntesis de los nanotubos de carbono (NTCs). Los nanotubos de carbono poseen unas características físico-químicas únicas, por lo que están siendo intensivamente estudiados en las últimas dos décadas. A pesar de esta intensiva investigación, aspectos claves del mecanismo y cinética de formación y crecimiento de los NTCs no están todavía totalmente dilucidados. Por ello, en este trabajo fin de máster se ha abordado el desarrollo y aplicación de un modelo cinético basado en las etapas principales de formación y crecimiento de los nanotubos de carbono. En el modelo cinético propuesto se contemplan las siguientes etapas: i) descomposición del hidrocarburo, ii) formación del carburo superficial, iii) nucleación y precipitación, iv) crecimiento de los nanotubos de carbono, v) desactivación del catalizador, y vi) influencia del impedimento estérico en el crecimiento de los nanotubos de carbono. Desde el punto de vista matemático, el modelo propuesto se describe en términos de un sistema de ecuaciones diferenciales ordinarias. La resolución del sistema de ecuaciones diferenciales se lleva a cabo numéricamente mediante el método de resolución de diferencias finitas explícitas. El modelo cinético desarrollado puede implementarse posteriormente en modelos para el diseño y simulación de diferentes tipos de reactores químicos en los que se lleve a cabo la producción masiva de NTCs. Por otra parte, en este trabajo fin de máster se ha aplicado el modelo propuesto a tres estudios diferentes de crecimiento de nanotubos de carbono. En todos los casos se ha realizado un ajuste de datos cinéticos experimentales, obtenidos mediante técnicas “in situ”, para obtener las constantes cinéticas. Esto permite además, ver la evolución de las constantes cinéticas con las condiciones de operación, fundamentalmente temperatura y composición de la fase gas. El ajuste de losn datos cinéticos se ha realizado el método de regresión no lineal multivariable y multirespuesta. En definitiva, en este trabajo fin de máster se ha planteado, desarrollado y aplicado un modelo cinético de carácter mecanicista que describe la dependencia con las condiciones de operación de la velocidad de formación y crecimiento de los NTCs.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4878</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Ingeniería Química</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4878/files/TAZ-TFM-2010-005_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/4878/files/TAZ-TFM-2010-005.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>cinética de crecimiento</dc:subject>
+    <dc:subject>nanotubos de carbono</dc:subject>
+    <dc:subject>descomposicion catalítica</dc:subject>
+    <dc:subject>catalizadores de Ni</dc:subject>
+    <dc:subject>catalizadores de Co-Mo</dc:subject>
+    <dc:subject>metano</dc:subject>
+    <dc:subject>etanol</dc:subject>
+    <dc:subject>VA-SWNT</dc:subject>
+    <dc:subject>modelado cinético</dc:subject>
+    <dc:subject>absorbancia óptica</dc:subject>
+    <dc:subject>Máster Universitario en Iniciación a la Investigación en Ingeniería Química y del Medio Ambiente</dc:subject>
+    <dc:title>Cinética de crecimiento de nanotubos de carbono por descomposición catalítica : aplicación al crecimiento de nanotubos de carbono alineados verticalmente</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

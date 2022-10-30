@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Condón Usón, Santiago</dc:contributor>
+    <dc:creator>Bervis S. , Noemi</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Se ha demostrado que el zumo de manzana puede ser vehículo de transmisión de diversas toxiinfecciones alimentarias, lo que hace recomendable su higienización antes de la distribución comercial. En la actualidad los tratamientos suelen calcularse a partir de datos de termorresistencia obtenidos en laboratorio en condiciones isotérmicas, mientras que el procesado industrial normalmente se basa en la aplicación de calentamientos anisotérmicos. Esta extrapolación puede ser causa de importantes errores porque existen pruebas fehacientes de que durante los tratamientos anisotérmicos pueden producirse fenómenos de adaptación y/o sensibilización de las células al calor. El objetivo de esta investigación fue determinar si los datos obtenidos en condiciones isotérmicas permitían predecir los ritmos de inactivación en condiciones anisotérmicas y, en caso de no permitirlo, cuantificar las diferencias y explorar las causas. Para el estudio decidimos utilizar la cepa K12 de la colección KEIO (BW25113) para facilitar futuros estudios de los mecanismos de muerte, daño y adaptación al calor. Los resultados nos han permitido concluir que  los parámetros de resistencia deducidos de tratamientos isotérmicos no son adecuados para predecir con fiabilidad el ritmo de inactivación en condiciones anisotérmicas. Los errores de predicción aumentaban con el ritmo de calentamiento: cuanto mayor era el ritmo menor era el valor DT   y mayor el valor z aparente. La falta de coincidencia entre predichos y experimentales se debía a una sensibilización al calor de las células al ser calentadas en zumo de manzana. Esta sensibilización era tanto mayor cuanto mayor era el tiempo de exposición, y más rápida y mayor cuanto más alta era la temperatura.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/11475</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Producción Animal y Ciencia de los Alimentos; Área de Tecnología de Alimentos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/11475/files/TAZ-TFM-2013-495.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Iniciación a la Investigación en Ciencia y Tecnología de los Alimentos</dc:subject>
+    <dc:title>Termo-inactivación de E. coli, en zumo de manzana, en condiciones anisotérmicas</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

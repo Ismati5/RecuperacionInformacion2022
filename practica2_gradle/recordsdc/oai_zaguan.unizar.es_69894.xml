@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mercado Barraqueta, Daniel</dc:contributor>
+    <dc:creator>Hernández Murillo, Enrique</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>En este proyecto se ha realizado una aplicación móvil, que permite el guiado de un vehículo de ruedas, en los modos manual y automático, así como la disposición electrónica adecuada para el control del mismo. Para la implementación de la aplicación móvil se ha elegido, como sistema más apropiado para la transmisión de la información entre el dispositivo móvil y el vehículo, la comunicación inalámbrica por radiofrecuencia basada en la tecnología para redes personales Bluetooth. El sistema operativo adoptado, para la programación en el móvil, ha sido ANDROID por ser universalmente conocido y tener una implantación extensa en modelos y marcas. En cuanto a la monitorización, al objeto de detectar y evitar obstáculos, se ha llevado a cabo utilizando sensores de ultrasonidos y para el control del vehículo y guiado, se ha empleado el microcontrolador Arduino UNO, por sus características de comunicación serie. Cabe destacar, que el coche venía provisto del sistema mecánico, los motores, además del puente H y la batería. Finalmente, las pruebas realizadas en el laboratorio, han dado como resultado un correcto funcionamiento del sistema.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/69894</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería Mecánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/69894/files/TAZ-TFG-2017-4511.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Desarrollo de un prototipo de vehículo con asistencia a la conducción</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Development of a type of vehicle guided in driving</dc:title>
+</oai_dc:dc>

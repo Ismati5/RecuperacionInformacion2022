@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Suárez Gracia, Darío</dc:contributor>
+    <dc:contributor>Gran Tejero, Rubén</dc:contributor>
+    <dc:creator>Canales Mayo, Marcos</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>Existe una tendencia en los últimos años hacia usar los sistemas heterogéneos para implementar aplicaciones con requerimientos muy estrictos de rendimiento o consumo de energía, que los sistemas homogéneos no son capaces de satisfacer. En este proyecto se presenta un estudio sobre KinectFusion, una carga de trabajo significativa de visión por computador, ejecutado en un sistema 3-heterogéneo, compuesto por CPU, GPU y FPGA. Mediante el uso del benchmark SLAMBench se evalúa el impacto que tienen diversos tipos de optimizaciones sobre la implementación original de KinectFusion y enfocadas a la FPGA, pues es el dispositivo que en teoría ofrece mejor relación rendimiento/consumo energético. En general, los resultados demuestran que el principal cuello de botella en la FPGA es la transferencia de los buffers de entrada y salida debido a las limitaciones del hardware. Sin embargo, aunque la GPU alcanza 3,5 veces más ancho de banda, la FPGA es un dispositivo capaz de dar un rendimiento competitivo y podría usarse como acelerador en un sistema más equilibrado. Esto es gracias a las diversas técnicas de optimización que se pueden aplicar y con las que se han conseguido, para el caso estudiado, un speedup de 16,54 con respecto a la implementación original. Las optimizaciones que mayor impacto han tenido están relacionadas con el alineamiento y patrón de acceso a memoria. Por el contrario, la técnica más importante que no ha dado resultados es el uso de representación en coma fija, ya que los requerimientos de precisión y el overhead producido por las conversiones hunden el rendimiento de la aplicación. Este trabajo sienta las bases para una futura investigación más detallada sobre el papel que podría jugar una FPGA en entornos heterogéneos y, en concreto, sobre su posible rol en un algoritmo complejo como KFusion.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76205</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Arquitectura y Tecnología de Computadores</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76205/files/TAZ-TFM-2018-960.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Informática</dc:subject>
+    <dc:title>Evaluación de SLAMBench en un sistema completamente heterogéneo: CPU, GPU y FPGA</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Evaluation of SLAMBench on a truly heterogeneous system: CPU, GPU and FPGA</dc:title>
+</oai_dc:dc>

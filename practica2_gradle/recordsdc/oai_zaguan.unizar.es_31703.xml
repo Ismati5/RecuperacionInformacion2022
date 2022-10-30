@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Miana Sanz, Pedro José</dc:contributor>
+    <dc:contributor>Galé Gimeno, José Esteban</dc:contributor>
+    <dc:creator>Mengual Bretón, Francisco José</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>El objetivo de este trabajo es de carácter introductorio en el campo de las álgebras de Banach, y tiene como finalidad la aproximación a una serie de transformadas integrales muy conocidas desde el contexto de estos espacios. En el primer capítulo se desarrolla la teoría de representación de Gelfand (cuyo propósito es construir la transformada de Gelfand), la cual hemos ampliado al incorporar al caso original de la teoría (las álgebras de Banach complejas conmutativas) el caso de las álgebras de Banach reales y el caso no conmutativo. El segundo capítulo se centra en la obtención de la transformada de Gelfand sobre un espacio de Banach que equipamos con un producto de convolución (con el que es álgebra de Banach); con éste producto hemos conseguido unificar varios productos de convolución muy conocidos (hablamos de la convolución de Volterra, Fourier, Laplace, Zeta y Dirichlet). Gracias a este punto de vista global que nos otorga el producto generalizado, hemos podido entender mejor algunas relaciones que se apreciaban entre las transformadas de Gelfand (cuya expresión es integral) que dan los productos individuales en grupos y semigrupos, obteniéndose también algunos resultados conocidos por una vía novedosa. También estudiaremos otros productos de convolución con los que veremos otra forma de obtener las transformadas correspondientes; entre éstas se encuentra la transformada coseno. Para las últimas páginas hemos escogido algunas aplicaciones de estas transformadas integrales en la resolución de ecuaciones diferenciales y en diferencias. Con ello se pretende mostrar como las propiedades algebraicas de estas transformadas sobre espacios funcionales, pueden utilizarse para transformar un problema difícil en un espacio de partida, en otro sencillo en un espacio de llegada; lo que permite, bajo ciertas condiciones, obtener la solución del problema inicial.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31703</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Matemáticas; Área de Análisis Matemático</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31703/files/TAZ-TFG-2015-1974.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Matemáticas</dc:subject>
+    <dc:title>Álgebras de Banach y transformadas integrales</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

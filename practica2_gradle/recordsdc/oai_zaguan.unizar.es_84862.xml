@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Pérez Bella, José María</dc:contributor>
+    <dc:creator>Simón Polo, Francisco Javier</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>La penetración del agua atmosférica en las fachadas se produce por la combinación simultánea de un aporte de agua (lluvia batiente o wind-driven rain), y la acción de la presión eólica sobre el cerramiento (driving-rain wind pressure). La norma internacional ISO 15927-3 (UNE-EN ISO 15927-3) establece un procedimiento de cálculo de la lluvia batiente, basado en datos horarios de velocidad de viento e intensidad de precipitación. La exhaustividad y antigüedad de los datos requeridos (horarios y recopilados durante al menos 10 años), ha impedido la generalización en el uso de esta norma, por lo que ella misma establece un método alternativo de cálculo, basado en el análisis, cada media jornada, de registros sinópticos codificados del tiempo presente. La convergencia entre ambos métodos ha sido únicamente validada para tres estaciones meteorológicas británicas y 4 orientaciones de fachada diferentes, por lo que se pretende profundizar en el análisis de dicha convergencia. Se pretende caracterizar la exposición a la lluvia batiente mediante este método alternativo, recopilando registros meteorológicos con una antigüedad mínima de 10 años en diversas estaciones españolas situadas en regiones con clima diverso, comparando la validez de sus resultados en relación al cálculo horario.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/84862</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería de la Construcción</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/84862/files/TAZ-TFM-2019-258_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/84862/files/TAZ-TFM-2019-258.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Industrial</dc:subject>
+    <dc:title>Evaluación y comparativa de los métodos de estimación de lluvia batiente sobre fachadas establecidos por la Norma ISO 15927-3</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Assessment and comparison of alternative methods established by ISO Standard 15927-3 for the estimation of wind-driven rain</dc:title>
+</oai_dc:dc>

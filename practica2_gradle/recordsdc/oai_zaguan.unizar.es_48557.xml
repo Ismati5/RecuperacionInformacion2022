@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Lopéz Pascual, Sergio</dc:contributor>
+    <dc:contributor>Gallego Martínez, José Ramón</dc:contributor>
+    <dc:creator>Lorite Solanas, David</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>Este TFG consiste en el análisis de ancho de banda del protocolo Spice en escenarios con ancho de banda limitado. Este análisis ha ido precedido por la creación de herramientas de análisis de ancho de banda, tanto ofrecidas por programas de terceros como nativas al propio protocolo. Con estas herramientas se han analizado los distintos protocolos de presentación de escritorio remoto más usados en la actualidad además de Spice. Con los datos obtenidos de los análisis anteriores se ha comparado el uso de ancho de banda con distintas restricciones y se ha estudiado como se adaptan a ellas. De este análisis además se han  sacado conclusiones e ideas para mejorar el protocolo de Spice. Por último se han usado estas ideas para optimizar el protocolo Spice y se han comparado los resultados obtenidos, tanto objetivamente (uso del ancho de banda) como subjetivos (interactividad y calidad de imagen). Finalmente después de analizar los resultados, se ha obtenido una optimización que supera con creces las espectativas en ambos casos (subjetiva  y objetiva con una media del 34.69% de mejora).</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/48557</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingeniería Telemática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/48557/files/TAZ-TFG-2015-3696.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/48557/files/TAZ-TFG-2015-3696_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías y Servicios de Telecomunicación</dc:subject>
+    <dc:title>Análisis y optimización del protocolo Spice en escenarios de ancho de banda limitad</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ruiz Bueno, Diana</dc:contributor>
+    <dc:contributor>Montano Gella, Luis</dc:contributor>
+    <dc:creator>Lizano Lacasa, José María</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>En este trabajo se han estudiado diferentes indicadores de fatiga muscular, obtenidos a partir de la señal eléctrica producida por los músculos al contraerse (EMG), para su uso en el desarrollo de un algoritmo de detección de fatiga muscular que aprenda, mediante técnicas de aprendizaje no supervisado, a detectar cuando un paciente está fatigado, de forma que se pueda integrar en un modelo de estimación de fuerzas musculares, basado en el modelo de Hill, para permitir que se ajuste correctamente a situaciones de fatiga. También se han estudiado las sinergias musculares, una teoría cada vez más probada y aceptada, que establece que el sistema nervioso dispone de una librería de sub-tareas motoras (las sinergias) que puede combinar de forma flexible para generar cualquier movimiento, estas sinergias se obtienen a partir de la señal EMG mediante técnicas de reducción de dimensión.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/15559</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/15559/files/TAZ-TFG-2014-1236.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>detección de fatiga</dc:subject>
+    <dc:subject>emg</dc:subject>
+    <dc:subject>modelo de hill</dc:subject>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>Evaluación y comparación de técnicas temporales y frecuenciales aplicadas a la detección de fatiga muscular a partir de señales sEMG</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

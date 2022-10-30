@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Teresa Nogueras, José María de</dc:contributor>
+    <dc:creator>Martínez Castro, José</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El almacenamiento de datos ha sufrido una gran evolución en los últimos años, utilizándose hoy en día en el caso de los discos duros dispositivos de almacenamiento de datos mediante dominios magnéticos cuya lectura se efectúa mediante sensores magnetorresistivos de efecto túnel. Esta evolución no habría sido posible sin la ayuda para la caracterización de los distintos dominios magnéticos del microscopio de fuerzas atómicas (AFM) y su variante magnética, el microscopio de fuerzas magnéticas (MFM). Para el uso del MFM se puede recurrir a puntas magnéticas comerciales pero los resultados obtenidos no suelen ser satisfactorios, por ello se recurre a la fabricación personalizada de puntas magnéticas. Para la creación de puntas magnéticas se ha tomado como punto de partida la tesis de Miriam Jaafar (Universidad Autónoma de Madrid, 2009), en la que demuestra que es posible la creación de puntas magnéticas de gran calidad recubriendo puntas de silicio mediante la técnica de Suputtering con un espesor determinado de un material ferromagnético (Cobalto) y unos pocos nanómetros de Aluminio para como capa protectora. En este trabajo se han crecido puntas magnéticas de cobalto/aluminio con un equipo de sputtering disponible en el Instituto de Nanociencia de Aragón (INA) y realizado su caracterización mediante magnetometría VSM, microscopía electrónica de barrido, haz focalizado de iones. Las puntas creadas se utilizaron en un MFM para en primer lugar visualizar en una simple muestra de disco duro los distintos dominios magnéticos y la resolución de la punta empleada para así poder determinar el campo coercitivo. El potencial de estas puntas es muy amplio si se logra obtener buena resolución espacial, por lo que han sido aplicadas para la medida de dominios magnéticos en nanohilos magnéticos. En particular, pensamos utilizarlos para caracterizar nanohilos magnéticos de cobalto crecidos por deposición inducida por haces focalizados de electrones (FEBID) en el equipo Dual Beam existente en el INA. La medida de los dominios magnéticos de nanoconstricciones de cobalto magnéticas así como los dominios magnéticos en bolas de níquel.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8845</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física de la Materia Condensada; Área de Física de la Materia Condensada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8845/files/TAZ-TFM-2012-722.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>mfm</dc:subject>
+    <dc:subject>magnetic force microscopy</dc:subject>
+    <dc:subject>afm. magnetismo</dc:subject>
+    <dc:subject>Máster Universitario en Materiales Nanoestructurados para Aplicaciones Nanotecnológicas (Nanostructured Materials for Nanotechnology Applications)</dc:subject>
+    <dc:title>Preparación y caracterización de puntas magnéticas para estudios de microscopía de fuerza magnética (MFM)</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

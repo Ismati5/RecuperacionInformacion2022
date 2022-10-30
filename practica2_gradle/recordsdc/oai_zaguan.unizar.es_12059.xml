@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Negueruela Suberviola, Angel Ignacio</dc:contributor>
+    <dc:creator>del Arco Ferruz,Lis</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>La evaluación de la calidad de la manzana “Smoothee Golden Delicious” se hace mediante índices de madurez, entre ellos firmeza y Sólidos Solubles Totales, los cuales requieren la destrucción del fruto. Por tanto la industria hortofrutícola no puede tener un control de todos los frutos, y el consumidor demanda sistemas efectivos de control y calidad. Por ello, el objetivo principal de este trabajo es establecer un modelo estadístico que relacione las medidas de firmeza y SST con los diámetros medios de Feret correspondientes a las imágenes de retrodifusión de la luz de algunos láseres en la manzana, obteniendo así un sistema no destructivo de clasificación por su calidad. La firmeza se midió mediante el método estándar Magness-Taylor y los SST con un refractómetro digital. Las imágenes de retrodifusión se analizaron con el Software Matrox 8.0 para obtener los diámetros medios de Feret de cada manzana. En dichas imágenes se comprueba cómo las manzanas dispersan la luz láser de distinta forma dependiendo de la fecha de recogida y la longitud de onda del láser utilizado para obtener la imagen. Se utilizó el método estadístico PLS con el que se obtuvo el modelo. En el modelo de calibración los valores de R2CV fueron de 0,93 y 0,87 para SST y firmeza respectivamente, y en el modelo de validación se obtuvieron valores de r2 0,86 y 0,74 para SST y firmeza respectivamente. De estos resultados se dedujo que se puede obtener una buena predicción de parámetros. Aunque sería necesario trabajar en sucesivas campañas para construir modelos de predicción más completos, porque desconocemos que este modelo sirva para otras campañas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12059</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Aplicada; Área de Física Aplicada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12059/files/TAZ-TFG-2013-762.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ciencia y Tecnología de los Alimentos</dc:subject>
+    <dc:title>Estudio de maduración de manzana mediante la técnica no destructiva de imágenes multiespectrales de retrodifusión de luz láser en distintas longitudes de onda.</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Luzón Marco, Gloria</dc:contributor>
+    <dc:contributor>Dafni, Theopisti</dc:contributor>
+    <dc:creator>Consejo Vaquero, Alejandra</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>En la actualidad, nuestro universo está constituido aproximadamente por un 5% de materia visible, un 23% de materia oscura y un 72% de energía oscura. El 95% del universo no se conoce: de hecho la naturaleza de la materia oscura es bastante incierta, y la energía oscura es un completo misterio. La evidencia de la existencia de materia oscura es abrumadora, principalmente debido a sus efectos gravitatorios. Hoy en día hay muchos experimentos intentando descubrir cual es exactamente su naturaleza. Todos los detectores para su búsqueda directa apuntan a observar retrocesos nucleares producidos por las colisiones elásticas de partículas de materia oscura con núcleos blanco de materia ordinaria. Los retrocesos nucleares que se deben observar están en el rango de energías de 1 a 100 keV. Por lo tanto, es vital la utilización de detectores masivos con bajos umbrales de detección de energía y gran capacidad de discriminación de fondos. En este marco, los detectores de gases nobles son dispositivos prometedores para búsquedas de materia oscura. Este trabajo está dirigido a entender las señales debidas a las diferentes fuentes de sucesos de fondo: muones, neutrones y radiación gamma en un detector esférico gaseoso de argón de 1 m de diámetro, así como la señal esperada para neutrones de diferentes energías. Para ello se utilizarán herramientas de MonteCarlo basadas en el programa GEANT4 donde se definirá la geometría del detector, se implementarán las diferentes fuentes de fondo, se simularán las interacciones con núcleos de gas y se recogerán los datos de posición y energía depositada por estos núcleos en retroceso. Finalmente se analizarán los resultados utilizando el código basado en el programa ROOT para determinar el nivel de fondo irreducible de nuestro experimento.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8264</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Teórica; Área de Física Atómica, Molecular y Nuclear</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8264/files/TAZ-TFM-2012-347.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>materia oscura</dc:subject>
+    <dc:subject>detector gaseoso</dc:subject>
+    <dc:subject>wimps</dc:subject>
+    <dc:subject>Máster Universitario en Física y Tecnologías Físicas</dc:subject>
+    <dc:title>Estudio de fondos de un detector gaseoso esférico para la búsqueda de materia oscura</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

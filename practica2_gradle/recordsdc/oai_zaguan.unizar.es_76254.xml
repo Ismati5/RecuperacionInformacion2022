@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Moreno Vega, Yamir</dc:contributor>
+    <dc:creator>Solanas Laguna, Laura</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>This project combines life -i.e., biological- sciences methodologies with physical and computational analyses of protein expression for two differentiated microorganisms with a completely different lifestyles: E.coli, a well-known bacteria, and M.tuberculosis, a deathly human pathogen. In other to do that, we build two folding change multilayer networks of protein expression and analyze them. The multilayer networks have six layers which are equivalent to six stress conditions: acid, cell damage wall, hypoxia, ion deprivation, oxydative stress and starvation. To do the analysis and comparison between the networks corresponding to the two bacteria, we employed several tools. Regarding bioinformatics: GEO, metasoft; softwares as R-studio, ClueGO; statistical measures like strength, overlap and partition coefficient and statistical tests such as the Mann-Whitney and Peacock tests. Our results show that the differences in lifestyles are captured by the network approach and the proposed metrics. This work could open the path to obtain further insights about protein-protein interactions and relevant challenges such as protein function determination.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76254</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Bioquímica y Biología Molecular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76254/files/TAZ-TFM-2018-763.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Biotecnología Cuantitativa</dc:subject>
+    <dc:title>Functional analysis of responses to stress in distant prokaryotes: comparison between Mycobacterium tuberculosis and Escherichia coli</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Functional analysis of responses to stress in distant prokaryotes: comparison between Mycobacterium tuberculosis and Escherichia coli</dc:title>
+</oai_dc:dc>

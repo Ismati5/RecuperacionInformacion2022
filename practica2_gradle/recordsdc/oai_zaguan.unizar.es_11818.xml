@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>González Bedia, Manuel</dc:contributor>
+    <dc:contributor>Serón Arbeloa, Francisco José</dc:contributor>
+    <dc:creator>Gracia Larrodé, David</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El objetivo de este proyecto de fin de carrera es conseguir un marco de ejecución virtual para experimentos de cruce perceptual (paradigma para la realización de experimentos de cognición social, basado en los trabajos realizados en la universidad francesa de Compiègne en 2009 de Auvray, Lenay y Stewart). Se desarrollará una aplicación virtual a la que se accederá desde computadoras situadas en habitaciones separadas. Cada participante modificará la posición de un cursor en la pantalla a lo largo de una línea mediante el movimiento transversal de su ratón, y recibirá un estímulo en el momento en que el cursor se cruce con un objeto durante su movimiento. Los sujetos podrán cruzarse con dos tipos de cosas: el cursor real del otro participante (persona) o con el cursor de un objeto artificial (móvil o fijo). Se les pide a los sujetos que sean capaces de identificar cuándo la interacción establecida es con el humano y cuando no. Para dar solución al objetivo planteado se implementará una aplicación web, que trabajará sobre un servidor que soporte la tecnología WebSockets, que aporta un canal de intercambio de información bidireccional real entre el servidor y el cliente en tiempo real. El experimento se plantea sobre una red local para minimizar la latencia en la comunicación. Para la construcción del "front-end" se utilizará una combinación de HTML5, CSS y JavaScript. Se construirá un framewok que permita realizar experimentos formados, por un lado, por dos contrincantes (persona vs persona o persona vs bot) y, por otro, por múltiples participantes, donde cada persona se enfrentará a otro participante (persona), a un objeto móvil y a un objeto fijo. En el primer tipo de experimento, al terminar cada prueba, el sujeto debe responder si ha interactuado con otra persona o con un objeto artificial. En el segundo tipo, durante la prueba, el sujeto podrá hacer click cuando crea que esta interactuando con un igual. El tipo de objeto móvil, en el segundo caso, podrá ser la sombra del oponente humano con cierto retardo en tiempo o a una distancia marcada. Con esta plataforma se pretenden analizar todos los aspectos presentes en un intercambio comunicativo humano puesto que existen elementos que se refieren a las contingencias de la interacción que nos permiten identificar que una comunicación real se está produciendo. Pretendemos analizar las propiedades que permiten a los interlocutores construir patrones de interacción comunes que les hagan regular mutuamente sus acciones.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/11818</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/11818/files/TAZ-PFC-2013-400.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>inteligencia artificial</dc:subject>
+    <dc:subject>sistemas cognitivos</dc:subject>
+    <dc:subject>modelado mínimo</dc:subject>
+    <dc:subject>interacción inteligente</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Implementación de un sistema de "test multi-jugador de cruce perceptual"</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

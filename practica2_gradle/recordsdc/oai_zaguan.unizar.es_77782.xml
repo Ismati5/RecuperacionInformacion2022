@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Cebrián, Lucía Isabel</dc:contributor>
+    <dc:creator>Naya Bernal, Enrique</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>El objetivo de este trabajo es medir la eficiencia de los clubes de fútbol que participan en la Segunda División durante sus partidos, es decir, en el proceso que pasa por convertir sus jugadas en resultados deportivos. Este estudio está hecho para las temporadas 2015/2016 y 2016/2017. La metodología utilizada es el DEA (Data Envelopment Analysis) utilizando como inputs los disparos realizados, el número total de pases intentados y los jugadores utilizados. En este último respecto se han utilizado dos escenarios distintos: el número total de jugadores y el número de jugadores que han disputado como mínimo cinco partidos para ver las diferencias entre ambos casos. Como output se ha cogido los puntos obtenidos al final de temporada. Además, se han medido la influencia que pueden tener otras variables en la eficiencia de los equipos como la edad, altura y experiencia de los jugadores. Las conclusiones a las que se llegan es que existe una fuerte correlación positiva entre eficiencia y resultados deportivos, aunque muy pocos equipos son considerados eficientes y se recomienda a los equipos que contraten jugadores que no sean muy jóvenes y que tengan experiencia en la categoría.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/77782</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/77782/files/TAZ-TFG-2018-2355.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Administración y Dirección de Empresas</dc:subject>
+    <dc:title>La eficiencia en los clubes de Segunda División. Medición y análisis.</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">The efficiency in the Spanish Second Division clubs. Measurement and analysis.</dc:title>
+</oai_dc:dc>

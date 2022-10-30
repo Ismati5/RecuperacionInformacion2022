@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Olave Rubio, Pilar</dc:contributor>
+    <dc:creator>Aldea González, Daniel</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Este proyecto pretende poner en valor la importancia que supone para las empresas analizar toda la información que obtienen a través de diversas fuentes de datos, especialmente en los departamentos de marketing. Se toman decisiones continuamente, y cuanta más información tengamos para ello, tendremos más probabilidades de que nuestra decisión se aproxime más a la óptima. Las empresas, en la toma de sus decisiones, pueden añadir valor a sus productos y servicios mediante el uso de los datos que disponen convirtiéndolos en información útil gracias a los métodos estadísticos. El objetivo último de este trabajo es analizar una base de datos de una entidad financiera, concretamente estimar un modelo de regresión logística binaria que nos ayude a desarrollar una campaña de comunicación comercial mediante la determinación del público objetivo al que dirigirla,  en concreto para rentabilizar la inversión de la campaña de marketing en la contratación de un depósito a plazo, detallándose tanto la metodología empleada como las conclusiones obtenidas. Previamente al análisis, se introduce cómo el Big Data se encuentra cada día más presente en la sociedad de la información y comunicación en la que vivimos, y cómo cada día son más aquellos agentes económicos que emplean el análisis masivo de datos para obtener información valiosa en la toma de sus decisiones.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/65159</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Estructura e Historia Económicas y Economía Pública</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/65159/files/TAZ-TFG-2017-2098.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/65159/files/TAZ-TFG-2017-2098_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Marketing e Investigación de Mercados</dc:subject>
+    <dc:title>El análisis de datos en los departamentos de marketing de entidades financieras</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">data analysis in the marketing departments</dc:title>
+</oai_dc:dc>

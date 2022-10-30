@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Heras Vila, Carlos</dc:contributor>
+    <dc:creator>Ayora Morante, Ignacio</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>Aunque el Grupo de Tecnologías Fotónicas del Instituto de Investigación en Ingeniería de Aragón ha implementado indistintamente amplificadores Lock-in analógicos y digitales, pocos estudios se han centrado en comparar sus prestaciones en aquellas situaciones en la que el nivel de señal a ruido es muy bajo. Uno de los objetivos de este trabajo busca esclarecer las diferencias entre ambos tipos de amplificadores Lock-in gracias al diseño de un sistema en el que el bloque de detección sea común, permitiendo una comparación adecuada.   En segundo lugar, este trabajo acomete el diseño de un espectrofotómetro en línea capaz de medir en tiempo real la reflexión y la transmisión de un vidrio con capa, con la finalidad de detectar sus posibles inhomogeneidades, y la fabricación y experimentación de uno de sus cinco módulos. Todo ello en colaboración con la empresa Ariño Duglass S.A. y el Grupo de Tecnologías Fotónicas del Instituto de Investigación en Ingeniería de Aragón.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/60495</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/60495/files/TAZ-TFM-2016-655.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería de Telecomunicación</dc:subject>
+    <dc:title>Estudio de alternativas de diseño de medidas ópticas para señales bajas. Desarrollo de módulos de medida de color</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Alternative optic measure design for low amplitude signals. Development of colour measure device</dc:title>
+</oai_dc:dc>

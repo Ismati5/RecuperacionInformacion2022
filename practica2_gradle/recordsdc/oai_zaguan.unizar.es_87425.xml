@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>López Molinero, Ángel</dc:contributor>
+    <dc:creator>Suberviola Sainz, Maria</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Se lleva a cabo la determinación de NH3, putrescina y cadaverina mediante técnicas de colorimetría digital.&lt;br /&gt;En un primer lugar, se realizan estudios que nos permitan obtener las mejores condiciones de análisis: el tipo de cámara empleada, el mejor formato de imagen y la iluminación. &lt;br /&gt;Los primeros experimentos realizados están basados en la reacción de NH3 con reactivo Nessler. Se obtienen condiciones óptimas a mayor concentración de reactivo Nessler y de PVA con detección más sensible bB. A partir de esas condiciones se lleva a cabo la determinación de NH3 mediante DIC obteniendo mejores resultados para wB y bB.&lt;br /&gt;En la determinación de putrescina y cadaverina mediante este procedimiento, los mejores resultados se obtienen con wB. Se tiene que la putrescina tiene mayor rango lineal aunque superior error de calibración que la cadaverina.&lt;br /&gt;Por otra parte se realizan experimentos para la diferenciación de ambas aminas mediante reacción con 2-aminobenzaldehido, obteniéndose mejores resultados con mayor rango lineal y menor error de calibración en condiciones wB.&lt;br /&gt;Los estudios de diferenciación para mezclas que contienen ambas aminas, muestran que el pH del tampón fosfato y la concentración de la DAO influyen en la putrescina de diferente manera que en la cadaverina, lo que permite diferenciar una de otra.&lt;br /&gt;Mediante calibración multivariada se ha podido determinar la concentración de las ABs realizando la medida de los colores BRG. Los mejores resultados se muestran por un lado con iluminante ‘b’ y colores reflejados BRG y por el otro con wB, gB y bB.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87425</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Analítica; Área de Química Analítica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87425/files/TAZ-TFG-2019-2691.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Química</dc:subject>
+    <dc:title>Detección y diferenciación de aminas biógenas con técnicas espectroscópicas y de imagen digital</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Detection and differentiation of biogenic amines by spectroscopic and digital image techniques.</dc:title>
+</oai_dc:dc>

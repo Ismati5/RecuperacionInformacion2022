@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Martín Solans, Santiago</dc:contributor>
+    <dc:creator>Ezquerra Gros, Rubén</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>Los avances de la industria electrónica conseguidos por los procesos actuales de miniaturización están llegando a su cenit debido a la constante miniaturización de los elementos y componentes utilizados y a la necesidad de obtener dispositivos más potentes y eficaces. Por ello, se están investigando alternativas a la industria actual. Entre estas alternativas la electrónica molecular ha surgido como clara candidata a sustituir a la tecnología del Si debido a la posibilidad de obtener grandes propiedades en dimensiones muy reducidas, aunque a día de hoy aun no es una realidad. Dentro de la electrónica molecular, la incorporación de compuestos organometálicos en estructuras tipo sándwich metal-monocapa-metal se ha convertido en objeto de estudio debido a que la presencia de estos metales permiten la accesibilidad a distintos estados redox así como el desplazamiento de los orbitales moleculares hacia el nivel de Fermi de los electrodos mejorando los mecanismos de transferencia de carga.  En este trabajo fin de grado se ha estudiado la incorporación de un compuesto organometálico en estructuras metal-monocapa-metal así como la formación del electrodo metálico superior “in situ” mediante el método TIDOC (un tratamiento térmico) en el cual se rompe un enlace débil Au-P para generar nanopartículas de Au que actuarán a modo de electrodo superior.  El proceso de formación de la monocapa así como la generación de las nanopartículas se ha seguido haciendo uso de diversas técnicas de caracterización tales como QCM,  XPS o AFM. Mientras que la determinación de las propiedades eléctricas de la estructura formada se llevó a cabo mediante un AFM conductor colocando el cantiléver encima de las NPs de Au y registrando curvas I-V.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/32318</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Física; Área de Química Física</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/32318/files/TAZ-TFG-2015-3077.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Química</dc:subject>
+    <dc:title>Introducción de compuestos organometálicos en dispositivos electrónicos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

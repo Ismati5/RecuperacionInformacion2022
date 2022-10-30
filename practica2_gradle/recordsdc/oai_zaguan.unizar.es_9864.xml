@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Martínez Cortés, Juan Pablo</dc:contributor>
+    <dc:creator>Redondo Salvo, Santiago</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El principal objetivo del presente proyecto ha consistido en el desarrollo de una aplicación que permite el estudio pormenorizado de los sistemas DGPS sobre IP. La aplicación proporciona los medios para conectarse a diversos receptores, recibiendo datos de estos equipos, habilitando su configuración y proporcionándole las correcciones diferenciales que habilitan el funcionamiento de los receptores diferenciales. En concreto este proyecto se ha centrado en los modelos de receptores Placer y Lassen de la casa Trimble, implementándose el protocolo TSIP para realizar las labores de configuración y toma de datos. El envío de las correcciones diferenciales al receptor se realizó mediante el protocolo RTCM, obtenendose dichas correcciones de servidores conectados por TCP/IP mediante la implementación de la parte cliente del protocolo NTRIP.  La aplicación desarrollada proporciona un marco en el que desarrollar pruebas con diversos receptores GPS, permitiendo un funcionamiento interactivo con el que realizar una toma de contacto con los diversos escenarios o un uso automatizado que permite la toma de datos en escenarios más complejos. Estas características hacen de ella una competente herramienta auxiliar que se puede utilizar como entrenador de prácticas. Para la comprobación del funcionamiento de la aplicación se desarrollaron una serie de pruebas con las que caracterizar el comportamiento de los sistemas DGPS cuando reciben las correcciones mediante redes de datos inalámbricas. Dichas pruebas han consistido en la caracterización del error cuando se utilizan correcciones diferenciales correspondientes a estaciones situadas a distintas distancias, cuanticando la mejora de prestaciones respecto a la utilización del GPS sin correcciones, y el estudio del comportamiento de dichos sistemas frente a distintos retardos en la llegada de las correcciones.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9864</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9864/files/TAZ-PFC-2012-817.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>radionavegación</dc:subject>
+    <dc:subject>sistema de posicionamiento global (gps)</dc:subject>
+    <dc:subject>gps diferencial (dgps)</dc:subject>
+    <dc:subject>dgps-ip</dc:subject>
+    <dc:subject>protocolo ntrip</dc:subject>
+    <dc:subject>redes de datos móviles</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicación</dc:subject>
+    <dc:title>Aplicación a un receptor GPS de correcciones diferenciales recibidas mediante redes móviles (DGPS-IP)</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Íñiguez Dieste, David</dc:contributor>
+    <dc:contributor>Ilarri Artigas, Sergio</dc:contributor>
+    <dc:creator>Ruiz Manzanares, Gonzalo</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El suministro eléctrico es un elemento esencial en la vertebración y el crecimiento socioeconómico de la sociedad actual. Las exigencias que deben satisfacer las redes eléctricas y las distribuidoras en cuanto a la continuidad y seguridad del suministro son crecientes. SEPS (Sistema Experto de Probabilidad y Severidad en Red) es un proyecto del programa INNPACTO del Ministerio de Economía y Competitividad liderado por la empresa Gas Natural Fenosa, en cuyo consorcio participan otras empresas y organismos de investigación. El objetivo fundamental del proyecto es desarrollar un sistema que a partir de la información de previsión meteorológica, de demanda y de generación, obtenga unos índices de probabilidad de ocurrencia de incidencias y restricciones en la red de distribución de energía; y a partir de información sobre el mercado afectado y eventos relevantes, sea capaz de estimar el impacto social de dichas incidencias; permitiendo mejorar así el servicio del suministro eléctrico. Este trabajo fin de máster se centra en la vertiente social del problema, consistente en el análisis de datos de Internet para identificar la severidad reputacional y la repercusión social de los incidentes sobre la red de distribución de energía. El trabajo se dividió en dos partes. Por un lado, se desarrolló un sistema para la captura de datos de diversas fuentes heterogéneas de Internet (sitios web, redes sociales, agendas online, etc.) sobre eventos de gran repercusión en los que un incidente eléctrico pudiera tener cierto impacto en la imagen de Gas Natural Fenosa. Para ello, se estudiaron y seleccionaron diferentes fuentes que contuvieran datos relevantes para el proyecto, se diseñaron una serie de robots o scrapers para la extracción automática de estos datos, y se definieron distintas variables para los eventos recogidos que facilitaron la integración de esta parte social en el modelo global de previsión de incidentes. Por otro lado, una vez sucedido un incidente, se ha desarrollado un sistema que rastrea continuamente redes sociales, webs de noticias y otras herramientas, para medir el impacto que realmente ha tenido dicho incidente en la imagen de marca de la empresa en base a su gestión. Para ello, además del uso de técnicas de extracción de datos, se realizó un estudio del estado del arte en cuanto a las distintas técnicas de análisis de sentimiento existentes, implementando un sistema para la evaluación de la polaridad de textos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/15425</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/15425/files/TAZ-TFM-2014-419.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>análisis de sentimiento</dc:subject>
+    <dc:subject>scraping</dc:subject>
+    <dc:subject>previsión de riesgos</dc:subject>
+    <dc:subject>red eléctrica</dc:subject>
+    <dc:subject>estimación de severidad</dc:subject>
+    <dc:subject>sentiwordnet</dc:subject>
+    <dc:subject>opinion mining</dc:subject>
+    <dc:subject>polaridad de textos</dc:subject>
+    <dc:subject>Máster Universitario en Ingeniería de Sistemas e Informática</dc:subject>
+    <dc:title>Sistema experto de probabilidad y severidad en red</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

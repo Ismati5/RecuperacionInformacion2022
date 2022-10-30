@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Civera Sancho, Javier</dc:contributor>
+    <dc:contributor>Montesano del Campo, Luis</dc:contributor>
+    <dc:creator>Soriano Marín, César</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>En los últimos años, la reconstrucción 3D a partir de fotografías está siendo cada vez más estudiada, ofreciendo modelos más cercanos a la realidad. Con las nuevas tecnologías, en la actualidad se pueden realizar con facilidad fotografías en cualquier lugar, y además gracias a internet, tener acceso a toda esa información en muy sencillo. Con todos los datos que se tienen a disposición, se pueden obtener modelos 3D de muchísimos lugares del mundo, y a partir de ellos realizar  síntesis de vistas, que consiste en obtener imágenes de lugares desde donde no se tomaron fotografías. Lo que se consigue con la síntesis de vistas, es poder observar esos lugares desde nuevas perspectivas, e incluso poder realizar videos con movimiento fotorrealista alrededor de la escena. Para comenzar a sintetizar vistas, primero es necesario obtener un modelo 3D de la escena, obteniendo la localización en el espacio de las cámaras y de puntos característicos observados en las fotografías. Los algoritmos desarrollados en el proyecto permiten utilizar la información de la reconstrucción en 3D, y ubicar cámaras virtuales en distintas posiciones en las que se puede proyectar la escena, para obtener nuevas imágenes. Durante la memoria, se desarrollan diferentes métodos de síntesis de vistas, realizando una comparativa entre calidad de imagen y tiempo de procesado, obteniendo una solución de compromiso en la que se obtenga un buen resultado gráfico sin un tiempo excesivo en su computación. Para finalizar, los algoritmos se evalúan en distintas escenas de interior y exterior, obteniendo resultados muy similares, por lo que se demuestra que los métodos son robustos. La memoria está acompañada de un DVD en el que se pueden observar distintos videos en varias escenas, además de los algoritmos desarrollados.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4586</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4586/files/TAZ-PFC-2010-020_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/4586/files/TAZ-PFC-2010-020.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Síntesis de vistas</dc:subject>
+    <dc:subject>Reconstrucción 3D densa</dc:subject>
+    <dc:subject>Rendering fotorrealista.</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Síntesis de vistas a partir de imágenes e información 3D</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

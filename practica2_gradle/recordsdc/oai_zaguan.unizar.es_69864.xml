@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bobillo Ortega, Fernando</dc:contributor>
+    <dc:creator>Alegre Martínez, Fernando</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Hoy en día, en el que todo el mundo lleva un smartphone en el bolsillo y está de moda el consumo de diferentes y exóticos tipos de cerveza, florecen las apps que permiten al usuario obtener información acerca de todas y cada una de ellas. Estas apps ofrecen muchas posibilidades, como el poder reconocer una cerveza con solo hacerle una foto a la etiqueta, compartir con otros usuarios las puntuaciones o qué cervezas se han probado recientemente, pero ninguna permite filtrar según los deseos del usuario.  Este trabajo está orientado a esta funcionalidad en concreto, basándose en una ontología que emplea lógica difusa para tratar con las imprecisas preferencias de los usuarios y un razonador semántico para extraer la información necesaria de la ontología. Con dicho objetivo, a lo largo de este trabajo se han intentando utilizar diferentes razonadores portados para ser utilizados en dispositivos móviles, poniendo de manifiesto el punto de inmadurez en el que se encuentra esta tecnología, siendo imposible su uso en este tipo de dispositivos. Como resultado de este trabajo, queda la ontología de cervezas, con una jerarquía de clases bastante trabajada y muy fiel a la realidad y con una gran cantidad de individuos (15.317), además de la app propiamente dicha, que utiliza técnicas de lógica difusa como elemento innovador y que se diferencia de manera importante de las demás apps del mercado.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/69864</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/69864/files/TAZ-TFG-2017-4639.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>Desarrollo de un sistema recomendador de cervezas basado en ontologías y lógica difusa</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Development of and ontology and fuzzy logic based beer recommendation system</dc:title>
+</oai_dc:dc>

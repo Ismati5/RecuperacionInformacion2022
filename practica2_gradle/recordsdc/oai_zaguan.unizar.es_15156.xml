@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Asín Lafuente, Jesús</dc:contributor>
+    <dc:contributor>Fernández Cascán, Jesús</dc:contributor>
+    <dc:contributor>Lacruz, Beatriz</dc:contributor>
+    <dc:creator>Pelegrín Cuartero, Carolina</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Este Trabajo Fin de Grado se desarrolla en el marco del proceso de desmantelamiento del vertedero de residuos organoclorados de Bailín (Huesca) y su transferencia a un depósito seguro, llevado a cabo durante el verano de 2014. El fin último del trabajo ha sido crear una herramienta que permita anticipar posibles eventos dispersivos de la contaminación provocados por el viento, capaces de agravar la problemática ambiental existente en la zona. Para ello, en primer lugar se ha realizado un análisis exploratorio del régimen de vientos en el vertedero de Bailín para el periodo de verano de 2012, así como un estudio que demuestra que el modelo de predicciones de AEMET existente no resulta útil de forma directa. Por ello, se han desarrollado modelos estadísticos de predicción de la velocidad del viento a 24 horas en forma de modelos de regresión (MR) que han permitido el downscaling del modelo de predicciones de AEMET, adaptándolo a las condiciones específicas del área y el periodo de estudio. El proceso de construcción de MR se ha llevado a cabo en el entorno del software estadístico R mediante los siguientes pasos: 1) Estudio de parámetros potencialmente útiles (de predicción AEMET y otros), y construcción de una base de datos con ellos; 2) Desarrollo de una estrategia de construcción y selección de modelos (sin y con interacciones), haciendo uso de métodos stepwise de selección de parámetros, así como de criterios de selección de modelos como bondad de ajuste, desviación típica residual de validación cruzada o realización de test ANOVA; 3) Estudio de la adecuación de los modelos mediante el análisis de residuos; 4) Estudio del funcionamiento de los modelos candidatos finales; 5) Selección del modelo óptimo e implementación para su uso operativo. El modelo finalmente seleccionado ha aumentado el porcentaje de explicación de la variabilidad de la velocidad del viento hasta un 57%, respecto al 14% obtenido con las predicciones de AEMET. La metodología creada también pretende servir de base para la resolución de problemas de predicción similares.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/15156</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Métodos Estadísticos; Área de Estadística e Investigación Operativa</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/15156/files/TAZ-TFG-2014-958.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>modelo estadístico de predicción de velocidad del viento</dc:subject>
+    <dc:subject>vertedero de bailín</dc:subject>
+    <dc:subject>downscaling</dc:subject>
+    <dc:subject>modelos de regresión</dc:subject>
+    <dc:subject>dispersión de contaminantes</dc:subject>
+    <dc:subject>Graduado en Ciencias Ambientales</dc:subject>
+    <dc:title>Desarrollo de un modelo estadístico de predicción de la velocidad del viento para el área del vertedero de Bailín</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

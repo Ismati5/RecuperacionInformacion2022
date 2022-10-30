@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gudmundsdottir, Unnur Stella</dc:contributor>
+    <dc:contributor>Yusta Loyo, José María</dc:contributor>
+    <dc:creator>Llorente García, David</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>El objetivo de este proyecto es investigar las sobretensiones que aparecen en los cables subterráneos cuando estos son energizados mediante la conexión a la red y la corriente de irrupción procedente de otros cables subterráneos ya conectados a esa misma red. Esta investigación está basada en el sistema de distribución de energía eléctrica danés de 60 kV situado en la región norte llamada North Jutland. Parte de la red ha sido implementada en el software PSCAD EMTP con el fin de obtener un modelo cuyo comportamiento sea lo más real posible. Los resultados obtenidos en el software han sido comparados con las medidas realizadas en una línea subterránea de 60 kV y 11,94 km de longitud para comprobar la validez del modelo. El análisis de las frecuencias de resonancia que causan las sobretensiones en los cables subterráneos durante su energizado ha sido realizado y las frecuencias han sido calculadas de tres maneras diferentes. En primer lugar usando la teoría de onda estacionaria, después usando el modelo π equivalente donde el efecto pelicular ha sido incluido y finalmente mediante un espectro de frecuencias proporcionado por el modelo PSCAD. Los resultados han sido comparados y se aprecia una buena concordancia entre ellos. La comparación entre la simulación y las medidas muestran un buen comportamiento antes de que las ondas reflejadas procedentes del extremo final del cable alcancen el extremo inicial. Esto indica que el modelo implementado en PSCAD está correctamente diseñado. Se ha asumido que esta diferencia se debe a los diferentes modos de propagación de la onda reflejada. El análisis de la influencia de la precisión de los equipos de medida en las medidas ha sido realizado y se ha demostrado que las tolerancias no afectan a las diferencias entre el modelo y las medidas de manera significativa. Dos estrategias para minimizar las sobretensiones han sido investigadas e implementadas en el modelo PSCAD. Dichas estrategias consisten en la conexión sincronizada de las fases de la línea y la introducción transitoria de resistencias en serie con la línea durante la conexión. Ambos métodos muestran un buen comportamiento ya que limitan en gran parte las sobretensiones y la corriente de irrupción.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5231</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5231/files/TAZ-PFC-2010-261_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5231/files/TAZ-PFC-2010-261.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Sobretensión</dc:subject>
+    <dc:subject>Resonancia</dc:subject>
+    <dc:subject>PSCAD</dc:subject>
+    <dc:subject>Corriente de irrupción</dc:subject>
+    <dc:subject>Línea subterránea</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Análisis de las sobretensiones causadas por resonancia durante el energizado de una red de alta tensión</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

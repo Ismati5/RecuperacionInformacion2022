@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Abad Blasco, Javier Óscar</dc:contributor>
+    <dc:creator>Ansón Navarro, Fernando</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El presente, es un proyecto de investigación que desarrolla el estudio del comportamiento de las ruedas guía de un puente grúa de grandes dimensiones, utilizado para la manipulación de coque, bajo diferentes combinaciones de cargas.  El puente grua de este estudio, tiene una luz de 42,37m, y la carga manipulada es de 17 ton. Este estudio surge de la propuesta de una empresa del sector, TAIM, para estudiar la rotura prematura de las ruedas guía de varios puentes grúa de similares características al del estudio, con el objetivo de obtener los puntos sometidos a mayor esfuerzo tensional del elemento, analizarlos e indicar soluciones para resolver el problema presentado. Las ruedas guía son las encargadas de absorber las fuerzas horizontales en la componente perpendicular a la dirección del movimiento del puente grúa, descargando de esta forma a las demás ruedas en esta dirección.  El proyecto consta de dos partes diferenciadas: La primera parte se centra en el análisis de la estructura con el objetivo de obtener la reacción más desfavorable absorbida por la rueda guía, para ello se seguirán diversos procedimientos,  -	Análisis según norma FEM, (booklet 9) en lo referente al cálculo de ruedas guía para el caso del estudio, lo que permitirá obtener el procedimiento de cálculo seguido hasta ahora por la empresa calculista. -	Simulación mediante SolidWorks del comportamiento estructural del puente grúa sometido a diferentes combinaciones de cargas que producen el cruzamiento de la estructura y por tanto son más desfavorables para las ruedas guía, se estudiará por ejemplo el frenado del puente grúa estando el carro desplazado, el efecto de las vibraciones sobre la estructura y el efecto del arranque de los motores estando el carro desplazado. Con todas ellas se analizarán las reacciones absorbidas por las ruedas, el efecto al introducir ruedas guía y finalmente se obtendrá la reacción máxima o más desfavorable absorbida por las ruedas guía, lo que dará inicio a la segunda parte del proyecto. La segunda parte consiste en el diseño tridimensional y análisis del conjunto de ruedas guía desplazándose sobre carril, siendo sometidas a la fuerza obtenida en el apartado anterior. Con los resultados tensionales y de deformaciones obtenidos, se estudiará el problema presentado al inicio de la rotura prematura de las ruedas guía y se propondrán soluciones para resolverlo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12927</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería Mecánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12927/files/TAZ-PFC-2013-695.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>puente grúa</dc:subject>
+    <dc:subject>ruedas guía</dc:subject>
+    <dc:subject>solidworks</dc:subject>
+    <dc:subject>método de los elementos finitos</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Estudio del comportamiento de las ruedas guía de un puente grúa de 17 Ton., bajo diferentes combinaciones de cargas</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

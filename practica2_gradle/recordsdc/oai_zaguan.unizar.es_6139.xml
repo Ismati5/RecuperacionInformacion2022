@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mosteo Abad, Rosa</dc:contributor>
+    <dc:creator>Valero Lázaro, Pilar</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El objetivo principal de este proyecto es determinar la producción de especies reactivas del oxígeno generadas en el proceso Fenton bajo distintas condiciones de operación. Las ROS son las encargadas de la degradación de los compuestos orgánicos presentes en el agua cuando se aplica el proceso Fenton, por eso, cuantas más ROS se generen mayor reducción de la contaminación se producirá.  La determinación de la producción de ROS se lleva a cabo con muestras de cloroformo, compuesto que sirve como indicador de la formación de ROS, tanto oxidantes como reductoras, y es un contaminante presente en las aguas residuales y naturales. Se estudia la producción de ROS en función del tiempo (10-50 min), el pH (3-8), el tipo de catalizador (FeSO4/FeCl3) y las condiciones de luz (ambiental/cámara solar), a concentraciones fijas de peróxido de hidrógeno y de hierro. La planificación de la experimentación se realiza mediante el Diseño de Experimentos con el programa MINITAB®. Se obtienen las condiciones de máxima degradación del cloroformo, y por tanto de máxima generación de radicales en el proceso Fenton: pH 3, sulfato de hierro (II) y cámara solar. Sin embargo, a pH más básico (pH 8) también se generan radicales suficientes como para llevar a cabo eficazmente la degradación de este contaminante. Se compara la eficacia del proceso Fenton con otros POAs  en la degradación del cloroformo, y se concluye que el proceso Foto-Fenton produce unos rendimientos de mineralización de cloroformo similares a los obtenidos mediante ozonización combinada con H2O2/TiO2 y tratamientos basados en TiO2/H2O2. Por último, se aplica el proceso Fenton en condiciones de máxima generación de ROS a una muestra de agua residual depurada, obteniéndose reducciones de COT elevadas para pH 3 y 5’5. El proceso resulta eficaz para la desinfección del agua tratada y puede ser aplicado en la regeneración de aguas residuales depuradas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6139</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Tecnologías del Medio Ambiente</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6139/files/TAZ-PFC-2011-366.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6139/files/TAZ-PFC-2011-366_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>fenton</dc:subject>
+    <dc:subject>foto-fenton</dc:subject>
+    <dc:subject>tratamiento de aguas</dc:subject>
+    <dc:subject>procesos de oxidación avanzada</dc:subject>
+    <dc:subject>Ingeniero Químico</dc:subject>
+    <dc:title>Determinación de las especies reactivas del oxígeno (ROS) en procesos Fenton y Foto-Fenton</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

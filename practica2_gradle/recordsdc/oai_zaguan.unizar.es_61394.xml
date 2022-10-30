@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Samplón Chalmeta, Miguel</dc:contributor>
+    <dc:contributor>Alonso Sádaba, Óscar</dc:contributor>
+    <dc:creator>García Aznar, Esther</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Este proyecto surge de la necesidad manifestada por la empresa de auditorías energéticas Termia S.L por el desarrollo de un dispositivo económico con el que poder medir corrientes sin intervenir en el circuito. La línea de estudio de este proyecto se centra en las bobinas Rogowski por su adecuación para este tipo de aplicaciones y su bajo coste. Al ser dispositivos que carecen de núcleo ferromagnético pueden resultar menos costosos que las pinzas amperimétricas comunes. En este contexto, se desarrolla un estudio numérico con el que se modela la respuesta de una sonda Rogowski constituida por bobinas discretas, estudiando el error cometido en la medida asociado al descentramiento del conductor del que se desea medir la corriente. A partir de este estudio se determina el diseño óptimo de la sonda para obtener una precisión determinada en la medida. Posteriormente, se lleva a cabo una fase experimental en la que se construye un prototipo ajustado en la mayor medida posible a los parámetros óptimos obtenidos en el estudio previo. Con él, se realizarán una serie de pruebas en las que se estudiará la respuesta de la sonda en diferentes situaciones. Finalmente, estos resultados se compararán con los obtenidos mediante el modelo con el fin de ratificar la validez del mismo, y a su vez, poder extraer una serie de conclusiones basadas tanto en los resultados prácticos como en los teóricos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61394</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61394/files/TAZ-TFG-2017-079.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Diseño de una sonda Rogowski. Análisis y optimización</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Design of a Rogowski coil. Analysis and optimization.</dc:title>
+</oai_dc:dc>

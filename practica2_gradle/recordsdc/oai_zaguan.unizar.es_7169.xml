@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Cilla Hernández, Myriam</dc:contributor>
+    <dc:contributor>Malvè, Mauro</dc:contributor>
+    <dc:contributor>Martínez Barca, Miguel Ángel</dc:contributor>
+    <dc:creator>Borrás Altaba, Inmaculada</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Actualmente las enfermedades cardiovasculares son una de las principales causas de muerte en el mundo desarrollado, por ello, se hace patente la necesidad de desarrollar modelos numéricos y computacionales que permitan modelar el comportamiento, lo más realista posible, de las paredes arteriales y del flujo sanguíneo que circula por su interior. De modo que, mediante estos modelos, seamos capaces de predecir las zonas de mayor probabilidad de formación de placa aterosclerótica y, sobretodo, la probabilidad de ocurrencia del evento de ruptura de placa ya que la ruptura produce efectos fatídicos, tales como, trombos o infarto. Por ello, en este proyecto se ha llevado a cabo un estudio de diversos parámetros geométricos (dentro de un rango de valores morfológicamente realistas) de un modelo de arteria coronaria con placa de ateroma en tres dimensiones mediante interacción fluido-estructura (FSI), para observar cuál es su efecto sobre diversas variables físicas indicadoras de la aparición, crecimiento y vulnerabilidad de la placa. La morfología y dimensiones consideradas son 2.3mm de radio externo y 0.55mm de espesor en los extremos de la pared arterial. Las partes en las que se ha dividido el modelo son: la pared arterial compuesta por la media y la adventicia, la placa fibrótica y el lípido o ateroma. Se han variado 4 de los parámetros más influyentes en la vulnerabilidad de la placa aterosclerótica a partir de un modelo de referencia (’Caso Base’), esos parámetros son el espesor de la capa fibrótica, el radio del lumen, y la longitud y ancho del lípido. Se han considerado 5 variaciones de cada parámetro, lo que hace un total de 17 casos estudiados. Una vez obtenidos los modelos, se ha mallado la geometría del sólido con el software ABAQUS y el volumen del fluido interno con ICEM y FEMAP, y se han impuesto las condiciones de contorno en el sólido necesarias para evitar que se comporte como un sólido rígido, y en el fluido se ha considerado la presión y velocidad del flujo sanguíneo durante un ciclo cardiaco. Posteriormente, se simulará, mediante elementos finitos (software ADINA), la interacción entre la arteria coronaria y la sangre (modelo FSI) teniendo en cuenta el comportamiento mecánico de cada uno de los componentes de dicha arteria, con el objeto de obtener los mapas de tensiones y de velocidades que aparecen en el modelo. Estos datos nos permitirán establecer parámetros cualitativos del riesgo de ruptura de la placa vulnerable para así evitar la aparición de eventos cardiovasculares tales como trombos o infartos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/7169</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/7169/files/TAZ-PFC-2012-204.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>interacción fluido-estructura (fsi)</dc:subject>
+    <dc:subject>arteria coronaria</dc:subject>
+    <dc:subject>modelodo paramétrico</dc:subject>
+    <dc:subject>elementos finitos</dc:subject>
+    <dc:subject>aterosclerosis</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Análisis paramétrico de una arteria coronaria aterosclerótica mediante interacción fluido estructura</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

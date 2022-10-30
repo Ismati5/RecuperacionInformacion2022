@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Larrodé Pellicer, Emilio</dc:contributor>
+    <dc:contributor>Royo Agustín, Beatriz</dc:contributor>
+    <dc:creator>Viñés Vitaller, Andrés</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Durante la realización de este Proyecto Fin de Carrera, se ha realizado un análisis del problema de planificación de rutas de transporte (VRP – Vehicle Routing Problem) para larga distancia por carretera. Este problema busca la optimización de los recursos en un espacio donde el número de soluciones crece exponencialmente conforme aumenta el número de órdenes o clientes a considerar.   Para resolver este tipo de problemas se utilizan métodos basados en técnicas heurísticas que permiten aproximarse a la solución óptima. Más concretamente, en el caso de este PFC, se ha utilizado el algoritmo de Colonia de Hormigas. En el escenario que se plantea en el estudio se realizan envíos de material paletizado dentro del territorio peninsular español. Estos envíos se pueden realizar de forma directa o a través de dos hubs, en los cuales se permite la redistribución de mercancía. Además, se permite la parada intermedia en más de un nodo, tanto de origen como de destino. En las estrategias puras, todas las órdenes de envío siguen una de estas dos técnicas. Por el contrario, las estrategias mixtas asignan la técnica pura que más convenga a cada orden de envío. En este PFC se ha realizado un análisis de sensibilidad de distintos parámetros del problema, como son el tamaño del problema, las ventanas temporales de carga y descarga y el tiempo de espera fuera de la ventana temporal,  para comprobar si las estrategias mixtas resultan más económicas que las puras y bajo qué condiciones se cumple.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31574</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería e Infraestructura de los Transportes</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31574/files/TAZ-PFC-2014-548.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>logística</dc:subject>
+    <dc:subject>transporte de mercancías</dc:subject>
+    <dc:subject>optimización de recursos</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Optimización de recursos en los problemas de transporte de mercancías de larga distancia por carretera</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

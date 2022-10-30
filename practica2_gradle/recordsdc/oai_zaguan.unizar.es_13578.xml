@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Miscevic, Marc</dc:contributor>
+    <dc:contributor>García Navarro, Pilar</dc:contributor>
+    <dc:creator>Gimeno López, Óscar</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El proyecto se ha centrado en el análisis dinámico y termodinámico de un sistema trifásico comprendido por una gota y su entorno, siendo la primera el volumen de control delimitado por las interfases líquido-vapor y líquido-sólido. Más concretamente, el objeto de estudio fue la dinámica de la línea triple, que separa las fases presentes, y su efecto sobre la masa líquida. Para ello se profundizó en los conceptos de capilaridad y ángulo de contacto, presentes en un sinfín de publicaciones científicas y asumidos como principales responsables del comportamiento de las distintas interfases en esta región del volumen de control. La comprensión de la física de este sistema ayuda a desarrollar nuevos modelos y técnicas de evacuación pasiva del calor en condiciones extremas como la ausencia de gravedad.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/13578</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/13578/files/TAZ-PFC-2014-151.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>wetting dynamics</dc:subject>
+    <dc:subject>gradiente del ángulo de contacto</dc:subject>
+    <dc:subject>capilaridad</dc:subject>
+    <dc:subject>tensión superficial</dc:subject>
+    <dc:subject>simulación numérica</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Análisis del comportamiento de la línea de contacto de una gota sobre un gradiente del ángulo de contacto</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

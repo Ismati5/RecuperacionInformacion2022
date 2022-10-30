@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Berná Forniés, Héctor</dc:contributor>
+    <dc:contributor>Hoyo Alonso, Rafael del</dc:contributor>
+    <dc:contributor>Valdovinos Bardají, Antonio</dc:contributor>
+    <dc:creator>Rodríguez Martínez, Emilio Manuel</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>En la actualidad los directos de la televisión que se realizan fuera de Zaragoza capital se realizan a través de satélite, lo cual implica un alquiler muy costoso. Este proyecto nace de la necesidad de obtener una alternativa de transmisión terrestre para unidades móviles de televisión. Esta solución es posible gracias a las nuevas tecnologías inalámbricas que han ido evolucionando en los últimos años y estudiaremos en los próximos capítulos y a la red REPITA que cubre todo Aragón desarrollada por Aragón Telecom y que se explica en el apartado 1.1.2. El proceso llevado a cabo en este proyecto fue en un primer lugar el estudio previo de las tecnologías, optando finalmente por WiMAX (Worldwide Interoperability for Microwave Access) como la mejor solución. En una segunda fase se definieron y diseñaron las pruebas a realizar con el objetivo de cumplir las expectativas planteadas. Y para terminar se realizó un análisis y evaluación de un sistema de codificación y transmisión en los diferentes escenarios que pueden darse en una situación real: LOS (línea de vista y zona de Fresnel libre de obstáculos), OLOS (con línea de vista, pero obstáculos en la zona de Fresnel), NLOS (sin línea directa y buscando reflexiones) y en movimiento. Finalmente se llegó a la conclusión de que la mejor tecnología a utilizar depende del escenario y por tanto, ha de optarse por una solución mixta.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5569</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingenieria Telematica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5569/files/TAZ-PFC-2011-021.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5569/files/TAZ-PFC-2011-021_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>WiMAX</dc:subject>
+    <dc:subject>transmisión terrestre</dc:subject>
+    <dc:subject>codificación</dc:subject>
+    <dc:subject>escenarios de transmisión</dc:subject>
+    <dc:subject>unidades móviles de televisión</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicaciones</dc:subject>
+    <dc:title>Análisis y evaluación de un sistema de codificación y transmisión terrestre de unidades móviles de televisión sobre tecnología WiMAX</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

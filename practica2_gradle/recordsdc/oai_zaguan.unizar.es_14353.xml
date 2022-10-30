@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Resasco, Daniel</dc:contributor>
+    <dc:contributor>Monzón Bescós, Antonio</dc:contributor>
+    <dc:creator>Mandado Hernández, Daniel</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>La actual situación política y económica obliga a la sociedad a buscar alternativas diferentes para sustituir los combustibles fósiles, una de estas posibles fuentes de energía es la biomasa. La utilización de los residuos celulósicos (lignina) es una de las áreas más críticas a estudiar debido a que el aprovechamiento de ella no tiene impacto sobre el precio del alimento básico.   De estos residuos, los compuestos fenólicos constituyen una parte considerable de los líquidos de pirólisis obtenidos en la primera etapa de conversión de biomasa lignocelulósica. En la etapa del reformado catalítico de los líquidos de pirólisis es importante, no sólo minimizar el contenido en oxígeno, sino también, maximizar la retención de carbón. Entre las opciones disponibles, la hidrodesoxigenación catalítica (HDO) se encuentra entre las más destacadas. Pese a su alta actividad, los catalizadores basados en metales nobles (ej Pt, Pd) no resultan atractivos debido a su elevado precio, así pues, el objetivo de este proyecto es el estudio de diferentes de catalizadores bimetálicos basados en metales de transición, ej. Ni-Fe. Estos catalizadores tienen centros activos tanto de carácter metálico como de carácter ácido. En particular en este PFC se estudiará el reformado de cresoles. Estos compuestos son adecuados para el estudio de la interacción del grupo hidroxilo con la superficie del catalizador, la cual determina su actividad, y especialmente su selectividad. Como ya se ha demostrado en el Centro de Investigación de la Biomasa de la Universidad de Oklahoma, donde se ha llevado a cabo este PFC, en los catalizadores bimetálicos de Ni-Fe, la estructura superficial del mismo determina la selectividad al producto deseado, no sólo por su composición, sino también debido al mecanismo de reacción que se desarrolla sobre el catalizador. En la secuencia de etapas que determina el mecanismo, se ha encontrado que la hidrogenación del enlace C=O es la etapa clave para optimizar la selectividad. Con estas premisas, el proyecto consistirá de 3 partes bien diferenciadas: i) Preparación: partiendo de los nitratos hidratados de Ni y Fe como precursores y de un soporte de sílica (HiSil) se llevará a cabo un procedimiento de co-impregnación e impregnación secuencial. Se desarrollarán un mínimo de cinco catalizadores de diferentes relaciones Ni/Fe. ii) Caracterización: Se van a usar distintas técnicas de caracterización para el estudio de los catalizadores y de su superficie: TPR y HRTEM. iii) Ensayos catalíticos: Se va a estudiar la hidrogenación catalítica en fase gas de cresoles en un reactor tubular de flujo continuo conectado "on-line" a un cromatógrafo de gases, para determinar la composición de los gases de salida. Con todos los datos de caracterización y de actividad catalítica, se pretende relacionar la composición y estructura superficial de los distintos catalizadores, con su actividad, selectividad y estabilidad. </dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/14353</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Ingeniería Química</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/14353/files/TAZ-PFC-2014-240.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/14353/files/TAZ-PFC-2014-240_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>hidrodesoxigenación</dc:subject>
+    <dc:subject>hdo</dc:subject>
+    <dc:subject>m-cresol</dc:subject>
+    <dc:subject>biomasa</dc:subject>
+    <dc:subject>biocombustible</dc:subject>
+    <dc:subject>lignina</dc:subject>
+    <dc:subject>tautomero</dc:subject>
+    <dc:subject>Ingeniero Químico</dc:subject>
+    <dc:title>Preparación, caracterización y ensayo de catalizadores bimetálicos de NiFe para la hidrodesoxigenación (HDO) de compuestos fenólicos derivados de la lignina</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

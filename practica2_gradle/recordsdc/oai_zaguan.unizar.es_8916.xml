@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Artal-Bartolo, Enrique</dc:contributor>
+    <dc:creator>Viu Sos, Juan</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Dentro del estudio de singularidades en la geometría algebraica aparecen una serie de objetos relacionados con la topología de la singularidad: la función zeta de Igusa (función racional que aparece como una integral definida sobre una extensión de los números racionales llamado el cuerpo de los números p-ádicos), y la función zeta topológica de Denef-Loeser (obtenida como un cierta clase de límite de funciones zeta de Igusa y definida mediante los datos de una resolución encajada de la singularidad).  La Conjetura de la Monodromía predice que los polos de la función zeta topológica local aparecen relacionados con los valores propios de la acción de monodromía local actuando sobre los grupos de homología de la fibra de Milnor de la singularidad. La conjetura fue probada por Loeser para el caso de curvas, pero se resiste para dimensiones superiores, sobre todo debido a la dificultad del cálculo de estas funciones zeta, de la acción de monodromía, y de resoluciones encajadas en dimensión superior.  No obstante, existen fórmulas para ciertas familias de polinomios cumpliendo ciertas condiciones con respecto a su poliedro de Newton, un objeto geométrico definido como la envolvente convexa de los exponentes monomiales del polinomio, vistos como vectores en el espacio ambiente, junto con los semirrayos generados por la base canónica.  El objetivo de este trabajo es el de, a partir del análisis y justificaciones teóricas, presentar métodos y algoritmos para el cálculo de las susodichas funciones, el análisis del poliedro de Newton y su abanico de conos asociado, escritos en Sage, para su futura implementación en el programa base.  Sage es un sistema algebraico computacional actual de código abierto que se nutre de algoritmos y librerías desarrolladas por la comunidad de usuarios, implementadas después por el equipo de desarrollo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8916</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Matemáticas; Área de Geometría y Topología</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8916/files/TAZ-TFM-2012-749.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>sage</dc:subject>
+    <dc:subject>polinomios</dc:subject>
+    <dc:subject>singularidades</dc:subject>
+    <dc:subject>función zeta de igusa</dc:subject>
+    <dc:subject>función zeta topológica</dc:subject>
+    <dc:subject>función zeta de la monodromía</dc:subject>
+    <dc:subject>poliedro de newton</dc:subject>
+    <dc:subject>poligono de newton</dc:subject>
+    <dc:subject>Máster Universitario en Iniciación a la Investigación en Matemáticas</dc:subject>
+    <dc:title>Funciones zeta y poliedros de Newton: aspectos teóricos y computacionales</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

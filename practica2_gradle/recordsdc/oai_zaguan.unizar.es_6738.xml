@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Maza Frechín, Mario</dc:contributor>
+    <dc:creator>González Gutiérrez, José María</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El presente proyecto tiene como finalidad el estudio de la recarga de vehículos eléctricos en sistemas autónomos de producción de energía. 	El proyecto parte de la necesidad de realizar un estudio de los sistemas de recarga en vehículos eléctricos, para ello se realiza un análisis del consumo energético de los vehículos basándonos en los ciclos de conducción, un análisis de los modos y sistemas de carga de los vehículos y un estudio de potencias, consumos y capacidades de las principales baterías existentes en el mercado para este tipo de vehículos. 	Para obtener la energía necesaria para la recarga de los vehículos se instala en el edificio de estudio situado en Zaragoza dos sistemas autónomos de generación de energía: una instalación fotovoltaica y una instalación  conjunta de 4 mini-eólicos, realizando el cálculo y dimensionamiento de los sistemas generadores.  	En el proyecto se realiza un balance energético global del edificio teniendo en cuenta el consumo necesario para el transporte vertical de las personas en el edificio, el consumo de las viviendas y el necesario para la recarga de los vehículos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6738</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería e Infraestructura de los Transportes</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6738/files/TAZ-PFC-2011-741.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>vehículo eléctrico</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Estudio de la recarga de vehículos eléctricos en sistemas autónomos de producción de energía en edificios</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Cuadrat, José María</dc:contributor>
+    <dc:creator>Sabater Segurana, Darío</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>El cultivo de la trufa negra (Tuber melanosporum Vittad.) resulta extremadamente difícil debido a las múltiples exigencias ambientales que requiere. Este trabajo plantea un modelo de distribución de su hábitat en la comarca del Matarraña, situada en la provincia de Teruel (España). Para llevarlo a cabo, se utilizan factores condicionantes y limitantes de la presencia de la trufa negra en función de trabajos y experiencias previas, junto con una malla regular densa de muestras de suelo tomadas directamente en campo y una amplia información ambiental adicional. Posteriormente, se han incluido todas las variables ambientales capaces de explicar la presencia o la ausencia de la especie en el territorio, aplicándolas a un Sistema de Información Geográfica para integrarlas en su dimensión espacial y, a través de un modelo de decisión de evaluación multicriterio, se ponderaron para obtener una cartografía de aptitud. La combinación de las variables que condicionan y limitan la aparición espacial de la trufa negra  en el territorio, ha generado como resultado una cartografía de distribución del hábitat potencial de la especie en la que se muestra, en diferentes categorías, cuáles son las zonas con mayor o menor capacidad de producción de trufa negra.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31907</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio; Área de Geografía Física</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31907/files/TAZ-TFG-2015-2225.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/31907/files/TAZ-TFG-2015-2225_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Geografía y Ordenación del Territorio</dc:subject>
+    <dc:title>DETERMINACIÓN DEL HÁBITAT POTENCIAL DE LA TRUFA NEGRA (Tuber Melanosporum Vittad.) EN LA COMARCA DEL MATARRAÑA (TERUEL)</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

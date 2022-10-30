@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bernal Ruiz, Calos</dc:contributor>
+    <dc:contributor>Bono Nuez, Antonio</dc:contributor>
+    <dc:creator>Sanz Alcaine, José Miguel</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Este Trabajo Fin de Grado forma parte de la línea Smart del proyecto de investigación "Battery life Extensor" (BATT-Ex), cuyos principales objetivos son proporcionar información relevante sobre la batería en sistemas de telecocomunicaciones y tomar decisiones inteligentes en base al conocimiento de su estado actual. En los últimos años las baterías han recibido mucha atención debido a las redes de comunicaciones y a la aparición de los Vehículos Híbridos (HEVs) y los Vehículos Eléctricos (EVs). Esto ha llevado a que centros de investigación como el Mitsubishi Electric Research Laboratories (MERL) en Boston o empresas como la Sociedad Ibérica de Construcciones Eléctricas (SICE) hayan querido profundizar en su investigación y colaborar en el siguiente trabajo de investigación.&lt;br /&gt;Con el presente trabajo se pretende mejorar las técnicas de estimación futura de tensión en baterías por procesado de la señal de tensión-corriente, en instalaciones aisladas de comunicaciones. Para ello se han utilizado técnicas de Inteligencia Artificial. En particular, se ha estudiado el uso de la regresión con procesos gaussianos (GPR) como herramienta de predicción y sus diferentes variantes Sparse para reducir la complejidad computacional del algoritmo.&lt;br /&gt;Para llevar a cabo la estimación se necesita información sobre las variables de interés. Para ello, se ha utilizado la base de datos de un sistema fotovoltaico de gran potencia ubicado en el monte del Monasterio de Sigena la cual contiene 10 años de datos recabados cada 15 minutos de parámetros como tensión, corriente o temperatura.&lt;br /&gt;De forma más concreta, se ha evaluado el GPR en su enunciado clásico, el método FITC Sparse y una variante con múltiples expertos GPR comparando los resultados de estimación de tensión aportando el perfil de corriente o temperatura futura.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/85251</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/85251/files/TAZ-TFG-2019-2707.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/85251/files/TAZ-TFG-2019-2707_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías y Servicios de Telecomunicación</dc:subject>
+    <dc:title>Procesos de regresión gaussiana: Estudio de métodos Sparse para la predicción de tensión futura en equipos de comunicaciones</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Gaussian Process Regression: Study of sparse methods to estimate future voltage in communication systems</dc:title>
+</oai_dc:dc>

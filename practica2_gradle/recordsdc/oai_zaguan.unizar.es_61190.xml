@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Cerezo Bagdasari, Eva </dc:contributor>
+    <dc:contributor>Marco Rubio, Javier</dc:contributor>
+    <dc:creator>Marzo Beltrol, Carla</dc:creator>
+    <dc:creator>Meléndez Sancho, Cristina</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>El trabajo se ha desarrollado en el seno del grupo de investigación GIGA Affective Lab del departamento de Informática e Ingeniería de Sistemas de la Universidad de Zaragoza. El GIGA Affective Lab es un grupo de investigación especializado en el área de interacción usuario-ordenador. En este momento, el grupo está montando, gracias a los proyectos CeSAr y JUGUEMOS, un espacio interactivo en el edificio Etopia de Zaragoza orientado al diseño y desarrollo de juegos pervasivos para niños. Este espacio interactivo dispone de diversos recursos como mesas interactivas tangibles, pantallas de proyección, sensores y actuadores. El objetivo de este trabajo ha sido diseñar juegos pervasivos para niños basados en interacción tangible que aprovechen las nuevas posibilidades interactivas que ofrece este espacio. En los juegos se debía hacer uso de los recursos de que se dispone en el espacio. La interacción debía ser lo más natural posible, buscando eliminar la barrera existente entre la tecnología y los objetos físicos; y la colaboración y la diversión en el juego han sido premisas para el diseño.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61190</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61190/files/TAZ-TFG-2016-3430.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/61190/files/TAZ-TFG-2016-3430_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería en Diseño Industrial y Desarrollo de Producto</dc:subject>
+    <dc:title>Espacio Etopia-CeSAr: Diseño de juegos pervasivos para niños</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Etopia-CeSAr Interactive Environment: Design of pervasive games for children</dc:title>
+</oai_dc:dc>

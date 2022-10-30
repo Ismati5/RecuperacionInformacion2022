@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Angurel Lambán, Luis Alberto</dc:contributor>
+    <dc:contributor>de la Fuente Leis, Germán</dc:contributor>
+    <dc:creator>Montón Zarazaga, Alejandro</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>La limpieza láser es una técnica moderna que puede utilizarse para eliminar los productos de corrosión y la contaminación en objetos metálicos. Sin embargo, para implantar esta técnica como un procedimiento estándar de limpieza en conservación del patrimonio, todavía es necesario explorar y definir metodologías concretas. En este trabajo, se han desarrollado experimentos de limpieza láser modificando y optimizando parámetros que incluyen la potencia, la frecuencia de repetición de pulsos, el interlineado láser y la velocidad de barrido, empleando láseres pulsados que emiten con diferentes longitudes de onda (infrarrojo y ultravioleta) y diferentes anchuras de pulso (50 ns, 800 ps y 300 ps). También se han definido protocolos de limpieza combinando el uso de varios láseres y en diferentes atmósferas, habiendo realizado tratamientos en aire, con la muestra inmersa en agua o con una capa de hidrocarburos. Utilizando técnicas de caracterización que incluyen difracción de rayos X, microscopía electrónica de barrido (FESEM), espectroscopía Mössbauer y microscopía confocal, se ha determinado la composición química y la microestructura resultante y asociada a cada tipo de tratamiento láser realizado. Se ha prestado una especial atención a las transformaciones de los compuestos de Fe inducidas por irradiación láser.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76298</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76298/files/TAZ-TFM-2018-256.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Física y Tecnologías Físicas</dc:subject>
+    <dc:title>Desarrollo de procesos de limpieza de materiales metálicos con tecnologías láser. Aplicación en patrimonio.</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Development of cleaning processes of metallic materials with laser technologies. Application in cultural heritage.</dc:title>
+</oai_dc:dc>

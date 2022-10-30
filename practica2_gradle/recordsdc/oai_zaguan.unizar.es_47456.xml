@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Moros, José</dc:contributor>
+    <dc:creator>Pérez Díaz, Sandra</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>Este Trabajo Fin de Grado tiene como finalidad el desarrollo y programación de una aplicación que será ejecutada sobre dispositivos tipo tablet bajo la plataforma Phonegap y será utilizada por profesores de Educación Física en actividades educativas relacionadas con la orientación. Gracias a la utilización de Phonegap se permite adaptar el código de la aplicación a distintos sistemas operativos existentes en el mercado (iOS, Android, Windows Phone...). Por tanto, esta aplicación propone una solución para el personal docente de Educación Física brindando la posibilidad de generar de manera dinámica e informatizada los distintos recorridos empleados en las actividades de orientación desarrolladas con sus alumnos. Proporciona la posibilidad de posicionar distintas balizas sobre mapas y así mismo generar diferentes recorridos a partir de ellas. La aplicación también permite asignar una pequeña descripción y/o fotografía(s) a cada baliza. Además incluye la opción de generar un documento con la información del recorrido y de todas las balizas que lo componen. Para ello se ha utilizado la API de Google Maps en todo momento, tanto para la visualización del mapa como para el posicionamiento de balizas. Además, toda la información generada se almacena de forma dinámica en una base de datos, alojada en un servidor externo, utilizando MySQL, para acceder a ella de forma rápida y sencilla.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/47456</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingeniería Telemática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/47456/files/TAZ-TFG-2015-3218.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/47456/files/TAZ-TFG-2015-3218_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías y Servicios de Telecomunicación</dc:subject>
+    <dc:title>Aplicación para la generación de recorridos de orientación en parques en el ámbito educativo</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

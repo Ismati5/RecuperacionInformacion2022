@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gisbert Aguilar, Josep</dc:contributor>
+    <dc:creator>Artiaga Murillo, Francisco Javier</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Se ha realizado un análisis acústico de los materiales pétreos como técnica de diagnóstico de características petrofísicas en rocas de usos constructivos. Este estudio se centra en el análisis de ultrasonidos y de la frecuencia fundamental, medidos en rocas sanas y envejecidas artificialmente de diez litologías elegidas por su diversidad de propiedades tecnológicas. Para ello, se ha llevado a cabo una primera caracterización del estado inalterado del material pétreo, seguido por tres rutas de envejecimiento artificial acelerado y finalmente una caracterización de las muestras alteradas. El grado de afectación entre roca sana y alterada se cuantificó utilizando la variación del módulo elástico, calculado con ultrasonidos (MOE ultrasonidos) y con medidas de frecuencia fundamental (MOE flexión). Analizando los datos de cada litología estudiada antes del envejecimiento artificial, se obtiene que los valores del módulo elástico calculados a partir de la frecuencia fundamental y de la velocidad de propagación ultrasónica son variables relacionadas y directamente proporcionales. Tras los procesos de envejecimiento por cristalización de sales, choque térmico y heladicidad; el coeficiente de correlación entre la variación del módulo elástico calculado con la velocidad de ultrasonidos y calculado con la frecuencia fundamental disminuye hasta R2=0´31, 0´46 y 0´49 respectivamente.  Finalmente se estimó la durabilidad de las rocas estudiadas, observando que grupos de rocas son más susceptibles a alterarse con las técnicas de envejecimiento acelerado utilizadas.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/86822</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencias de la Tierra; Área de Petrología y Geoquímica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/86822/files/TAZ-TFM-2019-342.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster en Geología: Técnicas y aplicaciones</dc:subject>
+    <dc:title>Caracterización petrofísica del material pétreo: Ventajas e inconvenientes de la emisión sonora frente a otros métodos.</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Petrophysical characterization of stone material: Advantages and disadvantages of  sound emission versus other methods</dc:title>
+</oai_dc:dc>

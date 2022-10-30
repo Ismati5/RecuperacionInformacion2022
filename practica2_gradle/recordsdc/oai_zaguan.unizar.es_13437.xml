@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bel Albesa, Ismael</dc:contributor>
+    <dc:contributor>Carro Ceballos, Pedro Luis</dc:contributor>
+    <dc:creator>Perea Fernández, Eduardo</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Debido a la presente demanda de recursos en la red de comunicaciones móviles surge la necesidad de dotar con mayor capacidad las actuales celdas de la red celular. En este contexto se plantea la evolución de las tradicionales antenas pasivas de estación base en nuevas antenas activas con importantes ventajas sobre las anteriores. Actualmente la estación base para red móvil se compone de tres dispositivos, el equipo de procesado de datos en banda base, los encargados de convertir estos datos y adaptarlos a radio- frecuencia y las antenas emisoras/receptoras. Las antenas activas para estación base plantean la integración de los dos últimos en uno solo, mejorando as ́ı el ahorro energético y aportando flexibilidad para redimensionar la red móvil de manera remota. Se propone un prototipo de transmisión/recepción de sen ̃ales en dominio digital con conforma- do del haz de radiación. El prototipo, una vez se le conecte su correspondiente etapa analógica adaptadora y los elementos radiantes, permitir ́a al operador transmitir y recibir sen ̃ales WCD- MA sin tener que hacer uso de un equipo de radiofrecuencia que las convierta al dominio digital o analógico. Para ello es importante realizar un correcto procesado digital de la sen ̃al y la con- versión entre ambos dominios, manejando de modo síncrono los componentes que participan en el proceso. El sistema recibir ́a sen ̃ales analógicas desfasadas entre s ́ı progresivamente. La sen ̃al ser ́a procesada digitalmente y se volver ́a a transmitir de manera analógica, conformando un haz de radiaci ́on con el  ́angulo de inclinaci ́on configurado digitalmente. El proyecto permitir ́a desarrollar e implementar la base sobre la que se sustentan las antenas activas y evolucionar hacia una solución viable de cara al mercado, ubicandose dentro de los productos relacionados con antenas de telefonía móvil que tiene la empresa Telnet Redes Inteligentes.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/13437</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/13437/files/TAZ-PFC-2014-084.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>antenas activas</dc:subject>
+    <dc:subject>conformado de haz</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicación</dc:subject>
+    <dc:title>Implementación de una red de conformado digital de haz para agrupaciones de antenas de fase progresiva</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

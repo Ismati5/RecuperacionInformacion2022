@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Murillo Castarlenas, Javier</dc:contributor>
+    <dc:creator>Martín Navarro, Pedro</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>La modelización de las pérdidas por fricción que se producen en un flujo turbulento bidimensional de superficie libre se ha basado tradicionalmente en la extensión simplista de ideas desarrolladas para flujos unidimensionales en condiciones de equilibrio dinámico. Es preciso establecer las condiciones de aplicabilidad de estos modelos e investigar la posible superioridad de otras formulaciones. Para poder generar modelos más ambiciosos que los típicamente utilizados en la hidráulica fluvial, es útil plantear adecuadamente el problema de la descripción del esfuerzo en el fondo. Por este motivo, es necesario recopilar la información existente acerca de modelos de pérdidas por fricción en el contexto de flujos de superficie libre promediados en la vertical. La teoría de capa límite, que nos permite describir la variación de la velocidad en la dirección vertical, es el instrumento adecuado. Su interpretación permite comprender otras aproximaciones, como las basadas en perfiles potenciales de velocidad. La comprensión de los diferentes modelos de fricción puede facilitarse a través de la simulación numérica que, además, es el campo de aplicación que se persigue. Comparar la capacidad de predicción del comportamiento de flujos bidimensionales estacionarios caracterizados experimentalmente es un paso fundamental, en torno al cual gira este trabajo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5424</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5424/files/TAZ-TFM-2010-087.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Modelos de fricción</dc:subject>
+    <dc:subject>Flujos de superficie libre</dc:subject>
+    <dc:subject>Simulación numérica</dc:subject>
+    <dc:subject>Ecuaciones de aguas poco profundas</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicaciones</dc:subject>
+    <dc:title>Análisis de modelos de fricción en flujos de superficie libre</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

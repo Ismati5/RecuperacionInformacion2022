@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Romeo Giménez, Luis Miguel</dc:contributor>
+    <dc:creator>Mellado Modrego, Javier</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El trabajo consiste en la simulación y diseño de una central de ciclo combinado con un sistema de captura de dióxido de carbono y un sistema de almacenamiento de energía basado en almacenamiento de energía térmica. También se ha realizado un análisis económico de la central diseñada para concluir la viabilidad económica.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64193</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64193/files/TAZ-TFG-2017-2865.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Simulación central ciclo combinado con emisiones cero y almacenamiento de energía</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Simulation of a combined cycle power plant with zero emissions and energy storage</dc:title>
+</oai_dc:dc>

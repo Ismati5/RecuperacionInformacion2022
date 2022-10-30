@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Stéphan, Astier</dc:contributor>
+    <dc:contributor>Pérez Cebolla, Francisco José</dc:contributor>
+    <dc:creator>Casado Merinero, Adrián</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>En este proyecto se analizan las diferentes posibilidades que ofrece un aparato de autoconsumo para instalaciones fotovoltaicas. Además se inicia la modelización de este principio en Matlab Simulink que dará paso a trabajos posteriores de modelización de una instalación completa para complementar otros modelos de una smart-grid.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/48223</dc:identifier>
+    <dc:language>fre</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/48223/files/TAZ-TFG-2015-3636.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Eléctrica</dc:subject>
+    <dc:title>Autoconsumo de una producción fotovoltaica</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Usón Gil, Sergio</dc:contributor>
+    <dc:creator>Catalán Solsona, Juan Antonio</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>En este trabajo fin de grado se realiza una revisión de las aplicaciones de materiales termoeléctricos y un análisis detallado de dos ejemplos de aplicación, con el objetivo de estudiar la viabilidad de esta tecnología en la actualidad. En primer lugar, se realiza una revisión de las generalidades de los materiales termoeléctricos. A continuación, se realiza una revisión de las aplicaciones actuales de mayor relevancia que funcionan a partir de la termoelectricidad, tanto para sistemas de refrigeración como para producción de electricidad a partir de calor residual. Posteriormente, se realiza el diseño y análisis de una aplicación para sistema de refrigeración. A tal fin, se ha elegido diseñar una nevera termoeléctrica, para uso doméstico o en automóvil, mediante una toma de corriente. Primero se muestra el procedimiento y cálculo que se lleva a cabo para elegir los diferentes materiales y componentes de la nevera. Acto seguido se muestran los resultados obtenidos para el funcionamiento de varias temperaturas y se comparan con los de una nevera convencional por compresión, mostrándose las ventajas e inconvenientes de estas neveras termoeléctricas. Finalmente, se realiza el análisis de una aplicación para producción de electricidad a partir de calor residual. Se ha elegido modelizar un generador termoeléctrico capaz de aprovechar el calor residual de los gases de escape de un automóvil para generar electricidad sin costes adicionales. También, se muestran y verifican los resultados obtenidos comparándolos con algunos modelos realizados con anterioridad en artículos científicos. La simulación de los dos modelos se efectúa mediante el programa Engineering Equation Solver (EES). Esta simulación se centra en la parte térmica, mientras que el comportamiento de los materiales termoeléctricos se obtiene de la información de hojas de datos de fabricantes.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31518</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31518/files/TAZ-TFG-2014-1937.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/31518/files/TAZ-TFG-2014-1937_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Materiales termoeléctricos: aplicaciones para la refrigeración y la generación de electricidad</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

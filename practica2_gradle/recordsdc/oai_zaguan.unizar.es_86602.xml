@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bielsa Callau, Jorge</dc:contributor>
+    <dc:creator>Mora Gómez, Manuel</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Los  modelos  de  gestión  de  la  producción  y  distribución  de  la  electricidad  han  venido &lt;br /&gt;considerando que la  energía perdida en  el transporte es una variable exógena respecto  al &lt;br /&gt;propio sistema. En este trabajo se realiza una aproximación económica a la problemática de &lt;br /&gt;esas pérdidas en el transporte considerando que dichas pérdidas son una variable sobre la &lt;br /&gt;que se puede actuar significativamente. &lt;br /&gt;En primer lugar, se sintetiza el problema de la minimización de las pérdidas de potencia en &lt;br /&gt;un  modelo  teórico  que  sirva  como  referencia  para  analizar  las  implicaciones  de  la &lt;br /&gt;distribución  espacial  de  la  producción  y  del  consumo  sobre  dichas  pérdidas.  Una  vez &lt;br /&gt;elaborado  y calibrado el marco teórico, se procede a realizar simulaciones numéricas del &lt;br /&gt;mismo que nos permitan cuantificar física y económicamente las pérdidas asociadas.&lt;br /&gt;De  forma  paralela  a  lo  anterior,  el  trabajo  plantea  el  problema  de  incentivos  que  mejor &lt;br /&gt;podría  contribuir  a  esa  minimización  de  pérdidas.  Desde  el  punto  de  vista  de  un &lt;br /&gt;planificador central, mostramos mediante un caso real como se puede inducir a productores &lt;br /&gt;y consumidores a tomar decisiones que tengan en cuenta esas pérdidas en el transporte de la &lt;br /&gt;electricidad.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/86602</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/86602/files/TAZ-TFM-2019-1136.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Economía</dc:subject>
+    <dc:title>Revisión del enfoque económico de las pérdidas de potencia eléctrica en su transporte</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Review of the economic approach of the electric power losses in its transmission</dc:title>
+</oai_dc:dc>

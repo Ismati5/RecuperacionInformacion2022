@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Casas Nebra, José Roberto</dc:contributor>
+    <dc:contributor>Asensio Gimeno, Ángel</dc:contributor>
+    <dc:creator>Fernández Gómez, Rafael</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>En este trabajo se presenta el diseño y construcción de un prototipo para la adquisición de señales electromiográficas provenientes de los potenciales eléctricos generados por los músculos. Este prototipo será utilizado por profesionales sanitarios como son los fisioterapeutas para ayudarles a tener un mayor biofeedback del paciente, consiguiendo así poder tratarlo de forma más eficiente y poder detectar posibles lesiones que éste padezca. Con la ayuda de este dispositivo se pretende mejorar las sesiones de rehabilitación que el fisioterapeuta realice.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/69892</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/69892/files/TAZ-TFG-2017-4517_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/69892/files/TAZ-TFG-2017-4517.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Electrónica y Automática</dc:subject>
+    <dc:title>Sensor EMG para biofeedback en fisioterapia</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">EMG sensor for biofeedback in physiotherapy</dc:title>
+</oai_dc:dc>

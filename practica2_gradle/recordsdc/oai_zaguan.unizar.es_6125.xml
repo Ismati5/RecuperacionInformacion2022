@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mayoral Gastón, Carmen</dc:contributor>
+    <dc:contributor>Gimeno Tolosa, María Pilar</dc:contributor>
+    <dc:creator>García Pastor, Belén</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Este proyecto se enmarca dentro de las actividades de I+D que la empresa Carbonífera Energía pretende emprender de manera paralela a la instalación de una central térmica para la valorización energética de residuos de mina de la cuenca de Mequinenza. El objetivo principal de este trabajo es la captura de CO2 mediante carbonatación mineral con cenizas procedentes de la combustión de carbón y escombrera mediante carbonatación en vía húmeda. El uso de cenizas para la captura de CO2 viene determinado por su contenido en calcio. Las cenizas procedentes de Mequinenza poseen unos contenidos de CaO notables, en torno al 30% en peso, algo sumamente inusual incluso en residuos minerales de gran alcalinidad. Inicialmente se llevó a cabo la caracterización de las cenizas tanto de carbón como de escombrera mediante la aplicación de diversas técnicas de caracterización: análisis del tamaño de partícula, inmediato, elemental y del poder calorífico, ICP, TGA y SEM-EDX. La captura de CO2 mediante carbonatación de cenizas por vía húmeda se realizó borboteando el gas sobre una mezcla cenizas-agua sometida a agitación. La capacidad de carbonatación de las cenizas se cuantificó mediante TGA. Las variables estudiadas fueron: temperatura, tiempo, volumen de disolución, pH, [NaCl] y [EDTA]. Debido al elevado número de variables de operación, a los amplios rangos de estudio y a los posibles efectos cruzados entre las diferentes variables se realizó un diseño experimental a través de la herramienta informática “The Unscrambler X”. Las principales conclusiones extraídas de este estudio se resumen a continuación. A temperaturas altas la lixiviación del calcio de la matriz de las cenizas es más rápida pero la solubilidad del CO2 en la disolución disminuye. El tiempo presenta un comportamiento asintótico, se observó que tiempos de 30 minutos eran suficientes para capturar un alto porcentaje de CO2. Asimismo se advirtió que una disminución del volumen genera un aumento de conversión. Finalmente se determinó que valores bajos de pH se oponen a la disolución de CO2 y que el aumento de [NaCl] y [EDTA] no favorecía la carbonatación. Una vez realizado el estudio inicial, se llevó a cabo un estudio de optimización mediante el método Simplex modificado. Se observó que el pH originaba una gran variación. Por último se realizaron experimentos cruzados entre las condiciones óptimas obtenidas para las cenizas de ambos combustibles (carbón y escombrera).</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6125</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Tecnologías del Medio Ambiente</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6125/files/TAZ-PFC-2011-354.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>captura</dc:subject>
+    <dc:subject>co2</dc:subject>
+    <dc:subject>carbonatación</dc:subject>
+    <dc:subject>cenizas</dc:subject>
+    <dc:subject>carbón</dc:subject>
+    <dc:subject>escombrera</dc:subject>
+    <dc:subject>mequinenza</dc:subject>
+    <dc:subject>Ingeniero Químico</dc:subject>
+    <dc:title>Captura de CO2 mediante carbonatación mineral con cenizas</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

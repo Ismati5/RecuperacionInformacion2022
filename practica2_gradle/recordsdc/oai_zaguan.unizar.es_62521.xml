@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Cebrián, Lucía Isabel</dc:contributor>
+    <dc:creator>Eslava Real, David</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>En este escrito se elabora un Trabajo Fin de Grado, dentro de la línea de Dirección de Operaciones del Grado de Administración y Dirección de Empresas de la Universidad de Zaragoza. Este trabajo consiste en la implementación de un modelo de inventarios en una empresa industrial, tanto para sus artículos con demanda dependiente como independiente. En la actualidad, esta empresa no dispone de un modelo o sistema concreto para gestionar sus inventarios, lo cual les afecta negativamente, provocándoles principalmente una reiterada falta de stocks en su almacén e impidiéndoles abastecer correctamente a sus clientes. Con este trabajo, se persigue mejorar la gestión de los inventarios de esta empresa y eliminar las rupturas de stocks, con el objetivo de mejorar los resultados económicos de la misma. Para ello se utilizará el modelo MRP para los artículos de la empresa con demanda dependiente y el EOQ para los artículos con demanda independiente.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/62521</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/62521/files/TAZ-TFG-2017-2630.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Administración y Dirección de Empresas</dc:subject>
+    <dc:title>Aplicación práctica de la gestión de inventarios en una empresa industrial</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Practical application of inventory management in an industrial company</dc:title>
+</oai_dc:dc>

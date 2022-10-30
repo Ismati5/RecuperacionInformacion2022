@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Resano Ezcaray, Jesús Javier</dc:contributor>
+    <dc:creator>Teletin, Vlad</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>En este proyecto se ha diseñado un acelerador específico para la evaluación de una técnica concreta del aprendizaje automático, los árboles de decisión, siendo éstos entrenados usando una técnica que ayuda a mejorar sus resultados denominada Gradient Boosting. Para ello se ha estudiado cómo se generan los árboles de decisión utilizando el framework LightGBM, uno de las entornos más populares que se usan actualmente para los árboles de&lt;br /&gt;decisión, para poder diseñar un acelerador específico capaz de realizar los mismos cálculos de la forma más eficiente posible. El acelerador se ha diseñado usando el lenguaje de descripción de hardware VHDL, y su funcionamiento se ha comprobado en un SoC real que incluye dos procesadores y una Field Programming Gate Array (FPGA), un recurso de lógica programable, donde se ha implementado el acelerador. Para la evaluación se ha utilizado un caso de estudio complejo, la clasificación de píxeles de imágenes hiperespectrales. Junto a ésto, se ha diseñado una herramienta que permita adaptar los datos de un modelo entrenado con este framework para su utilización dentro de un acelerador hardware de este tipo.&lt;br /&gt;Además, con el fin de analizar la viabilidad de este tipo de acelerador, se compara con un código escrito en C que realiza los mismos cálculos, ejecutado en uno de los procesadores de propósito general de los cuales dispone el SoC . De esta forma se han obtenido datos de tiempo de ejecución y consumo energético que apoyan la utilización de un acelerador frente a un procesador de propósito general para esta tarea concreta, dado que es capaz de realizar los cálculos 8.8 veces más rápido y reducir el consumo de energía dinámico en un factor de 8.7.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87365</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Arquitectura y Tecnología de Computadores</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87365/files/TAZ-TFG-2019-4404_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/87365/files/TAZ-TFG-2019-4404.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>Diseño de un acelerador específico para árboles de decisión</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Design of a specific accelerator for decision trees</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Villarroel Salcedo, José Luis</dc:contributor>
+    <dc:creator>Turbica Mamblona, David</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El objetivo de este proyecto es desarrollar un programa capaz de definir cúal ha sido la trayectoria que ha seguido una cámara RGB-D dentro de un entorno conocido y partiendo de una localización inicial también conocida. La localización se ha realizado aplicando un algoritmo ICP (Iterative Closest Point) sobre una nube de puntos previa del entorno (mapa previo) y la nube de puntos que proporciona la cámara RGB-D. Este algoritmo iterativo precisa de una estimación inicial para poder converger. Para ello se dispone además de un IMU o Unidad de Medición Inercial con la que se obtendrá una estimación de la localización de la cámara. Inicialmente se va a trabajar con una secuencia pregrabada que recoge la información de la cámara y del IMU, y se va a realizar un análisis de tiempos de computación para ver si es posible su migración a una aplicación que se ejecute en tiempo real. Para poder llevar a cabo todo esto primero se procede a la construcción de un mapa y a la posterior grabación de una secuencia de movimiento sobre ese mapa. Para la grabación de la secuencia se ha desarrollado, en este caso sí, una aplicación de tiempo real que recoge la información de la cámara y del imu, y genera una estructura de ficheros que puede ser interpretada posteriormente. La aplicación principal leerá de memoria esa secuencia pre-grabada y la procesará emulando una aplicación de tiempo real, analizando los datos en el orden temporal en que fueron recogidos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/63976</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/63976/files/TAZ-TFG-2017-3559.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Electrónica y Automática</dc:subject>
+    <dc:title>Sistema de localización con cámara RGBd basado en ICP sobre un entorno conocido</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">ICP-based RGBd camera location system on a known environment</dc:title>
+</oai_dc:dc>

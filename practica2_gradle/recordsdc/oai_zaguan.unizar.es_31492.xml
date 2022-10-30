@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Brecher, Christian</dc:contributor>
+    <dc:contributor>Civera Sancho, Javier</dc:contributor>
+    <dc:creator>Cañizares Encuentra, Álvaro</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Para poder satisfacer la creciente demanda productiva, las máquinas herramienta deben presentar el mejor comportamiento dinámico posible y este depende principalmente de los parámetros de control. Estas máquinas poseen esquemas de control en cascada: lazos de control para corriente,velocidad y posición. Para determinar estos parámetros es importante tener en cuenta una mecánica variable en función de la posición de los ejes,es decir, una rigidez, frecuencia de resonancia y amortiguación distinta para cada punto. En base a las mediciones realizadas en la máquina, se modelará el comportamiento mecánico de la máquina herramienta en función de la posición de sus ejes. El modelado parte de una base analítica de acuerdo a datos de los fabricantes y se ajustará empíricamente a las mediciones. Posteriormente se incorporará al control en cascada y modelado restante y se procederá a ajustar los parámetros de control de acuerdo a la máquina. Finalmente,se llevarán a cabo simulaciones para comprobar la validez del modelado.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31492</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31492/files/TAZ-TFG-2014-2098.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>modelado</dc:subject>
+    <dc:subject>mecatrónica</dc:subject>
+    <dc:subject>máquina herramienta</dc:subject>
+    <dc:subject>control</dc:subject>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Modelado mecatrónico de una máquina herramienta</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

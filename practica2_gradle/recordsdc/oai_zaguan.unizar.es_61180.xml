@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Piqueras Lorente, Ana</dc:contributor>
+    <dc:contributor>Baselga Ariño, Santiago</dc:contributor>
+    <dc:creator>Sebastián Solano, David</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>Dentro de la actividad del Laboratorio de Automóviles de la Universidad de Zaragoza (LAIMUZ), se presenta la situación común de la instalación de separadores en los ejes de un vehículo. Existe un valor máximo de anchura de los separadores para todos los vehículos en general. En el presente proyecto se plantea la elaboración de una herramienta que permita valorar la afección de dicha modificación para distinguir en que modo y en que grado supone un riesgo a la seguridad e integridad del vehículo para cada tipo de vehículo en particular.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61180</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería e Infraestructura de los Transportes</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61180/files/TAZ-TFG-2016-3496.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Influencia sobre los ejes del vehículo de la instalación de separadores que varíen su vía</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Influence on the vehicle axles of the installation of wheel spacers which modify their track width</dc:title>
+</oai_dc:dc>

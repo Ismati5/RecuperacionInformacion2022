@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mir Marín, José María</dc:contributor>
+    <dc:creator>García Rodríguez, Elisa</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>La necesidad de métodos con suficiente precisión, económicos y rápidos en el ámbito de la química analítica derivó en el desarrollo de los denominados métodos analíticos de screening, sistemas de medida de carácter cualitativo que permiten realizar un gran número de análisis en un breve periodo de tiempo expresando las respuestas de forma binaria. Estos ofrecen la posibilidad de realizar métodos IN-LINE, en los que el analizador se pone en contacto con la muestra mediante los denominados sensores, como una alternativa a los métodos ON-LINE, en los que la muestra va al analizador. Cada vez hay más equipos de investigación que buscan mejorarlos y llevarlos a más áreas, como controles de calidad, clínica o medioambiente, puesto que colaboran a simplificar el método, automatizarlo y miniaturizarlo. Utilizándolos podemos identificar analitos concretos, realizando screening de analitos, o clasificar las muestras, screening de muestra. Para ello los sensores pueden reconocer moléculas, iones o sistemas biológicos (estos últimos son los más novedosos y específicos). Tras realizar ese reconocimiento tienen que originar una señal, óptica o eléctrica, que posteriormente se lleva a un analizador para obtener una respuesta en tiempo real. Gracias al empleo de estos sistemas podemos descartar de manera rápida patologías, contaminantes u otras sustancias de interés en el estudio a realizar y evitamos el uso de técnicas más costosas y lentas innecesariamente.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/77854</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Analítica; Área de Química Analítica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/77854/files/TAZ-TFG-2018-2168.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/77854/files/TAZ-TFG-2018-2168_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Química</dc:subject>
+    <dc:title>Los sensores (bio)químicos y los métodos de screening en química analítica</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">(Bio)chemical sensors and screening methods in analytical chemistry</dc:title>
+</oai_dc:dc>

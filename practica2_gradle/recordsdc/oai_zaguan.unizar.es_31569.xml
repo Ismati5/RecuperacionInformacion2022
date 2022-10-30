@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Serra, Luis M.</dc:contributor>
+    <dc:creator>Lasierra Fortuño, Andrea</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Este proyecto consiste en simular y analizar un sistema solar de distrito con acumulador estacional, para abastecer las demandas de ACS y de calefacción de 100 viviendas de 100 m2 situadas en el Parque Goya de Zaragoza. Los principales objetivos de este proyecto son la simulación y análisis de un sistema de este tipo utilizando el programa de simulación POLYSUN, partiendo de un modelo previamente desarrollado con TRNSYS; una comparativa entre TRNSYS y POLYSUN; y un análisis geográfico de diferentes ciudades españolas pertenecientes a distintas zonas climáticas. La primera parte de esta memoria introduce las centrales solares con acumulación estacional en Europa. En la segunda parte, se presenta el sistema escogido como caso de estudio explicando sus principales características, y más detalladamente para el modelo realizado con POLYSUN, describiendo las propiedades de este programa. En la última parte se presentan y analizan los principales resultados que se han obtenido, ordenándolos conforme a los principales objetivos planteados en el proyecto. De acuerdo con los resultados obtenidos, se puede afirmar que los equipos principales (captadores solares, depósitos de almacenamiento de energía térmica e intercambiadores de calor) tienen un comportamiento similar en ambos programas (TRNSYS y POLYSUN). Asimismo, los resultados obtenidos en base anual son similares en los dos programas. No obstante, se han observado grandes diferencias mensuales en algunos parámetros, como por ejemplo en la demanda de calefacción calculada por el programa POLYSUN. Esta diferencia en concreto ha influido en los elementos del sistema de calefacción, haciendo que en los mismos meses existan también grandes diferencias. Además esto ha provocado que en el programa POLYSUN se transfiera más calor al circuito de ACS y menos al de calefacción que en el programa TRNSYS.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31569</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31569/files/TAZ-PFC-2014-567.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/31569/files/TAZ-PFC-2014-567_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>centrales solares</dc:subject>
+    <dc:subject>calefacción de distrito</dc:subject>
+    <dc:subject>acumulación estacional</dc:subject>
+    <dc:subject>polysun</dc:subject>
+    <dc:subject>trnsys</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Simulación y análisis energético de sistemas solares de calefacción de distrito con acumulación estacional</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

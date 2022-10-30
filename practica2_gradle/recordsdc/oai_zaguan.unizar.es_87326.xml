@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>López Pérez, José María</dc:contributor>
+    <dc:creator>Ferrati Serrano, Francesco</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>En el presente trabajo de fin de grado se muestra la colaboración realizada con la bailarina y coreógrafa Julia Zaccagnini y el Laboratorio de Danza y Nuevos Medios (DANM) del festival de danza en paisajes urbanos Trayectos. Se realiza con el objetivo de preparar un espectáculo de baile fruto de la colaboración entre danza y tecnología electrónica para el festival Trayectos 2019.&lt;br /&gt;La intervención electrónica para la colaboración ha consistido en desarrollar un módulo inalámbrico con comunicación WiFi, capaz de detectar movimientos y activar diferentes actuadores según su programación. Se decidió que el diseño del hardware del módulo fuera objeto del TFG de Claudia Gonzalo y el diseño del firmware fuera objeto de este TFG. El desarrollo de la coreografía evoluciona en paralelo al desarrollo electrónico en clave de colaboración entre artista y tecnólogo. Para posibilitarla se establece una metodología que es considerada una parte capital en este TFG.&lt;br /&gt;Debido a las circunstancias, el módulo desarrollado por Claudia no iba a estar listo para el festival y se tuvo que elaborar un plan de contingencia que consistía en un prototipo con menos funcionalidades, pero acorde a las necesidades principales.&lt;br /&gt;A partir del festival, valorando la versatilidad del prototipo, se completa el sistema desarrollando un paquete de firmware que explore todas sus potencialidades tanto de sensorización como de comunicación. &lt;br /&gt;Para facilitar su programación se ha desarrollado una librería en lenguaje C/C++ y se han programado diferentes posibles casos de uso.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87326</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87326/files/TAZ-TFG-2019-4525_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/87326/files/TAZ-TFG-2019-4525.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Electrónica y Automática</dc:subject>
+    <dc:title>Plataforma IoT para el desarrollo de una intervención electrónica colaborativa</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">IoT platform for the development of cooperative electronic intervention</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gómez-Gardeñes, Jesús</dc:contributor>
+    <dc:contributor>Zueco Láinez, David</dc:contributor>
+    <dc:creator>Hermoso de Mendoza Naval, Ignacio</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El más estudiado de los modelos de sincronización es el de Kuramoto. En un trabajo anterior desarrollamos un equivalente cuántico a este modelo, ahora expandimos ese trabajo a redes de osciladores, añadiendo el efecto que tiene la topología sobre la sincronización en sistemas cuánticos. En un primer capítulo introducimos el modelo de Kuramoto, su equivalente cuántico y propuestas experimentales para llevar al laboratorio dicho modelo. En la segunda parte, introducimos las redes que vamos a tratar y los resultados clásicos en ésta. En la tercera parte, aplicamos el modelo cuántico a las redes anteriores y descubrimos unos interesantes resultados.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/15249</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física de la Materia Condensada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/15249/files/TAZ-TFM-2014-376.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>kuramoto</dc:subject>
+    <dc:subject>cuántico</dc:subject>
+    <dc:subject>redes</dc:subject>
+    <dc:subject>Máster Universitario en Física y Tecnologías Físicas</dc:subject>
+    <dc:title>Sincronización cuántica, redes complejas y propuestas experimentales / Quantum synchronization, complex networks and experimental proposals</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

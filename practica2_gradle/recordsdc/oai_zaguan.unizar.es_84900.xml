@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Noack, Benjamin</dc:contributor>
+    <dc:contributor>Gallego Martínez, José Ramón</dc:contributor>
+    <dc:creator>Giner Ruiz, Teresa</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Nowadays sensors are implemented in countless of actual scenarios ranging from security&lt;br /&gt;to entertainment applications. They generate a huge amount of transmissions&lt;br /&gt;within the network they belong to, resulting in a costly communication e↵ort. In&lt;br /&gt;order to optimize the transmission process, an event-based system – instead of the&lt;br /&gt;conventional periodic approach – should be used. In this sense, several challenges&lt;br /&gt;appear when multiple sensors are involved at the same time, where new issues about&lt;br /&gt;their event-criteria arise, i.e., how could sensors compare their observations to make&lt;br /&gt;a transmission decision. To this e↵ect, communication between sensor nodes is to&lt;br /&gt;be studied seeking to utilize information in a profitable way. In this work, di↵erent&lt;br /&gt;multisensor network structures are to be compared, i.e., star, chain, and hierarchical&lt;br /&gt;topologies. Finally, quality will be deeply discussed in terms of estimation’s quality&lt;br /&gt;degradation due to the proposed joint trigger criteria as compared to independent&lt;br /&gt;event triggers.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/84900</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingeniería Telemática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/84900/files/TAZ-TFG-2019-3977.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías y Servicios de Telecomunicación</dc:subject>
+    <dc:title>Event-based State Estimation in Multisensor Systems</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Event-based State Estimation in Multisensor Systems</dc:title>
+</oai_dc:dc>

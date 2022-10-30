@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Larrodé Pellicer, Emilio</dc:contributor>
+    <dc:contributor>Arroyo García, Juan Bautista</dc:contributor>
+    <dc:creator>Granado Alfonso, Francisco Javier</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>En el siguiente trabajo se lleva a cabo la puesta en marcha del vehículo eléctrico Zytel Park, tipo carrito de golf, que será considerado como sistema de referencia.  Para la puesta en marcha son necesarias diferentes acciones correctivas sobre el carrito. Posteriormente se añadirá al techo del carrito, un sistema de captación solar, compuesto por una placa solar y un regulador, que permitirá la recarga de las baterías gracias a la radiación solar.  Se realizarán ensayos, tanto al sistema de referencia como al sistema modificado en diferentes contextos. Al analizar los resultados, se buscarán evidencias que demuestren la mejora del consumo del vehículo modificado con respecto al de referencia. El objetivo del trabajo será encontrar y cuantificar las ganancias conseguidas gracias a la introducción del sistema de captación.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/78574</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería e Infraestructura de los Transportes</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/78574/files/TAZ-TFG-2018-4717.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Análisis del comportamiento y consumo de vehículo eléctrico tipo carro de golf con sistema de captación de energía solar integrado</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Analysis of the behavior and consumption of electric vehicle type golf cart with system of capture of solar energy integrated</dc:title>
+</oai_dc:dc>

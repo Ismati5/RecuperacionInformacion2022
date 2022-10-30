@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Martínez Cantín, Rubén</dc:contributor>
+    <dc:contributor>Montesano del Campo, Luis</dc:contributor>
+    <dc:contributor>Montesano del Campo, Luis (UZ)</dc:contributor>
+    <dc:creator>García Barcos, </dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>El uso de simuladores nos permite explorar diseños alternativos sin necesidad de producir caros prototipos, pero diseñar optimizaciones alrededor de estos sistemas conlleva un elevado tiempo de ejecución debido a la larga duración de cada simulación. Además, la función subyacente es desconocida (las denominadas funciones caja-negra o black-box), por lo que es imposible conocer la derivada de la función a optimizar, necesaria en la mayoría de métodos de optimización. El presente trabajo trata de resolver dichas limitaciones mediante la aplicación de aprendizaje automático en métodos de optimización global. Concretamente se abordará la optimización Bayesiana con el objetivo de minimizar el número de muestras necesarias para encontrar el óptimo, reduciendo así el tiempo total necesario de optimización. La optimización Bayesiana se ha realizado a partir de la librería BayesOpt y, como objetivo de la simulación, se ha utilizado el software simulaciones de fluidos XFlow, producto de NextLimit Technologies SL. Por tanto, ha sido necesario desarrollar una interfaz entre ambos programas, mediante la cual se han diseñado experimentos a optimizar y cuyos resultados han sido utilizados para argumentar la viabilidad de optimización Bayesiana en este tipo de problemas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/48228</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/48228/files/TAZ-TFG-2015-3404.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>Optimización Bayesiana aplicada a la simulación de fluidos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Letosa Fleta, Jesús</dc:contributor>
+    <dc:creator>Pamplona Marco, José María</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>En este Trabajo Fin de Máster (TFM) se ha considerado el principal objetivo el desarrollo de una herramienta de diseño sobre un cojinete magnético activo de flujo axial. La herramienta debe permitir la selección de algunos parámetros geométricos y materiales (radio del disco del rotor, espesor, anchura de la ventana de bobinado en el estator, corriente, entrehierro, número de espiras…). Como resultado se obtendrá la fuerza ejercida por el devanado estatórico en función de la variación de algunos parámetros del diseño. Para el resolver el problema electromagnético se utilizará un programa de cálculo numérico por el método de elementos finitos. Para el control de las simulaciones en función de los parámetros de diseño se utiliza un lenguaje de programación con recursos de cálculo, compatible con el software de elementos finitos utilizado (FEMM v4.2). En primer lugar, se ha realizado una revisión del estado del arte sobre los cojinetes magnéticos. A continuación se procede a modelizar el cojinete magnético activo con flujo axial y posteriormente se comprueba la validación del modelo simulado en elementos finitos. También se ha realizado un estudio del comportamiento del modelo simulado en elementos finitos variando alguno de sus parámetros. Con esta herramienta diseñada en Octave, se ha podido llevar a cabo el estudio paramétrico del rodamiento de una manera más visual y rápida. En consecuencia, tras el estudio de diversas modificaciones en la geometría del rodamiento magnético se puede obtener diferentes curvas de comportamiento de la fuerza axial producida por el devanado estatórico. También se han diseñado dos script que permiten el cálculo de la fuerza axial ejercida por el devanado estatórico sobre disco magnético que está acoplado al rotor frente a la corriente con un entrehierro constante (GAP) y frente al GAP con una corriente constante. Gracias a los script diseñados, en este TFM se diseña un modelo electromagnético de un cojinete magnético activo con flujo axial que aporta más fuerza axial que la necesaria para mantener en equilibrio el rotor levitado del prototipo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10214</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10214/files/TAZ-TFM-2013-095.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>rodamiento magnético axial</dc:subject>
+    <dc:subject>elementos finitos</dc:subject>
+    <dc:subject>herramienta diseño</dc:subject>
+    <dc:subject>femm</dc:subject>
+    <dc:subject>otave</dc:subject>
+    <dc:subject>Máster Universitario en Energías Renovables y Eficiencia Energética</dc:subject>
+    <dc:title>Herramienta para el diseño de rodamientos magnéticos axiales</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

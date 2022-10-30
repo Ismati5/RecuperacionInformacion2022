@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Dufo López, Rodolfo</dc:contributor>
+    <dc:creator>Jaime Anadón, Félix</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>El objetivo de este trabajo ha sido la evaluación técnica, legal y económica del modelo de autoconsumo regulado actualmente en España y de otros modelos que pudieran ser más beneficiosos para el consumidor. Se ha analizado el Real Decreto vigente en materia de autoconsumo con objeto de conocer bien las condiciones que aplicarían en caso de colocar una instalación fotovoltaica para autoconsumo por parte de un pequeño consumidor y se ha comparado con el primer borrador de este decreto que establecía un modelo muy diferente: el balance neto. A través del software iHOGA se han simulado los diferentes modelos propuestos, para una serie de condiciones económicas y variaciones de los factores relevantes en este tipo de instalaciones,como son el interés del mercado, la inflación, el precio de los componentes o la potencia instalada, con el propósito de evaluar la posibilidad de viabilidad real de las instalaciones fotovoltaicas. Además, se han comentado las opciones en materia de autoconsumo que existen en dos de los países mejor posicionados en el sector de la fotovoltaica a nivel mundial: Alemania y Estados Unidos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/60480</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/60480/files/TAZ-TFM-2016-1014_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/60480/files/TAZ-TFM-2016-1014.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Industrial</dc:subject>
+    <dc:title>Análisis de las posibilidades de conexión de generadores fotovoltaicos a la red eléctrica en autoconsumo</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Analysis of the different types of grid-connected photovoltaic systems under self-consumption scheme</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sequeira Villarreal, Luis</dc:contributor>
+    <dc:contributor>Ruiz Mas, José</dc:contributor>
+    <dc:creator>Cruz Cuevas, Juan Luis de la</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>En empresas, centros comerciales y campus universitarios, el despliegue de una red Wi-Fi con un conjunto de puntos de acceso coordinados se está convirtiendo en una solución común para proveer de acceso a Internet a los usuarios. Los servicios que utilizan estos usuarios son muy variados, y además se deben suministrar tanto a usuarios estáticos como móviles con la calidad suficiente. El Proyecto Wi-5 propone una plataforma que, usando conceptos de SDN y puntos de acceso inteligentes, logre hacer un uso más eficiente de los recursos disponibles. Dentro de este contexto, los objetivos de este trabajo han consistido en optimizar aspectos de funcionamiento de la plataforma aparte de añadir funcionalidades de monitorización y control del sistema. Para ello se ha revisado el código y realizado mejoras sustanciales e implementaciones de dichas funcionalidades. Para validar las mejoras se han efectuado un conjunto de experimentos variando parámetros de la configuración. De estos experimentos se ha llegado a una solución válida para cualquier tipo de servicio, incluso aquellos servicios de tiempo real con determinados requerimientos de calidad, aplicable a una gran variedad de dispositivos (portátiles, móviles, PC...), sin perder el enfoque en la escalabilidad del sistema. En concreto, se ha conseguido un mecanismo de traspaso de clientes entre los puntos de acceso, de forma transparente al usuario. Además, queda patente que el tipo de servicios coexistentes en un punto de acceso debe ser tenido en cuenta a la hora de ejecutar algoritmos de gestión de recursos en la red, con el fin de proveer una mejor calidad de servicio. Estos avances podrán ser considerados para el diseño de redes Wi-Fi inalámbricas con múltiples puntos de acceso.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61138</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingeniería Telemática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61138/files/TAZ-TFG-2016-3641.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías y Servicios de Telecomunicación</dc:subject>
+    <dc:title>Optimización de una infraestructura de red basada en Smart APs</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Optimization of Smart APs based Network infraestructure</dc:title>
+</oai_dc:dc>

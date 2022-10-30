@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Borque Fernando, Ángel</dc:contributor>
+    <dc:creator>Pascual Regueiro, Daniel</dc:creator>
+    <dc:date>2008</dc:date>
+    <dc:description>Hemos generado un modelo predictivo, nomograma, basado en variables clínico - patológicas en el carcinoma de células renales, tras la cirugía con intención curativa y sin enfermedad residual, basándonos en 274 pacientes tratados con nefrectomía en el Hospital Universitario Miguel Servet de Zaragoza, (años 1985 2004). Variables estudiadas: sexo, edad, hematocrito y hemoglobina según sexo, hábito tabáquico, motivo de consulta, tamaño tumoral, estadio, invasión suprarrenal, localización, técnica quirúrgica, tipo celular, grado de Fuhrman, invasión microscópica de cápsula, vasos, linfáticos, o vía urinaria, y necrosis. Variable resultado: cualquier tipo de progresión. Se calculan: curvas de Kaplan-Meyer y regresión uni y multivariante de Cox. Tasa de progresión: 12,1% (33/274). Mediana de seguimiento, 4,40 años. Tiempo mediano hasta progresión: 1,99 años. Factores pronósticos que componen el modelo predictivo definitivo: Hábito tabáquico, hematuria macroscópica, tamaño tumoral &gt; 6,5 cm., pT3, tipo sarcomatoide, edad &gt; 55 años. Calibración (Shrinkage 0,81), discriminación (C-índex Gönen-Heller 0,73). </dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/1896</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Cirugía, Ginecología y Obstetricia</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/1896/files/TUZ_0007_pascual_01.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>modelos de riesgos proporcionales</dc:subject>
+    <dc:subject>pronóstico</dc:subject>
+    <dc:subject>carcinoma de células renales</dc:subject>
+    <dc:subject>nomograma</dc:subject>
+    <dc:title>Carcinoma de células renales. Modelo predictivo de progresión</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Murillo Arnal, Ana Cristina</dc:contributor>
+    <dc:creator>Rituerto Sin, Jorge</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El procesado automático de imágenes y secuencias de imágenes es una necesidad que aparece por la gran cantidad de información que se puede recopilar actualmente en forma de imágenes y vídeos. El tratamiento manual de tal cantidad de información resulta imposible. Este trabajo se centra en la detección y clasificación de objetos y/o regiones de interés en secuencias de imágenes tomadas en ambientes de interior. La idea es que el procesado de las secuencias se realice de manera semiautomática, el usuario solo actúa sobre la primera imagen de la secuencia, procesándose las demás de un modo autónomo.\\ En particular, este trabajo se centra en el procesado automático de secuencias de interiores adquiridas por un robot móvil. En este entorno, el tipo de regiones y objetos que vamos a detectar son: regiones características principales para la navegación en secuencias de interior, como suelo, pared y techo; objetos importantes para la navegación, como puertas; el resto de objetos que pertenezcan a otras clases han sido asociados a un grupo genérico.\\ Para el procesamiento automático de una secuencia, se han desarrollado los siguientes módulos partiendo de un proceso base inicial, respecto del cual todos los pasos han sido rediseñados para mejorar los resultados: Segmentación de las imágenes; descripción de cada segmento; estudio de posibles descriptores de las características de cada uno de los segmentos que forman la imagen. Los descriptores se pueden dividir en cuatro grandes grupos: de color, textura, forma y posición; modelado de las regiones a detectar; cada uno de los segmentos que forman la imagen es comparado con los grupos que componen el modelo y se estima la probabilidad que tiene cada segmento de pertenecer a cada una de las regiones u objetos a detectar. Finalmente, el procesado de cada fotograma, incluye un filtrado que tiene en cuenta tanto la probabilidad de cada segmento de pertenecer a un objeto/región como la relación de el segmento con los segmentos vecinos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5573</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5573/files/TAZ-PFC-2011-025_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5573/files/TAZ-PFC-2011-025.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>inteligencia artificial</dc:subject>
+    <dc:subject>visión por computador</dc:subject>
+    <dc:subject>segmentación de imágenes</dc:subject>
+    <dc:subject>reconocimiento</dc:subject>
+    <dc:subject>clasificadores</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Reconocimiento automático de áreas de interés en secuencias de interiores</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

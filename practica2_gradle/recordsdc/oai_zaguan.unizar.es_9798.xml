@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Romeo Tello, Antonio</dc:contributor>
+    <dc:creator>Otal Loriente, Rubén</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>En el presento proyecto se pretende llevar a cabo el modelado, análisis y control de un sistema térmico. En primer lugar se llevará a cabo el modelado y análisis de un sistema térmico que se denominará vivienda. Se pretende modelar una vivienda típica española a través de las ecuaciones de la física que describen su comportamiento como sistema térmico. Se usarán técnicas de la teoría de sistemas, implementando esas ecuaciones en bloques y disponiendo un diagrama de bloques con el que se analizará el comportamiento del mismo. Se comenzará con un modelo más simple hasta llegar al modelo más realista con el que se realizará la segunda parte: análisis y control del mismo. Para analizar el comportamiento del sistema, se realizarán distintas simulaciones variando todos los factores que influyen en el comportamiento del mismo: calidad de los aislantes de la vivienda, condiciones exteriores (viento y temperatura) temperatura del agua de los radiadores, tipo de control de la misma, etc. Para que este análisis sea lo más objetivo posible se usará un índice de confort diseñado especialmente para este proyecto y se observará el gasto energético en las distintas simulaciones.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9798</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9798/files/TAZ-PFC-2012-774_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/9798/files/TAZ-PFC-2012-774.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>modelado</dc:subject>
+    <dc:subject>control</dc:subject>
+    <dc:subject>análisis</dc:subject>
+    <dc:subject>sistema</dc:subject>
+    <dc:subject>térmico</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electrónica Industrial)</dc:subject>
+    <dc:title>Modelado + Análisis + Control de Sistema Térmico</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

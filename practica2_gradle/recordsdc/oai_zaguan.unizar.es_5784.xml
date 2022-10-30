@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gurauskis, Jonas</dc:contributor>
+    <dc:contributor>Laguna Bercero, Miguel Ángel</dc:contributor>
+    <dc:contributor>Peña Torre, José Ignacio</dc:contributor>
+    <dc:creator>Beltrán López, Jesús Francisco</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Este proyecto se inicia con una fase de documentacin previa, tras la cual, partiendo de una receta basada en los trabajos previos de J. Gurauskis para la suspension precursora de la cerámica que conforma el ánodo, se optimizan una serie de suspensiones estables de NiO y circona estabilizada con 8% mol de itria (8YSZ) que permitan un buen procesado posterior por colaje en cinta o tape-casting. El proceso básico y los tiempos de molienda, sinterización y reducción, se toman directamente de la experiencia del director del proyecto. El proceso básico se ajusta en base a los resultados que se van obteniendo durante el desarrollo del trabajo de laboratorio. Se fabrican láminas de cerámica en verde con las composiciones seleccionadas, por el proceso de colaje en cinta o tape-casting, y se procede a la preparación de muestras. Algunas de estas muestras se sinterizan y, de éstas, algunas se reducen en atmósfera de hidrógeno para realizar posteriormente ensayos de resistencia mecánica a flexión y densitometría por el método Arquímedes. Con los resultados obtenidos, se toman nuevas láminas en verde para realizar ensayos de laminado en frío con distintos grados de compresión, realizando estructuras tipo "sandwich", que despues de ser sinterizadas y reducidas, y por último se preparan para realizar su caracterización microestructural mediante microscopía electrónica. De este modo, se verifica si la técnica de laminado en frío puede proporcionar estructuras con una buena unión entre las distintas capas utilizadas. Para finalizar, se procede a la fabricación de ánodos, que se caracterizarán mediante microscopía óptica y mediante la medida de su resistividad eléctrica. Asimismo, se realizan una serie de pruebas para establecer pautas con vistas a la mejora del ánodo fabricado.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5784</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Ciencia de los Materiales e Ingeniería Metalúrgica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5784/files/TAZ-PFC-2011-207.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5784/files/TAZ-PFC-2011-207_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>sofc</dc:subject>
+    <dc:subject>pilas de combustible</dc:subject>
+    <dc:subject>membrana</dc:subject>
+    <dc:subject>ánodo</dc:subject>
+    <dc:subject>cerámica</dc:subject>
+    <dc:subject>cermet</dc:subject>
+    <dc:subject>tape-casting</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Fabricación de ánodos para membranas cerámicas soportadas en ánodo, para pilas de combustible de óxido sólido</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

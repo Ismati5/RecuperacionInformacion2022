@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Zueco Láinez, David </dc:contributor>
+    <dc:creator>Esteras Córdoba, Dorye Luis</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>Este trabajo se basa esencialmente en el uso de un ordenador cuántico real, a través de IBM Quantum Experience, para obtener resultados que permitan analizar las capacidades de los mismos. El estudio de los procesos de decoherencia permite entender las principales causas de error de los ordenadores, que es sin duda el principal problema que tiene esta tecnología para ser implementada.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76803</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física de la Materia Condensada; Área de Física de la Materia Condensada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76803/files/TAZ-TFG-2018-3072.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Física</dc:subject>
+    <dc:title>Algoritmos Cuánticos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Quantum Algorithms</dc:title>
+</oai_dc:dc>

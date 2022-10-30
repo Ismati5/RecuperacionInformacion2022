@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Galbán Bernal, Francisco Javier</dc:contributor>
+    <dc:creator>Domínguez Álvarez, Roberto Ignacio</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>The determination of Cholesterol is very important in the area of clinical analysis. Cholesterol is transported by the blood into the HDL and LDL lipoproteins with free Cholesterol and  esterified Cholesterol from the liver to the cells. With high concentrations can lead to cardiovascular diseases because can be added to the arterial walls. The analytical method is through fluorescence during the enzymatic reaction thanks to the characteristics of the active FAD center of Cholesterol Oxidase. Free Cholesterol is soluble in organic solvents and with surfactants in aqueous phase. Testing with all the different solvents, finally was chosen Acetone with mixed phases. Kinetic conditions are performed in the excitation and emission maxims, 450 and 525 nm respectly. The reproducibility of the analytical method has a relative standard deviation of 7.22%. With the chosen analytical method, it was optimized with different pH, concentrations of Cholesterol Oxidase and buffer, choosing as best results. [COD] = 0.76 U/mL with Tris-HCl 50 mM pH= 7 buffer. This method can be used in the future for the development of the biosensor.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64096</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Analítica; Área de Química Analítica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64096/files/TAZ-TFG-2017-3180.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/64096/files/TAZ-TFG-2017-3180_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Química</dc:subject>
+    <dc:title>Desarrollo de un biosensor óptico enzimático para la determinación de Colesterol en muestras biológicas</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Development of an optic enzimatic biosensor for the determination of Cholesterol in biological samples</dc:title>
+</oai_dc:dc>

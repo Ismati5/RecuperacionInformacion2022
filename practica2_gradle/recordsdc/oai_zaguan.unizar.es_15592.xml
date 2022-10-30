@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Llombart Estopiñán, Andrés</dc:contributor>
+    <dc:creator>Sáez-Benito Díaz, Félix</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El objetivo principal de este estudio es analizar la influencia de la temperatura sobre las lecturas ofrecidas por los anemómetros de cazoletas. Para realizar este análisis, se ha contado con los registros tomados durante un año de una torre meteorológica y dos aerogeneradores, ambos provistos de sensores para caracterizar el viento del emplazamiento. Se realizaron análisis comparativos de los resultados ofrecidos por el anemómetro de cazoletas para cada sector de temperaturas, debido a que teóricamente es el más expuesto a este parámetro. También se estudiaron los efectos producidos en la curva de potencia de los aerogeneradores. Los resultados ofrecen una clara dependencia de este parámetro, mostrándose ordenadamente según su clasificación. Las temperaturas frías obtendrían una tendencia positiva, donde las lecturas de velocidad del anemómetro de cazoletas serían más rápidas que la media de los registros. Contrariamente, las lecturas de viento para temperaturas cálidas mostrarían una tendencia negativa en sus registros. Actualmente, esta variable es muy relevante y tenida en cuenta en los ensayos de calibración de los anemómetros. La prueba de ello se recoge en este informe donde se detalla su afección sobre dichos sensores.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/15592</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/15592/files/TAZ-TFM-2014-441.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>anemómetro de cazoletas</dc:subject>
+    <dc:subject>densidad</dc:subject>
+    <dc:subject>curva de potencia</dc:subject>
+    <dc:subject>Máster Universitario en Energías Renovables y Eficiencia Energética</dc:subject>
+    <dc:title>Análisis sobre influencia de la temperatura y densidad en los anemómetros de cazoletas</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

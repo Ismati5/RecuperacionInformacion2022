@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Maza Frechín, Mario</dc:contributor>
+    <dc:creator>Montañés Solana, Alfonso</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Este trabajo fin de máster tiene como objetivo estudiar la integración de un vehículo eléctrico con un mini-aerogenerador en una vivienda, y comprobar si es posible suministrar toda la energía consumida por el primero con un aparato de no muy elevada potencia y coste. Primeramente se estudia la situación económica actual para justificar esta necesidad futura, que con el paso de los años y debido a la fuerte dependencia del petróleo se hará presente.  Una vez puestos en situación, se empieza analizando el vehículo eléctrico, sus características principales. Se obtiene información de los motores, transmisión, baterías…, etc., y el estado actual de este tipo de vehículos en el mercado. Con la información documentada, se pasa a definir un vehículo eléctrico que cuente con características similares a lo que hoy en día existe en el mercado (bajos coef. aerodinámicos y de rodadura, potencias contenidas, buenas prestaciones…). El siguiente paso consiste en la realización del cálculo de la energía consumida por este vehículo eléctrico. Para ello, y una vez conocidas las características, se estudian las resistencias que se oponen al avance (aerodinámica, rodadura, fuerza de inercia…) y los ciclos estandarizados de conducción (en Europa el New European Driving Cicle o NEDC) con los que se calculan los consumos de los vehículos. Con ellos y realizando una análisis energético se obtiene la energía consumida por el vehículo definido que se estima entorno a los 170 Wh/km. En la siguiente fase se realiza un pequeño estudio, en base a los km/año que hacen los conductores españoles, del consumo anual que se tendría con este vehículo definido, y la comparación con sus homólogos de gasolina y gasóleo. Estimada la energía que consumiría un vehículo eléctrico, se pasa al estudio de los aerogeneradores, donde se donde se obtiene información de sus generalidades y se realiza una justificación del porque en este caso es conveniente utiliza mini-aerogeneradores, y más exactamente mini-aerogeneradores de eje vertical. Se seleccionan una serie de mini-aerogeneradores de distintas potencias, y a partir de sus curvas de potencia y los datos de viento de una localización determinada, se realiza una estimación de la producción de energía anual. Por último se realiza un estudio un estudio comparativo y de viabilidad económica de donde se obtienen las conclusiones finales.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6714</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería e Infraestructura de los Transportes</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6714/files/TAZ-TFM-2011-116.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>estudio</dc:subject>
+    <dc:subject>integración</dc:subject>
+    <dc:subject>energética</dc:subject>
+    <dc:subject>energía</dc:subject>
+    <dc:subject>vehículo eléctrico</dc:subject>
+    <dc:subject>instalaciones de mini eólica</dc:subject>
+    <dc:subject>viviendas</dc:subject>
+    <dc:subject>mini</dc:subject>
+    <dc:subject>aerogenerador</dc:subject>
+    <dc:subject>Máster Universitario en Sistemas Mecánicos</dc:subject>
+    <dc:title>Estudio de integración energética del vehículo eléctrico con instalaciones de mini eólica en viviendas</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

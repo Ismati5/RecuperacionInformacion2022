@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Schoorlemmer, Jon</dc:contributor>
+    <dc:contributor>Macías Redondo, Sofía</dc:contributor>
+    <dc:creator>Martínez Santolaria, María</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>La esclerosis múltiple o EM es una enfermedad crónica inflamatoria desmielinizante. Entre los factores que se cree que participan en su etiología se encuentran los retrovirus endógenos humanos (HERVs), que son restos de retrovirus que infectaron la línea germinal y se integraron en el genoma humano. HERV-W/MSRV (Multiple sclerosis associated retrovirus) es el retrovirus más asociado a la enfermedad. La expresión de MSRV ENV está elevada en sangre y lesiones cerebrales de pacientes con esclerosis múltiple. Esta expresión puede estar controlada por los niveles de metilación del DNA, razón que motivó su análisis. La mayor parte de los estudios se han realizado en células mononucleares de sangre periférica. Sin embargo, la esclerosis múltiple afecta al sistema nervioso central, motivo por el que interesa obtener células como las neuronas para realizar los estudios en ellas. La diferenciación de las células madre embrionarias humanas (hESCs) a través de un protocolo basado en cuerpos embrioides (EBs) permitió la obtención de los precursores neuronales lt-NES (long term neuroepithelial stem cells). Durante la diferenciación, se observó un cambio morfológico en las células y la aparición de rosetas, indicadoras de la inducción neuronal. Se redujo la expresión de los marcadores de pluripotencia OCT4 y REX1, y se incrementó la de PAX6 y SOX1. Las células hESCs se trataron de adaptar a medio condicionado proveniente de fibroblastos embrionarios de ratón (MEFCM). No se consiguió una adaptación completa a este medio, pero sí hasta el 75%, con un mantenimiento de la expresión de los marcadores de pluripotencia OCT4 y REX1. La hipermetilación de HERV-W/MSRV en los tipos celulares analizados (hESCs, EBs (D5), precursores neuronales (NSC) y neuronas dopaminérgicas) fue muy similar, con valores superiores al 80% a nivel global. Estudios que refuercen los resultados obtenidos y busquen posibles diferencias bajo condiciones patológicas de la enfermedad serán interesantes en un futuro.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/63655</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/63655/files/TAZ-TFM-2017-908.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster en Biología Molecular y Celular</dc:subject>
+    <dc:title>Estudio de los cambios epigenéticos en esclerosis múltiple: La metilación de retrovirus endógenos humanos (HERV-W)</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Study of epigenetic changes in Multiple Sclerosis: Methylation of human endogenous retroviruses (HERV-W)</dc:title>
+</oai_dc:dc>

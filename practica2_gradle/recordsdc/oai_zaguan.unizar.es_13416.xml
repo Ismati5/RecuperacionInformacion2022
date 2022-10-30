@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Benedí Sánchez, Octavio</dc:contributor>
+    <dc:contributor>Ruiz Mas, José</dc:contributor>
+    <dc:creator>Lardiés Sánchez, Iván</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>En los últimos años, el considerable aumento en el ancho de banda requerido por diferentes aplicaciones, en especial el vídeo de alta calidad, ha hecho necesario el despliegue de redes FTTH (Fiber to the home) basadas en fibra óptica hasta el hogar del usuario. Esto es extensible a los sistemas de seguridad, ya que desde la aparición de las cámaras de alta definición, el ancho de banda consumido por las redes de videovigilancia ha aumentado considerablemente, lo que hace conveniente pensar en la implementación de una red basada en fibra óptica con capacidad de gigabit.  Este proyecto fin de carrera trata de desarrollar e implementar una red IP de seguridad basada en tecnología FTTH-GPON (Gigabit-capable Passive Optical Network), aprovechando todas las ventajas que proporciona la transmisión por fibra óptica hasta el terminal de abonado, tanto en términos de ancho de banda como en la seguridad de los datos.  FTTH proporciona una red punto a multipunto sin componentes activos entre la central y el abonado, permitiendo que múltiples abonados compartan una misma conexion formando una red óptica pasiva P2MP (Point-to-MultiPoint). El estándar GPON permite velocidades de hasta 2.48 Gbps en descendente y 1.24 Gbps en ascendente, y una relación de división teórica de 1:128. Además dispone de un modelo de gestión y control, denominado OMCI (ONT Management and Control Interface), encargado de la configuración de los equipos de usuario. En el desarrollo de un sistema de seguridad resulta especialmente importante capturar de manera continuada alarmas y otro tipo de información proveniente de los equipos para facilitar la detección de posibles averías o incidentes, pensando en la seguridad física y lógica de la red. Para ello contamos con una arquitectura de gestión centralizada llamada TELNET GPON Management System o TGMS, en la que se desarrollarán nuevos módulos específicos destinados a la gestión de alarmas que permitan detectar variaciones en los parámetros físicos y lógicos de la red. Con estos módulos adicionales se pretende dotar al sistema de una mayor seguridad frente a sabotajes o intrusiones en la red.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/13416</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingeniería Telemática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/13416/files/TAZ-PFC-2014-064.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/13416/files/TAZ-PFC-2014-064_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>ftth</dc:subject>
+    <dc:subject>gpon</dc:subject>
+    <dc:subject>videovigilancia</dc:subject>
+    <dc:subject>red de seguridad</dc:subject>
+    <dc:subject>g.984</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicación</dc:subject>
+    <dc:title>Estudio, desarrollo e implementación de una red IP de seguridad mediante el uso de redes ópticas pasivas y tecnologías GPON</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

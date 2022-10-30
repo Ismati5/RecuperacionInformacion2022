@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Monzón Bescós, Antonio</dc:contributor>
+    <dc:creator>Ramírez Galilea, Adrián</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El proyecto fin de carrera que se describe a continuación se enmarca dentro del proyecto de investigación "Desarrollo de nanohíbridos tipo Me-NTC-Soporte para nuevos procesos catalíticos de transferencia de fase". Uno de los objetivos del proyecto de investigación es el modelado del sistema catalítico de reacción "nanohíbrido-emulsión" en reactores semicontínuos de mezcla perfecta. Como reacción test se ha elegido el refino catalítico de los líquidos procedentes de la pirolisis de la biomasa. Más en concreto, se ha estudiado la hidrogenación de la vainillina en una emulsión agua-decalina tipo “pikering” (i.e. estabilizada por partículas sólidas) formada por nanohíbridos Me-NTC-Soporte. Estas partículas sólidas, además de favorecer la formación de la emulsión, actúan como catalizador selectivo en la reacción test seleccionada. El objetivo principal de este PFC es desarrollar un modelo matemático que describa los fenómenos de transferencia de materia que ocurren en las reacciones descritas anteriormente.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/7972</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Ingeniería Química</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/7972/files/TAZ-PFC-2012-372.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/7972/files/TAZ-PFC-2012-372_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>emulsiones</dc:subject>
+    <dc:subject>nanohíbridos</dc:subject>
+    <dc:subject>transferencia materia</dc:subject>
+    <dc:subject>bio-oil</dc:subject>
+    <dc:subject>catalizadores</dc:subject>
+    <dc:subject>nanotubos de carbono</dc:subject>
+    <dc:subject>Ingeniero Químico</dc:subject>
+    <dc:title>Determinación de coeficientes de transferencia de materia en emulsiones estabilizadas por nanohíbridos tipo NTC/Soporte</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

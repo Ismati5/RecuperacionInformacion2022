@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Piper, Emil</dc:contributor>
+    <dc:contributor>López Pérez, José María</dc:contributor>
+    <dc:creator>Martínez Andrés, Jorge Pascual</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>This project outlines the development of a displacement measuring system for walls displacement. It can be also easily adapt to deal with wide range of other types of measurements. The goal of this project is to build a working prototype of a measuring device. The heart of the project is the three-dimensional accelerometer sensor, supported by evaluation board with microcontroller and the LCD display. In general, the system includes physical sensor, signal processing unit and a display. It might also be extended by data acquisition circuit, additional sensors and PC interface with the dedicated software. The system will be built from commercially available components. In this paper the matters of constructing the embedded system, designed to perform presented above function is described. The paper discusses issues of hardware and software layers and project itself, as well as schedule for possible next steps. In the "project status" paragraph actual work which has already been done is presented. This report is written to give the reader an overview over project, as well as, a clear project status and future plans.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5527</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5527/files/TAZ-PFC-2011-001.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>displacement</dc:subject>
+    <dc:subject>measuring</dc:subject>
+    <dc:subject>xyz</dc:subject>
+    <dc:subject>accelerometer</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electricidad)</dc:subject>
+    <dc:title>Displacement measuring using the XYZ accelerometer sensor</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

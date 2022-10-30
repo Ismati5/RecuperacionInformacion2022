@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Subías Domingo, Jesús Mario</dc:contributor>
+    <dc:creator>Urizar Ursua, María Pilar</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Este trabajo ha consistido en el estudio de sistemas de sensado distribuído basados en la retrodifusión Rayleigh mediante el desarrollo de un sistema prototipo para detección y localización perimetral empleando la fibra óptica como sensor acústico.  Para ello se ha realizado un primer estudio sobre el fenómeno físico en el que se basa el sistema desarrollado: la interacción luz-materia en el núcleo de la fibra.  A continuación se ha propuesto como sistema básico de medida un esquema del tipo Phase-OTDR analizando los puntos críticos que puede encontrar. Entre ellos destaca el análisis realizado sobre el modo de detección, acompañado resultados obtenidos tanto teóricamente como experimentalmente.  Finalmente se presenta el esquema del sistema prototipo desarrollado junto con una serie de medidas que verifican su viabilidad para detección perimetral, y el inicio de un estudio sobre la optimización de las condiciones de medida.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/65179</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Aplicada; Área de Física Aplicada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/65179/files/TAZ-TFG-2017-2020.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Física</dc:subject>
+    <dc:title>Estudio de un sistema prototipo para detección y localización perimetral basado en la fibra óptica como sensor acústico.</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Study of a prototype sistem for perimeter detection and localization using fiber as an acustic sensor.</dc:title>
+</oai_dc:dc>

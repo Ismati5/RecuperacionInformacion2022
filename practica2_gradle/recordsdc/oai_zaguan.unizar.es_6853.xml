@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Cascán Fernández, José</dc:contributor>
+    <dc:contributor>Muro-Medrano, Pedro R.</dc:contributor>
+    <dc:creator>Martínez Rodríguez, Sergio</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El objetivo de este PFC es el desarrollo de una aplicación para dispositivos móviles sobre plataforma Android que se encargue de la gestión de cuadernos de viaje creados por usuarios y su posterior sincronización en la cuenta del usuario dentro de una plataforma web turística. Un cuaderno de viaje consiste en el diario de viaje de un usuario, formado por las diferentes jornadas que dura el viaje, y con la posibilidad de recopilar elementos multimedia y recursos turísticos obtenidos durante dicho viaje.  La creación del cuaderno está pensada para realizarla antes del viaje, sirviendo como herramienta de planificación, durante el viaje, captando las distintas experiencias del usuario, o tras el viaje, como herramienta de recopilación a modo de guía. La aplicación está pensada para no depender de conexión a Internet durante la duración del viaje. Además, dispone al alcance del usuario un mapa global donde poder geolocalizar su posición, elementos multimedia, lugares visitados, etc. Por último, la aplicación consta con el respaldo de un portal web turístico con una comunidad de usuarios con los que compartir las experiencias de viaje en formas de cuaderno y los recursos turísticos más atractivos a visitar en la zona.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6853</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6853/files/TAZ-PFC-2012-019.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>aplicación móvil</dc:subject>
+    <dc:subject>android </dc:subject>
+    <dc:subject>turismo </dc:subject>
+    <dc:subject>servicios basados en localización</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Aplicación móvil Android para cuadernos de viaje turísticos sincronizada con plataforma web</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bono Nuez, Antonio</dc:contributor>
+    <dc:creator>Cuadra Giménez, Antonio Javier</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>Como proyecto final de carrera he diseñado un Cargador de Baterías, para la carga de los elementos de las baterías de Ácido-Plomo. El objetivo era un rectificador industrial capaz de suministrar 10 amperios a 72 elementos de 3 voltios cada uno, es decir, 216 voltios. He reducido las prestaciones del proyecto con el fin de que resultase más económico utilizando todos los recursos que ya había disponibles en el laboratorio, tales como fuentes de alimentación o las tarjetas empleadas en prácticas de microprocesadores como los módulos pantalla LCD y el teclado. El diseño final de la maqueta realizada es un Convertidor Conmutado regulado por intensidad de 1 amperio para baterías de 12 voltios cada una.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5144</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5144/files/TAZ-PFC-2010-215.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5144/files/TAZ-PFC-2010-215_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Cargador de baterías</dc:subject>
+    <dc:subject>Electrónica de potencia</dc:subject>
+    <dc:subject>Microprocesadores</dc:subject>
+    <dc:subject>Microcontroladores</dc:subject>
+    <dc:subject>Convertidores conmutados</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electrónica Industrial)</dc:subject>
+    <dc:title>Cargador de baterías</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

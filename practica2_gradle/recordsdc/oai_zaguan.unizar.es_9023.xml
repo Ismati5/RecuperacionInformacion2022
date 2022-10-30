@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Fernández Silva, Patricio</dc:contributor>
+    <dc:contributor>Meade Huerta, Patricia</dc:contributor>
+    <dc:creator>Blan Sanmartín, Cristina</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>La proteína AOX como terapia génica para enfermedades mitocondriales. Las mitocondrias son orgánulos subcelulares cuya función principal es la generación de ATP a través del sistema de fosforilación oxidativa OXPHOS; sin embargo, éste no es el único papel de las mitocondrias, ya que participan en numerosas rutas metabólicas, intervienen en procesos intracelulares y generan la mayor parte de las especies reactivas de oxígeno (ROS). Las enfermedades causadas por defectos en los genes del sistema OXPHOS, están catalogadas como enfermedades raras y actualmente no existen tratamientos eficaces para tratar estas enfermedades, por lo que entre los posibles tratamientos que se están investigando está el uso de terapia génica para tratar las enfermedades mitocondriales. El grupo GENOXPHOS, en el cual he realizado el proyecto Máster, ha desarrollado un modelo de ratón knock-in para la proteína AOX, bajo la influencia del promotor Rosa26 que hace que su expresión sea constitutiva y ubicua. Dicha proteína está presente en plantas y algunos eucariotas inferiores pero ausente en mamíferos y su expresión es capaz de revertir en células en cultivo un fenotipo defectuoso causado por fallos OXPHOS, por lo que su expresión en modelos animales con mutaciones en los complejos III y IV de la cadena de transporte electrónico mitocondrial podría paliar los efectos fenotípicos de la mutación en los descendientes. En este proyecto se ha propuesto completar el análisis de los ratones knock-in y ensayar in vivo la terapia génica basada en la xenoexpresión y se ha demostrado que dicha proteína, se puede expresar en células de mamíferos, se dirige a la mitocondria y además es funcional. Estos resultados nos llevan a pensar que AOX puede tener una posible utilidad terapéutica en las enfermedades mitocondriales.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9023</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9023/files/TAZ-TFM-2012-782.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Biología Molecular y Celular</dc:subject>
+    <dc:title>La proteína AOX como terapia génica para enfermedades mitocondriales</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

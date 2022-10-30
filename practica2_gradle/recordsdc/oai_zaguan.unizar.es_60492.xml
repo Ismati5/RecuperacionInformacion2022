@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Artigas Maestre, José Ignacio</dc:contributor>
+    <dc:creator>Marco Artigas, Adrián</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>El conocimiento de nuevas técnicas por parte de los estudiantes y futuros ingenieros es fundamental para que puedan desenvolverse de una manera más cómoda y eficiente en su futuro como diseñadores hardware. La presentación de las nuevas técnicas y recursos durante la fase de estudios son clave para  abordar este planteamiento. Este trabajo se centra en la exploración de alternativas actuales de implementación para un controlador en VHDL. Se trata de explorar nuevas opciones y recursos actuales que las nuevas herramientas de desarrollo incorporan para facilitar el trabajo al diseñador. Como base se han tenido en cuenta varios artículos de investigación, elaborados por profesores de la escuela, en los que estas alternativas habían sido planteadas. Para la realización del trabajo se ha utilizado la implementación del control de un convertidor electrónico de potencia Buck. Este controlador, que será implementado sobre una FPGA, ha sido diseñado de varias maneras. Primero, se ha utilizado la técnica tradicional con el planteamiento de las operaciones coma fija. Con ayuda de librerías de coma fija y coma flotante se han desarrollado versiones adicionales. Gracias a los bloques IP de coma flotante se ha realizado una alternativa a la librería float. Por último, se ha implementado el controlador en un microcontrolador que puede ser embebido dentro de la FPGA, haciendo posible la programación de las operaciones utilizando código C.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/60492</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/60492/files/TAZ-TFM-2016-869.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Electrónica</dc:subject>
+    <dc:title>Alternativas de implementación de un controlador digital en FPGA para un convertidor Buck en prácticas de laboratorio</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Alternatives for implementation of a digital controller in FPGA for a Buck converter in laboratory exercises</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Martínez Cantín, Rubén</dc:contributor>
+    <dc:contributor>Valero García, José Miguel</dc:contributor>
+    <dc:creator>Muñoz Fernández, Mario</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Diseño y configuración de un aula de aprendizaje Windows Server 2012 aprovechando la característica de virtualización. Un servidor principal alberga los servidores virtualizados de los alumnos, las licencias de los cuales van incluidas en la edición Windows Server 2012 R2 Datacenter. De este modo, solo es necesario pagar una licencia de Windows Server 2012. Cada alumno dispone de un cliente liviano para ejecutar remotamente su servidor virtual.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/30711</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/30711/files/TAZ-TFG-2014-2204.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>windows server 2012</dc:subject>
+    <dc:subject>virtualización</dc:subject>
+    <dc:subject>máquina virtual</dc:subject>
+    <dc:subject>hyper-v</dc:subject>
+    <dc:subject>cliente liviano</dc:subject>
+    <dc:subject>aula virtual</dc:subject>
+    <dc:subject>servidor virtualizado</dc:subject>
+    <dc:subject>thin client</dc:subject>
+    <dc:subject>Graduado en Ingeniería de Organización Industrial</dc:subject>
+    <dc:title>Proyecto de un aula basada en Windows Server 2012</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

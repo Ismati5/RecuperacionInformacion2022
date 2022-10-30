@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Marzo Rubio, Isabel</dc:contributor>
+    <dc:contributor>Naval Iraberri, José Javier</dc:contributor>
+    <dc:creator>Ene Ordorica, Manuel</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>El mieloma múltiple es un tipo de cáncer hematológico caracterizado por la proliferación maligna y acumulación de células B plasmáticas en la médula ósea. Aunque las nuevas terapias han mejorado de manera significativa la tasa de supervivencia de los pacientes, el mieloma múltiple sigue siendo una enfermedad incurable.&lt;br /&gt;Mcl-1 es una proteína multidominio antiapoptótica de la familia de las proteínas Bcl-2 que se encuentra frecuentemente sobreexresada en múltiples tumores, incluyendo el mieloma múltiple. Por esto, Mcl-1 podría ser una diana terapéutica para el tratamiento del mieloma. Por otra parte, entre las nuevas estrategias terapéuticas en desarrollo se encuentran los inhibidores de quinasas dependientes de ciclinas (Cdks), las cuales juegan un papel importante en la regulación de la progresión del ciclo celular y en otros procesos, como la transcripción. En este contexto, se ha descrito una molécula conocida como dinaciclib que actúa como inhibidor de varias Cdks. La inhibición de Cdk9 provoca una regulación negativa de la transcripción de proteínas de vida media corta, como Mcl-1, disminuyendo su expresión e induciendo apoptosis.&lt;br /&gt;En el presente Trabajo Fin de Grado se ha pretendido generar una línea de mieloma múltiple que sobreexpresara dicha proteína antiapoptótica. De esta manera, se podría disponer de un modelo celular de resistencia a la apoptosis in vitro para estudiar el efecto de posibles fármacos anti-tumorales cuya diana sea esa proteína. Los resultados obtenidos en este trabajo sugieren que la sobreexpresión de Mcl-1 disminuye los niveles de apoptosis inducidos por el dinaciclib. &lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87455</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Bioquímica y Biología Molecular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87455/files/TAZ-TFG-2019-2566.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/87455/files/TAZ-TFG-2019-2566_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Biotecnología</dc:subject>
+    <dc:title>Generación de una línea transfectante de mieloma múltiple humano que sobreexprese la proteína antiapoptótica Mcl-1</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Generation of a human multiple myeloma transfectant line that overexpresses the antiapoptotic protein Mcl-1</dc:title>
+</oai_dc:dc>

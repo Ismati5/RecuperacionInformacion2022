@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>López Nicolás, Gonzalo </dc:contributor>
+    <dc:contributor>Aragüés Muñoz, Rosario</dc:contributor>
+    <dc:creator>Poma Paqui, Josué David</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>La aplicación de conceptos físicos y matemáticos sobre robots reales en el ámbito universitario puede verse impedida ya sea por temas de coste como por seguridad. Entonces se optará por robots de bajo coste económico. Se adquirirá dos brazos robóticos, PhantomX Pincher de 4 grados de libertad (GDL) para trabajar en un sistema multi-robot. &lt;br /&gt;Tras su montaje, desarrollaremos el modelado geométrico de nuestro robot mediante matrices homogéneas y la parametrización de Denavit-Hartenberg, que junto a la cinemática inversa nos permitirán planificar trayectorias cartesianas.&lt;br /&gt;La programación de los robots se realizará desde el entorno de MatLab. Nos apoyaremos en las librerías desarrolladas por el profesor australiano de robótica Peter Corke. No obstante, se detectarán errores durante la ejecución de estas. Se desarrollarán y se mostrarán las soluciones aplicadas.&lt;br /&gt;Un sistema coordinado requiere poder leer continuamente la posición que marcan los encoders y además es importante plantearse cuán preciso es un robot para planificar la detección de finalización de un movimiento. Por ello, se graficará y cuantificará el error de posición.&lt;br /&gt;Los motores no tienen un controlador de par para eliminar los errores de posición. Sin embargo, permiten modificar la curva de accionamiento de par. Mediante un buen ajuste se conseguirá un movimiento más suave, que no presente oscilaciones.&lt;br /&gt;Se desarrollará un movimiento coordinado entre ambos robots, en el que se encargarán de manipular un sólido deformable, concretamente en girar 90º la suela de una zapatilla&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/84981</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/84981/files/TAZ-TFG-2019-3511.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Montaje y control  coordinado de dos brazos robóticos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Assembly and coordinated control of two robotics arms</dc:title>
+</oai_dc:dc>

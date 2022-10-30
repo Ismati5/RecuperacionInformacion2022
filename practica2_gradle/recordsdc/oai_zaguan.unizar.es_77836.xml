@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Calvete Fernández, Herminia I.</dc:contributor>
+    <dc:creator>Oliveros Félez, Karen</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>La ubicación de las instalaciones siempre ha sido un elemento crítico en la planificación estratégica de empresas privadas y públicas. La adquisición o construcción de nuevas instalaciones puede implicar grandes costes para la empresa, por lo que determinar las mejores ubicaciones para las mismas es un desafío estratégico importante. Este trabajo se enmarca en términos de la Investigación Operativa y se centra en la programación entera, específicamente en el problema de cubrimiento. El objetivo principal de este trabajo es estudiar los problemas de cubrimiento, y aplicarlos para resolver el problema de ubicación de las instalaciones de bomberos en las provincias de Huesca y Teruel. Este trabajo está compuesto por tres capítulos. En el primero, se introduce la programación lineal, la programación lineal entera y diferentes métodos para resolver éstos últimos. El segundo capítulo propone distintos modelos para el problema de dónde ubicar las instalaciones  y proporciona una breve explicación sobre los métodos de solución de los problemas de cubrimiento. El tercer capítulo, con CPLEX Studio, Excel y VRP Solver,  se aplica algunos de los modelos presentados en el capítulo anterior al problema de ubicación de instalaciones de bomberos en Huesca y Teruel. La memoria también incluye un Anexo con las distintas noticias publicadas en algunos periódicos, que han sido motivación de este trabajo, así como un Anexo de siglas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/77836</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Métodos Estadísticos; Área de Estadística e Investigación Operativa</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/77836/files/TAZ-TFG-2018-2204.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Matemáticas</dc:subject>
+    <dc:title>Problemas de cubrimiento. Aplicación</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Covering problems. Application</dc:title>
+</oai_dc:dc>

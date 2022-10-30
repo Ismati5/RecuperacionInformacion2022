@@ -1,0 +1,9 @@
+spatial:-15.6,6.6,35.0,44.7
+spatial:-180.0,180.0,-90.0,90.0 titulo:natura
+spatial:-180.0,180.0,-90.0,90.0 titulo:nacional
+issued:[1980 TO 2010]
+created:[1980 TO 2010]
+issued:[1980 TO 2010] created:[1980 TO 2010]
+issued:[19890101 TO 19950101]
+issued:19940101
+issued:[* TO 1994]

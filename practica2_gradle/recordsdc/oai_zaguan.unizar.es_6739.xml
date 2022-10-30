@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Pallarés Ranz, Javier</dc:contributor>
+    <dc:creator>Torrico Aguilar, José Mario</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El objetivo del presente trabajo es el estudio, diseño y adaptación de la planta piloto de gasificación en lecho fluido burbujeante de 10 kWth del CIRCE para el proceso de gasificación de carbones de bajo rango. El análisis se ha centrado en el estudio del rango de condiciones de operación para la gasificación extraídas de la bibliografía de plantas piloto, determinando los ratios molares de vapor, oxígeno o aire como agentes gasificantes, calculando los caudales de entrada, la temperatura de operación y finalmente se estiman los ratios óptimos de funcionamiento mediante la aplicación de herramientas de simulación. Se verifico la capacidad fluidodinámica de cada simulación evaluando el régimen de flujo para contacto gas-sólido (Diagrama de Grace) y los ratios mínimos de operación (Ug/Umf y Ug/Ut). A partir de los resultados se plantearon modificaciones en la operación y en la composición de los agentes gasificantes, para garantizar el flujo burbujeante. Finalmente, se ha propuesto en función al caudal de los agentes gasificantes un equipo para la generación de vapor y un sistema de suministro de oxígeno. Entre las alternativas propuestas para garantizar el régimen burbujeante se hallan: la reducción del øp, el uso de gases inertes, incrementar la Tr, incrementar el ratio SC y elevar el caudal de combustible. Solo las dos últimas alternativas mejoran sustancialmente los parámetros de fluidización y permiten alcanzar el régimen burbujeante; por lo que se combinan ambas alternativas para garantizar la fluidización y gasificación del carbón. En base al estudio paramétrico, se ha llegado a la conclusión que la mejor alternativa es aumentar el caudal de combustible en 50% (1,558 kg/h) e incrementar el ratio molar SC a 1,6; esta última responsable de la disminución del PCI del gas resultante. Hallados los caudales de entrada de los agentes gasificantes se realiza la selección de equipos para la generación de vapor y el suministro de oxigeno mediante cilindros.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6739</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6739/files/TAZ-TFM-2011-123.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6739/files/TAZ-TFM-2011-123_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>gasificación</dc:subject>
+    <dc:subject>carbón de bajo rango</dc:subject>
+    <dc:subject>lecho fluido</dc:subject>
+    <dc:subject>Máster Universitario en Energías Renovables y Eficiencia Energética</dc:subject>
+    <dc:title>Estudio, diseño y adaptación de una planta de gasificación en lecho fluido para carbones de bajo rango con alto contenido en cenizas</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

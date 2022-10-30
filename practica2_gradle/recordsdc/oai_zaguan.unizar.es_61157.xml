@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Maza Frechín, Mario</dc:contributor>
+    <dc:creator>Casao Martinez, Sara</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>El trabajo realizado tiene como objetivo la simulación de distintas maniobras producidas por un vehículo antes del impacto, mediante una plataforma estática Stewart generadora de movimiento de seis grados de libertad. Para ello se siguen distintos pasos. En primer lugar, mediante el programa Carsim-ed, se ha realizado una simulación por ordenador de las maniobras escogidas, obteniendo las características físicas del movimiento necesarias para su posterior transformación en secuencias de la plataforma. El siguiente paso, ha sido la transformación de las maniobras realizadas por el vehículo real en movimientos generados por la plataforma, utilizando un programa, ya desarrollado, mediante Matlab y Matlab Simulink, el cual se basa en la aplicación de los estudios sobre la percepción humana del movimiento. Por último, se ha llevado a cabo la reproducción de las distintas maniobras mediante una plataforma estática Stewart de seis grados de libertad y se ha analizado su eficacia en la simulación, comparando los movimientos teóricos obtenidos de Matlab, con las secuencias realizadas por la plataforma, capturadas mediante un sensor XSens. Además, se han visto los efectos de las distintas maniobras sobre dos dummies pediátricos (de tamaño niño) colocados sobre dos asientos de autobús, situados a su vez encima de la plataforma.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61157</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería e Infraestructura de los Transportes</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61157/files/TAZ-TFG-2016-3581.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Generación de maniobras pre-crash de vehículos en simulador estático y comando de plataforma generadora de movimiento</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Pre-crash maneouvres generation in static driving simulator and command of motion generation platform</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Lillo Bravo, Isidoro</dc:contributor>
+    <dc:contributor>Valero Capilla, Antonio</dc:contributor>
+    <dc:creator>Lasheras Torrellas, Marcos</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Este trabajo se apoya en los ensayos realizados por un estudiante de máster de la universidad de Sevilla. Estos ensayos proveen de valiosos datos de características de equipos solares. El objeto de este trabajo es determinar la relación de la energía absorbida por un sistema de captación solar en diferentes climas con 4 parámetros participantes en el cálculo, variando estos de una manera que se aprecie su influencia y así poder determinar el ajuste óptimo de estos para cada zona climática. Todo ello enmarcado en las condiciones de ensayo y cálculo descritas en la norma UNE-ISO 9459-2. El método descrito en la norma se implementa en una herramienta informática que permita un cálculo iterativo y condicionado.  El software elegido es Microsoft Excel. Una hoja de cálculo permite el cálculo de la energía absorbida por el sistema a lo largo de un año, así como una presentación fácil, rápida e intuitiva de los resultados y de los datos tanto climáticos como de los equipos utilizados. Los datos climáticos utilizados son: -	Temperatura del agua de red. -	Irradiación. -	Horas de luz. -	Temperatura ambiente diurna y nocturna. Mientras que los datos de los equipos utilizados son: -	Características técnicas (área de apertura, volumen de acumulación,…) -	Coeficiente de pérdidas térmicas del acumulador (Us). -	Gráfica Q-H (parámetros a1, a2 y a3). -	Perfiles de extracción f(V) y g(V). El método de cálculo se ha aplicado a cuatro ciudades distintas, cada una representa unas condiciones climáticas de Tª y radiación opuestas. Estas ciudades son Atenas, Davos, Estocolmo y Wurzburg. Entre los resultados del análisis de sensibilidad llevado a cabo se pueden destacar: -	Mayor importancia de la Gráfica Q-H frente a los demás, especialmente de a1. -	Decreciente importancia de Us frente a un consumo creciente. -	Ínfima influencia de la optimización de los perfiles de extracción f(V) y g(V). Por último se han intentado reflejar las relaciones entre los parámetros experimentales y las características técnicas de los equipos con los datos disponibles para poder sugerir el mejor ajuste posible de los equipos solares para las dadas condiciones climatológicas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6895</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6895/files/TAZ-PFC-2012-057_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6895/files/TAZ-PFC-2012-057.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>equipos solares</dc:subject>
+    <dc:subject>termosolar</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Variaciones en el comportamiento de equipos solares prefabricados en función de la zona climática, de acuerdo a la norma ISO 9459-2</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

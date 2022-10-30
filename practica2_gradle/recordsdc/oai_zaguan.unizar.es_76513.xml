@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Beltrán Blázquez, José Ramón</dc:contributor>
+    <dc:creator>Ejarque Pascual, Eduardo</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>Desde hace unos años ha comenzado la necesidad y utilidad de ser capaces de localizar a personas o elementos en el interior de un edificio, donde los Sistemas de Posicionamiento Global (GPS) son ineficaces en estos entornos. En más profundidad, si no queremos sólo saber su posición, si no también poder capturar en tiempo real el movimiento que se está realizando, surge la idea de implementar un sistema de bajo coste que se pueda utilizar en el ámbito del e-Health o medicina inteligente. Los múltiples ejercicios de rehabilitación existentes van relacionados con el tipo de lesión, donde la presencia de un profesional es fundamental para realizar el movimiento correcto. Ahora bien, existen movimientos sencillos, realizados tras una leve lesión o al llegar a la fase final de una rehabilitación más compleja, que se pueden realizar de forma autónoma. En muchas ocasiones, son los propios pacientes o profesionales los que se dirigen a la consulta o domicilio para realizar este seguimiento y realización de la rehabilitación. En cualquiera de estos casos, existe un desplazamiento, donde si se trata de una persona mayor o estás situado en un núcleo rural, es bastante dificultoso. Por este motivo, nace la idea de implementar un hardware de bajo coste, el cual posea un software para realizar una representación y valoración de ejercicios de rehabilitación. De esta manera el experto puede realizar un seguimiento a distancia y será capaz de aumentar el número de pacientes a su cargo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76513</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76513/files/TAZ-TFG-2018-3793.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías y Servicios de Telecomunicación</dc:subject>
+    <dc:title>Sistema de captura de movimiento mediante sensores de posición para la visualización y valoración de ejercicios de rehabilitación</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Movement capture system using position sensors for the visualization and evaluation of rehabilitation exercises</dc:title>
+</oai_dc:dc>

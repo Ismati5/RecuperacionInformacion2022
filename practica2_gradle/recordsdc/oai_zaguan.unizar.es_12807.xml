@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Pérez Cabello, Fernando</dc:contributor>
+    <dc:creator>Beamonte San Agustín, Mª Asunción</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Evaluar la recuperación de las especies forestales tras un fuego es importante y el uso de imágenes de satélite es una herramienta útil para la monitorización del nivel de recuperación de la cubierta vegetal. En este trabajo se estudia la evolución del índice NDVI con la información proporcionada por una serie de 17 imágenes Landsat, cuantificando de esta manera la recuperación de las especies mediante la progresión del índice, tanto en términos absolutos como relativos, respecto a un periodo de referencia. Además se analiza la posible relación de los cambios del NDVI a lo largo del tiempo con variables de tipo climático. Determining the success of forest species after a fire is important and the satellite imagery is useful to monitor de progression of the green-up level. In this work the evolution of the NDVI index is studied by means of a series of 17 Landsat images, quantifying the species recovery through the progression of the index, both in absolute and relative terms in respect to a reference period. A possible relation between NDVI changes over time and climate variables is also ana-lyzed.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12807</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio; Área de Análisis Geográfico Regional</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12807/files/TAZ-TFM-2013-1061.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>ndvi</dc:subject>
+    <dc:subject>recuperación de especies </dc:subject>
+    <dc:subject>incendio forestal</dc:subject>
+    <dc:subject>landsat</dc:subject>
+    <dc:subject>spei</dc:subject>
+    <dc:subject>Máster Universitario en Tecnologías de la Información Geográfica para la Ordenación del Territorio: Sistemas de Información Geográfica y Teledetección</dc:subject>
+    <dc:title>ANÁLISIS DE LA EVOLUCIÓN POST-FUEGO DEL NDVI  DE ESPECIES FORESTALES MEDIANTE IMÁGENES LANDSAT</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

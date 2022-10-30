@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Marco Mateo, José María</dc:contributor>
+    <dc:creator>Fernández Marco, Lucía</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>Durante este periodo de cumplimiento del proyecto fin de carrera en la empresa Cafés Orús, se ha realizado un software de gestión de información. La aplicación es fácil de utilizar e interactiva, para acceder de forma rápida a la información que el director necesite manejar en un momento dado, sin necesidad de utilizar ciertos programas complejos existentes en el mercado pensados para usuarios expertos en la materia. Dicha aplicación se ha desarrollado en el lenguaje de programación multiplataforma Java gracias a la herramienta Eclipse y como gestor de base de datos Oracle ya que era del que disponía la empresa anteriormente. La aplicación realizada es capaz de realizar una serie de gestiones:                                                        o Gestión de Recursos Humanos: Permite almacenar información correspondiente a los empleados y clientes de la empresa Cafés Orús, así como eliminarlos, modificarlos incluso disponer de un listado de éstos en función de un criterio seleccionado por el usuario.                                                   o Gestión de la Información: Permite registrar los productos disponibles en la empresa, así como un resumen de los distintos pedidos realizados por los clientes. Como en el caso anterior, permite también borrarlos, modificarlos y realizar búsquedas.                                                            o Gestión de Estadísticas: En este apartado el director de la empresa puede ver un conjunto de estadísticas y gráficos a través de los cuales podrá ver si las ventas de a lo largo de un año concreto han aumentado o disminuido tanto desde el punto de vista de un cliente, como desde el de un producto.                                                                       o Gestión de Comunicación: Permite al director de la empresa ver de forma rápida cuales son las reuniones que tiene próximas, así como añadir nuevas o modificar existentes, indicando en todo momento la asistencia al evento. También dispone de un apartado “agenda” en el que poder buscar rápidamente el número de teléfono, fax o e-mail de la persona deseada.                                                                       o Gestión de Repartos:  En este apartado el director puede tener disponible en todo momento información sobre los repartos indicando para una fecha concreta y un empleado los repartos que tiene asignados.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4822</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4822/files/TAZ-PFC-2010-087.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>bases de datos</dc:subject>
+    <dc:subject>software de gestión</dc:subject>
+    <dc:subject>java</dc:subject>
+    <dc:subject>oracle</dc:subject>
+    <dc:subject>sql</dc:subject>
+    <dc:subject>análisis</dc:subject>
+    <dc:subject>diseño</dc:subject>
+    <dc:subject>requisitos</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Software de gestión para la empresa Cafés Orús</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

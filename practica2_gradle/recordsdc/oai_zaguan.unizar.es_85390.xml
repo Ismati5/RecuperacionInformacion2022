@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Canalís Martínez, Paula María</dc:contributor>
+    <dc:creator>Bin Mohamed Rafie, Ahmad Ubaidillah</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Este proyecto trata sobre el Cálculo y Análisis de Las Transmisiones de Una Escalera Mecánica y se enfoca en el estudio, análisis y cálculo de las transmisiones de una escalera mecánica de marca Schindler modelo 9300 AE. Para ello, en este trabajo se utiliza su catálogo para realizar los cálculos de las transmisiones.  En primer lugar, a partir del catálogo se obtienen los datos necesarios para calcular las transmisiones de la escalera. A continuación, se calculan las transmisiones en el caso más desfavorable, el cual se produce cuando el número de pasajeros sea máximo. A partir de los cálculos de las transmisiones, se selecciona el motor adecuado y se hace un análisis de las opciones del reductor que va a trabajar junto con el motor seleccionado. En el análisis mencionado se incluye el análisis de fallo por flexión y el análisis de fallo por desgaste. En segundo lugar, se comparan todos los diseños que se han elaborado para elegir el mejor. Las comparaciones principalmente se enfocan en las dimensiones, el rendimiento, la potencia y la vida útil. Entre todas estas comparaciones, se selecciona la mejor y se continúa con los cálculos del eje y el análisis de la fatiga. Por último, se modela cada pieza del reductor en 3D y se ensambla para mostrar el reductor completo que se diseña en este proyecto. Además, se hace un estudio estático de cada parte para comprobar que las tensiones de Von Mises máximas sean iguales a las tensiones calculadas de cada parte. Seguidamente, se dibujan los planos de cada pieza modelada y el plano del ensamblaje del reductor completo.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/85390</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería Mecánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/85390/files/TAZ-TFG-2019-2078.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Cálculo y análisis de las transmisiones de una escalera mecánica</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Calculation and analysis of the transmissions of escalator</dc:title>
+</oai_dc:dc>

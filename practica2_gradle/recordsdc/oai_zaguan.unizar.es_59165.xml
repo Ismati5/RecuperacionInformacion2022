@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Fernandez Moreira, Vanesa</dc:contributor>
+    <dc:contributor>Villacampa, Mª Dolores</dc:contributor>
+    <dc:creator>Sastre Martín, Héctor</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>Con la vista puesta en el desarrollo de especies químicas útiles en medicina diagnóstica y terapéutica se ha tratado de sintetizar una serie de compuestos de coordinación tanto monometálicos como heterobimetálicos del tipo fac-[Re(bipy)(CO)3L]+ y fac-[Re(bipy)(CO)3(L-AuPPh3)]+ respectivamente, donde L representa a distintos derivados de mercaptopiridina que actuarán como ligandos conectores entre los fragmentos metálicos de renio y oro. En ellos, el de renio aporta las propiedades luminiscentes, mientras que el de oro proporciona efectos antiproliferativos. Los compuestos obtenidos se han caracterizado debidamente mediante técnicas de espectroscopia de RMN e IR, espectrometría de masas y, cuando ha sido posible, por difracción de rayos X. Además, se han estudiado sus propiedades fotofísicas con objeto de valorar su viabilidad como agentes de imagen en microscopía de fluorescencia, técnica cuyo carácter no invasivo le augura a sí misma un futuro prometedor, y de esta forma comprender el mecanismo de actuación mediante la visualización a nivel celular. También se han llevado a cabo estudios de actividad biológica sobre una línea celular tumoral, las células cancerígenas cervicouterinas HeLa, para evaluar el efecto de las variaciones estructurales introducidas en la biodistribución, citotoxicidad, etc., quedando patentes las diferencias entre los derivados de Re(I) y los de Re(I)/Au(I). Así, las especies heterobimetálicas presentan valores significativamente menores de IC50, lo que se traduce directamente en una mayor actividad anticancerígena en esta línea celular, hecho que, en parte, puede ser explicado por su aparente entrada a las mitocondrias, donde desarrollan todo su potencial, y que ha sido observado por microscopía de fluorescencia.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/59165</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Inorgánica; Área de Química Inorgánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/59165/files/TAZ-TFG-2016-1980.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Química</dc:subject>
+    <dc:title>Complejos metálicos luminiscentes con aplicaciones en terapia y bioimagen</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Luminiscent metal complexes with applications in therapy and bioimaging</dc:title>
+</oai_dc:dc>

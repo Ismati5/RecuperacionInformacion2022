@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sancho Sanz, Javier</dc:contributor>
+    <dc:creator>Clemente Arellano, Isabel</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Las proteínas son las encargadas de llevar a cabo un gran diversidad de funciones en lo seres vivos, pero solamente serán capaces de realizarlas si adoptan la conformación adecuada. Conocer cómo es su estabilidad y cómo poder aumentarla, tiene gran interés desde varios puntos de vista: biológico (conocimiento de la Biología molecular), industrial (es común la utilización de enzimas en condiciones no fisiológicas) y biomédico (numerosas enfermedades están causadas por proteínas mal plegadas). La proteína de estudio seleccionada para este trabajo fin de máster fue la flavodoxina de Anabaena PCC7119, la cual se ajusta a un modelo de 3 estados en el proceso de desnaturalización térmico, presentando un intermediario, mientras que en el proceso de desnaturalización químico con urea se ajusta a un modelo de 2 estados.  Se diseñaron de manera racional una batería de mutantes (unos basados en la WT y otros en el triple mutante E20K/E72K/D126K), con los que se pretendió conseguir de una flavodoxina mutante en la que ya no se poblara el intermediario. Se realizaron estudios de caracterización espectroscópica mediantes espectros de absorbancia UV-Visible, dicroísmo circular en el cercano, lejano y emisión de fluorescencia a 25ºC y 90ºC. También se realizaron estudios comparativos de su estabilidad, tanto de manera química como térmica, en relación con la de la  WT y la del triple mutante E20K/E72/D126K. Las proteínas que se ajustaron a un modelo de 2 estados en el proceso de desnaturalización térmica mediante técnicas espectroscópicas fueron seleccionadas para realizar un estudio mediante calorimetría diferencial de barrido, obteniéndose claramente una flavodoxina mutante en la que ya no se poblaba el intermediario.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8079</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Bioquímica y Biología Molecular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8079/files/TAZ-TFM-2012-187.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>proteínas</dc:subject>
+    <dc:subject>estabilidad</dc:subject>
+    <dc:subject>intermediario</dc:subject>
+    <dc:subject>Máster Universitario en Biología Molecular y Celular</dc:subject>
+    <dc:title>Aumento racional de la estabilidad de una proteína modelo</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

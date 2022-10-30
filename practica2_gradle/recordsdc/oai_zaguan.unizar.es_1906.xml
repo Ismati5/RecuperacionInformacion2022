@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Badal Nicolás, José Ignacio</dc:contributor>
+    <dc:contributor>Cid Palacios, Rafael</dc:contributor>
+    <dc:creator>Lana-Renault, Yoël</dc:creator>
+    <dc:date>1998</dc:date>
+    <dc:description>Resumen La propagación de las fases sísmicas P y S en el interior de la Tierra se aborda considerando que la transmisión de las ondas obedece a la ley de velocidad v(r) = r(B - A·log r), donde A y B son constantes. Con esta ley obtenemos ecuaciones algebraicas para la localización espacial y temporal de cualquier fase, y también para determinar el espesor de las capas esféricas de la Tierra. Considerando, además, que la densidad en un punto del interior de la Tierra viene dada por la ecuación d(r) = const·v(r)/r, conseguimos una distribución de densidades muy interesante que nos obliga a plantearnos algunas cuestiones fundamentales sobre la constitución interna de nuestro planeta. Como datos relevantes, hemos obtenido que la densidad del núcleo interno es 21,2 g/cm3 y que el momento de inercia (adimensional) de la Tierra es 0,33287, lo que representa una precisión de más del 99,8 %. Abstract The transmission of P and S seismic phases in the Earth interior is tackled considering that the wave speed fits to the simple law v(r) = r(B - A·log r), where A and B are constants. Starting from this expression we obtain simple algebraic equations for both the spatial and temporal location of any phase, and also for determining the thickness of the spherical layers of the Earth. Assuming a law as simple as d(r) = const·v(r)/r for mass density at a point in the Earth interior, we obtain a very interesting density distribution that raises several issues concerning the inner constitution of our planet. As conspicuous data, we have found that the density of the inner core is 21.2 g/cm3 and the dimensionless moment of inertia of the Earth is 0,33287, which represents a precision exceeding 99,8 %. </dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/1906</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Teórica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/1906/files/TUZ_0029_lana_modelo.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>Bullen</dc:subject>
+    <dc:subject>Dziewonski</dc:subject>
+    <dc:subject>Jeffreys</dc:subject>
+    <dc:subject>SP6</dc:subject>
+    <dc:subject>Travel-times</dc:subject>
+    <dc:subject>PREM</dc:subject>
+    <dc:subject>Inner-core</dc:subject>
+    <dc:subject>Outer-core</dc:subject>
+    <dc:subject>Earth</dc:subject>
+    <dc:subject>Geophysics</dc:subject>
+    <dc:subject>epicentral-distance</dc:subject>
+    <dc:subject>P-waves</dc:subject>
+    <dc:subject>Tierra</dc:subject>
+    <dc:subject>Núcleo-interior</dc:subject>
+    <dc:subject>Manto-superior</dc:subject>
+    <dc:subject>Geofísica</dc:subject>
+    <dc:subject>distancia-epicentral</dc:subject>
+    <dc:subject>Ondas-P</dc:subject>
+    <dc:subject>gravity</dc:subject>
+    <dc:title>Modelo de constitución interna de la Tierra</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

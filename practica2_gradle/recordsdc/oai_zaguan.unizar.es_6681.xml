@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Celma Pueyo, Santiago</dc:contributor>
+    <dc:creator>García Romeo, Daniel</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El objetivo de este trabajo es el de la realización y test de circuitos de acondicionamiento de señal para sensores de detección de gases de bajo consumo para su posterior caracterización y comprobación de su funcionamiento y su posible aplicación en redes inalámbricas de sensores para regiones abiertas. Se propone desarrollar un circuito de bajo consumo y baja tensión de alimentación para el acondicionado de la salida de sensores de gases de bajo consumo para mejorar la lectura y obtener medidas de la magnitud correspondiente con adecuada resolución. Para ello, nos centraremos en el uso de sensores de CO2 de Alphasense, caracterizados por disponer de un rango de sensibilidad elevado, así como consumos de menos de 80 mA a 3 V, que podemos considerar reducidos en comparación con la gran mayoría de sensores de gases disponibles en el mercado. Inicialmente se caracterizará la respuesta del sensor escogido, conectado a la electrónica de acondicionado desarrollada, a diferentes concentraciones de CO2 que se controlarán mediante una válvula electrónica de control de caudal. Se obtendrán los diferentes comportamientos del sistema sensor-acondicionado para diferentes temperaturas, dentro del rango típico de aplicaciones ambientales.  Los principales objetivos serán por tanto la realización de la electrónica necesaria para una correcta adquisición de la variable a medir, en este caso, dióxido de carbono. Se analizarán los requisitos mínimos de la medida, con el fin de minimizar el tiempo de adquisición de medidas, incrementando así el tiempo de vida operativa de las baterías que alimentan la electrónica. Otro objetivo será por consiguiente, el estudio y la caracterización del propio sensor mediante cámara climática para finalmente y como último objetivo verificar su posible implementación en redes inalámbricas de sensores aplicadas a monitorización de variables del entorno en zonas abiertas, como bosques o zonas industriales, sin la necesidad de disponer de una infraestructura establecida ni en comunicaciones ni en suministro de energía.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6681</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6681/files/TAZ-TFM-2011-106.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>circuitos de acondicionado</dc:subject>
+    <dc:subject>sistemas portátiles</dc:subject>
+    <dc:subject>sensores de gases</dc:subject>
+    <dc:subject>aplicaciones en ambientes inteligentes</dc:subject>
+    <dc:subject>redes inalámbricas de sensores</dc:subject>
+    <dc:subject>Máster Universitario en Ingeniería Electrónica</dc:subject>
+    <dc:title>Caracterización de sensores de gases y circuitos de acondicionado de bajo consumo con aplicaciones en redes inalámbricas de sensores</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sebastián Cabeza, Víctor</dc:contributor>
+    <dc:creator>Larrea Ibáñez, Ane</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Este trabajo se centra en la aplicación de la tecnología microfluídica para el diseño, desarrollo y producción de diversos nanomateriales (orgánicos e inorgánicos, simples e híbridos) con propiedades bien definidas y predeterminadas, para su uso en diversas aplicaciones como la biomedicina y la catálisis heterogénea. &lt;br /&gt;Frente a las tecnologías convencionales, tipo batch, la tecnología microfluídica ofrece diversas ventajas para la síntesis altamente controlada de nanopartículas. En primer lugar, la gran relación superficie/volumen de los microrreactores proporciona una mayor transferencia de calor y masa. En segundo lugar, algunas reacciones que son demasiado rápidas para ser controladas en reactores tradicionales, pueden realizarse fácilmente en microrreactores, debido al tiempo característico masivamente reducido de los procesos de transporte en la escala micrométrica, que puede ser comparable a los de la reacción química. En tercer lugar, el pequeño volumen intrínseco de los microrreactores permite el uso de productos químicos caros y/o tóxicos sin necesidad de grandes volúmenes de procesamiento. Por otra parte, la mezcla eficiente de los reactivos es una ventaja clave para preparar nanopartículas monodispersas; además, los dispositivos microfluídicos permiten automatizar procesos de múltiples etapas, que combinan las reacciones, el análisis y la purificación en un único sistema. &lt;br /&gt;Por lo tanto, el uso de microrreactores en la síntesis de nanomateriales resulta doblemente beneficioso. Por un lado, permite controlar con mayor precisión la composición, temperatura y tiempos de residencia, obteniéndose nanopartículas con distribuciones de tamaños estrechas y gran homogeneidad de propiedades entre los distintos lotes de producción. Y, por otro, permite escalar la producción y trabajar con un flujo continuo. Sin embargo, la tipología de nanomateriales sintetizados suele ser simple, limitando con ello sus propiedades. En esta tesis doctoral además de materiales simples, también se ha estudiado la síntesis en continuo y de forma controlada de diferentes materiales híbridos para combinar e incluso mejorar las propiedades de los materiales originales. &lt;br /&gt;</dc:description>
+    <dc:description>&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/86983</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/86983/files/TESIS-2020-005.pdf</dc:relation>
+    <dc:subject>ingenieria y tecnologia quimicas</dc:subject>
+    <dc:subject>sintesis quimica</dc:subject>
+    <dc:subject>quimica fisica de polimeros</dc:subject>
+    <dc:subject>mecanica de fluidos</dc:subject>
+    <dc:title>Diseño, desarrollo y producción de nanomateriales mediante tecnología microfluídica para aplicaciones biomédicas y catálisis heterogénea</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

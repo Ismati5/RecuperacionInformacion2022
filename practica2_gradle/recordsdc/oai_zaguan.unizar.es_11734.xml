@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sorribas Alejaldre, Víctor</dc:contributor>
+    <dc:creator>Caldas Zuleta, Yupanqui Alberto</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>La homeostasis del fosfato inorgánico (Pi) se controla mediante una serie de mecanismos neuroendocrinos, que actúan sobre el intestino, hueso y riñón. Estos mecanismos se alteran en situaciones patológicas como la enfermedad renal crónica, durante la cual puede generarse hiperfosfatemia. Ésta, junto a las dislipidemias, son factores asociados al desarrollo de enfermedades cardiovasculares. La nefropatía diabética combina todos estos factores, ya que la acumulación de lípidos en el riñón acelera la insuficiencia renal. El estudio de estas patologías ha permitido el descubrimiento de los receptores nucleares LXR (Liver X Receptor) y FXR (Farnesoid X Receptor), y el establecimiento de nuevas estrategias farmacológicas basadas en sus activaciones. Hemos demostrado que LXR y FXR parecen regular la expresión de los transportadores de fosfato en intestino y riñón, y así como la fosfatemia.  Con respecto a los transportadores de fosfato NaPi2b y PiT1 y su importancia en la absorción intestinal de Pi, hemos demostrado que: 1) NaPi2b y PiT1 se expresan en la membrana apical de enterocitos; 2) la expresión es mayor en duodeno y yeyuno, al igual que lo es el transporte de Pi; y 3) durante la adaptación crónica a dieta baja en fosfato, la expresión NaPi2b se incrementa solamente en yeyuno, mientras que esa expresión es también máxima en la adaptación aguda a dieta alta en fosfato. Los transportadores de Pi son regulados también por FXR y LXR en células renales OK  (Opossum Kidney) y en íleon de ratón, concluyendo que: 1) los agonistas de LXR reducen la expresión de NaPi2b en intestino, y de NaPi2a, NaPi2c, y PiT2 en riñón; 2) estos agonistas disminuyen la concentración de Pi en sangre e incrementan la excreción de Pi en la orina; y 3) los resultados observados en ratón, son reproducibles en el modelo celular renal, células OK, y en éstas se observa una menor expresión de NaPi4. Finalmente, hemos establecido el primer modelo celular para el estudio de los transportadores de Pi: 1) las células CaCo-2BBE expresan el transportador de fosfato NaPi2b; 2) el transporte de Pi es sodio dependiente, en condiciones fisiológicas (1 mM Pi en medio de cultivo); 3) hay un incremento de hasta 5 veces en el transporte de fosfato sodio independiente, como respuesta a medios con altas concentraciones de Pi (4 mM Pi); 4) estudios de inhibición y cinéticas de Michaelis-Menten evidencian la presencia de un nuevo transportador de Pi, sin identificar.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/11734</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Anatomía Patológica, Medicina Legal y Forense y Toxicología</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/11734/files/TESIS-2013-069.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>proteínas</dc:subject>
+    <dc:subject>transportadores de fosfato</dc:subject>
+    <dc:subject>homeostasis del fosfato</dc:subject>
+    <dc:subject>receptores nucleares</dc:subject>
+    <dc:subject>fxr</dc:subject>
+    <dc:subject>lxr</dc:subject>
+    <dc:title>Regulación de los transportadores de fosfato mediante receptores nucleares LXR y FXR</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

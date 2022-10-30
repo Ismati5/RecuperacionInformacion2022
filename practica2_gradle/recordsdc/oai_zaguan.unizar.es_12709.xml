@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Pérez Cabello, Fernando</dc:contributor>
+    <dc:creator>Jiménez Ruano, Adrián</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El presente trabajo tiene como objetivo destacar las capacidades y potencialidades que presenta el sensor MODIS para la caracterización de zonas incendiadas mayores de 500 has de la comunidad de Aragón en el periodo 2000-2010. En particular, se centra en la monitorización de la dinámica de la vegetación tras el evento y la evaluación de la severidad con la que el fuego ha calcinado el espacio. La metodología empleada se ha basado en la descarga, pre-tratamiento básico y extracción de datos de las imágenes de diversos productos derivados. Por un lado, se estudió la evolución temporal de los índices de vegetación NDVI y EVI a distintas resoluciones espaciales, la temperatura superficial o LST y los índices de área foliar y fracción de radiación activa fotosintética (LAI y FPAR). Estas dos últimas variables incluyeron en el análisis un conjunto de incendios antiguos (1975-2000). Por otro lado, se elaboró un modelo de cálculo de NBR y dNBR, para generar la cartografía de severidad. Las principales conclusiones obtenidas son: a) la gran aplicabilidad de los productos de índices de vegetación sobre todo a 250 m de resolución para grandes incendios regionales (&gt; 500 has), b) las limitaciones que presentan los datos de LST en cuanto a omisión y mezclado de información, c) buenos resultados en la cartografía de la severidad de la quema para los incendios regionales y, d) estimación básica y aproximada del quinquenio de ocurrencia de un incendio en base a unos valores medios de FPAR y LAI determinados.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12709</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio; Área de Análisis Geográfico Regional</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12709/files/TAZ-TFM-2013-986.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>modis </dc:subject>
+    <dc:subject>incendios forestales</dc:subject>
+    <dc:subject>ndvi</dc:subject>
+    <dc:subject>evi</dc:subject>
+    <dc:subject>temperatura superficial</dc:subject>
+    <dc:subject>severidad de quema</dc:subject>
+    <dc:subject>lai</dc:subject>
+    <dc:subject>fpar </dc:subject>
+    <dc:subject>aragón</dc:subject>
+    <dc:subject>Máster Universitario en Tecnologías de la Información Geográfica para la Ordenación del Territorio: Sistemas de Información Geográfica y Teledetección</dc:subject>
+    <dc:title>Aplicabilidad de las imágenes MODIS para la caracterización de zonas afectadas por incendios forestales en Aragón</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

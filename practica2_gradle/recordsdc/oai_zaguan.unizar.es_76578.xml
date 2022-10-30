@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Civera Sancho, Javier</dc:contributor>
+    <dc:creator>Sánchez Casabona, Juan Manuel</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>El crecimiento del flujo de imágenes a través de la red, con su consecuente trasmisión descentralizada, ha provocado necesidades legales por parte de muchos profesionales para defender su autoría. Uno de los retos que se plantean es conseguir la mayor calidad en las imágenes, pero manteniendo un elemento diferencial que demuestre la autoría. El marcado de agua imperceptible es una de las técnicas en investigación para conseguir la defensa de la autoría de las imágenes con la mínima pérdida de calidad. Por lo tanto, este trabajo se va a centrar en, a través del aprendizaje automático, usar redes neuronales que sean capaces de introducir marcas de agua de forma imperceptible en las imágenes. La implementación conlleva varios desafíos. Por un lado, va a ser necesario encontrar el método para conseguir realizar el marcado de agua imperceptible. Por otro, va a ser necesario tener un método que sea capaz de recuperar la marca de la imagen marcada. La complejidad del problema radica en acoplar ambos métodos y determinar qué redes neuronales son las que mejor resuelven el problema planteado. Se han usado los conjuntos de datos MNIST e Image-Net. Se han empleado redes neuronales con sucesiones de capas convolucionales, a partir de las cuales, se han conseguido obtener buenos resultados.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76578</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76578/files/TAZ-TFG-2018-3632.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/76578/files/TAZ-TFG-2018-3632_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Marcas de agua imperceptibles usando redes neuronales profundas</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Imperceptible Watermarking using Deep Neural Networks</dc:title>
+</oai_dc:dc>

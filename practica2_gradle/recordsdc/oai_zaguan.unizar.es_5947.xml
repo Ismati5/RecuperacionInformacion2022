@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Domínguez Navarro, José Antonio</dc:contributor>
+    <dc:contributor>Velilla Marco, María Jesús</dc:contributor>
+    <dc:creator>Sánchez Sarasa, Juan Luis</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>El objetivo de este Proyecto Fin de Carrera es la evaluación de  distintos métodos estadísticos de modelos autorregresivos integrados de media móvil (ARIMA) para la realización de  ensayos de predicción de velocidades del viento en territorios marinos cercanos a la costa.  	Una vez seleccionado del método que más se aproxime a la realidad se realiza un estudio temporal durante un año y otro estudio espacio- temporal del que se han extraído datos, gráficas e imágenes que hacen más fácil la comprensión de lo expuesto en el proyecto. 	Los datos de partida del estudio han sido obtenidos del satélite orbital QuickSCAT, el cual ha proporcionado información meteorológica a nivel planetario de la superficie de los océanos y mares a lo largo de la última década. Todos las operaciones del proyecto han sido realizadas utilizando el código R language, herramienta muy potente a la hora de trabajar con grandes bases de de datos. 	Una de las razones de por las que se ha decidido realizar el proyecto acerca de la energía eólica es por el gran potencial de desarrollo que posee este tipo de energía, ya que a corto plazo la eólica offshore será una de las energías más representativas del planeta y se necesitarán técnicas predictivas para obtener el máximo rendimiento.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5947</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5947/files/TAZ-PFC-2011-266.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Evaluación de la velocidad de viento para parques offshore con telemetría y métodos de previsión estadísticos</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

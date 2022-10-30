@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Follana Adin, Eduardo</dc:contributor>
+    <dc:creator>Antón Fuertes, Sergio Enrique</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>La dificultad que plantea la solución de las ecuaciones de campo de Einstein en Relatividad General obliga a la utilización de métodos numéricos y computadores. El objetivo de este trabajo es realizar una introducción a la relatividad numérica y a algunos de sus conceptos más relevantes, para finalmente realizar algunas simulaciones de ejemplos sencillos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64092</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Teórica; Área de Física Teórica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64092/files/TAZ-TFG-2017-3191_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/64092/files/TAZ-TFG-2017-3191.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Física</dc:subject>
+    <dc:title>Técnicas de simulación numérica en Relatividad General</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Numerical simulation techniques in General Relativity</dc:title>
+</oai_dc:dc>

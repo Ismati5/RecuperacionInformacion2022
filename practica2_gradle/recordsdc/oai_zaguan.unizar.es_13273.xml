@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Meléndez Asensio, Bárbara</dc:contributor>
+    <dc:contributor>Alcalde Herrero, Ana Isabel</dc:contributor>
+    <dc:creator>García Claver, Ainoha</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Los gliomas, que son los tumores primarios más frecuentes del sistema nervioso central, constituyen uno de los tipos de cáncer con peor pronóstico, por su difícil tratamiento y su alta tasa de recidivas.  La forma más agresiva de los gliomas es el glioblastoma (GBM) que cuenta con bajas tasas de supervivencia y una rápida progresión. El tratamiento principal de los GBM consiste en la resección quirúrgica del tumor siempre que sea posible, seguido por radioterapia y un tratamiento adjuvante de quimioterapia, que usa principalmente compuestos intercalantes como la carmustina o la temozolamida. Sin embargo, ante la respuesta poco satisfactoria de este tratamiento, hay diversas  diversas líneas secundarias de tratamiento en investigación, siendo una de ellas el uso de inhibidores de tirosina quinasa.   En la presente tesis doctoral, se ha estudiado el efecto de cuatro inhibidores de la ruta EGFR/PI3K/Akt (gefitinib, erlotinib, LY294002, temsirolimus), utilizando modelos celulares. Previamente, se han caracterizado molecularmente las 11 líneas celulares derivadas de gliomas utilizadas, comparando las aberraciones genómicas de estas líneas con las alteraciones más comunes en gliomas primarios.   Mediante la utilización de técnicas de análisis génico masivo se ha podido comprobar que las líneas celulares derivadas de gliomas conservan las pérdidas génicas habitualmente encontradas en tumores primarios (PTEN, CDKN2A y CDKN2B), así como ganancias de bajo nivel (EGFR, PI3KCA), pero no conservan las amplificaciones. Además, los estudios de expresión han permitido establecer distintos perfiles de expresión según la respuesta al inhibidor de EGFR, erlotinib y se han propuesto varios genes (PIK3R3, HRAS, CTGF, HDAC3 y ERCC5) como posibles candidatos para predecir la respuesta a este inhibidor. Por otra parte, se ha comprobado que erlotinib causa detención del ciclo celular en líneas celulares derivadas de gliomas mediante la represión de E2F1, BIRC5 y PLK1 y la inducción de GAS5, principalmente.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/13273</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Farmacología y Fisiología</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/13273/files/TESIS-2013-156.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>biología molecular</dc:subject>
+    <dc:subject>fisiología del sistema nervioso central</dc:subject>
+    <dc:subject>cultivo celular</dc:subject>
+    <dc:title>Identificación de marcadores moleculares y dianas terapéuticas relacionadas con la respuesta a inhibidores de la ruta EGFR/PI3K/AKT en gliomas</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

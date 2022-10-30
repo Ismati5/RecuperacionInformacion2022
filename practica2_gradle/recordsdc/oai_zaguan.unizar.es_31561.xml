@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Prša, Jelena</dc:contributor>
+    <dc:contributor>Casas Nebra, Roberto</dc:contributor>
+    <dc:creator>Sobreviela Obispo, Javier</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Durante la realización de este proyecto se han llevado a cabo las siguientes tareas. Una investigación sobre el estado del arte de la tecnología de impresión 3D, en especial sobre una de las fases del proceso que comparten este tipo de tecnologías. Este proceso parte de un diseño por ordenador de un objeto y tras procesarlo produce una copia física de ese objeto. Para ello se requiere de un tratamiento de los datos CAD que conforman el objeto en ordenador y la generación de las instrucciones que la impresora 3D necesita para producir el objeto físico. Esta fase consiste en trazar una estrategia de rellenado del interior de la pieza que previamente ha sido dividida en capas. El objetivo del proyecto es mejorar los resultados de esta fase. Tras analizar las tecnologías de impresión 3D más comunes, se continuó con un estudio profundo de las diferentes estrategias disponibles en la actualidad en la industria o el campo de la investigación. Paralelo a este estudio se llevó a cabo un análisis de las deficiencias y limitaciones que dichas estrategias. Con este análisis se produjo una clasificación de los tipos de limitaciones que podían aparecer en las diferentes estrategias estudiadas. El siguiente paso de la investigación se extendió a otros campos en la búsqueda de soluciones para la detección de vacíos en el sentido geométrico. Se encontraron dos ideas que fueron implementadas. Se escogió el más rápido de estos métodos para la implementación final. Tomando un fichero de una pieza rellenada con una estrategia de las analizadas previamente que presenta huecos, el programa desarrollado es capaz de detectar esos huecos y rellenarlos produciendo un nuevo fichero con el relleno mejorado. Para probar el programa desarrollado se ejecutaron una serie de experimentos con varias series de piezas impresas, con y sin el programa desarrollado. Un test de software analizó que el rellenado fuera correcto. Un análisis bajo microscopio midió un descenso en el tamaño de los vacíos en la superficie de la pieza. Un test de rugosidad midió un descenso en la rugosidad en la capa superior. Finalmente un ensayo de flexión dio un aumento de la tensión de rotura en las piezas con relleno mejorado.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31561</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31561/files/TAZ-PFC-2014-594_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/31561/files/TAZ-PFC-2014-594.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>fabricación aditiva</dc:subject>
+    <dc:subject>impresión 3d</dc:subject>
+    <dc:subject>prototipado rápido</dc:subject>
+    <dc:subject>modelado por deposición fundida</dc:subject>
+    <dc:subject>geometría computacional</dc:subject>
+    <dc:subject>control numérico</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Implementación en MATLAB de algoritmos de rellenado para proceso de impresión 3D basado en gotas</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Santolaria Mazo, Jorge</dc:contributor>
+    <dc:contributor>Samper Carnicer, David</dc:contributor>
+    <dc:creator>López Ruiz, Alejandro</dc:creator>
+    <dc:creator>Fraile Lambea, Almudena</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>En una época en la que la ingeniería inversa se desarrolla a gran velocidad y las impresoras 3D son cada vez más comunes en el ámbito doméstico, son necesarios sistemas de reconstrucción de objetos 3D que se adapten a las nuevas necesidades. En este punto se va a realizar el prototipo de un escáner 3D utilizando el método de la proyección de franjas de luz blanca a partir de un esquema basado en cámara y proyector, controlado mediante softwares ingenieriles aprendidos a lo largo del Grado.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/15365</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/15365/files/TAZ-TFG-2014-1074.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>proyección de franjas</dc:subject>
+    <dc:subject>código gray</dc:subject>
+    <dc:subject>digitalización 3d</dc:subject>
+    <dc:subject>nubes de puntos</dc:subject>
+    <dc:subject>luz blanca estructurada</dc:subject>
+    <dc:subject>ingeniería inversa</dc:subject>
+    <dc:subject>controles de calidad</dc:subject>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Desarrollo calibración y verificación de sistemas de digitalización basadas en proyección de franjas de luz blanca estructurada</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

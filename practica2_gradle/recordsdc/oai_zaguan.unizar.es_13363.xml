@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ortega Giménez, Alfonso</dc:contributor>
+    <dc:creator>Viñals Bailo, Ignacio</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El auge de las técnicas de procesado de voz es una realidad, aunque en bastantes casos, para lograr sus objetivos requieren ser aplicadas sobre audio procedente de un único locutor. Puesto que estas condiciones no son fácilmente replicables en la realidad, se  llevarán a cabo técnicas para separar los diferentes locutores, denominadas técnicas de Diarización. Este proyecto trabajará las técnicas de Diarización en un entorno de radiodifusión o Broadcast, no muy trabajado en la bibliografía, aunque de gran complejidad, al tener que realizar  la separación de un número desconocido de locutores, cuyas distribuciones de audio no son uniformes, aparte de  estar contaminados tanto por ruido como por musica. En estas circunstancias, y debido a la gran cantidad de posibilidades existentes en la bibliografía, el proyecto centrará sus esfuerzos en la etapa más afectada por combatir todas estas dificultades, la etapa de Clustering. Además, se formalizará un sistema de Diarización completo, cuya etapa de Clustering será aquella obtenida en este proyecto, con la intención de comparar con otros sistemas presentes en la bibliografía.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/13363</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/13363/files/TAZ-PFC-2014-021.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>speech technologies</dc:subject>
+    <dc:subject>diarization</dc:subject>
+    <dc:subject>broadcast</dc:subject>
+    <dc:subject>tecnologías del habla</dc:subject>
+    <dc:subject>diarización</dc:subject>
+    <dc:subject>radiodifusión</dc:subject>
+    <dc:subject>clustering</dc:subject>
+    <dc:subject>criterios de información</dc:subject>
+    <dc:subject>bic</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicación</dc:subject>
+    <dc:title>Estudio de métodos de diarización en un entorno de broadcast</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

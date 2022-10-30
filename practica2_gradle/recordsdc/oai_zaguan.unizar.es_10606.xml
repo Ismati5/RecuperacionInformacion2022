@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Artigas Maestre, José Ignacio</dc:contributor>
+    <dc:creator>Ruiz Gómez, José Luis</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Este proyecto sigue con el desarrollo del control de un prototipo de actuador lineal para utilizarlo como emulador de equinoterapia, que comenzó otro alumno como proyecto fin de carrera. Hasta el momento éste constaba de un motor de continua alimentado por un puente en H mediante la técnica PWM y controlado por una FPGA, que le mandaba la señal de PWM y el sentido de giro. Ahora, el propósito es continuar con la mejora del proyecto, aplicando un control en bucle cerrado que seguirá una trayectoria recibida mediante el envío en serie de datos a través del ordenador. Además también se ha mejorado la placa de potencia, haciéndola más compacta y estrecha, debido a que, aunque sólo se controle un motor, el objetivo final es el movimiento de una silla de caballo con 6 motores. Por tanto, se configura pensando en su posible ampliación.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10606</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10606/files/TAZ-PFC-2013-278.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>control</dc:subject>
+    <dc:subject>bucle</dc:subject>
+    <dc:subject>cerrado</dc:subject>
+    <dc:subject>lineal</dc:subject>
+    <dc:subject>fpga</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electrónica Industrial)</dc:subject>
+    <dc:title>Control digital con FPGA de actuador lineal en lazo cerrado</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

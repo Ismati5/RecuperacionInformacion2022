@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Saldaña Medina, José María</dc:contributor>
+    <dc:contributor>Bernués del Río, Emiliano</dc:contributor>
+    <dc:creator>Martín González, Jesús</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Basado en la nueva plataforma europea FI-WARE de Cloud Computing, se ha desarrollado un sistema cuyo objetivo consiste en dinamizar los pequeños negocios de las ciudades, acercándolos al ciudadano. Para ello se ha desarrollado una infraestructura de datos en la nube, una aplicación web y una aplicación Android para móviles. Los comercios pueden subir ofertas y anuncios mediante la aplicación web y los ciudadanos, por medio de la aplicación Android, pueden ver las ofertas activas de la ciudad en tiempo real, filtradas por su geo-localización, su perfil de usuario y el tipo de comercio. La aplicación indica al usuario como llegar al comercio cuya oferta ha seleccionado. También dispone de un mapa donde aparecen localizados todos los comercios con ofertas activas. El comercio puede publicar ofertas, modificarlas o borrarlas en tiempo real. De esta manera se potencia la relación ciudadano-comercio de forma exponencial.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/14534</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/14534/files/TAZ-PFC-2014-272.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/14534/files/TAZ-PFC-2014-272_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>cloud computing</dc:subject>
+    <dc:subject>fi-ware</dc:subject>
+    <dc:subject>android</dc:subject>
+    <dc:subject>smart city</dc:subject>
+    <dc:subject>e-comercio</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicación</dc:subject>
+    <dc:title>Smart City: Sistema para acercar el pequeño comercio al ciudadano (MyCity4Me)</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

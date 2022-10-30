@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sáez Viñas, Pablo</dc:contributor>
+    <dc:contributor>Peña Baquedano, Estefanía</dc:contributor>
+    <dc:creator>Marco Herreros, Olga María</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>El objetivo del proyecto consiste en estudiar dos modelos diferentes de pinzas quirúrgicas para la oclusión del vaso sanguíneo. Para alcanzar este objetivo, se ha realizado el análisis por elementos finitos de dos tipos de pinzas arteriales clásicas, con el fin de obtener el comportamiento de la arteria aorta cuando se realiza su pinzado en una cirugía.  A lo largo de este proyecto se han utilizado diversos software, entre los que destacan el software comercial ABAQUS v. 6.8 y el MATLAB v. 7.01. El primero se utiliza para la obtención de los modelos de elementos finitos para cada tipo de pinzas, que luego se someten a diferentes simulaciones. El segundo se utiliza para ajustar los datos experimentales con los teóricos y para la obtención de las fibras de colágeno que caracterizan la anisotropía del material y cuya distribución la realiza el programa TECPLOT 360. Para poder introducir el comportamiento del material del vaso, también se utiliza una subrutina programada en FORTRAN 90.  Una vez explicado el objetivo principal y las herramientas utilizadas, se enumeran todas las tareas que han sido necesarias para desarrollar el proyecto. La primera de ellas consiste en la modelización del vaso con cada una de las pinzas con las que se ha realizado este estudio, para lo que se emplea un modelo hiperelástico anisótropo con dos familias de fibras. A dichos modelos se les incorpora un modelo de daño sencillo con el fin de estudiar efectos inelásticos como el softening y el daño tras el pinzado arterial.  Una vez realizados los dos modelos de elementos finitos, se obtienen las distribuciones tensionales para cada uno de ellos. Además, se realiza una comparativa entre los datos experimentales y teóricos y se estudia la distribución tensional y la del daño a lo largo de la pared del vaso.  Con este proyecto lo que se pretende es predecir los posibles daños que puedan producirse en los vasos sanguíneos tras realizar un pinzamiento en una cirugía. El objetivo último consiste en que, en un futuro, se pueda proponer un nuevo modelo de pinzas que permitan disminuir las patologías asociadas a dicho daño, tanto a corto como a largo plazo, una vez que se ha realizado una intervención.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5319</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5319/files/TAZ-PFC-2010-314_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5319/files/TAZ-PFC-2010-314.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>método de elementos finitos</dc:subject>
+    <dc:subject>abaqus</dc:subject>
+    <dc:subject>biomecánica</dc:subject>
+    <dc:subject>tejido</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Estudio por elementos finitos del efecto sobre el vaso de dispositivos para pinzado de arterias durante cirugía</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

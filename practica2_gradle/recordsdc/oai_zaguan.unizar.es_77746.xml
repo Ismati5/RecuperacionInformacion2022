@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Viguri Rojo, Fernando</dc:contributor>
+    <dc:contributor>Oliva Alcubierre, Miriam</dc:contributor>
+    <dc:creator>HERNÁNDEZ PASCUAL, MIGUEL</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>Partiendo de datos proporcionados de aguas residuales procedentes de una industria agroalimentaria dedicada a la fabricación de pastillas aromatizadas y otros productos deshidratados a partir de proteína vegetal, se procede a establecer un predimensionamiento teórico basándose en bibliografía especializada. Para ello se tienen en cuenta la legislación vigente y también se procura buscar tratamientos de depuración lo más sostenibles y respetuosos posibles para el medioambiente. Para comenzar se describen brevemente los posibles procesos principales que hay disponibles para el tratamiento de aguas, haciendo hincapié en los procesos biológicos para eliminación de materia orgánica y nitrógeno. Se dimensiona y discute varios tratamientos; nitrificación conjunta, nitrificación separada, tratamiento anaerobio de contacto y tratamiento anaerobio con reactor de flujo ascendente y manta de lodo, llegando a obtener datos de volúmenes de los tanques, cantidad de fangos producidos, necesidades de oxígeno (en los procesos aerobios) y cantidad de metano generado (en los procesos anaerobios).</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/77746</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Inorgánica; Área de Química Inorgánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/77746/files/TAZ-TFG-2018-2456.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Química</dc:subject>
+    <dc:title>Estudio y diseño de una EDARI, basada en el sistema productivo de la empresa y en función de la ubicación del punto de vertido</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Study and design of a EDARI, on the basis of the production system of the company, including localitation of discharges</dc:title>
+</oai_dc:dc>

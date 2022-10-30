@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Lázaro Fernández, Ana</dc:contributor>
+    <dc:contributor>Serra de Renobales, Luis María</dc:contributor>
+    <dc:creator>Bernad Montenegro, Alfonso</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Estudio comparativo de diferentes alternativas para cubrir la demanda de calefacción y agua caliente sanitaria (ACS) de una urbanización de 1000 viviendas en Parque Goya (Zaragoza). El estudio presenta un modelo diseñado a base de almacenamiento térmico estacional, bombas de calor y paneles fotovoltaicos que es optimizado bajo diferentes criterios y comparado entre si. El trabajo busca la optimización del sistema bien sea maximizando la energía procedente de fuentes renovables, bien minimizando costes o bien minimizando las emisiones. Una vez obtenidas las configuraciones para cada caso, se comparan los modelos entre si y se compara el modelo diseñado con otro diseñado anteriormente para analizar sus puntos fuertes y débiles.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61381</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61381/files/TAZ-TFG-2017-456.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Estudio comparativo de sistemas solares de calefacción de distrito con bomba de calor y almacenamiento de energía térmica para una urbanización en Parque Goya (Zaragoza)</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Comparative study of solar district heating systems with heat pump and thermal energy storage for a neighbourhood in Parque Goya (Zaragoza)</dc:title>
+</oai_dc:dc>

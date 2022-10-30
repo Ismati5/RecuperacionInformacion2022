@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Revall Frisvad, Jeppe</dc:contributor>
+    <dc:contributor>Gutiérrez Pérez, Diego</dc:contributor>
+    <dc:creator>Delgado Aylagas, Javier</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Este proyecto ha sido desarrollado en el departamento DTU Compute de la Universidad Técnica de Dinamarca durante un intercambio Erasmus. El objetivo de este proyecto es construir un entorno de renderizado para el simulador oceánico desarrollado en el departamento DTU Compute de la Universidad Técnica de Dinamarca [EKBL09]. Dicho simulador permite generar olas oceá- nicas con una gran variedad de conguraciones almacenándolas en diferentes formatos de chero. Este proyecto utilizará dicho simulador y permitirá importar dichas simulaciones y renderizarlas proporcionando un aspecto realista al agua generada. Para ello se transforman las simulaciones al formato OBJ utilizando Matlab para que pueda ser leído por el entorno de renderizado. Posteriormente, se generará una salida visible de las olas generadas en el simulador, y es aquí donde se implementarán y aplicarán diferentes técnicas de renderizado para obtener un aspecto lo más realista posible. Esta parte se basa en su mayor parte en raytracing, aunque se combina con otras propiedades como photon mapping para mejorar el aspecto del agua. Este apartado ha sido desarrollado en su totalidad sobre C++. Además, se incluirán como resultados diferentes simulaciones, tanto de imágenes como de vídeos, siendo una de las simulaciones proporcionada por la empresa Force Technology con sede en Kongens Lyngby (Dinamarca).</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12019</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12019/files/TAZ-PFC-2013-497.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>rendering</dc:subject>
+    <dc:subject>simulation</dc:subject>
+    <dc:subject>ocean water</dc:subject>
+    <dc:subject>raytracing</dc:subject>
+    <dc:subject>photon mapping</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Rendering ocean wave simulations</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

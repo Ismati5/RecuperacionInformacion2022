@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Salgado Remacha, Francisco Javier</dc:contributor>
+    <dc:creator>Angulo Corredor, Julio</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>Las técnicas actuales de impresión digital permiten generar elementos difractivos para el visible a muy bajo coste, por ello, con este trabajo, queremos comprobar si, con una impresora convencional, se pueden fabricar elementos difractivos que respondan con un buen comportamiento y cuyo coste sea mínimo. El objetivo fundamental de este trabajo es el estudio de técnicas difractivas en aproximación de Fresnel o campo cercano. Precisamente, en este trabajo se aprenderá a caracterizar estos elementos micro-ópticos, tanto redes de difracción como lentes zonales para su uso en aproximación de Fresnel. De esta manera damos un valor añadido al trabajo, puesto que existe poca literatura sobre la fabricación de elementos difractivos con una impresora para su uso en aproximación de campo cercano (Fresnel) en comparación a la de campo lejano. Se determinarán, además, las limitaciones en cuanto a la resolución de la impresora empleada para la caracterización de los elementos difractivos. Para ello se utilizarán elementos comunes en laboratorios de micro-óptica (lentes, polarizadores, fuentes láser, cámaras digitales). El objetivo resultante de todo ello es la adquisición de destreza experimental en el campo de óptica difractiva y la familiarización con el formalismo de Fresnel.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/32311</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Aplicada; Área de Física Aplicada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/32311/files/TAZ-TFG-2015-3091.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Física</dc:subject>
+    <dc:title>ELEMENTOS MICRO-ÓPTICOS DE BAJO COSTE</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

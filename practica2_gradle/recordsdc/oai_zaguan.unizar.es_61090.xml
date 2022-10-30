@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Piedrafita Moreno, Ramón</dc:contributor>
+    <dc:creator>Vidal Tortajada, Jorge</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>En el laboratorio L0.06 del departamento de Informatica e Ingeniera de Sistemas de la EINA se encuentra una lnea de fabricacion  exible que permite recrear un proceso de fabricaci on industrial mas o menos complejo: varias etapas de fabricacion, un almacen intermedio, y una zona de expedicion. Todo este entorno esta dise~nado para realizar diversos tipos de manipulacion de piezas pero siempre en condiciones de seguridad para que los estudiantes puedan realizar practicas en la lnea, bien de forma individual, estacion aislada, o bien de forma integrada en el sistema. Es objeto de este proyecto dise~nar e implementar el control y supervision de la estacion del almacen intermedio o estacion 5, que nos permita realizar las funciones principales de un almacen como son recepcion, almacenamiento, organizacion y emision de pedidos. Para ello, sobre el sistema hardware, se han programado los modos de funcionamiento industrial de la gua GEMMA,Guide d'Etude des Modes de Marches et d'Arr^ets. Para la gestion de los modos de funcionamiento as como la supervision del almacen, se desarrollara tambien un sistema HMI (Human Machine Interface) que permita a un operario gestionar de forma segura el funcionamiento del almacen de forma remota mediante el terminal tactil Magelis o bien mediante la aplicacion del fabricante disponible para dispositivos moviles. El control de los modos de funcionamiento vendra dado por el terminal Magelis debidamente programado, que nos posibilitara de forma visual mandar ordenes al automata para su gobierno. De este modo, nuestro operario dispondra de una estacion completamente funcional, en la cual podra gestionar los eventos de almacenamiento, organizacion y gestion de pedidos inherente a un almacen en una lnea de produccion.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61090</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61090/files/TAZ-TFG-2016-4447.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Electrónica y Automática</dc:subject>
+    <dc:title>Control y supervisión de un almacén automatizado en una línea de fabricación</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Control and supervision of an automated warehouse in a manufacturing line</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Royo Vázquez, Emilio Julián</dc:contributor>
+    <dc:creator>Marín Olivares, Héctor</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>El presente trabajo surge de la necesidad de saber cómo varía el coeficiente de rozamiento conforme aumenta la presión de contacto chapa-matriz en el radio de las matrices en el proceso de embutición profunda. Se quiere estudiar esta variación para ver si se ajusta a la caracterización que hacen de ella algunos paquetes de elementos finitos de conformado de chapa. Para ello se ha diseñado un utillaje con SolidEdge ST7 que al amarrarlo a la máquina INSTRON universal de ensayos, y esta trabaje a tracción, nos permita simular un proceso de embutición en la zona de contacto chapa-matriz. Una vez que se realizan los ensayos se pasa al tratamiento de datos capturados por la máquina y se realizan los cálculos precisos para hallar los coeficientes de rozamiento y las presiones de contacto chapa-matriz en el radio del utillaje, que en este ensayo simula el radio de la matriz. El objetivo final es presentar una serie de gráficas que muestren la evolución de este coeficiente de rozamiento a medida que se va aumentando la presión de contacto chapa-matriz, para chapa prepintada y chapa fosfatada, en diferentes condiciones de presión de pisado, material de mordazas de pisado y velocidad de máquina.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/48263</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/48263/files/TAZ-TFG-2015-3316.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Estudio del coeficiente de rozamiento en el radio de la matriz durante el proceso de embutición de chapa prepintada</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

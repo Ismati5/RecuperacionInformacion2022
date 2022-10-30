@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Montijano Torcal, Juan I.</dc:contributor>
+    <dc:contributor>Montijano Muñoz, Eduardo</dc:contributor>
+    <dc:creator>Pinedo Borobio, Pedro</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>En este Tfg, partiendo de una red de sensores que nos definen un grafo se ha estudiado el problema de consenso, a través de las ecuaciones diferenciales que lo definen. Como se trata de un problema distribuido, no se puede resolver de manera analítica. Por lo tanto, se ha intentado buscar un método de discretización alternativo al de Euler, que es la utilizada en este tipo de problemas. Dicho método, presenta algunos inconvenientes tiempo entre dos comunicaciones sucesivas. Para solucionar este problema, se ha estudiado los métodos multi-paso. En nuestro caso, se ha utilizado un método de dos pasos y orden uno y se han obsevado las propiedades que presenta dicho método</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76767</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Matemática Aplicada; Área de Matemática Aplicada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76767/files/TAZ-TFG-2018-3166.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Matemáticas</dc:subject>
+    <dc:title>Estudio de técnicas de discretización en problemas de consenso distribuido</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Study of discretization techniques in distributed consensus problem</dc:title>
+</oai_dc:dc>

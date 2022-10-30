@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Lázaro Elorri, María Jesús</dc:contributor>
+    <dc:contributor>Bilbao Duñabeitia, Rafael</dc:contributor>
+    <dc:creator>Ascaso Malo, Sonia</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>En el presente proyecto se han se han sintetizado, caracterizado y ensayado filtros catalíticos para la eliminación conjunta de hollín y NOx, con el objetivo de reducir las emisiones de los gases de escape generados en motores de ciclo diesel adecuándolas a los límites exigidos por la normativa vigente (EURO V) y de futura implantación (EURO VI) En primer lugar, se prepararon diferentes suspensiones Me/K (Me= Cu, Co, V) -Al2O3 con las que posteriormente se impregnaron monolitos de cordierita. Las suspensiones se prepararon mediante al método sol-gel, considerandose las siguientes variables: proporción de HNO3 (agente peptizante), carga de alúmina, naturaleza del metal, relación K: Me. Para conseguir disminuir la formación de grietas y mejorar la adherencia de la capa depositada se estudio la variación del tipo de alúmina utilizado en la preparación de las suspensiones y se adicionaron diferentes surfactantes. Por lo que respecta al proceso de impregnación de los monolitos de cordierita se optimizó el método de secado, mediante rotación de los monolitos a velocidad constante, de esta manera se consiguió una capa más uniforme, con menor tendencia al agrietamiento. Se midió el pH y la viscosidad de las suspensiones preparadas previamente a su deposición sobre la cordierita. Los filtros catalíticos fueron física y químicamente caracterizados mediante difracción de rayos X, microscopia electrónica de barrido, reducción a temperatura programada en H2  y adsorción de N2.  Se realizaron pruebas de adherencia de la capa depositada y medidas de actividad.  Mediante los ensayos dinámicos realizados en un reactor de lecho fijo en una instalación existente en el Instituto de Carboquímica se observó que a temperaturas en el rango 250-400ºC la reducción de NO tiene lugar por reacción directa de este compuesto con el material carbonoso (hollín), mientras que a temperaturas superiores a 425ºC la reducción de NO y la oxidación de hollín implican una etapa intermedia de formación de NO2.  Por otro lado, en los ensayos de actividad en condiciones isotermas, se observó como los catalizadores preparados con los geles de Co resultaron más activos que los preparados con los geles de Cu y estos a su vez mucho más activos que los catalizadores preparados con los geles de V.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5092</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Ingeniería Química</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5092/files/TAZ-TFM-2010-063.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5092/files/TAZ-TFM-2010-063_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Hollín</dc:subject>
+    <dc:subject>NOx</dc:subject>
+    <dc:subject>Motores diesel</dc:subject>
+    <dc:subject>Filtros catalíticos</dc:subject>
+    <dc:subject>Cordierita</dc:subject>
+    <dc:subject>Máster Universitario en Iniciación a la Investigación en Ingeniería Química y del Medio Ambiente</dc:subject>
+    <dc:title>Preparación de filtros catalíticos Me/K-Al2O3 (Me=Cu,Co,V) para la eliminación conjunta de hollín y NOx generados en motores diesel</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

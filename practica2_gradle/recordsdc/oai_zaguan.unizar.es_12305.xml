@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Alzueta Anía, María U.</dc:contributor>
+    <dc:creator>Alexandrino De Freitas, Katiuska Ferbel</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Las estrictas regulaciones de emisiones para el sector de transporte, han aumentado el esfuerzo para desarrollar nuevos combustibles más sostenibles. Un combustible prometedor es el 2,5-dimetilfurano (DMF), el cual se puede obtener a partir de un proceso catalítico donde la materia prima es la fructosa. Ya se ha testado el DMF tanto como combustible así como aditivo en motores a gasolina y diesel mostrando resultados prometedores. En este contexto, con el objeto de contribuir con las investigaciones sobre el DMF, el objetivo general de este trabajo fue el de estudiar su oxidación en un reactor de flujo variando las principales variables del proceso (Temperatura (300-1100 oC), estequiometría (0-30), concentración de DMF (100 ppm y 300 ppm), y presión (1 bar y 20 bar)). También se estudió la interacción del DMF con el NO, repitiendo los experimentos a presión atmosférica con 900 ppm de este gas. Los principales gases medidos fueron monóxido de carbono (CO), dióxido de carbono (CO2) y hidrogéno (H2). También fueron detectados en algunas condiciones experimentales etileno (C2H4), etano (C2H6) y acetileno (C2H2). Se llevaron a cabo simulaciones usando el programa informático CHEMKIN y un modelo cinético-químico que describe el proceso de pirólisis y oxidación del DMF y su interacción con el NO. Además, se estudió la formación de hollín a partir de la pirólisis del DMF con concentración de 6000 ppm y temperatura de 1200 oC. Los resultados indican, que únicamente condiciones oxidantes y muy oxidantes despalazan el inicio de formación de DMF a menores temperaturas y que usar concentración diferente de DMF no influencia sobre su perfil de concentración a no ser que se trabaje en condiciones muy oxidantes y en ausencia de NO. Con todo, el aumento de concetración de DMF contribuye a la formación de C2H4  y C2H2, los cuales son considerados percursores de la formación de hollín.El aumento de presión desplaza el inicio de consumo de DMF a menores temperaturas. Además, disminuye la formación de C2H4 e inhibe la formación de C2H6 y C2H2.Por otro lado, la presencia de NO en condiciones oxidantes y muy oxidantes, desplaza el inicio de formación de DMF. Para el resto de condiciones estequiométricas, la presencia de NO no modifica el perfil de concentración del DMF, sin embargo, disminuye la velocidad de formación de los productos de combustión.Con la pirólisis del DMF en estado estacionario durante 3 horas, y con [DMF]=6000 ppm y T=1200 oC, se formaron gases tales como CO, CO2, H2, metano (CH4), C2H4 y C2H2. Como producto sólido se obtuvó 1,42 g de hollín.Los datos experimentales a presión atmosférica se ajustan bien al modelo cinético-químico lo cual permite validarlo. Sin embargo, se deberían hacer mejoras al mismo con el objeto de simular mejor los experimentos a presión.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12305</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Tecnologías del Medio Ambiente</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12305/files/TAZ-TFM-2013-803.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/12305/files/TAZ-TFM-2013-803_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>oxidación</dc:subject>
+    <dc:subject>2,5-dimetilfurano</dc:subject>
+    <dc:subject>dmf</dc:subject>
+    <dc:subject>reactor de flujo</dc:subject>
+    <dc:subject>pirólisis</dc:subject>
+    <dc:subject>óxido de nitrógeno</dc:subject>
+    <dc:subject>no</dc:subject>
+    <dc:subject>interacción</dc:subject>
+    <dc:subject>diesel</dc:subject>
+    <dc:subject>gasolina</dc:subject>
+    <dc:subject>biocombustible</dc:subject>
+    <dc:subject>emisiones</dc:subject>
+    <dc:subject>Máster Universitario en Iniciación a la Investigación en Ingeniería Química y del Medio Ambiente</dc:subject>
+    <dc:title>Oxidación del 2,5-dimetilfurano y su interacción con el óxido de nitrógeno</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

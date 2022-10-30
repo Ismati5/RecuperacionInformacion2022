@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Platt, Simon Philip</dc:contributor>
+    <dc:contributor>Bono Nuez, Antonio</dc:contributor>
+    <dc:creator>Martínez Larcuén, Mariano</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Every year there are around 20 earthquakes of magnitude 7 or above . This kind of seismic events are potentially destructive and can cause several structural damage, economic and human loss. In order to perform an efficient risk management and prevention work geophysics must be equipped with suitable software and hardware tools. Seismic studies comprise not only risk management but earth structure studies that are useful in gas and oil prospections. Vibration monitoring has also turned in a very useful scientific approach to deal with structural safety and maintenance. Among these devices, MEMS accelerometer combines great performance with low costs, characteristics that have made it one of the most popular devices when it comes to this task.  Seismic analysis software has been developed using LabVIEW. The software decodes SAC data files and retrieves important seismic parameters like arrival wave times, location and magnitude. The precision and performance reached is acceptable for the scope of this project and it could be used as a domestic seismic analyser but not for its use in a professional seismic station. The seismic data for the system evaluation was retrieved from IRIS database.   A vibration DAQ and monitoring module has been designed and implemented. It successfully measures and monitors acceleration versus time and the signal’s spectra. Zooming options were included in order to make easier the background noise and ambient vibration study. An instant and maximum earthquake intensity gauge was programmed to give an idea of the experienced event potential danger. The user can selectively save acceleration time responses in LVM format. An analogue output was implemented. It is capable of reading acceleration versus time responses saved in LVM and SAC files and output them using a DAQ card analogue output function. This voltage can be seen in an oscilloscope or input to other devices. In order to acquire and save the analogue waveforms created with the previous function an analogue input was included as an initial objective in the Scheme of Work. However, it was dropped in the final implementation because it was considered that its function was too similar to the vibration DAQ module and it did not have enough practical application.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8583</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8583/files/TAZ-PFC-2012-429.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>terremoto</dc:subject>
+    <dc:subject>sísmico</dc:subject>
+    <dc:subject>sismo</dc:subject>
+    <dc:subject>daq</dc:subject>
+    <dc:subject>monitorización</dc:subject>
+    <dc:subject>vibraciones</dc:subject>
+    <dc:subject>parametros sísmicos</dc:subject>
+    <dc:subject>sac</dc:subject>
+    <dc:subject>análisis</dc:subject>
+    <dc:subject>acelerómetro</dc:subject>
+    <dc:subject>labview</dc:subject>
+    <dc:subject>earthquake</dc:subject>
+    <dc:subject>seismic</dc:subject>
+    <dc:subject>seismological</dc:subject>
+    <dc:subject>vibration</dc:subject>
+    <dc:subject>monitoring</dc:subject>
+    <dc:subject>analysis</dc:subject>
+    <dc:subject>signal processing</dc:subject>
+    <dc:subject>seismic parameters</dc:subject>
+    <dc:subject>accelerometer</dc:subject>
+    <dc:subject>iris</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electrónica Industrial)</dc:subject>
+    <dc:title>Seismic and vibration signal analysis and monitoring using LabView</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

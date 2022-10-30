@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Segarra Flor, Juan</dc:contributor>
+    <dc:creator>Olmeda Morgade, Brian</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>El Departamento de Informática e Ingeniería de Sistemas (DIIS) ha realizado un importante esfuerzo en la compra de varios dispositivos de red con el objetivo de adaptarse al espacio europeo de educación superior de las asignaturas de Redes. Aunque el presente proyecto está asociado principalmente a las asignaturas troncales de dicha área, se aplica también a otras materias del mismo ámbito (optativas y asignaturas de máster). En particular se han adquirido y fijado en el laboratorio L1.02: ocho encaminadores domésticos Linksys WRT54GL, un servidor Dell PowerEdge 860, una unidad de distribución de alimentación APC AP7922 (PDU), dos conmutadores Dell PowerConnect 3424 y un sistema de alimentación ininterrumpida APC Back-UPS RS 800 (SAI). El PFC consiste en la automatización de la configuración de todos estos dispositivos(puesta en marcha, interconexión y adaptación al ámbito docente de los mismos), así como el establecimiento de distintas topologías lógicas de red en función de prácticas docentes concretas, permitiendo el uso de distintos protocolos de encaminamiento y configuraciones de equipos, sin tener que modificar la topología física. Toda esta configuración puede ser creada, almacenada para su carga posterior, modificada y/o volver a su estado original al finalizar cada práctica con facilidad. Para ello se han desarrollado sencillas interfaces de usuario a utilizar por el profesorado para la ordenación del funcionamiento de los equipos o se han adaptado los que proporcionaba el fabricante. El objetivo final ha sido ajustarse a los requerimientos de cada práctica que se realice en el laboratorio.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4884</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Arquitectura y Tecnología de Computadores</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4884/files/TAZ-PFC-2010-097.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Re-configuración dinámica de redes en un laboratorio docente</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

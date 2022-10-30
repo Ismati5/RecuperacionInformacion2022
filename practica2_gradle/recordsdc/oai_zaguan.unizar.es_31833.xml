@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Martin Morales, Jorge; Martínez Torres, Javier</dc:contributor>
+    <dc:contributor>Luis Rández</dc:contributor>
+    <dc:creator>Gracia Benito, Alejandro</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>Las señales eléctricas, electrónicas y magnéticas proporcionadas por multitud de aparatos de medida en el ámbito de la Ingeniería pueden ser aproximadas de forma precisa por una curva plana, pudiendo así abordar el problema desde un punto de vista matemático. Un caso particular de este tipo de señales es el obtenido en la experimentación de identificación de sustancias explosivas mediante un sensor basado en nanotecnología desarrollado por un grupo de investigación de reconocido prestigio como es el Instituto de Investigación de Nanociencia de Aragón, tratándose por tanto de un proyecto fin de grado con un marcado carácter interdisciplinar. Así, el objetivo principal del trabajo es codificar una familia de curvas planas dependiendo de un conjunto de parámetros cuya dimensión sea mínima, pudiendo así obtener un método para caracterizar la curva plana de tal modo que en el caso de presentarse una nueva curva, el modelo sea capaz de parametrizarla según las curvas dadas anteriormente. Mediante el desarrollo de este trabajo el alumno verá una aplicación directa de los métodos impartidos en diferentes asignaturas del grado, así como adquirir el conocimiento de un problema de gran impacto en la sociedad.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31833</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Matemáticas; Área de Análisis Matemático</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31833/files/TAZ-TFG-2015-1123.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Matemáticas</dc:subject>
+    <dc:title>Identificación de sustancias explosivas mediante la parametrización/caracterización de curvas planas</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Artigas Martín, José María</dc:contributor>
+    <dc:contributor>Marín Cárdenas, Miguel Ángel</dc:contributor>
+    <dc:creator>Mayordomo García, Carlos</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>OBJETIVO. Aplicar la RM potenciada en difusión para la diferenciación entre tumores primarios cerebrales de alto grado (TAG) y metástasis solitarias cerebrales (MS). MATERIAL Y MÉTODOS. Se revisaron retrospectivamente pruebas de RM de 42 pacientes, 28 con histopatología de TAG y 14 con MS. Se realizaron mediciones de CDA (coeficiente de difusión aparente) y FA (fracción de anisotropía) sobre la sustancia blanca peritumoral a 3 distancias distintas del borde tumoral con realce de contraste: directamente adyacente a éste (ROI-c), a 1 cm (ROI-m) y a 2 cm de distancia (ROI-l). Todo ello se hizo utilizando mapas paramétricos de CDA y de FA para realizar las 3 mediciones en dos direcciones diferentes: una hacia haces de sustancia blanca muy organizados, determinados por una alta FA, y otra hacia sustancia blanca menos organizada, con baja FA. Se compararon los diferentes valores medios de CDA normalizados y de FA para establecer diferencias entre ambos tipos de tumores.  RESULTADOS. Se encontraron diferencias entre TAG y MS en dirección a sustancia blanca muy organizada (alta FA) a 1 cm del tumor (ROI-m), aunque no significativas estadísticamente (p = 0,085); y en dirección a sustancia blanca menos organizada (baja FA) también en el ROI intermedio, a 1 cm del tumor (TAG-1m y MET-1m), pero tampoco estadísticamente significativa (p = 0,174). CONCLUSIONES. A la hora de encontrar diferencias en el valor medio de CDA peritumoral entre TAG y MS la mejor localización para hacer las mediciones es a 1 cm de la pared tumoral con realce con contraste (ROI-m), especialmente si las mediciones se realizan en dirección a haces de sustancia blanca muy organizada con alta FA. La estructura tridimensional de la sustancia blanca peritumoral y su nivel de compactación podría tener también un papel relevante a la hora de encontrar diferencias entre los dos tipos de tumores.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/70457</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Pediatría, Radiología y Medicina Física; Área de Radiología y Medicina Física</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/70457/files/TAZ-TFG-2017-1011.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Medicina</dc:subject>
+    <dc:title>RM potenciada en difusión en la diferenciación de tumores cerebrales primarios de alto grado de metástasis solitarias: papel de CDA y FA.</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Diffussion-weighted MRI used to differentiate high-grade primary tumors from solitary metastatic lesions in the brain: the role of ADC and AF.</dc:title>
+</oai_dc:dc>

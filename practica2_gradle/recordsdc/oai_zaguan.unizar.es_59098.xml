@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bayona Bafaluy, María Pilar</dc:contributor>
+    <dc:contributor>Garrido Pérez, Nuria</dc:contributor>
+    <dc:creator>Amezcua Gil, Javier</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>La enfermedad de Alzheimer (EA) es un trastorno neurodegenerativo caracterizado por la presencia de placas seniles y ovillos neurofibrilares en el cerebro, formados por depósitos del péptido β-amiloide y la proteína tau hiperfosforilada, respectivamente. El origen de la enfermedad y las bases moleculares de la misma siguen en estudio, ámbito en el que desde nuestro grupo se ha establecido una hipótesis que relaciona al sistema OXPHOS, la síntesis de novo de pirimidinas y la EA. Para comprobar esta hipótesis es necesario investigar las bases moleculares de la enfermedad y para ello deben validarse modelos de estudio de forma previa. En el presente trabajo se ha llevado a cabo la validación de las líneas celulares hNSC, SH-SY5Y y SK-N-BE(2)-C como modelos adecuados a fin de diferenciarlas a neuronas colinérgicas y estudiar la proteína tau en ensayos posteriores. En concreto, se ha realizado la caracterización del gen MAPT (Microtubule-associated protein tau), codificante para la proteína tau, mediante el análisis de la expresión del gen y del ratio del grupo de isoformas 3R y 4R (establecidas por splicing alternativo del exón 10), así como la búsqueda de las 6 isoformas mayoritarias presentes en cerebro adulto humano y el estudio de las variaciones genéticas de MAPT. En las líneas SK-N-BE(2)-C y SH-SY5Y no se han encontrado variaciones en los transcritos secuenciados de MAPT y se ha observado un claro predominio de la isoforma fetal con respecto a las demás. Sin embargo, más ensayos son necesarios para validar la línea hNSC antes de su utilización, ya que sólo ha podido determinarse la mayor expresión de las isoformas 3R en esta línea celular.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/59098</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Bioquímica y Biología Molecular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/59098/files/TAZ-TFG-2016-2805.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/59098/files/TAZ-TFG-2016-2805_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Biotecnología</dc:subject>
+    <dc:title>Caracterización del gen MAPT en modelos celulares para el estudio de la enfermedad de Alzheimer</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">MAPT gene characterization in cellular models for Alzheimer's disease study</dc:title>
+</oai_dc:dc>

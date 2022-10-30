@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Abaurrea, Jesús</dc:contributor>
+    <dc:creator>Asín Lafuente, Jesús</dc:creator>
+    <dc:date>2003</dc:date>
+    <dc:description>En la memoria se desarrollan modelos estadísticos que permiten caracterizar, en un grado adecuado, el comportamiento de la precipitación diaria en un observatorio. La modelización elegida representa el proceso de lluvia mediante dos componentes, la ocurrencia de precipitación, representada por una variable binaria, y la cantidad medida en los días lluviosos, cada una de las cuales requiere construir un submodelo. En ambos casos, la distribución de la variable de interés no es Gaussiana y su valor esperado depende de covariables atmosféricas; por esto, el marco de los modelos lineales generalizados (GLM) y sus extensiones que permiten considerar la dependencia entre respuesta sucesivas, resulta un esquema de modelización adecuado. En el capítulo 1 se hace una revisión bibliográfica de los modelos de precipitación y una presentación de la familia de modelos a utilizar. El capítulo 2 de la memoria se dedica al análisis de las herramientas de crítica de los modelos y a hacer una propuesta de valoración de los mismos. Se propone una metodología que tiene en cuenta, además de las medidas habituales, la capacidad de los modelos para clasificar correctamente las observaciones, reproducir el ciclo estacional, la evolución interanual de la lluvia o la distribución de la longitud de las rachas seca y húmeda. El capítulo 3 se dedica a la construcción de modelos y al análisis de su capacidad para ajustar las series de precipitación de cuatro observatorios de la cuenca del Ebro con diferentes características climáticas e información atmosférica dispar. Los modelos de ocurrencia considerados son cadenas de Markov cuyas probabilidades de transición se estiman mediante regresión logística. La estrategia de construcción estudia, en pasos sucesivos, la significación de diferentes convariables: indicadores de ocurrencia en los días previos, armónicos para representar el ciclo anual y covariables climática.  El objetivo del capítulo 4 es construir un modelo que predsiga la precipitación de un observatorio. En el capítulo 5 se desarrolla un "downscaling" de las precipitaciones en un escenario de cambio climático.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10394</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Métodos Estadísticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10394/files/TESIS-2013-036.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>modelos estadísticos</dc:subject>
+    <dc:subject>modelos matemáticos</dc:subject>
+    <dc:subject>modelización</dc:subject>
+    <dc:subject>meteorología</dc:subject>
+    <dc:title>Modelos para la precipitación diaria en el marco de los modelos lineales generalizados</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

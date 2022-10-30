@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Russo, Beniamino</dc:contributor>
+    <dc:creator>Jiménez Camacho, Andrea Yesenia</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>El siguiente estudio nace de la necesidad de dar respuestas a los nuevos retos de gestión urbana, con la finalidad de reducir los costes y riesgos generados por estos. El principal  objetivo   de  estudio  es  minimizar  los  efectos  producidos  por  las precipitaciones  en  zonas  urbanizadas,  y  por  tanto  impermeabilizadas.  Se  trata  de encontrar una metodología para este fin, como es elcaso de las Técnicas de Drenaje Urbano Sostenible (TEDUS). La técnica seleccionada para este estudio es la implantación de cubiertas verdes, una TEDUS ya establecida en otros países y que han demostrado disminuir de manera significativa el volumen de escorrentía, así como disminuir el caudal pico. El  continuo  y  rápido  crecimiento  de  las  ciudades,  así  como  el  cambio  de condiciones  climáticas  ha  dado  como  resultado  que  las  EDAR  se  queden infradimensionadas,  y  suponga  que  en  muchos  casos  se  tenga  que  verter directamente al medio, sin previo tratamiento. Esta técnica trata de reproducir lo más fielmente posible, la situación del terreno previa a la impermeabilización. Para  un  cálculo  exacto  de  esta  técnica  de  drenaje  sostenible,  se  empleará  el software SWMM, el cual permite el modelado hidrológico, además en su nueva versión 5.1 incluye un módulo específico para cubiertas verdes,  permitiendo  definir  las  tres  capas  de  las  que  se  compone  una cubierta verde.  La zona de estudio se encuentra situada en la ciudad de Zaragoza, en el barrio de Miralbueno, es una área urbana no consolidada de262,75 hectáreas.  El  estudio   se  realizará  para  una  lluvia  de  diseño,  así  como  para  una  serie continua de lluvia anual. Se ha realizado una comparativa del uso de cubiertas verdes (extensiva,  semi intensiva  e  intensiva)  con  la  cubierta  convencional,  dando  como resultado  una disminución de volumen vertido al medio de hasta el 89%, esta reducción se debe al aumento de las pérdidas por infiltración y evapotranspiración.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31671</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31671/files/TAZ-TFG-2015-2388_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/31671/files/TAZ-TFG-2015-2388.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Civil</dc:subject>
+    <dc:title>Modelización de Low Impacts Developments a través de la nueva versión del software SWMM5 (V.5.1)</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

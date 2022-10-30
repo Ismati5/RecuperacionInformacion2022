@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Campos Laclaustra, Javier</dc:contributor>
+    <dc:creator>Abadía Zárate, Santiago</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>MC-Spy básicamente es un módulo de una aplicación web, que por un lado: maneja, almacena y gestiona una serie de datos estadísticos obtenidos por él mismo de dicha aplicación web; y por otro lado utiliza todos esos datos almacenados para generar estadísticas y previsiones en formato de texto y gráfico. MC-Spy surgió inicialmente, y de hecho se desarrolló, bajo el contexto de su integración en una banca electrónica, pero puede ser totalmente integrado en cualquier otra aplicación web (Java), como de hecho se hizo posteriormente  por parte de la empresa en la que se realizó el proyecto. Gracias a MC-Spy, los administradores de la banca electrónica (o aplicación web en general), podrán detectar al instante posibles errores de funcionamiento de la banca, podrán obtener estadísticas con la que los directores bancarios poder hacer sus decisiones, e incluso mostrar previsiones de entrada de dinero, operaciones que se prevé que se realizarán en la banca en los próximos meses (útil por ejemplo para anticipar un aumento de prestaciones de los servidores) ,etc… gracias a unos algoritmos de previsiones en base a las series de datos almacenados que el mismo MC-Spy ha estado contabilizando.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/15881</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/15881/files/TAZ-PFC-2014-348.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>estadística</dc:subject>
+    <dc:subject>previsiones</dc:subject>
+    <dc:subject>java</dc:subject>
+    <dc:subject>banca electrónica</dc:subject>
+    <dc:subject>mvc</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>MC-Spy. Un sistema para la explotación de la información histórica de operaciones realizadas en banca electrónica</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

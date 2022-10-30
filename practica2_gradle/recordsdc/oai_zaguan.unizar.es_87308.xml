@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bernal Agustín, José Luis</dc:contributor>
+    <dc:creator>Bellot Viñas, Pedro</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>El objetivo de este Trabajo Fin de Grado es elaborar una herramienta web que permita obtener a quien la use una primera aproximación a la viabilidad técnica y económica de la instalación que estén pensando montar. La instalación podrá ser fotovoltaica, eólica o mixta pudiendo elegir la proporción de cada una.&lt;br /&gt;La herramienta esta destinada al estudio de instalaciones conectadas a la red sin ningún tipo de almacenamiento en cualquier ubicación que plantee el usuario.&lt;br /&gt;Los datos meteorológicos que requieren para realizar los cálculos energéticos se obtienen de la base de datos de la NASA. La herramienta recoge los datos y muestra los resultados al usuario en forma de gráficos y tablas.&lt;br /&gt;La viabilidad económica de la instalación se resolverá teniendo en cuenta los quipos seleccionados, los consumos que introduzca el usuario y la generación energética que produzca la instalación.&lt;br /&gt;Los lenguajes de programación empleados para realizar la herramienta han sido HTML, CSS y JavaScript, incluyendo el uso de librerías y APIs proporcionadas por otros desarrolladores.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87308</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87308/files/TAZ-TFG-2019-4613.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Herramienta online para el estudio de instalaciones de autoconsumo</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Online tool for the study of self-consumption facilities</dc:title>
+</oai_dc:dc>

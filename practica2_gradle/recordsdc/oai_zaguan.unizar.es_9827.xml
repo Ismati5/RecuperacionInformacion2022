@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Fueyo Díaz, Norberto</dc:contributor>
+    <dc:contributor>Gómez Samper, Antonio</dc:contributor>
+    <dc:creator>Esteban Hernando, María Pilar</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>En este proyecto se analiza la transferencia de calor en la zona convectiva de una caldera que opera en modo oxi-combustión y los factores que influyen en dicha transferencia. Para ello, se va a describir este modo de combustión y a comparar con el modo de combustión tradicional, esto es, con aire. Cada modo de combustión produce unos gases de salida con una composición distinta, lo cual hace que estos tengan diferentes propiedades termodinámicas que pueden afectar a la transferencia de calor en la zona convectiva de la caldera. Para comparar cada caso, se va a utilizar un modelo de fluidodinámica computacional desarrollado por el Grupo de Fluidodinámica Numérica (GFN) de la universidad de Zaragoza, con el que se simulará la zona convectiva de una caldera experimental. Esta caldera forma parte de la Fundación de la Ciudad de la Energía (CIUDEN), situada en la provincia de León, y puede operar en los dos modos, esto es, aire y oxi-combustión.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9827</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9827/files/TAZ-PFC-2012-794_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/9827/files/TAZ-PFC-2012-794.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>oxicombustión</dc:subject>
+    <dc:subject>zona convectiva</dc:subject>
+    <dc:subject>transferencia de calor</dc:subject>
+    <dc:subject>simulación computacional</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Análisis de la transferencia de calor en la zona convectiva de una caldera de oxi-combustión</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Pérez Palacín, Diego Carmelo</dc:contributor>
+    <dc:contributor>Merseguer Hernáiz, José Javier</dc:contributor>
+    <dc:creator>Fraca Santamaría, María Estíbaliz</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>Dentro de la Ingeniería del software, el paradigma open-world propone la creación de sistemas software heterogéneos y distribuidos con un entorno de ejecución cambiante e impredecible. Partiendo de una arquitectura de tres capas propuesta en la literatura, ésta se adapta para la implementación de sistemas software autoadaptativos en base a prestaciones en el contexto open-world.    El objetivo de este PFC es la implementación de la parte más desafiante de la arquitectura: El generador de estrategias de autoconfiguración. Para ello será necesario el modelado diagramas UML con anotaciones MARTE, la traducción de los diagramas a redes de Petri y la evaluación temporal de las redes de Petri.    El resultado obtenido ha sido un paquete ejecutable preparado para ser integrado en sistemas autoadaptativos que siguen la arquitectura de tres capas referenciada. Este paquete genera una estrategia de autoconfiguración que dirigirá las reconfiguraciones del software autoadaptativo reaccionando a los cambios percibidos en el entorno open-world del sistema.    Mediante el desarrollo de este software ejecutable, se ha dado un paso adelante hacia la implementación real de sistemas autoadaptativos en base a sus prestaciones.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6512</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6512/files/TAZ-PFC-2011-635.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>uml</dc:subject>
+    <dc:subject>sistemas software autoadaptativos</dc:subject>
+    <dc:subject>evaluación de prestaciones</dc:subject>
+    <dc:subject>redes de petri</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Implementación de un generador de estrategias de autoconfiguración para la mejora de prestaciones de software autoadaptativo</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

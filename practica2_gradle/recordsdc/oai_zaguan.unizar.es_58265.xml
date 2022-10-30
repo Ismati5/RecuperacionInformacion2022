@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Olave Rubio, Pilar</dc:contributor>
+    <dc:creator>Torrubia Sanchez, José Daniel</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>Este trabajo pretende poner en valor la importancia que supone para los departamentos de marketing, analizar toda la información que obtienen a través de diversas fuentes de datos. Analizar el comportamiento del cliente para predecir qué es lo que van a necesitar mañana y ofrecérselo es el gran reto que las empresas tienen hoy en día. El objetivo del proyecto es demostrar el gran interés que para las empresas tiene el tratamiento de esta información para generar conocimiento y valor, en particular en el campo del marketing y la investigación de mercados. Este objetivo lo llevaremos a cabo mediante una introducción al concepto de Big Data, seguido de un análisis de la información como activo estratégico y finalmente con la realización de un caso práctico de data mining. Éste tendrá como objetivo, analizar los perfiles de los clientes de IKEA FAMILY y calcular la probabilidad de compra de un determinado producto a través de un modelo de regresión binario. Así pues, este proyecto consta de 4 partes: Introducción al Big Data, la información como activo estratégico, caso práctico y conclusiones, además de la correspondiente bibliografía consultada.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/58265</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Estructura e Historia Económicas y Economía Pública</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/58265/files/TAZ-TFG-2016-2505.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Marketing e Investigación de Mercados</dc:subject>
+    <dc:title>Nuevas tendencias en el uso de los datos para el marketing: Big Data</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">New trends in the use of information for marketing: Big Data</dc:title>
+</oai_dc:dc>

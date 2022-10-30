@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Lamelas Gracia, María Teresa</dc:contributor>
+    <dc:creator>Cayetano Arroyo, Aida</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Hoy en día existe un problema de masías en estado ilegal dentro de la comunidad de Aragón, por este motivo, surge la necesidad de implantar una nueva metodología que dé lugar a la detección geográfica de estas. La búsqueda se centrará en identificar de forma precisa edificaciones aisladas en el terreno y determinar cuál es su estado, para la posterior comprobación de información en el departamento de catastro. Se comparan varias metodologías de trabajo para la generación de diferentes Modelos Digitales de Superficie, en las que se combina diferentes clasificaciones de nubes de puntos LiDAR, provenientes de distintos filtrados y softwares. Los procedimientos de trabajo, junto con sus estadísticas se comparan en unas zonas de control determinadas hasta llegar a unas conclusiones que sinteticen cual es el mejor método a emplear. Para completar el estudio se han analizado la influencia de los costes, herramientas de visualización y clasificación de la nube de puntos, de cada aplicación, con el fin de ayudar a decir cuál ha sido el mejor método empleado para el objetivo del trabajo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64598</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64598/files/TAZ-TFM-2017-1336.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Tecnologías de la Información Geográfica para la Ordenación del Territorio: Sistemas de Información Geográfica y Teledetección</dc:subject>
+    <dc:title>Identificación de edificaciones aisladas, mediante modelos digitales elaborados con PNOA-LiDAR</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Identification of isolated buildings, using digital models elaborated with the PNOA-LIDAR</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Usón Gil, Sergio</dc:contributor>
+    <dc:creator>Castillo Fernández, Jorge</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Revisión del estado del arte en la aplicación de la tecnología termoeléctrica para alimentar pequeños dispositivos portátiles a partir del calor humano (tipos de dispositivos, aplicaciones, potencial futuro, etc.). Desarrollo de un modelo térmico sencillo de uno de estos dispositivos. El modelo permitirá analizar la influencia de los parámetros internos del generador termoeléctrico, la configuración del disipador y la temperatura ambiente en la producción de energía.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64157</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64157/files/TAZ-TFG-2017-2944_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/64157/files/TAZ-TFG-2017-2944.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Generadores termoeléctricos accionados por el calor humano para dispositivos portátiles. Estado del arte y modelado térmico sencillo</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Body heat driven thermoelectric generators for wearable devices. State of the art and simple thermal modeling</dc:title>
+</oai_dc:dc>

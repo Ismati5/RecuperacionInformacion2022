@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gran Tejero, Rubén</dc:contributor>
+    <dc:contributor>Suárez Gracia, Darío</dc:contributor>
+    <dc:creator>Ceresuela Palomera, Raúl</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Estudio del impacto que tienen distintas optimizaciones de compilación en el consumo energético, la disipación de potencia y la temperatura en los programas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6257</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Arquitectura y Tecnología de Computadores</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6257/files/TAZ-PFC-2011-427.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>compilador</dc:subject>
+    <dc:subject>optimización</dc:subject>
+    <dc:subject>arquitectura de computadores</dc:subject>
+    <dc:subject>consumo energético</dc:subject>
+    <dc:subject>disipación de potencia</dc:subject>
+    <dc:subject>temperatura</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Impacto de las optimizaciones de compilación en la energía, potencia y temperatura : el caso Intel Pentium 4</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

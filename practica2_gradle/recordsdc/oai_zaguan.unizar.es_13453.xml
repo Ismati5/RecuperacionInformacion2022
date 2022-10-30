@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Vakkilainen, Esa</dc:contributor>
+    <dc:contributor>Gonzalo Callejo, Alberto</dc:contributor>
+    <dc:creator>Borniquel Moreno,Daniel</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El presente proyecto comprende el desarrollo de diversos modelos para gasificación de biomasa. La primera parte consta de la generación de un modelo termodinámico basado en el equilibrio, un modelo que incorpora además elementos experimentales y la simulación de dos plantas de gasificación de biomasa (una con vapor de agua y la otra con aire) con el software comercial Aspen Hysys. Se han analizado y comparado los modelos entre sí y con resultados experimentales. La segunda parte corresponde con el desarrollo de dos modelo puramente experimentales, uno para gasificación con vapor de agua en lecho fluidizado y otro en lecho fijo. Se ha hecho una comparativa global de todos los modelos con resultados experimentales para observar cuál es el que mejor resultados aporta.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/13453</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Ingeniería Química</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/13453/files/TAZ-PFC-2014-099.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/13453/files/TAZ-PFC-2014-099_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>gasificación</dc:subject>
+    <dc:subject>biomasa</dc:subject>
+    <dc:subject>modelo matemático</dc:subject>
+    <dc:subject>Ingeniero Químico</dc:subject>
+    <dc:title>Desarrollo de modelos matemáticos para gasificación de biomasa</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

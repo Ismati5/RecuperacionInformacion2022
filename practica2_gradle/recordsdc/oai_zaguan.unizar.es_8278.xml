@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Fillat Castejón, María Francisca</dc:contributor>
+    <dc:contributor>González Rodríguez, Andrés</dc:contributor>
+    <dc:creator>Broset Blasco, Esther</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>La proteína FurC es una de las tres proteínas de la familia Fur (Ferric Uptake Regulator) que posee Anabaena sp. PCC 7120. Esta familia de proteínas es la encargada de regular la homeostasis del hierro, aunque también se ha visto que son capaces de realizar otras funciones. En concreto FurA modula la respuesta de la cinaobacteria al estrés oxidativo y FurB se une inespecíficamente al DNA para protegerlo del daño oxidativo. Sin embargo, FurC es la menos conocida y por ello este trabajo consiste en realizar un estudio de su papel. 	Para la realización de este trabajo se ha obtenido un mutante de Anabaena sp. 7120 que sobreexpresa FurC (EB2770FurC). También se ha analizado la transcripción de furC en un cultivo de Anabaena WT a distintos tiempos después de retirar el nitrógeno del medio. Y se ha realizado un ensayo de pull-down para determinar a qué proteínas se une FurC. 	Los resultados fueron que la transcripción de furC se activa en déficit de nitrógeno y que FurC se une a dos proteínas linker que forman parte de los ficobilisomas de Anabaena. Por otro lado, los estudios con el mutante de sobreexpresión de FurC revelaron que EB2770C posee un mayor ratio de ficobiliproteínas/proteínas totales en presencia o ausencia de nitrógeno en el medio de cultivo. Con estos resultados se ha propuesto un modelo de acción de FurC. Este modelo propone que un déficit de ficobiliproteínas aumenta la expresión de FurC, que actúa uniéndose a los ficobilisomas y estabilizándolos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8278</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Bioquímica y Biología Molecular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8278/files/TAZ-TFM-2012-357.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>furc</dc:subject>
+    <dc:subject>anabaena</dc:subject>
+    <dc:subject>ficobilisomas</dc:subject>
+    <dc:subject>Máster Universitario en Biología Molecular y Celular</dc:subject>
+    <dc:title>Rol de FurC en Anabaena sp. PCC 7120</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

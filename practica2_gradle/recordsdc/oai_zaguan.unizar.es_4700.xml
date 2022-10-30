@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sarasa Alonso, Judith</dc:contributor>
+    <dc:creator>Pedro Pinto, Tamara</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>Factores meteorológicos y humanos hacen que la escasez de agua sea un problema. Se buscan nuevas fuentes de abastecimiento como puede ser el agua de salida de estaciones depuradoras, pero este agua necesita de un tratamiento para mejorar sus condiciones y cumplir con los requisitos del RD 1620/2007 que fija límites de sólidos en suspensión, turbidez y E. Coli. Hay que tener en cuenta también otras normas de calidad ambiental que consideran las sustancias que son peligrosas para la salud.  Este proyecto se centra en eliminar dichas sustancias peligrosas mediante tratamientos basados en luz UV. Mediante el análisis de un agua de salida de una EDAR municipal real y datos bibliográficos, se determina que los compuestos más habituales para la zona de estudio son cloroformo, 4-t-octilfenol, Isoproturon, 3,4-Dicloroanilina, Dimetoato, Simazina, Prometon, Terbutilazina, Terbutrina, Metolacloro, Clorpirifos, Clorfenvinfos.  	 El principal objetivo es, por tanto, estudiar la degradación de dichas sustancias, utilizando para ello, técnicas de oxidación avanzada basadas en UV. El empleo de estas técnicas resulta menos agresivo que las técnicas tradicionales ya que no generan subproductos tales como trihalomentanos. En este caso son dos tratamientos basados en luz UV. El primero utiliza sólo luz UV y el segundo, combina la misma con peróxido de hidrógeno. Ya que la muestra a tratar debe ser agua de salida de EDARs, en primer lugar, se fabrica un agua sintética con las mismas características en cuanto a parámetros físico-químicos. Este agua no posee las sustancias peligrosas, que se añaden posteriormente en un paso llamado fortificación. El complejo análisis de estas sustancias hace que la dosis óptima de tratamiento se obtenga en base a eliminación de materia orgánica y/o E. Coli. Se determinó que las dosis óptima de tratamiento con UV es 11.880 mW•s/cm2 y una intensidad de radiación para UV/H2O2 de 138.600 mW•s/cm2 y una concentración 0,01 M de peróxido.  Ambos tratamientos son eficaces en la eliminación de las sustancias consideradas, sin embargo es el tratamiento UV/H2O2 el que consigue mejores resultados ya que logra la degradación completa de todas las sustancias excepto Terbutrina, Terbutilazina y Cloroformo.  La luz UV en solitario elimina totalmente  Clorpirifos y Clorfenvinfos. Tanto cloroformo como 3,4- Dicloroanilina se degradan en un porcentaje superior  al 70 % y el resto de las sustancias menor al 50%.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4700</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Tecnologías del Medio Ambiente</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4700/files/TAZ-PFC-2010-050_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/4700/files/TAZ-PFC-2010-050.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>regeneración</dc:subject>
+    <dc:subject>agua</dc:subject>
+    <dc:subject>EDAR</dc:subject>
+    <dc:subject>sustancias peligrosas</dc:subject>
+    <dc:subject>UV</dc:subject>
+    <dc:subject>H2O2</dc:subject>
+    <dc:subject>Ingeniero Químico</dc:subject>
+    <dc:title>Estudio de la degradación de sustancias peligrosas presentes en aguas de salida de EDAR mediante tratamientos basados en luz UV</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

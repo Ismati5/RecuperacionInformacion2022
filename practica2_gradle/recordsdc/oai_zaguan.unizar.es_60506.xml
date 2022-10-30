@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Silva Suárez, Manuel</dc:contributor>
+    <dc:contributor>Mahulea, Cristian</dc:contributor>
+    <dc:creator>Clavel Villagrasa, Daniel</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>Deterministically Synchronized Sequential Process (DSSP) definen una subclase de sistemas descritos con Redes de Petri (RdP). Están compuestos por un conjunto de máquinas de estado (también llamadas agentes) que cooperan a través del paso asíncrono de mensajes. La estructura modular de las redes DSSP permite obtener fuertes resultados analíticos (por ejemplo, el teorema de rango proporciona condiciones necesarias y suficientes para asegurar vivacidad estructural). Este trabajo considera el problema de forzar estructuras vivas a partir de otras de tipo DSSP estructuralmente no vivas. Para algunas estructuras particulares de tipo DSSP en las cuales el teorema de rango demuestra que son estructuralmente no vivas, se provee un algoritmo basado en la preasignación de los buffers que la asegura. El algoritmo ha sido aplicado a DSSP que modelan sistemas reales de producción y salud. Se ha observado que en los sistemas de producción (lógica de consumo/producción de items) el algoritmo además de convertir la red viva, mantiene el significado físico del modelo. Por contra, en los sistemas de salud (lógica de producción/consumo de mensajes) al aplicar el algoritmo la red resultante es viva pero puede perderse el propósito del modelo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/60506</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/60506/files/TAZ-TFM-2016-316.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Industrial</dc:subject>
+    <dc:title>Desarrollo de un algoritmo basado en la preasignación de buffers que permita la vivacidad de sistemas de red DSSP inicialmente no vivos</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Development of an algorithm based on pre-assignation of buffers to enforce structural liveness in DSSP</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Artal-Bartolo, Enrique</dc:contributor>
+    <dc:contributor>Cogolludo Agustín, José Ignacio</dc:contributor>
+    <dc:creator>Martín Morales, Jorge</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El objetivo principal de la tesis doctoral es estudiar invariantes topológicos y algebraicos de las singularidades de Yomdin-Lê utilizando Q-resoluciones encajadas. La diferencia esencial de esta clase de resoluciones reside en permitir que el espacio ambiente contenga singularidades cocientes, simplificando de esta manera la complejidad combinatoria del divisor excepcional. Para ello hemos tenido que fijar un marco teórico en el que se han generalizado resultados clásicos de teoría de singularidades y geometría algebraica de espacios lisos al caso en el que se admiten singularidades cocientes. Destacamos el estudio de espacios proyectivos y explosiones ponderadas, teoría de intersección racional, fórmula de A\'Campo con singularidades cocientes y estudio de la estructura de Hodge mixta de la cohomología de la fibra de Milnor mediante la adaptación de la sucesión espectral de Steenbrink al caso cociente. El marco teórico obtenido se aplica al estudio de las singularidades superaisladas y de Yomdin-Lê (ponderadas y clásicas). Finalmente, se atacan contenidos más algorítmicos ligados al polinomio de Bernstein-Sato de una singularidad mediante bases de Gröbner en anillos no conmutativos. </dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6870</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Matemáticas</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6870/files/TESIS-2012-005.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>singularidad cociente</dc:subject>
+    <dc:subject>q-resolución encajada</dc:subject>
+    <dc:subject>teoría de intersección racional</dc:subject>
+    <dc:subject>función zeta de la monodromía</dc:subject>
+    <dc:subject>estructura de hodge mixta</dc:subject>
+    <dc:subject>singularidades de yomdin-lê</dc:subject>
+    <dc:subject>polinomio de bernstein-sato</dc:subject>
+    <dc:subject>base de gröbner. </dc:subject>
+    <dc:subject>quotient singularity</dc:subject>
+    <dc:subject>embedded q-resolution</dc:subject>
+    <dc:subject>rational intersection theory</dc:subject>
+    <dc:subject>monodromy zeta function</dc:subject>
+    <dc:subject>mixed hodge structure</dc:subject>
+    <dc:subject>yomdin-lê singularity</dc:subject>
+    <dc:subject>bernstein-sato polynomial</dc:subject>
+    <dc:subject>gröbner basis.</dc:subject>
+    <dc:title>Embedded Q-Resolutions and Yomdin-Lê Surface Singularities</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

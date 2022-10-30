@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Brosed, F. J.</dc:contributor>
+    <dc:contributor>Santolaria Mazo, Jorge</dc:contributor>
+    <dc:creator>Pardo Fuentelsaz, Héctor</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>El objeto del proyecto enunciado consiste en el análisis de las prestaciones de un robot de seis ejes según la NORMA UNE-EN ISO 9283. Por lo que se realizan los ensayos que recoge la norma mencionada anteriormente para su posterior evaluación. Con este estudio se pretende verificar el comportamiento de un robot de seis ejes mientras está operando y poder conocer los errores que comete. Es un proyecto propuesto por el departamento de ingeniería de diseño y fabricación que se mueve en el ámbito de la metrología dimensional y con él, se pretende evaluar los errores que comete un robot de seis ejes cuando está operando. Este estudio lo que hace ver, es que hay robots muy precisos, pero que no llegan a ser del todo exactos. De ahí, que se hagan estudios como este para poder mejorar y corregir dichos errores.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5358</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5358/files/TAZ-PFC-2010-349.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>robots industriales</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Ensayos y análisis de las prestaciones de un robot industrial de seis ejes según la norma UNE-EN ISO 9283</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

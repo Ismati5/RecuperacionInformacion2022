@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Vicente Gimeno, Luis Alfonso</dc:contributor>
+    <dc:creator>Badía Fraile, Guillermo</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El objetivo del trabajo es medir la máxima pérdida esperada de una muestra de fondos de inversión de Renta Variable Euro a partir de los rendimientos históricos de los títulos que componen sus carteras dentro de un determinado intervalo de confianza y para un determinado horizonte temporal. Para ello, el estudio presenta y utiliza la metodología Value-at-Risk (VaR).  En primer lugar se contextualiza el estudio presentando las características de los fondos de inversión, cuál ha sido la evolución de sus principales magnitudes y, a partir de unas proyecciones, cuál podría ser su evolución futura. Posteriormente se expone la metodología utilizada y sus diferentes formas de cálculo. De entre ellas, para realizar el trabajo, se escoge la Simulación de Montecarlo por entenderse que es la que mejores aproximaciones y más eficientes predicciones ofrece.  Tras el análisis empírico se encuentra que un fondo de los seleccionados, en dos de los tres escenarios analizados, es el que mejores resultados obtiene, siempre desde una perspectiva de limitar la pérdida máxima.   El análisis indaga en la necesidad de controlar y supervisar las posiciones de riesgo que asumen los fondos de inversión, dado que, como muestran los resultados, los rendimientos se pueden ver fuertemente afectados.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/15735</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Contabilidad y Finanzas; Área de Economía Financiera y Contabilidad</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/15735/files/TAZ-TFG-2014-1362.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>riesgo</dc:subject>
+    <dc:subject>value-at-risk (var)</dc:subject>
+    <dc:subject>simulación de montecarlo</dc:subject>
+    <dc:subject>fondos de inversión</dc:subject>
+    <dc:subject>Graduado en Administración y Dirección de Empresas</dc:subject>
+    <dc:title>Metodología VaR: Una aplicación empírica a Fondos de Inversión</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Martínez Barca, Miguel Ángel</dc:contributor>
+    <dc:contributor>Hauke Bernardos, Guillermo</dc:contributor>
+    <dc:contributor>Peña Baquedano, Estefanía</dc:contributor>
+    <dc:contributor>Celorrio de Pablo, Ricardo</dc:contributor>
+    <dc:creator>Lou Pina, José Manuel</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Este trabajo pretende ser una herramienta de apoyo en el ejercicio de mi actividad profesional. Es de todos conocido el hecho de que las estructuras deben diseñarse cumpliendo ciertos requisitos de bienestar los cuales quedan cubiertos manteniendo las deformaciones de éstas por debajo de ciertos valores normativos. Así, en el diseño de estructuras, raramente son las limitaciones tensionales las que marcan el dimensionamiento sino más bien son las flechas o deformaciones las que lo controlan. Con todo, en este trabajo se pretende estudiar el postpandeo de una tipología particular de estructuras, obteniendo las trayectorias de equilibrio de los grados de libertad de interés, de forma que se puedan visualizar los puntos límite de dichas trayectorias y obtener así la respuesta completa de las mismas. Desde un punto de vista práctico, este trabajo se pretende aplicar fundamentalmente para la obtención de las cargas criticas de pandeo de pórticos rígidos planos, a partir de las cuales se puedan obtener las longitudes de pandeo correctas de los pilares de la estructura además de en algunos casos particulares, poder seguir su respuesta de las mismas más allá del pandeo. Esto último, aunque en ocasiones puede no tener mucho sentido práctico puede servir para, en algún caso, discutir de forma razonada el comportamiento real de esta tipología estructural. Las estructuras analizadas se resuelven mediante métodos matriciales bajo una formulación corrotacional, empleando elementos barra de Euler Bernoulli y el algoritmo empleado para la solución del problema de postpandeo es el método de longitud de arco de Riks.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/13399</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/13399/files/TAZ-TFM-2014-027.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>postpandeo</dc:subject>
+    <dc:subject>métodos de longitud de arco</dc:subject>
+    <dc:subject>Máster Universitario en Mecánica Aplicada</dc:subject>
+    <dc:title>Cálculo no lineal de estructuras planas de barras. Obtención de las curvas de equilibrio en el análisis de postpandeo por el método de longitud de arco de Riks</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

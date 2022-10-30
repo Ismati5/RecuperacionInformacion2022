@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bruscolini, Pierpaolo</dc:contributor>
+    <dc:contributor>Falo Forniés, Fernando</dc:contributor>
+    <dc:creator>Blasco Hernández, Pablo Javier</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Las simulaciones sobre plegamiento de proteínas arrojan una gran cantidad de datos y el reto actual reside en el análisis de los mismos más que en su obtención. Aplicamos un algoritmo que analiza redes de Markov y caracteriza su dinámica al plegamiento de una proteína sencilla. Este algoritmo ha sido aplicado con anterioridad a problemas con algunas propiedades compartidas pero de naturaleza diferente. Realizamos una implementación en C++ del algoritmo así como de herramientas accesorias necesarias para la preparación y adecuación de los datos a analizar. Hacemos un análisis del camino de menor energía para el plegamiento y analizamos la estructura del paisaje de energías de la proteína, centrándonos en las cuencas de los estados desplegado y nativo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/63586</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Teórica; Área de Física Teórica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/63586/files/TAZ-TFM-2017-1359.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Modelización e Investigación Matemática, Estadística y Computación</dc:subject>
+    <dc:title>Modelización matemática de problemas biológicos</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Mathematical modeling of biological problems</dc:title>
+</oai_dc:dc>

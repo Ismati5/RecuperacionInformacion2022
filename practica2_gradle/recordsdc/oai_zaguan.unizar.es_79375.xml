@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>LAZARO ALQUEZAR, ANGELINA</dc:contributor>
+    <dc:creator>Betancourt Odio, Manuel Alejandro</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>The Cuban health system is known worldwide for its good results in the prevention of diseases and for its continuous improvements in health standards. However, we want to go a step further and put the patient at the center of the system. &lt;br /&gt;To this task, we propose a methodology that allows a complete automatization of the medical appointment system so that patients will know in advance the average time they will spend in the hospital the day of the appointment, as well as the sequence of medical tests that will have to undertake. We develop a non linear integer multi-goal model (NLIMGM) model to perform an optimal distribution of patients. Our model assign appointments to patients according to two different goals: to give the appointments as soon as possible and to minimize the time that a patient would spend in the hospital to complete a protocol.&lt;br /&gt;The performance of the resulting NLIMGM policies was compared with traditional practices decision rules for the diagnosis and treatment of ophthalmology diseases in a Cuba hospital. The results show that this method outperforms traditional methods by far. Specifically, this approach will increase the efficiency of appointments scheduling and reduces the total diagnosis time for cataract, cornea, glaucoma by 46% on average or, in other words, by roughly one hour, relative to the standard approach. Arguably, this translates into improved patient satisfaction and efficiency in the use of resources in health services. &lt;br /&gt;</dc:description>
+    <dc:description>&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/79375</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Estructura e Historia Económica y Economía Pública</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/79375/files/TESIS-2019-103.pdf</dc:relation>
+    <dc:subject>economia general</dc:subject>
+    <dc:title>Gestión óptima de citas médicas mediante la aplicación de un modelo de optimización multicriterio</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

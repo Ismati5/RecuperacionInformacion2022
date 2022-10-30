@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Letosa Fleta, Jesús</dc:contributor>
+    <dc:contributor>Mora Alfonso, Mario</dc:contributor>
+    <dc:creator>Aparicio Miñana, Alberto</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>Este proyecto, es la continuación de otros proyecto fin de carrera anteriores que han añadido elementos al proyecto final de carrera desarrollado por D. Pedro J. Lambea "Prototipo de volante de inercia levitado mediante superconductores”, el proyecto en el que nos encontramos ahora trata de su control mediante un microcontrolador. El objetivo final de este prototipo es convertirlo en un sistema de almacenamiento y recuperación de energía. Actualmente solo está en funcionamiento la parte de almacenamiento, se tiene la intención que próximos proyectos logren recuperar la energía cinética del rotor convirtiéndola en eléctrica. Lo que se ha conseguido con la realización de este proyecto es que el prototipo aumente de velocidad hasta su velocidad máxima de forma automática, a la cual se desconecta de la red. Entonces el volante sigue girando por su propia inercia, por el rozamiento con el aire y con los cristales de hielo. El rotor se frena hasta alcanzar la velocidad mínima a la cual se conecta a red para que alcance de nuevo la velocidad máxima, y lo mantenemos dentro de este rango de velocidad. Cuando este realizada la parte de recuperación, al conectar una carga el prototipo cederá la energía cinética acumulada para generar energía eléctrica lo cual hará que se frene. Al alcanzar la velocidad mínima volvería a conectarse a la red para volver a cargarse. Se ha empleado un microcontrolador para que se encargue de las funciones que son necesarias para controlar el prototipo. Además se ha diseñado y construido un sistema de anclaje del rotor cuando los superconductores no estén en activos, este estado ocurre cuando no se usa el prototipo, y cuando están activos lo sustenta a la distancia optima para que el rotor pueda levitar y que evita que el estator al ser alimentado lo atraiga. Es el microcontrolador el cual controla este sistema para su funcionamiento de forma automática A lo largo de esta memoria se exponen los diseños electrónicos y mecánicos realizados y la programación del microcontrolador</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5438</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5438/files/TAZ-PFC-2010-382.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5438/files/TAZ-PFC-2010-382_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Control</dc:subject>
+    <dc:subject>Prototipo de volante de inercia levitado</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electrónica Industrial)</dc:subject>
+    <dc:title>Control con microcontrolador de un prototipo de volante de inercia levitado por superconductores</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

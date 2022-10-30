@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Zalba Nonay, Belen</dc:contributor>
+    <dc:contributor>Lázaro Fernández, Ana</dc:contributor>
+    <dc:creator>Sesma Baquedano, Alejandro</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>La bomba de calor acoplada al terreno o bomba de calor geotérmica es simplemente una bomba de calor que intercambia energía térmica en forma de calor con el terreno. A pesar de ser una tecnología ampliamente difundida en la mayoría de países del Norte de Europa y América, en España todavía es algo emergente.  El presente proyecto fin de carrera se ha realizado por petición de una asociación de dos empresas de Zaragoza, Geoscan y Dolmen Ingeniería, que están tratando de implementar en su campo de trabajo las instalaciones de bombas de calor acopladas al terreno. La principal preocupación que surge es la disminución o aumento de la temperatura del terreno con el paso del tiempo debido a que no se extrae/inyecta la misma cantidad de energía térmica que se inyecta/extrae, y las consecuencias que esto conlleva. Aparte de estudiar este fenómeno, como proyecto fin de carrera se han propuesto otros objetivos: analizar la incertidumbre de los test de respuesta térmica, la metodología de diseño de los intercambiadores de calor acoplados al terreno y la idoneidad de sus parámetros, el software actual identificando fortalezas y debilidades, los métodos de aproximación del rendimiento medio estacional y el valor mínimo para cumplir la normativa europea y la situación en Zaragoza, ciudad pionera en España en bombas de calor acopladas al terreno mediante captación hídrica del acuífero urbano.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9752</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9752/files/TAZ-PFC-2012-739.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>bomba de calor</dc:subject>
+    <dc:subject>bomba de calor acoplada al terreno</dc:subject>
+    <dc:subject>ground source heat pump</dc:subject>
+    <dc:subject>ground coupled heat pump</dc:subject>
+    <dc:subject>ground heat exchanger</dc:subject>
+    <dc:subject>intercambiador de calor acoplado al terreno</dc:subject>
+    <dc:subject>bomba de calor geotérmica</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Estado del arte de sistemas de bombas de calor acopladas al terreno</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

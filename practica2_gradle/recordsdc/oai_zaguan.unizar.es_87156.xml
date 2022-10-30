@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Rezusta López, Antonio</dc:contributor>
+    <dc:contributor>Milagro Beamonte, Ana María</dc:contributor>
+    <dc:contributor>García Moros, José</dc:contributor>
+    <dc:creator>Vidal Tortajada, Jorge</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>El servicio de Microbiología y Parasitología es un Servicio Central y con labor asistencial ubicado en el Hospital Universitario Miguel Servet. En su labor de mejora continua, uno de los objetivos mas importantes para el Laboratorio es la fase de preanalítica, que abarca desde el momento de solicitud de la muestra clínica hasta su análisis. &lt;br /&gt;Como herramienta de mejora, se ha realizado una plataforma web de contenido dinámico que permite al personal del Laboratorio de Microbiología crear, editar y deshabilitar la información asociada a la solicitud y recogida de toma de muestras clínicas, siendo esta de referencia para el resto del SALUD.  &lt;br /&gt;Se ha  definido una base de datos MySQL como núcleo de la información para la plataforma web, así como un repositorio de ficheros para el contenido multimedia. La construcción de la plataforma se ha realizado usando lenguajes de programación como HTML, CSS, PHP, Javascript, jQuery, AJAX y JSON utilizando Wordpress como gestor del contenido. &lt;br /&gt;Dicha plataforma cuenta con diferenciación por roles de usuario, formularios para la creación del contenido adaptables a diferentes elementos multimedia, y procesos de revisión y validación de la información publicada que aseguren la calidad de la misma. &lt;br /&gt;Finalizado el desarrollo, se hace una valoración de la solución propuesta, planteándose asi los beneficios, limitaciones y líneas de mejora de las solución creada.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87156</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingeniería Telemática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87156/files/TAZ-TFM-2019-1448.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Biomédica</dc:subject>
+    <dc:title>Desarrollo de plataforma web para la gestión, diseño y consulta de procedimientos de toma de muestras en un laboratorio de Microbiología</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Development of a web platform for the management, desing and look up of a sample taking procedures for a microbiology laboratory</dc:title>
+</oai_dc:dc>

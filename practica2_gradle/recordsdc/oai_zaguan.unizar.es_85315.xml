@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Suárez Gracia, Darío</dc:contributor>
+    <dc:creator>Gómez Muñoz, Álvaro</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>El mundo de los administradores de sistemas requiere de nuevas herramientas para la gestión de servidores, ya que la consolidación de servicios y los modelos `cloud` hacen que el número de servidores administrados por persona haya aumentado considerablemente, y por ello se debe empezar a apoyar los sistemas de movilidad. Este trabajo de fin de grado pretende llenar parcialmente este vacío con el desarrollo de una aplicación móvil, que es lo que suele faltar en el ámbito de los administradores de sistemas. Se ha implementado una aplicación cliente-servidor, la cual se ha denominado como ServCM (Server Control Master, también denominado en español Control maestro de servidores), en la que el servidor suministra los datos de su estado, como el uso de CPU, Memoria... al cliente y este tiene la posibilidad de mandar comandos y generar eventos en el servidor como manera de contrarrestar cualquier posible fallo.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/85315</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Arquitectura y Tecnología de Computadores</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/85315/files/TAZ-TFG-2019-2302.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>Aplicación móvil para la gestión de servidores Linux/UNIX</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Mobile Manager of Linux Servers</dc:title>
+</oai_dc:dc>

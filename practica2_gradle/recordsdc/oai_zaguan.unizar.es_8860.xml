@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Garcés García, Elena</dc:contributor>
+    <dc:contributor>Gutiérrez Pérez, Diego</dc:contributor>
+    <dc:creator>Martín Domenech, Fernando</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Las últimas investigaciones en fotografía computacional han permitido que problemas previamente irresolubles con la fotografía convencional, sean ahora factibles al introducir nuevos dispositivos y técnicas de procesado. Un ejemplo de este tipo de problemas es la obtención de las componentes de iluminación de una escena iluminada por una fuente de luz. Estas componentes son: iluminación directa, producida por la incidencia de la luz en un punto, e iluminación global, resultante de los rebotes de la luz en otros puntos de la escena como consecuencia de fenómenos físicos tales como reflexión, dispersión o difusión. Así se tiene que, la componente directa nos ofrece una medida pura acerca de cómo las propiedades materiales de un objeto interactúan con la fuente emisora de luz y la cámara, mientras que la componente global muestra interacciones más complejas entre los distintos objetos que conforman la escena. Por lo tanto, esta descomposición resulta muy útil en numerosas tareas relacionadas con la fotografía computacional tales como la edición o captura de materiales, la re-iluminación de escenas o extracción de la geometría. Obtener esta descomposición a partir de una única fotografía de la escena es un proceso inviable debido al elevado número de incógnitas y la poca información de la que se dispone. Por tanto, para lograr este objetivo, el trabajo aquí realizado se basa en la publicación de Nayar et. al. [NR06] en la cual se emplea luz estructurada para, mediante la proyección de un patrón de alta frecuencia, obtener información adicional acerca de la escena y así hacer el problema soluble. Este proyecto tiene dos partes claramente diferenciadas. En la primera parte, que denominamos descomposición en entorno estático, se reproducen los dos algoritmos expuestos en dicha publicación para obtener la descomposición de la imagen: primero, a partir de varias capturas de la escena y segundo, a partir de una única captura de la misma. Para esta primera parte se requiere una habitación oscura, un proyector LCD fijo que proyecta un patrón de alta frecuencia, una cámara digital para realizar las capturas y la herramienta software Matlab para procesar la información. En la segunda parte del proyecto, denominada descomposición en entorno móvil, se implementan los mismos algoritmos sobre el dispositivo móvil Android de Nvidia Tegra 3. Este proceso, más complejo por tratarse de un entorno no controlado, únicamente requerirá la luz del sol como foco y un objeto opaco alargado cuya sombra proyectada servirá como patrón de alta frecuencia.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8860</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8860/files/TAZ-PFC-2012-570_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/8860/files/TAZ-PFC-2012-570.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>informática gráfica</dc:subject>
+    <dc:subject>fotografía computacional</dc:subject>
+    <dc:subject>descomposición de imagen</dc:subject>
+    <dc:subject>iluminación directa</dc:subject>
+    <dc:subject>iluminación global</dc:subject>
+    <dc:subject>android</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Descomposición de una escena en iluminación global y directa</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Miguel Salcedo, Natividad</dc:contributor>
+    <dc:creator>Urzay Mendívil, María</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>Convencionalmente las Estaciones Depuradoras de Aguas Residuales terminan con un tratamiento secundario, ya que suelen ser etapas suficientes para conseguir los límites de vertido legislados. Sin embargo, existen sustancias persistentes que no son eliminadas con estos procesos: los contaminantes emergentes. Un ejemplo de ellos es la cafeína, sustancia comercializada a gran escala y detectada en numerosos cursos naturales, procedente de aguas residuales y vertidos industriales. Con el objetivo de eliminar esta sustancia, se aplicaron procesos convencionales (precipitación química y adsorción con carbón activo) y Procesos de Oxidación Avanzada (ozonización y oxidación con luz UV y peróxido de hidrógeno) a muestras de agua sintética y aguas de salida de depuradoras reales. Los resultados mostraron que la aplicación de carbón activo fue el tratamiento más eficiente en cuanto a la degradación de cafeína, seguido de la oxidación con luz UV y peróxido de hidrógeno y la ozonización. Paralelamente se analizó el cumplimiento de los parámetros de reutilización de aguas tras aplicar los tratamientos, siendo la oxidación con luz UV y peróxido de hidrógeno el tratamiento que permitiría destinar a mayor número de usos las muestras tratadas, destacando principalmente por su alto poder desinfectante.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/60571</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Tecnologías del Medio Ambiente</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/60571/files/TAZ-TFG-2016-4316_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/60571/files/TAZ-TFG-2016-4316.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ciencias Ambientales</dc:subject>
+    <dc:title>Eliminación de cafeína en agua mediante procesos convencionales y Procesos de Oxidación Avanzada</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Elimination of caffeine in water by conventional processes and Advanced Oxidation Processes</dc:title>
+</oai_dc:dc>

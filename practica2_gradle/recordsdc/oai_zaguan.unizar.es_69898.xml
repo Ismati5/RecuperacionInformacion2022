@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Beltrán Blázquez, José Ramón</dc:contributor>
+    <dc:creator>Escorza Santos, Sonia</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El objetivo de este proyecto es estudiar la viabilidad del dispositivo UMA-8, de reciente aparición, en la localización de fuentes sonoras, y estudiar la sensibilidad de este dispositivo si se modificaba la posición de las fuentes. Primero, para poder conocer la viabilidad del dispositivo, se ha realizado un estudio sobre los elementos que forman la placa del dispositivo y la información obtenida a través del fabricante, miniDSP. Una vez realizado este estudio se han implementado una aplicación para cada modo de uso de UMA-8, modo DSP y modo RAW. Para poder implementar estas aplicaciones se han utilizado los entornos Visual Basic y openFrameworks a través del IDE Visual Studio 2015. A partir de estas aplicaciones se ha realizado la localización de las fuentes sonoras, de modos distintos según la información que se tenía en cada modo. En el primer caso (modo DSP) se ha realizado una aplicación que permite visualizar la información de localización que proporciona el propio dispositivo. En el caso del modo RAW se ha desarrollado una aplicación de localización de fuentes basado en el algoritmo SRP-PHAT. Por último, se ha realizado un estudio de los resultados para poder definir, de esta manera, las limitaciones de la agrupación y de los algoritmos implementados para la detección de fuentes.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/69898</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/69898/files/TAZ-TFG-2017-4504.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías y Servicios de Telecomunicación</dc:subject>
+    <dc:title>Estudio de viabilidad de un sistema de localización de fuentes sonoras mediante el dispositivo UMA-8 de miniDSP</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Feasibility study of a sound source location system using the miniDSP UMA-8 device</dc:title>
+</oai_dc:dc>

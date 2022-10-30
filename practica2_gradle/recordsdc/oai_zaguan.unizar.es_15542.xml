@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Hernando Jumilla, David</dc:contributor>
+    <dc:contributor>Bailón Luesma, Raquel</dc:contributor>
+    <dc:creator>Hernando Sanz, Alberto</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El análisis de la variabilidad del ritmo cardiaco (HRV) en reposo es una medida no invasiva de la regulación del corazón por el sistema nervioso autónomo. Si se mide en pruebas de efuerzo permite detectar determinadas enfermedades cardiacas, pero tiene la limitación de la aparición del acoplo cardiolocomotor que enmascara y solapa las componentes de la HRV. El objetivo de este trabajo es doble: por un lado, caracterizar este acoplo cardiolocomotor y por el otro atenuar su efecto en la medición de las componentes de la HRV</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/15542</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/15542/files/TAZ-TFG-2014-1222.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías y Servicios de Telecomunicación</dc:subject>
+    <dc:title>Caracterización del acoplo cardiolocomotor en prueba de esfuerzo mediante el procesado de la señal de variabilidad del ritmo cardiaco</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

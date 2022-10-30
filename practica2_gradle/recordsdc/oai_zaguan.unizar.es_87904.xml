@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Huerta Abad, Pedro Pablo</dc:contributor>
+    <dc:creator>Guillén Sebastián, Daniel</dc:creator>
+    <dc:date>2020</dc:date>
+    <dc:description>Se ha realizado el diseño de una cascadora industrial de almendras, capaz de cascar almendras de diferentes clases, tamaños y durezas, controlada mediante un PLC. Posee una zona inicial de separacion de almendras grandes y pequeñas, de donde estas pasan a la zona de descascardo, para después caer a uns cribas, que mediante vibración, separan almendras enteras de cáscaras y de frutos rotos.&lt;br /&gt;La máquina costa de un panel de operador, desde el cual se pueden programar las distintas aprtes de la máquina, en función de la clase de almendra con la que se vaya a trabajar.&lt;br /&gt;Los actuadores empleados en esta máquina, así como los servomotores y motores paso a paso, se controlan gracias a un PLC siemens s7-1200, y mediante una red PROFIBUS, para lo que se acopla el modulo CM1243-5 al PLC.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87904</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87904/files/TAZ-TFG-2020-061_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/87904/files/TAZ-TFG-2020-061.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecatrónica</dc:subject>
+    <dc:title>Cascadora industrial de almendras</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Industrial almond crusher</dc:title>
+</oai_dc:dc>

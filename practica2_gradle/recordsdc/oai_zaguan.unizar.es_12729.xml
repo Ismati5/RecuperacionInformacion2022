@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Zúñiga Antón, María</dc:contributor>
+    <dc:creator>Martínez Vallejo, Patricia Elizabeth</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>La ciudad de Quito se identifica por ser una ciudad con un relieve muy irregular, al occidente se presentan barreras topográficas que limitan el desarrollo urbano y los cultivos agrícolas generan-do una expansión demográfica hacia los valles del noreste y sureste. Los datos del censo de población y vivienda del año 2010 presentados por el Instituto Nacional de Estadísticas y Censos (INEC), indican que la ciudad de Quito ha tenido un crecimiento poblacional del 22% en los últimos 10 años, teniendo así un aumento aproximado de 400.000 habitantes entre los censos del 2001 y 2010. Esta acelerada expansión de población hacia los valles y la limitación geográfica, no han permitido planificar adecuadamente el desarrollo del área urbana, principalmente en lo que corresponde a la construcción de una infraestructura vial que permita un flujo adecuado y rápido del tránsito. Adicionalmente, existe una sobredemanda en el uso de transporte público que se ha visto desbordado y no ha dado soluciones eficientes para cubrir el crecimiento continuo de la demanda, generando una dependencia excesiva del vehículo privado.  La concentración de población en las ciudades, ha provocado un aumento en las necesidades de movilidad diaria, tanto en el tiempo como en las distancias empleadas para desplazarse de un punto a otro. Por ello, el objetivo de este Trabajo Fin de Máster es identificar a través del análisis de redes, rutas óptimas que permitan prolongar el servicio del Sistema Integrado de transporte masivo del Distrito Metropolitano de Quito (DMQ) hacia el Valle de Calderón – Carapungo. Este valle se encuentra ubicado al noreste del DMQ, y es uno de los polos de desarrollo más importantes hacia donde puede expandirse la ciudad capital. De este modo se proponen soluciones que permitan mejorar la calidad del servicio de transporte público masivo logrando una movilidad más eficiente y sostenible.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12729</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio; Área de Geografía Humana</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12729/files/TAZ-TFM-2013-999.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>transporte público</dc:subject>
+    <dc:subject>movilidad urbana</dc:subject>
+    <dc:subject>análisis de redes</dc:subject>
+    <dc:subject>rutas óptimas</dc:subject>
+    <dc:subject>expansión demográfica</dc:subject>
+    <dc:subject>Máster Universitario en Tecnologías de la Información Geográfica para la Ordenación del Territorio: Sistemas de Información Geográfica y Teledetección</dc:subject>
+    <dc:title>Propuesta de prolongación del sistema integrado de transporte masivo del Distrito Metropolitano de Quito hacia el valle de Calderón – Carapungo mediante análisis de redes</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

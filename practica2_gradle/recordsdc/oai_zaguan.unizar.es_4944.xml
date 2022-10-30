@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Miguel Sauco, Raquel</dc:contributor>
+    <dc:creator>Armingol García, Angel</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>Actualmente el uso eficiente y responsable de los recursos hídricos se ha convertido en una necesidad. Para ello el estudio de las características hidrólogicas es fundamental, y uno de los parámetros que se puede calcular de un recinto o lugar, es la cantidad de agua que absorve el terreno en un instante determinado, denominada infiltración acuífera. En este contexto surge una colaboración dentro de GeoSpatiumLab S.L. con una empresa del sector medio ambiental para realizar una aplicación web que automatice el tedioso proceso del cálculo de la infiltración acuífera.  La aplicación web desarrollada es capaz de obtener los datos de entrada necesarios para el cálculo de la infiltración a través de la interfaz, manipularlos y transformarlos para ofrecer al usuario final los resultados del mismo, a través de la propia interfaz web, representados en informes o gráficas. La construcción de la aplicación web final que realiza el cálculo de la infiltración se ha nutrido con componentes nuevos desarrollados durante el proyecto, como la librería de generación de informes y la librería de generación de gráficas, y con otros existentes, algunos de los cuales, han sido ampliados o mejorados para adaptarse a la necesidades, manteniendo su genericidad. De esta manera, gracias a la reutilización de componentes, se ha podido minimizar el tiempo de desarrollo. Para el desarrollo de todas estas tareas se ha utilizado lenguaje de programación Java, apoyándose en el framework GWT (Google Web Toolkit) en el caso de la aplicaciones web. Para el aspecto visual de estas últimas se han utilizado hojas de estilo CSS (Cascade Style Sheets). Como herramienta para la gestión y construcción de proyectos se ha hecho uso de Maven y como gestor de versiones se ha utilizado GIT en conjunto con Subversion.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4944</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4944/files/TAZ-PFC-2010-136.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Infiltración acuífera</dc:subject>
+    <dc:subject>Informes</dc:subject>
+    <dc:subject>Gráficas</dc:subject>
+    <dc:subject>GWT</dc:subject>
+    <dc:subject>Reutilización</dc:subject>
+    <dc:subject>Interoperabilidad</dc:subject>
+    <dc:subject>Componentes</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Implementación de una aplicación web para el cálculo de la infiltración acuífera bajo los paradigmas de reutilización de componentes e interoperabilidad de sistemas</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

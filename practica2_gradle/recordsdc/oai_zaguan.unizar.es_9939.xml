@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Guerard, Bruno</dc:contributor>
+    <dc:contributor>Campo Ruiz, Jesús Javier</dc:contributor>
+    <dc:creator>Correa Magdalena, Jonathan</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Despite its present shortage, 3He continues to be the most common neutron converter for detectors in neutron scattering science. However, it is obvious that the development of large area neutron detectors based on alternative neutron converters is rapidly becoming a matter of urgency. In the technique presented, grids each comprising 30  10B4C layers (each 1 µm thick) are used to convert neutrons into ionising particles which are subsequently detected in proportional gas counters. Several prototypes, the largest with a total active area of 8 cm x 200 cm, were tested. Up to 4.6 m2 of  10B-enriched boron carbide were coated onto aluminium blades using a DC magnetron sputtering machine. Characterisation of the prototype showed neutron efficiency to be n = 53.04% for 2.5 A neutrons, which is in line with expectations from MC simulation. Gamma-sensitivity = 5 · 10-5 was measured for a broad range of energies. Long term stability measurements were also performed. These results demonstrate the potential of this technique as alternative to 3He-based position sensitive detectors.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9939</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física de la Materia Condensada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9939/files/TESIS-2013-009.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>detectores de partículas</dc:subject>
+    <dc:title>10B4C Multi-Grid as an alternative to 3He for Large Area Neutron Detectors</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

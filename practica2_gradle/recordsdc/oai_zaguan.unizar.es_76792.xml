@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sancho Andrés, Patricia</dc:contributor>
+    <dc:contributor>Medina Trullenque, Milagros</dc:contributor>
+    <dc:creator>Santander Badules, Hazel</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>En la actualidad, el cáncer de páncreas es una de las neoplasias más agresivas, puesto que, a pesar de que su incidencia no es la más elevada en cuanto a los distintos tipos de cáncer, su mortalidad sí lo es, teniendo una tasa de supervivencia a 5 años del 7%. En los últimos años se ha comprobado la existencia de las células madre tumorales (CSC) en este y otros tipos de tumores, siendo las responsables de la proliferación y diferenciación que le aportan la capacidad metastásica a estos cánceres, convirtiéndose en una nueva diana contra la que actuar para detener el desarrollo tumoral.  En este proyecto se pretende comprobar el efecto que dos inhibidores del metabolismo de lípidos tendrían sobre tres cultivos primarios (215, 253 y 354) de pacientes con cáncer de páncreas. Estos inhibidores son el SSO y el JZL184, que desactivan el receptor de membrana CD36 responsable de la absorción de lípidos y asociado a la capacidad metastásica de los tumores, y a la enzima MGLL responsable de la salida de lípidos de las gotas lipídicas, respectivamente. Para ello se desarrollarán diferentes experimentos: de proliferación con dosimetría, de formación de esferas tras tratamiento en adherencia, de formación de colonias, y de proliferación en distintas concentraciones de glucosa. Los inhibidores parecen no tener efecto sobre las células 215 y 253, pero sí se observa una reducción de CSCs en el caso de las 354, que son las más metastásicas. Por tanto, estos inhibidores podrían ser efectivos para tratar células con mayor capacidad metastásica. En un futuro, se podrían llevar a cabo ensayos con otros tipos de células metastásicas para comprobar nuestra hipótesis.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76792</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Bioquímica y Biología Molecular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76792/files/TAZ-TFG-2018-3096.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Biotecnología</dc:subject>
+    <dc:title>Evaluación del efecto antitumoral de inhibidores del metabolismo de lípidos en cultivos primarios derivados de pacientes de cáncer de páncreas</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Study of the antitumoral effect of lipid metabolism inhibitors in primary cultures from pancreatic cancer patients</dc:title>
+</oai_dc:dc>

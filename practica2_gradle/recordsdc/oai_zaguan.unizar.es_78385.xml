@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Montano Gella, Luis Enrique</dc:contributor>
+    <dc:creator>Rioseras Aurensanz, Violeta</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>El presente Trabajo Fin de Máster, se enmarca en el proyecto HYPER-Consolider, en el Grupo de Robótica de la Universidad de Zaragoza. La finalidad de este proyecto es diseñar un control de par adaptativo a pares externos y su posterior implementación en el sistema físico de un exoesqueleto para ayudar en la rehabilitación de miembros inferiores de pacientes que han sufrido un accidente cerebrovascular. El clásico control de posición de los exoesqueletos, un control rígido, es sustituido por un control de par adaptativo flexible, que permite adaptar el movimiento del exoesqueleto a fuerzas o pares externos. Estos pares externos pueden ser proporcionados por la persona que usa el exoesqueleto y al que debe adaptarse o pueden provenir del par ejercido por un rehabilitador si se utiliza para ejercicios de rehabilitación motora. Se diseñan y evalúan diversas situaciones de asistencia del robot y de contribuciones de un sujeto de 60 Kg. de acuerdo a su capacidad residual estimada, desde una contribución parcial del paciente a una contribución casi total.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/78385</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/78385/files/TAZ-TFM-2018-1287.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Biomédica</dc:subject>
+    <dc:title>Diseño del control de par adaptativo de un exoesqueleto robotizado para rehabilitación motora</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Adaptative torque control design of a robotic lower limb exoskeleton for motor rehabilitation</dc:title>
+</oai_dc:dc>

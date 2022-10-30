@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Dafni, Theopisti</dc:contributor>
+    <dc:creator>Alguacil Orejudo, Javier</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>En este trabajo se estudian los conceptos básicos del funcionamiento de un detector de micromegas, además se estudian más en profundidad por medio de simulaciones dos geometrías, una bulk y una microbulk para distintos gases, argón, neón y xenón mezclados con 2% de Isobutano. Finalmente se comparan los datos obtenidos tanto para microbulk como bulk con datos reales. En el caso de la bulk datos obtenidos de TREX-DM.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/32275</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Teórica; Área de Física Atómica, Molecular y Nuclear</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/32275/files/TAZ-TFG-2015-3151.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Física</dc:subject>
+    <dc:title>Microfsica en detectores gaseosos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

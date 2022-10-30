@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bayod López, Javier</dc:contributor>
+    <dc:creator>Murillo Royo, Marcos</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El principal objetivo del proyecto consiste estudiar los efectos biomecánicos que se producen en el pie tras la técnica quirúrgica de eliminación de un espolón en el calcáneo. Se basa en dos modelos que pertenecen a dos posiciones del pie, diseñados mediante el software NX I-deas, para realizar las simulaciones en ABAQUS mediante el método de los elementos finitos, y realizando comparativas tras analizar los resultados obtenidos en cuanto a tensiones y deformaciones de dichas simulaciones.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/69824</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/69824/files/TAZ-TFM-2017-1175.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Biomédica</dc:subject>
+    <dc:title>Efectos biomecánicos de la cirugía de eliminación de espolón en el calcáneo ante diversas posiciones y solicitaciones del pie en situaciones de la vida cotidiana</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Biomechanical effects of the removal surgery calcaneal spur to different positions and foot loads in daily life situations</dc:title>
+</oai_dc:dc>

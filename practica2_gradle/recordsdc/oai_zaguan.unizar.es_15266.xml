@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Martínez de la Fuente, Jesús</dc:contributor>
+    <dc:contributor>Mitchell , Scott G.</dc:contributor>
+    <dc:creator>Alfranca Ramón, Gabriel</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Las nanopartículas de oro (AuNPs) son nanomateriales particularmente versátiles y útiles, lo cual queda reflejado en numerosas aplicaciones biomédicas. Previa excitación de su plasmón de resonancia de superficie localizado (LSPR), estas nanopartículas pueden llevar a cabo de forma eficiente transducciones luz-calor. La iluminación de  las AuNPs por NIR se encuentra actualmente en fase de exploración para terapia fototérmica, imagen optoacústica y, recientemente, en sensores térmicos. Las bandas de LSPR de nanoprismas (AuNPrs) y nanorods (AuNRs) pueden ser ajustadas al rango NIR para que adquieran fuertes absorciones en la “ventana biológica”. Ante la excitación lumínica, la conversión fototérmica de la luz absorbida genera eficientes e intensos efectos de calentamiento local. Estas útiles partículas de oro anisotrópicas suelen denotar limitaciones como producciones en cantidades reducidas, subproductos indeseados y el uso de surfactantes tóxicos, además de arduas síntesis. Esta tesis ilustra sobre métodos de síntesis optimizados para obtener grandes cantidades de AuNPrs y AuNRs en medio acuoso donde la banda LSPR de ambos tipos de nanopartículas puede ajustarse a 800-1200 nm. Los coloides resultantes pueden ser conjugados con polietinenglicol heterobifuncional (PEG) para aumentar su estabilidad coloidal, 4-aminofenil β-D-glucopiranósido para aumentar la captación celular y el fluoróforo TAMRA para comprobar la presencia y localización de las AuNPs dentro de las células. La capacidad de calentamiento de las soluciones coloidales de AuNPrs tras la iluminación con un láser de clase IV a 1064 nm durante 5 minutos fue evaluada y comparada con los AuNRs. Como prueba de concepto, la biocompatibilidad y adecuación de estos AuNPrs como agentes fototérmicos fue estudiada en cultivos celulares. Debido a su fácil fabricación, funcionalización, y destacables características térmicas, estos AuNPrs parecen ser partículas más aptas que los AuNRs. Además, las AuNPrs representan un avance significativo en biocompatibilidad de nanopartículas y una atractiva alternativa a los agentes fototérmicos plasmónicos más utilizados.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/15266</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/15266/files/TAZ-TFM-2014-382.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>anisotrocpic gold nanoparticles</dc:subject>
+    <dc:subject>nanoparticulas de oro</dc:subject>
+    <dc:subject>hyperthermia</dc:subject>
+    <dc:subject>lspr</dc:subject>
+    <dc:subject>nir</dc:subject>
+    <dc:subject>cancer</dc:subject>
+    <dc:subject>biomedicine</dc:subject>
+    <dc:subject>in vitro</dc:subject>
+    <dc:subject>laser</dc:subject>
+    <dc:subject>Máster Universitario en Biología Molecular y Celular</dc:subject>
+    <dc:title>Comparison of the Synthesis and Heating Ability of Biofunctionalized Gold Nanoprisms and Nanorods for Bioapplications</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

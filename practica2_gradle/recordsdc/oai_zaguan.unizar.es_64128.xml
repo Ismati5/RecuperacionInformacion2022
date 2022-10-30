@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sanz Vicente, María Isabel</dc:contributor>
+    <dc:creator>Lozano Lalaguna, Rebeca</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El objetivo principal de este trabajo es el desarrollo de un método óptico enzimático para determinar aminas biogénicas que posteriormente se pueda implementar en sensores o tiras reactivas. Se basa en la reacción de éstas con la enzima diaminooxidasa (DAO) generando H2O2 que a su vez reacciona con la enzima peroxidasa (HRP) produciendo cambios en las propiedades ópticas de la HRP, que permiten la determinación de las aminas.  El método desarrollado es útil para determinar cadaverina, putrescina y histamina, si bien esta última en un orden de magnitud superior. En cuanto a las otras aminas, tiramina y triptamina regeneran a HRP impidiendo la posibilidad de su determinación y la reacción de DAO con feniletilamina es demasiado lenta para poder determinarla.  Por otro lado, si la reacción de HRP con H2O2 se realiza en presencia de un colorante (ABTS) este cambia sus propiedades de absorción dando un producto coloreado azul que permite determinar las aminas. Se han optimizado las condiciones encontrando que la relación óptima de ABTS:HRP para obtener una señal estable es 40:1 y de ABTS:H2O2 es de 20:1, con una concentración de HRP 1.10-6 M y de DAO de 1,8 U/mL en cubeta.  Si bien la histamina regenera las señales obtenidas y supone una interferencia se puede determinar  cadaverina y putrescina en presencia de tiramina, triptamina, histamina y feniletilamina siempre que todas estas aminas se encuentren en la misma concentración que cadaverina y putrescina o inferior, en las condiciones establecidas.  Finalmente se ha llevado a cabo la determinación de cadaverina y putrescina en una muestra real en que estén presentes el resto de aminas con un error del  8.6%.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64128</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Analítica; Área de Química Analítica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64128/files/TAZ-TFG-2017-3117.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Química</dc:subject>
+    <dc:title>Desarrollo de un método analítico enzimático para la determinación de aminas biogénicas</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Development of an enzymatic method of analysis for the determination of biogenic amines</dc:title>
+</oai_dc:dc>

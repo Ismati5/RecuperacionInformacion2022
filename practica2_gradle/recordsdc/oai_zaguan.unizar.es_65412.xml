@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Villarroel Salcedo, José Luis</dc:contributor>
+    <dc:creator>Rosales Serrano, Adrián</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>En este trabajo fin de grado se diseña, desarrolla e implementa un prototipo detector de cadencia para una embarcación de remo basado en tecnología GPS y acelerómetro para su uso en el mundo amateur. Se ha realizado una identificación de los problemas que existen en los clubs deportivos a la hora de adquirir este tipo de dispositivos. La elección de estas tecnologías ha sido determinada por la necesidad de que el dispositivo fuese intercambiable entre distintas embarcaciones, y para acercar este tipo de dispositivos al mundo de los disminuidos físicos que realizan este deporte, adaptándolo a su modalidad de remo. Para la detección de cadencia se ha realizado un estudio en profundidad del filtrado digital de señales discretas y una selección de entre 3 algoritmos funcionales que lograban el objetivo. Se ha realizado un estudio de la influencia de la simplificación del posicionamiento mediante la tecnología GPS suponiendo la Tierra como una esfera de radio constante. Finalmente se ha implementado un prototipo que integra las distintas partes elaboradas en el proyecto.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/65412</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/65412/files/TAZ-TFG-2017-1697_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/65412/files/TAZ-TFG-2017-1697.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Electrónica y Automática</dc:subject>
+    <dc:title>Detector de cadencia para embarcación de remo basada en GPS y acelerómetro</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Cadence detector for rowing boat based on GPS and accelerometer</dc:title>
+</oai_dc:dc>

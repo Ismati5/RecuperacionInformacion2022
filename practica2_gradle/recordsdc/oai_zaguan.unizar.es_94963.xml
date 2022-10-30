@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Aiger Vallés, Montserrat</dc:contributor>
+    <dc:contributor>Urbiztondo Castro, Miguel Ángel</dc:contributor>
+    <dc:creator>Vera Guerrero, Carlos</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>El proyecto presenta el estudio y propuesta de una posible adquisición de un Sistema de Navegación en Desierto, con función de Mando, Control y Seguimiento, para uso a nivel particular por los Cuadros de Mando. Este sistema está constituido por dos partes claramente diferenciadas, la estructura física (el hardware(HW)) y la estructura lógica (el software(SW)). Dicho sistema está compuesto por un software de navegación con funciones de Gestión Cartográfica (SIG), Mando, Control y Seguimiento, un Sistema Operativo asociado y un dispositivo físico para su uso. El proyecto implica un estudio inicial de las necesidades del ejército mediante un análisis del Estado del Arte, el estudio de las alternativas y la aplicación de las herramientas (DAFO, análisis de riesgos, etc.) para poder llevarlo a cabo. Como resultado de estos análisis se ha elaborado un Pliego de Prescripciones Técnicas, donde se recogen todos los requerimientos técnicos del sistema. Además, se recogen las bases de un anteproyecto, donde se recogen detalladamente todos los requerimientos técnicos del sistema y la viabilidad técnica y económica.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/94963</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/94963/files/TAZ-TFG-2015-2664.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Organización Industrial</dc:subject>
+    <dc:title>Navegación y topografía en terreno desértico: Anteproyecto de un sistema de navegación (software y hardware)</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

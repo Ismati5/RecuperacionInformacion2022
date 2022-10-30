@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Rey Gayo, Rafael</dc:contributor>
+    <dc:creator>Ortigosa Val, Daniel</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El presente proyecto consiste en el análisis de un modelo dinámico de una aeronave, considerando tres grados de libertad. Se crea el modelo con la herramienta Simulink de MatLab, la cuál permite hacer una simulación para obtener resultados y realizar un estudio del comportamiento del aeroplano. El estudio se lleva a cabo teniendo en cuenta tres grados de libertad, por lo que el modelo analiza las fuerzas y momentos que crean la trayectoria en un mismo plano. Para las variables de entrada, los mandos de que dispondrá la aeronave serán dos, la tracción del motor y la deflexión del estabilizador de cola, ya que son los únicos que influyen en el movimiento dentro del plano. En el documento se muestra cómo se crea y se implementa el modelo teórico en el programa. Después se muestra la forma de utilización del modelo, exponiendo las posibilidades teóricas y las aplicaciones que proporciona. Y una vez mostrado, se utiliza para obtener los puntos de equilibrio del aeroplano a distintas alturas y el análisis de distintas maniobras de incremento de velocidad, interpretando y comparando los resultados para conocer la reacción del mismo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6996</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería Mecánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6996/files/TAZ-PFC-2012-150.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>modelo dinámico aeronave</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Modelo dinámico de una aeronave con tres grados de libertad</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

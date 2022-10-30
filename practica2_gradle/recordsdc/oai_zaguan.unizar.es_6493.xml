@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>González Bedia, Manuel</dc:contributor>
+    <dc:contributor>Serón Arbeloa, Francisco José</dc:contributor>
+    <dc:creator>Olmos Lanceta, Javier</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Actualmente los videojuegos han llegado a un punto de realismo gráfico difícil de superar y aun así cualquier jugador experto reconoce que el realismo en la interacción es deficitario. El problema de fondo, al que se ha empezado a dedicar tiempo y dinero en los últimos años no es gráfico, sino que se centra en cómo mejorar aspectos de comportamiento, como la inteligencia artificial, para dotar de mayor credibilidad a los personajes virtuales. Siguiendo este enfoque, ha aparecido recientemente un nuevo interés por aplicar técnicas de modelado cognitivo que buscan que los personajes virtuales muestren mayor semejanza con el comportamiento humano. El objetivo de este proyecto es usar técnicas cognitivas para crear un personaje que se comporte, en su conducta, de la manera más humana posible. La técnica seleccionada para este fin ha sido el uso de un sistema de razonamiento basado en casos para implementar la hipótesis de los “marcadores somáticos” de Antonio Damasio. El modelo de Damasio es la teoría más aceptada sobre el modo en que los humanos toman decisiones, y cómo se ven afectadas por las emociones. El funcionamiento del modelo de decisión implementado es como sigue: El personaje tiene una memoria con experiencias pasadas y un valor que le indica si fue buena o mala dicha experiencia. En un momento de la partida busca en su memoria cómo actuar ante la situación que encuentra. En su memoria se hará una criba previa de casos asignados como positivos por su experiencia y el personaje elegirá el más parecido a la situación actual. Lo primero que exige este proyecto es estudiar qué herramientas tenemos disponibles para llevarlo a cabo. Se estudiarán a fondo herramientas como Pogamut y SQLite. Pogamut son un conjunto de librerías en java para el manejo de personajes del Unreal Tournament 2004. SQLite es un gestor de bases de datos, muy simple y completo con gran rápidez de ejecución perfecto para juegos en tiempo real. Una vez concluido ese trabajo previo, se analizará cómo queremos que se comporte el personaje. Como el entorno de trabajo es muy amplio hay que simplificarlo. Se deben elegir los parámetros más importantes que el personaje debe tener en cuenta para elegir el comportamiento futuro, como el entorno de un juego da demasiada información hay que seleccionar la más adecuada. Además se crean los comportamientos que el personaje podrá ejecutar, intentando darle diversidad de acción, para poder controlar las diversas situaciones que se encuentre en la partida. Los comportamientos serán árboles de binarios de tamaño variable entre cuatro y siete niveles dependiendo de las acciones que lo conformen. Los resultados finales obtenidos demuestran que las técnicas implementadas son útiles e interesantes para seguir avanzando en trabajos futuros.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6493</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6493/files/TAZ-PFC-2011-628.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6493/files/TAZ-PFC-2011-628_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>inteligencia artificial</dc:subject>
+    <dc:subject>cognición</dc:subject>
+    <dc:subject>marcadores somáticos</dc:subject>
+    <dc:subject>razonamiento basado en casos</dc:subject>
+    <dc:subject>videojuegos</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Personajes con razonamiento basado en casos para videojuegos en primera persona</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

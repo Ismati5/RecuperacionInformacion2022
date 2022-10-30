@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Hierro Álvarez, Juan Pablo</dc:contributor>
+    <dc:contributor>Valiño García, Luis</dc:contributor>
+    <dc:creator>Ruiz Garcés, Ana Pilar</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>En esta tesis se ha realizado el estudio de la evolución de ozono en un día de verano donde las condiciones meteorológicas son óptimas para su producción. El ozono es uno de los contaminantes atmosféricos que más problemas causa a la salud humana, los ecosistemas y la agricultura. Por ello, interesa predecir sus concentraciones para poder tomar actuaciones a priori que disminuyan posibles picos en su valor.  Para el cálculo de la química atmosférica se ha modificado un código numérico meteorológico con un modelo químico acoplado (WRF-Chem) de modo que se incluya el uso de métodos basados en la función de densidad de probabilidad (PDF). Esta modificación permite tener información estadística sobre los contaminantes. Se ha seguido la metodología euleriana de Valiño. Para resolver las ecuaciones estocásticas en derivadas parciales, que resuelven la evolución de los contaminantes atmosféricos se utilizó un método Runge-Kutta de tercer orden propuesto por Debrabant. Es la primera vez que un método de estas características es utilizado para resolver una ecuación estocástica de campos meteorológicos. Se ha considerado un tratamiento estocástico adecuado para las condiciones iniciales y de contorno. El modelo necesita, como parte de las condiciones de contorno, variables de entrada de tipo geográfico y meteorológico y un mapa de emisiones. Este mapa de emisiones se realizó considerando 105 fuentes puntuales de España que coinciden con empresas potencialmente contaminadoras y fuentes de área: agricultura, ganadería, tráfico y toda aquella fuente antropogénica no puntual. Estas emisiones han sido distribuidas geográficamente en mallas de 4 kilómetros y temporalmente, según mes, día y hora de acuerdo a estimaciones basadas en los resultados del proyecto POET. Los resultados obtenidos demuestran que el uso de campos estocásticos no modifica notablemente los valores medios de los contaminantes. El efecto de las PDFs es más notable cuanto mayor es el tamaño de la celda, debido al incremento de la varianza de las celdas gruesas, por lo que este método resultaría particularmente apropiado para simulaciones a escala global.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/47423</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/47423/files/TESIS-2016-031.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>simulación</dc:subject>
+    <dc:subject>meteorología</dc:subject>
+    <dc:subject>química ambiental</dc:subject>
+    <dc:subject>contaminación atmosférica</dc:subject>
+    <dc:title>Métodos estocásticos para el cálculo de dispersión de contaminantes reactivos en la atmósfera</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

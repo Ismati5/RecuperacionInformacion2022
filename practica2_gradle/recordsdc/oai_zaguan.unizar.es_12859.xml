@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Aldea Chagoyen, Concepción</dc:contributor>
+    <dc:contributor>García del Pozo Faldos, José María</dc:contributor>
+    <dc:creator>Pérez Sanz, Diego</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>En este proyecto se propone como objetivo principal el diseño e implementación de arquitecturas de ecualización en tiempo continuo para aplicaciones en comunicaciones serie de alta velocidad. Para ello se abordará un estudio teórico y revisión bibliográfica de soluciones de bajo coste para la transmisión de alta capacidad por fibra óptica. De los diferentes subsistemas que componen la arquitectura del receptor, este trabajo se centrará en el amplificador de transimpedancia y en el ecualizador necesario para aumentar el ancho de banda de los bloques anteriores, permitiendo la obtención de arquitecturas más eficaces del front-end analógico del receptor de fibra óptica, minimizando de esta manera los efectos que impactan seriamente sobre la sensibilidad y velocidad total del sistema. Se llevará a cabo la caracterización experimental del prototipo T2-GDE-2013. Para ello será necesario abordar en primer lugar una primera fase consistente en la unión de un fotodiodo S5973 de Hamamatsu con el prototipo del TIA en un encapsulado DIP. Posteriormente se llevará a cabo la caracterización experimental de este bloque. Estas actividades implican la familiarización con la instrumentación necesaria y el proceso específico de medida. Una vez determinada la respuesta del TIA se procederá al diseño de un ecualizador con elementos discretos. En dicho diseño se abordará en primer lugar la elección de una topología adecuada a las necesidades particulares del T2-GDE-2013. Una vez determinada la arquitectura se procederá a la selección de componentes prestando especial atención a los elementos activos.  La caracterización del bloque propuesto se realizará en dos fases: 1) mediante simulación, haciendo uso de programas como Matlab u OrCAD y 2) experimentalmente, mediante el diseño y montaje de PCBs mediante Eagle o PCAD. La última fase del proyecto consistiría en estudiar la posible migración de la topología discreta, objeto del estudio anterior, a un proceso de integración monolítico, para su posible utilización en receptores multiestándar en las bandas de transmisión de hasta 10 Gbps.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12859</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12859/files/TAZ-TFM-2013-1077.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>ecualizador</dc:subject>
+    <dc:subject>fibra óptica de plástico </dc:subject>
+    <dc:subject>pof</dc:subject>
+    <dc:subject>amplificador de transimpedancia</dc:subject>
+    <dc:subject>tia</dc:subject>
+    <dc:subject>comunicaciones serie</dc:subject>
+    <dc:subject>diseño pcbs</dc:subject>
+    <dc:subject>Máster Universitario en Ingeniería Electrónica</dc:subject>
+    <dc:title>Diseño de un ecualizador en tiempo continuo para aplicaciones en comunicaciones serie de alta velocidad</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

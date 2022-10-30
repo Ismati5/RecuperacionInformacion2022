@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Colom Piazuelo, José Manuel</dc:contributor>
+    <dc:creator>Rovetto Ríos, Carlos Alvino</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>La presente memoria se ha centrado en el desarrollo de una metodología completa para la construcción de algoritmos de encaminamiento adaptativos mínimos de tipo wormhole y que estén libres de bloqueo. El buscar una metodología completa que cubre desde la fase de especificación, pasando por el análisis y llegando hasta la síntesis que introduce correcciones en caso de haber detectado errores en el diseño original, es en sí mismo una aportación en cuanto que las aproximaciones existentes no cubren sobre todo las últimas fases. Nos hemos concentrado en los problemas de bloqueos, entendidos estos como la situación que aparece cuando un mensaje en tránsito desde un origen a un destino no puede alcanzar nunca su destino. Para abordar este problema se ha adaptado un tipo de abstracción del diseño que se denomina abstracción como sistema de asignación de recursos ó abstracción SAR. Desde un punto de vista instrumental se ha utilizado como herramienta formal, las redes de Petri, por tratarse de un paradigma de modelado formal para el que existe un rico cuerpo de resultados para todas las fases del ciclo de diseño. Se han desarrollado técnicas nuevas para la corrección de los modelos en caso de que existan bloqueos aprovechando la teoría desarrollada para la clase de redes de Petri obtenidas a través de la metodología utilizando un ejemplo para una red de interconexión en donde se aplica la metodología completamente. Este trabajo contribuye en: 1. Un nuevo enfoque de modelado para los algoritmos de encaminamientos de tipo adaptativo mínimo, desde una visión de SAR del sistema. 2. Desarrollo de una metodología de modelado formal para los sistemas de encaminamiento que asiste al diseñador desde la especificación de partida hasta la obtención de la red de Petri. 3. Caracterización de la clase de redes de Petri obtenidas a través de la metodología y que pertenece a la muy estudiada clase de redes de Petri denominadas S4PR. 4. Se define una nueva clase de redes de Petri denominada SOAR2 para la cual se definen características estructurales particulares sobre la cual razonar.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/7027</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/7027/files/TESIS-2012-023.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>redes de petri</dc:subject>
+    <dc:subject>algoritmos de encaminamiento</dc:subject>
+    <dc:subject>s4pr</dc:subject>
+    <dc:subject>soar2</dc:subject>
+    <dc:title>Métodos basados en redes de Petri para el diseño de algoritmos de encaminamiento adaptativos mínimos libres de bloqueos</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

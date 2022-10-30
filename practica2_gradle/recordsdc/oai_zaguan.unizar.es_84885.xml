@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Azzam, Baher</dc:contributor>
+    <dc:contributor>Civera Sancho, Javier</dc:contributor>
+    <dc:creator>Orera Echeverria, Javier</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Wind turbines (WTs) are complex and highly loaded systems, which leads to the importance of the task to determine the loads in the powertrain before operation. At CWD there are existing simulation models with a multi-body system approach, and simulated controllers which work parallel with them. In this case, a multibody SIMPACK-model is used to simulate the powertrain loads in the V52- testbench. Since the simulated controller for this model does not contain the operating strategy used in the real plant (V52-testbench), the thesis aims to design a new controller that reproduces this strategy. The existing simulated controller will be adapted to the real controller from the test bench. The experimental measurements taken in the V52-testbench will be used to run the co-simulation MATLAB-SIMPACK needed for the development and implementation of a new simulated controller. The controller will get the simulated rotational speed in the low-speed shaft from the V52-testbench SIMPACK-model as input, and will output the torque in the generator that the model needs to produce the desired output rotational speed. A comparison between the response of the V52- testbench SIMPACK-model with the existing simulated controller and the new simulated controller will be investigated. The response of the controller to different rotational speed-input signals will be also validated against measurement data from the V52-testbench. In order to determine if the method used to implement the new controller is transferable to the upcoming generator on the V52-testbench, the behavior of this new generator will be integrated in the V52-testbench SIMPACK-model by modifying the generator´s shaft moment of inertia in the model. A sensitivity analysis will be carried out in order to identify which parameters to change when adapting the controller to the new generator.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/84885</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/84885/files/TAZ-TFG-2019-489.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Implementation of the V52-control strategy in MATLAB through co-simulation MATLAB-SIMPACK</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Implementation of the V52-control strategy in MATLAB through co-simulation MATLAB-SIMPACK</dc:title>
+</oai_dc:dc>

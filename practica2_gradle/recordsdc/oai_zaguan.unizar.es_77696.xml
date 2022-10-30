@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gallego Martínez, José Ramón</dc:contributor>
+    <dc:creator>Puente Mur, David</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>El objetivo de este proyecto consiste en tomar la información que se genera en las redes sociales y transformarlo en una herramienta que pueda ser de utilidad. Este objetivo podría aplicarse a otras redes sociales y con otras finalidades, pero en este proyecto nos hemos centrado en los usuarios de Twitter y sus intereses. Lo que se ha hecho es tomar una muestra de usuarios cualesquiera, e inferir relaciones entre ellos en base a sus intereses. Para ello se han recolectado los tweets de dichos usuarios mediante la API de Twitter y se han procesado con un extractor de entidades como el de Google Cloud. Con estas entidades y mediante un proceso de filtrado se han obtenido los intereses de los usuarios con unos determinados pesos. Una vez identificados sus intereses se ha procedido a relacionarlos tanto directamente como indirectamente, para lo cual se ha usado Wikidata como una ontología que nos ha permitido relacionar los intereses entre sí. Con todas estas relaciones y pesos se ha desarrollado un algoritmo que calcule la afinidad entre 2 usuarios y por tanto poder cruzarlos todos entre ellos. Finalmente para visualizarlo de forma más intuitiva y poder manipular fácilmente toda esta información, se han volcado todas las relaciones, afinidades, intereses y usuarios sobre un servidor de grafos Neo4j.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/77696</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingeniería Telemática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/77696/files/TAZ-TFG-2018-2541.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías y Servicios de Telecomunicación</dc:subject>
+    <dc:title>Procesamiento de lenguaje natural aplicado a Twitter para relacionar usuarios por sus intereses</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Natural language processing applied to Twitter to relate users by their interests</dc:title>
+</oai_dc:dc>

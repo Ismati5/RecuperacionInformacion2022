@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Falsafi, Babak</dc:contributor>
+    <dc:contributor>Briz Velasco, José Luis</dc:contributor>
+    <dc:creator>Picorel Obando, Javier</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Las técnicas de prebúsqueda intentan solventar la diferencia entre la latencia de acceso a memoria y el tiempo de ciclo del procesador. Esta diferencia, conocida como “Memory Gap” o “Memory Wall”, es de dos órdenes de magnitud y continúa aumentando. Junto a factores térmicos y de alimentación constituye la principal la limitación para incrementar el rendimiento de los procesadores actuales. Técnicas propuestas recientemente aprovechan el hecho de que las secuencias de referencias a memoria se repiten a lo largo del tiempo y además en el mismo orden. El talón de Aquiles de estos prebuscadores es la imposibilidad de predecir accesos a memoria para direcciones que no se han visitado anteriormente. Este coste de oportunidad se magnifica en aplicaciones donde una  gran mayoría del conjunto de datos del programa es leía una sola vez. Existe otro tipo de técnicas basadas en la observación de que los programas acceden al espacio de direcciones mediante patrones comunes alineados a regiones de memoria, y son predecibles mediante correlación en código. Una de las limitaciones más importantes de este tipo de prebuscadores es la necesidad de un primer acceso en la región para comenzar la predicción de los bloques que van a ser referenciados dentro de la región, el cual no puede ser amortizado con los bloques prebuscados correctamente más allá del tamaño de la región, que es finito. Otro es el mecanismo en sí, antes explicado que inicia las predicciones. Debido a que realiza la predicción para toda la región, si una predicción es incorrecta perdemos toda la oportunidad de predecir correctamente dentro de la misma. El estado del arte en prebúsqueda de datos correlaciona temporalmente los accesos que inician predicciones dentro de las regiones. Este PFC muestra las ineficiencias de los prebuscadores más avanzados y propone dos técnicas para solventarlas: (1) mecanismo de predicción por secuencia de delta direcciones – iniciando las predicciones mediante la última secuencia de deltas observada en la secuencia de referencias a memoria, y (2) predicción por acceso – cada vez que el procesador envía una petición de datos a la jerarquía de memorias, se realiza una predicción. Los resultados indican que la correlación a través de deltas puede predecir patrones recurrentes de acceso a direcciones de memoria nunca antes referenciadas mejorando la predicción temporal de accesos a memoria, y que las predicciones por acceso mejoran los resultados obtenidos por los prebuscadores basados en regiones eliminando la limitación de coste de oportunidad de las predicciones incorrectas dentro de la región.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6460</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Arquitectura y Tecnología de Computadores</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6460/files/TAZ-PFC-2011-606.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>prebúsqueda</dc:subject>
+    <dc:subject>microprocesador multi-núcleo</dc:subject>
+    <dc:subject>jerarquía de memoria</dc:subject>
+    <dc:subject>arquitectura de computadores</dc:subject>
+    <dc:subject>base de datos</dc:subject>
+    <dc:subject>servidores web</dc:subject>
+    <dc:subject>simulador de arquitecturas</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Prebúsqueda hardware en aplicaciones comerciales</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

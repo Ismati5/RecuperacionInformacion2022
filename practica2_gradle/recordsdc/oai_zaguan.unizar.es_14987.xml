@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Castro Barrigón, Alberto</dc:contributor>
+    <dc:contributor>Alonso Buj, José Luis</dc:contributor>
+    <dc:creator>Belaza Vallejo, Andrés María</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>En este trabajo se describe dos métodos de cálculos para lo electrones, uno basado en la función de onda multielectronica (El Método de Hartree-Fock) y otro basado en el funcional densidad, centrándose especialmente en este ultimo. Se esboza como se lleva a cabo el método de Hartree-Fork para, rápidamente, pasar a los fundamentos te ́ricos en los que se basa la Teoria del Funcional Densidad (DFT), desarrollado por W. Khon, L.J. Sham y P. Hogenberg. Posteriormente, se esboza los fundamentos de su extensión, la Teoría del Funcional Densidad dependiente del tiempo (TDDFT), necesario para los cálculos relacionados con estados excitados. Una vez desarrollados los métodos de calculo para resolver el sistema multielectronico en una estructura,se pasa a estudiar la Teoría de Control de  ́Optimo Cuántico (QOCT), que estudia como optimizar funciones dependientes de la evolución de un sistema cuántico. Posteriormente usando estas herramientas, en un sistema calculado a partir de DFT y TDDFT y usando los resultados de QOCT, se implementa numéricamente un sistema de dos niveles de una molécula, conectados por un campo externo. El objetivo es encontrar los parámetros del campo que maximiza la probabilidad de transición a un tiempo dado. Estos resultados se aplican en un sistema concreto, una transición electrónica en la molécula de Benceno.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/14987</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Teórica; Área de Física Teórica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/14987/files/TAZ-TFG-2014-866_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/14987/files/TAZ-TFG-2014-866.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>dft</dc:subject>
+    <dc:subject>tfd</dc:subject>
+    <dc:subject>tddft</dc:subject>
+    <dc:subject>tdfdt</dc:subject>
+    <dc:subject>qoct</dc:subject>
+    <dc:subject>espectroscopía teórica</dc:subject>
+    <dc:subject>electrones en moléculas</dc:subject>
+    <dc:subject>química teórica</dc:subject>
+    <dc:subject>física molecular</dc:subject>
+    <dc:subject>Graduado en Física</dc:subject>
+    <dc:title>Modelización Computacional de Nanoestructuras: Introducción a la Espectroscopia Teórica</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

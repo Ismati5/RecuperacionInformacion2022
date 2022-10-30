@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Navarro Elola, Luis</dc:contributor>
+    <dc:contributor>Liedl, Gerhard</dc:contributor>
+    <dc:creator>Espona Torrent, Carlos</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>An online monitoring and adaptive control during laser material processing is necessary for quality assessment and a relatively new way consists in using the information given by the inclination of the keyhole. In this project an existing electro-optical device is tested and improved in order to measure the polarisation state of the infrared light by means of nematic liquid crystals which is emitted by a thermal emitter that simulates a heated workpiece . The main improvement which has been carried out is the unification of various functions in one LabVIEW program with the goal of making a more compact setup and a fully automated process for the later transfer of the device onto a robot used for laser welding. Moreover a description about all the components of the device is given and also a checking of these has been performed. Finally some recommendations for further studies related to improving the LabVIEW program and enhancing the setup are given.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/65435</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Dirección y Organización de Empresas; Área de Organización de Empresas</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/65435/files/TAZ-TFG-2017-1636.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Instalación para medir el estado de polarización mediante cristales líquidos nemáticos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Setup for measuring the state of polarisation by means of nematic liquid crystals</dc:title>
+</oai_dc:dc>

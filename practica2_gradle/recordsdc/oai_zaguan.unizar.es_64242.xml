@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>de Marcos Ruiz, Susana</dc:contributor>
+    <dc:creator>López González, Paloma</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El objetivo del presente trabajo es la optimización de un método analítico para la determinación del neurotransmisor acetilcolina y dar los primeros pasos hacia su implantación en un biosensor óptico. El método está basado en el acoplamiento de dos reacciones enzimáticas. La primera es una hidrólisis del analito en la que se obtiene colina y la segunda la oxidación de la colina. La enzima responsable de la oxidación, la colina oxidasa, es una flavoenzima y son sus  propiedades de fluorescencia las que se utilizan como parámetro analítico de cuantificación.  Se han obtenido características analíticas del método tales como el rango lineal: para trabajar en continuo (desde 9,54*10-6M hasta 1,60*10-5M) y en discontinuo (desde 3,70*10-6M hasta 1,6*10-5M).   Una vez optimizado el método analítico de determinación de acetilcolina en disolución y comprobado que es posible utilizar esta metodología para el desarrollo de un biosensor enzimático para la determinación de acetilcolina, se han dado los primeros pasos en el desarrollo de una lámina sensora mediante el entrampamiento de colina oxidasa en una lámina de poliacrilamida. Se ha comprobado la actividad de la enzima inmovilizada en la  lámina mediante la detección de peróxido de hidrógeno (que es un subproducto de su reacción), pero sin la sensibilidad adecuada. Por ello, estudios posteriores deberán abordar la modificación del procedimiento de inmovilización de la enzima para el correcto seguimiento de los cambios en la señal fluorescente del FAD de la ChOx en la lámina sensora.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64242</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Analítica; Área de Química Analítica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64242/files/TAZ-TFG-2017-2182.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Química</dc:subject>
+    <dc:title>Determinación enzimática de acetilcolina. Primeros pasos hacia el desarrollo de un biosensor óptico</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Enzymatic determination of acetylcholine. First steps towards the developement of an optical biosensor</dc:title>
+</oai_dc:dc>

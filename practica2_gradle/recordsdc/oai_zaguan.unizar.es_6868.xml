@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Blasco Alberto, Javier</dc:contributor>
+    <dc:creator>Gracia Guinaldo, Fernando</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>En la industria petrolera, la demanda de productos ligeros va en aumento, ya que las necesidades requeridas por los mercados de estos productos son cada vez mayores. Para satisfacer estas necesidades, las refinerías deben convertir sus residuos pesados en fracciones ligeras, por tanto, el conocimiento del craqueo térmico de estos residuos pesados para conseguir esas fracciones ligeras demandadas es de particular importancia. En este Proyecto se diseñó y desarrolló un programa de simulación numérica que simuló la implosión de una burbuja de cavitación, generada ésta por ultrasonidos en el seno de crudo pesado, teniendo en cuenta los parámetros físicos de la dinámica de burbujas de cavitación. Arrojando dicho programa, datos de picos de presión y temperatura típicos de la implosión de una burbuja de cavitación, entre otros datos, se introdujo estas condiciones en ecuaciones cinéticas de craqueo de petróleo rico en fracciones pesadas, estudiándose las variables más importantes del proceso para la optimización del craqueo térmico en condiciones de cavitación ultrasónica. En primer lugar, partiendo de estudios científicos sobre cavitación ultrasónica, que indican la evolución de las condiciones del medio en el fenómeno de cavitación ultrasónica, se comprobó que el programa de simulación daba estos mismos resultados. Posteriormente, del conocimiento de las ecuaciones cinéticas de craqueo térmico de crudo, se estudió el comportamiento de las fracciones pesadas del crudo en condiciones de cavitación ultrasónica arrojadas por el programa informático diseñado, haciendo un análisis de sensibilidad de las variables más relevantes del sistema.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6868</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6868/files/TAZ-PFC-2012-034_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6868/files/TAZ-PFC-2012-034.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>simulación</dc:subject>
+    <dc:subject>fluidodinámica</dc:subject>
+    <dc:subject>cavitación ultrasónica</dc:subject>
+    <dc:subject>craqueo térmico</dc:subject>
+    <dc:subject>asfáltenos</dc:subject>
+    <dc:subject>Ingeniero Químico</dc:subject>
+    <dc:title>Optimización del mejoramiento de crudos pesados mediante simulación fluidodinámica en condiciones de cavitación ultrasónica</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

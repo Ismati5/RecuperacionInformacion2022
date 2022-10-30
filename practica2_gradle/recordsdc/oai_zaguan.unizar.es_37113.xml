@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Serón Arbeloa, Francisco José</dc:contributor>
+    <dc:creator>Palomares García, Joaquín David</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>El objetivo de este Proyecto Fin de Carrera es el de mostrar la capacidad del proyectante para diseñar e implementar shaders para la libería de gráficos OpenGL en su versión 4.3. Dichos shaders son pequeños programas que se ejecutan en la unidad de procesamiento gráfico (GPU) y aplican transformaciones y efectos especiales a la hora de renderizar una escena. Para este PFC se ha creado una escena de muestra en tres dimensiones y se han utilizado distintas tecnicas aplicadas en los shaders para modificarla en tiempo real. Concretamente, las técnicas aplicadas han sido:  -Mapas de desplazamiento: Una técnica que consiste en usar texturas con la información de la altura de la geometría para desplazar los vértices de la superficie texturizada.  -Luz ambiental: Una técnica que proporciona una iluminación global y homogénea a toda la escena.  -Luz difusa: Una técnica que permite re flejar una fuente de luz sobre una superficie en muchas direcciones.  -Mapas de sombras: Una técnica para reproducir las sombras creadas por las distintas fuentes de luz.  -Mapas normales: Una técnica que usa texturas para dar una iluminación y un relieve más detallados a la geometría de la escena. Además del diseño e implementación de las shaders, se ha analizado su eficiencia en distintos tipos de GPU del fabricante Nvidia.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/37113</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/37113/files/TAZ-PFC-2015-463.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>OpenGL v4.3: Ejemplos de diseño de shaders e implementación mediante GPUs</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

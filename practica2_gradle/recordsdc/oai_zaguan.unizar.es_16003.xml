@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bayod López, Javier</dc:contributor>
+    <dc:creator>Ontaneda Cortez, Santiago</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Partimos  de un modelo de pie creado anteriormente para otros estudios. Tanto en el caso del espolón en el calcáneo como en el de los sesamoideos, el trabajo que hemos llevado a cabo es muy similar.  Hemos creado los grupos pertinentes en I-DEAS para simular los dos casos y para posteriormente poder observar los resultados en ABAQUS. Una vez creados los grupos, los hemos exportado a ABAQUS, para obtener un archivo .INP que lo modificaremos aportando los datos que tenemos de cargas, condiciones de contorno, propiedades de los tejidos, etc.  Con la ayuda de Cluster, realizamos los cálculos y obtenemos un archivo .ODB que es el que nos permitirá abrir ABAQUS para poder observar los resultados. Una vez que visualizamos los resultados, modificamos los límites de las leyendas para poder apreciar de una mejor forma, las variaciones que ha habido en cada caso y poder compararlas con el caso de referencia.  Con estos resultados hemos realizado un análisis y obtenido unas conclusiones.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/16003</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/16003/files/TAZ-PFC-2014-407.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Estudio del espolón en el calcáneo y de la extracción de los huesos sesamoideos</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

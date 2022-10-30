@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Javierre Lardiés, Carlos</dc:contributor>
+    <dc:creator>Esteban Salillas, Ana Mª</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>Se tiene como objetivo, el diseño de un nuevo sistema de carcasa-difusor y cierre para luminarias mediante la valoración de funcionalidad, coste e impacto ambiental. Para que sea un proyecto novedoso, en la fase inicial se realiza la hoja de especificaciones, con la que se obtienen las características requeridas y un benchmarking del mercado actual que indica qué productos existen y cómo funcionan. A continuación se plantean las primeras propuestas de diseño y se valoran sus ventajas e inconvenientes. Se trata de estudiar una versión pequeña pero completa de una luminaria LED estanca convencional, para luego extrapolar los resultados a diferentes medidas.  Una vez seleccionada la opción óptima, ésta se desarrolla mediante dibujo 3D detallado y análisis mecánicos, económicos e impacto ambiental con programas informáticos y para distintos materiales: plástico, aluminio y chapa. Finalmente se modela una versión simplificada para prototipado rápido. Una vez fabricada con impresión aditiva 3D, a este prototipo se le hace pasar por una serie de procesos de pulido, lacado y aplicación de junta de estanqueidad para poder ensayar con él y así reajustar el diseño final del proyecto. Por  último, se explican las conclusiones del proyecto y se exponen las posibles líneas de estudio para el futuro.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/37088</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería Mecánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/37088/files/TAZ-PFC-2015-574.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Diseño de un sistema de carcasa y difusor para una luminaria LED estanca</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

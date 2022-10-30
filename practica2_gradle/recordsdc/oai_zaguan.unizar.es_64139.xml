@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Nerín de la Puerta, Cristina</dc:contributor>
+    <dc:contributor>Becerril Oriol, Raquel</dc:contributor>
+    <dc:creator>Gracia Vallés, Nicolás</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El objetivo del proyecto era el desarrollo de un indicador de frescura para la merluza, en atmósfera protectora, que cambiara de color al alcanzarse el límite microbiológico de consumo humano. Para ello se hizo un análisis microbiológico de la merluza para conocer en qué momento se alcanzaba ese límite y cuáles eran las especies de bacterias predominantes. Una vez hallado el día en el que se alcanza el límite, se realizó un análisis de los volátiles liberados, durante el deterioro de la merluza, que pudieran ser utilizados como diana para el indicador o que pudieran causar interferencias. Para ello se utilizaron diferentes técnicas de análisis de extracción gas-líquido (métodos de Nessler y azul de metileno) y microextracción en fase sólida en el espacio de cabeza junto con cromatografía de gases acoplada a espectrometría de masas (HS-SPME-GC-MS). Se probaron seis fórmulas diferentes en el desarrollo de los indicadores de frescura que debían cambiar de color en el momento deseado, al alcanzar el límite microbiológico, además el cambio tenía que ser claro para que pudiera ser fácilmente interpretado por el consumidor. Los indicadores se prepararon como etiquetas autoadhesivas y se analizaron en muestras de merluza envasada con atmósfera protectora. Se realizó un seguimiento de la evolución de los indicadores hasta alcanzarse el día del límite.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64139</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Analítica; Área de Química Analítica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64139/files/TAZ-TFG-2017-3070.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Biotecnología</dc:subject>
+    <dc:title>Estudio de un sensor de caducidad para alimentos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Study of a food caducity sensor</dc:title>
+</oai_dc:dc>

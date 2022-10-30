@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Beltrán Blázquez, José Ramón</dc:contributor>
+    <dc:contributor>Urriza Parroqué, Isidro</dc:contributor>
+    <dc:creator>Martín Escartín, Iván</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>El proyecto aquí propuesto consiste en el desarrollo de un sistema de microfonía distribuido para salas de conferencia. El sistema desarrollado se basa en programar y prototipar un dispositivo portátil el cual debe conectarse de manera inalámbrica, detectar automáticamente al hablante y gestionar el control de la instalación. Una vez que el usuario del dispositivo habla por su micrófono el sistema reconoce automáticamente al hablante, manda inalámbricamente la señal y se reproduce en el resto de los dispositivos portátiles. El sistema ha sido prototipado en el DSP TMX320C5535 de Texas Instruments utilizando el sistema de desarrollo C5535 eZDdsp y contiene los siguientes bloques y funciones: Respecto a la parte hardware se pueden diferenciar cuatro partes: El códec de audio, el DSP C5535 de Texas Instruments, la UART y el módulo de comunicaciones inalámbrico. En la parte software se encuentran las funciones programadas del DSP las cuales gestionan la configuración y el control de la instalación, además de las funciones del cálculo de la densidad espectral de potencia, el filtro para la banda telefónica y las funciones de compresión y descompresión de los datos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/47666</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/47666/files/TAZ-TFG-2015-1559.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías y Servicios de Telecomunicación</dc:subject>
+    <dc:title>Desarrollo de concepto de un sistema de microfonía distribuido para sala de conferencias inalámbrico</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

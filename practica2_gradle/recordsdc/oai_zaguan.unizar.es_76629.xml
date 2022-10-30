@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Brufau García, Pilar</dc:contributor>
+    <dc:creator>Buetas Guardingo, Pablo</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>En este trabajo se recoge el análisis hidrológico que se ha llevado a cabo en el embalse de Barasona (Huesca) durante el periodo 2000-2018 enfocándolo a conocer la respuesta de la capacidad de este embalse frente a factores meteorológicos (precipitación y temperatura), demanda de agua y producción hidroeléctrica. El objetivo fundamental se centra en conseguir un buen estudio empírico de las observaciones realizadas durante los últimos años para posteriormente realizar una predicción de los efectos del Cambio Global sobre la capacidad de almacenamiento de este embalse. Para ello se ha contado con los datos diarios de caudal y altura de agua durante el periodo 2000-2015 de los ríos Ésera e Isábena que son los que nutren al embalse, cedidos por el Centro de Estudios y Experimentación de Obras Públicas (CEDEX). También con los datos diarios de temperaturas, precipitaciones, entradas y salidas de agua y producción hidroeléctrica del embalse, cedidos por la Confederación Hidrográfica del Ebro (CHE) durante el periodo 2000-2018. En primer lugar se ha realizado un análisis anual de temperaturas, precipitaciones, caudales y alturas de agua en los ríos y en el embalse, demandas destinadas al canal de Aragón y Cataluña, río y central hidroeléctrica, así como producción energética y capacidad de almacenamiento del embalse. En segundo lugar se ha realizado un estudio de las mismas variables durante todo el periodo tomando como dato el valor medio anual para poder analizar la tendencia anual a lo largo de todo el periodo de estudio. Posteriormente se han calculado algunos parámetros específicos de caracterización del embalse como son el déficit, la garantía volumétrica de capacidad de almacenamiento, así como el índice de escasez en épocas de sequía; por ser estos periodos complicados los que podrían producirse con más asiduidad en un contexto de Cambio Global.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76629</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76629/files/TAZ-TFG-2018-3491_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/76629/files/TAZ-TFG-2018-3491.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Análisis hidrológico del embalse de Barasona (Huesca) durante el periodo 2000-2018</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Hydrological analysis of the Barasona reservoir (Huesca) during the period 2000-2018</dc:title>
+</oai_dc:dc>

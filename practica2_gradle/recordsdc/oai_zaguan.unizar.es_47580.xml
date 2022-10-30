@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Clemente Gallardo, Jesús</dc:contributor>
+    <dc:creator>Franco Rubio, Adrián</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>En este trabajo se utiliza el formalismo geométrico de la Mecánica Cuántica para estudiar desde un nuevo punto de vista la dinámica de sistemas abiertos (sometidos a una evolución no unitaria). Se analiza la posibilidad de trasladar la evolución del espacio de matrices densidad al espacio de tensores sobre el dual del álgebra de observables que codifican las estructuras algebraicas sobre la misma, y se estudian las propiedades de convergencia de estos tensores en el límite de tiempos largos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/47580</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Teórica; Área de Física Teórica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/47580/files/TAZ-TFG-2015-1969_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/47580/files/TAZ-TFG-2015-1969.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Física</dc:subject>
+    <dc:title>Formalismo geométrico de la Mecánica Cuántica y sus aplicaciones: Dinámica de tensores en sistemas abiertos markovianos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

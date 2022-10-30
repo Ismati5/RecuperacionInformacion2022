@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Nilsson, John-Olof</dc:contributor>
+    <dc:contributor>Masgrau Gómez, Enrique</dc:contributor>
+    <dc:creator>Simón Colomar, David</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Debido a la naturaleza recursiva de la mayoría de los sistemas de navegación inercial (Inertial navigation systems, INSs) foot-mounted zero-velocity-updated-aided (ZUPT-aided), la covarianza del error va incrementando a lo largo de cada paso y "colapsa" al final de éste, donde se hace la corrección debido a la ZUPT. Esto da lugar a bruscas correcciones y discontinuidades en la trayectoria estimada. Para aplicaciones con estrictas exigencias de tiempo real este comportamiento es inevitable, ya que cada estimación corresponde a la mejor estimación usando toda la informacion hasta ese instante de tiempo. Sin embargo, para muchas aplicaciones un cierto grado de retardo (no causalidad) puede ser tolerado y la información proporcionada por las ZUPTs al final del paso, que causa las correcciones abruptas, puede hacerse disponible a lo largo de todo el paso. En consecuencia  la implementación de un filtro de alisado (smoothing) para un ZUPT-aided INS es considerada en esta tesis para eliminar las correcciones bruscas y la covarianza no simétrica a lo largo de los pasos. Que sepamos, no se ha presentado tratamiento formal de smoothing para sistemas ZUPT-aided INS, pese a que existe una gran variedad de literatura acerca del tema general de smoothing.  Debido al habitual filtro complementario de lazo cerrado empleado en aided INSs, las distintas técnicas de smoothing estándar no se pueden aplicar directamente. Además las medidas (las ZUPTs) están espaciadas irregularmente y aparecen en grupos. Por tanto, se requiere de algún tipo de regla de smoothing de retardo variable. En este proyecto se sugiere un método basado en una mezcla de filtro complementario de lazo abierto-cerrado combinado con un smoothing Rauch-Tung-Striebel (RTS). Se analizan distintos tipos de reglas de smoothing de retardo variable. Para aplicaciones próximas a tiempo real, el smoothing se aplica a los datos paso a paso. Los intervalos (pasos) para el smoothing se determinan en base a disponibilidad de las medidas y a umbrales de tiempo y covarianza. Por otro lado, para un procesado completo off-line, se analizan sets completos de datos. Finalmente, se cuantifican las consecuencias del smoothing y del filtro en bucle abierto-cerrado basándose en datos reales. El impacto del smoothing se ilustra y analiza a lo largo de los pasos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8757</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8757/files/TAZ-PFC-2012-507.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>smoothing</dc:subject>
+    <dc:subject>inertial navigation</dc:subject>
+    <dc:subject>navegación inercial</dc:subject>
+    <dc:subject>zero-velocity-update</dc:subject>
+    <dc:subject>complementary filtering</dc:subject>
+    <dc:subject>filtrado complementario</dc:subject>
+    <dc:subject>kalman</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicación</dc:subject>
+    <dc:title>Step-wise smoothing para ZUPT-aided INSs</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

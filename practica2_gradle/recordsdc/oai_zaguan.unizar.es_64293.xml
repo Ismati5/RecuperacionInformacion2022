@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Monserrat Aranda, Carlos</dc:contributor>
+    <dc:contributor>Baldasarri Santa Lucía, Sandra Silvia</dc:contributor>
+    <dc:creator>Tavira Rodríguez de Liébana, José Ángel</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El renderizado de volumen es una técnica para representar objetos tridimensionales en una imagen, a partir de las muestras obtenidas de dichos objetos. 	Debido a la gran cantidad de muestras necesarias para obtener una imagen nítida, el coste temporal de los diferentes algoritmos desarrollados en la actualidad no permite la representación de los objetos de forma eficiente, obligando a dichos algoritmos a recurrir a técnicas que requieren el uso de hardware específico y/o la disminución de la calidad de la imagen final. 	Este proyecto tiene como objetivo la implementación de un algoritmo que permita visualizar objetos tridimensionales en proyección paralela, de forma eficiente, esto es, con un coste temporal inferior a un segundo, a partir de un volumen de muestras de tamaño habitual (2563 voxels), en ordenadores de propósito general, sin comprometer la calidad de la imagen ni utilizar hardware específico. 	 	Para ello, se estudian las estrategias de los diferentes algoritmos presentes en la literatura, extrayendo sus ventajas e inconvenientes, así como diferentes técnicas de optimización del rendimiento de dichos algoritmos. 	A continuación, se diseñan las características de un algoritmo, además de las estructuras de datos apropiadas, para aplicar la técnica de descomposición matricial shear-warp, la cual permite combinar las ventajas de los algoritmos analizados junto con las técnicas de optimización de rendimiento. 	Por último, se implementa el algoritmo y se analizan los resultados obtenidos en cuanto a rendimiento y calidad de imagen, emitiendo las conclusiones pertinentes y proponiendo diversas alternativas a desarrollar en un futuro.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64293</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64293/files/TAZ-PFC-2017-028.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Optimización del renderizado de volumen mediante la técnica shear-warping</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+    <dc:title xml:lang="en">Volume rendering optimization by means of a shear-warp factorization</dc:title>
+</oai_dc:dc>

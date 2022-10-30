@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Navascués Sanagustín, María Antonia</dc:contributor>
+    <dc:contributor>Sebastián Guerrero, María Victoria</dc:contributor>
+    <dc:creator>Latorre Pellegero, Mario Guillermo</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>La reciente crisis bursátil que sufre y ha sufrido España desde el 2007-2008 ha impulsado la creación de nuevos métodos, tanto en el ámbito económico como en el matemático, que puedan predecir grandes cambios en la economía de un país o región. El objetivo de este trabajo ha sido la obtención de cuantificadores que permitan prever estos cambios a partir de índices bursátiles que sean representativos del mercado. En concreto, se han usado técnicas del análisis de Fourier, la interpolación y la teoría fractal para obtener las curvas de aproximación de los índices estudiados. Después, se han cuantificado dichos registros usando los parámetros de Hjorth y se ha comprobado si existe alguna relación entre estos y la crisis. Por último, se ha intentado inferir una posible estructura fractal de los registros bursátiles, en concreto si admiten una representación por ruidos coloreados o mediante el exponente de Hurst. Se ha encontrado que este último es un parámetro muy robusto que previó la actual crisis y que, por lo tanto, podría ser usado en un futuro como predictor económico.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31505</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Matemática Aplicada; Área de Matemática Aplicada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31505/files/TAZ-TFG-2014-2026.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>interpolación</dc:subject>
+    <dc:subject>fractal</dc:subject>
+    <dc:subject>bolsa</dc:subject>
+    <dc:subject>crisis</dc:subject>
+    <dc:subject>hjorth</dc:subject>
+    <dc:subject>hurst</dc:subject>
+    <dc:subject>mathematical documents</dc:subject>
+    <dc:subject>aproximación</dc:subject>
+    <dc:subject>lineal</dc:subject>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Procedimientos numéricos para el cálculo de cuantificadores bursátiles</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

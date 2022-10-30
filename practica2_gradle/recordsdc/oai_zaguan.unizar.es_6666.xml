@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Baldassarri Santa Lucía, Sandra</dc:contributor>
+    <dc:contributor>Marco Rubio, Javier</dc:contributor>
+    <dc:creator>Navarro Sánchez, Guillermo</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>La idea principal de este proyecto fin de carrera (PFC) consiste en conseguir que los niños muy pequeños puedan interactuar con software y elementos informáticos de una manera más natural a través del uso de juguetes convencionales. Para lograr este propósito, este PFC se centró en el estudio y ampliación del framework de reconocimiento visual para dispositivos tabletop, Reactivision. El trabajo se realiza sobre NIKvision, una mesa de interacción tangible especialmente diseñada para su uso por niños pequeños. En primer lugar se ha realizado un estudio de las limitaciones que presenta Reactivision en el reconocimiento de objetos, para posteriormente, realizar varias fases de análisis e implementación de las distintas funcionalidades necesarias para mejorar las limitaciones analizadas. La primera fase consiste en mejorar el reconocimiento de fiduciales, marcadores que adheridos a los juguetes permiten su identificación. Esta fase comprende la creación de una nueva colección de fiduciales que permitan ser acoplados a juguetes pequeños y la posterior implementación de los algoritmos para su reconocimiento. La siguiente fase consiste en la modificación del framework Reactivision para permitir la extracción de características geométricas de los objetos planos (juguetes que no lleven fiduciales en su base) reconocidos de manera que aumenten las posibilidades de los juegos adesarrollar. La tercera fase consiste en la mejora del sistema de comunicación utilizado por Reactivision y los juegos, creando un protocolo de comunicación que permita el envío de volúmenes grandes de datos con estructuras de todo tipo. La última fase consiste en mejorar la interfaz de usuario de Reactivision, incorporando controles que permitan manejar los parámetros de las nuevas funcionalidades implementadas y en modificar los ficheros de configuración de manera que se puedan automatizar las operaciones de inicialización de parámetros.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6666</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6666/files/TAZ-PFC-2011-691.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>algoritmos de visión</dc:subject>
+    <dc:subject>juguetes</dc:subject>
+    <dc:subject>tabletop</dc:subject>
+    <dc:subject>niños</dc:subject>
+    <dc:subject>interacción tangible</dc:subject>
+    <dc:subject>juegos</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Reconocimiento visual de juguetes en una mesa de interacción tangible</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Romeo Tello, Antonio</dc:contributor>
+    <dc:creator>Bielsa Pérez, Javier</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El presente proyecto consiste en la automatización de un paletizado de cajas que actualmente se realiza manualmente. Estas cajas provienen de tres líneas distintas y tienen dos tamaños diferentes, con lo que hay que discernir las diferentes cajas y colocar cada una de ellas donde le corresponda. 	Se han analizado varios sistemas que hay en el mercado para este menester y el coste de los mismos. Se ha hecho un estudio a groso modo para ver las ventajas e inconvenientes de los diferentes sistemas y se ha optado por un robot paletizador, por ser el más acorde, procediéndose al desarrollo del mismo. 	Se ha realizado un estudio de los diferentes materiales de los que se podía componer el proyecto y se han elegido los que se han considerado más adecuados, por efectividad y por precio. Se garantiza que los materiales escogidos son robustos y fiables, y cumplen a la perfección con su cometido. 	Se garantiza que el proyecto cumple con la normativa de seguridad vigente y que la categoría de protección de la máquina frente a posibles daños a personas es la máxima posible, por encima incluso de los estipulado actualmente por ley. 	También se ha realizado un estudio de viabilidad para calcular el tiempo que se tarda en la amortización del proyecto, para ver que es un proyecto rentable y viable, y no tiene un costo excesivo. 	Por último se ha desarrollado el proyecto: parte eléctrica, parte neumática y programación. No se ha tenido en cuenta la parte mecánica, la cual se ha solicitado a una empresa especializada para completar el proyecto.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6704</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6704/files/TAZ-PFC-2011-715_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6704/files/TAZ-PFC-2011-715.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electrónica Industrial)</dc:subject>
+    <dc:title>Automatización paletizado línea industrial</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

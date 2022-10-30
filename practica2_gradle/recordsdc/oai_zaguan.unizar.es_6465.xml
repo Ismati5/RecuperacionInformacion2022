@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bartunkova, Iva</dc:contributor>
+    <dc:contributor>Júlvez Bueno, Jorge Emilio</dc:contributor>
+    <dc:creator>Porta Martín-Moreno, Eduard</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El proyecto Frequency Compatibility Analysis Tools (FCAT) constituye un desarrollo llevado a cabo en el Institute of Navigation and Geodesy (IGN) de la University of Federal Armed Forces en Múnich, y financiado por la Comisión Europea. El resultado de dicho proyecto consiste en una serie de herramientas de análisis de compatibilidad de señales basadas en MATLAB e integradas en dos aplicaciones gráficas. Dichas aplicaciones permiten calcular valores especificados por el cliente para sistemas de navegación vía satélite arbitrarios, visualizando los resultados mediante gráficas, tablas y texto. El presente proyecto final de carrera consiste en dos partes diferenciadas, ambas enmarcadas en el desarrollo de FCAT. La primera parte del proyecto ha consistido en el análisis, diseño e implementación de los módulos correspondientes a la interfaz gráfica de las aplicaciones. Con la intención de hacer esta parte más interesante desde el punto de vista académico, a la par que mejorar la productividad en futuros proyectos, se ha implementado para esta tarea un framework genérico. Dicho framework, al que el autor ha decidido llamar Forget About Complicated Interface Layouts (FACIL), se ha diseñado tratando de maximizar el compromiso entre flexibilidad, simplicidad y escenarios de uso abarcados por la herramienta. FACIL permite dotar de interfaz gráfica a una colección de algoritmos de cálculo arbitraria con tan solo escribir unos pocos ficheros de configuración. Su validez y utilidad se han verificado mediante su aplicación al proyecto GASIP, otro proyecto del IGN con la Comisión Europea. En la segunda parte del proyecto se ha tratado la optimización de algoritmos de cálculo intensivos en tiempo de CPU para el proyecto FCAT. Para esta parte se han evaluado distintas alternativas como la vectorización del código, técnicas de paralelización o el uso de la tarjeta gráfica del equipo mediante CUDA u OpenCL. En definitiva, este proyecto final de carrera ha constituido toda una experiencia formativa, tanto desde el punto de vista académico como desde el profesional. A lo largo del mismo ha sido necesario cumplir plazos, coordinarse con otros miembros del instituto, tratar de satisfacer las expectativas y requisitos del cliente, y en general todo aquello que implica el trabajo en un proyecto real.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6465</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6465/files/TAZ-PFC-2011-609_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6465/files/TAZ-PFC-2011-609.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>interfaz gráfica</dc:subject>
+    <dc:subject>generación automática</dc:subject>
+    <dc:subject>framework</dc:subject>
+    <dc:subject>matlab</dc:subject>
+    <dc:subject>optimización</dc:subject>
+    <dc:subject>paralelización</dc:subject>
+    <dc:subject>sistemas de navegación vía satélite</dc:subject>
+    <dc:subject>comisión europea</dc:subject>
+    <dc:subject>desarrollo de software</dc:subject>
+    <dc:subject>ingeniería del software</dc:subject>
+    <dc:subject>herramienta de análisis</dc:subject>
+    <dc:subject>empresa</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Desarrollo de una interfaz gráfica y optimización de algoritmos de cálculo para una herramienta de análisis de compatibilidad en frecuencia</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

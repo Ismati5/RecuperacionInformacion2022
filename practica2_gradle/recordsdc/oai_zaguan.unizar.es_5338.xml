@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Casas Nebra, Roberto</dc:contributor>
+    <dc:contributor>Marco Marco, Álvaro</dc:contributor>
+    <dc:creator>Idiago Valero, José Miguel</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>Este Proyecto de Fin de Carrera se ha realizado en Tecnodiscap, grupo de investigación del I3A, dentro de la línea de investigación en salas de estimulación multisensorial. Las salas de estimulación multisensorial son aulas situadas en colegios de educación especial con materiales diseñados para que los niños estén expuestos a estímulos controlados, con el objetivo final de favorecer su nivel de integración sensorial facilitando así los aprendizajes básicos. Se ha detectado en las instalaciones actuales una falta de posibilidades de interacción del usuario con el entorno, lo que supone una limitación en el desarrollo de las sesiones terapéuticas. En este proyecto se enmarca dentro del desarrollo de un sistema que permita la interacción del usuario con los diferentes elementos que pueden estar presentes en una sala de estimulación multisensorial. En concreto se ha diseñado un dispositivo basado en RFID y Zigbee que permite la interacción del usuario con otros elementos presentes en el aula. Se pretende que el usuario pueda llevar encima el dispositivo para que cuando se acerque a determinados objetos el sistema lo reconozca y sea capaz de producir un estímulo en el usuario mediante la activación de otros elementos presentes en la sala como luces, sonidos o proyecciones... Además del diseño hardware se ha integrado el dispositivo en un driver zigbee, que permite la auto-detección del dispositivo. Este driver funciona bajo un framework (OSGi) que permite el manejo e interconexión de dispositivos y servicios, de esta manera el objeto software creado por el driver puede interactuar con otros dispositivos o servicios. Por otro lado se ha contribuido al diseñado de la arquitectura software/middleware del sistema completo, tratando de que quede abierto a la incorporación de más elementos en futuros desarrollos en función de las necesidades expresadas por los usuarios. También se ha realizado una colaboración con alumnos de diseño industrial en el diseño del interfaz de usuario, además se ha dirigido un proyecto fin de carrera en el que siguiendo la linea de investigación en aulas de estimulación multisensorial se ha desarrollado un controlador de luces para poder controlar la iluminación del aula. El objetivo principal ha sido añadir un elemento nuevo a las salas de estimulación multisensorial e integrarlo junto con otros dispositivos que se están desarrollando en paralelo, pero a la vez ha obtenido una visión clara del proceso de diseño de un dispositivo, desde la electrónica básica, pasando por el firmware, el funcionamiento de un driver y el control software del dispositivo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5338</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5338/files/TAZ-TFM-2010-078.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5338/files/TAZ-TFM-2010-078_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>RFID</dc:subject>
+    <dc:subject>Estimulación Multisensorial</dc:subject>
+    <dc:subject>Snoezelen </dc:subject>
+    <dc:subject>Interacción </dc:subject>
+    <dc:subject>dsPIC </dc:subject>
+    <dc:subject>Senores Inerciales</dc:subject>
+    <dc:subject>Máster Universitario en Ingeniería Electrónica</dc:subject>
+    <dc:title>Sistema de interacción basado en RFID para salas de estimulación multisensorial</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

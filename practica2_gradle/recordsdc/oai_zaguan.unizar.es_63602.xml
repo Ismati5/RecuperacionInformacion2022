@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sancho Sanz, Javier</dc:contributor>
+    <dc:contributor>Velázquez Campoy, Adrián</dc:contributor>
+    <dc:creator>Prieto Rodríguez, Sara</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Streptococcus pneumoniae, causante de neumonía, otitis media, meningitis y bacteremia provoca más de un millón de muertes anuales y en un 25% de los casos, secuelas a nivel neurológico. Actualmente, la terapia contra este patógeno se basa en la administración de antibióticos y vacunas polivalentes dirigidas contra los serotipos más comunes, conocidos como “serotipos pediátricos”. La elevada diversidad genotípica y fenotípica de Streptococcus pneumoniae impide su erradicación, por ello es necesaria la búsqueda de una nueva diana terapeútica para combatir las infecciones causadas por este patógeno. En este proyecto de investigación, se realiza un cribado de 1120 compuestos dirigidos contra una proteína implicada en el metabolismo de metionina de Streptococcus, flavodoxina. La expresión del gen de flavodoxina se ha reportado como esencial en la supervivencia e invasividad de la bacteria a través de estudios de expresión génica durante la fase infectiva de Streptococcus.  Su función esencial en el metabolismo bacteriano, la inexistencia de un homólogo proteico en humanos y la ausencia de variabilidad genotípica conducen a la elección de flavodoxina como posible diana terapeútica. A través del estudio de interacción proteína-ligando efectuado mediante el análisis de sus curvas de desnaturalización térmica (thermal-shift assay) se consigue identificar un compuesto que aumenta la estabilidad proteica de flavodoxina (Tm), L-Tiroxina. Los estudios de ITC (isothermal titration calorimetry) realizados para confirmar la interacción entre L-Tiroxina – SpFld fueron favorables, obteniendo valores de KD razonablemente buenos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/63602</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Bioquímica y Biología Molecular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/63602/files/TAZ-TFM-2017-1266.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster en Biología Molecular y Celular</dc:subject>
+    <dc:title>Identificación de compuestos inhibidores dirigidos contra la flavodoxina de Streptococcus pneumoniae</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Identification of inhibitors compounds against Streptococcus pneumoniae´s flavodoxin</dc:title>
+</oai_dc:dc>

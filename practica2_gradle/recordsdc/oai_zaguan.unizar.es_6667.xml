@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sanz Badía, Mariano</dc:contributor>
+    <dc:creator>Martín Rodríguez-Medel, Luis</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El presente proyecto pretende mostrar la validez de un modelo de microrred basado en la generación de energía en el punto de consumo mediante fuentes energéticas renovables haciendo una gestión inteligente de ellas. El proyecto se llevará a cabo en el Valle de Gistaín (Huesca), donde dos puntos de consumo cercanos necesitan de grupos electrógenos para satisfacer sus elevadas necesidades energéticas derivadas del elevado número de personas a las que tienen que dar servicio. Se creará una microrred de interconexión de los consumidores auto-regulada y eficiente compuesta por la ampliación de las instalaciones fotovoltaicas existentes, la rehabilitación de una micro-central hidroeléctrica y otras nuevas instalaciones termosolares y de biomasa eliminando el uso de combustibles fósiles. La instalación eléctrica se realizará mediante una microrred de corriente continua para disminuir las pérdidas y por las ventajas que presenta desde el punto de vista de control e interconexión de elementos y reducción de fases de transformación de la corriente desde su generación hasta el punto de consumo final. Con el fin de reducir la potencia pico demandada por la instalación se dispondrá de un control jerárquico de los consumos evitando la activación de elevadas potencias simultáneamente sin perjudicar la calidad del servicio. Para satisfacer las necesidades térmicas de agua corriente sanitaria se dispondrán dispositivos de captación termosolar y calderas de biomasa. Adicionalmente se contará con resistencias eléctricas que entrarán en funcionamiento cuando exista exceso de producción eléctrica. Se pretende con este proyecto mostrar, a través de un ejemplo concreto de proyecto de ejecución, la viabilidad tecnológica y mejora energética y medioambiental de esta tipología de microrred eléctrica e instalaciones para que sirva como ejemplo para zonas rurales y urbanas. Se quiere mostrar el método de estudio, diseño y ejecución de distintas formas de obtención de energía renovable.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6667</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6667/files/TAZ-PFC-2011-692.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6667/files/TAZ-PFC-2011-692_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>microrred en isla</dc:subject>
+    <dc:subject>consumos aislados</dc:subject>
+    <dc:subject>instalacióm micro-hidroeléctrica</dc:subject>
+    <dc:subject>termosolar</dc:subject>
+    <dc:subject>fotovoltaica</dc:subject>
+    <dc:subject>caldera biomasa</dc:subject>
+    <dc:subject>integración de renovables</dc:subject>
+    <dc:subject>iluminación</dc:subject>
+    <dc:subject>turbina</dc:subject>
+    <dc:subject>gestión de energía</dc:subject>
+    <dc:subject>control jerárquico consumos</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Microrred en isla en el valle de Gistaín mediante el uso de energías renovables</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

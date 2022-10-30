@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Abián Vicén, María</dc:contributor>
+    <dc:contributor>Alzueta Anía, Mº Uxué</dc:contributor>
+    <dc:creator>De Goñi Barbarin, Álvaro</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>En el presente trabajo se ha llevado a cabo un estudio de la oxidación del amoniaco (NH3) a presión atmosférica, en un reactor de flujo, en diferentes condiciones de operación, variando éstas desde muy reductoras a muy oxidante y en el intervalo de temperaturas de 400-1150 oC. Se ha evaluado la conversión del NH3, así como las concentraciones de los principales productos y contaminantes generados (NOx) en diferentes relaciones de oxidación para poder determinar las condiciones óptimas de operación para la combustión de este gas. Así mismo, los datos obtenidos pueden contribuir al desarrollo de un modelo cinético-químico que permita simular estos procesos. Adicionalmente se realizó un modelado del proceso, en el cual se analizó tanto las rutas de reacción como los productos de reacción. Los resultados de este estudio indican que la combustión del NH3 es bastante limpia. En condiciones muy reductoras (alto déficit de O2) la conversión del mismo no es completa, pero para condiciones ligeramente reductoras en adelante si se alcanza una conversión de NH3 del 100 %. También se observó que el H2 solo se genera en condiciones reductoras y estequiométricas. La cantidad de O2 introducida influye en la temperatura de máxima conversión, a mayor cantidad de O2 en la zona de reacción, menor temperatura de máxima conversión.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76546</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Tecnologías del Medio Ambiente</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76546/files/TAZ-TFG-2018-3687.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/76546/files/TAZ-TFG-2018-3687_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Química</dc:subject>
+    <dc:title>Estudio de la combustión de amoniaco como alternativa a combustibles basados en carbono</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Study of ammonia combustion as an alternative for carbon-based fuels</dc:title>
+</oai_dc:dc>

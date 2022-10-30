@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bernués, Julio</dc:contributor>
+    <dc:contributor>Ruiz Blasco, Francisco José</dc:contributor>
+    <dc:creator>Prior Arauz, Maria de los Reyes</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Se trata de la demostración del teorema del número primo. Existen demostraciones analíticas y elementales dependiendo de las técnicas que se utilicen a la hora de desarrollarlas. En las primeras se utiliza teoría de variable compleja mientras que en las segundas no. La primera demostración que se realizó del teorema fue la llevada a cabo por Jaques Hadamard y el belga Charles de la Vallée Poussin en 1896. Se trata de una demostración analítica. Este trabajo se basa en esa demostración pero con muchas simplificaciones que se han ido haciendo después. Está dividido en cuatro capítulos. En el primero nos centramos en la aritmética e introducimos dos de las funciones aritméticas, como son la función de Möbius y la función de Mangoldt, importantes a la hora de estudiar la distribución de los números primos. Introducimos la operación de convolución de Dirichlet con la que relacionamos dichas funciones. En el segundo capítulo presentamos formas equivalentes de expresar el teorema del número primo. Para ello utilizamos las funciones de Chebyshev y resultados importantes del análisis real como es la identidad de Abel. En el tercer capítulo introducimos la parte de análisis complejo que necesitamos para realizar la demostración. Como son las series de Dirichlet e importantes propiedades de la función zeta de Riemann. En el cuarto y último capítulo realizamos la síntesis de todos los resultados y demostramos al fin el teorema.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/30739</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Matemáticas; Área de Análisis Matemático</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/30739/files/TAZ-TFG-2014-2703.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>teorema número primo</dc:subject>
+    <dc:subject>Graduado en Matemáticas</dc:subject>
+    <dc:title>El teorema del número primo</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

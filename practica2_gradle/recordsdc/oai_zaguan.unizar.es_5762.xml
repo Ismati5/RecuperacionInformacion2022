@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Binzer, Thomas</dc:contributor>
+    <dc:contributor>Mingo Sanz, Jesús de</dc:contributor>
+    <dc:creator>Modrego Gil, Julio</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Este trabajo presenta el diseño de una agrupación de antenas tipo parche de geometría rectangular para ser usadas en un radar. Dicho radar forma parte a su vez de un sistema de control de la velocidad de crucero adaptativo (ACC), comercializado por la empresa Robert Bosch Group GmbH. Fue realizado en las instalaciones de la citada empresa en Stuttgart, Alemania. Partiendo de los resultados obtenidos con una agrupación 1x16 parches rectangulares diseñada previamente en Bosch, se inicia el proceso de diseño de la agrupación de antenas que satisfaga los requisitos del sistema (alcance, ángulo de visión, etc.). Tras este proceso, se encontró que la mejor solución era una agrupación de 20x3 parches rectangulares con una lente electromagnética superpuesta. A partir de ahí se trabajó en el diseño de la red de alimentación, basada en la tecnología de líneas de transmisión tipo “microstrip” o microtira. Como resultado de este trabajo, se halló que debido a problemas en la simulación de la red de alimentación, la solución óptima de diseño debía cambiarse. El diseño definitivo que cumple con los requisitos del sistema es una agrupación de 24x3 parches rectangulares con una lente electromagnética cilíndrica superpuesta. Finalmente, se fabricaron modelos de los circuitos diseñados para ser medidos en laboratorio. En concreto se fabricaron modelos de las agrupaciones: i) 1x3 alimentado con amplitudes en distribución triangular sobre pedestal 0,5 – 1 – 0,5 ii) 1x3 alimentado con las amplitudes del punto anterior y desfase entre parches iii) 20x3, o 20 copias de la agrupación del segundo punto mencionado iv) 24x3, o 24 copias de la agrupación del segundo punto mencionado A la vista de estos resultados, se obtienen las conclusiones pertinentes sobre el trabajo realizado, y se abren posibles vías de continuación.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5762</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5762/files/TAZ-PFC-2011-185.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5762/files/TAZ-PFC-2011-185_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>array</dc:subject>
+    <dc:subject>planar</dc:subject>
+    <dc:subject>microstrip patch</dc:subject>
+    <dc:subject>parche</dc:subject>
+    <dc:subject>rectangular</dc:subject>
+    <dc:subject>técnica de alimentación</dc:subject>
+    <dc:subject>feeding circuit</dc:subject>
+    <dc:subject>ads</dc:subject>
+    <dc:subject>feko</dc:subject>
+    <dc:subject>impedancias</dc:subject>
+    <dc:subject>adaptación</dc:subject>
+    <dc:subject>pérdidas de retorno</dc:subject>
+    <dc:subject>parámetros S</dc:subject>
+    <dc:subject>fase</dc:subject>
+    <dc:subject>amplitud</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicaciones</dc:subject>
+    <dc:title>Design and measurement of microstrip patch antennas for their use in an ACC (Adaptive Cruise Control) radar system for automobiles</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

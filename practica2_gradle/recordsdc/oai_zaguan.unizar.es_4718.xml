@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Hauke Bernardos, Guillermo</dc:contributor>
+    <dc:creator>Fuentes Berdala, Sergio</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>Este  proyecto  investiga  técnicas  de  remallado  para  el  análisis  computacional de fluidos mediante el empleo de estimadores de error  basados  en  el  método  variacional  de  las mulltiescalas  (VMS).  Esta  tecnología  será  aplicada  a  la  ecuación  convectiva-difusiva  del  transporte  de  mecánica  de  fluidos  con  el  objetivo  de  comparar  distintas estrategias de remallado.    Dichas estrategias consistirán en llevar a cabo procesos iterativos de  remallado,  donde  emplearemos  herramientas  como  GiD  o  Tecplot,  sobre una geometría en ‘L’, que darán lugar a mallas adaptadas. Esta  geometría en ‘L’ será atravesada por fluidos de distintas viscosidades,  lo  que  hará  que  la  solución  exacta  del  problema,  calculada  por  el  Método de Elementos Finitos, sea muy distinta en cada caso.    El  objetivo  de  estos  procesos  es  generar mallas  que  tiendan,  a  lo  largo de las iteraciones, a minimizar el error estimado en cada uno de  los elementos finitos que  las conforman, a fin de obtener mallas que  proporcionen soluciones lo más cercanas posible a la solución exacta.    Estos  procesos  iterativos,  que  estarán  caracterizados  por  distintos  parámetros, como por ejemplo el estimador de error que usemos en  el  proceso  o  la  norma  sobre  la  que  estimamos  dicho  error,  darán  como  resultado  mallas  diferentes  en  función  de  cuáles  sean  estos  parámetros.  Por  otra  parte,  la  interacción  del  usuario mediante  un  algoritmo le permitirá obtener mallas con la exactitud deseada.    El  análisis  de  los  distintos  procesos  desembocará  en  estrategias  concretas  para  un  correcto  remallado  a  partir  de  las  conclusiones  extraídas en las distintas fases del estudio.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4718</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4718/files/TAZ-PFC-2010-068.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/4718/files/TAZ-PFC-2010-068_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Estimación de error a-posteriori</dc:subject>
+    <dc:subject>Ecuación convectiva-difusiva</dc:subject>
+    <dc:subject>Métodos estabilizados</dc:subject>
+    <dc:subject>Método variacional de las multiescalas</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Análisis de procesos de remallado basados en estimaciones de error en fluidodinámica computacional</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

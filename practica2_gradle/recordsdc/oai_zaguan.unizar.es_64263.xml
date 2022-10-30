@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Abaurrea, Jesús</dc:contributor>
+    <dc:contributor>Cebrián Guajardo, Ana Carmen</dc:contributor>
+    <dc:creator>Ortega Palacios, Inés</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El objetivo del trabajo es realizar una introducción a la inferencia estadística de datos extremos.  En primer lugar se estudian los resultados de la teoría clásica de valores extremos, los tipos de distribución límite para el máximo de una sucesión de variables independientes e idénticamente distribuidas, su inclusión en el marco de una distribución de valores extremos y la inferencia estadística de ésta. En la segunda parte se verán modelos que ajustan la distribución de valores que exceden un umbral dado. El modelo se basa en el proceso de Poisson y en la distribución Pareto Generalizada. Se estudian métodos de selección de umbral, estimación de parámetros, valores de retorno y de la validación del modelo. Ambos modelos se aplican a una serie de datos medioambientales.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64263</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Métodos Estadísticos; Área de Estadística e Investigación Operativa</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64263/files/TAZ-TFG-2017-2126.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Matemáticas</dc:subject>
+    <dc:title>Introducción a la modelización estadística de datos extremos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Introduction to statistical modeling of extreme values</dc:title>
+</oai_dc:dc>

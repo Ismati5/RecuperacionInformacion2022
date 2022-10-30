@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Garrido Marín, Ángel Luis</dc:contributor>
+    <dc:contributor>Gómez Rubio, Óscar</dc:contributor>
+    <dc:contributor>Ilarri Artigas, Sergio</dc:contributor>
+    <dc:creator>Blázquez Larraz, Pilar</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Sistema que permite generar una ficha informativa de un personaje de forma automática a partir de las noticias pertenecientes a una base de datos documental de un medio de comunicación y otra información procedente de Internet.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31556</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31556/files/TAZ-PFC-2014-607.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>extracción de información</dc:subject>
+    <dc:subject>bases de datos</dc:subject>
+    <dc:subject>internet</dc:subject>
+    <dc:subject>linked data</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Generador automático de fichas de personajes para un entorno periodístico</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

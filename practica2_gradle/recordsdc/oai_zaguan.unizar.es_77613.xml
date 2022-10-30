@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Fujdiak, Radek</dc:contributor>
+    <dc:contributor>Salinas Ariz, Iñigo</dc:contributor>
+    <dc:creator>Laura Guijarro Iguacel</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>En el proyecto se simula una calle inteligente para ver a futuro su viabilidad. En ésta, se monitoriza y controla los distintos parámetros de una ciudad, tales como; la calidad del aire, el nivel de ruido, la gestión de farolas, control de plazas de parking... Con la finalidad de  aplicar IoT a una ciudad real  y así controlar su estado en tiempo real a través de una aplicación final, contribuyendo a un consumo eficiente de los recursos. La tecnología LoRaWAN ha sido la elegida para desarrollar el proyecto implementando una red de comunicación basada en end-devices, gateway y servidor.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/77613</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/77613/files/TAZ-TFG-2018-2861.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías y Servicios de Telecomunicación</dc:subject>
+    <dc:title>Smart Street "Proof of Concept". Data Processing</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Smart Street "Proof of Concept". Data Processing</dc:title>
+</oai_dc:dc>

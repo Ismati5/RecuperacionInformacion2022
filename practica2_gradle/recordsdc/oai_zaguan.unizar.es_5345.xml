@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Santillán Lázaro, Ángel</dc:contributor>
+    <dc:creator>Giró Ullate, Jorge</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>Se trata de una aplicación informática que busca conocer,  en caso de impacto de un rayo en la zona, si el nivel de riesgo que existe es admisible o si por el contrario se deben adoptar medidas de protección.   Se estudiarán dos tipos de riesgos: •	Riesgo de pérdida de vida humana •	Riesgo de pérdida de servicio público En caso de que haya que tomar alguna medida de protección se ofrece la posibilidad de protegerla mediante pararrayos de tipo Franklin o PDC.  La aplicación muestra  de forma gráfica distintas posiciones en las que se pueden fijar los pararrayos y el área que estos cubren en función del nivel de protección adoptado. También se ofrece un cálculo aproximado del presupuesto que esto conlleva en función del nº de pararrayos, tipo y modelo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5345</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5345/files/TAZ-PFC-2010-338.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electricidad)</dc:subject>
+    <dc:title>Protección contra el rayo: Desarrollo de una aplicación informática para la evaluación del riesgo, medidas de protección y valoración económica</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

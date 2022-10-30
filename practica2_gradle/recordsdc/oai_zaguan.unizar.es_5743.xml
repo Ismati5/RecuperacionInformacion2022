@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Burguete Tolosa, Javier</dc:contributor>
+    <dc:contributor>Viñals Yúfera, Víctor</dc:contributor>
+    <dc:creator>Lacasta Soto, Asier Heradio</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>En este proyecto se plantea la optimización de SFS2D, un código científico de simulación hidráulica, secuencial y escrito en Fortran, con una gran carga computacional. SFS2D sirve para modelar situaciones muy diversas que van desde la simulación de las consecuencias de una rotura de presa al estudio de una crecida repentina del caudal de un río. SFS2D ha sido desarrollado por el Grupo de Hidráulica Computacional de la Universidad de Zaragoza y se basa en un método de resolución de flujos de superficial libre que en la actualidad sirve como soporte para desarrollar nuevos modelos numéricos acoplados. Sin embargo, tras varios años de evolución, el rendimiento de SFS2D es escaso y las simulaciones de interés se prolongan demasiado en el tiempo. Esto es un problema a la hora de obtener resultados, siendo necesaria algún tipo de optimización que haga disminuir estos tiempos lo máximo posible. Para esto y como veremos a lo largo del trabajo, se han estudiado distintas opciones de optimización, desde las proporcionadas por el propio compilador hasta el desarrollo de versiones adaptadas a diversas plataformas multiprocesador. Para ello, se han considerado los dos modelos principales de ejecución paralela en cálculos científicos: memoria compartida y paso de mensajes. La versión paralela de memoria compartida se ha codificado utilizando primitivas OpenMP y es apropiada para su ejecución en máquinas \emph{multicore}, que integran varios procesadores de alto rendimiento en un chip. La versión paralela basada en memoria distribuída se ha programado usando primitivas MPI y es apropiada para su ejecución de un número potencialmente grande de nodos de cálculo independientes pero conectados mediante una red de alto rendimiento (máquinas de memoria distribuida). En la evaluación experimental se observa que el escalado de la versión basada en paso de mensajes es muy bueno también en máquinas de memoria compartida por lo que se considera la aportación principal de este proyecto. Para caracterizar el rendimiento de nuestras soluciones, usamos como carga de trabajo tres simulaciones diferentes que cubren la casuística general de las simulaciones que se hacen a través del ámbito abarcado por SFS2D. La evaluación del rendimiento se ha realizado además en máquina real, utilizando tres clúster \footnote{Conjunto de nodos de cálculo} suficientemente distintos como para dar validez a nuestras conclusiones. El primero de ellos es un clúster conformado por equipos de características no destinado a este tipo de ejecuciones. El segundo equipo, denominado Terminus, está especializado en computación y consigue una gran densidad de cálculo mediante una organización en blades y una jerarquía de interconexión optimizada. Por último se utiliza también el nodo de la Red Española de Supercomputación en Zaragoza, Caesaraugusta. Caesaraugusta es un supercomputador destinado únicamente a cálculo científico de memoria distribuida con 512 procesadores interconectados mediante una red de baja latencia (Myrinet).</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5743</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Arquitectura y Tecnología de Computadores</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5743/files/TAZ-PFC-2011-174.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>paralelización</dc:subject>
+    <dc:subject>optimización</dc:subject>
+    <dc:subject>aguas poco profundas</dc:subject>
+    <dc:subject>mpi</dc:subject>
+    <dc:subject>openmp</dc:subject>
+    <dc:subject>memoria compartida</dc:subject>
+    <dc:subject>memoria distribuida</dc:subject>
+    <dc:subject>hidráulica computacional</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Estrategias de paralelización de un código de simulación hidráulica de flujos transitorios 2D en volúmenes finitos</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

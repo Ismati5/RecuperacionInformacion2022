@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Silva Suárez, Manuel</dc:contributor>
+    <dc:contributor>Mahulea, Cristian Florentín</dc:contributor>
+    <dc:creator>Wang, Liewei</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Muchos sistemas artificiales, como los sistemas de manufactura, de logística, de telecomunicaciones o de tráfico, pueden ser vistos "de manera natural" como Sistemas Dinámicos de Eventos Discretos (DEDS). Desafortunadamente, cuando tienen grandes poblaciones, estos sistemas pueden sufrir del clásico problema de la explosión de estados. Con la intención de evitar este problema, se pueden aplicar técnicas de fluidificación, obteniendo una relajación fluida del modelo original discreto. Las redes de Petri continuas (CPNs) son una aproximación fluida de las redes de Petri discretas, un conocido formalismo para los DEDS. Una ventaja clave del empleo de las CPNs es que, a menudo, llevan a una substancial reducción del coste computacional. Esta tesis se centra en el control de Redes de Petri continuas temporizadas (TCPNs), donde las transiciones tienen una interpretación temporal asociada. Se asume que los sistemas siguen una semántica de servidores infinitos (velocidad variable) y que las acciones de control aplicables son la disminución de la velocidad del disparo de las transiciones. Se consideran dos interesantes problemas de control en esta tesis: 1)  control del marcado objetivo, donde el objetivo es conducir el sistema (tan rápido como sea posible) desde un estado inicial a un estado final deseado, y es similar al problema de control set-point para cualquier sistema de estado continuo; 2) control del flujo óptimo, donde el objetivo es conducir el sistema a un flujo óptimo sin conocimiento a priori del estado final. En particular, estamos interesados en alcanzar el flujo máximo tan rápido como sea posible, lo cual suele ser deseable en la mayoría de sistemas prácticos. El problema de control del marcado objetivo se considera desde las perspectivas centralizada y descentralizada. Proponemos varios controladores centralizados en tiempo mínimo, y todos ellos están basados en una estrategia ON/OFF. Para algunas subclases, como las redes Choice-Free (CF), se garantiza la evolución en tiempo mínimo; mientras que para redes generales, los controladores propuestos son heurísticos. Respecto del problema de control descentralizado, proponemos en primer lugar un controlador descentralizado en tiempo mínimo para redes CF. Para redes generales, proponemos una aproximación distribuida del método Model Predictive Control (MPC); sin embargo en este método no se considera evolución en tiempo mínimo. El problema de control  de flujo óptimo (en nuestro caso, flujo máximo) en tiempo mínimo se considera para redes CF. Proponemos un algoritmo heurístico en el que calculamos los "mejores" firing count vectors que llevan al sistema al flujo máximo, y aplicamos una estrategia de disparo ON/OFF. También demostramos que, debido a que las redes CF son persistentes, podemos reducir el tiempo que tarda en alcanzar el flujo máximo con algunos disparos adicionales. Los métodos de control propuestos se han implementado e integrado en una herramienta para Redes de Petri híbridas basada en Matlab, llamada SimHPN.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/11740</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/11740/files/TESIS-2013-075.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>teoría de sistemas</dc:subject>
+    <dc:subject>sistemas de control</dc:subject>
+    <dc:subject>ingeniería de control</dc:subject>
+    <dc:subject>sistemas formales</dc:subject>
+    <dc:subject>redes de petri</dc:subject>
+    <dc:subject>systems theory</dc:subject>
+    <dc:subject>control systems</dc:subject>
+    <dc:subject>control engineering</dc:subject>
+    <dc:subject>formal systems</dc:subject>
+    <dc:subject>petri nets</dc:subject>
+    <dc:title>On Minimum-time Control of Continuous Petri nets</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

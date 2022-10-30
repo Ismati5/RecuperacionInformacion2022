@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gil Martínez, Antonia</dc:contributor>
+    <dc:creator>Bes Miras, Ana</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>En este proyecto se desarrolla un estudio tanto para el ámbito técnico como para el económico, de la implantación de un sistema de cogeneración en una planta agropecuaria, en la cual se quiere obtener biogás a partir de purines. Estos desechos como ya se conoce, están compuestos por un 95% de agua y un 5% de excrementos y orines porcinos. A estos purines se les aplican sofisticados tratamientos físico-químicos  durante un periodo de días, con el fin de obtener biogás en el digestor a una temperatura determinada.  Este sistema consiste en una digestión anaeróbica y su posterior generación de energía eléctrica y térmica, mediante un motor de cogeneración para la posterior venta de dicha electricidad producida. Las tarifas, primas y demás requisitos, quedan recogidos en el Real Decreto 661/2007 para instalaciones en Régimen Especial. Este tipo de instalaciones permite obtener un máximo aprovechamiento energético, una eliminación de efluentes al exterior y una minimización de todo tipo de emisiones.  La eliminación de estos desechos es un tema que preocupa desde hace tiempo al sector ganadero puesto que un litro de purines es cien veces más contaminante que un litro de aguas residuales urbanas. Siendo que ahora existe la solución de eliminar de forma más limpia esos residuos, a la par que se están obteniendo beneficios con la venta de la electricidad producida, resulta muy interesante el instalar una planta de cogeneración de estas características.  El estudio de este proyecto está centrado esencialmente en el ámbito económico del mismo. Se trata de un estudio en el cual se realizará un análisis técnico de motores que puedan suplir las necesidades de la granja a estudiar, (la demanda térmica de los animales, demanda térmica del digestor para la producción de biogás, cumplimiento del rendimiento eléctrico equivalente siendo el del motor siempre mayor que el mínimo estipulado y asegurar el correcto funcionamiento del motor con la cantidad de biogás producida diariamente). Y posteriormente se analizarán cada uno de ellos para averiguar cuál de es el más rentable es decir, con cuál de ellos se recupera antes la inversión realizada.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6948</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6948/files/TAZ-PFC-2012-104_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6948/files/TAZ-PFC-2012-104.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>sistema de cogeneración</dc:subject>
+    <dc:subject>biogás</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Estudio técnico-económico para la implantación de un sistema de cogeneración en una planta agropecuaria</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Murillo Arnal, Ana Cristina</dc:contributor>
+    <dc:contributor>Mosteo Chagoyen, Alejandro Rafael</dc:contributor>
+    <dc:creator>Herman, Pierre</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>En este proyecto se ha realizado todo el proceso para construir, controlar e integrar un brazo robotizado sobre un robot móvil estándar, en particular la plataforma TurtleBot,construido sobre la aspiradora autónoma Roomba. Así, el robot adquiere la capacidad para apartar o recoger objetos que pudieran molestarle en el cumplimiento de su tarea de limpieza. La detección e identificación se ha realizado mediante un sensor RGB-d (visión y profundidad), en particular el sensor Kinect de Microsoft. En resumen, se ha realizado un completo desarrollo, tanto software como hardware, de un brazo-robot y los elementos de percepción y control necesarios para su integración en la plataforma robótica móvil existente. El brazo robotizado a construir es de tipo RRR (es decir, con 3 articulaciones de rotación), con una muñeca de un grado de libertad y terminado en una pinza. La detección de objetos y guiado sencillo del brazo se realiza mediante el procesado de información capturada por el sensor RGB-d utilizado (Kinect). A partir de la nube de puntos en 3D que se obtiene de este sensor, se detectan objetos que aparezcan a lo largo de la trayectoria del robot y se calcula el punto de agarre donde sedirigirá el brazo. En más detalle, las tareas realizadas en este proyecto han sido las siguientes: A. Diseño y construcción del brazo robotizado:   - Estudio de alternativas para su construcción, realización de planos 3D, solicitud depresupuestos para las piezas necesarias para construirlo.   - Cálculo del modelo cinemático para el brazo robotizado.   - Estudio, y puesta en marcha de un microcontrolador (Arduino Uno).   - Montaje y programación del control del brazo robotizado desde Arduino. B. Estudio, instalación y familiarización con el entorno ROS (pseudo-sistema operativo utilizado para gestión de plataformas robóticas) y sensores relacionados, incluyendo:drivers OpenNI para comunicación con sensores Kinect; librerías PCL y OpenCV para facilitar las operaciones con imágenes 3D y 2D respectivamente; librerías para interacción entre ROS y Arduino C. Estudio e implementación del módulo de visión por computador con el sensor Kinect. Se han trabajado técnicas de segmentación de planos y agrupación en clusters para una detección sencilla de objetos/obstáculos sobre el suelo. D. Integración del control del brazo y el módulo de visión sobre el robot móvil:   - Estudio del funcionamiento del robot-aspiradora y realización de un programa básico de control de movimiento del robot.   - Implementación del programa principal que transmite la información obtenida por el sistema de visión al robot-aspiradora y al brazo-robot.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10062</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10062/files/TAZ-PFC-2013-023.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>sistema de visión por computador </dc:subject>
+    <dc:subject>brazo robotizado</dc:subject>
+    <dc:subject>pcl</dc:subject>
+    <dc:subject>kinect</dc:subject>
+    <dc:subject>ros</dc:subject>
+    <dc:subject>turtlebot</dc:subject>
+    <dc:subject>roomba</dc:subject>
+    <dc:subject>servomotores</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Brazo robotizado controlado mediante sensores de visión integrado sobre un robot móvil</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

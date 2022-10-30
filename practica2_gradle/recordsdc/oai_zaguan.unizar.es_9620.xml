@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Cortés Gracia, Cristóbal</dc:contributor>
+    <dc:creator>Ramírez Vázquez, Juan Antonio</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>This thesis presents detailed numerical calculations of the Unsteady, Reynolds- Averaged Navier-Stokes (URANS) equations to simulate isothermal, single-phase flow in the geometries of realistic swirl burners at large Reynolds numbers. Simulations are run with two different turbulence closures, viz., the standard k-epsilon and Reynolds stresses (RSM) models. The numerical method is validated concerning convergence, grid density and far-field influence. Results describe a flow that is in any case periodic or pseudo-periodic, and exhibits quite convincing time-dependent features: bubble- and spiral-type vortex breakdowns and vortex core precession. Some simulations are validated by comparison with corresponding experiments. Good agreement with the experiments has been obtained for mean flow, and frequency peaks of the power spectral density of pressure fluctuations. In order to asses the reliability of URANS methods within this context, calculated time-averaged flow and coherent structures are documented via 2D graphs, spectral analysis, 3D isosurfaces and advanced, vortex-related visualization methods and 2D snapshot proper orthogonal decomposition (S-POD).  Differences arising from the nature of the turbulence model (k-epsilon vs. RSM) are very relevant indeed, given the cost factor involved and the apparent verisimilitude of the predicted flow; they are thoroughly analyzed.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9620</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Instituto de Investigación Mixto CIRCE</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9620/files/TESIS-2012-110.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>mecánica de fluidos</dc:subject>
+    <dc:subject>simulación</dc:subject>
+    <dc:subject>fuentes no convencionales de energía</dc:subject>
+    <dc:title>A computational fluid dynamics investigation of turbulent swirling burners</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

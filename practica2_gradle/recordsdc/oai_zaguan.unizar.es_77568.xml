@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Garatachea Vallejo, Nuria</dc:contributor>
+    <dc:creator>Serrano Sevilla, Jaime</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>Objetivo: determinar la validez del nuevo pulsómetro Polar OH1. Metodología: 23 sujetos realizaron un protocolo de 70 minutos formado por un periodo de reposo sentado, una prueba en cicloergómetro, un circuito de fuerza con cuatro ejercicios diferentes y una prueba en tapiz rodante. Cada sujeto llevó colocados dos pulsómetros Polar OH1, uno en el antebrazo y otro en la parte superior del brazo, y una banda pectoral Polar H7 que fue utilizada como dispositivo de referencia. Los datos de los Polar OH1 eran registrados en el propio dispositivo, mientras que los datos de la banda Polar H7 eran registrados por otro dispositivo Polar V800 colocado en la muñeca del sujeto. Se realizó un análisis estadístico de los datos, calculando el porcentaje de precisión de los Polar OH1 (%OH1) como el porcentaje de casos donde el valor de Polar OH1 estaba dentro del intervalo de ± 5 ppm (pulsaciones por minuto) respecto del valor del Polar H7. También se han representado los diagramas de Bland-Altman para estudiar la concordancia entre los dispositivos. Resultados: las pruebas de cicloergómetro y tapiz rodante, junto con el periodo de reposo muestran porcentajes de precisión superiores al 95%, frente al circuito de fuerza, cuya precisión es inferior al 70%. En los diagramas de Bland-Altman los límites de concordancia (LC) no superan valores de ± 5 ppm salvo en el caso del circuito de fuerza, con LC: -11,36 y 17,9 para el Polar OH1 del bíceps; y LC: -11,30 y 20, 07 para el Polar OH1 del antebrazo. Conclusiones: el Polar OH1 muestra niveles adecuados de precisión en las pruebas de reposo, cicloergómetro y tapiz rodante; pero no para el circuito de fuerza, lo que pudo ser causado por la contracción de los músculos del brazo al sujetar las mancuernas, impidiendo el óptimo posicionamiento del sensor.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/77568</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Fisiatría y Enfermería; Área de Educación Física y Deportiva</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/77568/files/TAZ-TFG-2018-3389.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ciencias de la Actividad Física y del Deporte</dc:subject>
+    <dc:title>Pulsómetro Polar OH1: estudio sobre su validez mediante un protocolo con distintos ejercicios e intensidades</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Polar OH1 heart rate monitor: study of its validity using a protocol with different exercises and intensities</dc:title>
+</oai_dc:dc>

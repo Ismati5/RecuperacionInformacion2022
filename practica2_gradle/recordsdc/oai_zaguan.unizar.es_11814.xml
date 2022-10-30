@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Barragán Pérez, Luis Ángel</dc:contributor>
+    <dc:contributor>Sagüés Blázquiz, Carlos</dc:contributor>
+    <dc:creator>Velázquez Millán, Roberto</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>En este Trabajo Fin de Máster se presenta el control digital por realimentación del estado de un convertidor Buck. La implementación se realiza en coma fija sobre una FPGA. Los fundamentos básicos se obtienen de las asignaturas “Control de etapas electrónicas de potencia” y “Modelado de convertidores electrónicos de potencia” del Máster de Ingeniería Electrónica y de la asignatura “Ingeniería de control” optativa de 5º curso Ingeniería Industrial. Se usan referencias específicas que se detallan en la memoria para conseguir de forma ordenada el objetivo planteado.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/11814</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/11814/files/TAZ-TFM-2013-672.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>modelo</dc:subject>
+    <dc:subject>estado</dc:subject>
+    <dc:subject>estados</dc:subject>
+    <dc:subject>realimentación</dc:subject>
+    <dc:subject>lineal</dc:subject>
+    <dc:subject>buck</dc:subject>
+    <dc:subject>convertidor</dc:subject>
+    <dc:subject>Máster Universitario en Ingeniería Electrónica</dc:subject>
+    <dc:title>Control digital de un convertidor Buck mediante realimentación lineal del estado</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

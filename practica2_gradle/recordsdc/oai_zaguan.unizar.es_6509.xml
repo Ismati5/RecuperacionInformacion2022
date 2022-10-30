@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Júlvez Bueno, Jorge Emilio</dc:contributor>
+    <dc:contributor>Silva Suárez, Manuel</dc:contributor>
+    <dc:creator>Fraca Santamaría, María Estíbaliz</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Las redes de Petri (RdP) son un paradigma formal ampliamente aceptado para el modelado de sistemas de eventos discretos. No obstante, con poblaciones de gran tamaño, aparece el problema de la explosión de estados (crecimiento exponencial del tamaño del conjunto de estados alcanzables). Una manera de paliar este problema consiste en fluidificar el formalismo y considerar redes de Petri continuas, que permiten abordar de manera eficiente el estudio de los sistemas mediante técnicas lineales de análisis.      Sin embargo, las RdP continuas no siempre preservan sus propiedades, como por ejemplo la ausencia de bloqueos. En este Trabajo se introduce, formaliza y estudia un formalismo nuevo, denominado redes de Petri híbridas adaptativas (HAPN), que combina comportamiento continuo y discreto: El comportamiento de las transiciones de la red adaptativa es variable: una transición se comporta como continua si su carga de trabajo supera un umbral establecido inicialmente, en caso contrario se comporta como discreta. Estas redes pueden aproximar mejor las redes discretas, mientras que cuando las poblaciones son elevadas el comportamiento es continuo y las técnicas lineales son aplicables, evitando el problema de la explosión de estados. De esta manera, las HAPN constituyen un marco conceptual muy general que incluye a las redes de Petri discretas,continuas e híbridas.                                                                      En este trabajo, se ha definido formalmente el formalismo de redes de Petri adaptativas. A continuación, se ha caracterizado el conjunto de marcados alcanzables de las redes de Petri adaptativas, así como se compara con el de las RdP discretas. Por ultimo, se ha estudiado la propiedad de ausencia de bloqueos: se trata de determinar si la red adaptativa preserva la ausencia de bloqueos de la red discreta con misma estructura y marcado inicial.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6509</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6509/files/TAZ-TFM-2011-084.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>redes de petri</dc:subject>
+    <dc:subject>redes de petri híbridas</dc:subject>
+    <dc:subject>sistemas híbridos</dc:subject>
+    <dc:subject>alcanzabilidad</dc:subject>
+    <dc:subject>ausencia de bloqueos</dc:subject>
+    <dc:subject>sistemas adaptativos</dc:subject>
+    <dc:subject>Máster Universitario en Ingeniería de Sistemas e Informática</dc:subject>
+    <dc:title>Redes de Petri híbridas adaptativas : alcanzabilidad y ausencia de bloqueos</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

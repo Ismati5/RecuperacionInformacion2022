@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Asiain Ansorena, David</dc:contributor>
+    <dc:creator>Martinez Lahoz, Javier</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>El presente trabajo desarrollará todo el proceso de diseño, fabricación y programación de una centralita electrónica para vehículo eléctrico. Se comenzará realizando un estudio completo del sistema y de las posibles soluciones que se pueden adoptar para resolver cada cuestión. El asunto principal en el que se centrará este proyecto consiste en el control inteligente del vehículo y cómo llevarlo a cabo. La opción planteada es el trabajo cooperativo entre microcontrolador y microprocesador. Comenzaremos logrando una comunicación entre ambos subsistemas. Posteriormente, y tras definir las funciones generales que deberá llevar a cabo la ECU en su conjunto, se repartirán las funciones entre el microcontrolador y el microprocesador. Cuando se conozcan todas las funciones a desarrollar, y quién debe llevarlas a cabo, se procederá a un análisis de las mismas y al planteamiento de diferentes soluciones para cada una. Se escogerán las opciones que se consideren adecuadas en cada caso, y se planteará un prototipo inicial de ECU. Se montará este primer prototipo de ECU, y se realizará un programa prototipo que compruebe las funcionalidades individualmente de cada subsistema. Tras realimentar el diseño con los resultados de las pruebas del primer prototipo, se procederá a realizar otro prototipo. Este segundo prototipo se considerará ya definitivo, por lo que se realizará de una forma profesional y se montarán los componentes definitivos. Sobre esta versión definitiva se desarrollará el software final. Este software se irá desarrollando poco a poco, añadiendo la conectividad de sistemas externos de uno en uno, hasta que finalmente funcionen todos de forma adecuada. Finalmente se realizarán unas pruebas funcionales definitivas y se ajustará el software hasta lograr un comportamiento óptimo. El objetivo final es disponer de una centralita inteligente con registro de datos completamente adaptada al sistema en cuestión.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/58014</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/58014/files/TAZ-TFG-2016-4931.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/58014/files/TAZ-TFG-2016-4931_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecatrónica</dc:subject>
+    <dc:title>Desarrollo de ECU para control y registro en EV mediante trabajo cooperativo de microcontrolador y microprocesador</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">ECU Development for EV control and registration  through  microcontroller and microprocessor cooperative work</dc:title>
+</oai_dc:dc>

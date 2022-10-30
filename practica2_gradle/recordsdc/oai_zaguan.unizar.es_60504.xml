@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Fratila, Raluca Maria</dc:contributor>
+    <dc:creator>Navascuez Lominchar, Marcos</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>La nanotecnología es un campo en continua expansión que se ha ido diversificando para poder dar soluciones a problemas de la vida diaria. Dentro de estas nuevas ramas de conocimiento se encuentra la nanobiomedicina y este trabajo se ha centrado más específicamente en las aplicaciones de las nanopartículas magnéticas en medicina. Concretamente se ha planteado el uso de la reacción “click” bioortogonal entre azidas y alquinos tensionados para inmovilizar nanopartículas magnéticas en superficies.  Este Trabajo Fin de Máster ha consistido en la síntesis y caracterización de nanopartículas magnéticas de Fe3O4 monodispersas con características apropiadas para su posterior inmovilización covalente en membranas y superficies. La síntesis se ha llevado a cabo por descomposición térmica de Fe(acac)3 obteniendo nanopartículas de 12 nm de diámetro medio que posteriormente se han transferido a medio acuoso mediante recubrimiento con un polímero anfifílico (poli(anhídrido maleico-alt-1-octadeceno, PMAO). Posteriormente se ha llevado a cabo la estabilización estérica de las nanopartículas con dos moléculas voluminosas distintas (polietilenglicol y glucosa) y su funcionalización con dos alquinos cíclicos de diferente longitud de cadena espaciadora. Para comprobar la viabilidad de la reacción click se han inmovilizado las nanopartículas funcionalizadas con alquinos sobre superficies modificadas con grupos azida, pudiéndose comprobar por microscopia electrónica de barrido (SEM) la unión covalente de las nanopartículas a la superficie. Estos prometedores resultados van a permitir la continuación de la investigación con este tipo de nanopartículas sobre superficies más complejas (por ejemplo membranas celulares) con el objetivo de realizar futuros estudios de hipertermia magnética en células tumorales.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/60504</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/60504/files/TAZ-TFM-2016-324.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Biomédica</dc:subject>
+    <dc:title>Química click bioortogonal como herramienta para la inmovilización de nanopartículas magnéticas en superficies</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Bioorthogonal click chemistry as a tool for the surface immobilization of magnetic nanoparticles</dc:title>
+</oai_dc:dc>

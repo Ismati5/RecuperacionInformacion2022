@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sagüés Blázquiz, Carlos</dc:contributor>
+    <dc:creator>Igea Bruch, Sergio</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>En los últimos años han aparecido nuevas técnicas de interacción con dispositivos electrónicos, como el control por voz, o el movimiento de nuestro cuerpo capturado por sensores. El control a través del movimiento del cuerpo se ha utilizado especialmente en el ámbito del ocio, en videoconsolas, concretamente Kinect o ASUS Xtion, pero se ha desarrollado poco en el ámbito domótico. Con el fin de aplicar esta nueva forma de interactuar en el ámbito domótico, en este trabajo se ha estudiado el sensor de características similares a Kinect, Leap Motion y las posibilidades que ofrece. Inicialmente, con el propósito de comprender la técnica de visión que es utilizada por Leap Motion para la obtención de los datos de profundidad, se han analizado y procesado los datos en crudo que son capturados por el sensor. Estos datos consisten en las dos imágenes capturadas por las cámaras del sensor únicamente, que se asemejan a la visión estero, utilizadas para construir el mapa de profundidad. Una vez realizada esta identificación, se ha desarrollado un identificador gestual utilizando las imágenes obtenidas. Después de entender el funcionamiento, se ha procedido a la definición de un vocabulario de gestos, a partir de la información capturada por Leap Motion utilizando sus propias librerías. Definido el vocabulario, se ha realizado un estudio de la precision y el recall de cada gesto en los diferentes modos de funcionamiento del Leap. Además se ha analizado su variación con el cambio de alguna condición externa, como por ejemplo diferentes alturas de realización del gesto. Se ha concluido que de los cuatro modos de funcionamiento del sensor el mejor modo es el modo equilibrado, pero siendo el modo robusto el menos sensible al cambio de altura. Finalmente, con el fin de evaluar una aplicación que utilice el Leap Motion, se ha realizado la implementación del vocabulario definido para controlar una placa de inducción. Se ha realizado un estudio para identificar cuáles son los mejores gestos para este propósito. Una vez identificados se ha implementado de dicha aplicación.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31546</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31546/files/TAZ-TFG-2014-1796.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>leap motion</dc:subject>
+    <dc:subject>control gestual</dc:subject>
+    <dc:subject>visión 3d</dc:subject>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>Definición e implementación de un vocabulario de signos para la interacción con distintos dispositivos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

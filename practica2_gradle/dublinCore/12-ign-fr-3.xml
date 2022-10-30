@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<csw:Record xmlns:csw="http://www.opengis.net/cat/csw/2.0.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ows="http://www.opengis.net/ows" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:language>fr</dc:language>
+  <dc:identifier>12-ign-fr-3</dc:identifier>
+  <dc:description>Base de données structurée contenant une description exhaustive de l'environnement, topologique et 2D1/2. Les données sont exploitables comme système de référence à une précision métrique.</dc:description>
+  <dc:format>FEIV</dc:format>
+  <dc:format>SHP - ArcView ShapeFile 2D</dc:format>
+  <dc:format>SHP - ArcView ShapeFile 3D</dc:format>
+  <dc:format>MIF/MID</dc:format>
+  <dc:format>GeoConcept Export</dc:format>
+  <dc:format>DXF - AutoCAD Drawing Exchange Format 2D</dc:format>
+  <dc:format>DXF - AutoCAD Drawing Exchange Format 3D</dc:format>
+  <dc:format>EDIGéO</dc:format>
+  <dc:identifier>http://www.ign.fr</dc:identifier>
+  <dc:language>fr</dc:language>
+  <dc:source>Extraction automatique sous forme vectorielle (zones arborées), à partir de la BDORTHO</dc:source>
+  <dc:source>Limites administratives de la BDTOPO standard et de la BDCARTO, recalées sur la saisie photogrammétrique, là où se trouvent des objets restitués.</dc:source>
+  <dc:source>Carte au 1:25000 pour quelques objets invisibles sur les photographies (sous couvert végétal) et pour le positionnement des toponymes</dc:source>
+  <dc:source>Saisie photogrammétrique (photographies aériennes au 1:25000) pour tous les objets du modèle de données visibles sur ces photos (réseaux et bâti)</dc:source>
+  <dc:source>BDTOPO standard pour les zones déjà couvertes</dc:source>
+  <dc:source>Le MNT (livré au pas de 25m) provient de la BDALTI; en agglomération, un MNT plus précis est livré, issu de la BDTOPO standard (courbes restituées) ou d'une saisie spécifique</dc:source>
+  <dc:source>En mise à jour, des données levées sur le terrain ou numérisées sur plan seront intégrées</dc:source>
+  <dc:subject>AGRICULTURE, ÉLEVAGE</dc:subject>
+  <dc:subject>LIMITES ADMINISTRATIVES</dc:subject>
+  <dc:subject>ACTIVITÉS ÉCONOMIQUES</dc:subject>
+  <dc:subject>ALTIMÉTRIE, BATHYMÉTRIE</dc:subject>
+  <dc:subject>SANTÉ</dc:subject>
+  <dc:subject>ACTIVITÉS MILITAIRES</dc:subject>
+  <dc:subject>HYDROGRAPHIE TERRESTRE</dc:subject>
+  <dc:subject>INFORMATION DE POSITIONNEMENT</dc:subject>
+  <dc:subject>RÉSEAUX DE TRANSPORT</dc:subject>
+  <dc:subject>farming</dc:subject>
+  <dc:subject>boundaries</dc:subject>
+  <dc:subject>economy</dc:subject>
+  <dc:subject>elevation</dc:subject>
+  <dc:subject>health</dc:subject>
+  <dc:subject>intelligenceMilitary</dc:subject>
+  <dc:subject>inlandWaters</dc:subject>
+  <dc:subject>location</dc:subject>
+  <dc:subject>transportation</dc:subject>
+  <dc:title>Base de Données Topographiques</dc:title>
+  <dc:type>series</dc:type>
+  <dcterms:accessRights>copyright</dcterms:accessRights>
+  <dcterms:issued/>
+  <ows:BoundingBox>
+    <ows:LowerCorner>-5.041261 42.331418</ows:LowerCorner>
+    <ows:UpperCorner>8.242641 51.077887</ows:UpperCorner>
+  </ows:BoundingBox>
+</csw:Record>

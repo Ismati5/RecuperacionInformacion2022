@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Pérez Cabello, Fernando</dc:contributor>
+    <dc:creator>Vidaller Gayán, Ixeia</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>En el presente trabajo se ha llevado a cabo un estudio sobre la dinámica glaciar, tanto de glacia-res blancos como glaciares negros, en base a las imágenes del satélite Landsat entre 1987 y 2018, y asociarla a la dinámica climática. La zona de estudio seleccionada corresponde a la re-gión del Khumbu (más concretamente sobre los glaciares Khumbu, Nuptse, Changri, Chola, Ama-dablam e Imja), situada en los Himalayas centrales, es una de las zonas montañosas que alcan-zan mayores alturas en la Tierra. Presenta condiciones hacen que la climatología sea fría, permi-tiendo el desarrollo de los procesos glaciares y periglaciares. Esta zona está compuesta por rocas principalmente ígneas y metamórficas dominando los granitos y gneises y cubierta en su mayoría por los glaciares y sus depósitos morrénicos. No existen estudios de esta temática todavía, pero sí otros que se desarrollan en esta misma zo-na o que emplean las mismas técnicas. A partir de los datos de reflectividad de las imágenes Landsat se han generado las firmas espectrales de las diferentes cubiertas para los distintos años que abarca el estudio, observándose un patrón claro de disminución de la reflectividad con el pa-so del tiempo. Por otro lado, tras un tratamiento de las imágenes de la banda del térmico de este mismo satélite se han calculo las temperaturas de superficie (LST) de los distintos glaciares, ob-teniéndose valores de entre -17ºC a 7ºC, y en todos los casos se aprecia un incremento de LST a lo largo de los años.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/84866</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio; Área de Análisis Geográfico Regional</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/84866/files/TAZ-TFM-2019-226.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/84866/files/TAZ-TFM-2019-226_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Tecnologías de la Información Geográfica para la Ordenación del Territorio: Sistemas de Información Geográfica y Teledetección</dc:subject>
+    <dc:title>Variabilidad espectral y de la temperatura de superficie de los glaciares de la región del Khumbu (Himalayas centrales).</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Spectral Variability and Land Surface Temperature of the glaciers of the Khumbu Region (Central Himalayan).</dc:title>
+</oai_dc:dc>

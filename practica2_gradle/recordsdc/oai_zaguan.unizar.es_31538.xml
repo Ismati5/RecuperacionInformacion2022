@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Marín Zurdo, José Javier</dc:contributor>
+    <dc:creator>Gómez Royo, Héctor</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El presente proyecto está centrado en el marco de métodos de evaluación de la capacidad funcional cervical y de los hombros y surge de la necesidad de implantar nuevos métodos que utilicen realidad virtual para dicha evaluación. La realidad virtual está actualmente en fase de expansión, incorporándose a trabajos muy diversos. Se recogen los estudios publicados de aplicación de estas tecnologías, principalmente en el ámbito de la salud. En el proyecto se presentan dos métodos de evaluación funcional que pretenden complementar y mejorar los sistemas de capacidad funcional actuales, mediante el uso de la realidad virtual. El primer método está dirigido a la valoración del rango cervical mediante una prueba en la que se evaluará a los sujetos dentro de unos escenarios virtuales. El segundo se basa en el uso de un entorno virtual capaz de emular a un sistema que actualmente precisa de un dispositivo físico específico para la valoración de la capacidad funcional de la columna cervical y hombros. En cada uno de los métodos presentados se incluyen la descripción de la metodología utilizada y la tecnología e instrumentación necesaria, tanto para la prueba normal como para la que utiliza entornos virtuales. Ello permitirá contrastar ambos enfoques.  Se incluyen los resultados de las pruebas llevadas a cabo en una muestra de personas que han participado en este estudio. El análisis de dichos resultados, considerando las características de los sujetos participantes, ha permitido extraer conclusiones de la aplicación práctica de los citados métodos, en relación a sus ventajas y limitaciones. Finalmente se explicitarán las líneas futuras de aplicación de la realidad virtual y las diferentes posibilidades que podrían ofrecernos en el ámbito que nos ocupa de la evaluación de la capacidad funcional.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31538</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Proyectos de Ingeniería</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31538/files/TAZ-TFG-2014-1867.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/31538/files/TAZ-TFG-2014-1867_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>evaluación</dc:subject>
+    <dc:subject>capacidad funcional</dc:subject>
+    <dc:subject>realidad virtual</dc:subject>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Evaluación de la capacidad funcional de la columna cervical y hombros mediante el uso de realidad virtual</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

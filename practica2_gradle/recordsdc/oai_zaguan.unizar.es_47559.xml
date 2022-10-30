@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Peña Baquedano, Estefanía</dc:contributor>
+    <dc:creator>Pérez Andrés, Alejandra</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>El objetivo final que subyace en el presente Trabajo Fin de Grado es el estudio del diseño de un dispositivo intravascular, concretamente, un filtro antitrombo para vena cava inferior (VCI). Este dispositivo se emplea para combatir el tromboembolismo pulmonar (TEP), una enfermedad cardiovascular que resulta de la obstrucción de la circulación arterial pulmonar provocada por un trombo procedente del sistema venoso.Sin embargo, las complicaciones clínicas asociadas al uso de estos filtros requieren el desarrollo de modelos de elementos finitos cada vez más complejos capaces de evaluar,de forma realista, futuras mejoras en el diseño del dispositivo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/47559</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/47559/files/TAZ-TFG-2015-2549_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/47559/files/TAZ-TFG-2015-2549.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Estudio mediante elementos finitos de la fuerza de extracción de un filtro antitrombo para vena cava</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

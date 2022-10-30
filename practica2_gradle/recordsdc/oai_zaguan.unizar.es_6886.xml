@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Aznar, José Manuel</dc:contributor>
+    <dc:creator>Palacio Torralba, Javier</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El objetivo principal del proyecto es desarrollar un método que permita calcular las fuerzas ejercidas sobre un sustrato por una célula. Se utilizarán modelos 2D, semi-3D y 3D que permiten describir los diferentes modos en los que una célula interactúa con el medio que la rodea. Se supondrán materiales elásticos (elasticidad lineal) e hiperelásticos con grandes deformaciones (elasticidad no lineal). Se estudiarán diferentes métodos de resolución del problema y se compararán desde puntos de vista como la precisión y el coste computacional. El problema inverso de la elasticidad presenta un mal planteamiento (ill-posed) en el sentido dado por Jacques Hadamard. La solución presenta inestabilidades causadas principalmente por el alto número de condición de las matrices, sin embargo sabemos que existe (el campo de desplazamientos será el producido por una célula y nos será dado por la Microscopía por Fuerza de Tracción) y es único (teoría de la elasticidad). Durante el proyecto se utilizarán herramientas informáticas comerciales como ABAQUS y Matlab. El primero nos permitirá crear los modelos numéricos necesarios, que serán un input del método propuesto. En Matlab se programarán scripts para el tratamiento de los datos generados con el programa de elementos finitos y nos permitirá, en última instancia, obtener los resultados buscados: las fuerzas que la célula ejerce sobre el sustrato. Se comparará además las soluciones obtenidas a través del método de los elementos finitos con la solución teórica de Boussinesq. Los hidrogeles sobre los que se realizan las Microscopía por Fuerza de Tracción presentan, con algunas excepciones, un comportamiento hiperelástico altamente no lineal. Algunos autores afirman que las deformaciones inducidas por las células se encuentran dentro del rango lineal, sin embargo, es posible que las zonas más próximas a las células se produzcan grandes deformaciones y que una aproximación puramente lineal no conduzca a resultados acertados. Por tanto se estudiarán los casos lineales y no lineales.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6886</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6886/files/TAZ-PFC-2012-051.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>elasticidad lineal</dc:subject>
+    <dc:subject>elasticidad no-lineal</dc:subject>
+    <dc:subject>dinámica inversa</dc:subject>
+    <dc:subject>problema inverso</dc:subject>
+    <dc:subject>reducción de modelo</dc:subject>
+    <dc:subject>elementos finitos</dc:subject>
+    <dc:subject>mínimos cuadrados</dc:subject>
+    <dc:subject>hiperelástico</dc:subject>
+    <dc:subject>tfm</dc:subject>
+    <dc:subject>traction force microscopy</dc:subject>
+    <dc:subject>fuerzas celulares</dc:subject>
+    <dc:subject>abaqus</dc:subject>
+    <dc:subject>matlab</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Simulación por elementos finitos de la interacción mecánica célula-material</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

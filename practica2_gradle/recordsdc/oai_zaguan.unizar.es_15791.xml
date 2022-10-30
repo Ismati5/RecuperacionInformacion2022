@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Navarro, Pilar</dc:contributor>
+    <dc:creator>Morales Hernández, Mario</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>This work is concerned with the design and the implementation of efficient and novel numerical techniques in the context of the shallow water equations with solute transport, capable to improve the numerical results achieved by existing explicit approaches. When dealing with realistic applications in Hydraulic Engineering, a compromise between accuracy and computational time is usually required to simulate large temporal and spatial scales in a reasonable time. With the aim to improve the existent numerical methods in such a way to increase accuracy and reduce computational time. Three main contributions are envisaged in this work: a pressure-based source term discretization for the 1D shallow water equations, the analysis and development of a Large Time Step explicit scheme for the 1D and 2D shallow water equations with source terms and the numerical coupling between the 1D and the 2D shallow water equations in a 1D-2D coupled model. The first improvement roughly consists of exploring the pressure and bed slope source terms that appear in the 1D and 2D shallow water equations to discretize them in an intelligent way to avoid extremely reductions in the time step size. On the other hand, the implementation of a Large Time Step scheme is carried out. In order to relax the stability condition associated to explicit schemes and to allow large time step sizes, reducing consequently the numerical diffusion associated to the original explicit scheme. Finally, two 1D-2D coupled models are developed. They are demonstrated to be fully conservative and are able to approximate well the results obtained by a fully 2D model in terms of accuracy, while the computational effort is clearly reduced. All the advances are analysed by means of different test cases, including not only academic configurations but also realistic applications, in which the numerical results achieved by the new numerical techniques proposed in this work are compared with the conventional approaches.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/15791</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/15791/files/TESIS-2014-081.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>mecánica de fluidos</dc:subject>
+    <dc:subject>resolución de ecuaciones diferenciales en derivadas parciales</dc:subject>
+    <dc:subject>ingeniería hidráulica </dc:subject>
+    <dc:title>Efficient explicit finite volume schemes for the shallow water equations with solute transport</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>den Hamer, Arjen</dc:contributor>
+    <dc:contributor>Tardós Solano, Juan Domingo</dc:contributor>
+    <dc:creator>Esteban Lansaque, Antonio</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Philips Innovation Services y el grupo de robótica de la Universidad de Zaragoza están cooperando en el proyecto europeo de RoboEarth, cuyo objetivo es crear una base de datos en Internet donde diferentes tipos de robots puedan compartir modelos y estrategias de manipulación de objetos. El objetivo de este trabajo es el de construir una herramienta capaz de reconstruir modelos en 3D de diferentes tipos de objetos para almacenarlos en la base de datos de RoboEarth. Los modelos son obtenidos escaneando los objetos con cámaras RGB-D como la kinect que proveen imágenes y nubes de puntos en 3D. La librería VSLAM (Visual Simultaneous Localization and Mapping) desarrollada por UNIZAR se usa para calcular la trayectoria de la cámara y para obtener un conjunto de keyframes. Las nubes de puntos pertenecientes a los keyframes son las que una vez registradas forman el modelo en 3D del objeto. Las nubes de puntos que son utilizadas para reconstruir los modelos no solo contienen los puntos correspondientes al objeto sino que también contienen puntos del entorno donde fueron tomadas. Por tanto, el primer paso para reconstruir el objeto es el de eliminar de las nubes los puntos que pertenecen al entorno y no al objeto. Una vez que los puntos del entorno han sido eliminado de las nubes, se realiza el proceso de registrado. Para reconstruir los modelos en 3D de objetos se han estudiado dos métodos diferentes. El primero de los métodos es un método basado en puntos de interés como SURF o ORB. El segundo de los métodos se basa en el conocido Iterative Closest Point (ICP).</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10525</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10525/files/TAZ-PFC-2013-223.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>robótica</dc:subject>
+    <dc:subject>visión por computador</dc:subject>
+    <dc:subject>modelado de objetos</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Learning of object models for roboEarth database</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

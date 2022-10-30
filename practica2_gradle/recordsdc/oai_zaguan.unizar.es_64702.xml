@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Santabárbara Serrano, Javier</dc:contributor>
+    <dc:contributor>López Antón, Raúl</dc:contributor>
+    <dc:creator>Orduna Navas, María</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>Entendemos la depresión como uno de los síndromes geriátricos más frecuentes en la población anciana, que producen incapacidad y aumentan la mortalidad de manera directa o indirectamente. Poco se sabe acerca de los síntomas melancólicos no relacionados con la depresión.  Metodología: Se elaboró un estudio de seguimiento en la ciudad de Zaragoza, muestra aleatoria asignada por edad y sexo, residente en la comunidad entre al menos 55 años. Se utilizó el análisis de supervivencia con la edad como escala de tiempo con ocho síntomas de tipo melancólico individuales operativizados de los GMS. Se construyó las curvas de Kaplan-Meier para casos y no casos. Posteriormente, para analizar el efecto de los predictores de referencia sobre la función de riesgo, se utilizaron modelos de regresión de Cox de supervivencia independientes para estimar los cocientes de riesgo (HR) y los intervalos de confianza del 95%. Para cada síntoma se utilizó una serie de modelos, en el se controló gradualmente los factores potenciales de confusión.  Resultados: De los 3.783 sujetos incluidos en el estudio de mortalidad por cualquier causa, 2.118 (55,9%) fallecieron durante los 17 años de seguimiento. La tasa de mortalidad global ajustada por edad fue de 58,08 por 1.000 personas-año (IC 95%: 55,66 – 60,61). No se encontraron diferencias significativas para “despertar precoz”, (valor p [test log-rank] = 0,197) y para “peor estado de humor por las mañanas (valor p [test log-rank] = 0,053). La supervivencia para los no casos en todos los síntomas melancólicos de situó entre los 12,2-13,2 años. Conclusiones: En la población a estudio, aquellos sujetos con algún síntoma de tipo melancólico tuvieron un mayor riesgo de fallecer, tras controlar los efectos de confusión y modificadores del efecto de las variables sociodemográficas</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64702</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64702/files/TAZ-TFM-2016-657.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Salud Pública</dc:subject>
+    <dc:title>Síntomas de tipo melancólico y mortalidad en la población anciana: un estudio de seguimiento de 17 años.</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Symptoms of melancholy type and mortality in the elderly population: a study of follow-up of 17 years.</dc:title>
+</oai_dc:dc>

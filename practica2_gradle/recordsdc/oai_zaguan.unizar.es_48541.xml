@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ranz Angulo, David</dc:contributor>
+    <dc:contributor>Miralbes Buil, Ramón</dc:contributor>
+    <dc:creator>Gormedino Ibáñez, Alejandro</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>Diseño y desarrollo de tres contenedores independientes para la gestión de residuos domésticos mediante el almacenamiento selectivo de los mismos. Un primero destinado al almacenamiento de residuos orgánicos, un segundo al de papel-cartón y un tercero al de envases y plásticos. Este último además implementa una función de compactación de envases.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/48541</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Expresión Gráfica de la Ingeniería</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/48541/files/TAZ-TFG-2015-3734_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/48541/files/TAZ-TFG-2015-3734.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería en Diseño Industrial y Desarrollo de Producto</dc:subject>
+    <dc:title>Diseño y desarrollo de un contenedor doméstico para la gestión de residuos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

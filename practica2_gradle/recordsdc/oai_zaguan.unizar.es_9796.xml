@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Horenburg, Tim</dc:contributor>
+    <dc:contributor>Lidón López, Iván</dc:contributor>
+    <dc:creator>Alastuey González, Fernando</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>En el proyecto se va a afrontar el problema de la gestión de proyectos con restricciones de recursos llamado Resource-Constraint Project Scheduling Problem (RCPSP). Hace referencia a la gestión de cualquier proyecto en el que se tengan unos recursos por unidad de tiempo limitados y que por lo tanto no haga posible la realización simultánea de todas las actividades paralelas sino que haya que elegir un orden para la realización de las mismas. El objetivo principal es el de realizar el proyecto empleando el menor tiempo posible y para ello hay que encontrar el orden más beneficioso de ejecución de las actividades teniendo en cuenta no solo la cantidad de recursos y material necesaria para cada una sino también su duración, así como cuales son sus sucesores y predecesores. Para ello se utilizan las ´priority rules´ o reglas de prioridad que asignan a cada actividad un determinado valor y son a continuación elegidas y ejecutadas  atendiendo al propio valor. Dentro de este apartado se buscará en la bibliografía existente y se realizará a través del programa Plant Simulation las 10 reglas de prioridad que según la documentación relativa a este tema supuestamente mejor funcionan y se analizarán y compararán para 1920 proyectos distintos. Por último se introducirá un recurso novedoso en este tema al que se denominará recurso tipo área. Consiste en la introducción de una nueva restricción para la ejecución de las actividades. Es útil cuando se tiene una superficie determinada, por ejemplo una empresa con distintas máquinas y a cada actividad se le asigna una cierta zona de la empresa para ser desarrollada (por ejemplo requiere ser realizada por una determinada máquina). Así pues mientras haya otra actividad empleando esa zona requerida, no podrá ser ejecutada al no estar disponible este nuevo recurso por lo que puede variar en cierta medida el orden preestablecido por las reglas de prioridad. Se considera que además de para la planificación de proyectos a realizar dentro de empresas, puede ser de gran importancia en la gestión en proyectos de obra (requerimientos de grúas, restringir el paso hacia determinados lugares en el que se están desarrollando actividades etc.)</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9796</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Proyectos de Ingeniería</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9796/files/TAZ-PFC-2012-772.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>resource-constraint project scheduling problem (rcpsp)</dc:subject>
+    <dc:subject>priority rules</dc:subject>
+    <dc:subject>gestión de proyectos con limitaciones de recursos</dc:subject>
+    <dc:subject>reglas de prioridad</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Evaluación de reglas de prioridad para la asignación de recursos en la gestión de proyectos</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Johansen, Peter</dc:contributor>
+    <dc:contributor>Martínez Gómez, Francisco Javier</dc:contributor>
+    <dc:creator>Ochotoren Portales, Ana</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>The aim of this project was to optimize an in-vitro model designed for heart valve studies by achieving more lifelike pressure curves together with reducing the undesirable noise in the chambers.  Based on the experience collected from previous designs a new model was designed and constructed. Several tests were made with in order to verify if the optimizations had a positive impact on the pressure curves and on the collected data. Moving the chambers to the same level, increase the size of both – atrium and the compliance chamber – and installing a silicone bag in the ventricle chamber to increase the compliance in the model are the principal changes made in the model. Moreover, a more durable model for the future studies was desired.  The tests’ results have showed that the new model still does have a large amount of noise on the pressure curves. Furthermore, the silicone bag does not have a significant impact on the data collected. Regarding the durability of the model, it has been possible to find a solution to the problems in the existing model.  The conclusion for the project is that a more durable model is possible to achieve. Damping factors are required to take into consideration in order to reach the proper damping in the model, and consequently reduce the noise. The silicone bag’s materials and shape are able to accomplish the functions as expected in the model. However, it is not possible to draw any conclusions relating to the pressure curves therefore it is not easy to say if the bag’s impact has an effect or not in the in-vitro model.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/15414</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería Mecánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/15414/files/TAZ-TFG-2014-1121.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/15414/files/TAZ-TFG-2014-1121_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Optimization of the in-vitro model for future heart valve studies</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

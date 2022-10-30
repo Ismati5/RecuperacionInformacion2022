@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Blanco Bascuas, María Teresa</dc:contributor>
+    <dc:contributor>López Forniés, Ignacio</dc:contributor>
+    <dc:contributor>Rebollar Rubio, Rubén</dc:contributor>
+    <dc:creator>Fandos Heredia, Iris</dc:creator>
+    <dc:creator>Lizán Sánchez, Julián</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El Trabajo de Fin de Grado realizado consiste en el diseño de una plataforma relacionada con la enfermedad de Parkinson para la Asociación de Parkinson de Aragón, cuya función es la de facilitar a los usuarios una serie de servicios que permitan hacer su día a día más sencillo, facilitar el contacto e intercambio de información entre los distintos usuarios y hacer más sencilla la labor de los profesionales relacionados con la enfermedad. Las distintas fases del proyecto han sido las siguientes: - Fase de investigación: Se buscó información acerca de la enfermedad, los futuros usuarios de la plataforma y sus entornos de uso. Mediante varias fuentes, se obtuvieron las necesidades de cada uno de los usuarios, para así buscar las funcionalidades con las que debía contar la plataforma para cada perfil de usuario. A continuación se realizó un amplio estudio de mercado, para conocer webs y aplicaciones ya existentes y de las que poder extraer sus aspectos positivos y negativos para tenerlos en cuenta en el diseño. - Fase de análisis: Se analizaron diferentes aspectos a tener en cuenta a la hora del diseño de la plataforma, centrados especialmente en desarrollar la arquitectura que debía tener para cada uno de los distintos usuarios. También se estudiaron distintos iconos empleados y símbolos de la enfermedad, que podrían ser aplicados al diseño. - Propuesta de alternativas: Se propusieron distintas alternativas, que se evolucionaron antes de ponerse en común para, con lo mejor de cada una de ellas, llegar a un diseño final conjunto para la plataforma. - Desarrollo del concepto final y evaluaciones: Se desarrolló el concepto final mediante varias evoluciones, realizando los cambios que se consideraron oportunos. Se realizaron varias evaluaciones, en las que distintos usuarios utilizaron la plataforma, lo que nos permitió realizar los cambios necesarios para que el diseño fuera totalmente claro y la navegación sencilla. Una vez terminado el desarrollo del prototipo final, se elaboró un manual de uso, que permite al usuario saber qué puede hacer en cada apartado de la plataforma, y una guía de estilo, que permitirá seguir evolucionándola en un futuro.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9791</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Expresión Gráfica de la Ingeniería</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9791/files/TAZ-TFG-2012-800_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/9791/files/TAZ-TFG-2012-800.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>diseño</dc:subject>
+    <dc:subject>interfaz</dc:subject>
+    <dc:subject>plataforma social</dc:subject>
+    <dc:subject>parkinson</dc:subject>
+    <dc:subject>Graduado en Ingeniería en Diseño Industrial y Desarrollo de Producto</dc:subject>
+    <dc:title>Investigación, diseño de concepto y prototipado para el desarrollo de una red social de enfermedades neurodegenerativas</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

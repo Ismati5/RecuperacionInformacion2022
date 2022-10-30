@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Piles Contreras, Joan Josep</dc:contributor>
+    <dc:contributor>Salazar Riaño, José Luis</dc:contributor>
+    <dc:creator>Martínez Jiménez, Antonio</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Desarrollo de una aplicación web para un sistema de voto electrónico distribuido. Se utilizar cifrado de umbral El-Gamal distribuido, por lo que además de implementar el reparto de claves y el descifrado, hay que incluir un sistema de sincronización. Se ha realizado a través de servicios web y ha sido necesario programar 3 módulos (y realizar unas mínimas modificaciones en un 4º): uno encargado de la administración de votaciones, otro para el reparto de claves y otro para realizar el descifrado de las votaciones. Se permite la identificación tanto a través de DNIe como acceso por user-password.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6361</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6361/files/TAZ-PFC-2011-525.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>criptografía</dc:subject>
+    <dc:subject>criptografía umbral</dc:subject>
+    <dc:subject>sistema distribuido</dc:subject>
+    <dc:subject>software</dc:subject>
+    <dc:subject>web</dc:subject>
+    <dc:subject>base de datos</dc:subject>
+    <dc:subject>sincronización</dc:subject>
+    <dc:subject>e-votación</dc:subject>
+    <dc:subject>dni electrónico</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Desarrollo de un sistema de recuento distribuido para una e-votación</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

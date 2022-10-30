@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ben Kaabia, Monia</dc:contributor>
+    <dc:contributor>Calvo Calzada, Elena</dc:contributor>
+    <dc:creator>Matache, Georgiana Simona</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El turismo representa un factor importante dentro de la productividad de una economía. En este proyecto se pretende evaluar la importancia del turismo en el crecimiento de la economía española y la relación entre dicho sector y el crecimiento del país además de valorar las relaciones de causalidad. Para ello, primero se lleva a cabo un análisis descriptivo de la evolución de la industria turística en España en los últimos años, midiendo el impacto de dicho sector en el crecimiento económico. A continuación se analiza la existencia y dirección de causalidad entre ambas variables, para lo cual se utiliza información trimestral de los últimos años aplicando el test de causalidad de Granger (Granger, 1988).</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/17078</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Análisis Económico; Área de Fundamentos del Análisis Económico</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/17078/files/TAZ-TFG-2014-2265.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>crecimiento económico</dc:subject>
+    <dc:subject>sector turismo</dc:subject>
+    <dc:subject>causalidad de granger</dc:subject>
+    <dc:subject>Graduado en Administración y Dirección de Empresas</dc:subject>
+    <dc:title>Análisis de causalidad entre el turismo y el crecimiento económico español</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

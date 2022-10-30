@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Resano Ezcaray, Jesús Javier</dc:contributor>
+    <dc:creator>Olivito del Ser, Javier</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El Field-Programmable Technology Design Competition es un concurso de diseño hardware internacional enmarcado en el International Conference on Field-Programmable Technology, congreso internacional de la región asiática sobre hardware reconfigurable. En su edición de 2010 propuso el desarrollo de un procesador específico para jugar al Reversi sobre una FPGA. Partiendo de conocimientos nulos acerca de la estrategia subyacente al juego, diseñamos e implementamos en 4 meses un procesador muy superior al software de referencia que suministraba la organización del concurso. El procesador implementa el algoritmo MinMax con poda alfa-beta, búsqueda en profundidad iterativa y ordenación dinámica de nodos para la exploración del espacio de búsqueda, y una evaluación de nodos basada en conceptos fuertemente ligados a la estrategia del juego, tales como movilidad, captura de esquinas o casillas estables. Posteriormente, desarrollamos una versión software algorítmicamente equivalente con el propósito de establecer comparativas de rendimiento y de consumo FPGA/PC. Los resultados muestran un mayor rendimiento del diseño hardware, fruto principalmente de la explotación del paralelismo y del diseño de una arquitectura a medida, y un consumo sustancialmente inferior, debido principalmente a que el procesador desarrollado trabaja a una frecuencia dos órdenes de magnitud inferior al PC. Como contrapartida, el tiempo de desarrollo del diseño hardware fue claramente superior que el del diseño software equivalente. El diseño presentado en la sesión del congreso dedicada a la competición fue capaz de batir al resto de finalistas, y por ello fuimos galardonados con el primer premio de la competición. Además, el artículo describiendo el diseño fue publicado en las actas del congreso, siendo accesible a la comunidad científica a través del IEEExplore.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6780</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Arquitectura y Tecnología de Computadores</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6780/files/TAZ-TFM-2011-142.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6780/files/TAZ-TFM-2011-142_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>arquitectura de computadores</dc:subject>
+    <dc:subject>diseño hardware</dc:subject>
+    <dc:subject>fpga</dc:subject>
+    <dc:subject>reversi</dc:subject>
+    <dc:subject>Máster Universitario en Ingeniería de Sistemas e Informática</dc:subject>
+    <dc:title>Diseño e implementación de un jugador artificial de Reversi sobre una FPGA</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

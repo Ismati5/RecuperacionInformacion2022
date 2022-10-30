@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Falceto Blecua, Fernando</dc:contributor>
+    <dc:creator>Usón Andrés, Alberto</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El tema principal del trabajo consiste en el estudio de cadenas de fermiones con diferentes acoplos entre ellos, que sirven de modelos para diversos materiales (desde el punto de vista de la materia condensada: conductores o aislantes). Haremos simulaciones para analizar algunos aspectos de las uniones de dos estructuras. Nos interesarán tres casos concretos: - Unión Metal-Metal - Unión Metal-Aislante - Unión Aislante-Aislante Para cada uno de ellas, analizaremos de manera detallada diferentes aspectos: espectro de energías, funciones de onda... centrando principalmente nuestro estudio en la aparición de estados altamente localizados.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64227</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Teórica; Área de Física Teórica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64227/files/TAZ-TFG-2017-2221_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/64227/files/TAZ-TFG-2017-2221.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Física</dc:subject>
+    <dc:title>Espectro y estados localizados en sistemas fermiónicos compuestos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Spectrum and localized states in composite fermionic systems</dc:title>
+</oai_dc:dc>

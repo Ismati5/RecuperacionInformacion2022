@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Abad Blasco, Javier Óscar</dc:contributor>
+    <dc:creator>Hernández Aisa, Fibicio Diego</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>El objetivo del trabajo propuesto es el de analizar y dimensionar los componentes mecánicos de una plataforma elevadora con brazo y cesta para dos personas.&lt;br /&gt;Se abordarán el análisis de solicitaciones sobre los diversos componentes de forma que puedan ser dimensionados y/o seleccionados, se recopilará la normativa existente y se aplicará en los apartados oportunos. &lt;br /&gt;En primer lugar, se realizará el dimensionado de la cesta, comenzando con unos criterios iniciales de diseño siguiendo la norma vigente aplicable a este tipo de plataformas. En este punto se elegirán los materiales y se fijará un coeficiente de seguridad adecuado al uso de la máquina.&lt;br /&gt;Se establecerán las cargas que se transmiten a la estructura analizando el mecanismo en distintas posiciones, y así, encontrar la posición más desfavorable para obtener información del caso más crítico. Para llevar a cabo este cálculo, se realizarán los diagramas de solido libre para cada posición y se calcularán todas reacciones con el programa EES.&lt;br /&gt;Una vez obtenidas las reacciones, se calcularán las tensiones en la posición más desfavorable mediante la teoría de cortante máximo y así se podrá dimensionar cada uno de los componentes de la plataforma elevadora.&lt;br /&gt;Existirán apartados donde se estudie los cilindros hidráulicos necesarios en este estudio, realizando un dimensionamiento y definiendo las distintas características necesarias.&lt;br /&gt;Para finalizar el estudio y para verificar que el diseño y los materiales utilizados son válidos, se procederá a un estudio estático por elementos finitos mediante el programa SolidWorks. &lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87360</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería Mecánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87360/files/TAZ-TFG-2019-4413_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/87360/files/TAZ-TFG-2019-4413.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Análisis y dimensionamiento de plataforma elevadora para carga máxima de 200 kg y altura de plataforma de 7 metros</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Analysis and design of a lifting platform for a maximum load of 200 kg and a platform for a maximum load of a 200 kg and a platform height of 7 metres</dc:title>
+</oai_dc:dc>

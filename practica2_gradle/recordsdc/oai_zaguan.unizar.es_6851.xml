@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ortega Giménez, Alfonso</dc:contributor>
+    <dc:creator>Malo González, Raquel</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Gran parte de los documentos de origen reciente tienen un formato multimedia y, por su importancia y relevancia, deben ser preservados y puestos a disposición de la ciudadanía en general.  El objetivo último de este proyecto es dotar de accesibilidad a grandes archivos compuestos por grabaciones, ya que, hoy por hoy, el acceso a determinados documentos sonoros se convierte en una labor larga y tediosa y, en multitud de ocasiones, el acceso al fragmento específico de la grabación es en la práctica imposible. El reconocimiento perfecto de los archivos de voz es una tarea complicada todavía en desarrollo.  Cuantos más módulos de análisis sobre las condiciones del entorno y el hablante tengamos, podremos aplicar un reconocedor más específico que mejorará considerablemente esta labor.  Así tendremos disponible un buscador eficiente que permitirá la recuperación de documentos sonoros.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6851</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6851/files/TAZ-PFC-2012-017_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6851/files/TAZ-PFC-2012-017.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>recuperación de documentos multimedia</dc:subject>
+    <dc:subject>indexado audio y voz</dc:subject>
+    <dc:subject>arquitectura distribuida</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicación</dc:subject>
+    <dc:title>Recuperación automática de información en documentos de audio mediante una arquitectura distribuida</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

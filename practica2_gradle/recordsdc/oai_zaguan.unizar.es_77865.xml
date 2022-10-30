@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Cortés Azcoiti, José Luis</dc:contributor>
+    <dc:contributor>Relancio Martínez, José Javier</dc:contributor>
+    <dc:creator>Martínez Crespo, David</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>Se presenta una introducción a la teoría cuántica de campos en espacio-tiempos no conmutativos. Primero se da una justificación a por qué ir más allá de la teoría cuántica de campos relativista, presentando la gravedad como una teoría cuántica de campos y discutiendo el origen de las divergencias ultravioletas. Después se explora el concepto de una teoría no local a través de la no conmutatividad del espacio-tiempo. Se discute el caso de la no conmutatividad canónica mediante el procedimiento de la cuantización de Weyl y se da una descripción fenomenológica de la teoría perturbativa para una teoría escalar mostrando el fenómeno de la mezcla infrarrojo ultravioleta. Se discute la invariancia bajo transformaciones de Poincaré de dicha teoría y se comienza a estudiar el espacio-tiempo  κ-Minkowski por analogía al estudio de la invariancia del caso canónico.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/77865</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Teórica; Área de Física Teórica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/77865/files/TAZ-TFG-2018-2131.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Física</dc:subject>
+    <dc:title>Más allá de Teoría Cuántica de Campos Relativista local</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Beyond Local Relativistic Quantum Field Theory</dc:title>
+</oai_dc:dc>

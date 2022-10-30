@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Salvador Oliván, José Antonio</dc:contributor>
+    <dc:creator>Vidal Bordes, Francisco Javier</dc:creator>
+    <dc:date>2009</dc:date>
+    <dc:description>El trabajo se estructura en cuatro grandes apartados: introducción, material y método, análisis de los resultados y conclusiones. En el primero se analiza la evolución y el contenido de la World Wide Web y sirve para establecer el marco conceptual del estudio, en el que también se trata de los sistemas de recuperación de información tradicionales, valorando su influencia en las herramientas de recuperación de la Web.  El trabajo se plantea como objetivos: conocer el funcionamiento de los principales buscadores de la World Wide Web ante diferentes tipos de búsquedas, valorar su utilidad en búsquedas de recursos sobre temas especializados y conocer las características de la información recuperada.  Se evalúan los principales motores (Google, MSN, Teoma, WiseNut y Yahoo) y metabuscadores (Dogpile, Excite, IXQuick, Profusión, Search, SurfWax y Vivisimo) mediante el lanzamiento de seis búsquedas relacionadas con el campo de la Documentación. Se analizan los cincuenta primeros resultados utilizando indicadores que permiten valorar diferentes características de los registros que aparecen en los listados de recursos recuperados; el funcionamiento de los buscadores en las diferentes búsquedas; diferentes aspectos relacionados con los programas de búsqueda y recuperación; con la base de datos; la precisión técnica, la cobertura, el solapamiento y la ordenación de los resultados. Se estudian además otras propiedades de la información, en función de su interés comercial, institucional, para la investigación , etc.; la tipología documental y el formato de los ficheros.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4145</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencias de la Documentación e Historia de la Ciencia</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4145/files/TESIS-2009-080.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>motores de búsqueda</dc:subject>
+    <dc:subject>metabuscadores</dc:subject>
+    <dc:subject>world wide web</dc:subject>
+    <dc:subject>evaluación</dc:subject>
+    <dc:title>Evaluación del funcionamiento y recuperación de información textual de los principales motores de búsqueda y metabuscadores de la World Wide Web</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

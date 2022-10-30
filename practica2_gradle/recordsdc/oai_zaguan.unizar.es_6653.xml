@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Muñoz Rodríguez, Mariano</dc:contributor>
+    <dc:creator>Viñuales Navarro, Javier</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El presente proyecto tiene como objetivo fundamental establecer un método de diagnostico precoz de fallos en motores alternativos de combustión interna mediante el análisis de vibraciones y ultrasonidos mientras se encuentra en funcionamiento. Esto será una herramienta que  formará parte del  mantenimiento predictivo  de un motor, efectuando un diagnóstico precoz de fallos 	El procedimiento experimental que se ha seguido consiste en: - Mediciones de vibraciones y ultrasonidos sobre el motor estudiado en correcto funcionamiento sobre un banco de ensayo.  - Mediciones de vibraciones y ultrasonidos sobre el motor tras haberle provocado unos fallos determinados. - Comparación de ambas señales, con el fin de obtener un patrón de señal que identifique la presencia de cada fallo en concreto en el motor. 	 	Los fallos que se han provocado controladamente al motor en el banco de ensayo son los siguientes: 	- Variación de la holgura de taqués 	- Variación del encendido 	- Segmento quitado 	- Holgura en el casquillo de la biela.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6653</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6653/files/TAZ-PFC-2011-683_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6653/files/TAZ-PFC-2011-683.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>análisis de vibraciones</dc:subject>
+    <dc:subject>ultrasonidos</dc:subject>
+    <dc:subject>motores alternativos combustión interna</dc:subject>
+    <dc:subject>mantenimiento predictivo</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Análisis de Vibraciones y Ultrasonidos en MACI</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

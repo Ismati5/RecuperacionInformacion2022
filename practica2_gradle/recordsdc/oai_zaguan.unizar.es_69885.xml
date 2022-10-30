@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Canalís Martínez, Paula María</dc:contributor>
+    <dc:creator>Ciria Aylagas, Isabel</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El presente trabajo de fin de grado se realiza con el objetivo de calcular y diseñar una grúa tipo pluma, con el fin de colocarla en una nave industrial y destinarla a trabajos de fabricación y reparación de maquinaria agrícola, además de tareas de carga y descarga de mercancía. El estudio consta de una memoria resumen, en la que se explica en detalle las características del estudio y de dos anexos complementarios donde se exponen cálculos necesarios para el desarrollo del proyecto. El trabajo está estructurado en las siguientes partes: •	Introducción y exposición del objeto de estudio •	Características de los tipos de grúas tipo pluma que existen en el mercado y su clasificación en función del servicio y del elemento de apoyo. •	Breve resumen de las especificaciones que se establecen inicialmente y que deben cumplir los elementos del aparato a lo largo del cálculo. •	Diseño de los elementos estructurales de una grúa tipo pluma mural. El elemento principal de estas grúas es el pescante, y por ello, es lo primero que se calcula. A continuación, se estudian los esfuerzos ocasionados por el pescante sobre la nave, concretamente sobre los pilares. •	Cálculo del mecanismo de giro. Los elementos que forman el mecanismo de giro están normalizados, por lo que el cálculo se realiza, en la mayoría de los casos, en base al catálogo del fabricante. •	Selección del polipasto, que constituye el mecanismo de traslación de la carga.  •	Modelado y simulación del pescante y de las consolas de fijación mediante SolidWorks.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/69885</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería Mecánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/69885/files/TAZ-TFG-2017-4528.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/69885/files/TAZ-TFG-2017-4528_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Diseño y cálculo de una grúa tipo pluma de 2.000 kg de capacidad</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Design and calculation for jib type crane with 2.000 kg of capacity</dc:title>
+</oai_dc:dc>

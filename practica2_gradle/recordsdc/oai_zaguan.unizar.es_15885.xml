@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Abad, Alberto J.</dc:contributor>
+    <dc:contributor>Palacios Latasa, Manuel</dc:contributor>
+    <dc:creator>Borrallo Tirado, Sergio</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Las órbitas geoestacionarias y su estudio y modelización matemática son de una importancia capital en la tecnología de comunicaciones. El objetivo principal de la presente memoria es construir una teoría analítica, basada en un conjunto especial de variables canónicas, que sirva para describir los satélites geoestacionarios o cuasi-geoestacionarios.  Para ello se ha centrado el estudio en el modelo denominado “principal-ecuatorial”, basado en un sistema dinámico kepleriano considerando la perturbación de mayor magnitud, esto es, la producida por el achatamiento polar de la Tierra, e igualmente limitado a orbitas ecuatoriales Mediante la aplicación de la ecuación de Hamilton-Jacobi se ha obtenido un nuevo conjunto de variables canónicas, pero debido a la imposibilidad matemática de expresar los parámetros de la órbita a partir de dichas variables, se ha desarrollado un procedimiento para encontrar una expresión equivalente a la ecuación de Kepler.  Con ese objetivo se ha planteado el problema principal-ecuatorial como un oscilador armónico perturbado, y este ha sido resuelto mediante la aplicación del método de Krylov-Bogoliuvov-Mitropolsky, que se basa en la obtención de aproximaciones asintóticas y que permite una integración analítica de la solución. Con ello hemos obtenido una solución del problema planteado que hemos denominado “Ecuación de Kepler generalizada”.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/15885</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/15885/files/TAZ-TFM-2014-495.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>órbitas geoestacionarias</dc:subject>
+    <dc:subject>variables canónicas</dc:subject>
+    <dc:subject>movimiento kepleriano</dc:subject>
+    <dc:subject>ecuación de kepler</dc:subject>
+    <dc:subject>Graduado en Física</dc:subject>
+    <dc:title>Nuevas variables canónicas para la integración analítica del problema principal-ecuatorial del satélite artificial</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

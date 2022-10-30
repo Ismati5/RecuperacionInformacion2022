@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Royo Sánchez, Jesús</dc:contributor>
+    <dc:contributor>Casanova Agustín, Jesús</dc:contributor>
+    <dc:creator>Bernabéu Casero, Héctor</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>El siguiente libro es un material de trabajo desarrollado en conjunto con el Área de Ingeniería de los Procesos de Fabricación del Departamento de Ingeniería de Diseño y Fabricación de la Universidad de Zaragoza y cuyo objetivo es la introducción a la Gestión de Mantenimiento Asistida por Ordenador (GMAO) a los estudiantes cursantes de la asignatura de mantenimiento industrial impartida por la Universidad de Zaragoza. El programa utilizado para tal efecto es GIM, un software integral de mantenimiento creado por la empresa TCMAN y el cual se usará para la realización de las prácticas de la asignatura. El propósito de este manual es que sirva como guía para los alumnos y les sirva para conocer como se debería implantar un sistema de gestión de mantenimiento en una empresa real. Por ello el libro se ha creado de forma clara y directa y siguiendo el patrón natural para una implantación en un ambiente real. La guía se ha realizado tomando como base la propia universidad, usando así su estructura y maquinaria real aprovechando su histórico de averías y mantenimientos realizados creando así un escenario más cercano y conocido para los alumnos mejorando así el aprendizaje.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5130</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5130/files/TAZ-PFC-2010-201.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Introducción a la gestión de mantenimiento asistida por ordenador</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

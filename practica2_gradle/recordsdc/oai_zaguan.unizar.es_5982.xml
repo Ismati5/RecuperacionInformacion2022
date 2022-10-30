@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Santolaria Mazo, Jorge</dc:contributor>
+    <dc:contributor>Jiménez Pacheco, Roberto</dc:contributor>
+    <dc:creator>Pedro Sangrós, Jesús Ángel de</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Este proyecto fin de carrera ha sido realizado con el Departamento de Ingeniería de Diseño y Fabricación de la Universidad de Zaragoza y debe enmarcarse como una parte de un proyecto mayor de desarrollo e implementación de una técnica de identificación de parámetros cinemáticos de un brazo robot mediante palpador autocentrante y patrón de esferas. Para realizar esta identificación de parámetros es necesario montar sobre él brazo robot KUKA KR5 SIXX R650 un palpador autocentrante para entre ambos realizar una serie de mediciones con cierta precisión. En este proyecto se hace la corrección del Tool Center Point (TCP)necesaria para que las mediciones del conjunto robot-palpador sean precisas y seguras, ya que un mal posicionamiento del robot-palpador puede derivar en la rotura del palpador. Los pasos a seguir para corregir la posición del TCP son los siguientes: - Obtención de la matriz de giro del sistema de referencia del palpador al sistema de referencia global del robot. - Expresar los puntos del SRpalpador capturados en las trayectorias circulares en SRpalp1. - Calcular las esferas de ajuste a los puntos expresados en SRpalp1. - Corregir la posición del TCP. - Situación real del punto 9 en el cubo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5982</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5982/files/TAZ-PFC-2011-300.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>identificación</dc:subject>
+    <dc:subject>calibrar</dc:subject>
+    <dc:subject>robot</dc:subject>
+    <dc:subject>TCP</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Técnica de alineación de sistemas de referencia de sensores de medida a bordo para calibración de robots industriales. Aplicación a palpadores autocentrantes de cinemática paralela</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

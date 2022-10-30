@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ochoa Garrido, Ignacio</dc:contributor>
+    <dc:contributor>Acosta Santamaría, Víctor Andrés</dc:contributor>
+    <dc:contributor>García Aznar, José Manuel</dc:contributor>
+    <dc:creator>Duizabo Ingalaturre, Alejandro</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>La degradación del cartílago articular, principal síndrome de la artrosis, es una causa muy común de dolor y discapacidad en la población activa y jubilada. Al día de hoy no existen recursos eficaces para evitar esta enfermedad ni métodos para detener su empeoramiento. Por estos motivos, la Ciencia de Materiales junto a la Ingeniería de Tejidos proponen una estrategia basada en la regeneración del cartílago articular a través de sustitutos fabricados con biomateriales que proporcionan a las células un entorno mecánicamente estable y estimulante para favorecer la regeneración del tejido. Varios estudios han demostrado la eficacia del ácido poli-L-láctico (PLLA) como biomaterial para la fabricación de estructuras tridimensionales (andamios) destinadas a la Ingeniería Tisular del cartílago, pero sus propiedades mecánicas y estructurales se han caracterizado principalmente en entornos estáticos. Para obtener productos que respondan de manera adecuada a las solicitaciones mecánicas de la articulación, particularmente de rodilla, es necesario estudiar en profundidad las propiedades mecánicas de este biomaterial en entornos que simulen el comportamiento fisiológico de actuación. En este proyecto, se propone estudiar la evolución de las propiedades mecánicas de un andamio estructural de PLLA en entornos dinámicos de flujo y de deformación a través de experimentaciones diseñadas y realizadas a propósito. Se evalúa la permeabilidad y los cambios estructurales del andamio de PLLA sometido a deformaciones compresivas tanto escalonadas como dinámicas, y se estudia el comportamiento de la permeabilidad de la estructura sometida a una degradación bajo flujo. Los resultados obtenidos demuestran que la arquitectura del andamio, inicialmente heterogénea, se homogeneíza al aplicarle una deformación de forma graduada, lo que se refleja en la conducta de su permeabilidad que disminuye hasta que las trabéculas se colapsen. En cambio, cuando se somete el andamio a deformaciones cíclicas de fatiga, su permeabilidad aumenta en acorde con la amplitud de deformación, y su arquitectura tiende a redistribuirse frente al colapso de las trabéculas delgadas y se vuelve más heterogénea. El análisis de la degradación dinámica bajo flujo no pudo interpretarse debido a la contaminación fúngica de las muestras durante la experimentación.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12395</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12395/files/TAZ-TFM-2013-841.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>ingenieria de tejidos</dc:subject>
+    <dc:subject>biomateriales</dc:subject>
+    <dc:subject>andamios</dc:subject>
+    <dc:subject>plla</dc:subject>
+    <dc:subject>cartílago</dc:subject>
+    <dc:subject>propiedades mecánicas</dc:subject>
+    <dc:subject>permeabilidad</dc:subject>
+    <dc:subject>entornos dinámicos</dc:subject>
+    <dc:subject>Máster Universitario en Ingeniería Biomédica</dc:subject>
+    <dc:title>Evaluación de propiedades mecánicas de un andamio estructural de ácido poli-L-láctico(PLLA) en entorno dinámico</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

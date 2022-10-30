@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sotelo Hermida, Félix Antonio</dc:contributor>
+    <dc:contributor>Garcés Gregorio, Juan Ignacio</dc:contributor>
+    <dc:creator>Martín Buil, Darío</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>En este proyecto se afronta el estudio de la concentración de oxígeno en células y tejidos mediante el diseño de un sistema de medición basado en microscopia de fluorescencia. Partiendo de otros montajes similares, se tratan tanto la parte física como la captación de imagen mediante una cámara digital, y el software necesario para aplicar técnicas de filtrado y procesado de imagen necesarias para extraer los datos que lo relacionen con su concentración de oxígeno de forma automática.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/15392</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/15392/files/TAZ-TFG-2014-1100.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>fluorescencia</dc:subject>
+    <dc:subject>oxígeno</dc:subject>
+    <dc:subject>porfirina</dc:subject>
+    <dc:subject>filtrado</dc:subject>
+    <dc:subject>imagen</dc:subject>
+    <dc:subject>cámara</dc:subject>
+    <dc:subject>Graduado en Ingeniería de Tecnologías y Servicios de Telecomunicación</dc:subject>
+    <dc:title>Estudio de la concentración de oxígeno en células y tejidos mediante el uso de técnicas de fluorescencia, adquisición y procesado de imágenes</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

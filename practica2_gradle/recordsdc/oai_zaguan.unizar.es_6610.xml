@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Melero Estela, Julio Javier</dc:contributor>
+    <dc:creator>Bruna Romero, Jorge</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El presente documento muestra los pasos llevados a cabo en la investigación y posterior desarrollo de una herramienta de simulación para la detección de eventos de tensión basada en la transformada Wavelet. Como en cualquier trabajo de investigación, la primera parte incluye una revisión del estado del arte sobre la materia a tratar, en este caso las herramientas de detección de eventos de tensión. Se comenzó revisando la normativa vigente (UNE-EN 61000-4-30) para después proceder a realizar un análisis más exhaustivo en lo referente a artículos de divulgación científica (IEEE, Elsevier…). Posteriormente se revisó el estado actual del arte referente a las necesidades de medida. Esto es, los requisitos metrológicos reales frente a la caracterización de eventos de tensión, en lo que se refiere a la medida de la duración y amplitud de la perturbación. La revisión de los métodos actuales de análisis de eventos de tensión puso de manifiesto la escasa precisión en la medida para ondas distorsionadas y/o no sinusoidales. Esto condujo al siguiente paso: la elección de un método de análisis válido y compatible con los requisitos necesarios. Se seleccionó la transformada Wavelet por ser la más adecuada debido a sus características de sensibilidad a la hora de detectar cambios bruscos en los niveles de tensión. Una vez seleccionado el método de medida, se procedió a la implementación del algoritmo para más tarde diseñar la herramienta informática que ayudaría al usuario a validar el sistema propuesto. Dicha implementación se realizó en Matlab por su facilidad a la hora de depurar errores y poder exportar el código a cualquier otro lenguaje de programación. El desarrollo de la interfaz de usuario se llevó a cabo en el GUIDE de Matlab, un entorno de desarrollo embebido que dota al diseñador de la libertad suficiente para realizar, rápidamente y de manera sencilla, cualquier cambio estético en la interfaz o estructural en el código del algoritmo. Una vez desarrollada la interfaz, se procedió a verificar el correcto funcionamiento de todo el conjunto. Para ello, se analizaron diez ondas de entrada que recogen los eventos de tensión más comunes. La evaluación de los distintos ensayos ha mostrado unos errores en la detección muy inferiores a los obtenidos por el método tradicional de evaluación de eventos de tensión. Para concluir, se fijan unas posibles líneas de desarrollo futuro que sin lugar a dudas hará que el método sea directamente aplicable en sistemas reales de medida.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6610</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6610/files/TAZ-TFM-2011-096.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6610/files/TAZ-TFM-2011-096_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>wavelet</dc:subject>
+    <dc:subject>matlab</dc:subject>
+    <dc:subject>hueco de tensión</dc:subject>
+    <dc:subject>sobretensión</dc:subject>
+    <dc:subject>interrupción de tensión</dc:subject>
+    <dc:subject>rms</dc:subject>
+    <dc:subject>evento</dc:subject>
+    <dc:subject>calidad de red</dc:subject>
+    <dc:subject>filtro digital</dc:subject>
+    <dc:subject>Máster Universitario en Energías Renovables y Eficiencia Energética</dc:subject>
+    <dc:title>Herramienta de simulación para la detección de eventos de tensión basada en la transformada wavelet</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Celaya Alastrué, Javier</dc:contributor>
+    <dc:creator>Catalán Sánchez, Víctor Miguel</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Durante este proyecto se ha diseñado e implementado una capa de red peer-to-peer jerárquica, escalable y tolerante a fallos. Dicha capa es un medio que nos permite la distribución de la información y la localización de recursos a emplear por otras plataformas. Esta capa está enmarcada en el desarrollo de una plataforma escalable para la ejecución distribuida de tareas.   Se ha utilizado una estructura principal en forma de árbol binario balanceado o AVL. Las búsquedas en este tipo de árboles tienen una complejidad que se mantiene siempre en orden logarítmico O(log n), por lo que es perfecta para cumplir el requisito de la escalabilidad. Otro punto fundamental es la tolerancia a fallos, en cuyo caso se resuelve utilizando una DHT como estructura paralela, donde se almacenará la información actualizada de todos los nodos de la red. En caso de fallo de un nodo, cualquier participante puede obtener la información relativa a dicho nodo e iniciar el proceso de reconstrucción que permite devolver a la red a un estado correcto. Entre las distintas opciones de DHT, se ha elegido Apache Cassandra y más en concreto la librería libQtCassandra, que es un cliente que proporciona una API para interaccionar con los nodos de Cassandra. En definitiva, se ha desarrollado un protocolo de comunicación totalmente distribuido, que permite trabajar de manera conjunta a la estructura en forma de árbol y la DHT. El lenguaje utilizado es C++ por ser el lenguaje que se usa en la plataforma en la que este proyecto está enmarcado.  Para comprobar el buen funcionamiento, se ha utilizado un simulador de eventos discretos. Con el objetivo de comprobar la escalabilidad, se han simulado redes de tamaños desde 10 nodos hasta 500.000 nodos. Posteriormente, se vuelven a simular los mismos tamaños y además se introducen fallos de nodos físicos aleatorios para comprobar la tolerancia a fallos. Una vez concluye la simulación, se comprueba el resultado por medio de pruebas de validación del estado de los participantes de la red. El resultado obtenido tras la realización de todas las pruebas con el simulador es el correcto, con lo que se puede afirmar que la red se adapta perfectamente a cualquier tamaño de red y además detecta los fallos que se producen para posteriormente reconstruir la red. Además se han obtenido medidas del consumo del ancho de banda de entrada y de salida obteniendo valores muy buenos y casi despreciables. También se ha medido el tiempo de inserción de un nodo en la red y se puede concluir que para redes grandes de 100.000 nodos en adelante, el tiempo se estabiliza alrededor de 2,25 segundos, siendo un valor que se considera aceptable. Asimismo se ha ejecutado la aplicación en un grupo de ordenadores del laboratorio y se ha conseguido interconectarlos. La red se ha creado y funciona correctamente, por lo que la prueba en un escenario real también es un éxito.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8803</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Arquitectura y Tecnología de Computadores</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8803/files/TAZ-PFC-2012-539_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/8803/files/TAZ-PFC-2012-539.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>p2p</dc:subject>
+    <dc:subject>árbol binario</dc:subject>
+    <dc:subject>dht</dc:subject>
+    <dc:subject>c++</dc:subject>
+    <dc:subject>distribuido</dc:subject>
+    <dc:subject>tolerancia a fallos</dc:subject>
+    <dc:subject>escalabilidad</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Diseño e implementación de una capa de red P2P jerárquica, escalable y tolerante a fallos</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Pérez Cabello, Fernando </dc:contributor>
+    <dc:contributor>Cano Martín, Javier</dc:contributor>
+    <dc:contributor>Pérez Cabello, Fernando</dc:contributor>
+    <dc:creator>Ibáñez Álvarez, Miguel</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El problema del cambio climático, se debe en parte al aumento de emisiones de gases de efecto invernadero (GEI), uno de ellos en particular, especialmente el CO2. Los ecosistemas forestales intervienen en la lucha contra el cambio climático a través de la absorción de grandes cantidades de CO2 gracias a la fotosíntesis. Chile participa en el llamado 'Mercado de bonos de Carbono' como emisor de éstos, por lo que está desarrollando políticas de gestión, a través de las cuales, disminuyan las emisiones de carbono asociadas a la deforestación, haya un manejo forestal mejorado y se valoricen los productos maderables. Por otro lado, en multitud de estudios científicos se demuestra que las imágenes hiperespectrales son una buena herramienta para estimar variables biofísicas de las cubiertas vegetales.  Dentro de este marco, este proyecto pretende desarrollar una metodología para estimar la cantidad de carbono capturado en los bosques nativos chilenos de la región mediterránea a través de una imagen de alta resolución espectral. A partir de la información de esta imagen se generan 8 índices de vegetación, los cuales se correlacionan con el contenido de carbono capturado de muestras medidas en terreno. El objetivo es generar un algoritmo que permita estimar el contenido de carbono en este tipo de bosque. La zona de estudio está cercana a la ciudad de Santiago de Chile, en el paraje de San Carlos de Apoquindo, donde se encuentra una buena representación del bosque mediterráneo chileno.  El vuelo para la captura de la imagen se realizó en enero del 2013 mediante el sensor Hyspex VNIR-1600 HS, el cual tiene una resolución espacial de 32 cm, y una resolución espectral de 160 bandas distribuidas en el espectro del visible y del infrarrojo cercano.  En el mes de octubre se recoge información de campo, esta información consiste en medidas dendrométricas de las especies localizadas en la zona de estudio, que posteriormente se implementa en la funciones alométricas, desarrolladas por la empresa Oterra, para el cálculo de carbono en campo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12762</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio; Área de Análisis Geográfico Regional</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12762/files/TAZ-TFM-2013-1024.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>carbono capturado</dc:subject>
+    <dc:subject>imagen hiperespectral</dc:subject>
+    <dc:subject>índice de vegetación</dc:subject>
+    <dc:subject>función alométrica</dc:subject>
+    <dc:subject>Máster Universitario en Tecnologías de la Información Geográfica para la Ordenación del Territorio: Sistemas de Información Geográfica y Teledetección</dc:subject>
+    <dc:title>Metodología para la estimación de carbono en bosque mediterráneo chileno mediante imágenes hiperespectrales</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

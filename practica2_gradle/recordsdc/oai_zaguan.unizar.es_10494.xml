@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Pardina Carrera, Antonio</dc:contributor>
+    <dc:creator>García El Hachimi, Alejandro</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Proyecto desarrollado para un equipo de medida destinado a medir el consumo eléctrico real de una instalación de baja tensión. El equipo esta diseñado con un circuito integrado de medida y una tarjeta de adquisición de datos Velleman K8055. La información se procesa en un software que trabaja con este tipo de tarjetas y se realiza una auditoría energética permitiendo comparar con las diferentes tarifas eléctricas del mercado y también conocer los parámetros de la instalación (Potencia activa, pico y media así como consumo real).</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10494</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10494/files/TAZ-PFC-2013-201.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>pfc equipo de medida para monitorización en tiempo real</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electricidad)</dc:subject>
+    <dc:title>Equipo de medida para monitorización y auditoría de consumo eléctrico en instalaciones de baja tensión</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

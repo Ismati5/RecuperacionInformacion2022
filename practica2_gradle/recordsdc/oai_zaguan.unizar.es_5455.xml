@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Usón Sardaña, Antonio</dc:contributor>
+    <dc:creator>Comín Cebrián, Diego</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>El presente proyecto tiene por objeto construir una máquina de Wimshurst, similar a la que se dispone en el laboratorio, que fue comprada a un artesano alemán. Se requiere que sea de mayores dimensiones para que se pueda colocar en exhibiciones y otros eventos de nuestra Universidad y que también sirva para aprender mejor la asignatura a futuras promociones de estudiantes. La construcción y explicación del funcionamiento de la máquina de Wimshurst pone de manifiesto conceptos básicos de la electrostática como la existencia de la carga eléctrica, la repulsión entre cargas del mismo género y atracción de las opuestas, la polarización de los dieléctricos, (en los discos, para poder inducir cargas). El funcionamiento de esta máquina pone en manifiesto que la electricidad es una propiedad de la materia y la energía asociada a ella un producto que llega a nuestras casas por medio de cables. Es interesante ver como se enciende un tubo fluorescente al acercarlo a los terminales de la máquina, lo que también se observa en el generador e Tesla.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5455</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5455/files/TAZ-PFC-2010-397.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electricidad)</dc:subject>
+    <dc:title>Máquina de Wimshurst para demostraciones docentes</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

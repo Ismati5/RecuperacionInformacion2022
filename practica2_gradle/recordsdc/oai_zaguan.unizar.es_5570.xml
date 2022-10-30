@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Álvarez Pérez-Aradros, Pedro</dc:contributor>
+    <dc:creator>Mainar Lalmolda, Marcos</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Este proyecto fin de carrera comprende el análisis, diseño e implementación de un sistema accesible vía Web que facilite a profesores y alumnos la gestión de la asistencia a las tutorías. Desde un punto de vista funcional, el sistema permite a los profesores configurar las asignaturas para las cuales quieren utilizar el sistema y establecer sus horarios de tutorías. Por otro lado, los alumnos podrán consultar disponibilidad horaria para asistir a estas tutorías y solicitarlas en base a esta disponibilidad. El sistema notificará al alumno vía correo electrónico la aceptación de su solicitud. Antes de cada tutoría, el profesor recibirá un informe por correo electrónico con el listado de las solicitudes existentes. Con cada solicitud, un alumno podrá también exponer el objeto de la tutoría, facilitando al profesor una posible preparación previa si fuese necesario. Además de la funcionalidad básica expuesta, el sistema también ofrece otras posibilidades a profesores y alumnos. Los profesores pueden visualizar, aplicando diferentes criterios, las tutorías pendientes de ser atendidas, consultar su histórico de solicitudes de tutorías o anotar qué alumnos acuden a las tutorías que solicitaron. También podrán configurar la frecuencia de los informes de solicitudes de tutorías (por cada nueva solicitud, diarios, semanales, etc.) y la forma en que se lleva a cabo la asignación de turnos de tutorías a los alumnos: permitiéndoles elegir hora entre las disponibles o asignándoles una hora concreta de forma consecutiva. Por otro lado, un alumno podrá consultar todas las tutorías asignadas, modificarlas o cancelarlas. Adicionalmente, el sistema detectará posibles alumnos que repetidamente no asisten a las tutorías solicitadas, realizará automáticamente copias de seguridad de su información, almacenará ficheros de log con todas las acciones que ocurran en el sistema para su posterior análisis e implementará un acceso seguro basado en claves privadas. El sistema desarrollado consta de dos aplicaciones: una aplicación Web de configuración de asignaturas y sus horarios de tutorías utilizada por los profesores y una aplicación Portlet utilizada por los alumnos para la solicitud de cita de tutoría. La tecnología de Portlets utilizada permite crear aplicaciones Web fácilmente integrables en un portal Web. Gracias a ella, los profesores pueden, de forma muy sencilla, poner el sistema a disposición de sus alumnos en su página Web. Por último, el sistema desarrollado se ha instalado en el servidor Alkaid del Centro Politécnico Superior para ponerlo a disposición de profesores y alumnos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5570</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5570/files/TAZ-PFC-2011-022.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>sistema de gestión de información</dc:subject>
+    <dc:subject>docencia universitaria</dc:subject>
+    <dc:subject>internet</dc:subject>
+    <dc:subject>portlet</dc:subject>
+    <dc:subject>aplicación Web</dc:subject>
+    <dc:subject>tutoría</dc:subject>
+    <dc:subject>portal Web</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Sistema para la petición de cita de tutoría usando tecnología de Portlets</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

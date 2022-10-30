@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Martínez Iturbe, Abelardo</dc:contributor>
+    <dc:contributor>Melero Estela, Julio Javier</dc:contributor>
+    <dc:creator>Sánchez Ramos, Francisco José</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El adecuado desarrollo de las energías renovables y la ruptura de las barreras tecnológicas que atenazan su crecimiento pasan ineludiblemente por un buen conocimiento de sus características de funcionamiento. Es necesario poder analizar con precisión el comportamiento de los sistemas de generación renovables así como su interacción con el sistema eléctrico en distintas condiciones de operación. La razón de ser de este proyecto fin de carrera nace en la necesidad de caracterizar la calidad de suministro eléctrico y la fenomenología particular de sistemas fotovoltaicos para su futura integración con otras fuentes de generación renovables, siendo esta una de las tareas que componen el proyecto “Investigación y desarrollo de un sistema multipropósito para el análisis integral de energías renovables” (IDI-20071056 01) financiado por el Centro para el Desarrollo Tecnológico Industrial (CDTI). Para ello se diseñó un sistema de monitorización capaz de medir las variables eléctricas de una planta solar fotovoltaica y se materializó este diseño en dos equipos de medida de las mismas características. Dichos equipos son capaces de registrar valores de tensión e intensidad, tanto en continua como en alterna, cuentan con una unidad de memoria de 2 GB de capacidad y la posibilidad de comunicarse con un ordenador por medio de una conexión USB. Una de las condiciones de diseño iniciales fue que en todo momento quedara protegida la instalación de posibles fallos del equipo de medida y viceversa. Esta condición se tuvo en cuenta en la elección de los componentes y se añadieron otros con este único fin. Se prestó especial atención al ajuste y calibración de los equipos. En primer lugar se realizó el ajuste de cada una de las placas de acondicionamiento de cada equipo por comparación con instrumentos de referencia pertenecientes al Laboratorio de Metrología Eléctrica de la Universidad de Zaragoza (LME). A continuación se procedió al montaje completo de los equipos (placas de acondicionamiento, fuente de alimentación, reloj de tiempo real, Arduino) y a la introducción de los resultados del ajuste por medio de un portátil a través de la conexión USB. Para finalizar se realizó la calibración de ambos equipos emitiendo los certificados correspondientes según la acreditación ENAC con que cuenta el LME. La instalación de ambos equipos se llevó a cabo en el interior de un seguidor solar propiedad de la Fundación para el desarrollo de nuevas tecnologías del Hidrógeno en Aragón, que posee en el parque tecnológico Walqa en Huesca. En su interior, el seguidor cuenta con dos inversores, se colocó un equipo en cada uno de ellos de forma que se pudieran registrar todas las variables, tanto las de entrada (tensión e intensidad en continua) como las de salida (tensión e intensidad en alterna). Dos días después de la instalación se descargaron los datos registrados y con los mismos se verificó el correcto funcionamiento de ambos equipos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6469</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6469/files/TAZ-PFC-2011-612_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6469/files/TAZ-PFC-2011-612.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>sistema de monitorización eléctrica</dc:subject>
+    <dc:subject>planta solar fotovoltaica</dc:subject>
+    <dc:subject>equipo de medida</dc:subject>
+    <dc:subject>energías renovables</dc:subject>
+    <dc:subject>inversor</dc:subject>
+    <dc:subject>seguidor solar</dc:subject>
+    <dc:subject>seguidor fotovoltaico</dc:subject>
+    <dc:subject>sensor hall</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Sistema de monitorización de parámetros eléctricos de una planta solar fotovoltaica</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

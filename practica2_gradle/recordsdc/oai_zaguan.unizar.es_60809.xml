@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ballester Castañer, Javier</dc:contributor>
+    <dc:contributor>Luciano, Ennio Giovanni</dc:contributor>
+    <dc:creator>Tizné Larroy, Eduardo</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>Las turbinas de gas son uno de los principales equipos destinados a la generación de energía en la industria. Debido a la extensa utilización de estos equipos se han ido desarrollando tecnologías que permiten hacer turbinas de gas más eficientes y menos contaminantes. La premezcla del combustible con grandes cantidades de aire es la técnica más eficiente de reducción de gases contaminantes, es decir trabajar con mezclas pobres. Como resultado, baja la temperatura de combustión y las emisiones de NOx se ven significativamente reducidas. Sin embargo, esta técnica nos conduce a otro problema: las inestabilidades termo-acústicas. Este fenómeno puede dañar gravemente este costoso equipo, hecho por el cual se vienen dedicando notables esfuerzos de investigación en este campo, especialmente desde los años 90. Para ello se aplican diversos métodos de análisis tanto teóricos como experimentales. Una de las técnicas más utilizadas es la implementación de modelos que sean capaces de predecir el comportamiento de este fenómeno. Este trabajo de Fin de Grado intenta precisamente desarrollar un modelo capaz de predecir el comportamiento de este indeseable fenómeno en una instalación experimental situada en el LIFTEC. Todos los resultados experimentales serán obtenidos mediante la utilización del combustor de una turbina de gas a escala de laboratorio, situado en el Laboratorio de Investigación en Fluidodinámica y Tecnologías de la Combustión (LIFTEC). El software utilizado para el desarrollo de los modelos ha sido MATLAB. Además del desarrollo del modelo se estudiará la evolución de este fenómeno en distintas condiciones de operación. Se estudiarán las frecuencias características de la instalación así como las amplitudes de las oscilaciones de presión que se registran en cada condición de operación. Por otro lado, se compararán estos resultados experimentales con los valores teóricos obtenidos por los modelos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/60809</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/60809/files/TAZ-TFG-2016-2083.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Química</dc:subject>
+    <dc:title>Análisis de la influencia de parámetros operacionales sobre inestabilidades de combustión de metano y biogás</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Analysis of the influence of operational parameters on methane and biogas combustion instabilities</dc:title>
+</oai_dc:dc>

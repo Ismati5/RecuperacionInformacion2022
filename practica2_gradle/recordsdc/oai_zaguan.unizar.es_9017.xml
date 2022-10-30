@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ibarz Montaner, Elena</dc:contributor>
+    <dc:contributor>Gracia Villa, Luis</dc:contributor>
+    <dc:creator>Murcia Tejero, Eduardo</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El objetivo de este proyecto es el diseño, cálculo y detalle constructivo de una estructura singular mixta (en acero y hormigón armado) para una instalación correspondiente a una bodega de crianza vitivinícola. Se plantea una estructura de cubierta tubular con geometría cilíndrica modular en forma de diamante, repetida para cubrir tres vanos iguales de 15 metros de luz por 135 metros de longitud, con una superficie cubierta total de 6075 metros cuadrados, suficiente para el uso previsto, a los que hay que añadir el porche de entrada. Toda la estructura de cubierta será diáfana, con pilares solamente en el perímetro, para lo cual irá colgada de una superestructura externa formada por arcos portantes y péndolas de cuelgue que harán el papel estructural de los pilares interiores eliminados. Los arcos portantes quedarán vistos, bajando hasta el apoyo de la cimentación, que estará constituida por zapatas prismáticas aisladas, atadas mediante las correspondientes riostras. Los pilares perimetrales serán de hormigón armado y de sección circular, rematados con un capitel metálico que servirá de arranque a los perfiles tubulares de cubierta. El diseño final deberá satisfacer la normativa vigente para esta tipología estructural (Código técnico de la Edificación y EHE 08 Instrucción de Hormigón Estructural). Una vez verificado el diseño final, se realizarán todos los detalles constructivos correspondientes a las uniones y a los anclajes de cimentación. Para darle verosimilitud el proyecto se dota de pliego de condiciones, estudio de seguridad y salud, presupuesto y memoria descriptiva de alguna instalación adicional.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9017</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9017/files/TAZ-PFC-2012-646.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/9017/files/TAZ-PFC-2012-646_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>diseño de estructuras</dc:subject>
+    <dc:subject>estructuras metálicas</dc:subject>
+    <dc:subject>estructuras de hormigón</dc:subject>
+    <dc:subject>análisis estructural</dc:subject>
+    <dc:subject>elementos finitos</dc:subject>
+    <dc:subject>estructuras mixtas</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Diseño de estructura mixta (acero y hormigón) singular para bodega de crianza</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

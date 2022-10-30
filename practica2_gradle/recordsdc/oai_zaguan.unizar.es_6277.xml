@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Usón Sardaña, Antonio</dc:contributor>
+    <dc:creator>Pamplona Marco, José María</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El primer objetivo de este proyecto fin de carrera es obtener una panorámica global de la dificultad que tiene el diseño de un transformador, identificando los problemas sencillos y los más complejos, y viendo cuáles de estos problemas complejos se pueden resolver de forma aproximada mediante fórmulas aproximadas proporcionadas por los diferentes autores. Para los problemas complejos que por su envergadura se salgan El segundo objetivo de este proyecto es la realización de los cálculos eléctricos necesarios para la fabricación de un transformador de potencia sumergido en aceite de 5MVA, 20/45kV. Las principales características del transformador se exponen a continuación. Especificación técnica del transformador: Características Transformador 					Trifásico de potencia Tipo 							5000 / 52 Potencia [kVA] 					        5000 Líquido aislante Aceite 				NynasNytro Taurus Tipo de servicio 					Continuo Tensión primaria [V] 					45.000 Conmutación en primario 				± 2.5 % ± 5 % Tensión secundaria [V] 				        20.000 Nivel de aislamiento A.T. [kV] 			        FI 95 IR 250 Nivel de aislamiento B.T. [kV] 			        FI 50 IR 125 Frecuencia [Hz] 					50 Grupo de conexión 					Dyn11 Máx. Temperatura ambiente ºC			        40 Calentamiento arrollamientos/aceite [°C/°C]	        65 / 60 Clase térmica del aislamiento 			        A Tratamiento de la superficie Procedimiento UNE-20.175. Acabado final RAL 7030 Altitud [m] 						1183 Instalación 						Exterior Dimensiones aproximadas [mm]			 Largo: 3075  							Ancho: 2500  							Alto: 3050  Peso aproximado (incluido aceite) [kg]		        13200 Valores garantizados Norma 						        UNE EN 60076 Tensión de cortocircuito [%] 				7 (UNE EN 60076 Tol.) Pérdidas en vacío [kW] 				        7 (UNE EN 60076 Tol.) Pérdidas en carga (a 75 °C) [kW] 			36 (UNE EN 60076 Tol.) El último objetivo del proyecto es desarrollar métodos para el cálculo de tensión de cortocircuito y las pérdidas de un transformador sobre la base de simulaciones electromagnéticas mediante el método de elementos finitos (FEMM).</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6277</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6277/files/TAZ-PFC-2011-445.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6277/files/TAZ-PFC-2011-445_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>transformador</dc:subject>
+    <dc:subject>femm</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electricidad)</dc:subject>
+    <dc:title>Cálculo y análisis mediante FEMM de un transformador sumergido en aceite de 5MVA, 45/20 kV</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

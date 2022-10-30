@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Lozano Serrano, Miguel Ángel</dc:contributor>
+    <dc:contributor>Serra, Luis M.</dc:contributor>
+    <dc:creator>Carvalho, Monica</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Esta tesis ha desarrollado métodos y procedimientos de análisis, síntesis, y diseño de sistemas de trigeneración para el caso específico del sector residencial-comercial. Estas metodologías incluyen la investigación de criterios racionales para la asignación de costes en sistemas complejos con múltiples productos, sometidos a precios energéticos de mercado y que atienden demandas energéticas variables. Las demandas varían según la estación, e incluso durante el día, lo que da lugar a diferentes modos óptimos de operación que combinan la posibilidad de compra o venta de electricidad y de despilfarro de parte del calor cogenerado. También se incorporan explícitamente consideraciones ambientales en el análisis, lo que ha requerido el desarrollo de nuevos procedimientos de análisis termoeconómico. En conjunto esta tesis presenta una perspectiva actual para el diseño y utilización racional y eficiente de sistemas de poligeneración en el sector residencial-comercial.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5744</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5744/files/TESIS-2011-025.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>LCA Trigeneración</dc:subject>
+    <dc:subject>optimización</dc:subject>
+    <dc:subject>cargas ambientales</dc:subject>
+    <dc:subject>ACV</dc:subject>
+    <dc:subject>Trigeneration</dc:subject>
+    <dc:subject>Optimization</dc:subject>
+    <dc:subject>Environmental loads</dc:subject>
+    <dc:title>Thermoeconomic and environmental analyses for the synthesis of polygeneration systems  in the residential-commercial sector</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

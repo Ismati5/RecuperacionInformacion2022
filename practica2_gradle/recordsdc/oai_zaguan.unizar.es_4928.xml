@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Medrano Marqués, Nicolás J.</dc:contributor>
+    <dc:creator>Olásolo Alonso, José</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>El proyecto fin de carrera está enmarcado dentro del proyecto GA-LC-039/2008 del I3A, desarrollado por el GDE de la universidad de Zaragoza. En él se pretende diseñar y desarrollar una red inalámbrica de sensores para la prevención y detección temprana de incendios. La inteligencia ambiental es un concepto que cada vez se está convirtiendo en más relevante. Ésta involucra crear entornos que reaccionen ante cambios facilitando la interacción del ser humano con el medio. Por ello los sensores se convierten en parte fundamental de la inteligencia ambiental. El proyecto fin de carrera consiste en el diseño de un interfaz hardware para el acondicionamiento de diferentes tipos de sensores, compatible con las necesidades y restricciones de los nodos de una red sensorial inalámbrica y con el objetivo de ser integrado dentro de un nodo sensor de la red inalámbrica de sensores desarrollada por el GDE. El interfaz posee un microcontrolador que tiene una pequeña memoria donde se almacenen las características y propiedades relevantes del sensor, necesarias para su acondicionamiento, medida, calibración y en su caso compensación, formando un reducido datasheet electrónico. El microcontrolador se encarga de gestionar toda la electrónica del interfaz en función del tipo de sensor y además implementa las comunicaciones con el exterior siguiendo el protocolo I2C. El interfaz sigue con la filosofía plug&amp;play en la conexión con el nodo sensor, minimizando la interacción del usuario. Una vez diseñado el interfaz se aplican diferentes tipos de sensores para demostrar la validez del mismo y se prueba su funcionamiento como parte del nodo de la red inalámbrica de sensores comprobando el correcto funcionamiento del sistema final.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4928</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4928/files/TAZ-PFC-2010-127.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/4928/files/TAZ-PFC-2010-127_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Redes de sensores</dc:subject>
+    <dc:subject>Sensores</dc:subject>
+    <dc:subject>Sensores plug and play</dc:subject>
+    <dc:subject>Smart sensors</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicaciones</dc:subject>
+    <dc:title>Interfaz inteligente para sensores de bajo coste en aplicaciones portátiles para inteligencia ambiental</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mena Nieto, Eduardo</dc:contributor>
+    <dc:creator>Royo Ratia, José Alberto</dc:creator>
+    <dc:date>2009</dc:date>
+    <dc:description>El trabajo presentado en esta tesis se encuadra dentro del estudio y diseño de sistemas multiagente e inteligentes, en entornos inalámbricos y distribuidos. Por lo tanto, debido a las características intrínsecas de los nuevos entornos inalámbricos y distribuidos, resulta de especial interés la capacidad de los agentes software para reaccionar y adaptarse autónomamente al estado del entorno, permitiendo así ajustar su actuación a los diferentes estados de la red, el consumo de energía, el contexto concreto de ejecución, el comportamiento del usuario, y las características técnicas del dispositivo en el que se ejecuten. La principal contribución de esta tesis consistirá en el estudio y análisis de las distintas propiedades que poseen inherentemente los sistemas multiagente, y los beneficios que puede proporcionar la tecnología de agentes móviles inteligentes en el diseño y desarrollo de arquitecturas software, en especial para aquellas destinadas a utilizarse en entornos distribuidos e inalámbricos. Para alcanzar los objetivos propuestos en esta tesis, se estudiarán y verificarán las ventajas proporcionadas por la programación basada en la tecnología de agentes mediante la aplicación de este paradigma de diseño a distintos ámbitos y problemas:  1) un servicio de recuperación de software,  2) un servicio de bibliotecas digitales para publicaciones de investigación, y  3) tres servicios que tienen una arquitectura dinámica, que dependerá de las capacidades de visualización, ubicación, y recursos de almacenamiento y procesado de datos disponibles en el dispositivo del usuario. Cada uno de estos contextos de ejecución será presentado en detalle, indicando las ventajas que proporcionan las arquitecturas basadas en sistemas multiagente en su diseño.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5734</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5734/files/TESIS-2011-021.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>Inteligencia artificial</dc:subject>
+    <dc:subject>diseño y componentes de sistemas de informacion</dc:subject>
+    <dc:subject>bases de datos</dc:subject>
+    <dc:title>Agentes móviles inteligentes aplicados al diseño y desarrollo de servicios de datos en entornos inalámbricos y distribuidos</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Schoorlemmer, Jon</dc:contributor>
+    <dc:contributor>Macías Redondo, Sofía</dc:contributor>
+    <dc:creator>Serrano Gonzalo, Irene</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>La esclerosis múltiple (EM) es una enfermedad neurodegenerativa inflamatoria crónica y es la principal causa de discapacidad en jóvenes adultos. Actualmente, esta patología no tiene cura y esto se debe a que todavía su origen es una incógnita. Uno de los factores ambientales que se ha asociado a esta patología son los retrovirus endógenos humanos (HERVs). Los HERVs son copias defectuosas de retrovirus que constituyen un 8% del genoma humano. La familia de HERVs más asociada a la enfermedad es HERV-W. Dentro de esta familia, encontramos el retrovirus MSRV (Multiple sclerosis associated retrovirus) cuyos niveles de proteína de envoltura (MSRV ENV) están elevados en lesiones cerebrales, líquido cefalorraquídeo y sangre de pacientes.La metilación del ADN es un determinante de la expresión génica, tanto en el caso de genes clásicos, como en el caso de HERV. Siguiendo precedentes, que describen una relación inversa entre los niveles de metilación de HERV-Fc1 y sus niveles de expresión en pacientes con EM, se propuso estudiar la misma relación para el caso de HERVWChr9. Al verse afectado el sistema nervioso central (SNC) en esta patología, se decidió realizar el estudio en neuronas, generando modelos in vitro de las mismas. Partiendo de las células madre embrionarias humanas (hESCs) se llegó a la obtención de precursores neuronales mediante el seguimiento de dos protocolos distintos. Los precursores neuronales expresaron marcadores característicos como son SOX1, PAX6 y NESTIN. Los niveles de metilación detectados en los precursores neuronales fueron muy elevados, del 90%. Este mismo análisis se realizó en células mononucleares de sangre periférica (PBMCs) de pacientes con EM (n=5) y controles (n=5). Los niveles de metilación para ambos fueron del 80%, por lo que no se encontraron diferencias entre los grupos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76247</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76247/files/TAZ-TFM-2018-777.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster en Biología Molecular y Celular</dc:subject>
+    <dc:title>Cambios epigenéticos en Esclerosis Múltiple: la metilación de los Retrovirus Endógenos Humanos(HERV-W) en precursores neuronales</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Epigenetic changes in Multiple Sclerosis: Methylation of Human Endogenous Retroviruses (HERV-W) in neuronal precursors</dc:title>
+</oai_dc:dc>

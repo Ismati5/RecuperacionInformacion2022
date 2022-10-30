@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Hauke Bernardos, Guillermo</dc:contributor>
+    <dc:creator>Sánchez Sierra, Guillermo</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>En este proyecto se va a realizar un análisis aerodinámico preliminar de un rotor de aerogenerador, para ello lo primero a realizar será la geometría. Esta geometría se generará a partir de los datos de un perfil NACA 63 212 y de unos datos de diseño como son radio, cuerda y ángulo de sucesivas secciones a lo largo de una pala del rotor. Para trazar la geometría se hará uso del programa GID versión 10.0.9 y con la ayuda de varios programas creados en lenguaje Fortran 90, de forma que se automatice la entrada de datos para generar el modelo del rotor. Finalmente el volumen de trabajo será el volumen contenido entre las superficies del rotor y un cilindro lo suficientemente grande para que los cálculos puedan realizarse correctamente. A este volumen se le impondrán las condiciones de contorno necesarias para el cálculo y en particular se utilizarán condiciones de Euler en la zona del rotor. Estas condiciones también se introducen desde el programa GID. Una vez hecho todo lo anterior se procederá al mallado del modelo mediante tetraedros de forma irregular y con tamaños ajustados a la necesidad de precisión del resultado y a la potencia de la máquina de cálculo. Con la malla y las condiciones de contorno, se procederá a la resolución del modelo con la aplicación Ensa, diseñada en el área. Con los datos del resultado se calcularán distintos coeficientes adimensionales como el coeficiente de potencia, de forma que se pueda comparar estos resultados con los valores típicos de aerogeneradores y valorar la eficacia del proceso.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9804</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9804/files/TAZ-PFC-2012-777.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>rotor</dc:subject>
+    <dc:subject>aerogenerador</dc:subject>
+    <dc:subject>elementos finitos</dc:subject>
+    <dc:subject>ecuaciones de euler</dc:subject>
+    <dc:subject>gid</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Modelado y simulación 3D de un rotor de aerogenerador</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Cascarosa Salillas, Esther</dc:contributor>
+    <dc:contributor>Santolaria Mazo, Jorge</dc:contributor>
+    <dc:creator>Vicente Martínez, José Juan</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El proyecto consistirá en el diseño de la función de curado de una máquina de fabricación aditiva basada en tecnología DLP (Digital Light Processing). Para ello se hará un estudio de los elementos que intervienen en dicha función: resinas, fotoiniciadores, fuentes de luz y superficies de cama. El estudio constará del análisis de los elementos, diseño de experimentos, experimentos, interpretación de los resultados obtenidos y selección de los elementos más adecuados. Se completará con el prediseño de una impresora 3D, lo que implicará a su vez el prediseño de los componentes mecánicos y eléctricos relacionados con los experimentos realizados. -Análisis de los elementos: Se buscará una serie de candidatos según las características deseadas para el funcionamiento de la máquina. Finalmente, se elaborará una lista de todos los candidatos para cada uno de los elementos. Se recopilarán las características básicas de cada uno de ellos y se justificará su elección según propiedades. Los elementos a analizar son resinas, fotoiniciadores, fuentes de luz y superficies de cama. - Diseño de experimentos: El objetivo es conocer mejor el comportamiento de los distintos elementos y hacer una primera selección entre los candidatos. Teniendo en cuenta estos objetivos se diseñarán los distintos experimentos. -Experimentos: Realización de los experimentos diseñados y toma de resultados para su posterior tratamiento, análisis e interpretación. Esta fase ayudará a familiarizarse con el  futuro funcionamiento que tendrá el prediseño final. -Interpretación de resultados: Con los datos obtenidos en los experimentos se analizarán y se interpretarán para conocer la influencia de las variables en el prediseño de la máquina. -Selección: Con los datos y su interpretación se seleccionarán los candidatos finales a incluir en el prediseño, justificando su elección en los datos obtenidos. -Prediseño: Se prediseñará una impresora con tecnología DLP, consistente en una fuente de luz activada mediante máscara proyectada desde la parte inferior a una cama translúcida que albergará la resina en la que se producirá capa por capa la pieza soportada por una bandeja con movimiento ascendente.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12182</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12182/files/TAZ-PFC-2013-588_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/12182/files/TAZ-PFC-2013-588.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>prototipado rápido</dc:subject>
+    <dc:subject>impresora 3d</dc:subject>
+    <dc:subject>fabricación aditiva</dc:subject>
+    <dc:subject>resinas</dc:subject>
+    <dc:subject>polimerización</dc:subject>
+    <dc:subject>fotocatalisis</dc:subject>
+    <dc:subject>curado</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Diseño de sistema de fabricación aditiva y caracterización del proceso de fotocurado de resina mediante tecnología DLP</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

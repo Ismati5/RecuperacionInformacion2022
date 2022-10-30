@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Dafni, Theopisti</dc:contributor>
+    <dc:contributor>Luzón Marco, Gloria</dc:contributor>
+    <dc:creator>Gayán Tisner, Daniel</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Las técnicas de imagen son esenciales para el diagnóstico médico.  Los tradicionales detectores de centelleo presentan una eficiencia y una resolución limitadas, mientras que los nuevos detectores semiconductores resultan muy costosos. En el TFG se propone diseñar y estudiar la aplicabilidad de un dispositivo basado en una Cámara  gaseosa con plano de lectura de carga de alta granularidad  junto con un detector gamma para explotar la triple coincidencia de la aniquilación del positrón y la emisión gamma de algunos radioisótopos.&lt;br /&gt;En el trabajo se propone una revisión bibliográfica sobre qué es la técnica de tomografía de emisión de positrones: en qué consiste, qué isotopos se utilizan y por qué, qué se requiere para tener una buena imagen. Se estudiarán comparativamente las tecnologías más utilizadas como dispositivos de imagen PET.&lt;br /&gt;De forma paralela se trabajará en el diseño de un dispositivo basado en un detector gaseoso con plano de lectura pixelado que permita reconstruir la señal junto con un segundo detector para recoger la señal de la interacción gamma. Para ello se utilizará un código de simulación y análisis proporcionado por las directoras, que será necesario adaptar al montaje.&lt;br /&gt;Se analizarán, además algunos datos en detectores similares.&lt;br /&gt;Así, el TFG propuesto otorgará una formación en Física de Partículas y en diversas técnicas experimentales (con participación fundamental de la codirectora) y de simulación. Además de  otras competencias genéricas como la búsqueda de información, la interpretación  de resultados, la elaboración de un  informe científico, y la discusión y presentación de resultados.    &lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87379</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Teórica; Área de Física Atómica, Molecular y Nuclear</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87379/files/TAZ-TFG-2019-3162.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Física</dc:subject>
+    <dc:title>Diseño de un sistema PET basado en triple coincidencia aniquilación positrón-emisión gamma</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Design of a PET system based on triple coincidence: positron annihilation-gamma emission</dc:title>
+</oai_dc:dc>

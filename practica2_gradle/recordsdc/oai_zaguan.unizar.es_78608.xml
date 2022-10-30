@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mahulea, Cristian</dc:contributor>
+    <dc:contributor>Albareda Albareda, Jorge</dc:contributor>
+    <dc:creator>Novellón Yeste, Miguel</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>Este trabajo parte de la creciente necesidad de optimizar la gestión de recursos en todos los ámbitos de la sociedad. Uno de los campos en los que esta optimización se hace fundamental es el campo médico dada su importancia. Dentro del espectro médico nos vamos a centrar en el servicio de Cirugía Ortopédica y Traumatología del Hospital Clínico Universitario “Lozano Blesa” de Zaragoza. Para mejorar este servicio vamos a plantear una serie de modelos en leguaje UML que representen los procedimientos establecidos en las vías clínicas.  Los modelos UML están pensados para ser usados día a día por el personal sanitario en el control de la evolución de los pacientes. Para que dichos modelos sean efectivos han de ajustarse lo máximo posible a la realidad. Para ello vamos a analizar su funcionamiento con datos reales. Por último, presentaremos una propuesta de modelo a partir de los datos obtenidos del análisis del comportamiento de los pacientes dentro de la herramienta “Heat”. Junto con esta propuesta de modelo, se adjuntan un ejemplo de modelo matemático aplicado a uno de los días de la vía clínica y una serie de mejoras a aplicar.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/78608</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/78608/files/TAZ-TFG-2018-4537.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Electrónica y Automática</dc:subject>
+    <dc:title>Búsqueda de indicadores médicos mediante el análisis de datos y mejora de los modelos matemáticos existentes aplicados a vías clínicas</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Health indicators based on data analysis and improvment of the existing mathematical models applied to clinical pathway</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Gómez, Juan</dc:contributor>
+    <dc:contributor>Fernández Navajas, Julián</dc:contributor>
+    <dc:creator>Asín Ortín, Carlos Juan</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Diseño y despliegue de Tableau en un caso real. Se procederá a la instalación de la herramienta en infraestructura en red , mediante el uso de Tableau Desktop y Tableau Server. De esta manera se puede hecer uso de múltiples orígenes de datos disponibles en distintas localizaciones para la creación y publicación de libros de trabajp accesibles a distinto perfil de usuarios, tanto clientes internos (conexiones a LAN de la empresa) como externos (acceso vía Web, teléfono móvil mediante aplicaciones o integración en portales corporativos). Para ello se procederá a la realización del ciclo completo de diseño y despliegue consistente en primer lugar, en análisis de los requerimientos necesarios que comprende la identificación de fuentes de datos, definición de usuarios y permisos y arquitectura del proyecto. Posteriormente se llevarán a cabo las actividades concretas en entorno Desktop (conexión con datos, construcción del modelo con los indicadores clave de negocio, desarrollo de hojas y cuadro de mando) y entorno Server (automatización de procesos, seguridad, herramientas de reporting). Por último se alcanzará la fase de producción, mediante pruebas funcionales que verifiquen el correcto funcionamiento de todo el sistema instalado.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64281</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingeniería Telemática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64281/files/TAZ-PFC-2017-064.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero de Telecomunicación</dc:subject>
+    <dc:title>Diseño y despliegue de plataforma de Business Intelligence mediante herramientas Tableau</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+    <dc:title xml:lang="en">Design and deployment of a Business Intelligence plataform using Tableau Software</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Artigas Maestre, José Ignacio</dc:contributor>
+    <dc:creator>Pérez Cacho, Roberto</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El presente proyecto trata de la implementación de la tecnología WiFi en un dispositivo de orientación temporal. Es un proyecto perteneciente al grupo de investigación de la Universidad de Zaragoza, Tecnodiscap. El dispositivo de orientación temporal consiste en una tira de leds a los que se les debe de poder modificar tanto el color como el brillo. También incluye la funcionalidad de parpadeo. La configuración del dispositivo se realiza desde un ordenador a través de un módulo WiFi. Las partes de las que consta son: diseño y montaje de una placa de circuito impreso (PCB) que contenga un microcontrolador y el módulo WiFi, comunicación con los leds mediante I2C, comunicación con el módulo WiFi por puerto UART, comunicación vía WiFi entre el módulo y el ordenador. Es un trabajo más bien práctico, ya que el grueso del proyecto ha consistido en la programación y depuración del microcontrolador. Como conocimientos adquiridos cabe destacar: tecnología I2C, comunicación por puerto serie (UART), redes WiFi, programación en lenguaje C, selección de componentes a utilizar, diseño y montaje de PCBs.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9850</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9850/files/TAZ-PFC-2012-810.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electrónica Industrial)</dc:subject>
+    <dc:title>Placa de control WiFi para dispositivo de orientación temporal</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

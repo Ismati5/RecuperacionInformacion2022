@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Romero Piqueras, Carlos </dc:contributor>
+    <dc:contributor>Alesanco Iglesias, Álvaro</dc:contributor>
+    <dc:creator>Juste Lasierra, Sara</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>Desde el departamento de Ingeniería de Diseño y Fabricación y el departamento de Ingeniería Electrónica y Comunicaciones se propuso realizar de manera conjunta un proyecto de eHealth siguiendo el marco de otros proyectos en desarrollo.  En su desarrollo han participado expertos en eHealth y doctoras de atención primaria cuya experiencia ha permitido conocer las necesidades reales para ofrecer un servicio de calidad centrado en el usuario. El resultado es un servicio integrado en el sistema sanitario y destinado especialmente a pacientes crónicos mal controlados, por ser aquellos que necesitan seguimiento continuo y que consumen mayores recursos. En el planteamiento del servicio se ha tenido en cuenta, entre otros, que fuese fácil de incorporar a la rutina de pacientes y médicos y que aprovechase recursos ya existentes.  El servicio se ha desarrollado hasta un nivel de prototipo, detallando las diferentes fases de interacción, el diseño visual, el modelo de negocio y otros aspectos relevantes.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61222</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Expresión Gráfica de la Ingeniería</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61222/files/TAZ-TFG-2016-2873.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/61222/files/TAZ-TFG-2016-2873_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería en Diseño Industrial y Desarrollo de Producto</dc:subject>
+    <dc:title>Diseño de un servicio para mejorar y personalizar los tratamientos de atención primaria por medio de la monitorización de la actividad del paciente</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Service design to improve and personalize primary care treatments through patient activity monitoring</dc:title>
+</oai_dc:dc>

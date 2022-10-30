@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Usón Gil, Sergio</dc:contributor>
+    <dc:contributor>Zaleta Aguilar, Alejandro</dc:contributor>
+    <dc:creator>Zwolińska, Joanna</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El estudio realizado consiste en el análisis del ciclo de vida de un calentador solar con sistema de almacenamiento térmico con cambio de fase. Se elabora el objetivo y alcance de análisis, con el inventario, evaluación de impacto e interpretación de los resultados. En el estudio se distinguen las etapas de la producción, distribución, uso y fin de vida, contemplando los procesos de transporte. El análisis se lleva a cabo en el software SimaPro usando el método CML-IA baseline. Gracias a esto se obtiene la información sobre los impactos medioambientales para poder recomendar los posibles cambios en la fase del diseño del producto. Además, los resultados de gases de efecto invernadero son comparados con los datos del gas LP usado en un calentador convencional para reflejar la ventaja de sustituir esta tecnología por el uso de energía solar. Los gases de efecto invernadero producidos por el sistema son igual a 532,8 kg CO. Usando la instalación de la tecnología renovable se consigue ahorrar el combustible fósil. Durante la vida útil del colector solar se puede evitar el consumo de 6355,64 kg de gas LP, que es igual a 18812,69 kg CO2 emitidos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61361</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61361/files/TAZ-TFM-2017-111.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Energías Renovables y Eficiencia Energética</dc:subject>
+    <dc:title>Análisis del ciclo de vida de un calentador solar con sistema de almacenamiento térmico con cambio de fase</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Life cylce assessment of a solar collector with phase change material as thermal storage system</dc:title>
+</oai_dc:dc>

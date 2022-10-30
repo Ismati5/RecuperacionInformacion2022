@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Albajez García, José Antonio</dc:contributor>
+    <dc:contributor>Díaz Pérez, Lucía Candela</dc:contributor>
+    <dc:creator>Camino Ferró, Javier</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>El objetivo de este trabajo consiste en el desarrollo de una estructura de soporte para un sistema metrológico de alta precisión, compuesto por un nanoposicionador piezoeléctrico 2D (ejes X-Y) y un sensor confocal 1D para el eje Z.  Es necesario que este sistema mida con una precisión submicrométrica, por ello se ha prestado especial atención al efecto de la temperatura, optimizando el diseño y realizando los cálculos necesarios que esto implica. También se ha tenido en cuenta para el diseño final, las deformaciones provocadas por los propios esfuerzos de la estructura. Para llevar a cabo el diseño en principio se trabajó con bocetos de distintas ideas. Finalmente se determinó la opción que se consideró más adecuada de cara a optimizar la calidad de la medida. Para ello, se llevaron a cabo los estudios relacionados con la expansión térmica. De este modo, se ha realizado un diseño en el que se minimizan los efectos de la temperatura en la medida del sensor. También se estudió el grado en el que la temperatura pudiese afectar a muestras de distinto tamaño, de forma que, en caso de necesidad, pudiera ser corregido. Seguidamente, se analizó el diseño final con respecto a criterios de fabricación con el objetivo de adecuar el diseño a las capacidades del Servicio de Mecánica de Precisión de la Universidad de Zaragoza. El diseño CAD se ha realizado con el programa SolidEdge, así como el análisis de las deformaciones del sistema mediante el método de los elementos finitos. De este modo, se ha podido estimar la deformación total del sistema y saber si podría llegar a alterar la calidad de la medida.  Además del soporte para el sensor confocal, se ha realizado el diseño de un portamuestras que se fija en el nanoposicionador, incluyendo un sistema de agujeros y topes para que el posicionamiento de las muestras a medir sea repetible. Por último, aprovechando el sistema ya diseñado, se realizó una adaptación para poder utilizarlo también con un sensor táctil. El procedimiento de desarrollo de este segundo soporte fue similar al del sensor confocal, debiendo realizar todos los cálculos necesarios para obtener una precisión de medida óptima.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/75070</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/75070/files/TAZ-TFG-2018-3701_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/75070/files/TAZ-TFG-2018-3701.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Diseño de un soporte metrológico para sensor confocal</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Design of a metrological measuring setup for a confocal sensor</dc:title>
+</oai_dc:dc>

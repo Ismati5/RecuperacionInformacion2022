@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Zarazaga Soria, Francisco Javier</dc:contributor>
+    <dc:creator>Borjas Borjas, Bernardo José</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Este Trabajo Fin de Máster se dedicó al desarrollo de una arquitectura para la generación automática de metadatos geográficos para recursos de Web, con aspecto extensible y flexibilidad para la adición de nuevas características. Para el estudio de un caso de uso se desarrolló un prototipo que se empleó para la generación de registros OGC CSW que describen a los recursos Web. El primer experimento realizado para la validación del prototipo, sobre una muestra representativa de páginas Web principales de geoportales,  ha demostrado que el principal problema era la generación de información sobre la extensión geográfica, ya que las páginas Web no suelen contener metadatos geográficos específicos. Por esta razón, el sistema se complementó con el uso de una herramienta NER que aplica algoritmos NLP para la extracción de nombres de lugares del texto y el desarrollo de un componente para la estimación de la extensión geográfica (Bounding Box) que contempla los nombres geográficos encontrados dentro de los diferentes elementos de una página Web. Los resultados del segundo experimento pueden indicar que usando una heurística muy simple (basada en la frecuencia de nombres geográficos y la agrupación según la pertenencia a una unidad de organización territorial) se puede estimar la extensión geográfica, con un nivel satisfactorio, en casi un 70%.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6788</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6788/files/TAZ-TFM-2011-149.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>metadatos</dc:subject>
+    <dc:subject>información geográfica</dc:subject>
+    <dc:subject>recuperación de información</dc:subject>
+    <dc:subject>metadata</dc:subject>
+    <dc:subject>geographical information</dc:subject>
+    <dc:subject>information retrieval</dc:subject>
+    <dc:subject>Máster Universitario en Ingeniería de Sistemas e Informática</dc:subject>
+    <dc:title>Generación automática de metadatos geográficos de páginas Web</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

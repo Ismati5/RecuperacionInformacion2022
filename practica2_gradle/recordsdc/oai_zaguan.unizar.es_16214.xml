@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gaspar Lorenz, Francisco José</dc:contributor>
+    <dc:creator>López Nieto, Alejandro</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Las aplicaciones de la mecánica de fluidos a la vida real son de gran importancia. En ámbitos tan distintos como el diseño de naves y la meteorología las ecuaciones de Navier-Stokes desempeñan un papel fundamental. A pesar de que son los ingenieros los que normalmente hacen uso de este modelo, se trata de un tema complejo desde el punto de vista matemático y que necesita una importante carga de análisis funcional para desarrollarse. Este trabajo pretende estudiar las herramientas matemáticas necesarias para resolver la ecuación de Stokes (una linearización de Navier-Stokes) y llevar a término una simulación mediante elementos finitos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/16214</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Matemática Aplicada; Área de Matemática Aplicada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/16214/files/TAZ-TFG-2014-1598.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>mecánica de fluidos</dc:subject>
+    <dc:subject>elementos finitos</dc:subject>
+    <dc:subject>Graduado en Matemáticas</dc:subject>
+    <dc:title>Métodos numéricos aplicados a la mecánica de fluidos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

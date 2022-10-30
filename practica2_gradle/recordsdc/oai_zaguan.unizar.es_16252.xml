@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Collados Collados, María Victoria</dc:contributor>
+    <dc:contributor>Vallés Brau,Juan Antonio</dc:contributor>
+    <dc:creator>Carro Rincón, Alejandro</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El propósito del siguiente trabajo es, como su título indica, diseñar lentes como ayuda para baja visión en visión excéntrica con trazado real de rayos. Las simulaciones las hemos llevado a cabo mediante el programa de trazado real de rayos OSLO, ya que nos permite estudiar gran variedad de parámetros ópticos en distintas situaciones, además el modelo de ojo utilizado en todos los casos es el de Navarro. Las lentes que hemos usado son hiperoculares de diferentes potencias, en concreto de +12, +16, +20 y +24D, y las excentricidades simuladas son de 5º, 10º, 15º y 20º. Posteriormente hemos rediseñado estos hiperoculares para que, convirtiéndolos en lentes astigmáticas, nos corrijan la refracción de lejos. A partir de aquí lo que hacemos es estudiar una serie de parámetros con ambos tipos de hiperoculares, y ver si realmente es beneficioso el hecho de incorporar esa corrección. Los parámetros que hemos estudiado son: campo en función de las aberraciones, campos de iluminación media y límite, curva MTF y curva AIM. Todas ellas las hemos comparado con las diferentes potencias y excentricidades. Tras esto llegamos al análisis y conclusión de resultados, de donde mayoritariamente resaltamos que a mayor grado de excentricidad en un ojo, mayor será la cantidad de esfera y astigmatismo. También concluimos en que a mayor grado de fijación excéntrica, y sobre todo a mayor potencia en el hiperocular, menor será el campo en que un paciente podrá diferenciar los objetos. En referencia a la MTF la potencia no tiene mayor relevancia, no así la excentricidad que hace disminuir la transmisión de contraste a medida que aumenta. Por últimos comentar que el hecho de que los hiperoculares incorporasen o no la corrección no nos deja unos resultados como para sacar conclusiones válidas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/16252</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Aplicada; Área de Optica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/16252/files/TAZ-TFG-2014-1619.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Óptica y Optometría</dc:subject>
+    <dc:title>Diseño de  lentes como ayuda para baja visión en visión excéntrica con trazado real de rayos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

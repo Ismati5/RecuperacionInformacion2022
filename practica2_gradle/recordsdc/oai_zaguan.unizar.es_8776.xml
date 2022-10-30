@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Lampl, Christoph</dc:contributor>
+    <dc:contributor>Fuentelsaz Gallego, Jesús</dc:contributor>
+    <dc:creator>Valero Rodríguez, Ignacio</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>-Introducción y descripción de los principales sistemas que conforman las DCT. Definición de caja de cambios de doble embrague (DCT). Breve historia de las DCT seguido por un análisis de las principales tecnologías que dominan el mercado actual.   -Desarrollo de una plantilla que permite agilizar el proceso de cálculo de engranajes. Creación de una plantilla Excel que permite agilizar el cálculo mediante la estructuración de todo el proceso, permitiendo la rápida comprobación de la viabilidad de modificaciones geométricas en pares de ruedas y ejes basándose en el cálculo aproximado de engranajes.   -Adaptación del método aproximado de cálculo de engranajes DIN 3990 T1 C. Comparación del método de cálculo de engranajes con medidas reales tomadas durante el desmontaje en el taller de una caja de cambios DSG. Análisis experimental y extracción de conclusiones que permiten elaborar un primer diseño más exacto.   -Introducción a la aplicación de las cajas de cambios en los vehículos eléctricos. Análisis de las posibilidades y futuro de la instalación de cajas de cambios en vehículos eléctricos. Pequeño ejemplo que busca demostrar de manera aproximada la mejora que éstas producen en el rendimiento del motor.  -Cálculo de engranajes de una caja de cambios de dos marchas para vehículo eléctrico. Aplicación de la plantilla desarrollada en el diseño de la disposición de una caja de cambios de doble embrague de dos marchas para un vehículo eléctrico.   -Modelado 3D de los elementos del engranaje de la caja de cambios con el programa Catia V5. Modelado parametrizado de ruedas dentadas y modelado de ejes.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8776</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería Mecánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8776/files/TAZ-PFC-2012-518.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/8776/files/TAZ-PFC-2012-518_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Análisis de la funcionalidad de cajas de cambios de doble embrague (DCT). Diseño de DCT con modificación del método de cálculo aproximado</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

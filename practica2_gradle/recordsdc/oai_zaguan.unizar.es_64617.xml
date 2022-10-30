@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Pérez Cabello, Fernando  </dc:contributor>
+    <dc:contributor>Borini Alves, Daniel</dc:contributor>
+    <dc:creator>Estacio Gandia, Beatriz</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Este trabajo ha consistido en el análisis del método de clasificación de imágenes basado en objetos (OBIA) para la identificación de elementos (teja, chapa, asfalto, piscinas) en diferentes áreas urbanas. Se emplean imágenes de muy alta resolución espacial obtenidas de la fotointerpretación de los núcleos rurales de Godojos, Langa del Castillo y Moneva, así como una imagen Pleiades del distrito Universidad de Zaragoza. Se establece un modelo de segmentación y clasificación mediante el software ERDAS Imagine basado en las características de los objetos de la imagen. La cartografía generada es validada y comparada con una cartografía derivada de las ortoimágenes de muy alta resolución mediante un muestreo aleatorio obteniéndose un grado de confianza aceptable (&gt;70%), siendo un método alternativo a los procesos de interpretación visual y clasificación a nivel de píxel.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64617</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio; Área de Análisis Geográfico Regional</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64617/files/TAZ-TFM-2017-1287.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Tecnologías de la Información Geográfica para la Ordenación del Territorio: Sistemas de Información Geográfica y Teledetección</dc:subject>
+    <dc:title>Clasificación digital basada en objetos a partir de ortoimágenes de alta resolución e imágenes Pleiades de zonas urbanas</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Object-based digital classification for high resolution orthoimages and Pleiades images of urban areas</dc:title>
+</oai_dc:dc>

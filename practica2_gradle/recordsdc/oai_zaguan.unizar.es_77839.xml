@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>González Val, Rafael</dc:contributor>
+    <dc:creator>Magallón Gracia, Ainoa</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>En el presente trabajo se analiza de varias formas el crecimiento de las empresas aragonesas durante el periodo desde 2005 hasta 2015 con tres cortes transversales del tiempo estudiado (2005-2010, 2010-2015 y 2005-2015) y para tres variables principalmente, estas son: el número de empleados, el total de ingresos de explotación en miles de euros y el activo total en miles de euros también. En primer lugar se realiza un estudio, aplicando la campana de Gauss, de la distribución de las empresas, llegando a la conclusión de que para ninguna variable y en ningún periodo de tiempo esta distribución es normal. Posteriormente se realiza primero un análisis paramétrico estimando por MCO una regresión para cada corte transversal y para diferentes parámetros mostrando los resultados obtenidos en tablas, consecutivamente se lleva a cabo un análisis no paramétrico utilizando el estimador Nadaraya-Watson, así obtenemos para cada variable y cada periodo conclusiones analizadas en gráficos comparando la variable estimada con la recta del ajuste lineal obtenido en la sección del análisis paramétrico. Para concluir el estudio, se realizan una serie de conclusiones respecto a los resultados obtenidos mediante los distintos análisis aplicados a las tres variables y a los tres cortes transversales del periodo a estudiar.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/77839</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Análisis Económico; Área de Fundamentos del Análisis Económico</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/77839/files/TAZ-TFG-2018-2201.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Finanzas y Contabilidad</dc:subject>
+    <dc:title>Análisis del crecimiento de las empresas aragonesas durante la década 2005 - 2015</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Analysis of the growth of Aragonese companies during the decade 2005 - 2015</dc:title>
+</oai_dc:dc>

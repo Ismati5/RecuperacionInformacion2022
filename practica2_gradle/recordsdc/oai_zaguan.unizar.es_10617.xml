@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Casas Millán, Roberto</dc:contributor>
+    <dc:contributor>Alastruey Benedé, Jesús</dc:contributor>
+    <dc:creator>Gómez Duro, Pablo</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El proyecto ha consistido en el desarrollo de un backend para una plataforma de enrutamiento basado en políticas, cortafuegos y control de navegación web que se instalará en un sistema empotrado. El origen del proyecto surge por la necesidad de integrar varios productos, desarrollados anteriormente por la empresa, en un mismo sistema. Dichos productos proporcionan funcionalidades de enrutamiento, cortafuegos, traducción de direcciones, redes privadas virtuales (VPN), calidad de servicio (QoS), proxy de navegación web y análisis de tráfico, además de otros servicios de red básicos como son la asignación de direcciones y resolución de nombres dentro de una red. El trabajo realizado se ha centrado en proporcionar una abstracción de la configuración del sistema a través de una base de datos relacional para que posteriormente se desarrolle un frontal de administración web usando dicha base de datos como interfaz con el resto del sistema. Dicha abstracción se implementa mediante una base de datos diseñada para almacenar todo lo necesario para configurar el sistema, es decir, datos de configuración, reglas de filtrado de paquetes, reglas de enrutamiento, etc. Partiendo de los datos de configuración almacenados en la base de datos, se ha desarrollado el programa que genera la configuración adecuada para el sistema operativo y el software utilizado, y que es regenerada en el arranque del sistema o cada vez que se realice un cambio en la configuración. Para la implementación de la plataforma se ha usado el sistema operativo Linux como base. Linux proporciona todas las herramientas necesarias para implementar la mayor parte de las funcionalidades de red y es lo suficientemente estable para un sistema de este tipo. El resto de servicios se han implementado usando otros proyectos de software libre como OpenVPN, Squid, Dnsmasq, LSM, Ntop, Collectd, etc.  Además de  los servicios de red más usuales (enrutamiento, filtrado de paquetes o traducción de direcciones), se ha dotado al sistema de capacidades más avanzadas con el objetivo de mejorar la gestión del tráfico de red (aprovechamiento de ancho de banda, redundancia, tolerancia a fallos…), como por ejemplo: - Monitorización y balanceo de tráfico dirigido hacia Internet entre varios enlaces. - Agregación de varias conexiones VPN punto a punto enrutadas por varios enlaces. - Balanceo de tráfico de entrada a nivel DNS</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10617</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Arquitectura y Tecnología de Computadores</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10617/files/TAZ-PFC-2013-287.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>firewall</dc:subject>
+    <dc:subject>cortafuegos</dc:subject>
+    <dc:subject>linux</dc:subject>
+    <dc:subject>routing</dc:subject>
+    <dc:subject>enrutamiento</dc:subject>
+    <dc:subject>sqlite</dc:subject>
+    <dc:subject>redes</dc:subject>
+    <dc:subject>alta disponibilidad</dc:subject>
+    <dc:subject>redundancia</dc:subject>
+    <dc:subject>vpn</dc:subject>
+    <dc:subject>dns</dc:subject>
+    <dc:subject>proxy web</dc:subject>
+    <dc:subject>tolerancia a fallos</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Configuración de servicios de red de un dispositivo empotrado mediante una base de datos</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

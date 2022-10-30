@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Castejón Herrer, Luis</dc:contributor>
+    <dc:creator>Segura Moreno, Jesús</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>En este presente Trabajo Fin De Máster se ha desarrollado un análisis numérico comparativo. En el cual, se ha optimizado el pilar B de un vehículo en base a unos determinados criterios establecidos en el ensayo de colisión lateral descrito por la directiva 97/26/CE. Para todo este proceso de análisis comparativo se ha utilizado el Método de los Elementos Finitos basados en técnicas de integración explicita. Por medio del cual, se han realizado varias simulaciones variando el material del cual está compuesta la geometría del pilar B.  Para estas simulaciones se ha empleado tanto un modelo detallado de un automóvil como un modelo de la barrera deformable, el cual se ha creado conforme a los criterios definidos en la directiva.  El objetivo de este proceso de optimización, ha sido obtener configuración óptima para el pilar B en base a criterios de seguridad para los ocupantes. Para ello, se han comparado deformadas, energías, deformaciones plásticas que se han producido en el pilar B para las diferentes configuraciones analizadas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31435</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería e Infraestructura de los Transportes</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31435/files/TAZ-TFM-2014-666_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/31435/files/TAZ-TFM-2014-666.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>optimización</dc:subject>
+    <dc:subject>pilar b</dc:subject>
+    <dc:subject>directiva 97/26/ce</dc:subject>
+    <dc:subject>Máster Universitario en Sistemas Mecánicos</dc:subject>
+    <dc:title>Optimización del pilar B de un automóvil en base a la directiva 96/27/CE</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

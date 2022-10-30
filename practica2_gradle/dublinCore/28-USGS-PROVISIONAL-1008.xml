@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<csw:Record xmlns:csw="http://www.opengis.net/cat/csw/2.0.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ows="http://www.opengis.net/ows" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:language>es</dc:language>
+  <dc:identifier>28-USGS-PROVISIONAL-1008</dc:identifier>
+  <dc:creator>Tom Kress</dc:creator>
+  <dc:description>This dataset is a TIFF image that portrays elevation as a color shaded relief map of the state of Alaska.</dc:description>
+  <dc:language>eng</dc:language>
+  <dc:source>digital</dc:source>
+  <dc:subject>Color shaded relief map</dc:subject>
+  <dc:subject>2600 - Topography</dc:subject>
+  <dc:title>Alaska color shaded relief image</dc:title>
+  <dcterms:accessRights/>
+  <dcterms:issued/>
+  <dcterms:spatial>Alaska</dcterms:spatial>
+  <dcterms:spatial>US02 = Alaska</dcterms:spatial>
+  <dcterms:temporal>1996</dcterms:temporal>
+  <ows:BoundingBox>
+    <ows:LowerCorner>-180.0 50.0</ows:LowerCorner>
+    <ows:UpperCorner>-130.0 72.0</ows:UpperCorner>
+  </ows:BoundingBox>
+</csw:Record>

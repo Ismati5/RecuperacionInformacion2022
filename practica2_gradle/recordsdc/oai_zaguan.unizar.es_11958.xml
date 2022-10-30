@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bono Nuez, Antonio</dc:contributor>
+    <dc:contributor>Heys, David</dc:contributor>
+    <dc:creator>Lázaro Civil, Miguel Ángel</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>This project will explain principles and the construction of an infrared curtain. An infrared curtain is a safety device usually consisting in two columns with infrared emitters on one and infrared receivers on the other. Lining these columns one in front the other and controlling the electronic components' behaviour it is possible to form an invisible barrier and determine when something has gone through it. Determining the requirements and the limitations for both the project and the human body is the first step. Then taking into account this requirements different ideas on how to determine when the curtain is crossed with advantages and disadvantages will be shown. Also, some hardware solutions to achieve the result are analysed. Once all the hardware parts are chosen the software is programmed according to it. The program will be explained and commented.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/11958</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/11958/files/TAZ-PFC-2013-466.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/11958/files/TAZ-PFC-2013-466_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>infrared curtain</dc:subject>
+    <dc:subject>light barrier</dc:subject>
+    <dc:subject>safety device</dc:subject>
+    <dc:subject>pic</dc:subject>
+    <dc:subject>pic16f1829</dc:subject>
+    <dc:subject>microcontrolador</dc:subject>
+    <dc:subject>sistema de detección de objetos</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electrónica Industrial)</dc:subject>
+    <dc:title>Infrared curtain</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

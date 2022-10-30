@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Brosed, F. J.</dc:contributor>
+    <dc:contributor>Velázquez Sancho, Jesús</dc:contributor>
+    <dc:creator>Moreno García, Enrique José</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Este proyecto esta enmarcado en el ámbito del diseño y la fabricación y orientado a la docencia. Su objetivo es el del desarrollo de material docente para su uso en prácticas informáticas de diversas asignaturas orientadas a los procesos de fabricación por moldeo. Esto tendrá como resultados la adquisición de conocimientos prácticos por parte de los alumnos en procesos de simulación de moldeo. Para ello en este proyecto se han desarrollado cuatro tipos de documentos docentes que en la memoria se explican. Dos de ellos son dos tutoriales/prácticas de dos tipos de simulación de moldeo: en molde de arena y por inyección. El tercero es un manual de ayuda para orientar y resolver dudas sobre la realización de las simulaciones con el software informático. Como cuarto y último documento se ha desarrollado un trabajo práctico para que se pueda evaluar los conocimientos prácticos adquiridos por el alumno. Además, para la implantación de estas prácticas docentes, se ha realizado un estudio de tiempos con el fin de saber el tiempo aproximado que costaría realizar los tutoriales/prácticas y el trabajo práctico. Por último se ha hecho un análisis de las asignaturas a las que este proyecto va orientado con el fin de saber que objetivos y resultados de aprendizaje satisface este proyecto.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10527</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10527/files/TAZ-PFC-2013-225.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/10527/files/TAZ-PFC-2013-225_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>simulación de moldeo</dc:subject>
+    <dc:subject>simulación con quikcast</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Planificación, análisis y desarrollo de material docente para simulaciones de procesos de moldeo</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

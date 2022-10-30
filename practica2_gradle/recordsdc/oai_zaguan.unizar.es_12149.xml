@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Asensio Diago, José Ramón</dc:contributor>
+    <dc:creator>Peiró Val, Alberto</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El proyecto consiste en realizar un sistema de adquisición de datos para los experimentos de detección de materia oscura que se llevan a cabo en la Facultad de Ciencias de Zaragoza. Para este caso, por sus características, se plantea una solución en la que se construyen conjuntos con SBC1 Raspberry Pi y SMC2 Arduino que integran, de una forma modular, todos los equipos a una red Ethernet. Consiguiendo así un sistema con un alto grado de flexibilidad. El proyecto también incluye el desarrollo de los programas necesarios para el uso de estos conjuntos. El software ha sido realizado en su mayor parte en Python por ser un lenguaje sencillo y fácilmente adaptable a cualquier cambio que surgiese en el proyecto. Comprende desde una interfaz gráfica de usuario, al uso de sockets TCP/IP para la red Ethernet, un servidor que hace de puente con el puerto serie y los programas para el micro-controlador Arduino, estos últimos en C, para la digitalización de las señales, comunicación, y control en bucle abierto de un motor paso a paso.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12149</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12149/files/TAZ-PFC-2013-573.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>adquisición de datos</dc:subject>
+    <dc:subject>linux</dc:subject>
+    <dc:subject>python</dc:subject>
+    <dc:subject>arduino</dc:subject>
+    <dc:subject>raspberry pi</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Desarrollo e implantación de un sistema de adquisición de datos y monitorización para un sistema de detección de materia oscura</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

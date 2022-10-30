@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Fuchs, Marcus</dc:contributor>
+    <dc:contributor>Manzano Martínez, Sara</dc:contributor>
+    <dc:contributor>Monne Bailo, Carlos</dc:contributor>
+    <dc:creator>Jarque Catalán, Luis</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Los modelos de representación de edificios son una herramienta importante para simular su comportamiento dinámico. La creación de dicho modelo requiere una gran labor de esfuerzo y tiempo, pero el objetivo principal es el estudio de la influencia de los parámetros sobre el edificio para su control o mejora. Hasta el momento se han utilizado los perfiles de usuario aplicando lo establecido en la norma DIN 18599 y SIA 2014 para estimar las cargas internas del edificio debidas a personas, máquinas y luz y con ellas se simula el comportamiento energético del edificio. Este proyecto aborda la estimación de los parámetros debido a cargas internas a partir de medidas reales de energía consumida de calefacción. La optimización consiste en un proceso iterativo de calibración del resultado de energía de calefacción de la simulación del modelo con datos reales de consumo. Este proceso se realiza mediante tres métodos. El primer método corresponde a una función implementada dentro del programa de simu- lación Dymola. El segundo método es un programa desarrollado con Matlab que permite acoplar Dymola para la optimización de parámetros. El tercero consiste en el desarrollo de un algoritmo de Matlab que implementa el método matemático de Gauss-Newton por pasos. Tras el desarrollo y aplicación de los métodos correspondientes se estudia su comportamien- to sobre el modelo del edificio de referencia. El estudio sobre uno o varios parámetros del modelo de usuario permite obtener los resultados del proyecto y compararlos. Mediante el análisis de sensibilidad se estudia la dependencia entre parámetros del modelo de usuario y gracias a los resultados se concluye que los dos programas desarrollados con Matlab conver- gen con la solución óptima en menos tiempo y con menos iteraciones que Dymola. El proyecto se ha desarrollado en el Centro de Investigación E.ON para el Instituto de Eficien- cia Energética en Edificios y Clima Interior de Aachen (Alemania) en el ámbito del desarrollo de una herramienta de planificación integral de energía para un campus de Alemania. El pre- sente proyecto puede ayudar en la estimación de parámetros de los edificios estudiados.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10562</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10562/files/TAZ-PFC-2013-251.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>optimización de parámetros</dc:subject>
+    <dc:subject>matlab</dc:subject>
+    <dc:subject>dymola</dc:subject>
+    <dc:subject>algoritmo de optimización</dc:subject>
+    <dc:subject>simulación dinámica</dc:subject>
+    <dc:subject>análisis de sensibilidad</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Algoritmo de simulación de Dymola en Matlab para investigación de modelos de usuario deterministas en su aplicación a edificios</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

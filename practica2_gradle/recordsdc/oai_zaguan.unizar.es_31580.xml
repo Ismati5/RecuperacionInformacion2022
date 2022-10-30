@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sola Martínez, Daniel</dc:contributor>
+    <dc:contributor>Peña Torre, José Ignacio</dc:contributor>
+    <dc:creator>García Girón, Antonio</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El objetivo principal de este proyecto es desarrollar un método eficiente para la mecanización de superficies de cerámicas avanzadas y vitrocerámicas con propósitos funcionales, como por ejemplo para que sirvan de alojamiento a sensores, guías, sujeciones, etc. Para ello se ha modificado el método convencional de mecanizado en aire colocando un medio líquido auxiliar sobre la pieza a mecanizar. La presencia del fluido aporta algunas ventajas, como son la mejor eliminación del material arrancado, o la utilización de las ondas de choque producidas al incidir el haz láser en el fluido para generar un mayor daño en la superficie a mecanizar. Previamente se han realizado pruebas de mecanizado en aire que servirán de comparación en el análisis con los resultados obtenidos en los mecanizados asistidos por fluidos. En los marcajes asistidos con agua se han variado los parámetros de mecanizado para determinar el efecto que tienen estas variables y así obtener las condiciones óptimas de marcado. Se han realizado experimentos en tres materiales distintos (Vitrocerámica SCHOTT Ceran® Suprema, alúmina y circona 8YSZ) para comprobar los efectos en distintos tipos de cerámica, y variado los espesores de la capa de líquido para comprobar el efecto en la eficiencia del mecanizado. Se ha utilizado un líquido más viscoso para comprobar el efecto de la viscosidad del líquido auxiliar en el mecanizado. Las piezas ensayadas se han caracterizado mediante microscopía confocal, óptica y electrónica de barrido y se han realizado análisis mediante técnicas de espectroscopia Raman, para identificar posibles cambios estructurales en los materiales.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31580</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Ciencia de los Materiales e Ingeniería Metalúrgica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31580/files/TAZ-PFC-2014-530.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>láser</dc:subject>
+    <dc:subject>vitrocerámica</dc:subject>
+    <dc:subject>cerámicas avanzadas</dc:subject>
+    <dc:subject>líquidos</dc:subject>
+    <dc:subject>mecanizado</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Mecanizado por láser de cerámicas avanzadas y vitrocerámicas en medios líquidos</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

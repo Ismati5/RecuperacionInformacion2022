@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Monge Prieto, Rosa María</dc:contributor>
+    <dc:contributor>Fernández, Luis J.</dc:contributor>
+    <dc:creator>Cabrera Arenas, Mirko Antonio</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El marco general de este proyecto se sitúa sobre uno mayor cuyo objetivo es el desarrollo de nuevas herramientas de cultivo celular basadas en microtecnologías para la consecución de nuevas vías de ensayo y experimentación que permitan reducir la experimentación con animales y optimizar el desarrollo de nuevos fármacos a través de pruebas de test masivo. De este modo se buscan generar nuevas técnicas para la experimentación “in-vitro” en condiciones lo más parecidas a las “in-vivo”. Estas condiciones “in-vivo” se simulan mediante el desarrollo de chips microfluídicos basados en tecnologías de litografía de SU-8. Estos chips, donde se depositan las células vivas, tienen un tamaño de 1 cm de largo por 1 cm de ancho y con una disposición interna (cámaras, canales, etc.) aún menor (del orden de los 100 micrómetros o inferior). He aquí donde se ha de enmarcar el objetivo del presente trabajo: el desarrollo de una interfaz mecánica que conecte los elementos externos necesarios para la supervivencia de las células (fluidos, nutrientes, oxígeno, etc.) con los microcanales y cámaras que contienen a los organismos vivos. Esto es, diseñar y fabricar unos encapsulados que conecten el entorno macro manipulado por el investigador con las condiciones micro en las que viven las células.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/7678</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería Mecánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/7678/files/TAZ-PFC-2012-315.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>encapsulados</dc:subject>
+    <dc:subject>microfluídica</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Desarrollo de encapsulados para chips de microfluídica dedicados al cultivo celular</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

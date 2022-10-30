@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mir Bel, Jorge</dc:contributor>
+    <dc:contributor>Peña Llorente, José Ángel</dc:contributor>
+    <dc:creator>Jiménez Muro, Fernando</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El procesado de hortalizas en V Gama conlleva la aplicacion de un tratamiento termico suave (entre 65 y 90 C) seguido de un enfriamiento rapido, para prolongar su vida util en refrigeracion y mantener una alta calidad organoleptica. La eficacia termica de los equipos utilizados en el procesado condiciona la eleccion de la combinacion tiempo-temperatura mas adecuada para conseguir el grado de pasteurizacion deseado, minimizando la degradacion del producto. Para cuantificar esta dependencia, se determinaron los coeficientes termicos de diferentes equipos utilizados en la industria alimentaria: un cocedero de camisa de agua, un horno mixto convectivo de restauracion, un tunel de enfriamiento por aire y un bano de agua y hielo. Dicha determinacion se llevo a cabo a partir de perfiles experimentales de temperatura. Los coeficientes termicos y los perfiles experimentales de temperatura se incorporaron posteriormente a un modelo matematico, implementado con un programa de elementos finitos  (COMSOL Multiphysics 3.4), que permitio optimizar el valor de dichos coeficientes y simular un ciclo completo de calentamiento-enfriamiento para el producto, proporcionando tambien, tras incorporar los parametros de termodestruccion correpondientes,*	el tiempo de calentamiento necesario para obtener una correcta pasteurizacion: una reduccion de 7 unidades logaritmicas en la poblacion de Listeria Monocytogenes, un microorganismo patogeno presente en hortalizas,*	el tiempo de enfriamiento necesario para alcanzar la temperatura de almacenamiento (4 C) y *	la inactivacion de la enzima polifenoloxidasa (PPO), responsable del pardeamiento enzimatico en frutas y hortalizas. El modelo se valido con pencas de acelga (Beta vulgaris var. Cicla) envasadas al vacio, determinandose experimentalmente los perfiles de temperatura y la actividad final de la enzima PPO a fin de encontrar el tratamiento optimo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6108</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Ingeniería Química</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6108/files/TAZ-PFC-2011-338.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6108/files/TAZ-PFC-2011-338_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>v gama</dc:subject>
+    <dc:subject>industria alimentaria</dc:subject>
+    <dc:subject>caracterización térmica</dc:subject>
+    <dc:subject>polifenoloxidasa</dc:subject>
+    <dc:subject>elementos finitos</dc:subject>
+    <dc:subject>pasteurización de vegetales</dc:subject>
+    <dc:subject>Ingeniero Químico</dc:subject>
+    <dc:title>Caracterización térmica de equipos para el procesado de hortalizas en V Gama</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Artigas Maestre, José Ignacio</dc:contributor>
+    <dc:contributor>Barragán Pérez, Luis Ángel</dc:contributor>
+    <dc:creator>Machín Mindán, Ignacio</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El presente Trabajo Fin de Máster consiste en el diseño, modelado, fabricación y validación de un prototipo de un convertidor DC/DC elevador tipo “Boost”. El objetivo de este Trabajo es que este prototipo pueda ser utilizado como material didáctico para prácticas de Grado o de Máster y sobre el cual los alumnos puedan probar multitud de controles digitales, desarrollados por ellos mismos. El primer paso ha sido el diseñar, modelar y fabricar el convertidor de baja potencia, optimizando su diseño de tal forma que la PCB sea de un tamaño reducido. Como se comentaba anteriormente, el objetivo de este Trabajo es que la plataforma Hardware desarrollada pueda ser utilizada como material didáctico, por lo que existen una serie de anillas de test estratégicamente colocadas para permitir tener acceso a las señales y medidas más importantes. Posteriormente, siguiendo diversos métodos de cálculo, se han diseñado 5 reguladores con la misma topología de 2 ceros y 2 polos. De entre estos 5 reguladores se ha seleccionado el regulador que mejor comportamiento tiene frente a una serie de funciones de mérito. Estas funciones de mérito son GM, PO, |S|inf, |Zcl|inf, fB, |Gc*S|inf y Ki. A continuación, utilizando la placa de desarrollo Nexys2 de Diligent, se ha implementado el control digital en la FPGA. Para ello se ha diseñado un código en VHDL en la herramienta Xilinx ISE, el cual se ha verificado con la herramienta software ModelSIM. El diseño digital consta de la implementación del controlador seleccionado anteriormente, la implementación del protocolo de comunicaciones con el conversor analógico digital, la generación de la señal PWM de disparo del transistor de potencia y la gestión de las entradas/salidas de la placa de desarrollo Nexys2. Por último, para validar el correcto diseño del convertidor y del regulador implementado en la FPGA, se han tomado medidas experimentales, a partir de las cuales, se ha observado que los resultados obtenidos en simulación (Matlab y ModelSIM) son similares a los obtenidos experimentalmente.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31442</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31442/files/TAZ-TFM-2014-530.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>boost</dc:subject>
+    <dc:subject>fpga</dc:subject>
+    <dc:subject>Máster Universitario en Ingeniería Electrónica</dc:subject>
+    <dc:title>Diseño, implementación y control digital con FPGA de un convertidor elevador "Boost"</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

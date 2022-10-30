@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Arbonés Mainar, José Miguel</dc:contributor>
+    <dc:contributor>Lacruz Casaucau, Beatriz</dc:contributor>
+    <dc:contributor>Pérez Palomares, Ana</dc:contributor>
+    <dc:creator>Mompel Lancina, David</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El APOE es un gen polimórfico que tiene tres alelos (variantes) principales APOE2, APOE3 y APOE4. Cada individuo se clasifica en una de las tres variantes y el interés de su estudio radica en que la presencia de un alelo u otro tiene consecuencias fisiológicas profundas como aumento o disminución del riesgo de padecer enfermedades cardiovasculares o alzheimer. Los metabolitos son los productos finales de todos los procesos que se producen en las células y se estima que hay más de 2.000 diferentes que pueden ser sintetizados de forma endógena. Las cantidades presentes de un determinado metabolito reflejan la adaptación del organismo ante un determinado estímulo (enfermedad, alimentación, variación genética, etc).  El objetivo del trabajo consiste en la construcción de modelos que permitan determinar qué metabolitos están asociados con cada una de las tres variantes del gen APOE. Su determinación nos permitirá conocer los cambios metabólicos que se asocian a la presencia de cada uno de los alelos del gen.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64597</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Métodos Estadísticos; Área de Estadística e Investigación Operativa</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64597/files/TAZ-TFM-2017-1346.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Modelización e Investigación Matemática, Estadística y Computación</dc:subject>
+    <dc:title>Técnicas de estadística multivariante para el estudio de la variabilidad metabólica asociada a la presencia de los distintos alelos del gen APOE</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Metabolic variability of the human Apolipoprotein E (APOE): a multivariate statistical analysis</dc:title>
+</oai_dc:dc>

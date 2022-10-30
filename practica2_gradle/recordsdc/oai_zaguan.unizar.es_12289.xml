@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Aznar, José Manuel</dc:contributor>
+    <dc:contributor>Borau Zamora, Carlos</dc:contributor>
+    <dc:creator>Herrera Martín, Aarón Xerach</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Este trabajo se ha desarrollado en el Departamento de Ingeniería Mecánica, dentro del área de Mecánica de Medios Continuos y Teoría de Estructuras. Su principal objetivo ha sido el desarrollo y aplicación de un modelo fenomenológico que reproduce el proceso de contracción celular. La migración celular tiene un papel fundamental en muchos procesos fisiológicos necesarios para el correcto funcionamiento del organismo. Alteraciones en su comportamiento pueden dar lugar a diferentes patologías, haciéndose especialmente importante en casos de metástasis celular o reparación de tejidos. Por tanto, se necesita un mejor entendimiento del proceso de migración celular para el desarrollo de nuevas terapias. Este mecanismo se divide en cinco procesos secuenciales, tales como la protrusión de pseudópodos en el frente celular, la creación de adhesiones focales, la proteólisis del substrato, la contracción celular y finalmente el desprendimiento y contracción de la parte trasera de la célula. Además, todo este proceso es regido por factores químicos, topográficos y mecánicos que influyen de manera directa en la respuesta celular. De las cinco fases que comprenden la migración celular y posibles estímulos que puede recibir la célula, el presente trabajo se basa en la contracción celular guiada por las deformaciones del substrato donde se encuentra embebida. Así, el desarrollo de este modelo permitirá incluirlo en un modelo más complejo de célula completa que permita una mejor intelección del proceso en su conjunto. El modelo fenomenológico propuesto, desarrollado mediante el Método de los Elementos Finitos, se basa en dos componentes elásticos situados en paralelo en el que, además, uno de ellos presenta capacidad de contracción dependiendo de las deformaciones a las que se somete la célula. Para la aplicación y validación del modelo se reproduce computacionalmente el experimento llevado a cabo por Mitrossilis et al. [1] en el cual se sitúa una célula entre dos microplatos de rigidez variable, permitiendo estudiar la fuerza generada y el cambio de forma de la misma. Adicionalmente, se aplica el modelo a una reproducción de una célula tumoral obtenida mediante microscopía confocal en el Centro de Investigación Médica Aplicada de la Universidad de Navarra, estudiando la influencia de diferentes propiedades elásticas del substrato en la contracción celular. Los resultados obtenidos muestran cómo la célula responde ante cambios de rigidez en su entorno y la influencia de diversos modelos de comportamiento tanto en el substrato como en la caracterización de la parte pasiva de la célula.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12289</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12289/files/TAZ-TFM-2013-794.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/12289/files/TAZ-TFM-2013-794_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>cell mechano-sensing</dc:subject>
+    <dc:subject>computational model</dc:subject>
+    <dc:subject>finite element model</dc:subject>
+    <dc:subject>abaqus</dc:subject>
+    <dc:subject>Máster Universitario en Ingeniería Biomédica</dc:subject>
+    <dc:title>Cellular response due to substrate stiffness variations: a phenomenological model</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

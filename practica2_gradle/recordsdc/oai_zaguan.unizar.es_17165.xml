@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Hauke Bernardos, Guillermo</dc:contributor>
+    <dc:creator>Bautista Gómez, Alvaro</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>La construccion de cualquier tipo de conjunto aeronáutico es posible gracias a la unión de diferentes elementos más sencillos. Las fijaciones y uniones aeronáuticas juegan un rol muy importante ya que la certificación (imprescindible en este sector) de todos los componentes, diseños y procesos impone exigencias técnicas muy elevadas y tolerancias muy estrechas en las estructuras aeronáuticas, las uniones bulonadas y remachadas representan zonas importantes de concentración de tensiones que pueden limitar la integridad estructural y la capacidad del conjunto a soportar cargas. Ademas, el gran numero de elementos de unión en estas estructuras supone un aumento considerable de la masa.   Es ampliamente conocido que la precisión en el ámbito de la aeronautica es muy costosa a nivel económico y tecnológico. Por tanto, si podemos permitirnos tolerancias menos ajustadas y menos precisas, sin influir sobre el correcto comportamiento de la unión, conseguiríamos una reducción de los costes.  El objetivo principal de este proyecto es analizar la influencia de defectos geometricos sobre el comportamiento en uniones tipicas aeronáuticas entre materiales compuestos y materiales mecánicos, es decir, su influencia sobre la resistencia mecánica de la unión. Objetivos específicos - explotar y obtener resultados unidimensionales a traves de un modelo analítico existente hecho en matlab para prodeceder a su posterior validación. - crear un modelo numérico tridimensional en abaqus, modelizar el comportamiento de la unión, explotar dicho modelo mediante cálculo por elementos finitos y obtener los resultados tridimensionales. - tratar ambos resultados (1-d y 3-d) para poder compararlos correctamente, obtener conclusiones adecuadas y validar ambos modelos. - realizar ensayos de tracción-compresión sobre probetas que simulen dicha unión para validar definitivamente los modelos. - realizar un estudio analítico (matlab) sobre la influencia del juego (agujero-bulon) en los resultados obtenidos en la primera etapa. - realizar un estudio analítico (matlab) sobre el proceso de contacto entre el bulon y el agujero de la unión.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/17165</dc:identifier>
+    <dc:language>fre</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/17165/files/TAZ-PFC-2014-522.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>unión atornillada</dc:subject>
+    <dc:subject>unión híbrida multimaterial</dc:subject>
+    <dc:subject>transferencia de carga</dc:subject>
+    <dc:subject>materiales compuestos</dc:subject>
+    <dc:subject>defectos mecánicos</dc:subject>
+    <dc:subject>aeronáutica</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Influencia de los defectos geométricos en el comportamiento de las uniones multimaterial en la aeronaútica - Influence des defauts geometriques sur le comportement des assemblages multi-materiaux dans l'aeronautique </dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

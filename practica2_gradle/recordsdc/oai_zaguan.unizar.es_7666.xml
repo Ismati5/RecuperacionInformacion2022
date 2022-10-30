@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Moreno Gómez, Francisco</dc:contributor>
+    <dc:creator>García Beatove, Jesús Eloy</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Se trata de la aplicación de estrategias para la reducción de emisiones de NOx en motores, siendo estas estrategias dos sistemas aplicados en el motor de estudio completamente diferentes pero compatibles como son el EGR y la Inyección de agua en el motor. En el caso del EGR tenemos una instalación específica diseñada y construida anteriormente para el motor, basada en un caudalímetro de cálculo con elementos de presión diferencial.  La función del alumno será darle funcionalidad al motor, calculando los diferentes factores que permitan la correcta utilización de éste y asegurando que las medidas obtenidas sean correctas. También deberá diseñar un sistema de códigos de programación que sean compatibles con el software que controla al motor, para un manejo automático (programable) tanto del cálculo de todas las variables de interés como del cambio de herramienta en el caudalímetro cuando sea necesario cuando el motor esta trabajando; facilitando al usuario el trabajo con él. En el apartado de Inyección de agua, será el alumno el que tenga que diseñar el mejor sistema de inyección para el mismo motor, definiendolo por partes y haciendo la búsqueda y selección de cada uno de los principales componentes que van a formar parte de la instalación. Este sistema debe ser compatible con el sistema de EGR ya instalado. Por lo tanto el alumno no sólo tendra que manejarse en un entorno teórico sino que deberá meterse en un entorno real de trabajo, contactando con las diferentes empresas e implicandose de lleno en la adquisición de los componentes necesarios, llegando hasta el paso de la compra de material. Su trabajo deberá ser eficaz en cuanto a conseguir los componentes con una buena relación de calidad-funcionalidad-precio, teniendo en cuenta los factores economicos, espaciales, medios disponibles, etc., del propio departamento.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/7666</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/7666/files/TAZ-PFC-2012-303_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/7666/files/TAZ-PFC-2012-303.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>nox</dc:subject>
+    <dc:subject>egr</dc:subject>
+    <dc:subject>inyección agua</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Aplicación de estrategias para la reducción de emisiones de NOx en motores</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

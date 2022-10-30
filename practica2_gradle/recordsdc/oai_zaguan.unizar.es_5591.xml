@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Navarro Elola, Luis</dc:contributor>
+    <dc:creator>González Berna, Miren</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Este proyecto pretende ser el resultado final de una investigación  llevada a cabo durante más de un año en el Área de Organización de Empresas de la Universidad de Zaragoza. El objetivo principal es aportar un conocimiento teórico acerca del Aprendizaje Organizacional, y aplicarlo a un estudio realizado dentro del sector de la construcción. Dicho estudio está orientado al análisis de la capacidad de aprendizaje de las organizaciones del sector de la construcción, basándose en dos aspectos principales: el comportamiento interno y las características de la organización.    El Aprendizaje Organizacional viene a ser fundamentalmente una actividad social donde el conocimiento y las habilidades son puestos en práctica, pasando a ser oportunidades para maximizar la capacidad de aprendizaje y su efectividad en el ámbito laboral.  En el análisis del  sector de la construcción se utiliza el método de los Mínimos Cuadrados Parciales el cual está basado en la implementación de un Modelo de Ecuaciones Estructurales. Gracias a él se estudian las relaciones causales entre los diferentes parámetros que forman el modelo (variables o constructos y los indicadores utilizados) y que permitirán sacar conclusiones sobre cuáles son los factores que intervienen en la capacidad de aprendizaje de las diferentes organizaciones del sector. Para poder realizar dicho análisis, son utilizados los datos recogidos en una encuesta en la que se consideran 109 organizaciones. Son utilizados un total de 98 indicadores que ayudan a controlar y medir cómo se ve afectada la organización con cada uno de ellos. Así, con Smart PLS (herramienta informática utilizada) se identifican cuáles son las características o comportamientos de la organización más significativos a la hora de fomentar la cooperación interorganizacional de la misma y de lograr una mayor ventaja competitiva. Con los resultados obtenidos en el análisis y aplicando los conocimientos aprendidos con la teoría, se extraen las conclusiones enfocadas a comprender las relaciones entre los parámetros y su relevancia.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5591</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Dirección y Organización de Empresas; Área de Organización de Empresas</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5591/files/TAZ-PFC-2011-043_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5591/files/TAZ-PFC-2011-043.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>aprendizaje organizacional</dc:subject>
+    <dc:subject>smartPLS</dc:subject>
+    <dc:subject>sector construcción</dc:subject>
+    <dc:subject>modelos ecuaciones estructurales</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>La cooperación interorganizacional como elemento de aprendizaje en las organizaciones que gestionan su conocimiento: el sector de la construcción en España</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Pérez Ximénez de Embún, Domingo</dc:contributor>
+    <dc:creator>Latorre Baños, Pablo</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El objetivo de este estudio es esclarecer la situación que vive el sector agroalimentario y su evolución reciente. Se centra en la Comunidad Autónoma de Aragón a nivel municipal; con la intención de encontrar agrupaciones de empresas y patrones comunes en distintas zonas de la Comunidad. Se estudia en los años 2008 y 2012 para establecer la comparativa entre dos años con rasgos diferentes; en el primero, la crisis económica estaba comenzando y en el segundo, la economía se encontraba plenamente dentro de dicha crisis. Para acceder a los datos se ha utilizado la base de datos SABI . Las variables utilizadas para la creación de los ratios han sido obtenidas de las cuentas de las empresas, por ejemplo: activo fijo, pasivo circulante, fondos propios, ingresos, BAII... Con estas variables se han formado los ratios del estudio: ratio de solvencia, liquidez, endeudamiento, fondo de maniobra, rentabilidad económica y financiera, etc. Para el análisis de estos datos en el mapa de Aragón se han utilizado dos programas. En primer lugar, un programa de información geográfica para la distribución de los resultados en los municipios del mapa. En segundo lugar, un programa de estadística espacial que determina  la existencia de correlación entre los datos de los municipios. Por último, y en función de los resultados obtenidos, el sector agroalimentario está soportando bien la crisis. Los peores datos se obtienen de los ratios de estructura porque los niveles de endeudamiento de los municipios sí que son especialmente negativos. No existen problemas de liquidez y solvencia a corto plazo y la rentabilidad económica y financiera tiene niveles aceptables a pesar de haberse visto disminuida en los últimos años.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/17132</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/17132/files/TAZ-TFG-2014-2313.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ratios financieros</dc:subject>
+    <dc:subject>Distribución geográfica</dc:subject>
+    <dc:subject>Correlación espacial</dc:subject>
+    <dc:subject>Sector agroalimentario</dc:subject>
+    <dc:subject>Aragón</dc:subject>
+    <dc:subject>Graduado en Finanzas y Contabilidad</dc:subject>
+    <dc:title>Distribución espacial de los ratios financieros del sector agroalimentario aragonés</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

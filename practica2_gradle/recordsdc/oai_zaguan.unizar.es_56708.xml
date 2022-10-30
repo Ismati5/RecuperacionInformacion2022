@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Giménez Esteban, Gregorio</dc:contributor>
+    <dc:contributor>Pérez Ximénez de Embún, Domingo</dc:contributor>
+    <dc:creator>Castro Aristizabal, Geovanny</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>El presente trabajo doctoral estima las brechas escolares entre los centros públicos y privados, de los países de América Latina que participaron en PISA 2012. Además, identifica las causas que dieron origen a las divergencias en rendimiento escolar. Para ello, se aplicó la técnica de descomposición de Oaxaca-Blinder, combinada con estimaciones de la Función de Producción Educativa a través de Variables Instrumentales, para solventar el problema de endogenidad. Por último, se empleó el método de imputación no paramétrico hot-deck para "sustituir" los datos sin registro existente en la base de datos (missing value).  A partir de los resultados obtenidos, se pudo  establecer unas pautas generales a la hora de explicar las diferencias en desempeño académico entre los colegios públicos y privados para los países latinoamericanos participantes en PISA 2012: Las diferencias en dotaciones individuales, familiares y escolares son los factores que dan origen a las brechas escolares existentes entre los colegios públicos y privados en PISA 2012, donde las primeras explican, en mayor medida, las desigualdades educativas, seguidas de las diferencias en dotación familiar y, en tercer lugar, escolar. Específicamente, para cada factor, las diferencias en dotaciones entre los estudiantes no repetidores de curso de las escuelas públicas y privadas, las diferencias de la educación de la madre y las diferencias en el gasto que realizan los colegios en la calidad de los materiales educativos, son los factores con un mayor peso.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/56708</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Estructura e Historia Económicas y Economía</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/56708/files/TESIS-2016-190.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>ciencias económicas</dc:subject>
+    <dc:subject>sector de la educación</dc:subject>
+    <dc:subject>modelos econométricos</dc:subject>
+    <dc:title>El desempeño educativo escolar en los países latinoamericanos participantes en PISA 2012</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

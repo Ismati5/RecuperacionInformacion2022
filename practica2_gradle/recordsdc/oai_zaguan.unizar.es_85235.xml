@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bayod López, Javier</dc:contributor>
+    <dc:contributor>Prados Privado, María</dc:contributor>
+    <dc:creator>Lairla García, Sara</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Los implantes dentales son unos dispositivos médicos destinados a ser los sustitutos de un diente perdido o ausente. Hacen la función de una raíz artificial y están fabricados de materiales biocompatibles como el titanio, que favorece una adecuada osteointegración implante - hueso. Hoy en día son muchas las personas que utilizan implantes dentales, pero existen casos en los que las personas rechazan los implantes. Este fenómeno puede deberse a numerosas causas, una de ellas, y la clave del estudio del proyecto, la densidad ósea.&lt;br /&gt;En este proyecto se estudia el comportamiento mecánico de un implante dental frente a cuatro densidades óseas distintas. Se analizan las zonas del implante y, principalmente, del hueso donde aparecen concentraciones de tensiones y se propondrán mejoras de diseño del implante para reducir estas concentraciones de tensiones.&lt;br /&gt;Además, también se realiza un estudio de mercado de los tipos de implantes dentales existentes. Para la realización del estudio se han creado modelos 3D y se ha realizado el ensamblaje de los mismos. A los modelos se les han asignado unas propiedades y condiciones de contorno que simulan un caso real de un implante frente a un hueso. Tras este análisis se han obtenido los resultados de tensiones del implante y del hueso con cada una de las cuatro densidades.&lt;br /&gt;En el análisis de los resultados de tensiones se observa una mayor vulnerabilidad en las zonas de la rosca del orficio del hueso, donde los valores de tensiones son mayores. En el implante las zonas más vulnerables son las zonas del pilar, justo por encima del implante, y la parte de la rosca, donde las tensiones superan el límite elástico del material. Por último, cabe destacar que el estudio realizado puede servir de ayuda para posteriores proyectos, ya que a día de hoy, no existe casi literatura relacionada con los análisis de implantes dentales frente a distintas densidades óseas.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/85235</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/85235/files/TAZ-TFG-2019-2864.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/85235/files/TAZ-TFG-2019-2864_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería en Diseño Industrial y Desarrollo de Producto</dc:subject>
+    <dc:title>Análisis del comportamiento mecánico del conjunto implante dental-prótesis ubicado en huesos con distintas densidades ante cargas fisiológicas</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Analysis of the mechanical behaviour of the dental implant-prosthesis assembly located in bones with different densities faced with physiological loads</dc:title>
+</oai_dc:dc>

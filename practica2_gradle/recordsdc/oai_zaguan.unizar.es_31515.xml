@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mercado Barraqueta, Daniel</dc:contributor>
+    <dc:creator>Miqueo Delgado, Adrián</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Este Trabajo de Fin de Grado tiene como objetivo el diseño y construcción de un dispositivo de medida de fuerzas, o dinamómetro, que cuente con un sistema de comunicación inalámbrica y un software de captura de datos por ordenador.  La principal aplicación será su utilización para labores docentes por el Área de Ingeniería Mecánica de la Escuela de Ingeniería y Arquitectura (EINA) de la Universidad de Zaragoza. El dispositivo incluye una célula de carga, un circuito electrónico de amplificación de tensión y conversión analógica/digital, así como un sistema de comunicación Bluetooth y un programa de captura de datos. Para su funcionamiento, la fuerza aplicada sobre la célula de carga se traduce en una pequeña diferencia de potencial, la cual es amplificada para llevar a cabo la conversión A/D y realizar el envío de la información al ordenador.vEn el desarrollo del proyecto se diseña y construye un prototipo del instrumento. En primer lugar, se realiza un estudio preliminar global que permita el diseño detallado posterior de cada uno de los sistemas que componen el dispositivo. Para el diseño de la célula de carga es importante del estudio del estado de deformaciones en los puntos donde se hayan de instalar los sensores extensiométricos, para lo cual se seleccionan y analizan una variedad de posibles geometrías y materiales. En cuanto a la parte electrónica, la gestión de la comunicación es de vital importancia, a fin de que el software de captura de datos pueda desarrollar su función satisfactoriamente. Por último, tras la fabricación y montaje del dispositivo se procede a la calibración del instrumento y la toma de medidas para comprobar que efectivamente se cumplen los objetivos marcados.Las conclusiones son que se ha alcanzado el objetivo del proyecto y los resultados obtenidos muestran que el instrumento funciona correctamente. El bajo coste total se considera adecuado y se proponen algunas mejoras del prototipo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31515</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería Mecánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31515/files/TAZ-TFG-2014-1945.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/31515/files/TAZ-TFG-2014-1945_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Diseño de un dinamómetro con comunicación inalámbrica</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

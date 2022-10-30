@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Cerezo Bagdasari, Eva</dc:contributor>
+    <dc:creator>Tomás Garrido, Patricia</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El trabajo propuesto consiste en el diseño de la interfaz de un videojuego para niños, destinado al tabletop NIKVision. El juego  del tipo “casa de muñecas” ha sido creado completamente desde el principio, desde la definición del concepto hasta el diseño y desarrollo de los elementos de la interfaz. Se ha diseñado el entorno 3D de la casa, así como la navegación y controles 2D del juego. Se han tenido muy en cuenta consideraciones de usabilidad y estéticas dentro del grupo de usuarios al que va destinada la aplicación, niños entre 3 y 7 años, así como las posibilidades de interacción que ofrece el tabletop NikVision.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9447</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9447/files/TAZ-TFG-2012-756.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>diseño 3d</dc:subject>
+    <dc:subject>videojuegos</dc:subject>
+    <dc:subject>animación</dc:subject>
+    <dc:subject>tabletop nikvision</dc:subject>
+    <dc:subject>giga</dc:subject>
+    <dc:subject>Graduado en Ingeniería en Diseño Industrial y Desarrollo de Producto</dc:subject>
+    <dc:title>Diseño de un juego de casa de muñecas para el tabletop interactivo NIKVision</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

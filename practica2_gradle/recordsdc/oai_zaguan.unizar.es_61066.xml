@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Serrano Pacheu, Ana</dc:contributor>
+    <dc:contributor>Masiá Corcoy, Belén</dc:contributor>
+    <dc:creator>Allué Visa, Marcos</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>Durante los últimos años, la realidad virtual y aumentada han cobrado un gran interés. La reaparición de estas tecnologías ha sido posible debido a la proliferación de dispositivos de realidad virtual (HMDs por sus siglas en inglés) de bajo coste, que ahora son accesibles al público gracias a los recientes avances en hardware y el abaratamiento de la potencia computacional. El concepto de realidad virtual hace referencia a la creación y visualización de contenido virtual intentando simular la manera en la que observamos el mundo real. Estos entornos generan en el usuario una sensación de inmersión, contribuyendo a enriquecer su experiencia. Por otro lado, el concepto de realidad aumentada hace referencia a la visualización de contenido virtual en el mundo real, con el objetivo de hacer el contenido real y virtual indistinguible. Sin embargo, todavía hay importantes obstáculos en ambas tecnologías que impiden el desarrollo de más aplicaciones y reducen la calidad visual de los resultados como, por ejemplo, baja resolución espacial, aberraciones cromáticas, o capacidades de procesamiento limitadas que producen desfases en la visualización (lag), lo que ocasiona mareos. En este proyecto se propone el uso de la percepción humana para intentar aliviar los problemas mencionados anteriormente y mejorar la inmersión. Dentro del área de la percepción en entornos inmersivos, se ha escogido estudiar el área de la percepción crossmodal, esto es, la interacción de diferentes sentidos cuando perciben el entorno. En particular, se analiza la influencia del sonido en la percepción de estímulos visuales.  Este trabajo contiene un estudio de la teoría de la percepción crossmodal aplicada a entornos inmersivos, incluyendo la implementación de un sistema completo para realizar estudios de usuario con distintos estímulos, el diseño de dichos estímulos (entornos virtuales), y el subsecuente análisis del comportamiento de los usuarios. Finalmente, también se ha implementado un sistema de realidad aumentada integrado en un HMD para estudiar la influencia de entornos reales en la percepción crossmodal.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61066</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61066/files/TAZ-TFG-2016-4531.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>Percepción crossmodal en entornos inmersivos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Crossmodal perception in immersive environments</dc:title>
+</oai_dc:dc>

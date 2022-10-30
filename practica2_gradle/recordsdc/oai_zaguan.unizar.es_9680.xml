@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Serraller Sánchez, Francisco</dc:contributor>
+    <dc:creator>Lanero Martínez, Montserrat</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El objetivo era analizar el efecto que tienen, sobre las columnas principalmente, la acción de fuerzas descentradas sobre un molde, en una máquina de inyección de plásticos, en las fases de cierre, inyección y compactación.  El análisis se realiza tanto desde un punto de vista teórico como experimental. Se ha explicado de qué partes consta y el funcionamiento de la unidad de cierre, así como los factores que influyen en la producción de piezas de plástico y las acciones desequilibradas que se dan durante el proceso de cierre e inyección.   En la parte teórica, se han utilizado las herramientas informáticas Moldflow (para la simulación de la inyección) y Pro/Engineer (tanto como herramienta de diseño como para el cálculo estructural).  En la parte experimental, se ha utilizado la extensometría (para el análisis de datos adquiridos durante los ensayos). Con Moldflow, se ha simulado el llenado y la compactación de una pieza, para hallar las cargas que afectan a las columnas y los platos de la máquina.  Con Pro/Engineer se han dibujado todos los elementos necesarios.  Mediante Pro/Mechanica se ha modelado la unidad de cierre a partir de las cargas obtenidas con Moldflow, para obtener los desplazamientos y las tensiones que sufren los componentes de la máquina en los procesos de cierre, inyección y compactación. Se han producido piezas de uno y cuatro llaveros, en una máquina de inyección situada en el T.I.I.P., y se han medido mediante unas galgas extensométricas, el estiramiento de las columnas exteriores de la máquina durante el proceso, con lo que se han obtenido las tensiones sobre dichas columnas. Para la obtención de datos se ha necesitado un amplificador para extensometría DBK43A, un módulo de adquisición de datos Daqbook/100 Series.  Con el software Strain Gage Calibration, se ha realizado la calibración de las galgas, y con Daqview, se ha visualizado su comportamiento.  Se ha estudiado así, cómo se reparte la fuerza de cierre entre las cuatro columnas externas.  También se ha inyectado una pieza con un molde diferente, como contraste con el anterior.    Una vez recopilados los resultados de las simulaciones y los ensayos, se ha procedido a su estudio y a la elaboración de las conclusiones, así como a analizar la aplicación de dichas conclusiones industrialmente, para la producción de piezas a otras escalas de fuerza o dimensiones, o bien, para la producción de piezas versionadas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9680</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería Mecánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9680/files/TAZ-PFC-2012-702.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/9680/files/TAZ-PFC-2012-702_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>inyección</dc:subject>
+    <dc:subject>plásticos</dc:subject>
+    <dc:subject>unidad de cierre</dc:subject>
+    <dc:subject>extensometría</dc:subject>
+    <dc:subject>simulación por inyección (moldflow)</dc:subject>
+    <dc:subject>inyección de plásticos</dc:subject>
+    <dc:subject>promechanica</dc:subject>
+    <dc:subject>simulación estructural</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Análisis teórico-experimental de las cargas descentradas en el proceso de inyección y su influencia sobre la máquina</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

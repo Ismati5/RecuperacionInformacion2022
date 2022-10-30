@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bernal Agustín, José Luis</dc:contributor>
+    <dc:creator>Pascual Magallón, Miguel</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>El objeto de este trabajo es la elaboración de una página web que permite estimar los costes de realizar una instalación combinada fotovoltaica y eólica sin conexión a red para unas coordenadas elegidas por el usuario de la aplicación. Esta herramienta genera varias soluciones y recomienda una al usuario. Está pensada para consumos típicos del sector agropecuario. Para su programación se ha hecho uso de HTML5 y JavaScript, con el apoyo adicional de CSS por cuestiones de estética.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61183</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61183/files/TAZ-TFG-2016-3463.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Herramienta para evaluar la conveniencia de instalar energías renovables en el sector agropecuario</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Tool for evaluating the convenience of installing renewable sources in the agricultural sector</dc:title>
+</oai_dc:dc>

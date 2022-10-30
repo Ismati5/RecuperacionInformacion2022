@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Albajez García, José Antonio</dc:contributor>
+    <dc:contributor>Artigas Maestre, José Ignacio</dc:contributor>
+    <dc:creator>Moranchel Marqueta, Javier</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El presente Trabajo Fin de Máster (TFM) se enmarca dentro del ámbito de un proyecto de investigación financiado por el Gobierno de Aragón con nombre “Desarrollo de una plataforma avanzada de hipoterapia y estudio de su beneficio terapéutico” y concedido al Grupo de Investigación TECNODISCAP, perteneciente al instituto de investigación I3A (Instituto de Investigación de Ingeniería de Aragón) de la Universidad de Zaragoza en colaboración con un equipo de profesionales fisioterapeutas de la Asociación AIDIMO.  El objeto principal del presente TFM será el diseño y modelado de una plataforma de cinemática paralela de tipo Gough Stewart para la emulación del movimiento del caballo. Asimismo, también será parte del alcance de este trabajo el diseño, fabricación y ensayo de uno de los actuadores mecánicos que formarán parte de dicha plataforma de cinemática paralela.  Para el modelado de la plataforma de movimiento, se utilizarán como consignas los patrones de movimiento reales obtenidos de la caracterización del movimiento tridimensional de la base de la cruz del caballo, fruto de resultados de estudios previos realizados en el estado del arte, así como del análisis de movimiento de la marcha del animal durante el “paso”. Los principales pasos seguidos para la elaboración del presente TFM han sido los siguientes: (1) Búsqueda de soluciones y alternativas de sistemas mecánicos en el estado del arte para la emulación del movimiento, (2) diseño conceptual de la plataforma de movimiento con la elección de la configuración geométrica deseada, (3) modelado en Matlab de la misma, (4) diseño y desarrollo de la plataforma, incluyendo todos los elementos mecánicos necesarios, (5) fabricación de uno de los actuadores incluyendo el montaje de sus elementos, y (6) realización de ensayos de dicho actuador.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10960</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10960/files/TAZ-TFM-2013-171.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/10960/files/TAZ-TFM-2013-171_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>actuador electromecánico</dc:subject>
+    <dc:subject>cinemática paralela</dc:subject>
+    <dc:subject>diseño mecánico</dc:subject>
+    <dc:subject>hipoterapia</dc:subject>
+    <dc:subject>Máster Universitario en Sistemas Mecánicos</dc:subject>
+    <dc:title>Diseño de una plataforma de cinemática paralela y fabricación de uno de sus actuadores</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

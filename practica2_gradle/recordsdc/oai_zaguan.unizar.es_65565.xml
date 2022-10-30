@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Director: Lanza, Gisela </dc:contributor>
+    <dc:contributor>Coordinador: Krämer, Alexandra</dc:contributor>
+    <dc:contributor>Yagüe Fabra, José Antonio</dc:contributor>
+    <dc:creator>Calejero Martinez, Juan</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Objetivo: Determinación de los errores geométricos producidos por las diferentes fuentes de error presentes en el proceso de tomografía computarizada. Estas fuentes de error deben ser estudiadas a fondo para poder conocer cada una de sus consecuencias en la medición de piezas y así obtener una gran precisión en las mediciones.  Metodología: Con un enfoque experimental, se deben idear y desarrollar métodos empíricos, basados en el uso de objetos de calibración, específicos para poder corregir cada uno de los efectos producidos por las fuentes de error de la máquina de tomografía computarizada. Cronograma: -Investigación de las fuentes de error geométrico de la máquina y de sus efectos sobre las mediciones.  -Desarrollo de objetos de calibración específicos y métodos empíricos para corregir cada error geométrico en particular. -Medida de los objetos de calibración con una máquina de medir por coordenadas, considerada más precisa. -Medida de los objetos de calibración con una máquina de tomografía computarizada. -Comparación de ambas medidas y determinación del error geométrico definitivo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/65565</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/65565/files/TAZ-TFG-2017-436.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Investigación sobre los errores de medida producidos en una máquina de tomografía computerizada para metrología dimensional</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Research about geometrical errors produced in a Computed Tomography system for dimensional metrology</dc:title>
+</oai_dc:dc>

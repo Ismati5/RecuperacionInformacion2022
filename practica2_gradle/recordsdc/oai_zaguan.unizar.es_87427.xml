@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Luzón Marco, Gloria</dc:contributor>
+    <dc:contributor>Cebrián Guajardo, Susana</dc:contributor>
+    <dc:creator>Enguita Vileta, Víctor</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>La búsqueda de materia oscura ocupa hoy en día un lugar importante en el ámbito de la física experimental, y es objeto de expectación en el ámbito de la física teórica. TREX-DM es uno entre los muchos experimentos diseñados con este propósito en las últimas décadas, pero promete abrir nuevos horizontes a la exploración, siendo uno de los primeros prototipos con sensibilidad suficiente a los WIMPs de baja masa. Como experimento de detección de eventos poco frecuentes, TREX-DM es muy sensible a la presencia de fondo, y requiere por ello de las condiciones especiales del Laboratorio Subterráneo de Canfranc, en el que se encuentra emplazado. Este trabajo está dedicado al estudio de dos de las componentes del fondo que, pese a todo, sigue presente en torno al detector, y debe ser estudiado meticulosamente para la correcta operación del experimento. Por un lado, el fondo de neutrinos permanece como fuente irreducible de fondo, y los cálculos en este trabajo indican su presencia como fondo para experimentos como TREX-DM cuando su sensibilidad sea lo suficientemente alta, e imposibilitando la búsqueda de WIMPs con secciones eficaces bajas. Por otra parte, el fondo de neutrones aparece como uno de los más peligrosos por su alta capacidad de penetración, y se ha realizado un estudio sobre el efecto de un blindaje moderador de neutrones específico mediante simulaciones, comprobando su eficacia para reducir el flujo externo de neutrones por debajo del nivel de otros fondos.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87427</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Teórica; Área de Física Atómica, Molecular y Nuclear</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87427/files/TAZ-TFG-2019-2680.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Física</dc:subject>
+    <dc:title>El experimento TREX-DM para la búsqueda de materia oscura de baja masa: estudio de los fondos más  problemáticos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">The TREX-DM experiment for low mass dark matter searches: worrisome background studies</dc:title>
+</oai_dc:dc>

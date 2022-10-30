@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Köhler, Ralf</dc:contributor>
+    <dc:contributor>Pocovi Mieras, Miguel</dc:contributor>
+    <dc:creator>Oliván Viguera, Aida</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Los canales de potasio regulados por calcio/calmodulina (KCaX) son importantes en diversas funciones fisiológicas/patofisologicas. Su manipulación farmacológica puede abrir nuevas vías para tratar enfermedades inflamatorias, neurológicas y cardiovasculares. Los bloqueadores existentes son insuficientemente potentes o selectivos, o no explotables comercialmente.  En este proyecto se caracteriza el efecto bloqueador de los trivanilatos FTVA, MOTVA y ClTVA en sistemas de expresión de KCa3.1 (3T3-L1) y sobreexpresión de KCa2.3 (COS7), empleando para ello la técnica electrofisiológica patch-clamp. De los tres trivanilatos, FTVA ha resultado ser un bloqueador de KCa3.1 con una EC50 de 43 nM, mientras que los compuestos relacionados MOTVA y ClTVA han mostrado poca potencia inhibidora. FTVA ha demostrado también su potencia bloqueadora en fibroblastos procedentes de pacientes. Este efecto bloqueador de FTVA puede antagonizarse con el activador SKA-31, de un modo dependiente de la concentración del bloqueador. FTVA se ha mostrado selectivo sólo para canales KCa3.1/KCa2.X, ya que los canales KCa1.1 (levemente relacionados con la familia genética KCa3.1/KCa2.X) han resultado insensibles a él. Respecto a los KCa2.3, en ellos FTVA tiene una potencia mayor que para KCa3.1, con una EC50 de 85 pM, y nuevamente el efecto bloqueador se ha podido antagonizar con SKA-31.  En conclusión, se ha identificado un nuevo bloqueador de canales KCa3.1/KCa2.X, de estructura química nueva y con una potencia 500 veces mayor en canales KCa2.3 que en KCa3.1. El centro de unión parece ser cercano o igual al usado por el activador SKA-31, por lo que FTVA parece ser un modulador negativo del “gating”. Esto supone un mecanismo de bloqueo y un centro de unión distintos a los de los bloqueadores conocidos. Por todo ello, FTVA pude ser una nueva herramienta para estudiar la función de los canales KCa3.1/KCa2.X en sistemas modelo e in vivo y puede ser farmacoterapéuticamente interesante en patologías con estos canales implicados.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8161</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8161/files/TAZ-TFM-2012-265.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>electrofisiología</dc:subject>
+    <dc:subject>electrofisiológico</dc:subject>
+    <dc:subject>patch-clamp</dc:subject>
+    <dc:subject>canales iónicos</dc:subject>
+    <dc:subject>kca3.1</dc:subject>
+    <dc:subject>kca2.3</dc:subject>
+    <dc:subject>kca1.1</dc:subject>
+    <dc:subject>trivanilatos</dc:subject>
+    <dc:subject>ftva</dc:subject>
+    <dc:subject>canales de potasio</dc:subject>
+    <dc:subject>calmodulina</dc:subject>
+    <dc:subject>Máster Universitario en Biología Molecular y Celular</dc:subject>
+    <dc:title>Caracterización Electrofisiológica de vanilatos como nuevos bloqueadores de los canales KCa3.1/KCa2.3</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

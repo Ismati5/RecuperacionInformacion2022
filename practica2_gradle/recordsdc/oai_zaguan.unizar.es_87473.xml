@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Puimedón Santolaria, Jorge Mario</dc:contributor>
+    <dc:contributor>Coarasa Casas, Iván</dc:contributor>
+    <dc:creator>Blancas Pozo, Adrián</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Los experimentos dedicados a la búsqueda de sucesos muy poco probables (como la posible interacción de la materia oscura con la materia ordinaria o la doble desintegración beta de los núcleos) utilizan blindajes que protejan los detectores de la radiación gamma emitida por la radiactividad del entorno. El 222Rn es un gas radiactivo natural perteneciente a la cadena el 238U que se encuentra en el aire. Por lo tanto, el 222Rn está en el interior de los blindajes y puede ser una fuente importante del fondo de los experimentos. La protección usual contra el 222Rn consiste en inyectar un flujo de nitrógeno en el interior de los blindajes para purgar el aire que lo contiene.&lt;br /&gt;El laboratorio subterráneo de Canfranc (LSC) suministra nitrógeno a los experimentos que lo solicitan, en particular al experimento ANAIS, dedicado a la búsqueda de materia oscura. ANAIS ha estimado que la concentración de 222Rn en el nitrógeno suministrado por laboratorio es &lt;0.6 Bq/m3, pero no hay una medida directa de la calidad de este nitrógeno. Nuestro objetivo consiste en medir la concentración o, al menos, mejorar esta cota superior. El procedimiento consiste en utilizar un espectrómetro  gamma de Ge hiperpuro ubicado en el LSC para medir la concentración de 222Rn en el nitrógeno que suministra el LSC.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87473</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Teórica; Área de Física Atómica, Molecular y Nuclear</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87473/files/TAZ-TFG-2019-2482.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Física</dc:subject>
+    <dc:title>Medida de la concentración de 222Rn en el nitrógeno suministrado por el Laboratorio Subterráneo de Canfranc</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Measurement of 222Rn concentration in the nitrogen supplied by the Canfranc Underground Laboratory</dc:title>
+</oai_dc:dc>

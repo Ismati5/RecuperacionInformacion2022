@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sáez Viñas, Pablo</dc:contributor>
+    <dc:contributor>Martínez Barca, Miguel Ángel</dc:contributor>
+    <dc:creator>Alastruey López, Diego</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>La angioplastia con balloon es uno de los procedimientos más habituales para solucionar los problemas de oclusión arterial. Durante este proceso se utiliza un globo (balloon) que es inflado en el interior de la arteria para restaurar la mayor sección de flujo sanguíneo posible. Durante este procedimiento se producen ciertas lesiones en el endotelio que favorecen la deposición y síntesis de colágeno, que puede provocar una nueva obstrucción en el torrente sanguíneo (remodelación constrictiva).  Este hecho se ve favorecido principalmente por la actividad de 3 grupos de sustancias: TGF-β, MMP y TIMP. La difusión de estas sustancias a través de las células arteriales es un factor determinante en la concentración final de colágeno en la zona afectada. En este trabajo se va a realizar una simulación de la difusión de estas sustancias, de forma que pueda determinarse la forma en que aumenta o decrece su concentración en la zona afectada tras la intervención.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31533</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31533/files/TAZ-TFG-2014-1879.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Estudio del proceso de remodelación de arterias debido a angioplastia</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

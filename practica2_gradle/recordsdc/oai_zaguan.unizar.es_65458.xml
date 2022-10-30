@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Pérez Bella, José María</dc:contributor>
+    <dc:creator>Pérez Acín, Sergio</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Uno de los muchos desafíos en la construcción de viviendas hoy en día es el diseño de las fachadas, las cuales están sometidas directamente a condiciones adversas producidas por fenómenos meteorológicos como el viento y la lluvia. La combinación de ambos fenómenos provoca el humedecimiento de las fachadas, generando de este modo numerosos síndromes en los edificios y molestias en sus usuarios. Para solventar los problemas ocasionados por la humedad, el Código de Edificación  de la Vivienda de México, no contempla ni estipula las condiciones de diseño que las fachadas deben cumplir en concordancia con la solicitación a la humedad estimada sobre las mismas, siendo el cálculo de dicha solicitación, un factor clave para asegurar el correcto diseño y operatividad de los cerramientos exteriores. Este estudio pretende obtener una caracterización precisa del grado de impermeabilidad requerido en tres estados mexicanos, mediante la aplicación de métodos internacionalmente aceptados, tratando así de mejorar y complementar los documentos técnicos empleados en el citado Código de Edificación. Se procederá al análisis y registro de datos diarios de velocidad y dirección de viento así como de la intensidad de precipitación en numerosas estaciones meteorológicas de los estados de Aguascalientes, Durango y Zacatecas. Mediante la aplicación de distintos métodos de cálculo se identificará la exposición de las fachadas a la lluvia batiente, así como a la presión eólica simultánea que acompaña a dicha exposición. Como resultado, se generará un mapa de isolíneas, a través del programa Allplan 2016, que permitirá identificar gráficamente las zonas más expuestas a sufrir estos síndromes de la edificación. Además, se comparan los resultados obtenidos con los de otros países ya analizados.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/65458</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería de la Construcción</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/65458/files/TAZ-TFG-2017-1545.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/65458/files/TAZ-TFG-2017-1545_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Estudio climático para la caracterización de las condiciones de exposición a la humedad atmosférica en fachadas de los Estados Unidos Mexicanos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Climate study for characterizing the risk of water penetration on facades of the United Mexican States</dc:title>
+</oai_dc:dc>

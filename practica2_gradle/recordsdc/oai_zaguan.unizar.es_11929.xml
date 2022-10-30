@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Carro Ceballos, Pedro Luis</dc:contributor>
+    <dc:creator>Rubiella Amorós, Vicente</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>En la cadena de transmisión de los dispositivos de RF, uno de los aspectos que más puede limitar al amplificador de potencia es su comportamiento no lineal, que causa una distorsión que aparece en la señal de salida amplificada al no existir una correspondencia lineal con la señal de entrada. Los efectos que subyacen pueden influir en gran medida en la operación de un sistema de comunicaciones degradando sus prestaciones, por lo que se tiene que prestar una especial atención a esta limitación.  Por ello existen varias técnicas que tratan de mitigar los efectos de tal no linealidad en el comportamiento del amplificador, entre ellos la predistorsión digital que introduce un bloque previo al amplificador (predistorsionador) que compensa su comportamiento no lineal, linealizando la respuesta global de la etapa de amplificación. Con aplicación en el presente proyecto a señales OFDM, entre ellas señales Mobile WiMAX, para el desarrollo del predistorsionador digital se requiere una fase de entrenamiento en la que se aplican técnicas matemáticas sobre los pares de señales de entrada y salida capturadas para modelar el amplificador de potencia, a partir de la que finalmente se puede obtener una función no lineal correspondiente al predistorsionador digital capaz de compensar en menor o mayor medida la respuesta no lineal del amplificador. Tales técnicas matemáticas se obtienen habitualmente mediante la pseudoinversión de matrices, que presenta limitaciones cuando se plantean modelos de orden de no linealidad y memoria altos y que son reducidas al aplicar la técnica de regularización de Tikhonov. Lo mismo sucede cuando se trata de modelar matemáticamente el comportamiento real del amplificador de potencia, siendo igual o más efectivas las técnicas de regularización de Tikhonov que la pseudoinversión de matrices, especialmente en escenarios en los que se modela el amplificador de potencia con altos órdenes de no linealidad y memoria. El objetivo final que se persigue es lograr una cadena de amplificación en la que el predistorsionador digital permita reducir la potencia introducida en los canales adyacentes obteniendo al mismo tiempo suficiente potencia en banda útil, permitiendo que el amplificador de potencia pueda operar en una zona de trabajo no lineal entregando una mayor eficiencia energética sin con ello comprometer la relación de linealidad entre entrada y salida en la amplificación de las señales involucradas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/11929</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/11929/files/TAZ-PFC-2013-456.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>predistorsión digital</dc:subject>
+    <dc:subject>regularización de tikhonov</dc:subject>
+    <dc:subject>amplificador de potencia</dc:subject>
+    <dc:subject>mobile wimax</dc:subject>
+    <dc:subject>ofdm</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicación</dc:subject>
+    <dc:title>Aplicación de métodos de regularización para predistorsión digital en sistemas WiMAX</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

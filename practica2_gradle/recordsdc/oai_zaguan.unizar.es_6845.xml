@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Brown, Ken</dc:contributor>
+    <dc:contributor>Neira Parra, José</dc:contributor>
+    <dc:creator>Burillo Carrera, Mateo</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El objetivo de este proyecto es el desarrollo de una aplicación para la gestión de espacios en grandes edificios empresariales donde se desean concertar reuniones entre agentes. Dicha aplicación manejará información relativa a la capacidad de los espacios para reuniones, su localización, calendarios de disponiblidad, e intentará minimizar el consumo energético en los edificios. Se efectuara para ello un estudio comparativo de una serie de algoritmos orientados a optimizar energéticamente la reserva y planificación de reuniones entre diferentes agentes en el entorno de grandes edificios empresariales. Las técnicas a considerar serán la programación basada en restricciones (constraint programming) y diferentes técnicas de búsqueda local: "iterated local search" y algoritmos genéticos. El algoritmo de programación con restricciones o 'constraint programming' se efectuará sobre el solver de software libre choco (http://www.emn.fr/z-info/choco-solver/), usando técnicas de "channeling" (varias representaciones de la estrucutura de datos para optimización de las restricciones a aplicar); mientras que las versiones de Iterated Local Search (sin retorno a soluciones pasadas e implementado una perturbación variable de la solución) y Algoritmos genéticos (monoparentales y con tamaño de población proporcional al tamaño de la solución) serán implementadas directamente sobre el API de Java. El proyecto es una parte constituyente del proyecto ITOBO (Information and Communication Technology for Sustainable and Optimised Building Operation), financiado por la Science Foundation Ireland.  Pretende crear una solución integrada de domótica orientada a estos contextos, respetando las  restricciones y modelos impuestos por los otros módulos de la solución, tales como el tamaño y disponibilidad de los espacios según un calendario.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6845</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6845/files/TAZ-PFC-2012-011_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6845/files/TAZ-PFC-2012-011.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>optimización energética</dc:subject>
+    <dc:subject>reserva de espacios</dc:subject>
+    <dc:subject>calendarización</dc:subject>
+    <dc:subject>calendarios</dc:subject>
+    <dc:subject>itobo</dc:subject>
+    <dc:subject>búsqueda local</dc:subject>
+    <dc:subject>constraint programming</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Optimización energética de la reserva de espacios en edificios empresariales</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Abad Blasco, Javier Óscar</dc:contributor>
+    <dc:creator>Segura Moreno, Jesús</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>En este proyecto se ha realizado el diseño de los diferentes elementos que componen la pala trasera de una retroexcavadora utilizando como punto de partida un modelo ya existente en el sector de la construcción. Utilizando ese modelo como referencia se han analizado las propiedades geométrica y de carga del modelo diseñado. Con estos datos se ha realizado un estudio analítico de las reacciones que tiene que soportar cada elemento de la retroexcavadora para unas posiciones determinadas. Tras completar el estudio analítico se han verificado que los datos obtenidos sean correctos, una vez verificados se han escogido los cilindros necesarios y se han definido los pasadores que requerirían la estructura. Una vez completado todo este proceso se han realizado los modelos por medio de Solidworks de las piezas que se han diseñado en el proyecto, en estos modelos se han analizado las tensiones y deformaciones para las condiciones de carga que se encuentran sometidos. Tras analizar los resultados se han realizado mejoras en los diseños iniciares para que cumplieran con los requisitos definidos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8716</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería Mecánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8716/files/TAZ-PFC-2012-477.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>retroexcavadora</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Análisis y diseño de la pala trasera de una retroexcavadora</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

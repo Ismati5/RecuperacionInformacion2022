@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Castro Barrigón, Alberto</dc:contributor>
+    <dc:contributor>José Luis Alonso Buj</dc:contributor>
+    <dc:creator>Gómez Pueyo, Adrián</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>La teoría del funcional de la densidad (DFT) es un método para abordar el problema de varios electrones. Es aproximada, ya que uno de los ingredientes, el llamado ``funcional de intercambio y correlación'', no puede calcularse de manera exacta, y deben usarse diversas formulaciones aproximadas. En este trabajo de fin de máster abordamos el problema de la mejora de estas formulaciones de una manera alternativa: estudiando la relación entre la forma potencial de interacción electrónica y el funcional de intercambio y correlación. En principio, a cada forma de la interacción electrónica (que en la realidad es la forma Coulombiana) corresponde un potencial de intercambio y correlación. De forma que es imaginable que, dado un funcional de intercambio y correlación no exacto para la interacción Coulombiana, exista una interacción electrónica ficticia que le corresponda de forma exacta, o bien que le corresponda de forma aproximada pero óptima. Hemos construido un código que permite investigar numéricamente este problema, y en la presente memoria describimos los resultados obtenidos más relevantes.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31648</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Teórica; Área de Física Teórica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31648/files/TAZ-TFM-2015-403.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Física y Tecnologías Físicas</dc:subject>
+    <dc:title>Un Método para el Cálculo de la Mejor Función de Interacción Electrón-Electrón para un Funcional de Intercambio y Correlación Dado</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

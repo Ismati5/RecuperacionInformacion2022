@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Valero Delgado, Alicia</dc:contributor>
+    <dc:creator>Torralba Pérez, Pablo Vicente</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>Los modelos dinámicos tradicionales se caracterizan por tener un enfoque analítico económico y tecnológico, careciendo de parámetros sociales, éticos y (en gran medida) medioambientales. En este trabajo se realiza una introducción al modelado energético y el análisis de cinco modelos dinámicos representativos: LEAP, PRIMES, RETScreen, TIMES y WoLim. En base al análisis de su estructura, características y variables que manejan, se realiza el desarrollo de un modelo dinámico más completo, que incluye parámetros no desarrollados en los modelos tradicionales.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/60460</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/60460/files/TAZ-TFM-2016-1072.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Energías Renovables y Eficiencia Energética</dc:subject>
+    <dc:title>Descripción y análisis crítico de cinco modelos dinámicos energéticos tradicionales: LEAP, PRIMES, RETScreen, TIMES y WoLim. Propuesta de un nuevo modelo energético dinámico  que incluya variables económicas, tecnológicas, medioambientales y sociales</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Description and critical analysis of five traditional energy dynamic models: LEAP, PRIMES, RETScreen, TIMES and WoLim. Approach of a new energy dynamic model that includes economic, technological, environmental and social variables.</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Valle García, Pilar del</dc:contributor>
+    <dc:contributor>Martínez Ruiz, Ignacio</dc:contributor>
+    <dc:creator>Funes Salas, Pedro</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>La telemedicina se entiende como el uso de las tecnologías de la información y las telecomunicaciones para el diagnóstico médico y cuidado de pacientes, ofreciendo un servicio cómodo y mejorando la calidad de vida de los usuarios. En ese ámbito se enmarca este PFC, que continúa con la línea de investigación llevada a cabo en los últimos años por el grupo X73Spain de la Universidad de Zaragoza, abriendo la plataforma de telemonitorización existente a nuevos entornos open source basados en el sistema operativo Android, y añadiendo soporte para nuevos dispositivos médicos. El software se ha desarrollado en Java, más concretamente en J2ME (Java Mobile Edition), por tratarse del lenguaje indicado para este sistema operativo, y ser además un entorno libre de trabajo (open source). Android ofrece un gran potencial para la implementación de nuevas funcionalidades y servicios. Al tratarse de un entorno libre, permite una rápida integración con otras plataformas, además de ofrecer una serie de herramientas que facilitan el desarrollo de aplicaciones. Por otro lado, los terminales existentes que cuentan con este sistema operativo, poseen unas prestaciones de muy alto nivel: pantallas de gran tamaño y calidad visual, cámaras con alta definición, procesadores eficientes, etc. Todas estas características hacen de Android un entorno más que apropiado para la elaboración de este proyecto. Para conseguir la interoperabilidad de esta plataforma con otros entornos de e-Salud existentes, es necesaria la aplicación de un estándar que proponga una serie de normas en cuanto a intercambio de datos, representación de la información y gestión de dispositivos médicos. Se establece entonces la norma ISO/IEEE 11073 (X73) como guía en el desarrollo de este PFC. Este proyecto proporciona un entorno ubicuo donde se facilita el intercambio de información médica entre los diferentes dispositivos médicos que pueda necesitar el paciente, y en diversos casos de uso. De esta forma, se dispone de un terminal Agente, que representa varios dispositivos médicos estándar (termómetro, tensiómetro, pulsioxímetro y báscula), y otro terminal haciendo las funciones de Manager, ambos simulados en teléfonos Android.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4699</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingenieria Telematica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4699/files/TAZ-PFC-2010-049.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Android </dc:subject>
+    <dc:subject>Comunicación agente-manager</dc:subject>
+    <dc:subject>Dispositivos móviles Google Dev Phone</dc:subject>
+    <dc:subject>Dispositivos médicos</dc:subject>
+    <dc:subject>Estándar ISO/IEEE 11073-PHD</dc:subject>
+    <dc:subject>Java Mobile Edition (J2ME)</dc:subject>
+    <dc:subject>Open source</dc:subject>
+    <dc:subject>Protocolo de comunicaciones</dc:subject>
+    <dc:subject>Telemedicina</dc:subject>
+    <dc:subject>Teleasistencia sanitaria</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicaciones</dc:subject>
+    <dc:title>Implementación de una plataforma de telemonitorización de pacientes estándar, open source y ubicua basada en ISO/IEEE 11073-PHD sobre Android</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

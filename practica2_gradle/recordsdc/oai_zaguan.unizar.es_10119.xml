@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Martínez Montiel, José María</dc:contributor>
+    <dc:creator>Lumbreras Roche, Rubén</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>En la actualidad la intervención con cirugía laparoscópica se ha convertido en una técnica habitual en las diferentes especialidades quirúrgicas. El uso que se le da a las imágenes que proporciona el endoscopio durante la intervención se limita a su visualización por el monitor, para ser inmediatamente desechadas. El objetivo es analizar de qué manera los recientes resultados de visión por computador desarrollados para la robótica móvil pueden explotarse en la cirugía laparoscópica. Se ha focalizado el trabajo en los métodos de construcción de mapas simultáneos a la localización a partir de imágenes porque presenta gran similitud entre la robótica y la cirugía: una cámara móvil (endoscopio), observa una escena (cavidad abdominal) por primera vez, siendo el objetivo construir, en tiempo real a frecuencia de video, un mapa de la escena y estimar simultáneamente la localización de la cámara (endoscopio) respecto del mapa construido. Una vez obtenido este resultado pueden realizarse medidas geométricas sobre la escena, dar soporte a anotaciones de realidadaumenta. También permite mostrar una reconstrucción de la escena que cubre la unión de todas las observaciones parciales que ha detectado el endoscopio consiguiendo así aumentar el campo de vista. El problema de estos algoritmos es que en la práctica, la estimación de la trayectoria de la cámara es correcta pero la estimación del modelo 3D de la escena es errónea debida a la aparición de puntos espurios, puntos 3D erróneamente estimados en el mapa. Este proyecto se centra en mejorar la calidad del mapa, por una parte mediante la reducción de la tasa de espurios en tiempo real y por otra mediante el procesado del mapa a posteriori para una eliminación final de espurios y la construcción de un mapa de apariencia fotorrealista.  Los métodos propuestos son validados sobre secuencias reales de eventroplastia por laparoscopia in-vivo en humanos. Pudiendo concluir que las técnicas de SLAM pueden aplicarse con éxito en la cirugía laparoscópica.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10119</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10119/files/TAZ-PFC-2013-066.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>slam visual</dc:subject>
+    <dc:subject>visión por computador</dc:subject>
+    <dc:subject>ptam</dc:subject>
+    <dc:subject>reconstrucción 3d</dc:subject>
+    <dc:subject>tiempo real</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Reconstrucción 3D en tiempo real a partir de imágenes de endoscopio</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

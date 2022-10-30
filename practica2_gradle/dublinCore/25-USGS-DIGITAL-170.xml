@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<csw:Record xmlns:csw="http://www.opengis.net/cat/csw/2.0.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ows="http://www.opengis.net/ows" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:language>es</dc:language>
+  <dc:identifier>25-USGS-DIGITAL-170</dc:identifier>
+  <dc:contributor>Content and structure of all files defined and coordinated by David R. Soller. Digital cartography for geology files by: Patricia H. Packard and David R. Soller (assisted by Kenneth J. Lanfear, Cynthia M. Crampsy, Leslie W. McElroy, Teresa A. Pitts, Susan D. Price, and Will Stettner (all usgs)) Digital cartography for base map files by: Wai-See Moy and David R. Soller (assisted by Patricia H. Packard) NOTE 1: contributors to individual quadrangles or data files are not specified. NOTE 2: persons assisting with geology files are listed alphabetically after the first contributor (K.J. Lanfear).</dc:contributor>
+  <dc:creator>David R. Soller</dc:creator>
+  <dc:description>This file contains data for selected thin, surficial Quaternary sediments, which is one layer of information on this CD-ROM, USGS Digital Data Series #38 (Soller and Packard, 1998). Together, all layers (10 of them) compose the digital version of a 1:1,000,000- scale map of Quaternary deposits (including both glacial and Holocene sediments) compiled for the glaciated area of the United States east of the Rocky Mountains (that is, the area covered by the Laurentide ice sheets). Parts of southern Ontario, areas beneath the Great Lakes, and parts of the submerged eastern sea- board are also included on the map. The paper version of the map is Soller (1993a, b, 1994, 1998, and in press). The map is a regional synthesis and interpretation of available geologic data derived from about 850 sources of information. The map has three components that together provide the first regional three-dimensional view of these deposits. These components are the surface distribution of Quaternary sediments, the total thickness of Quaternary sediments, and the distribution of significant buried Quaternary units. (Subsurface information is not available for most of the mapped area, and therefore the depiction of buried units is uneven). Text and references to support the map are provided in paper format by Soller (1992) and on this CD-ROM (Soller and Packard, 1998). The digital version of the map is supported by a rudimentary base map adapted from existing paper and digital bases. To allow this large map to be digitized, it was first subdivided into 23 4-degree-by- 6-degree quadrangles, and each quadrangle was processed separately. Because the file size of the entire map area is quite large, the data are provided by quadrangle. This file contains data for a 4-degree-by-6-degree quadrangle.</dc:description>
+  <dc:format>"ARC/INFO Export file"</dc:format>
+  <dc:format>"ARC/INFO Coverage"</dc:format>
+  <dc:format>SDTS</dc:format>
+  <dc:format>"ARC/INFO SHAPE"</dc:format>
+  <dc:language>eng</dc:language>
+  <dc:publisher>U.S. Geological Survey</dc:publisher>
+  <dc:source>paper</dc:source>
+  <dc:subject>geology, surficial, Quaternary</dc:subject>
+  <dc:subject>1100 - Geology</dc:subject>
+  <dc:subject>sedimentary rocks</dc:subject>
+  <dc:title>Map showing the thickness and character of Quaternary sediments in the glaciated United States east of the Rocky Mountains: character of selected thin, surficial Quaternary sediments</dc:title>
+  <dcterms:accessRights/>
+  <dcterms:issued>1998-01-01</dcterms:issued>
+  <dcterms:spatial>Glaciated U.S. east of Rocky Mtns., and parts of Canada and the Great Lakes</dcterms:spatial>
+  <dcterms:spatial>34037 = Sussex</dcterms:spatial>
+  <dcterms:temporal>None</dcterms:temporal>
+  <ows:BoundingBox>
+    <ows:LowerCorner>-114.00 36.00</ows:LowerCorner>
+    <ows:UpperCorner>-66.00 50.00</ows:UpperCorner>
+  </ows:BoundingBox>
+</csw:Record>

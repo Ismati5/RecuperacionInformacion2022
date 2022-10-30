@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gracia Villa, Luis</dc:contributor>
+    <dc:creator>Más Val, Yolanda</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El objetivo del proyecto es el diseño completo de una pasarela peatonal, adyacente al puente sobre el río Órbigo situada en la localidad de Santa Marina del Rey, en la provincia de León.  El puente actual es una antigua estructura de hormigón, de unos 170 metros de longitud, que presenta una serie de obsolescencias funcionales con respecto al trafico de peatones debido a la anchura de las aceras, de apenas 0.85 metros, lo que hace imposible su uso para personas con movilidad reducida. Si se opta por ensancharlas, se reduce en exceso el ancho de la calzada, con lo que es necesario la ejecución de una nueva pasarela peatonal adyacente como solución al problema. La futura pasarela de 1.8 metros de anchura, está modulada en diferentes vanos independientes, constituidos por una estructura base de viga cajón metálica tipo artesa de sección variable de acero S 275 J2 G3.  La viga cajón metálica se completa con un forjado de hormigón, tipo colaborante, constituyendo finalmente una viga mixta acero-hormigón.  Sobre el puente de hormigón será necesario demoler y refrentar una zona de los machones en pilares para insertar mediante anclajes los voladizos de los apoyos en las ménsulas de los diferentes tramos de la pasarela. A partir del diseño elegido, se describe la geometría y características generales de la pasarela, indicando las modificaciones necesarias que se introducirán en el desarrollo del proyecto. Para verificar las condiciones de funcionamiento de la pasarela, se realizarán cuatro tipos de análisis diferentes: estático, de estabilidad, de vibraciones y de dilatación, de acuerdo a la normativa vigente para este tipo de estructuras (EAE). A efectos de optimizar el diseño, se realiza un análisis de sensibilidad relativo a las variables de diseño seleccionadas, que constituyen las únicas magnitudes modificables, ya que la geometría de la pasarela viene impuesta con condicionantes geométricos y estéticos. Una vez decidido el diseño final, se desarrolla un modelo de elementos finitos adecuado para el cálculo, detallando las condiciones de apoyo y las cargas que actúan sobre la estructura. Los resultados obtenidos nos permitirán validar el diseño final, a partir del cual se desarrollaran los planos de conjunto y de despiece para la ejecución de la pasarela peatonal.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6696</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6696/files/TAZ-TFM-2011-111_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6696/files/TAZ-TFM-2011-111.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>pasarela peatonal</dc:subject>
+    <dc:subject>análisis de sensibilidad</dc:subject>
+    <dc:subject>análisis estático</dc:subject>
+    <dc:subject>análisis de estabilidad</dc:subject>
+    <dc:subject>vibraciones</dc:subject>
+    <dc:subject>Máster Universitario en Sistemas Mecánicos</dc:subject>
+    <dc:title>Diseño de pasarela peatonal sobre el río Órbigo en Santa Marina del Rey (León)</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

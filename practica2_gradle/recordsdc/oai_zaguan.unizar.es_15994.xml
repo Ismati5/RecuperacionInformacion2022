@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Albajez García, José Antonio</dc:contributor>
+    <dc:contributor>Santolaria Mazo, Jorge</dc:contributor>
+    <dc:creator>Cobertera Rey, Merced</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Este proyecto final de carrera tiene como principal objetivo determinar los errores de posicionamiento y perpendicularidad de la impresora 3D ubicada en el Departamento de Ingeniería de Diseño y Fabricación de la Escuela de Ingeniería y Arquitectura, de la Universidad de Zaragoza. Para ello, se han diseñado dos piezas patrón: la primera para determinar dichos errores, la segunda para realizar un estudio de estabilidad temporal de la impresora a partir del análisis de los errores ya citados.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/15994</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/15994/files/TAZ-PFC-2014-402.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>piezas patrón</dc:subject>
+    <dc:subject>impresora 3d</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Diseño, fabricación y medición de piezas patrón para impresora 3D</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

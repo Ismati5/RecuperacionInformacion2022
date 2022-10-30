@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Montano Gella, Luis Enrique</dc:contributor>
+    <dc:contributor>Villarroel Salcedo, José Luis</dc:contributor>
+    <dc:creator>Pont Esteban, David</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Se ha desarrollado el control de altura de un quadcopter mediante el uso del escáner láser Hokuyo URG-04LX, para medir la altura del drone respecto al suelo. El usuario será capaz de fijar la consigna de altura del drone desde un ordenador, de manera que el drone se adapte a dicha altura y consiga estabilizarse una vez alcanzada. Los demás grados de libertad del drone pueden manipularse mediante el mando de control.  Para implementar dicho control ha sido fundamental todo el trabajo de puesta a punto del drone, dejándolo en las condiciones más óptimas posibles para facilitar la labor del controlador en un sistema con gran tendencia a desestabilizarse. La implementación de la aplicación se ha realizado en el microcontrolador TMS320F28377S de Texas Instruments y se ha construido sobre el sistema de tiempo real SYSBIOS facilitado por el entorno de programación Code Composer Studio. Se ha trabajado con las últimas versiones de todos estos paquetes. Finalmente se ha procedido a la implementación del control en el drone real, realizando varios ensayos para ajustar correctamente los parámetros del controlador y se han obtenido resultados satisfactorios.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64166</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64166/files/TAZ-TFG-2017-2915.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Electrónica y Automática</dc:subject>
+    <dc:title>Navegación autónoma de un multi-rotor: control automático de la altura mediante sensor láser</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Autonomous navigation of a multi-rotor: automatic altitude control with laser sensor</dc:title>
+</oai_dc:dc>

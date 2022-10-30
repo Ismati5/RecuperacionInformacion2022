@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Morales Hernández, Mario</dc:contributor>
+    <dc:contributor>del Amo Sancho, Alejandro</dc:contributor>
+    <dc:contributor>Martínez Gracia, Amaya</dc:contributor>
+    <dc:creator>Echeverribar Pérez, Isabel</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Actualmente existen modelos que simulan la parte térmica de una instalación solar y, a su vez, otros que se centran en el análisis de pérdidas de carga en instalaciones de tuberías. Sin embargo, raramente se lleva a la práctica un análisis conjunto de ambos fenómenos. En este trabajo se realiza un desarrollo del modelo necesario para la simulación completa de una instalación solar atendiendo, no sólo a los términos de temperatura, sino también a los de cantidad de movimiento del flujo, pudiendo realizar análisis de pérdidas de carga y de energía. En primer lugar, se realiza una revisión bibliográfica donde se parte de las ecuaciones de conservación que gobiernan el comportamiento de un flujo (masa, cantidad de movimiento y energía) para llegar a las ecuaciones de un sistema presurizado en régimen transitorio. Posteriormente es necesario establecer unas hipótesis que lleven a modelo simplificado que permita despreciar los fenómenos poco relevantes para hacer más sencillo el cálculo, llegando a un modelo unidimensional. Finalmente, se escoge un método numérico para la resolución de las mismas. En concreto, se escoge un esquema en volúmenes finitos. Cuando la metodología está establecida se programa, en lenguaje C, un problema sencillo que comprueba el correcto tratamiento de las ecuaciones. Posteriormente, se procede a introducir en el modelo las componentes propias de una instalación solar térmica teórica para su resolución y se compara con valores estimados por otros software.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/69806</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/69806/files/TAZ-TFM-2017-1243.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Implementación de un modelo de cálculo para la simulación numérica del flujo en una instalación solar térmica</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Implementation of a computational model for numerical simulation of the flow in a solar thermal system</dc:title>
+</oai_dc:dc>

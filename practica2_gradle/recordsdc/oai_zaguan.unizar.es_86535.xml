@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Cebrián Guajardo, Ana C.</dc:contributor>
+    <dc:creator>Antón Galindo, Daniel</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Presentamos la modelización del proceso de ocurrencias de extremos de temperatura en&lt;br /&gt;las series de máximas y mínimas diarias del Balneario de Panticosa. Se propone un proceso&lt;br /&gt;CPSP, que equivale a la estimación de tres procesos de Poisson No Homogéneos independientes.&lt;br /&gt;Estudiamos su evolución en el tiempo y dependencia con algunos predictores de temperatura. Se&lt;br /&gt;establecen diferentes herramientas que validan nuestro modelo como una aproximación correcta&lt;br /&gt;a los datos disponibles. Este modelo se presenta finalmente como una herramienta útil para la&lt;br /&gt;reducción de escala temporal de proyecciones de temperatura. Se obtienen estimaciones de la&lt;br /&gt;intensidad del proceso para el siglo XXI a partir de las trayectorias de modelos climáticos globales&lt;br /&gt;para diferentes escenarios de cambio climático, observando un incremento del número medio de&lt;br /&gt;extremos bajo todos los escenarios, más acentuado en la serie de temperaturas máximas.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/86535</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Métodos Estadísticos; Área de Estadística e Investigación Operativa</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/86535/files/TAZ-TFM-2019-1485.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Modelización e Investigación Matemática, Estadística y Computación</dc:subject>
+    <dc:title>Desarrollo de modelos estocásticos para la proyección de la ocurrencia de extremos: Aplicación a extremos de temperatura</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Stochastic models for proyection of the occurence of extreme events: An application to temperature extremes</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Medina Trullenque, María Milagros</dc:contributor>
+    <dc:contributor>Gallardo Jiménez, M. Asunción</dc:contributor>
+    <dc:creator>Laplaza Solanas, Rubén</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>La actividad catalítica de la ferredoxina-NADP+ reductasa de la bacteria patógena Leptospira interrogans (LepFNR) comprende la transferencia de electrones entre el coenzima NADPH y aceptores de un solo electrón y bajo potencial. Para ello, en la primera etapa de reacción, debe tener lugar la transferencia de un hidruro desde el anillo de nicotinamida del NADPH y el anillo de isoaloxazina del cofactor FAD de la enzima. Esto requiere una aproximación del carbono 4N (C4N) de la nicotinamida al nitrógeno 5 (N5) de la isoaloxazina por la cara re de dicho anillo. Sin embargo, la cara re del anillo se encuentra protegida por el aminoácido C-terminal, Tyr314, que interacciona por apilamiento π con la flavina. Por el momento, no se dispone experimentalmente de una estructura cristalográfica del complejo LepFNR:NADPH en una disposición catalíticamente competente.  Por similitud con los miembros de la familia tipo plastídico, se ha propuesto un mecanismo en tres etapas para el acoplamiento, en el que el extremo 2’P-AMP del ligando interaccionaría en primer lugar, induciendo cambios conformacionales en la enzima que permitirían el acceso del anillo de nicotinamida del coenzima al sitio activo. Con objeto de validar esta posibilidad para el acoplamiento, en este trabajo se han utilizado técnicas basadas en mecánica molecular, incluyendo acoplamiento molecular enzima-sustrato y dinámica molecular con campos de fuerzas CHARMm.  A través de las diferentes simulaciones moleculares realizadas se han descrito las principales interacciones de reconocimiento entre NADPH y LepFNR, así como los cambios conformacionales producidos por la unión de la mitad 2’P-AMP del coenzima NADPH. Los resultados computacionales que aquí se aportan indican que la unión del coenzima a LepFNR ocurre de forma similar a la descrita en el caso de las FNRs fotosintéticas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/59147</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Bioquímica y Biología Molecular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/59147/files/TAZ-TFG-2016-2119.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Química</dc:subject>
+    <dc:title>Simulación computacional para la predicción de acoplamiento enzima-sustrato: Identificación del sitio de unión del coenzima en la FNR del patógeno Leptospira interrogans</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Computational simulation for the enzyme-substrate docking: Identification of the coenzyme binding site in the FNR from the Leptospira interrogans pathogen</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Artigas Maestre, José Ignacio</dc:contributor>
+    <dc:creator>Magarín Martín, Carlos</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>En este documento se describe el proceso de diseño de un convertidor Flyback empleado como cargador de baterías de un vehículo eléctrico. El cargador está pensado para funcionar a partir de la red eléctrica de 230 V y poder suministrar a su salida una tensión máxima de 34 voltios y una corriente máxima de 4 amperios. Variando el índice de carga se estima poder cargar los paquetes de baterías en un tiempo aproximado de tres horas. Los paquetes de baterías están compuestos por un total de 20 baterías de 1.2 V cada una conectadas en serie, formando así un bloque de 24 V. El paquete de baterías a cargar es de níquel-hidruro metálico (Ni-MH), material con gran capacidad de carga y poco efecto memoria aunque presenta una tasa de autodescarga elevada. Para cargar este tipo de baterías se requiere una corriente continua elevada, con tensiones entre 20 y 34 V, monitorizando la tensión y la temperatura de la batería para evitar su sobrecarga y asegurar la carga óptima. Además de estas dos magnitudes también se ha colocado un sensor para medir la corriente que atraviesa la batería. El tratamiento de esta información se recoge con un microcontrolador de la familia MSP430 de Texas Instruments. Éste procesará la información para controlar el ciclo de trabajo del interruptor de la etapa de potencia. Para el diseño de la etapa de potencia se ha empleado el programa Mathcad, distribuido por Parametric Technology Corporation, Con este programa se han dimensionado todos los componentes del circuito. También se han utilizado otros programas informáticos para el diseño de componentes eléctricos más concretos como el transformador, para el que se ha utilizado el programa Ferrite Magnetic Design Tool de EPCOS. La validación del diseño mediante simulación se ha llevado a cabo con el programa PSpice A/D de OrCAD, en el cual se ha introducido únicamente la parte correspondiente al circuito de potencia con el objetivo de asegurar que la respuesta obtenida a la salida de la fuente es la esperada. En las simulaciones se presentan datos referentes a tensiones y corrientes de salida del circuito principal y también información del circuito de polarización utilizado para la alimentación del driver que dispara el transistor. También se vigilan las corrientes por el primario y el secundario del transformador para saber el modo de funcionamiento del cargador y por último la tensión en el transistor para controlar que ésta se mantenga dentro de unos márgenes aceptables para la seguridad del propio cargador. Para la programación del microcontrolador se ha empleado el programa Code Composer Studio v5. Es un entorno de desarrollo para crear aplicaciones en dispositivos de Texas Instruments.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10236</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10236/files/TAZ-TFM-2013-106.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/10236/files/TAZ-TFM-2013-106_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>cargador de baterías</dc:subject>
+    <dc:subject>microcontrolador</dc:subject>
+    <dc:subject>nimh</dc:subject>
+    <dc:subject>msp430</dc:subject>
+    <dc:subject>flyback</dc:subject>
+    <dc:subject>sensor</dc:subject>
+    <dc:subject>Máster Universitario en Ingeniería Electrónica</dc:subject>
+    <dc:title>Cargador de paquetes de baterías de NiMH de 24 V, 10 Ah para vehículos eléctricos</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

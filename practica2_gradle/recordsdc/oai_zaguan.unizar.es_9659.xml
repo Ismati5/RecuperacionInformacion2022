@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sauerborn, Markus</dc:contributor>
+    <dc:contributor>Cortés Gracia, Cristóbal</dc:contributor>
+    <dc:creator>Prats Briceño, Juan</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El siguiente proyecto de fin de carrera ha sido realizado para el Solar-Institut Jülich, en Jülich Alemania. El objetivo principal del proyecto es demostrar si existe o no una influencia de las partículas de aerosol y de las nubes en la energía solar incidente en la superficie de la tierra. Esta información sería importante para las plantas de energía solar térmica de concentración, ya que se puede ver directamente afectada por estas pérdidas de energía producidas por las partículas de aerosol.    	La interacción de las partículas de aerosol forman lo que se llama la radiación circunsolar, que es la "aureola" vista desde la tierra situada alrededor del sol. Esta radiación circunsolar es radiación solar difusa, la cual contiene menos energía al ser difuminada y no proviene directamente de la esfera solar. De manera que, en centrales de energía solar térmica de concentración, la radiación solar no es reflejada correctamente por heliostatos hacia su objetivo o lo hará con menor energía.  	Para realizar este proyecto de fin de carrera se han utilizado una serie de equipos de medida. Los equipos son los siguientes: Un ceilómetro que da información de partículas y nubes presentes en la atmósfera entre alturas comprendidas de 15 y 15000 metros. Un espectrómetro de aerosoles que proporciona datos a cerca de la concentración de aerosoles al nivel del suelo. Una estación meteorológica que de la que se obtiene información de varios parámetros, siendo especialmente útiles los relativos a la radiación solar. Por último se ha utilizado una cámara con un sensor CCD para tomar fotografías del sol y poder medir su intensidad, tanto en la circunferencia solar como en la radiación circunsolar. Con los datos de la intensidad, se ha calculado da el porcentaje de energía proveniente del área circunsolar.  	Las mediciones se han tomado en diferentes días con condiciones atmosféricas muy variables, de este modo, al compararlas, se puede apreciar que factores son los más influyentes en la radiación circunsolar y poder así demostrar la influencia de las partículas de aerosol</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9659</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9659/files/TAZ-PFC-2012-698_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/9659/files/TAZ-PFC-2012-698.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>energía solar termoeléctrica</dc:subject>
+    <dc:subject>partículas de aerosol</dc:subject>
+    <dc:subject>radiación circunsolar</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Analysis of aerosol particles for the determination of energy losses in solar power plants</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gómez Benito, María José </dc:contributor>
+    <dc:contributor>Marco Hernández, Jose Manuel</dc:contributor>
+    <dc:creator>Navarro Ausere, Borja</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>Uno de los materiales más utilizados como elemento estructural para la fabricación de vigas es el acero. Sin embargo, la innovación en materiales ha permitido la utilización de otro tipo de materiales, como es el caso del vidrio. Con este trabajo se pretende investigar, utilizando modelos de simulación basados en elementos finitos, la viabilidad de fabricar secciones de vigas compuestas por un material tan frágil como es el vidrio, unidas mediante adhesivos especiales; centrando el proyecto en el diseño de dicha unión. Para ello se ha llevado a cabo la simulación de una serie de vigas, mediante el programa de simulación por elementos finitos Abaqus/CAE 6.12, de tal forma que se ha desarrollado un modelo paramétrico que permite la simulación de cualquier casuística de ensayo de flexión a cuatro puntos de este tipo de vigas. Para la simulación de estos ensayos, se ha partido del caso más sencillo, es decir, de una viga maciza, añadiendo complejidad al modelo hasta la consecución de la unión de una serie de láminas de vidrio que conformarán la propia viga y finalmente añadiendo en las simulaciones un modelo de daño al adhesivo utilizado. Los resultados obtenidos muestran la viabilidad de utilizar este tipo de secciones de vigas unidas mediante un adhesivo especial imperceptible a la vista, teniendo en cuenta las limitaciones, en términos de carga soportada, que conlleva el uso de vigas de vidrio. Por último, se ha llevado a cabo la fabricación de las secciones de viga con el diseño óptimo de la unión, para finalmente ensayarla y comparar los resultados con los obtenidos mediante las simulaciones. Obteniendo una validación positiva de la simulación, debido a la concordancia entre los resultados experimentales y los computacionales.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/60481</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/60481/files/TAZ-TFM-2016-1011.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Mecánica</dc:subject>
+    <dc:title>Diseño, simulación y ensayo de una viga de vidrio para su utilización como elemento estructural</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Design, simulation and experimental test of a glass beam to use it as structural element</dc:title>
+</oai_dc:dc>

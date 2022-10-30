@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Marín Herrero, José María</dc:contributor>
+    <dc:creator>Zamora Martínez, Elisa</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Este trabajo de fin de grado se centra en la elaboración de un modelo numérico que simule el comportamiento de un órgano vivo. Dicho modelo resulta de la aplicación de las leyes termodinámicas por las cuales se rigen los procesos químicos implicados en la producción de energía. El corazón es el órgano vivo a estudio, al comportarse como una bomba pulsátil involuntaria que realiza trabajo de contracción para bombear la sangre.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64181</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64181/files/TAZ-TFG-2017-2887.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Modelo termodinámico del corazón</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Thermodynamic model of the heart</dc:title>
+</oai_dc:dc>

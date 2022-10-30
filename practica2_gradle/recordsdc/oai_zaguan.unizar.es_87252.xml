@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>González Domínguez, Jose Miguel</dc:contributor>
+    <dc:contributor>García Bordejé, Enrique</dc:contributor>
+    <dc:contributor>Sayago García, Fco. Javier</dc:contributor>
+    <dc:creator>Baigorri Berges, Alejandro</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Los nanomateriales conductores han atraído un interés notable en la electrónica flexible impresa, debido a sus excelentes propiedades electrónicas y compatibilidad con el procesado en fase líquida. De entre las nanoestructuras más estudiadas, destacan las formadas por carbono, como los nanotubos y el grafeno, provistas de conductividades eléctricas, térmicas y resistencias mayores que otros materiales, además de poder ser transparentes, extremadamente ligeras y biocompatibles.&lt;br /&gt;Las tintas basadas en dichas nanoestructuras de carbono presentan conductividades variadas.  Sin embargo, los disolventes orgánicos usados para ello son muy contaminantes y tienen un elevado punto de ebullición. Si se trata de agua, se requieren altas concentraciones de surfactantes, causando también problemas de contaminación y toxicidad. Por tanto, existe una necesidad de métodos que requieran disolventes de menor punto de ebullición junto con dispersantes no tóxicos, para obtener un proceso de impresión respetuoso con el medio ambiente.&lt;br /&gt;Por lo anteriormente expuesto, la celulosa nanocristalina entra en juego, la cual tiene la estructura nativa de la celulosa pero con partículas de tamaño nanométrico, aportándole unas propiedades mejoradas. Las investigaciones con celulosa nanocristalina están en auge debido a sus extraordinarias propiedades físicas y químicas, junto con su naturaleza renovable y abundancia, además del enorme potencial que posee como agente dispersante (en agua) de nanoestructuras de carbono.&lt;br /&gt;En este trabajo se plantea un estudio experimental para la obtención de tintas basadas en nanoestructuras de carbono de baja viscosidad y pastas de alta viscosidad que puedan ser impresas. Se ha procedido al estudio paramétrico de un sistema ternario compuesto de óxido de grafeno, nanotubos de carbono y celulosa nanocristalina para crear tintas conductoras acuosas de manera sostenible, mediante el método de autoclave para fabricar películas conductoras opacas (o materiales porosos derivados de hidrogeles) que puedan formar parte en el futuro de componentes de referencia en aplicaciones avanzadas.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87252</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Orgánica; Área de Química Orgánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87252/files/TAZ-TFG-2019-4743.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/87252/files/TAZ-TFG-2019-4743_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Química</dc:subject>
+    <dc:title>Tintas y pastas de grafeno con nanocelulosa para aplicaciones avanzadas</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Graphene and nanocellulose-based inks and pastes for advanced applications</dc:title>
+</oai_dc:dc>

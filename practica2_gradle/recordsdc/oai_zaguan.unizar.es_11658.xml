@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Vinuesa, Luis Miguel</dc:contributor>
+    <dc:contributor>Fouquet, Peter</dc:contributor>
+    <dc:contributor>Miret Artés, Salvador</dc:contributor>
+    <dc:creator>Calvo Almazán, Irene</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Este trabajo está dedicado al estudio de la dinámica de anillos aromáticos en fase adsorbida sobre el plano basal de microcristales de grafito, (es decir la familia de planos cuya dirección normal es paralela a la dirección [0001]). Se trata de un trabajo experimental basado en técnicas de dispersión quasi-elástica de neutrones. Hemos medido con técnicas espectroscópicas de tiempo de vuelo, la difusión de benceno hidrogenado, C6H6, para cuatro recubrimientos: desde 0.1 ML (sólo un 10 % de los sitios de adsorpción están ocupados), 0.2 ML, 0.5 ML y 1.0 ML (el 100 % de los sitios de adsorbción están ocupados) y la difusión de benceno deuterado, C6D6, para recubrimientos de 0.5 ML y 0.9 ML. Además hemos explorado un amplio rango de temperaturas: desde 60 K hasta 140 K, siendo la temperatura de desorpción del benceno en grafito de 150 K [1].  Observamos que la dinámica de las moléculas es muy sensible al recubrimiento. A bajos recubrimientos (0.1ML) las moléculas cumplen un régimen balístico mientras que a medios y altos recubrimientos (a partir de 0.2 ML) la difusión es Browniana. Podemos extraer del análisis de los espectros la velocidad cuadrática promedia de las moléculas en régimen balístico y que satisfacen el principio de equipartición de la energía. En el caso de recubrimientos por encima de 0.2 ML hemos obtenido los parámetros de fricción del orden de 2.5±0.1 ps-1 (para 0.5 ML a 140K) y que es coherente con estudios recientes [2]. Por otro lado, una estimación de la fricción fonónica en el plano basal del grafito conduce a un valor de 0.02 ps-1 que es al menos dos órdenes de magnitud menor que los parámetros de fricción extraídos de los ajuste de datos. Concluimos que la interacción entre adsorbatos gobierna el comportamiento difusivo de las moléculas mientras que la interacción entre adsorbatos y substrato juega un papel secundario. Referencias: [1] R. Zacharia et al. Phys. Rev. B 69, 155406 (2004). [2] H. Hedgeland et al. Nature Phys. 5, 561 (2009).</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/11658</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física de la Materia Condensada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/11658/files/TESIS-2013-060.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>grafito</dc:subject>
+    <dc:subject>superficies</dc:subject>
+    <dc:subject>difusión en sólidos</dc:subject>
+    <dc:subject>graphite</dc:subject>
+    <dc:subject>surfaces</dc:subject>
+    <dc:subject>diffusion on solids</dc:subject>
+    <dc:title>Molecular diffusion on surfaces</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

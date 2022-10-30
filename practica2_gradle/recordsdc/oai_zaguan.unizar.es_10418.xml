@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Aznar, José Manuel</dc:contributor>
+    <dc:contributor>Sánchez Rúa, María Teresa</dc:contributor>
+    <dc:creator>Escribano Jiménez, Jorge</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El citoesqueleto es una estructura dinámica formada por un entramado de biopolímeros, principalmente actina, miosina y “complejos de adhesión (CAs)”. Éstos proporcionan soporte interno en las células y juegan un papel determinante en numerosas funciones biológicas y mecánicas como pueden ser la proliferación, la migración y la división celular. El conocimiento de esta estructura es de vital importancia a la hora de entender los procesos biológicos que tienen lugar en la célula, pero a pesar de ser un tema que actualmente está siendo el foco de numerosas investigaciones, el conocimiento que se tiene del funcionamiento mecánico de estos entramados es bastante escaso. El objetivo de este proyecto es avanzar en el entendimiento del papel que ejercen estas estructuras poliméricas (citoesqueleto) en la migración celular, centrándose en la interacción del citado citoesqueleto con la matriz extracelular (ECM), fenómeno conocido como adhesión focal. Para ello se desarrollará un modelo computacional discreto en dos dimensiones, en el lenguaje de programación C++, y se compararán los resultados obtenidos con otros resultados experimentales citados en la bibliografía. Para entender con precisión el fenómeno de la adhesiones focales es necesario conocer las características mecánicas (rigidez y deformabilidad) de la ECM y de los CAs, conglomerados de proteínas que enlazan la actina del citoesqueleto con las proteínas de la ECM (formando así la adhesión focal), así como el fenómeno de polimerización de la actina en filamentos y el papel que juega la miosina como motor celular, haciendo que los filamentos de actina deslicen sobre ella, ejerciendo fuerza sobre ellos. En el modelo se incluirán con detalle las propiedades mecánicas de las adhesiones focales, así como dos fenómenos importantes que rigen su comportamiento: el de adhesión y separación con los filamentos de actina y las integrinas (proteínas de la membrana celular que sirven como punto de unión para las adhesiones focales con la ECM) y el de despliegue. A lo largo del documento se analizará la importancia de la rigidez de la ECM, de la concentración de CAs y de la concentración de integrinas, analizando cómo estos parámetros influyen en la velocidad de movimiento del filamento de actina, condicionando así el tiempo de vida de la adhesión focal.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10418</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10418/files/TAZ-PFC-2013-189.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>adhesión focal</dc:subject>
+    <dc:subject>simulación discreta</dc:subject>
+    <dc:subject>actina</dc:subject>
+    <dc:subject>citoesqueleto</dc:subject>
+    <dc:subject>matriz extracelular</dc:subject>
+    <dc:subject>integrina</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Comportamiento mecánico de biopolímeros</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

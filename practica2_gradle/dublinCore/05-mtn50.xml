@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<csw:Record xmlns:csw="http://www.opengis.net/cat/csw/2.0.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ows="http://www.opengis.net/ows" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:language>es</dc:language>
+  <dc:identifier>05-mtn50</dc:identifier>
+  <dc:creator>Instituto Geográfico Nacional (España)</dc:creator>
+  <dc:description>Contenido tradicional de cartografía topográfica. Geografía física: relieve, hidrografía y usos del suelo. Geografía humana: núcleos de población y construcciones, recursos naturales e industria, vías de comunicación, divisiones administrativas y apoyos geodésicos. Toponimia y rotulación.</dc:description>
+  <dc:format>DGN - Microstation format (Intergraph Corporation)</dc:format>
+  <dc:language>es</dc:language>
+  <dc:publisher>Centro Nacional de Información Geográfica (España)</dc:publisher>
+  <dc:subject>GEOGRAFIA HUMANA.GEOGRAFIA URBANA.URBANISMO.SUELO URBANO.USOS DEL SUELO</dc:subject>
+  <dc:subject>GEOGRAFIA HUMANA.GEOGRAFIA INDUSTRIAL.INDUSTRIA</dc:subject>
+  <dc:subject>GEOGRAFIA HUMANA.GEOGRAFIA ECONOMICA.GESTION DE RECURSOS.RECURSOS NATURALES</dc:subject>
+  <dc:subject>GENERALIDADES.CARTOGRAFIA.TOPOGRAFIA.RED GEODESICA.TRIANGULACION.VERTICES GEODESICOS</dc:subject>
+  <dc:subject>GEOGRAFIA HUMANA.GEOGRAFIA DE LAS COMUNICACIONES.GEOGRAFIA DEL TRANSPORTE.TRANSPORTE.VIAS DE COMUNICACION</dc:subject>
+  <dc:subject>GEOGRAFIA HUMANA.GEOGRAFIA URBANA.ALOJAMIENTOS.CONSTRUCCION.EDIFICACIONES</dc:subject>
+  <dc:subject>GEOGRAFIA.PARTE HISTORICA.GEOGRAFIA HISTORICA.TOPONIMIA</dc:subject>
+  <dc:subject>GENERALIDADES.CARTOGRAFIA.TOPOGRAFIA.ALTIMETRIA</dc:subject>
+  <dc:subject>GEOGRAFIA HUMANA.GEOGRAFIA URBANA.CIUDADES.ASENTAMIENTOS</dc:subject>
+  <dc:subject>GEOGRAFIA FISICA.HIDROLOGIA.HIDROLOGIA FLUVIAL.REDES HIDROGRAFICAS.RIOS</dc:subject>
+  <dc:subject>GEOGRAFIA HUMANA.GEOGRAFIA POLITICA.GEOGRAFIA DE LA ADMINISTRACION.LIMITES TERRITORIALES.LIMITES ADMINISTRATIVOS</dc:subject>
+  <dc:title>Mapa Topográfico Nacional de España 1:50.000</dc:title>
+  <dc:type>series</dc:type>
+  <dcterms:accessRights>license</dcterms:accessRights>
+  <dcterms:issued>1999-01-01</dcterms:issued>
+  <dcterms:spatial>ESPAÑA</dcterms:spatial>
+</csw:Record>

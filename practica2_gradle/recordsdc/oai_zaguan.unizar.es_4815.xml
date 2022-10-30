@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Salvador Figueras, Manuel</dc:contributor>
+    <dc:contributor>Gargallo Valero, Pilar</dc:contributor>
+    <dc:creator>Beamonte San Agustín, María Asunción</dc:creator>
+    <dc:date>2008</dc:date>
+    <dc:description>Se presenta una metodología estadística bayesiana de estimación, validación, predicción, simplificación y selección de variables para la familia de modelos hedónicos espacio-temporales autorregresivos (STAR) con efectos de vecindad; utilizados para describir la evolución del precio de vivienda. Se ilustra con el análisis del mercado inmobiliario en un área de Zaragoza.  Inicialmente se muestra un tratamiento discreto de los parámetros de vecindad, generalizada posteriormente considerando ponderaciones continuas y ampliando el número de vecinos influyentes. Se presenta un algoritmo computacionalmente eficiente de estimación y predicción rolling, basado en el muestreo de importancia secuencial aplicando métodos MCMC. Se propone un procedimiento de estimación robusta, utilizando términos de error condicionalmente heterocedásticos, mostrándose como aplicación, un método bayesiano de predicción retrospectiva para elaboración de índices de precios hedónicos. Por último, se describe un procedimiento multicriterio de selección de variables utilizando algoritmos genéticos. Inferencias y predicciones se calculan mediante mixturas de modelos basadas en ideas bayesianas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4815</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Métodos Estadísticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4815/files/TESIS-2010-040.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>STAR</dc:subject>
+    <dc:subject>modelo hedónico</dc:subject>
+    <dc:subject>índice de precio de vivienda</dc:subject>
+    <dc:subject>estadística espacio-temporal</dc:subject>
+    <dc:subject>inferencia bayesiana</dc:subject>
+    <dc:subject>mercado inmobiliario</dc:subject>
+    <dc:subject>efectos de vecindad</dc:subject>
+    <dc:subject>selección de variables</dc:subject>
+    <dc:subject>algoritmos genéticos</dc:subject>
+    <dc:subject>MCMC</dc:subject>
+    <dc:subject>regresión retrospectiva</dc:subject>
+    <dc:subject>STAR</dc:subject>
+    <dc:subject>hedonic models</dc:subject>
+    <dc:subject>dwelling price index spatio-temporal statistics</dc:subject>
+    <dc:subject>bayesian inference</dc:subject>
+    <dc:subject>real estate market</dc:subject>
+    <dc:subject>neighborhood effects</dc:subject>
+    <dc:subject>variable selection</dc:subject>
+    <dc:subject>genetic algorithms</dc:subject>
+    <dc:subject>MCMC</dc:subject>
+    <dc:subject>retrospective analysis</dc:subject>
+    <dc:title>Análisis estadístico de modelos hedónicos STAR con efectos de vecindad</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

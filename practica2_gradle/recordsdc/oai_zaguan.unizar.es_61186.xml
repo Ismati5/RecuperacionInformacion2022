@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Barroso Estébanez, Jorge Ángel</dc:contributor>
+    <dc:creator>Raga Barciela, Cristina</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>En el presente proyecto se ha desarrollado en primer lugar una metodología para facilitar la compresión de la mecánica de fluidos por medio del análisis de los resultados obtenidos mediante el programa de dinámica de fluidos computacional ANSYS Fluent. La metodología desarrollada está formada por cinco actividades. En primer lugar, empleando una versión para principiantes del programa, se han simulado, por una parte, el flujo interior en una expansión brusca y por otra, el campo de flujo exterior en un perfil alar. En segundo lugar, se ha desarrollado un guion para realizar la simulación del flujo en un codo de mezcla multifásico, donde se explica el software a un nivel intermedio. Los dos últimos casos de esta metodología consisten en dos propuestas de trabajos tutelados, un estudio acerca de la cavitación y otro sobre el transporte neumático de partículas sólidas en fase densa. La segunda parte de este trabajo se dedica a la simulación con ANSYS Fluent del proceso de mezcla bifásica agua - aire que tiene lugar en el interior de una boquilla de atomización de fluido auxiliar. Se analizan varios casos, tanto bajo la consideración de incompresibilidad para el aire, como para un comportamiento compresible, con diferentes condiciones de contorno. Los análisis realizados permiten valorar la influencia de las condiciones de contorno y otras variables sobre el proceso de mezclado. Se concluye que los efectos de la compresibilidad son muy importantes, mientras que la influencia de la gravedad es despreciable. También se ha observado que lo más conveniente para la obtención de un correcto mezclado es que la diferencia de presiones entre la entrada del agua y la del aire sea lo menor posible.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61186</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61186/files/TAZ-TFG-2016-3445.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Desarrollo de casos técnicos de fluidotécnica mediante simulación numérica</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Development of technical cases of fluid dynamics by numerical simulation</dc:title>
+</oai_dc:dc>

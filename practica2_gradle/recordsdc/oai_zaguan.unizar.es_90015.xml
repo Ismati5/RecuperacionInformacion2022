@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Paseta Martínez, Óscar</dc:contributor>
+    <dc:creator>Santolaya Bretón, Miguel</dc:creator>
+    <dc:date>2020</dc:date>
+    <dc:description>El presente trabajo tiene como objetivo el diseño conceptual, el cálculo analítico y la simulación en Elementos Finitos (EF) de una plataforma elevadora móvil de personal (PEMP) con estructura extensible tipo tijera, de acuerdo a los criterios establecidos en la Norma UNE-EN 280:2016 en cuanto a cálculos estructurales y de estabilidad.&lt;br /&gt;Para lograr este fin, se ha tomado como base un concepto inicial inspirado en modelos comerciales. El objetivo de este primer concepto es tener un diseño base que posteriormente será optimizado, buscando soluciones a los diferentes problemas que se han ido presentando a lo largo de la elaboración de este trabajo. &lt;br /&gt;La primera etapa del proceso seguido para la elaboración del presente TFM engloba la determinación de las cargas que actúan sobre la PEMP, de acuerdo con la Norma, el análisis estático de la estructura, los diagramas de sólido libre de los diferentes elementos y por último los diagramas de esfuerzos axiles, cortantes y momentos flectores.&lt;br /&gt;La última etapa de desarrollo se centra en el modelado completo de cada una de las piezas que forman la PEMP, mediante el software de diseño CAD 3D SolidWorks y la simulación por EF, mediante el software comercial ANSYS, de los diferentes diseños de las mismas. &lt;br /&gt;Los resultados de la simulación EF se comparan con los obtenidos en el análisis analítico, con el fin de validar el modelo EF y a partir de ahí estudiar con más detalle el comportamiento mecánico, en cuanto a tensiones y desplazamientos, del chasis, la estructura extensible y la plataforma de trabajo, finalizando con un estudio de pandeo de la estructura.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/90015</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Expresión Gráfica de la Ingeniería</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/90015/files/TAZ-TFM-2020-012_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/90015/files/TAZ-TFM-2020-012.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Mecánica</dc:subject>
+    <dc:title>Diseño y análisis EF de una plataforma eléctrica tipo tijera</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Design and FE analysis of electric scissor platform</dc:title>
+</oai_dc:dc>

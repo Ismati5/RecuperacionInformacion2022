@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Falo Forniés, Fernando</dc:contributor>
+    <dc:contributor>Bruscolini, Pierpaolo</dc:contributor>
+    <dc:creator>Blasco Hernández, Pablo Javier</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>La modelización de los patrones que surgen en sistemas biológicos es uno de los campos de estudio interdisciplinar en la frontera entre la física y la biología. En estos estudios participa la física estadística fuera del equilibrio, la dinámica de sistemas no lineales y la física computacional. En este trabajo nos hemos centrado en un modelo de diferenciación celular basada en la señalización por Notch. Este mecanismo ha sido fuertemente conservado en la evolución de organismos pluricelulares y es determinante en la formación de estructuras regulares en muchos tejidos. Nuestro objetivo en este trabajo ha sido combinar en un mismo estudio la diferenciación celular con el proceso de crecimiento de un tejido. Para ello se han planteado los modelos adecuados tanto para la diferenciación como para el crecimiento, se han realizado simulaciones numéricas basadas en dichos modelos y se ha analizado la competencia entre las distintas escalas de tiempo en el problema: la escala de la diferenciación y la escala del crecimiento del tejido.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/59111</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física de la Materia Condensada; Área de Física de la Materia Condensada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/59111/files/TAZ-TFG-2016-2263.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Física</dc:subject>
+    <dc:title>Sistemas dinámicos y expresión de genes: cómo se forman los patrones celulares.</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Dynamical Systems and gene expression: the formation of cell patterns.</dc:title>
+</oai_dc:dc>

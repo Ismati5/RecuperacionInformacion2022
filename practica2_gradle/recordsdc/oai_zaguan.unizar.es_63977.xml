@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Montijano Muñoz, Eduardo</dc:contributor>
+    <dc:creator>Rueda Pérez, Juan</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>La investigación en equipos de robots que cooperan para realizar tareas ha adquirido un importante auge en los últimos años. La utilización de sistema multi-robot permite realizar tareas de forma más eficiente, segura y robusta, como en el caso del atrapamiento o la escolta de objetivos. Sin embargo, al aumentar el número de robots que realizan estas tareas, su ejecución es cada vez más compleja debido a las restricciones de movimiento de los robots. El principal objetivo de este trabajo es la implementación de un algoritmo de atrapamiento en un sistema multi-robot real. Dicho algoritmo debe tener en cuenta posibles errores en la información local y global de la posición del target, así como en la movilidad de los robots involucrados.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/63977</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/63977/files/TAZ-TFG-2017-3553.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Electrónica y Automática</dc:subject>
+    <dc:title>Implementación de estrategias de atrapamiento utilizando equipos de robots</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Implementation of entrapment strategies using teams of robots</dc:title>
+</oai_dc:dc>

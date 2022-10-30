@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Buldain Pérez, Julio David</dc:contributor>
+    <dc:creator>Benages Pardo, Luis</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>Diseño e implementación de un sistema capaz de distinguir entre distintas actividades realizadas durante el desempeño de un partido de tenis, siendo la finalidad última la correcta clasificación de un conjunto de golpes realizados. El modelo presenta robustez ante la variabilidad de las dimensiones, edad o sexo de cualquier sujeto que realice las actividades. Los datos han sido recopilados con dos nodos sensores que incorporan acelerómetro y giróscopo, y la tecnología de comunicación de bajo consumo Bluetooth Low Energy. Los modelos creados están basados en técnicas de Deep Learning con aprendizaje semi-supervisado, e implementados con TensorFlow con su API en Python. Primero se ha obtenido un extractor de características de los datos entrenando de manera no supervisada un Autoencoder Convolucional. Después se han entrenado distintas arquitecturas de Perceptrones Multicapa MLP con las características extraídas. Finalmente se exponen los resultados de clasificación obtenidos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/78431</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/78431/files/TAZ-TFM-2018-1093.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Electrónica</dc:subject>
+    <dc:title>Detección de actividades humanas con sensores portables</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Detection of human activities with wearable sensors</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Francés Pérez, Eva María</dc:contributor>
+    <dc:creator>Julián Pardillos, Raúl</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Este estudio refleja el procedimiento que se ha de seguir para determinar el tratamiento del agua de una caldera de vapor. A partir del agua de aporte de la instalación (red municipal de Zaragoza) y del agua de alimentación de la caldera se plantea un tratamiento que principalmente se basa en añadir un antiincrustante (Proaqua 3400) y un reductor de Oxígeno (Proaqua 3100). También se observa una dureza elevada en el agua de alimentación así como en el agua del interior de la caldera por  lo que se comprueba el correcto funcionamiento del descalcificador y se soluciona el problema. El principal problema viene dado por un pH demasiado bajo en el agua. La instalación posee retorno de condensados. Estos condensados están cargados con una gran cantidad de CO2 que al reaccionar con el agua forman H2CO3 que nos acidifica el agua. Para solucionar el problema se utiliza un secuestrante de CO2 formulado a base a aminas volátiles (Vapen220).  Se observa que en pocos meses el agua de la caldera tiene un pH dentro de los límites que marca la norma UNE 12953</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5353</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Ingeniería Química</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5353/files/TAZ-PFC-2010-344.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Química Industrial)</dc:subject>
+    <dc:title>Tratamiento del agua de una caldera de vapor</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

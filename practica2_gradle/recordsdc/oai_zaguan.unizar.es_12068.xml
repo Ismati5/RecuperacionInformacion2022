@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Monge Zarazaga, Fabiola</dc:contributor>
+    <dc:contributor>Alzueta Anía, María U.</dc:contributor>
+    <dc:creator>Arnal Mañas, Álvaro Jorge</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El transporte es un elemento muy significativo y necesario de la sociedad moderna. Sin embargo, uno de los efectos medioambientales negativos del tráfico es su contribución a la contaminación atmosférica debido a las emisiones de contaminantes que se generan. Algunos de los más importantes son las partículas de hollín y los óxidos de nitrógeno, cuya procedencia deriva en gran parte de los motores que utilizan como combustible gasóleo. Una de las medidas para conseguir una combustión más limpia se basa en la reformulación del gasóleo a través del uso de aditivos oxigenados y por ello, el objetivo principal del presente proyecto se centra en el conocimiento de la oxidación de dos de estos compuestos, como son el dimetil éter y el etanol, bajo diferentes condiciones de operación. Se llevarán a cabo una serie de experimentos en condiciones reductoras (λ=0,7), estequiométricas (λ=1) y oxidantes (λ=35 en el caso del dimetil éter y λ=4 cuando se trabaje con etanol), así como bajo presiones de 20, 40 y 60 bares en un reactor de flujo pistón que simula la atmósfera de reacción en un motor diésel. Por otro lado, se analizará la influencia que sobre la reacción de oxidación tienen el variar la temperatura y la presencia de NO. Los datos experimentales obtenidos han sido comparados con los simulados a partir de un modelo cinético tomado de la bibliografía, donde tras realizar algunos cambios, se ha logrado obtener un buen ajuste de los experimentos en los que no se ha introducido NO, y se han analizado las diferentes reacciones que tienen lugar durante la reacción de oxidación de ambos compuestos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12068</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Tecnologías del Medio Ambiente</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12068/files/TAZ-PFC-2013-524.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/12068/files/TAZ-PFC-2013-524_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>etanol</dc:subject>
+    <dc:subject>dimetiléter</dc:subject>
+    <dc:subject>oxidación </dc:subject>
+    <dc:subject>aditivos </dc:subject>
+    <dc:subject>simulación</dc:subject>
+    <dc:subject>Ingeniero Químico</dc:subject>
+    <dc:title>Oxidación de etanol y dimetil éter a presión</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>López Nicolás, Gonzalo</dc:contributor>
+    <dc:contributor>Guerrero Campo, José Jesús</dc:contributor>
+    <dc:creator>Omedes LLorente, Jason</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>En este trabajo se estudia el problema de detectar el suelo y las paredes de una escena a partir de una única imagen tomada en el interior de un edificio. Aunque existen métodos equivalentes que utilizan imágenes convencionales, las imágenes omnidireccionales resultan particularmente útiles para esta tarea debido a su amplio campo de vista. No obstante, debido a la mayor complejidad geométrica de las imágenes omnidireccionales es necesario el diseño de algoritmos específicos. También se aborda el problema para el caso de una cámara en movimiento, que requiere el diseño de técnicas adicionales. 1)Diseño y evaluación de un nuevo método para la estimación de los puntos de fuga (VPs) y la clasificación de líneas extraídas sobre imágenes catadióptricas. 2)Desarrollo de un método innovador para obtener la estructura principal de una escena de interiores a partir de una única imagen omnidireccional. 3) Propagación secuencial de la aplicación propuesta sobre imágenes próximas para aumentar la robustez del resultado con una cámara en movimiento. 4) Obtención de resultados</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/7940</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/7940/files/TAZ-PFC-2012-359_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/7940/files/TAZ-PFC-2012-359.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>visión omnidireccional</dc:subject>
+    <dc:subject>visión por computador</dc:subject>
+    <dc:subject>segmentación de regiones</dc:subject>
+    <dc:subject>direcciones dominantes</dc:subject>
+    <dc:subject>homografía</dc:subject>
+    <dc:subject>mapa de navegabilidad</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Diseño de mapas de navegabilidad para entornos de interior mediante visión omnidireccional</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

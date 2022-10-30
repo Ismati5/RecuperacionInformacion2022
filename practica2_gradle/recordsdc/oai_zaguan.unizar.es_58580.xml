@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Pérez Cabello, Fernando</dc:contributor>
+    <dc:creator>Ezquerro López, David</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>El uso de la viticultura de precisión está cada vez más extendido entre los agricultores del sector, propiciando la reducción de esfuerzos por parte del personal, la obtención de vinos de mejor calidad, e incluso la estimación de parámetros de campo a partir de imágenes de satélite. En el presente trabajo, se llevó a cabo en primer lugar, un análisis multitemporal del NDVI promedio de siete variedades de uva, con el que se pudo ver la evolución del vigor vegetal durante el periodo de maduración de los racimos. Las gráficas obtenidas, mostraron el estancamiento del vigor que experimentan las cepas en este periodo, ocasionado por la modificación de la inversión energética de la planta hacia las bayas. Además, en los años 2013 y 2016, se apreció el alcance del vigor máximo de las cepas con la llegada del verano. Por otro lado, mediante el estudio de la relación del grado Baumé y la acidez total, con respecto al NDVI, a través de barras de error y análisis Anova, se determinó la existencia de ciertos patrones correlativos. Concretamente, entre el grado y el NDVI en dos de los años de estudio para el Tempranillo, la relación resultó directa. Por otra parte, en el caso de la Garnacha, se observó una correlación inversa entre la acidez y el vigor vegetal, aunque los resultados fueron menos concluyentes. El resto de variedades no ofrecieron patrones específicos. Por ello, a pesar de la existencia de cierta correlación entre los parámetros, no se consideró factible la estimación de estos a través del vigor vegetal, debido a la escasez de resultados positivos, a los múltiples factores influyentes en los parámetros estudiados, y a los antecedentes observados en la bibliografía.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/58580</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio; Área de Geografía Física</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/58580/files/TAZ-TFM-2016-1190.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Tecnologías de la Información Geográfica para la Ordenación del Territorio: Sistemas de Información Geográfica y Teledetección</dc:subject>
+    <dc:title>RELACIONES ENTRE PARÁMETROS QUÍMICOS DETERMINANTES DE LA CALIDAD DE LA UVA Y EL NDVI, PARA LA ESTIMACIÓN DE LA FECHA DE VENDIMIA.</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Relationship between chemical parameters determining the grape quality and the ndvi, for the estimation of the grape harvest date.</dc:title>
+</oai_dc:dc>

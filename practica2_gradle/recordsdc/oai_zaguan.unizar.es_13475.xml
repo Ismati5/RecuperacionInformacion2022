@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Usón Gil, Sergio</dc:contributor>
+    <dc:creator>Dufourny, Adrien</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>The objective of this project is to model a plasma gasification system and its integration into a system of electricity production. This device consists of a «downdraft" gasifier coupled with a plasma torch . This torch can reach very high temperatures, and has the advantage of being an independent source of heat that is not affected by the characteristics of the raw material. Under these conditions, the production of tars and other undesirable compounds in the synthesis gas is avoided. Moreover, the inorganic portion of the feedstock becomes vitrified slag which can be used as construction material. This technology is normally poses for waste disposal, especially those considered hazardous in these cases, the synthesis gas produced is often considered an extra rather than the main objective of the project. This work presents an analysis from the energetic. Due to the various operating parameters with which to act (plasma power and gasifying agents), the efficiency of the process can vary widely. Therefore, in this work process modeling for optimization and integration in a system for electricity generation is addressed. The methodology followed consisted of literature reviews, process simulations with the software Engineering Equation Solver (EES ) and implementation of the parametric analysis.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/13475</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/13475/files/TAZ-TFM-2014-030.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>gasification</dc:subject>
+    <dc:subject>plasma</dc:subject>
+    <dc:subject>energy</dc:subject>
+    <dc:subject>Máster Universitario en Energías Renovables y Eficiencia Energética</dc:subject>
+    <dc:title>Plasma gasification: state of the art, modeling and applications</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

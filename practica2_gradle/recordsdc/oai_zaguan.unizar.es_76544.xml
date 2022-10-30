@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sagüés Blázquiz, Carlos</dc:contributor>
+    <dc:creator>Tierz Latasa, Alicia</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>El objetivo de este trabajo es la implementación de herramientas basadas en redes neuronales para el reconocimiento de alimentos en una encimera y su manipulación. El conjunto se enmarca  en proyecto con BSH para el desarrollo de un asistente de cocina. La solución final es muy ambiciosa y este TFG aborda aspectos preliminares de reconocimiento de alimentos y acciones relacionadas con su manipulación. Se propone trabajar con “dataset” existentes aunque se puede particularizar a imágenes capturadas con nuestras cámaras RGB-D.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76544</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76544/files/TAZ-TFG-2018-3691.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Electrónica y Automática</dc:subject>
+    <dc:title>Reconocimiento de alimentos y manipulación con redes neuronales</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Recognition of food and actions with neuronal networks</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Cuartero Salafranca, Jesús</dc:contributor>
+    <dc:contributor>Mateos López, Juan José</dc:contributor>
+    <dc:creator>Ereza Serrano, Alberto</dc:creator>
+    <dc:date>2020</dc:date>
+    <dc:description>El trabajo consiste en el diseño de un transformador eléctrico seco, donde en primer lugar se ha realizado la selección de materiales de diseño y análisis de las propiedades de dichos materiales. Se han realizado todos los calculos eléctricos, asi como los cálculos de las corrientes de cortocircuito con las que mediante programas de simulación se han obtenido las fuerzas generadas en el propio transformador. Con estas fuerzas se han calculado los esfuerzos que tienen que soportar cada una de las partes del diseño y se han comparado y analizado con los esfuerzos límite que son capaces de soportar estos materiales, para garantizar un perfecto funcionamiento del transformador.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/90139</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería e Infraestructura de los Transportes</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/90139/files/TAZ-TFG-2020-011.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Análisis y diseño de un transformador eléctrico seco</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Analysis and design of a dry electric transformer</dc:title>
+</oai_dc:dc>

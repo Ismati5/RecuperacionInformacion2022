@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Morales Hernández, Mario</dc:contributor>
+    <dc:contributor>Brufau García, Pilar</dc:contributor>
+    <dc:creator>Echeverribar Pérez, Isabel</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>En este trabajo se realiza un estudio de posibles soluciones para mitigar las inundaciones que tienen lugar cíclicamente en el tramo medio del río Ebro mediante simulación numérica. El problema se ha abordado con una herramienta computacional desarrollada en el área de Mecánica de Fluidos llamada Riverflow que resuelve el flujo de superficie libre 2D. Como posibles medidas de mitigación se proponen escenarios de limpieza de vegetación del cauce imponiendo diferentes coeficientes de rozamiento de Manning que reflejan la pérdida de energía por rozamiento, uso de zonas de inundación controlada para intentar retrasar tiempo y pico de llegada del máximo de la onda de caudal del hidrograma de avenida y construcción de nuevas motas en zonas que se quieren proteger y evitar que se vean afectadas por la inundación. En todas estas situaciones se parte de un modelo digital de terreno (MDT) de la zona (Castejón de Ebro-Zaragoza), se construye una malla de cálculo adecuada y calibrada con inundaciones recientes y se analiza la respuesta del río a un hidrograma de avenida en términos de altura de agua, velocidad, área máxima inundada y evolución temporal de calado en puntos sonda a lo largo de cauce y llanuras, para poder obtener cuál sería la mejor de las opciones propuestas de cara a mitigar estos sucesos en el futuro.  Los resultados y conclusiones se muestran en la memoria y anexos de este trabajo así como a través de vídeos en el portal de Youtube.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/57478</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/57478/files/TAZ-TFG-2016-423.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Estudio de soluciones para mitigar inundaciones en el tramo medio del río Ebro mediante simulación numérica</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

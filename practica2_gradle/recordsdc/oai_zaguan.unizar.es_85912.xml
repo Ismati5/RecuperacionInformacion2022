@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bel Cacho, José David</dc:contributor>
+    <dc:creator>Lidón Hernández, Ester</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>El objetivo de este TFG es comprobar si la estructura de la cubierta del anfiteatro del Parque de La Paz en Zaragoza, que data de los años 80, resiste las cargas establecidas por la normativa actual (Código Técnico de la Edificación).  Se utilizará un programa análisis por elementos finitos para simular la estructura bajo la acción de diferentes cargas. Se determinarán las propiedades más adecuadas de la membrana para reproducir los datos que figuran en la memoria de cálculo del proyecto original lo más fielmente que sea posible. Una vez validado el modelo de cálculo se analizará el efecto de las cargas de viento y nieve que establece el Código Técnico de la Edificación.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/85912</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/85912/files/TAZ-TFG-2019-084.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Análisis estructural de la cubierta del anfiteatro del parque de La Paz en Zaragoza</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Structural analysis of the amphitheatre canopy located in La Paz park (Zaragoza)</dc:title>
+</oai_dc:dc>

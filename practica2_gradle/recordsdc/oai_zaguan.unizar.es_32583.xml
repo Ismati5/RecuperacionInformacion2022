@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Perote Peña, Juan</dc:contributor>
+    <dc:creator>Arié Mosteo, Raquel</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>En este trabajo voy a realizar una comprobación de la hipótesis de la competencia perfecta en el mercado de un bien de consumo cualquiera. En concreto, he tomado una muestra de empresas para comprobar la adecuación de la teoría clásica y algunas de sus variantes. La muestra escogida consiste en los 20 bares que hay distribuidos a lo largo de una avenida principal de Zaragoza, utilizando como bien homogéneo de referencia la caña de cerveza. Tras análisis de los datos descarto la competencia perfecta como modelo explicativo de los precios, por lo que me planteo modelos alternativos de oligopolio. Como primera aproximación utilizo una extensión del modelo de Hotelling para estimar los precios suponiendo que su variación podría ser debida a la competencia imperfecta. En una segunda etapa aplico una versión reducida del modelo de Bertrand con producto diferenciado para así obtener de las regresiones econométricas resultantes la influencia de diferentes variables sobre los precios. Como resultado he obtenido que ambos modelos no consiguen explicar totalmente la dispersión de precios, por lo que finalmente propongo una serie de alternativas que podrían explicar la variación, como la calidad del servicio, la importancia del coste fijo, la psicología del consumidor o variables como la reputación o experiencia de la empresa en el mercado.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/32583</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Análisis Económico; Área de Fundamentos del Análisis Económico</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/32583/files/TAZ-TFG-2015-3477.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Administración y Dirección de Empresas</dc:subject>
+    <dc:title>Calibración y estimación de modelos económicos de competencia en precios, con un bien de consumo homogéneo.</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

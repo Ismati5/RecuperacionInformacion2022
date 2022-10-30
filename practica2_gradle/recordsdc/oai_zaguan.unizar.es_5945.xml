@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Abad Blasco, Javier Óscar</dc:contributor>
+    <dc:creator>Dapena Gómez, Nicolás</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Se trata de un proyecto de investigación llevado a cabo en el Departamento de Mantenimiento Industrial perteneciente a la nave de carrocerías de General Motors. Este proyecto tiene como objetivo diseñar y optimizar los soportes estructurales de los modelos de robots ABB IRB 6400, FANUC R2000iA y FANUC 420-SW para lograr su inmovilización mecánica en las líneas de producción. Esto permitirá realizar las operaciones de mantenimiento necesarias tales como la sustitución de motores o conjuntos reductores dentro de las líneas de producción en forma segura,rápida y eficaz. Lo anterior permitirá eliminar el paso intermedio de desmontar los robots en las líneas de producción y transportarlos al taller mecánico para realizar las respectivas reparaciones.  Esta acción conlleva a un importante ahorro económico englobando aspectos de personal y logística que intervienen en los procedimientos que en la actualidad se desarrollan para estas reparaciones. Además de lo mencionado anteriormente, la utilización de estos soportes estructurales, evitará la reprogramación de los robots de tal manera que una vez reparados quedarán totalmente inmovilizados evitando las desviaciones en los reductores.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5945</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería Mecánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5945/files/TAZ-PFC-2011-264.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>mantenimiento en robots</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Cálculo, rediseño y optimización de soportes para el cambio de motores y conjuntos reductores en robots</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

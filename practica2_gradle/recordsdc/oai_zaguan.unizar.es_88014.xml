@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Wittenberg, Olivier</dc:contributor>
+    <dc:creator>Ibáñez Núñez, Andrés</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>La théorie de Galois des corps a des relations étroites avec celle des revêtements topologiques. Les actions d’un groupe et les revêtements ramifiés des surfaces de Riemann ont aussi des caractéristiques similaires. Ces connexions s’expriment de façon très précise comme des équivalences de catégories.&lt;br /&gt;Dans ce travail, on présente et démontre ces équivalences. Elles fournissent un dictionnaire qui permet de regarder le même problème avec des points de vue très différents. Ce changement de cadre peut être une méthode puissante. On s’en sert pour montrer que tout groupe fini se réalise comme le groupe de Galois d’une extension galoisienne du corps C(t) des fractions rationnelles complexes. Finalement, on calcule son groupe de Galois absolu, toujours à l’aide des équivalences de catégories entre extensions des corps de fonctions méromorphes, revêtements ramifiés des surfaces de Riemann, revêtements topologiques et actions des groupes.&lt;br /&gt;La teoría de Galois de cuerpos tiene estrechas relaciones con la de recubrimientos topológicos. Las acciones de un grupo y los recubrimientos ramificados de superficies de Riemann también tienen características similares. Estas conexiones se expresan de manera muy precisa como equivalencias de categorías.&lt;br /&gt;En este trabajo, presentamos y demostramos estas equivalencias, que nos dan un diccionario que permite mirar el mismo problema con dos puntos de vista muy diferentes. Utilizamos esta potencia para mostrar que todo grupo finito se realiza como el grupo de Galois de una extensión de Galois del cuerpo C(t) de fracciones racionales complejas. Finalmente, calculamos su grupo de Galois absoluto, siempre con la ayuda de las equivalencias de categorías entre extensiones de cuerpos de funciones meromorfas, recubrimientos ramificados de superficies de Riemann, recubrimientos topológicos y acciones de grupos.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/88014</dc:identifier>
+    <dc:language>fre</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/88014/files/TAZ-TFG-2019-3609.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Matemáticas</dc:subject>
+    <dc:title>Le groupe de Galois absolu de C(t)</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">About the absolute Galois group of C(t)</dc:title>
+</oai_dc:dc>

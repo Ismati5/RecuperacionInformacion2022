@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Cueto Prendes, Elías</dc:contributor>
+    <dc:creator>Calvo García-Pellicer, Angel Luis</dc:creator>
+    <dc:date>2020</dc:date>
+    <dc:description>En el presente proyecto se ha realizado un estudio comprensivo y explicativo sobre de la obra arquitectónica de Ildefonso Sánchez del Río, un excelente ingeniero civil que vivió el siglo pasado (1898-1980) y que dedicó su carrera profesional al estudio, desarrollo, proyección y construcción de cubiertas de grandes luces de hormigón armado, tanto nervadas como laminares. Entre sus hazañas más destacables se encuentra la gestación de su método original de las dovelas-onda para la construcción de bóvedas de cañón parabólico de grandes luces.&lt;br /&gt;La pretensión subyacente del proyecto es ilustrar el ingenio que el autor esconde tras su obra.  &lt;br /&gt;Además de realizarse una revisión bibliográfica de sus obras más originales presentando y explicando sus detalles técnicos y metodologías constructivas, el fundamento troncal del trabajo se basa en el modelado y análisis resistente mediante el software de elementos finitos Abaqus de dos de sus estructuras más impresionantes: el Palacio de los Deportes de Oviedo (1975) y el Paraguas Octogonal de Pola de Siero (1972).  Se explican en detalle el funcionamiento estructural de estos edificios y el por qué de las geometrías, los materiales y su disposición en la obra.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/90123</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/90123/files/TAZ-TFG-2020-037.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Estudio de la obra arquitectónica de Ildefonso Sánchez del Río</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">An analysis of the architectural work of the Spanish architect Ildefonso Sánchez del Río</dc:title>
+</oai_dc:dc>

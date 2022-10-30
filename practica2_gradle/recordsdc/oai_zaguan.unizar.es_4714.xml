@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Vilalta Esteban, Ignacio</dc:contributor>
+    <dc:contributor>Merseguer Hernáiz, José Javier</dc:contributor>
+    <dc:creator>Carrey Labarta, Juan</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>Se trata del desarrollo e implantación de una aplicación Web para la gestión de auditorías de calidad internas que actualmente la empresa Comex Grupo Ibérica realiza de forma manual. Esta aplicación permitirá la administración de la misma de forma privada, permitiendo gestionar al personal (auditados/auditores), los proyectos y procesos (partes del proyecto) que se auditan, los tipos de auditoría existentes así como las preguntas que se realizan en cada auditoría. Además se podrán gestionar diversos parámetros para la realización de avisos automáticos que sirven para recordar a los interesados de hitos o fases de las auditorías. Por otra parte y de forma separada existirá una parte pública donde se podrán ejecutar auditorías, comprobar el seguimiento de las no conformidades (respuestas negativas a las preguntas) del proyecto y acceder a diversos informes y métricas calculadas por el sistema. La aplicación obtendrá información de los proyectos y personal de la empresa a través de un servicio Web existente, almacenándose en cada caso la información relevante. La arquitectura del sistema se basa en un diseño de tres capas: Una capa de presentación en HTML / JSP, utilizando Ajax y ejecutándose sobre un servidor Tomcat. Una capa de control, basada en componentes de Spring, donde se intercambiarán los datos con la capa de presentación y se ejecutarán las acciones correspondientes para obtener los datos. Una capa de acceso a datos basada en el patrón de diseño Data access object (DAO) y accediendo a ella a través de una fachada (patrón facade). Además existen dos capas de seguridad intermedias para el acceso a la parte privada, una previa a la capa de vista y otra en la capa de acceso a datos. El motor de base de datos utilizado es SQL Server 2005, para acceder a él utilizaremos Java Persistence Api (JPA) como mapeador objeto-relacional (Object Relational Mapping ORM) utilizando la implementación de Hibernate, aunque realizando una implementación fiel al estándar Java Persistence API (JPA) sin utilizar aspectos propios a la implementación de Hibernate. Se han realizado las pruebas necesarias para la validación y verificación del buen funcionamiento del software. Esta aplicación pretende solventar la problemática existente de la distribución de las hojas Excel del método manual que dificultan en gran medida la realización de seguimientos, informes generales, cálculos de métricas, fechas de auditorías, etc.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4714</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4714/files/TAZ-PFC-2010-064_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/4714/files/TAZ-PFC-2010-064.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Aplicación web</dc:subject>
+    <dc:subject>Gestión</dc:subject>
+    <dc:subject>Auditorías</dc:subject>
+    <dc:subject>Calidad</dc:subject>
+    <dc:subject>Comex</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Aplicación web para la ejecución y gestión de auditorías de calidad internas</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Usón Sardaña, Antonio</dc:contributor>
+    <dc:creator>Gijón Marín, Mario</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Mediante el presente proyecto fin de carrera se pretende llevar a cabo la construcción de un prototipo formado por un disco de imanes permanentes que gire indefinidamente, gracias a la ayuda del campo magnético rotativo producido por una bobina alimentada por la red eléctrica. Así mismo, se analizará el funcionamiento del dispositivo y el comportamiento del campo magnético rotativo mediante instrumental de laboratorio y se simulará mediante el método de elementos finitos (MEF) a través del programa informático FEMM 4.2.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8728</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8728/files/TAZ-PFC-2012-486.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>móvil perpetuo</dc:subject>
+    <dc:subject>método de elementos finitos</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electrónica Industrial)</dc:subject>
+    <dc:title>Análisis mediante el MEF del campo magnético rotativo de un "móvil perpetuo"</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

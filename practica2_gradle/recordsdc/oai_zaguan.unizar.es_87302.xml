@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Guerrero Campo, José Jesús</dc:contributor>
+    <dc:contributor>Bermúdez Cameo, Jesús</dc:contributor>
+    <dc:creator>Berenguel Baeta, Samuel Bruno</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>La motivación de este proyecto es la necesidad de bases de imágenes omnidireccionales y panorámicas para visión por computador. Su elevado campo de visión permite obtener una gran cantidad de información del entorno a partir de una única imagen. Sin embargo, la distorsión propia de estas imágenes requiere desarrollar algoritmos específicos para su tratamiento e interpretación. Además, un elevado número de imágenes es imprescindible para el correcto entrenamiento de algoritmos de visión por computador basados en aprendizaje profundo. La adquisición, etiquetado y preparación de estas imágenes de forma manual con sistemas reales requiere una cantidad de tiempo y volumen de trabajo que en la práctica limita el tamaño de estas bases de datos. En este trabajo se propone la implementación de una herramienta que permita generar imágenes omnidireccionales sintéticas fotorrealistas que automatice la generación y el etiquetado como estrategia para aumentar el tamaño de estas bases de datos. Este trabajo se apoya en los entornos virtuales que se pueden crear con el motor de videojuegos Unreal Engine 4, el cual se utiliza junto a uno de sus plugin, UnrealCV. A partir de estos entornos virtuales se construyen imágenes de una variedad de cámaras omnidireccionales y 360º con calidad fotorrealista. Las características del entorno permiten además generar imágenes de profundidad y semánticas. Al hacerse todo de forma virtual, se pueden controlar los parámetros de adquisición de la cámara y las características del entorno, permitiendo construir una base de datos con un etiquetado automático sin supervisión. Conocidos los parámetros de calibración, posición y orientación de la cámara y la distribución del entorno y sus objetos, se puede conseguir el ground truth para diversos algoritmos de visión. Con las imágenes e información que se dispone, se pueden evaluar algoritmos de extracción de rectas en imágenes dióptricas y catadióptricas, obtención de layouts en panoramas o métodos de reconstrucción 3D como la localización y mapeado simultáneos (SLAM).&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87302</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87302/files/TAZ-TFM-2019-1437_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/87302/files/TAZ-TFM-2019-1437.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Industrial</dc:subject>
+    <dc:title>Simulador de imágenes omnidireccionales fotorealistas para visión por computador</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Photo-realistic and omnidirectional image simulator for computer vision</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Nogueras Iso, Francisco Javier</dc:contributor>
+    <dc:contributor>Latre Abadía, Miguel Ángel</dc:contributor>
+    <dc:creator>Valencia Vásconez, Ginger Janet</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Este Trabajo Fin de Grado consiste en el estudio y desarrollo de un prototipo de componente para automatizar pruebas de aceptación de usuario en aplicaciones desarrolladas en Android  a partir de diagramas representativos de la aplicación a probar, tales como diagramas de actividad a nivel de análisis o diagramas de navegación de la aplicación. Actualmente es posible realizar pruebas de usuario completas utilizando distintas herramientas, las cuales necesitan una preparación previa por parte de los programadores/usuarios de pruebas. Esta preparación suele consistir en el desarrollo de descripciones del comportamiento de la aplicación, realización de diversos diagramas y programación de código extra, lo cual resulta en una inversión elevada de tiempo y recursos. Este TFG tiene como objetivo estudiar la manera de unificar y automatizar algunos de los diversos métodos existentes para facilitar así la realización de pruebas. Para ello, se han seleccionado distintas herramientas y se han enlazado con ayuda de un módulo desarrollado para tal fin, obteniendo como resultado la simplificación del proceso de preparación previo a la realización de las pruebas. Como entrada es necesario tan solo un diagrama y como salida se obtiene una implementación parcial del código necesario para ejecutar dichas pruebas. Para la implementación se ha utilizado: Java 8 SE como lenguaje de programación, Android Studio como entorno de programación; Gradle como herramienta de construcción y gestión de proyectos en Android Studio; GraphWalker y YEd Graph Editor para el diseño automático de los casos de prueba; Cucumber y Gherkin como entornos de automatización de la ejecución de pruebas; y Espresso, e implícitamente JUnit, como tecnología para automatizar las pruebas que actúan sobre el interfaz gráfico de usuario de  las aplicaciones móviles.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61392</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61392/files/TAZ-TFG-2017-083.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>Automatización de pruebas de aceptación de usuario para aplicaciones móviles desarrolladas en Android</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Automation of user acceptance tests for mobile applications developed on Android platform</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Navarro, Pilar</dc:contributor>
+    <dc:contributor>Murillo Castarlenas, Javier</dc:contributor>
+    <dc:creator>Pérez Abad, Patricia</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>Aunque se han desarrollado modelos matemáticos, cada vez más complicados, para definir los procesos biológicos que tienen lugar en una Estación de Depuración de Aguas Residuales, el modelado de otros aspectos de los sistemas de tratamiento de aguas residuales, como la descripción en detalle de la hidrodinámica del reactor y su infuencia, siguen siendo cuestiones poco desarrolladas. Por este motivo, el objeto de la realización de este proyecto, es la elaboración y puesta a punto de una herramienta de simulación, que permita predecir el comportamiento de un reactor perteneciente al Proceso Orbal y en el que tiene lugar un tratamiento de lodos activados. Al hablar del comportamiento del reactor, se hace referencia tanto a la evolución de las sustancias implicadas en el proceso, como a la descripción del fujo en el sistema. Esto último se consigue utilizando un modelo matemático basado en las ecuaciones de aguas poco profundas, que describe la dinámica del fujo y que se completa al introducir en su formulación las leyes que gobiernan la cinética del proceso de tratamiento del agua residual. Para evaluar la validez del modelo dinámico, se estudia un caso sobre un codo de 90o del que se tiene información experimental. En un primer paso y como caso ideal, se utilizan las ecuaciones propuestas por el Modelo de Monod para describir la cinética del proceso biológico y a continuación, como aproximación al caso real, se sustituyen las expresiones de Monod por las del Modelo de Lodos Activados No1 (ASM1). El modelo extendido se ensaya primero en un canal recto donde el fujo es unidimensional. Estos ensayos incluyen el estudio de la evolución de las sustancias dentro del reactor, la infuencia de la cantidad de oxígeno disuelto presente en el agua, la densidad de la malla de cálculo y el volumen de agua tratada. Por último se introduce en el modelo una última modificación para incluir el efecto de un sistema de aireación mecánica típica del Proceso Orbal. Tras los casos de estudio sobre el canal 1D, se estudia la validez del modelo sobre una malla de cálculo que reproduce la geometría de un reactor perteneciente al Proceso Orbal. Sobre esta nueva geometría, más complicada que el caso 1D, se evalúa la modelización de los sistemas de aireación, incluyendo, velocidad y sentido de giro de los discos. También se estudia el movimiento de un soluto sin reacción dentro del sistema, así como la evolución del mismo, cuando tiene lugar en él, un tratamiento de lodos activados completo. Como ejemplo de aplicación, se presenta un caso de estudio de la evolución del sistema frente a un caudal pico de agua residual a tratar en la entrada al reactor, situación cotidiana en este tipo de instalaciones.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4925</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4925/files/TAZ-PFC-2010-124_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/4925/files/TAZ-PFC-2010-124.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>EDAR</dc:subject>
+    <dc:subject>ASM1</dc:subject>
+    <dc:subject>esquema numérico</dc:subject>
+    <dc:subject>simulación</dc:subject>
+    <dc:subject>transporte</dc:subject>
+    <dc:subject>reacción</dc:subject>
+    <dc:subject>aguas poco profundas</dc:subject>
+    <dc:subject>Monod</dc:subject>
+    <dc:subject>lodos activados</dc:subject>
+    <dc:subject>Ingeniero Químico</dc:subject>
+    <dc:title>Modelización bidimensional de fujos hidrodinámicos transitorios y su influencia en los procesos biológicos de una Estación de Depuración de Aguas Residuales</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

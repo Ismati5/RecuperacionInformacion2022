@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Hernández Solana, María Ángela</dc:contributor>
+    <dc:creator>Salvo Barco, Luis</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>En el desarrollo de las redes de nueva generación, destaca la tecnología LTE (Long Term Evolution), basada en la técnica de acceso OFDMA (Orthogonal Frequency Division Multiple Access). Una tarea importante en estos sistemas es el aprovechamiento de los recursos espectrales y de potencia disponibles garantizando unos determinados valores para los parámetros de calidad de servicio o QoS (Quality of Service) establecidos. Para conseguir este aprovechamiento existen diversas técnicas como la gestión del control de admisión y congestión, el control de las interferencias intercelulares, control de la movilidad, balanceo de carga, control de potencia, “scheduling” de paquetes, etc. En este proyecto fin de carrera se evaluarán procedimientos de scheduling flexibles y eficientes capaces de explotar la diversidad frecuencial y temporal del canal, satisfaciendo las necesidades de los usuarios en la célula y proporcionando QoS diferenciada. Las propuestas analizadas y evaluadas incluyen criterios de ordenación dependientes de tasa, retardo y condiciones de canal. Se considerarán de forma explícita las restricciones impuestas por los mecanismos de mitigación de interferencias y control de potencia, suposiciones realistas con respecto a la capacidad de estimación del canal y los niveles de interferencia, la granularidad en la asignación de subportadoras y el conjunto de esquemas de modulación y codificación a utilizar. Se considerarán estructuras MAC compatibles con este modo de funcionamiento, y sobre ellas se procederá al estudio, adaptación y evaluación mediante simulación de los esquemas de gestión de recursos radio. El objetivo es maximizar el número de usuarios soportables. Para ello se evaluarán los algoritmos de scheduling empleados en diversas situaciones, cambiando los tipos de tráfico y los periodos de actividad y silencio empleados para modelar el sistema. También se probará el efecto de la aplicación de un bloqueo inicial sobre los usuarios con peores condiciones de canal para los distintos algoritmos, comparando los resultados obtenidos con los que se sacaron sin este bloqueo y determinando en cada escenario la conveniencia o no de su utilización.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6124</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingeniería Telemática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6124/files/TAZ-PFC-2011-353.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>scheduling</dc:subject>
+    <dc:subject>ofdma</dc:subject>
+    <dc:subject>redes móviles de banda ancha</dc:subject>
+    <dc:subject>lte</dc:subject>
+    <dc:subject>qos</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicaciones</dc:subject>
+    <dc:title>Scheduling y provisión de QoS en redes móviles 4G OFDMA</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

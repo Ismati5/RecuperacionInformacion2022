@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Saz Sánchez, Miguel Ángel</dc:contributor>
+    <dc:contributor>Buisán Sanz, Samuel</dc:contributor>
+    <dc:creator>Clavel Muro, Paula</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>La importancia del clima en el conocimiento de determinados procesos que se producen en entornos de montaña está influenciada por factores como la vegetación, clima, usos del suelo y sobretodo por los recursos hídricos. Para una apropiada descripción climática es necesario una red de observación meteorológica caracterizada por una densidad de observatorios lo mas elevada posible, así como una una apropiada distribución espacial y altitudinal. Sin embargo, la densidad de puntos de observación meteorológica en altura, a más de 1500 msnm, en el Pirineo es baja y por tanto los estudios climáticos actuales en zonas de montaña se basan en series climáticas que se localizan en zonas pobladas en valles. En este trabajo se pretende evaluar el impacto de introducir observatorios en altura sobre la generación de resultados cartográficos de precipitación y temperatura tanto a nivel anual como estacional. Además, se han analizado fenómenos como las inversiones térmicas en el Valle de Tena debido a la mayor densidad de observatorios en altura en este valle.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/16439</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio; Área de Análisis Geográfico Regional</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/16439/files/TAZ-TFM-2014-603_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/16439/files/TAZ-TFM-2014-603.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>pirineo central</dc:subject>
+    <dc:subject>temperatura</dc:subject>
+    <dc:subject>precipitación</dc:subject>
+    <dc:subject>modelización espacial</dc:subject>
+    <dc:subject>gradientes altitudinales</dc:subject>
+    <dc:subject>Máster Universitario en Tecnologías de la Información Geográfica para la Ordenación del Territorio: Sistemas de Información Geográfica y Teledetección</dc:subject>
+    <dc:title>Evaluación de modelos de predicción de datos climáticos en entornos de montaña: el caso del Pirineo</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

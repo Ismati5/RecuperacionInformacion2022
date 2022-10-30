@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Jiménez Seral, Paz</dc:contributor>
+    <dc:creator>Vallés Morales, María</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>La fórmula del Teorema de Redfield-Pólya relaciona la acción de un grupo G sobre un conjunto $D$ con la acción de un grupo G sobre un conjunto, al que llamemos conjunto de coloraciones, Ω= {f: D --&gt; R}, con R un conjunto cualquiera. Partiendo del lema de Burnside, que sirve para contar órbitas. Pólya da la fórmula que mide el número de órbitas de la acción de G sobre el conjunto de coloraciones a partir de un polinomio que se contruye conociendo la acción de G sobre D. Esta teoría sirve para responder preguntas como:  ¿De cuántas maneras diferentes puedo pintar una pirámide utilizando dos colores? ¿De cuántas maneras diferentes puedo pintar un cubo utilizando los colores rojo, verde y azul? ¿De cuántas maneras puedo numerar un cubo con números del 1 al 10 de manera que la suma de sus lados sea 20? Si quiero pintar un dodecaedro con rojo, verde y naranja, ¿cuántos dodecaedros de los que pinte tendrán al menos una cara roja?</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64236</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Matemáticas; Área de Algebra</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64236/files/TAZ-TFG-2017-2200.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Matemáticas</dc:subject>
+    <dc:title>Teorema de Enumeración de Redfield-Pólya</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Redfield-Pólya's Theory of Enumeration</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Hauke Bernardos, Guillermo</dc:contributor>
+    <dc:creator>Domingo Félez, Alberto</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Este proyecto está dirigido a responder una cuestión técnica planteada por la Sociedad del Canal de la Provenza. Se trata de estudiar la factibilidad del reemplazo de los depósitos hidro-neumáticos, utilizadas actualmente, por volantes de inercia. Esperamos también, simplificar y reducir el coste de  mantenimiento para ciertas estaciones de bombeo. El estudio comprende trabajos de simulación numérica basados en el método de las características, con el fin de modelizar el funcionamiento en régimen transitorio de redes hidráulicas para los casos de depósito hidro-neumático y volante de inercia. Tras el dimensionamiento de los medios de protección anti golpe de ariete, una evaluación económica es llevada a cabo para mostrar el interés de un cambio en los medios de protección frente al golpe de ariete. También se realiza una investigación técnica  para evaluar los problemas globales causados por la sustitución de los depósitos por los volantes de inercia.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9428</dc:identifier>
+    <dc:language>fre</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9428/files/TAZ-PFC-2012-672.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>golpe de ariete</dc:subject>
+    <dc:subject>deposito hidro-neumatico</dc:subject>
+    <dc:subject>volante de inercia</dc:subject>
+    <dc:subject>metodo de las caracteristicas</dc:subject>
+    <dc:subject>modelizacion digital</dc:subject>
+    <dc:subject>cebel</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Estudio de factibilidad del reemplazo de depósitos hidro-neumáticos por volantes de inercia en las estaciones de bombeo</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

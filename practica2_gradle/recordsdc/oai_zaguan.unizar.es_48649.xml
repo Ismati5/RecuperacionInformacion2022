@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Martínez Montiel, José María</dc:contributor>
+    <dc:creator>Cirauqui Viloria, Iñigo</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>Se presenta la evaluación de un sistema de Visual SLAM, el ORBSLAM, en escenas in vivo de endoscopia en animales. Un sistema de SLAM visual procesa la secuencia de imágenes que toma una cámara que se mueve por un entorno desconocido siguiendo una trayectoria también desconocida. A partir del procesamiento de la secuencia de imágenes el sistema proporciona, en tiempo real, tanto un mapa 3D de la escena como la posición de la camara respecto de este mapa. El ORBSLAM es un sistema diseñado para escenas de robótica móvil donde predominan los elementos rígidos. Se detalla la resintonía del sistema para adaptarlo al tratamiento de escenas que contienen elementos no rígidos. También se aborda la calibracióon del sistema. El codigo original del sistema se modifica para visualizar y recoger datos de forma detallada en los dos pasos que están limitando el funcionamiento del sistema en escenas de endoscopia: el tracking de la camara y la gestión de puntos del mapa. Posteriormente se recopilan datos estadísticos que denen el funcionamiento en 19 secuencias tomadas in-vivo durante operaciones de endoscopia en animales. Tras un estudio se detallan los condicionantes para un funcionamiento correcto y se proponen diversas líneas de trabajo futuro con las que continuar la investigación, en vistas de acabar logrando un sistema SLAM visual específico para secuencias médicas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/48649</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/48649/files/TAZ-TFG-2016-440.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Evaluación de ORBSLAM en secuencias de endoscopia médica</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

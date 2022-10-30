@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mena Nieto, Eduardo</dc:contributor>
+    <dc:creator>Murillo Castillo, Edgar</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>En este proyecto se ha implementado un videojuego de temática aragonesa, inspirado en el cartel de la primera edición del evento RetroMañía, celebrada en Zaragoza en 2007. Dicho cartel, estaba basado a su vez en el videojuego Space Invaders (Taito,1978); videojuego que representa fielmente el enfoque clásico de los primeros Shoot'EmUp o más comúnmente conocidos como mata-marcianos. El desarrollo del mismo ha sido realizado mediante una plataforma de desarrollo, mundialmente conocida y utilizada por desarrolladores de videojuegos, denominada GameMaker.  El objetivo principal ha sido implementar en su totalidad un videojuego, pasando por todas las fases de desarrollo que pueda tener hoy en día, con el objetivo de que sirva tanto de estudio de todo el proceso, como de guía.  Por lo que servirá de ejemplo a todos aquellos desarrolladores que quieran iniciarse tanto en la creación como adaptación de videojuegos antiguos y que dispongan o no, de nociones de programación, y cuyo objetivo sea hacer llegar su videojuego, en diversas plataformas de distribución y juego, a la mayor cantidad de usuarios posible.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61416</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61416/files/TAZ-PFC-2017-016.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Maño Invaders: Desarrollo de un videojuego completo usando GameMaker</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+    <dc:title xml:lang="en">Maño Invaders: Complete videogame development using GameMaker</dc:title>
+</oai_dc:dc>

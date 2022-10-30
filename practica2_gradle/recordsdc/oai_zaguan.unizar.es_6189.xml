@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gutiérrez Pérez, Diego</dc:contributor>
+    <dc:contributor>Reinhard, Erik</dc:contributor>
+    <dc:creator>López Moreno, Jorge Félix</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>A lo largo de los últimos años, las técnicas de edición y post-proceso de imagen han madurado hasta el  punto en que es muy difícil, si no imposible, detectar si una imagen has sido mejorada o modificada  digitalmente. A pesar de su avance,  actualmente este tipo de manipulaciones todavía requieren una gran  cantidad de tiempo,  destreza y amplios conocimientos técnicos y artísticos.  En esta tesis, presentamos nuestro trabajo en edición avanzada de imágenes. Trabajo que extiende el  abanico de herramientas actuales mediante el estudio de las limitaciones del sistema visual humano,  extrayendo dimensiones de información (como profundidad o textura) que de otra manera, serían  inabordables como problema inverso.  Nuestro  trabajo se fundamenta en dos pilares:  - La edición multimensional. Partiendo de una imagen bidimensional, mediante diversos algoritmos  extraemos niveles de información extra  que nos permiten realizar ediciones en un espacio  multidimensional para generar resultados bidimensionales.  Así por ejemplo, para reiluminar un  imagen extraemos la profundidad y la textura, calculamos las interacciones en 3D y generamos  una imagen bidimensional como resultado.  - El estudio de los límites de la percepción y la validación perceptual de resultados.  Nuestros  algoritmos serán diseñados teniendo en cuenta los conocimientos actuales acerca del  funcionamiento y limitaciones de la percepción humana, llegando a aportar nuestros propios  estudios al campo en lo referente a la percepción de inconsistencias lumínicas.  Por otro lado, al  trabajar en espacio perceptual, nuestros resultados serán validados mediante pruebas  psicofísicas objetivables, comparándonos con métodos que disponen de información perfecta  cuando ello sea posible.  A lo largo de la tesis presentamos una propuesta de esquema para el  procesado multimensional de  imágenes, para el que se han diseñado cuatro nuevos algoritmos destinados a la obtención de  información a partir de una sola imagen,  así como el desarrollo de cinco técnicas de edición basadas en  dicho esquema.  </dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6189</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6189/files/TUZ_0215_lopez_image.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6189/files/TESIS-2011-042.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>tratamiento dicgital de imágenes</dc:subject>
+    <dc:subject>visión artificial</dc:subject>
+    <dc:subject>digital image processing</dc:subject>
+    <dc:subject>artificial image</dc:subject>
+    <dc:title>Perception based image editing</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

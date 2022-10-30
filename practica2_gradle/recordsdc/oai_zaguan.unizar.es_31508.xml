@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Rodríguez, Juan Antonio</dc:contributor>
+    <dc:creator>Jaime Anadón, Félix</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El objetivo del presente proyecto es la caracterización experimental del aerosol de glicerina generado por un atomizador tipo Venturi-Vórtice. Se trata de obtener información de la atomización para líquidos viscosos que se consigue con estos dispositivos. Para ello se midió la velocidad y el diámetro de las gotas generadas en varias secciones transversales al eje del dispositivo con un PDA (Phase Doppler Anemometry). El equipo de medida permite la medida local de las variables mencionadas en las gotas que atraviesan una pequeña zona del espacio (de dimensiones menores que el milímetro). Para obtener perfiles de las distintas variables en las secciones de medida se realizó un barrido con un sistema de desplazamiento. Además de obtener los perfiles de diámetros y velocidades axiales medias en las secciones se estudió la correlación entre estas dos variables, así como otros parámetros estadísticos como la desviación típica de la velocidad. Fue necesario ajustar los parámetros ópticos del sistema de medida y realizar un montaje para la ubicación de las maquetas y del sistema de medida en el sistema de desplazamiento. La parte principal del proyecto fue la adquisición de los datos mencionados y su análisis para la obtención de tendencias y evolución de las distintas variables. El desarrollo del proyecto incluye una primera fase de acondicionamiento de la instalación experimental y de puesta a punto del equipo de medida. Posteriormente se realizaron las medidas ya resumidas y, finalmente, una fase de procesado y análisis de los resultados.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31508</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31508/files/TAZ-TFG-2014-2007.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/31508/files/TAZ-TFG-2014-2007_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>atomización</dc:subject>
+    <dc:subject>glicerina</dc:subject>
+    <dc:subject>vórtice</dc:subject>
+    <dc:subject>venturi</dc:subject>
+    <dc:subject>anemometría de desfase doppler</dc:subject>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Caracterización del aerosol de glicerina generado por un atomizador Venturi-Vórtice</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

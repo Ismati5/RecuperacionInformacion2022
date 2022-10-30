@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Auría Apilluelo, José M.</dc:contributor>
+    <dc:creator>González Ávila, Jose David</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Este proyecto tiene como objetivo el diseño virtual, calculo de rendimientos, ensamblaje e implantación de un sistema de recuperación de plásticos llamado Aglomerador Continuo en el flujo de producción de una empresa llamada Faurecia, que se encuentra en Tudela-Navarra, que se dedica a la inyección de piezas plásticas para el sector del automóvil como parachoques. El principal objetivo de la implantación de este sistema es para recuperar todas las piezas que no son validas y recuperarlas por medio del Aglomerador para volverlas a meter en las lineas de Inyección, así conseguir ahorrar dinero en materia prima y contribuir a el medio ambiente no desechandolos para que sean enterrados.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10655</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Expresión Gráfica de la Ingeniería</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10655/files/TAZ-PFC-2013-322.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>aglomerador contínuo</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Aglomerador continuo</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

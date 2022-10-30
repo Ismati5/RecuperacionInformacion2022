@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ben Kaabia, Monia</dc:contributor>
+    <dc:contributor>Montañés Bernal, Antonio</dc:contributor>
+    <dc:creator>Pérez-Aradros Muro, Cristina</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>En este trabajo, bajo el marco teórico de la ley de Okun, se trata de cuantificar la relación existente entre los ciclos económicos y los ciclos del desempleo tanto en el conjunto nacional como difiriendo por sexo. Para ello, se presenta una descripción de las tres formulaciones iniciales de la ley (1962) y se desarrollan las diferentes críticas que diversos autores han ido aportando. Una vez hecho esto,  se realiza un análisis de causalidad de las variables para, posteriormente, estimar por MCO el modelo utilizando la versión en brechas de la ley. Los resultados del análisis indican una relación causal del ciclo del crecimiento económico sobre el ciclo del desempleo y la existencia de diferentes efectos en hombres y mujeres tanto a corto como a largo.  Por último, se analiza y cuantifica la influencia del ciclo económico sobre la brecha del desempleo entre hombres y mujeres mediante la estimación y contraste de un modelo autorregresivo por umbrales cuyos resultados evidencian la existencia de asimetría, con un efecto contracíclico a largo plazo 1,8 veces superior en fases de contracción que en fases de expansión.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/17115</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Análisis Económico</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/17115/files/TAZ-TFG-2014-2297.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>ley de okun</dc:subject>
+    <dc:subject>distinción por sexo</dc:subject>
+    <dc:subject>ciclos</dc:subject>
+    <dc:subject>asimetría de la relación</dc:subject>
+    <dc:subject>Graduado en Administración y Dirección de Empresas</dc:subject>
+    <dc:title>Evidencia empírica de la ley de Okun en España: distinción por sexo y asimetría</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

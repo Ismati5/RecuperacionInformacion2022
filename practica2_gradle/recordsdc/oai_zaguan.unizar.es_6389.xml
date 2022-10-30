@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Montañés Espinosa, Antonio</dc:contributor>
+    <dc:creator>Galán González, Alberto</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Este proyecto corresponde al diseño y cálculo del conjunto de las instalaciones de una residencia de nueva construcción. La residencia está destinada para las personas de la tercera edad, y consta de cinco plantas. Según el REBT nos encontramos ante un edificio clasificado de pública concurrencia. Las instalaciones realizadas son: •Instalación eléctrica de baja tensión. •Instalación domótica. En la parte de instalación eléctrica se ha realizado los planos de iluminación, y fuerza del edifico, así como todos los cuadros unifilares de los que consta la residencia con sus respectivos cálculos y dimensionado de los diferentes elementos de la instalación. En la parte de la instalación domótica, durante la realización del proyecto he elegido diferentes sistemas domóticos. En el proyecto se detalla cada uno de los sistemas, así como las características de los componentes y su modo de instalación. Sistemas utilizados: •Jung (radio – bus). •Sonelco. •SimonVit@. Para la creación y manejo de la luminosidad artificial he optado por un sistema Radio-Bus (Jung) por su facilidad de colocación, instalación, configuración y creación de escenas luminosas. Con este sistema también se puede controlar a distancia toda la iluminación interior, sensores de luminosidad. Para la parte de sonido en los dormitorios he optado por Sonelco, permitiendo un encendido en cada habitación e independiente para todos los circuitos y pudiéndose escuchar la radio sintonizando cualquier emisora dentro de ellas. En la parte de la central domótica, he elegido SimonVit@, ya que me permite usar una amplia gama de elementos como seguridad, gestión energética y confort. También cabe destacar que con este sistema se puede controlar también los dos sistemas citados anteriormente. Con este sistema he implantado los elementos de detección de humos, detección por inundación,  sistemas anti-intrusión, y control persianas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6389</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6389/files/TAZ-PFC-2011-549_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6389/files/TAZ-PFC-2011-549.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>instalación electrica edificio</dc:subject>
+    <dc:subject>domótica</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electricidad)</dc:subject>
+    <dc:title>Instalación eléctrica y domótica de una residencia de la tercera edad</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

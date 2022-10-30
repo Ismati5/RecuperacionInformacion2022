@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Aínsa Claver, José Antonio</dc:contributor>
+    <dc:contributor>Dias Rodrigues, Liliana Isabel</dc:contributor>
+    <dc:creator>Sainz de la Maza Arnal, Pilar</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>La tuberculosis,cuyo agente causal es Mycobacterium tuberculosis,continúa siendo una de las enfermedades infecciosas de mayor impacto social. Las bombas de eflujo son proteínas de membrana encargadas en el transporte de compuestos al exterior de la bacteria. En este proyecto, se pretendía llevar a cabo la caracterización en E. coli de las bombas Rv1258c (Tap), Rv1410c (P55) y Rv2942 (MmpL7) pertenecientes a M. tuberculosis e implicadas en la resistencia intrínseca a varios compuestos, con el objetivo de soslayar el lento crecimiento de las micobacterias y la complejidad de su envoltura bacteriana.  Con las cepas generadas se llevaron a cabo ensayos de resistencia a diversos fármacos, estudios de acumulación de eflujo, así como la determinación del nivel de expresión y producción de las proteínas micobacterianas en la membrana de E. coli. Tras no observarse ningún tipo de diferencia significativa en los ensayos de  susceptibilidad entre las cepas deleccionadas en sus propias bombas y las  complementadas con las proteínas micobacterianas, se llevó a cabo la construcción del mutante oxyR en E. coli. La generación de esta cepa fue un nuevo intento de correlacionar nuestro modelo de estudio con M. tuberculosis, ya que este microorganismo es altamente sensible a la isoniazida, lo cual ha sido atribuido a lesiones en dicho gen. No obstante, al transformar el mutante knock-­out de E. coli deleccionado en oxyR con las bombas micobacterianas no se observó complementación alguna. Los ensayos de PCR a tiempo real revelaron que las bombas Tap y P55 se estaban transcribiendo, sin embargo, no se puede afirmar que se estén sintetizando en la membrana ya que no fueron identificadas mediante ensayos de proteómica. En definitiva, es necesario seguir trabajando en el desarrollo de este modelo para asegurar que estas proteínas micobacterianas se están produciendo y que lo hacen de una manera funcional, ya que la pared bacteriana de M. tuberculosis es mucho más compleja e hidrofóbica que la de E. coli.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/14832</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Bioquímica y Biología Molecular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/14832/files/TAZ-TFM-2014-152.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>mycobacterium tuberculosis</dc:subject>
+    <dc:subject>tubercuolosis</dc:subject>
+    <dc:subject>bombas de eflujo</dc:subject>
+    <dc:subject>oxyr</dc:subject>
+    <dc:subject>isoniazida</dc:subject>
+    <dc:subject>tap</dc:subject>
+    <dc:subject>p55</dc:subject>
+    <dc:subject>mmpl7</dc:subject>
+    <dc:subject>Máster Universitario en Biología Molecular y Celular</dc:subject>
+    <dc:title>Estudio de la actividad de bombas de eflujo de Mycobacterium tuberculosis en un modelo de Escherichia coli</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

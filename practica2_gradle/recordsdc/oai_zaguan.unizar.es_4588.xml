@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Guallar Paracuellos, Jesús</dc:contributor>
+    <dc:creator>Ezquerra Bosqued, Juan Luis</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>En este trabajo se pretende revisar la bibliografía actual de los ciclos ORC e investigar el uso de distintos fluidos de trabajo, tanto si son puros como mezclas, que permitan aumentar la absorción de calor de fuentes de calor a baja temperatura al mismo tiempo que mantienen o incluso mejoran la eficiencia del ciclo de potencia empleado para la extracción de potencia. En este trabajo se estudiarán y analizarán las diferentes alternativas que se utilizan para mejorar los procesos de revalorización energética de fuentes de calor de baja o muy baja temperatura y las configuraciones posibles de ciclos de potencia con estas fuentes térmicas. En  concreto en este proyecto se pretende desarrollar la modelización de distintas configuraciones de ciclos de potencia Rankine (ORC) con el programa EES.  En esta modelización se analizará el comportamiento de los diferentes fluidos de trabajo para diferentes rangos de temperaturas, y condiciones de operación, con el fin de estudiar el comportamiento de cada ciclo, respecto de los parámetros de rendimiento. Además, se  hará  especial hincapié en los procesos de transferencia de calor y las pérdidas de carga de la instalación.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4588</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4588/files/TAZ-PFC-2010-022_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/4588/files/TAZ-PFC-2010-022.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ciclo Rankine Orgánico</dc:subject>
+    <dc:subject>ORC</dc:subject>
+    <dc:subject>Fluido de trabajo</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Estudio de fluidos de trabajo para ciclos Rankine orgánicos a baja temperatura</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

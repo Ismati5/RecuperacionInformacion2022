@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Lapeña Marcos, María Jesús</dc:contributor>
+    <dc:creator>López Navas, Myriam</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>En el presente documento abordamos el estudio de la accesibilidad y usabilidad web. En primer lugar, presentamos un marco teórico; definimos dichos conceptos, analizamos sus implicaciones y revisamos la legislación y normativa al respecto. A continuación, se procede al análisis de la accesibilidad y la usabilidad en un caso práctico.  En concreto, se explica el concepto y componentes principales de accesibilidad, se presenta la Iniciativa de Accesibilidad Web (WAI), que promueve su aplicación, y se describen las pautas creadas por esta iniciativa para crear un sitio accesible (WCAG), atendiendo a la regulación a la que está sujeta en la Unión Europea y en España. Asimismo, se describen las tres herramientas principales para el análisis automático de una página web en términos de accesibilidad (TAW, HERA y Examinator).  También se describen los componentes principales de la usabilidad, desde el punto de vista de Jakob Nielsen (2012), referencia imprescindible en el estudio de esta materia.  Con el objetivo de presentar una aplicación práctica de todos los contenidos mencionados anteriormente, se lleva a cabo una detalla auditoría del sitio web feelsafe.at. Esta auditoría está dividida en dos partes: una auditoría de accesibilidad y otra de usabilidad.  En primer lugar, se analiza la accesibilidad del sitio web de forma automática, con la herramienta TAW, y, a continuación, de forma manual, con el soporte de herramientas adicionales como checkmycolours.com. Se describen las deficiencias y se hace una propuesta de mejora.  En segundo lugar, se presenta de forma detallada, el análisis manual de la usabilidad y, al igual que en el apartado anterior, se presentan los problemas encontrados y la solución a los mismos.  Para finalizar el estudio, presentamos las conclusiones obtenidas como resultado del trabajo realizado.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64906</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64906/files/TAZ-TFG-2017-3844.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Marketing e Investigación de Mercados</dc:subject>
+    <dc:title>Usabilidad y Accesibilidad web. Auditoría a FeelSafe.at</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Web Usability and Accessibility. Audit to Feelsafe.at</dc:title>
+</oai_dc:dc>

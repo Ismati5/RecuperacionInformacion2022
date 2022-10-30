@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Orrite Uruñuela, Carlos</dc:contributor>
+    <dc:creator>Monforte Sánchez, Pedro José</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>En este proyecto se pretende conseguir el reconocimiento de acciones humanas en secuencias de vídeo. El tipo de acciones que se va a tratar consistirá en acciones simples ejecutadas por una sola persona en diferentes posiciones (por ejemplo, dar una patada, sentarse en el suelo, etc). El mayor problema que se abordará consistirá en el reconocimiento de estas acciones en situaciones de oclusión parcial de la figura, lo cual se produce en multitud de ocasiones en la vida real. Trabajaremos con secuencias de vídeo de dominio público y libre acceso. Las secuencias de vídeo provienen de tres bases de datos de uso público que ya han sido utilizadas en estudios anteriores con un fin similar al nuestro, el reconocimiento de acciones humanas. Dichas secuencias podrán estar grabadas desde distintos puntos de vista con diferentes cámaras. Esto requiere un procesamiento previo de las imágenes para la extracción de características que se utilizarán en el clasificador. Es en este punto donde introducimos un nuevo descriptor ideado por nosotros basándonos en la dirección de los movimientos realizados en la ejecución de una acción. Además, nos encontramos con el problema de implementar un método de normalización de los datos de entrada al clasificador que sea independiente del grado de oclusión de la figura en la imagen. Durante el desarrollo de este sistema de reconocimiento se emplean varias técnicas de procesado digital de imagen para la extracción de características. Además, el modelado de la acción humana se llevará a cabo mediante Modelos Ocultos de Markov (HMM), y su posterior reconocimiento se realizará también basándonos en dicha metodología.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/7143</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/7143/files/TAZ-PFC-2012-188.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>visión por computador</dc:subject>
+    <dc:subject>reconocimiento de acciones humanas</dc:subject>
+    <dc:subject>modelos ocultos de markov</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicación</dc:subject>
+    <dc:title>Reconocimiento de acciones humanas en secuencias de vídeo</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

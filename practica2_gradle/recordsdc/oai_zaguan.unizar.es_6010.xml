@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Royo Vázquez, Emilio Julián</dc:contributor>
+    <dc:creator>Cásedas Tejada, Victor</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>La embutición de copa cilíndrica, motivo de estudio de este trabajo, es el proceso de conformación más característico del estado de tensiones y deformaciones de la “embutición pura”. Éste se realiza de todos los tamaños, desde pequeñas copas del tamaño de la punta de un lápiz, hasta tanques para gas de soldadura de 6’5 mm de espesor y 1’22 m de diámetro. A pesar de esta diferencia de dimensiones, los embutidos de copa siguen el mismo método de conformado y están definidos por los mismos factores o parámetros. Diferentes investigadores han profundizado en la influencia de distintos factores para diferentes materiales. El presente trabajo pretende el análisis de cómo responde el adelgazamiento de la chapa ante la variación de distintos factores de control, cuyos rasgos corresponden a un caso práctico del sector de electrodomésticos. En primer lugar se realiza un análisis del estado del arte, consultando bibliografía especializada y artículos de investigación. A partir de este análisis se prepara un Diseño de Experimentos, el cual se desarrolla mediante simulación por elementos finitos y posteriormente mediante ensayos en prensa. Los parámetros elegidos principalmente para este proyecto son: Radio de la matriz, Radio del punzón, holgura, razón límite de embutición ( RLE) y fuerza de pisado (BHF), con función de estudio el adelgazamiento en la zona más crítica. Se realiza sobre chapa DC03 y los valores que tomarán para el estudio cada uno de los factores son los siguientes: Rm y Rp: 2,5 , 4 y 5,5 mm. Holgura: 10% - 20%. RLE: 1,8 – 2. BHF: 5000-9000 kg Para todo esto, se utiliza el programa Autoform para realizar las simulaciones por elementos finitos y el programa Minitab para el análisis estadístico del Diseño de Experimentos y el ajuste del modelo de regresión. Se comparan los resultados con la caracterización del problema obtenida con el módulo Autoform Sigma. Posteriormente se llevan a cabo los ensayos en la prensa, obteniendo nuevamente un modelo de regresión de la función objetivo, comparándola con la obtenida previamente. De esta forma, se ve si se ajustan los resultados obtenidos en las simulaciones con las piezas de copa cilíndrica reales.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6010</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6010/files/TAZ-TFM-2011-007.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>conformado de chapa</dc:subject>
+    <dc:subject>doe</dc:subject>
+    <dc:subject>fem</dc:subject>
+    <dc:subject>copa cilíndrica</dc:subject>
+    <dc:subject>Máster Universitario en Sistemas Mecánicos</dc:subject>
+    <dc:title>Estudio de la influencia de los factores de embutición en copa cilíndrica sobre chapa DC03</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

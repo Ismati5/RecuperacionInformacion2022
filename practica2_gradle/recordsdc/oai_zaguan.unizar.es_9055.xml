@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Moreno Loshuertos, Raquel</dc:contributor>
+    <dc:contributor>Fernández Silva, Patricio</dc:contributor>
+    <dc:contributor>Laclaustra Gimeno, Martín</dc:contributor>
+    <dc:creator>Ledesma Fuentes, Marta</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Las variaciones en el contenido de mtDNA se han asociado con diferentes situaciones patológicas. Su determinación en sangre es un parámetro de interés pero se ve afectado por numerosas variables. El objetivo del presente proyecto es analizar la influencia de estas variables de cara a establecer un protocolo eficiente y reproducible. La PCR a tiempo real es una técnica que se está aplicando ampliamente en las ciencias biomédicas para la cuantificación de DNA tanto mitocondrial como genómico. En este estudio trabajamos con sangre total para cuantificar el DNA mitocondrial, calculado como el ratio DNA mitocondrial/DNA nuclear. Hemos iniciado el estudio de diferentes variables que pueden afectar a dicha cuantificación. Así, se ha comprobado que la concentración de plaquetas, orgánulos que contienen DNA mitocondrial pero no DNA nuclear, afecta de forma significativa en la determinación final. De igual modo hemos estudiado la influencia que produce en la cuantificación el método de extracción utilizado para obtener el DNA y la  variabilidad inter-día e intra-día en el método de extracción. Se han encontrado diferencias significativas en todas estas variables.  Para realizar estos análisis hemos creado un plásmido fruto de la fusión de nuestros genes de estudio (mitocondrial y nuclear) con el fin de realizar una calibración de las medidas mediante una recta de calibrado realizada con diluciones seriadas de este estándar.  También hemos estudiado la influencia de la conformación del material genético en la eficacia de la reacción de PCR y se ha visto que, puesto que al digerir el DNA mitocondrial con una enzima la cuantificación de DNA mitocondrial se ve aumentada. En  la continuación del proyecto queremos seguir clarificando las fuentes de variabilidad  que afectan a la técnica de PCR a tiempo real en la cuantificación de DNA mitocondrial.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9055</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Bioquímica y Biología Molecular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9055/files/TAZ-TFM-2012-792.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>mtDNA </dc:subject>
+    <dc:subject>rt-PCR </dc:subject>
+    <dc:subject>platelets variability</dc:subject>
+    <dc:subject>Máster Universitario en Biología Molecular y Celular</dc:subject>
+    <dc:title>Quantification of mitochondrial DNA in human whole blood using real- time quantitative PCR</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

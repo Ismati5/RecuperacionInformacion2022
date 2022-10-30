@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ennemoser, Andreas</dc:contributor>
+    <dc:contributor>Pascau Benito, Antonio</dc:contributor>
+    <dc:creator>Mérida Delgado, Marta</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El convertidor de par es un elemento hidrodinámico que se utiliza para transmitir, de una forma suave,  la potencia del motor a la transmisión. Es un excelente elemento en la generación efectiva de par en condiciones severas de trabajo aunque presenta una eficiencia bastante deficiente. Por ello su diseño es un aspecto importante, ya que la geometría y curvatura de los álabes afectan al comportamiento del flujo, y como consecuencia a su rendimiento.  Por otro lado,realizar investigaciones experimentales de mejora de dicho componente resulta caro y complicado. Este proyecto muestra un análisis de un convertidor de par en cuanto a los aspectos que van ligados directamente con la eficiencia del mismo, y que como bien se han mencionado, son los relativos a la geometría y al comportamiento del flujo interno. Así, se ha desarrollado una práctica herramienta de Excel para la empresa AVL List GmbH, lugar en el que se ha desarrollado este proyecto, que permite a un diseñador calcular y construir un convertidor de par aceptablemente competitivo. Además, se ha analizado su flujo interno, mediante técnicas de CFD utilizando el software AVL FIRE ®, para afirmar si realmente es una herramienta viable para predecir las características y evaluar el rendimiento de un convertidor de par.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/14587</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/14587/files/TAZ-PFC-2014-284.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>cfd</dc:subject>
+    <dc:subject>convertidor de par</dc:subject>
+    <dc:subject>transmisiones automáticas</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Análisis de un convertidor de par</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

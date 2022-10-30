@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Escudero Carra, Ana María</dc:contributor>
+    <dc:creator>Rami Rodríguez, Mónica</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>El vino es una de las matrices químicas más complejas que existen, ya que contiene gran variedad de compuestos diferentes. En este trabajo se han estudiado 259 muestras distintas de vino, definidas por su variedad, añada, tiempo y tipo de conservación. De cada muestra se disponía de la concentración de 70 compuestos responsables del aroma del vino. Se ha utilizado la quimiometría para, mediante diferentes tests estadísticos y análisis de varianza, conocer cuáles son las variables que más influyen en el nivel de los diferentes compuestos del aroma. Se ha trabajado de forma especial con los datos de una añada, y en concreto de hexanoato de etilo, isobutirato de etilo y 4-etilfenol. La concentración del último solo varía de forma significativa dependiendo de la variedad (siendo más alta en los vinos procedentes de la variedad Vidadillo). La concentración de los dos ésteres etílicos estudiados varía significativamente con los 3 factores estudiados, e incluso son significativas las interacciones entre factores; con la excepción del hexanoato que no varía con el tipo de conservación, ni es significativa la interacción tipo x tiempo de conservación.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/77814</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Analítica; Área de Química Analítica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/77814/files/TAZ-TFG-2018-2276.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/77814/files/TAZ-TFG-2018-2276_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Química</dc:subject>
+    <dc:title>Estudio del comportamiento de vinos tintos de variedades autóctonas de Aragón en su maceración con fragmentos de roble y crianza en barrica</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Study of the behaviour of red wines of native varieties in their maceration with oak fragments and aging in barrel</dc:title>
+</oai_dc:dc>

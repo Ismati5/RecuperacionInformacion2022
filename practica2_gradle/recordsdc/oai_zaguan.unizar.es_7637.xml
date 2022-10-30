@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Val Blasco, Sonia</dc:contributor>
+    <dc:creator>Recaj Fernández, David</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>En este proyecto se trabaja con el Robot LegoMindStorms NXT, destacado por su bajo coste, su reprogramación, robustez y versatilidad(facilidad en la modificación de la estructura del robot, simulación de Ingenios mecánicos que nos rodean día a día...). Todo ello de forma interactiva y virtual potenciando el Aprendizaje por descubrimiento, con objeto de aportar un valor al alumno tanto teórico como practico en campos como pueden ser Ingeniería mecánica y automatización de procesos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/7637</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/7637/files/TAZ-PFC-2012-280.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>robot</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Diseño de casos prácticos de procesos industriales automatizados aplicados a la didáctica de asignaturas de ingeniería</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

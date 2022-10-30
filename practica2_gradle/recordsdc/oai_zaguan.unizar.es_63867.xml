@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Aparicio Aspas, María Teresa</dc:contributor>
+    <dc:contributor>Villanúa Martín, Inmaculada</dc:contributor>
+    <dc:creator>Serrano García, Mario</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El presente trabajo constituye un análisis del comportamiento del test de Breusch-Godfrey bajo diferentes condiciones. Para ello, utilizaremos los experimentos de Monte Carlo con el objetivo, por un lado, de corroborar el comportamiento asintótico del estadístico de contraste y, por otro, de determinar la capacidad del test ante los diferentes patrones de autocorrelación a los que será sometido. Se comienza por analizar estructuras autocorrelacionadas puras de orden uno y, a partir de ahí, se repite el experimento aumentado el orden de autocorrelación e introduciendo estructuras mixtas, quedando los resultados en cada apartado recogidos en forma tablas. Finalmente, se comparan los resultados y se exponen las conclusiones extraídas atendiendo especialmente a las particularidades encontradas en cada caso, así como a las posibles consecuencias de trasladar los resultados obtenidos a situaciones empíricas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/63867</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Análisis Económico; Área de Fundamentos del Análisis Económico</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/63867/files/TAZ-TFG-2017-3979.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Economía</dc:subject>
+    <dc:title>Estudio del tamaño y potencia del contraste de autocorrelación de Breusch-Godfrey</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Study of the size and power of the autocorrelation contrast of Breusch-Godfrey</dc:title>
+</oai_dc:dc>

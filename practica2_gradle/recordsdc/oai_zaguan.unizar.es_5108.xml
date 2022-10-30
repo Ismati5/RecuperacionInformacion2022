@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Maser, Wolfgang K.</dc:contributor>
+    <dc:contributor>Benito Moraleja, Ana María</dc:contributor>
+    <dc:contributor>Menéndez Sastre, Miguel Alejandro</dc:contributor>
+    <dc:creator>Núñez García, Jesús David</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>La obtención de nanotubos de carbono CNT por el método de deposición catalítica en forma de vapor CCVD, está limitada por la falta de un modelo de crecimiento de CNT que pueda explicar satisfactoriamente los diversos resultados que se encuentran en la literatura. Las más recientes investigaciones en la síntesis de CNT se enfocan en la optimización de las condiciones de operación y el diseño del catalizador. Este trabajo enfatiza la importancia de la temperatura de calcinación para el diseño de catalizadores con una mayor actividad catalítica en la producción de nanotubos de carbono multicapa MWCNT. El proceso CCVD se realiza mediante la descomposición de metano a 1000ºC durante 30 min en una atmósfera CH4/H2 (97:3 v/v) en contacto con 50 mg de catalizador depositado sobre una navecilla de cerámica. Se emplearon 2 catalizadores compuestos Mx-Mg-Mo (Mx=Co,Ni) sintetizados por el método sol-gel. Se estableció una relación directa entre la temperatura de calcinación, las fases cristalográficas predominantes y los rendimientos de MWCNT obtenidos, empleando técnicas de DSC, XRD y Raman. Se obtuvieron rendimientos superiores a 3000 wt.% en presencia de las fases (Co/Ni)xMg1-xMoO4, las cuales se asocian con una buena dispersión del metal activo en la matriz soporte, lo que evita la desactivación del catalizador por sinterización masiva durante el proceso de nucleación. Se propuso un mecanismo de crecimiento de MWCNT empleando catalizadores laminares no porosos, que explica satisfactoriamente los altos rendimientos obtenidos en correspondencia con la morfología de los catalizadores y de los MWCNT observados por microscopía SEM y TEM.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5108</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Ingeniería Química</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5108/files/TAZ-TFM-2010-072.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Nanotubos de carbono</dc:subject>
+    <dc:subject>Catálisis</dc:subject>
+    <dc:subject>CVD</dc:subject>
+    <dc:subject>Síntesis</dc:subject>
+    <dc:subject>Mecanismo de crecimiento</dc:subject>
+    <dc:subject>Máster Universitario en Iniciación a la Investigación en Ingeniería Química y del Medio Ambiente</dc:subject>
+    <dc:title>Diseño de catalizadores laminares para la síntesis de nanotubos de carbono con altos rendimientos</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Alcalá, José T.</dc:contributor>
+    <dc:contributor>Olmos Gassó, Salvador</dc:contributor>
+    <dc:creator>Pérez Heredia, Jorge</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>En este trabajo hemos empleando técnicas de Minería de Datos sobre la base de datos del proyecto Alzheimer’s Disease Neuroimaging Initiative (ADNI) con el objetivo de encontrar patrones en el seguimiento de los pacientes con la enfermedad de Alzheimer.  El objetivo es realizar un diagnóstico del estado de la enfermedad y una predicción futura sobre si habrá conversión a una etapa más avanzada de la enfermedad. En el primer caso obtuvimos resultados excelentes con precisiones de hasta 90% y valores del área bajo la curva ROC (AUC) superiores a 0.94, en el segundo problema obtuvimos precisiones del 78% y AUC de 0.8 en predicciones a 6-12 meses vista, mientras que para previsiones a más largo plazo la precisión se redujo a unos valores entre el 55 y el 75% y el AUC entre 0.63 y 0.76.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/16206</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Matemática Aplicada; Área de Matemática Aplicada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/16206/files/TAZ-TFM-2014-543.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>enfermedad de alzheimer</dc:subject>
+    <dc:subject>minería de datos</dc:subject>
+    <dc:subject>aprendizaje automático</dc:subject>
+    <dc:subject>predicción</dc:subject>
+    <dc:subject>Máster Universitario en Modelización Matemática, Estadística y Computación</dc:subject>
+    <dc:title>Técnicas de aprendizaje supervisado en la enfermedad de Alzheimer. Aplicaciones al estudio ADNI</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

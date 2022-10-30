@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>de la Riva, Juan</dc:contributor>
+    <dc:creator>Marco Asenjo, Alberto</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>El presente documento pretende contribuir a solucionar una carencia asociada a la gestión silvícola en España, en concreto, pretende desarrollar un proceso metodológico que permita loca-lizar y cartografiar cortas a hecho en una superficie boscosa mediante teledetección. Para ello se empleará información geográfica de libre acceso. En particular, se utilizará una imagen Sentinel 2A en conjunto con datos LiDAR del PNOA. En una fase posterior se realizará una segmentación del area de studio a partir de un software de clasificación orientada a objetos para, finalmente, clasificar empleando el algoritmo Random Forest.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/56851</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/56851/files/TAZ-TFM-2016-812.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Tecnologías de la Información Geográfica para la Ordenación del Territorio: Sistemas de Información Geográfica y Teledetección</dc:subject>
+    <dc:title>Cartografía de Cortas a Hecho mediante tratamiento digital de imágenes Sentinel 2 y datos LiDAR PNOA</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Clear-cuts mapping using Sentinel 2 and LiDAR PNOA data</dc:title>
+</oai_dc:dc>

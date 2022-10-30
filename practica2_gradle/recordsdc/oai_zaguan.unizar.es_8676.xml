@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bayod López, Javier</dc:contributor>
+    <dc:creator>Cuadra Giménez, Javier</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El protecto tiene como objeto estudiar la viabilidad de realizar extracciones de tejido oseo del primer metatarso (hueso del pie) para realizar autoinjertos en cirujia para reparar fracturas oseas. Para ello, se ha trabajado con 2 modelos del pie desarrollados en I-DEAS, un programa de calculo por elementos finitos. Estos dos modelos representan el pie en las dos posiciones limites que alcanza durante la marcha. Se han modificado estos modelos para definir una extraccion del tejido, con diferentes volumenes de tejido extraido. A continuacion se han definido las propiedades de los diversos tejidos definidos en los modelos del pie, y se han realizado simulaciones en Abaqus. A partir de estas simulaciones, se ha analizado las tensiones que alcanza el primer metatarso, asi como el pie en general, y los desplazamientos del pie para estudiar los efectos de la intervencion quirurgica y determinar si las tensiones pueden ocasionar dolor en el paciente al caminar, o incluso supongan la rotura del primer metatarso.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8676</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8676/files/TAZ-PFC-2012-442.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>primer metatarso</dc:subject>
+    <dc:subject>extraccion ósea</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Estudio de extracción ósea en el primer metatarso</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

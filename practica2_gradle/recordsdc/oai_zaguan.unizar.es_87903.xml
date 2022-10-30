@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Antolín Cañada, Diego</dc:contributor>
+    <dc:creator>Continente Sisamón, Alba</dc:creator>
+    <dc:date>2020</dc:date>
+    <dc:description>Este proyecto se centra en el campo de la domótica, que busca el llevar las tecnologías automáticas al ámbito del hogar. Para ello, se adentra en las tecnologías IoT, utilizando comunicación WiFi y el protocolo MQTT.&lt;br /&gt;El objetivo es el desarrollo de una aplicación que permita controlar las luces, persianas y climatización de una vivienda unifamiliar, por medio del uso sensores de presencia, de temperatura y de intensidad lumínica.&lt;br /&gt;En primera instancia se plantea una prueba de laboratorio previa con el fin de conocer las funcionalidades de la plataforma y de la comunicación MQTT, la cual se realiza con un Arduino UNO y una programación en LabVIEW que permita comunicarse con la red.&lt;br /&gt;Posteriormente se realiza la selección de componentes del sistema final por medio de tablas comparativas y se realiza el montaje de la electrónica.&lt;br /&gt;La lectura de los sensores y la activación de los actuadores se diseña dentro de un entorno de programación Arduino, siendo los controladores dos módulos NodeMCU que se basan en el integrado ESP8266.&lt;br /&gt;Toda la información recogida por los microcontroladores se publica en el broker MQTT, un servidor que aloja los datos bajo un determinado topic o tema, permitiendo a todos los dispositivos conectados acceder a estos.&lt;br /&gt;El sistema global se gobierna a través de la plataforma Node-RED, la cual cuenta con una interfaz web que permite al usuario interactuar de manera remota con la aplicación. Por último, se presenta una interfaz adicional en un Smartphone Android con las mismas funciones.&lt;br /&gt;El resultado es un prototipo completamente funcional en cuanto a envío y recepción de datos, que además cuenta con dos interfaces, una web y otra en una aplicación de móvil, lo cual hace que el sistema sea muy sencillo e intuitivo para el usuario.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87903</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87903/files/TAZ-TFG-2020-065_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/87903/files/TAZ-TFG-2020-065.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecatrónica</dc:subject>
+    <dc:title>Automatización de una vivienda unifamiliar</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Single-Family Home Automation</dc:title>
+</oai_dc:dc>

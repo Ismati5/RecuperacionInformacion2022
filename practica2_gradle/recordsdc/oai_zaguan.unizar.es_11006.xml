@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sanz Molina, Alfredo</dc:contributor>
+    <dc:creator>Cuadra Giménez, Alejandro</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Debido al despliegue de los nuevos sistemas de telegestión de electricidad y dado que las compañías energéticas pretenden unificar los mercados de la electricidad y el gas, surge la necesidad de tener un sistema de telegestión de gas. Para ello aprovechando parte de la infraestructura ya desplegada del sistema de telegestión de electricidad se va a diseñar un sistema piloto de telegestión de los contadores de gas domésticos. Para conseguir este objetivo es necesario diseñar un dispositivo llamado Meter Interface (MI) que registre los datos del contador de gas y lo transmita a través de radiofrecuencia (RF) a otro dispositivo llamado Multi Utility Communication Controller (MUC) el cual debe recibir los datos de varios contadores de gas y transmitirlos por medio de Power Line Communication (PLC) a través de la red eléctrica al gestor del centro de transformación. De esta manera tendríamos un sólo sistema tanto para la gestión de los contadores de gas como para la de los contadores de electricidad. El trabajo se enmarca en un proyecto de metering para gas encargado por una importante compañía del sector energético a la empresa Atmel. Las bases iniciales del sistema en general y de cada uno de los dispositivos en particular vienen dados por la compañía energética. Para el MI algunos de los requisitos básicos son: • Alimentación por baterías con un mínimo de autonomía. • Detección correcta de la medición del consumo en el contador de gas. • Implementación de determinadas alarmas. • Registro de datos. • Comunicación RF mediante un protocolo por desarrollar con un mínimo de cobertura. Para el MUC algunos de los requisitos básicos son: • Gestión de una red de varios MI. • Implementación de determinadas alarmas. • Registro de datos. • Comunicación RF mediante un protocolo por desarrollar con un mínimo de cobertura. • Comunicación local por puerto serie, mediante un protocolo por desarrollar. • Comunicación PLC, mediante estándar de comunicación ya existente. Por lo tanto el desarrollo del sistema y los equipos que lo conforman implica la definición de protocolos de comunicación como nuevos estándares, diseño hardware, elección de la envolvente, diseño firmware (embedded software) y testing. Debido a la elevada carga de trabajo que conlleva el proyecto, en Atmel se decidió dividirlo en dos partes, una centrada en el hardware y otra en el firmware, quedando el resto de tareas como compartidas. Este trabajo en concreto recoge la parte centrada en embedded software.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/11006</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/11006/files/TAZ-TFM-2013-192.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>smart energy</dc:subject>
+    <dc:subject>telegestión de gas</dc:subject>
+    <dc:subject>protocolos</dc:subject>
+    <dc:subject>embedded systems</dc:subject>
+    <dc:subject>firmware</dc:subject>
+    <dc:subject>testing</dc:subject>
+    <dc:subject>Máster Universitario en Ingeniería Electrónica</dc:subject>
+    <dc:title>Diseño de un sistema de telegestión de contadores de gas domésticos y su integración en un sistema de telegestión de contadores eléctricos (embedded software)</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

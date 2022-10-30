@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Blaich, Michael</dc:contributor>
+    <dc:contributor>Montesano del Campo, Luis</dc:contributor>
+    <dc:creator>Estella Nonay, Eladio</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El objetivo del proyecto es clasificar objetos cotidianos en tiempo real con métodos supervisados que utilicen la información de una base de datos propia creada con el sensor Kinect para crear sus clasificadores, así como la creación o utilización de técnicas de tratamiento de información 2D y 3D para poder realizar la clasificación de los objetos observados por el sensor. Dichos métodos de clasificación, que son Support Vector Machines y Adaptive Boosting, utilizan la información de color y profundidad proporcionada por el sensor para realizar la clasificación. Además, se realiza el estudio de los resultados temporales y de clasificación obtenidos mediante diversas técnicas de análisis de resultados.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/7997</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/7997/files/TAZ-PFC-2012-386.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>kinect</dc:subject>
+    <dc:subject>visión por computador</dc:subject>
+    <dc:subject>reconocimiento de objetos</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Real-time 3D segmentation and object detection based on a kinect sensor</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

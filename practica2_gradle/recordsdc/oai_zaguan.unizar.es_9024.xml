@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Durán Sanchez, Paúl</dc:contributor>
+    <dc:contributor>Peña Llorente, José Ángel</dc:contributor>
+    <dc:creator>Campo Pelegrín, Ramón</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Se ha investigado la producción y purificación combinada de hidrógeno a partir de la fracción alcohólica de bio-oil o aceites pirolíticos mediante el proceso “Steam Iron”. Para ello se ha empleado metanol como compuesto característico de dicha fracción alcohólica por ser su componente mayoritario. El estudio ha sido llevado a cabo en un reactor de lecho fijo, utilizando como sólido reaccionante una mezcla de óxido de hierro (III) (Fe2O3)  aditivado con ceria (CeO2)  y alúmina (Al2O3)  conocido como óxido triple. El proceso “Steam Iron” se basa en la generación de hidrógeno a partir de un ciclo de dos etapas. La primera consiste en la reducción del óxido de hierro (III) hasta su estado de oxidación mínimo como hierro metálico (Fe). Posteriormente, se alimenta vapor de agua para reoxidar el hierro metálico donde se produce hidrógeno de alta pureza (al ser separable del agua mediante condensación). El metanol se alimenta en la etapa de reducción, ya que éste se descompone a altas temperaturas (&gt; 600 °C) en H2  y CO. Estos gases son potencialmente reductores, por lo que son capaces de reaccionar con el sólido hasta obtener hierro metálico. Durante la etapa de reducción con metanol existe deposición de coque sobre el sólido; sin embargo, esas deposiciones se comportan como inertes al no gasificarse en la etapa de oxidación con vapor de agua en las condiciones de operación estudiadas. A lo largo de la investigación se ha evaluado la influencia de la temperatura, presión parcial de reactivos en la reducción (metanol) y el número de ciclos redox sobre la producción de hidrógeno generada en las diferentes oxidaciones, y el desgaste en el comportamiento del sólido. A su vez, se han analizado las deposiciones de carbono que se comportan como inertes respecto a la gasificación con vapor de agua, observando su estructura en forma de filamentos huecos a través de microscopía electrónica de barrido y transmisión.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9024</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Ingeniería Química</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9024/files/TAZ-PFC-2012-648.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>hidrógeno</dc:subject>
+    <dc:subject>steam-iron</dc:subject>
+    <dc:subject>bio-oil</dc:subject>
+    <dc:subject>metanol</dc:subject>
+    <dc:subject>lecho fijo</dc:subject>
+    <dc:subject>redox</dc:subject>
+    <dc:subject>Ingeniero Químico</dc:subject>
+    <dc:title>Producción y purificación de hidrógeno a partir de fracciones alcohólicas de biooil mediante "Steam Iron"</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

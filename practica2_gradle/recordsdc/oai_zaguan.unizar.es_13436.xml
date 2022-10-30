@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Prado Clemente, Eduardo</dc:contributor>
+    <dc:contributor>Martínez Ruiz, Ignacio</dc:contributor>
+    <dc:creator>Longares Losilla, Samuel</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>En la actualidad, los entornos residenciales necesitan herramientas que mejoren el día a día, tanto del personal sanitario y de administración como de los residente. Estas herramientas están inmersas en la evolución digital, rompiendo con los métodos tradicionales analógicos y manuales, para obtener una serie de ventajas de eficiencia, eficacia, ahorro de papel, de tiempo y de costes que son prioritarias en la situación actual de los entornos residenciales. Los profesionales necesitan tiempo para atender a los residentes como es debido y, a su vez, los residentes necesitan calidad en la atención sanitaria que reciben. En este contexto, en este Proyecto Fin de Carrera (PFC) se ha desarrollado una plataforma de gestión total para la monitorización de residentes y la generación de informes útiles para los médicos, completamente funcional e instalada en forma de proyecto piloto en una residencia aragonesa. Para conseguirlo, un paso imprescindible ha sido completar la cadena de valor digital dando conectividad inalámbrica a los dispositivos médicos (evitando los cables que incomodan la tarea de desplazarlos y manipularlos), permitiendo que los datos vitales se digitalicen automáticamente (evitando anotaciones a mano y errores humanos en la transcripción) y dando servicios de valor añadido como la generación de informes y los avisos a familiares o centros médicos (permitiendo un ahorro de tiempo enorme). Otra contribución indispensable ha sido la integración de multitud de tecnologías de primerísima actualidad trabajando de forma armónica. Muchas de ellas, tecnologías de código abierto (open source) y multiplataforma, que dan a la plataforma un potencial de desarrollo de nuevas funcionalidades y servicios enorme, así como una integración ágil con otras plataformas. Por último, la plataforma proporciona una gestión de salud completa, desde la monitorización ubicua y el registro en un sistema de almacenamiento de datos que garantiza el acceso en cualquier momento y desde cualquier lugar a través de servicios web, hasta la generación de informes útiles que faciliten la labor de interpretación de los médicos. Se ha conseguido una plataforma fácil de usar, intuitiva, cómoda y agradable a la vista para conseguir una mejor adaptación del personal a los nuevos procesos de trabajo. Como líneas futuras, algunas ya iniciadas, se plantea implementar nuevos módulos que proporcionen servicios de valor añadido, incorporar la identificación biométrica y la integración con redes sociales de salud.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/13436</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingeniería Telemática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/13436/files/TAZ-PFC-2014-083.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>e-salud</dc:subject>
+    <dc:subject>residencias de la tercera edad</dc:subject>
+    <dc:subject>dispositivos médicos</dc:subject>
+    <dc:subject>android</dc:subject>
+    <dc:subject>nfc</dc:subject>
+    <dc:subject>bluetooth</dc:subject>
+    <dc:subject>mysql </dc:subject>
+    <dc:subject>asp.net</dc:subject>
+    <dc:subject>.net c#</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicación</dc:subject>
+    <dc:title>Solución tecnológica de e-Salud para toma de medidas y gestión de usuarios en centros de día y residencias de la tercera edad</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

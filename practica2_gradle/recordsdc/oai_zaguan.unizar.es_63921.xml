@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Tapia Barcones, Javier</dc:contributor>
+    <dc:contributor>Calvo Calzada, Elena</dc:contributor>
+    <dc:creator>Gasión Boj, Ana</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El objetivo del presente trabajo es conocer el impacto que el turismo tiene en España analizando algunas de las macromagnitudes en las que parece tener un mayor efecto y estudiando a continuación si, como ocurre en otras variables turísticas, el gasto turístico extranjero presenta un efecto estacional en la serie histórica 2004-2016, para finalmente obtener un modelo econométrico fiable que prediga de forma correcta el futuro de la serie. La estacionalidad se estudiará mediante los contrastes de Kendall y Kruscal-Wallis, precedidos ambos por el Test de Daniel realizado con el propósito de conocer si la serie presenta una tendencia marcada en su evolución. Los modelos propuestos son un modelo autorregresivo de la familia ARIMA y un Modelo General Lineal con estimadores MCO, para comprender las diferencias entre ellos y observar las predicciones de cada uno. Los resultados obtenidos ponen de manifiesto que la serie gasto turístico extranjero presenta, como se quería comprobar, una destacada estacionalidad y para que la serie pueda ser estudiada y los resultados de las predicciones resulten fiables en el modelo ARIMA es necesario que la serie sea estacionaria, es decir, contante en media y varianza y presente los mínimos signos de estacionalidad. Las predicciones obtenidas con el modelo ARIMA se ajustan mucho a la realidad, pero en las predicciones del modelo MCO se observa en algún mes ruptura estructural, aunque por supuesto ambas no se pueden comparar, ya que son modelos que estudian aspectos diferentes.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/63921</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Análisis Económico</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/63921/files/TAZ-TFG-2017-3819.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Administración y Dirección de Empresas</dc:subject>
+    <dc:title>Panorama del turismo español en el periodo 2004-2016. Análisis de la estacionalidad del gasto del turismo extranjero.</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Spanish tourism overview during 2004-2016. Analysis of foreign tourists’ expense seasonality</dc:title>
+</oai_dc:dc>

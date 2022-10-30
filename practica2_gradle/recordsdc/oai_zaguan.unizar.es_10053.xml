@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Monzón Bescós, Antonio</dc:contributor>
+    <dc:creator>Royo Gayán, María Pilar</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Este proyecto fin de carrera se enmarca dentro del proyecto de investigación "Desarrollo de nanohíbridos tipo Me/NTC/soporte para nuevos procesos catalíticos por transferencia de fase".  El objetivo principal de este PFC es el estudio y desarrollo de modelos matemáticos que describan el comportamiento de sistemas tipo nanohíbrido – emulsión en reactores semi - continuos de mezcla perfecta. La reacción objeto de este estudio es una reacción test para el estudio de la hidrogenación de vainillina. Esta se lleva a cabo en una emulsión estabilizada con partículas sólidas (tipo "pickering"), de agua en un solvente orgánico (decalina), donde las partículas de catalizador se localizan en la interfase agua-aceite.    Para abordar este sistema tan complejo, en una primera etapa se han estudiado catalizadores más sencillos de tipo Me/soporte, donde la fase activa es Ni y Ni – Cu con diferentes cargas metálicas. Dentro del objetivo general, se busca reemplazar el metal activo, normalmente Pd o Pt, por otros metales de transición mucho más baratos, e.g. Ni. Dada la menor selectividad del Ni, los sistemas bimetálicos Ni-Cu pueden suponer una alternativa interesante de estudio. El PFC se divide en dos partes: •	Estudio de los fenómenos de transferencia de fase. •	Estudio cinético de la reacción de hidrogenación de vainillina A partir del estudio de los fenómenos de transferencia de materia se han obtenido los coeficientes globales de transferencia, así como los coeficientes de reparto para cada uno de los compuestos involucrados en la reacción de hidrogenación de vainillina. El estudio cinético permite calcular los coeficientes cinéticos, y determinar las condiciones óptimas de operación para maximizar el rendimiento de la reacción. Finalmente, a partir de los balances materia y ecuaciones cinéticas,  se han desarrollado una serie de modelos matemáticos que pueden predecir el comportamiento de los sistemas de reacción en presencia de emulsión estabilizada mediante partículas sólidas nanohíbridas.  </dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10053</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Ingeniería Química</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10053/files/TAZ-PFC-2013-019.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>emulsión </dc:subject>
+    <dc:subject>vainillina</dc:subject>
+    <dc:subject>nanohíbridos</dc:subject>
+    <dc:subject>alcohol vainilínico</dc:subject>
+    <dc:subject>cinética catalítica</dc:subject>
+    <dc:subject>ni/sio2</dc:subject>
+    <dc:subject>ni-cu</dc:subject>
+    <dc:subject>Ingeniero Químico</dc:subject>
+    <dc:title>Estudio cinético de la hidrogenación catalítica de vainillina en emulsión mediante nanohíbridos de tipo Me/NTC/SiO2</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sánchez Fabre, Miguel</dc:contributor>
+    <dc:creator>Gascón Felipe, Néstor</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>En este trabajo, se analizan las parcelas de regadío según la base de datos del catastro, para conocer las parcelas y la superficie de regadío que se ha regado a lo largo del año 2018 en la cuenca del río Huerva, para que así los organismos competentes, como es el caso de la Confederación Hidrográfica del Ebro, puedan gestionar de una manera más eficiente los recursos hídricos de los que se disponen. Para obtener la cartografía final, en la cual se especifican las parcelas regadas y el tipo de regadío, se han utilizado imágenes satelitales Sentinel-2, con las que se ha foto-interpretado el parcelario catastral mediante composiciones de bandas y el índice de vegetación NDVI, además de apoyarse en la ortofoto de mayor actualidad posible como es PNOA 2018.&lt;br /&gt;Los resultados muestran que hay una importante superficie y número de parcelas que no han sido irrigadas durante el año 2018, mostrando el abandono parcelario vinculado con el envejecimiento de la población española en el medio rural. Hay grandes diferencias entre diferentes zonas del área de estudio, debido a los tipos de cultivos que pueden darse en ellas.&lt;br /&gt;Este trabajo permite la comparación de este método de identificación de cultivos de regadíos regados durante un determinado tiempo, con otros modelos o información que intentan cuantificar la superficie regada. Además también se observan las fortalezas como las carencias que tiene este modelo, aportando posibles soluciones para su mejoría.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87885</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87885/files/TAZ-TFM-2019-1217.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Tecnologías de la Información Geográfica para la Ordenación del Territorio: Sistemas de Información Geográfica y Teledetección</dc:subject>
+    <dc:title>Identificación de parcelas de regadío regadas en la cuenca del río Huerva durante el año 2018 mediante S.I.G. y Teledetección.</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Identification of irrigated plots irrigated in the Huerva river basin during the year 2018 by G.I.S. and Remote Sensing.</dc:title>
+</oai_dc:dc>

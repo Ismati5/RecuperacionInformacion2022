@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Murillo Villuendas, Ramón</dc:contributor>
+    <dc:contributor>Grasa Adiego, Gemma</dc:contributor>
+    <dc:contributor>Aznar Villacampa, María Pilar</dc:contributor>
+    <dc:creator>Escuer Alcubierre, Cristina</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Este trabajo supone la primera prueba experimental de un nuevo procedimiento cíclico para la captura del CO2 contenido en corrientes gaseosas procedentes de procesos de reformado. En concreto, este proceso se basa en el Reformado Asistido de Gas Natural (SER) pero sustituyendo (parcial o totalmente) el catalizador clásico de Ni por uno compuesto por Cu, que permitirá reducir la energía necesaria en la etapa de regeneración del sorbente así como catalizar la reacción de formación de H2. En consecuencia, el proceso consta de las siguientes tres etapas: reformado CH4 en presencia de catalizador y sorbente cálcico, oxidación del Cu a CuO presente en el catalizador y regeneración del sorbente gracias a la energía aportada por la reducción del óxido. Este proyecto se centra en la elaboración de los sólidos necesarios en ese novedoso proceso de producción de H2, en concreto en sintetizar los catalizadores de alto contenido en  Cu y bajo contenido en Ni, mediante impregnación. Una vez creados, estos sólidos han sido sometidos a una caracterización completa, gracias a la cual se ha optimizado el procedimiento de impregnación y se han especificado las propiedades de los sólidos designados como catalizadores. En un reactor de lecho fijo se han realizado ensayos de reformado de CH4 con vapor de agua en presencia de los sólidos de Cu como de una mezcla Cu-Ni. Debido a la baja actividad catalítica mostrada por el Cu, se ha confirmado la necesidad de adicionar un segundo metal que actúe de catalizador en la reacción del reformado. En cuanto a los ciclos de oxidación y reducción de los sólidos, dichos ciclos han resultado ser totalmente reproducibles y los sólidos totalmente reversibles, tanto en lecho fijo como en TGA, corroborándose su buena capacidad para ejercer de transportadores de oxígeno en el proceso descrito. Gracias al análisis termogravimétrico se ha podido ajustar la reacción de oxidación y reducción de un pellet de Cu a un modelo teórico de reacción, obteniéndose de esta manera una expresión de la ecuación cinética del pellet para ambas reacciones. Con el análisis de los sólidos, los parámetros cinéticos calculados y las condiciones experimentales del lecho, se ha podido modelar el reactor de oxidación y reducción y la respuesta obtenida se aproxima al comportamiento real mostrado en el lecho fijo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6470</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Ingeniería Química</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6470/files/TAZ-PFC-2011-613_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6470/files/TAZ-PFC-2011-613.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>catalizador de Cu</dc:subject>
+    <dc:subject>alúmina</dc:subject>
+    <dc:subject>cao</dc:subject>
+    <dc:subject>captura CO2</dc:subject>
+    <dc:subject>producción H2</dc:subject>
+    <dc:subject>ser</dc:subject>
+    <dc:subject>reformado de metano con vapor de agua</dc:subject>
+    <dc:subject>Ingeniero Químico</dc:subject>
+    <dc:title>Síntesis de catalizadores basados en Cu para producción de H2 mediante reformado de CH4 con vapor con captura in situ de CO2 mediante sorbentes cálcicos</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

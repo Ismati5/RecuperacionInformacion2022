@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Montijano Muñoz, Eduardo</dc:contributor>
+    <dc:contributor>Suárez Gracia, Darío</dc:contributor>
+    <dc:creator>Hernández Almudi, Pablo</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Hoy en día los procesadores son tan potentes y pequeños que generan muchísimo calor. Disipar este calor se ha vuelto uno de los mayores desafíos actualmente. Con este trabajo queremos presentar una opción para tener un mayor control sobre la temperatura de los procesadores, pudiendo elegir a que temperatura queremos que trabajen. En este proyecto se describen los pasos que se llevan a cabo para poder realizar un governor de frecuencias basado en un control PID para mantener una temperatura constante en el procesador. Además de ser un trabajo del área de la Ingeniería Informática se realiza tanto un modelado de la disipación de un procesador comercial como el diseño de un controlador PID. Esto permite ampliar el área de conocimiento a la vez que se aplican técnicas de control en el área de la informática. Así pues, en el trabajo se describen las distintas metodologías aplicadas para resolver el problema del control. Ejecución de pruebas para modelar la forma en la que el calor se disipa desde los transistores hasta el aire y como influye en él la frecuencia. Con este modelo se diseña un control PID que se amolde a la disipación a la vez que sea sencillo computacionalmente para poder implementarlo en un sistema operativo. Al control PID se le realizan pruebas para poder ajustar los valores de control y ver que funciona adecuadamente. Sabiendo que el control funciona correctamente, implementamos un governor de frecuencias en el sistema operativo Linux. De este modo se recogen directamente los datos de la temperatura y realiza el control PID dentro del espacio de Kernel sin intervención del usuario y posibilitando su distribución dentro del sistema operativo. Por último, probamos este nuevo sistema y lo comparamos en términos de rendimiento con el governor por defecto para comprobar que nuestro control, a parte de permitir mantener una temperatura constante y ajustable, puede obtener un throughput mayor, y por tanto hacer que el sistema operativo funcione más rápido.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64171</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Arquitectura y Tecnología de Computadores</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64171/files/TAZ-TFG-2017-2908.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>Diseño de un Governor basado en control inteligente de temperatura</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Governor design based on intelligent control of temperature</dc:title>
+</oai_dc:dc>

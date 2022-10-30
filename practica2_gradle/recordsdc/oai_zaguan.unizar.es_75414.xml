@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>YAGÜE FABRA, JOSÉ ANTONIO</dc:contributor>
+    <dc:contributor>ZATARAIN GORDOA, MIKEL</dc:contributor>
+    <dc:creator>Mendikute Garate, Alberto</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>Esta tesis se enmarca dentro del ámbito de la fotogrametría con marcadores ópticos retro-reflectantes aplicada a la metrología dimensional de alto rango. Se propone el desarrollo de un proceso de alineación de pieza en bruto basado en fotogrametría, dirigido a incrementar la sencillez y eficiencia de este proceso industrial, limitante crítico de la productividad alcanzable en la fabricación de componentes de grandes dimensiones, compuesto por dos sistemas de medida: (1) fotogrametría portable con cámaras digitales de consumo y bajo coste para el control dimensional de pieza en bruto fuera de máquina, y (2) estéreo-fotogrametría portable e integrable en cabezal de máquina-herramienta fresadora para la medición automatizada de la posición y orientación de pieza durante su alineación en máquina. Partiendo del potencial ofrecido por la fotogrametría para disponer de información redundante en las imágenes del mismo proceso de medida, la principal propuesta de conocimiento del presente trabajo consta del desarrollo de técnicas de auto-calibración en proceso computacionalmente eficientes, demostrando su validez para la compensación eficaz de fuentes de error de medida relevantes en cada uno de los medidores fotogramétricos, evitando la necesidad de adoptar procesos de calibración específicos para su compensación. La solución propuesta se evalúa en escenarios tanto de laboratorio como industriales, demostrando su validez para el control dimensional de tolerancias de sobrematerial de ± 1 mm en piezas con un volumen superior a 100 m3.&lt;br /&gt;</dc:description>
+    <dc:description>&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/75414</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/75414/files/TESIS-2018-070.pdf</dc:relation>
+    <dc:subject>metrologia</dc:subject>
+    <dc:subject>fotogrametria geodesica</dc:subject>
+    <dc:title>Desarrollo de un proceso de alineación de piezas en bruto basado en fotogrametría para el mecanizado de componenetes de grandes dimensiones</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

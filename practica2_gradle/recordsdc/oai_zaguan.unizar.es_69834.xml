@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Remacha Andrés, Mónica</dc:contributor>
+    <dc:creator>Javier Bravo Francés</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>El objeto del proyecto es realizar el diseño de una grúa en voladizo giratoria, capaz de levantar el peso de embarcaciones pequeñas, tales como yates privados o pequeños pesqueros y balsas, cuyo peso nunca sea superior a 4.000 Kg. La instalación de dicha grúa se llevará a cabo en el puerto de Barcelona, puesto que por volumen de trabajo, necesitan aumentar en una su número de grúas para sacar los barcos del puerto para su arreglo y mantenimiento habitual. Una vez realizado el diseño de la estructura, con sus cálculos justificativos a través de software de diseño como Inventor, WinEva o Abaqus; se implementará una célula de carga controlada por PLC con el objeto de controlar los movimientos de la grúa así como mejorar la seguridad, puesto que si la carga que se quiere elevar es superior a la indicada, la grúa no funcionará.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/69834</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería Mecánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/69834/files/TAZ-TFG-2018-100_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/69834/files/TAZ-TFG-2018-100.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecatrónica</dc:subject>
+    <dc:title>Diseño de grúa Cantiléver giratoria</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Rotary Cantilever Crane Design</dc:title>
+</oai_dc:dc>

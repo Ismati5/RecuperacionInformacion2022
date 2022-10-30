@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mercado Barraqueta, Daniel</dc:contributor>
+    <dc:creator>Aguado Revilla, Javier</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Este proyecto trata de dar solución a los principales inconvenientes presentes en todo diseño electromecánico de pequeña escala. Tanto la precisión de los movimientos, como la capacidad dinámica de la acción que los genera, son objetivos complejos de alcanzar. &lt;br /&gt;Se llevarán a cabo métodos de diseño mecánico que concluyan eficazmente en la fabricación de un modelo de una mano antropomorfa, capaz de realizar las funciones que una mano humana puede llevar a cabo. Se tienen en cuenta cuestiones de anatomía, en las cuales se basará el modelo, tanto en capacidades cinemáticas y dinámicas como en dimensiones.&lt;br /&gt; &lt;br /&gt;Una vez diseñado el sistema, se le dotará de movimiento por medio de servomotores, y se tratará de independizar el movimiento de cada articulación, con el fin de obtener una amplia funcionalidad.&lt;br /&gt;La gestión de la actuación sobre esos motores se abordará mediante un microcontrolador de la familia Arduino. Se adecuará un programa electrónico, basado en el lenguaje propio de Arduino, capaz de dirigir el sistema en su totalidad. Se pretende en el presente trabajo llegar a poder realizar acciones que involucren varias articulaciones, recibiendo una consigna simple e intuitiva para el usuario.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/84993</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería Mecánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/84993/files/TAZ-TFG-2019-3484.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Diseño mecánico de una mano robótica antropomorfa</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Mechanical design of an antropomorphic robotic hand</dc:title>
+</oai_dc:dc>

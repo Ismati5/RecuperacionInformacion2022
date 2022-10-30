@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sevilla Miguel, Emma</dc:contributor>
+    <dc:contributor>Peleato Sánchez, María Luisa</dc:contributor>
+    <dc:creator>Guío Martínez, Jorge</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>El hexaclorociclohexano (HCH) fue ampliamente utilizado como pesticida entre 1930 y 1990 e inicialmente se aplicó como una mezcla técnica que contenía α-HCH (60-70%), β-HCH (5-12%), γ-HCH (10-15%) y δ-HCH (6-10%). Se sintetizaba por fotocloración del benceno, proceso en el cual se formaban los isómeros anteriores, aunque posteriormente solamente el isómero γ-HCH o lindano se comercializó, por ser el más efectivo y relativamente más biodegradable. Dado que este isómero constituía solo un 10-15% del total de isómeros, el resto eran enterrados o acumulados en vertederos, lo que ha generado zonas altamente contaminadas en distintos puntos del planeta. Aunque el HCH es persistente y recalcitrante se han aislado algunos microorganismos capaces de degradar uno o más isómeros del HCH. Uno de ellos es Anabaena PCC7120, una cianobacteria filamentosa capaz de degradar lindano (γ-HCH). En este trabajo se ha analizado su tolerancia y respuestas fisiológicas en presencia de los isómeros α-HCH, β-HCH, γ-HCH y δ-HCH. También se ha estudiado su capacidad degradativa, midiendo la desaparición de los distintos isómeros en cultivos de Anabaena PCC7120. Los resultados muestran que es un organismo adecuado para plantear biorremediación de los isómeros α-HCH y γ-HCH, que prácticamente desaparecen por completo. Sin embargo los isómeros β-HCH y δ-HCH no son eliminados en su totalidad y son peor tolerados en las concentraciones utilizadas, afectando notablemente al crecimiento y fisiología de las cianobacterias. Finalmente se ha estudiado la expresión de genes potencialmente implicados en la degradación de HCH y se han realizado estudios in silico para encontrar otros genes involucrados, sugiriendo la existencia de una ruta alternativa a la de microorganismos heterótrofos como S. paucimobilis.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/77812</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Bioquímica y Biología Molecular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/77812/files/TAZ-TFG-2018-2279.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Biotecnología</dc:subject>
+    <dc:title>Degradación de isómeros del hexaclorociclohexano (HCH) por Anabaena PCC7120</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Degradation of hexachlorocyclohexane (HCH) isomers by Anabaena PCC7120</dc:title>
+</oai_dc:dc>

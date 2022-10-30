@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Irastorza, Igor</dc:contributor>
+    <dc:contributor>Dafni, Theopisti</dc:contributor>
+    <dc:creator>Sampériz Cerezo, María del Pilar</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Este proyecto centra su atención en el experimento IAXO, un helioscopio que pretende detectar axiones. Se ha construido un prototipo de su detector en la Universidad de Zaragoza, denominado IAXO-D0. El objetivo de este trabajo consiste en estudiar la contribución al modelo de fondo para este prototipo de los muones cósmicos, los neutrones cósmicos y los neutrones cósmicos de alta energía. Para ello, se han realizado múltiples simulaciones Monte Carlo con la herramienta REST. Para la elaboración de dichas simulaciones se van a emplear dos tipos de gases: argón y xenón. Se deduce que el nivel de muones y de neutrones obtenido concuerda, en primera aproximación, con lo medido experimentalmente en CAST y en IAXO-D0. Además, a través de la modificación del blindaje se ha observado que a medida que el grosor es mayor, también aumenta el valor del fondo normalizado.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/86836</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Teórica; Área de Física Atómica, Molecular y Nuclear</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/86836/files/TAZ-TFM-2019-278.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Física y Tecnologías Físicas</dc:subject>
+    <dc:title>Desarrollo de un detector Micromegas de rayos X de muy bajo fondo para el futuro Observatorio Internacional de Axiones (IAXO)</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Development of a Micromegas low-background X-ray detector for the future International Axion Observatory (IAXO)</dc:title>
+</oai_dc:dc>

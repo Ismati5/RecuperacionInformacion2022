@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Blas Giral, Ignacio de</dc:contributor>
+    <dc:contributor>Vázquez Bringas, Francisco José</dc:contributor>
+    <dc:creator>Gómez-Arrue Azpiazu, Javier</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>En los últimos años se ha observado un aumento en el uso de las TIC aplicadas a las asignaturas clínicas en las Facultades de Ciencias Veterinarias. La utilización de estas tecnologías no siempre ha venido de la mano del manejo de metodologías activas de aprendizaje, que requieren mayor implicación del discente, sino que han sido aprovechadas como meros repositorios de material de apoyo a las clases magistrales. La adecuada implementación de dichas tecnologías debería tener un impacto positivo para el curriculum y el discente, ya que permite adecuar los casos disponibles al horario de las prácticas, es independiente de la llegada de casos a las instalaciones, facilita la organización de las prácticas presenciales porque optimiza su aprovechamiento y permite al discente tomar decisiones para las que necesitaría años de experiencia. Por tanto, el uso de metodologías activas basadas en TIC permite una mayor adquisición de competencias por parte del alumno, ya que le convierte en protagonista y centro de la toma de decisiones, y posibilita que un gran número de discentes puedan acceder a diversos casos clínicos reales previos a la realización de prácticas con el animal. Esto optimiza el aprovechamiento de las prácticas y minimiza y racionaliza el uso de animales empleados. En cualquier caso, cabe resaltar que el uso de las TIC no debería sustituir bajo ningún concepto las prácticas in vivo con el animal, siendo esta una de las principales tentaciones en las que se puede caer al utilizar estas tecnologías. Por todo lo anteriormente expuesto, y teniendo en cuenta nuestras circunstancias, se ha llevado a cabo esta Tesis Doctoral en la que se han desarrollado tres aplicaciones informáticas basadas en las Tecnologías de la Información y la Comunicación (TIC) para ayudar a mejorar en la medida de lo posible la formación de los futuros veterinarios.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/48318</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Patología Animal</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/48318/files/TESIS-2016-113.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>ciencias veterinarias</dc:subject>
+    <dc:subject>informática</dc:subject>
+    <dc:subject>pedagogía</dc:subject>
+    <dc:subject>cirugía veterinaria</dc:subject>
+    <dc:title>Diseño, desarrollo e implementación de nuevas herramientas docentes basadas en TIC en veterinaria equina</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

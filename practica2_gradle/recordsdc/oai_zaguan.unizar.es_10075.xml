@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bel Cacho, José David</dc:contributor>
+    <dc:creator>Manjón Capablo, Eduardo</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>En este proyecto se ha realizado el cálculo de la estructura de una nave industrial con el programa informático CYPE. Se ha proyectado en la ciudad de Huesca, en una parcela de 5477 m2. Las dimensiones de la nave son 60 metros de largo por 40 metros de ancho, con una superficie en planta de 2400m2. La estructura es completamente metálica, formada por 13 pórticos dobles rígidos, con una modularidad de 5 metros. Los dos pórticos son iguales con una luz de 20 metros cada uno. La altura de la fachada es de 9,5 metros y la altura en cumbrera de 11 metros, dándole una pendiente de la cubierta del 15%. Todas las uniones se han calculado como soldadas. También se ha calculado las placas de anclaje, las zapatas y las vigas de arriostrado. Se ha calculado dos puentes grúa de 5 toneladas de capacidad con su correspondiente viga carril dimensionada. Los cerramientos en cubierta son de panel sándwich y en fachada son de placas de hormigón prefabricado. Se han añadido los planos necesarios de ubicación, distribución y detalles de la estructura tanto de todos los tipos de pórticos como de las uniones, placas de anclaje y cimentación para su completa ejecución.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10075</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10075/files/TAZ-PFC-2013-033_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/10075/files/TAZ-PFC-2013-033.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>cálculo estructural</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Cálculo de la estructura metálica de una nave industrial doble, con puente grúa, destinada a taller para camiones, sito en Polígono Sepes T.M. de Huesca</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Luis, Alberto</dc:contributor>
+    <dc:contributor>Mallada Viana, María Reyes</dc:contributor>
+    <dc:creator>Schwarz Blanco, Maximilian</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>El contenido de este documento se centrará como objetivo principal en el desarrollo de un electrolito híbrido, denominado ionogel, con gran repercusión actual gracias al equilibrado compromiso seguridad - funcionalidad que lleva consigo. Se les demanda que superen las propiedades funcionales características de una batería (densidad energética, durabilidad o ciclabilidad) determinadas por parámetros como la conductividad, número de transporte de litio o ventana electroquímica. Además, se les exige unas condiciones de seguridad (estabilidad térmica y resistencia mecánica, etc) y viabilidad.&lt;br /&gt;Varios parámetros y componentes se tienen en cuenta de principio a fin: se analizan las condiciones de síntesis de los ionogeles (temperatura y tiempo de gelificación), dos tipos de líquidos iónicos (BMPyr TFSI y MPPyr TFSI) como huéspedes, la influencia que ejerce una sal de litio (LiTFSI) sobre el desempeño del electrolito y el comportamiento de este frente a temperaturas altas. También se estudian las cualidades de los cátodos que mayoritariamente repercuten en el funcionamiento de una batería. Para este estudio se utilizan 2 cátodos comerciales (LMNO y LFP). Finalmente, se tienen en cuenta dos alternativas de celdas de ensayo: pilas botón y Swagelok, que serán decisivas en el desempeño de la batería.&lt;br /&gt;Tras este estudio será posible ver, entre otras cosas, cómo unos componentes (que a priori parecían independientes entre sí), acabarán teniendo una estrecha relación mutua que incidirá significativamente en la funcionalidad de la batería.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87293</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Ingeniería Química</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87293/files/TAZ-TFG-2019-4646_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/87293/files/TAZ-TFG-2019-4646.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Química</dc:subject>
+    <dc:title>Desarrollo de electrolitos sólidos para baterías de litio basados en ionogeles</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Development of solid electrolytes for lithium batteries based on ionogels</dc:title>
+</oai_dc:dc>

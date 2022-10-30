@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Dufo López, Rodolfo</dc:contributor>
+    <dc:creator>Marquino Leonar, Sergio</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>El objetivo de este trabajo es recopilar información acerca de modelos para la estimación de la vida útil de las baterías de litio. Cada uno de los modelos de estudio que se recopilen se implementarán en la simulación de sistemas fotovoltaicos autónomos. Posteriormente se estudiarán diferentes casos de sistemas fotovoltaicos mediante todos los modelos implementados, sacando conclusiones acerca de los que más se ajustan a la realidad, y de si es rentable el almacenamiento energético en baterías de ion de lito frente a las de plomo ácido.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/60810</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/60810/files/TAZ-TFG-2016-2005.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Comparación de modelos para la estimación de la vida útil de las baterías de ión de litio</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Comparison of different models to estimate the useful lifetime of Li-ion batteries</dc:title>
+</oai_dc:dc>

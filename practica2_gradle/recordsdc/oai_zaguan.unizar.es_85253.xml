@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Carro Ceballos, Pedro Luis</dc:contributor>
+    <dc:creator>Blanco Orera, Javier</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>El rápido desarrollo de telecomunicaciones demanda continuamente dispositivos de radio con nuevas frecuencias y con mejores prestaciones.\par&lt;br /&gt;En el ámbito de las antenas, las atractivas propiedades que poseen las antenas microstrip con polarización circular las hacen estar presentes en numerosas sistemas de comunicaciones inhalambricas como son el radar, la navegación por satélite, la identificaciones por radiofrecuencia (RFID) o los sistemas móviles.&lt;br /&gt;Las antenas microstrip pueden clasificarse de dos en dos grupos diferentes en función del método utilizado para generar polarización circular en ellas, el  método utilizado para este tfg se basa en una alimentación única y en la perturbación de la simetría de la propia estructura.&lt;br /&gt;El objetivo de este TFG es proponer nuevos diseños e antenas microstrip con polarización circular, utilizando el método anterior, para la aplicación concreta, como son los sistemas de navegación (GPS y Galileo). Debido a las distintas prestaciones que precisan las antenas en función de su aplicación, el diseño de la nuevas estructuras se abordan en dos capítulos distintos. El objetivo de los diseños destinados a aplicaciones satelitáles es obtener estructuras robustas, con prestaciones precisas y fiables. Los diseños propuestos para antenas satelitáles se han centrado en el uso de estructuras simples y compactas.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/85253</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/85253/files/TAZ-TFG-2019-2705.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías y Servicios de Telecomunicación</dc:subject>
+    <dc:title>Diseño y evaluación de prestaciones de antenas impresas de bajo perfil para sistemas GNSS</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Design and performance evaluation of low-profile printed antennas for GNSS system</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Miguel Artiaga, Antonio</dc:contributor>
+    <dc:creator>Galve Pastor, Yasmina</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Las tecnologías del habla pueden suponer una herramienta muy poderosa a la hora de facilitar la vida cotidiana a aquellas personas que presentan alguna patología en su capacidad del habla. La utilización de estas tecnologías permite el desarrollo de herramientas que asistan a los profesionales de la logopedia en su labor de ayudar a personas con problemas de dicción. Sin embargo, el alto coste de las herramientas que existen en el mercado y además, la no existencia de herramientas en español, han impedido la utilización de estas tecnologías para este fin. El presente proyecto tiene como objetivo el diseño de una herramienta libre de asistencia a la logopedia, válida tanto para el español como para otros idiomas, y que pueda ser ejecutada en una plataforma distribuida, evitando problemas de incompatibilidad de sistemas operativos. La herramienta consiste en un editor de actividades que permita a los logopedas diseñar sus propias actividades sin necesidad de tener conocimientos técnicos. El editor es totalmente configurable con el fin de que pueda trabajar con el número máximo de patologías posible, adaptándolas a cada caso en particular. Se trabaja el procesado de la señal de voz mediante las técnicas tradicionales y se introducen técnicas que eliminan la influencia del pitch, la cual supone un problema cuando se trata voz de alta tonalidad como es el caso de la voz infantil. Se calcula la longitud del tracto vocal, la cual permite reducir la variabilidad de los formantes mediante su normalización. Se diseña un motor de simulación física, que transforma los parámetros de la señal de voz obtenidos en distintos tipos de movimiento de un objeto que el usuario final visualizará en la pantalla. Se introduce la posibilidad de añadir otras condiciones que influirán en el movimiento del objeto. De esta manera, los logopedas disponen de mayor flexibilidad en el diseño de las actividades y pueden variar el nivel de dificultad de las mismas. Por último, se diseña una interfaz gráfica que guíe a los logopedas en la configuración de actividades, proporcionándole numerosas opciones para configurar y variar. La configuración de las actividades se podrá guardar en un archivo XML para poder compartirla con otros profesionales o poder cargarla en el futuro.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8005</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8005/files/TAZ-PFC-2012-392_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/8005/files/TAZ-PFC-2012-392.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>editor de actividades</dc:subject>
+    <dc:subject>logopedia</dc:subject>
+    <dc:subject>procesado de señal</dc:subject>
+    <dc:subject>pitch</dc:subject>
+    <dc:subject>formantes</dc:subject>
+    <dc:subject>longitud del tracto vocal</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicación</dc:subject>
+    <dc:title>Diseño de herramientas de asistencia a la logopedia en una plataforma distribuida</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

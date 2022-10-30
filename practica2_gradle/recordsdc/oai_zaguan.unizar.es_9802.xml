@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gil Martínez, Antonia</dc:contributor>
+    <dc:creator>Irún Cuairán, Óscar</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>La medida del mercurio (Hg) en aplicaciones de combustión es un tema complejo; el Hg es una especie altamente volátil y sus emisiones en centrales térmicas de carbón dependen del mecanismo de especiación del Hg. Por otro lado, la influencia que tiene el tipo de biomasa en el destino de los metales traza  (Hg) en aplicaciones de cocombustión tampoco es muy bien conocida. En el caso de biomasas ricas en Cl, y en determinadas condiciones de operación, el Hg presente en el carbón puede liberarse y estar presente en concentraciones mayores en gases de combustión. Los principales factores que afectan a la especiación del Hg y a sus emisiones en instalaciones de combustión son: contenido en Cl en los combustible,presencia del Cl en los gases de combustión,contenido en Ca, Fe, S y la presencia de inquemados, entre otros. Debido a que varios de estos factores están relacionados entre sí, es difícil evaluar, sin hacer modelos termodinámicos detallados, las emisiones de Hg. El objetivo de este trabajo consiste en el desarrollo de una metodología para poder evaluar de forma experimental la influencia de determinados tipos de biomasa en las emisiones de Hg en chimenea.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9802</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9802/files/TAZ-TFM-2012-1216_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/9802/files/TAZ-TFM-2012-1216.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>cocombustión</dc:subject>
+    <dc:subject>emisiones</dc:subject>
+    <dc:subject>hg</dc:subject>
+    <dc:subject>Máster Universitario en Energías Renovables y Eficiencia Energética</dc:subject>
+    <dc:title>Medida de Hg en cocombustión: comparativa de métodos de medida y aplicación a una instalación experimental</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mendiara Negredo, Teresa</dc:contributor>
+    <dc:contributor>Abad Secades, Alberto</dc:contributor>
+    <dc:contributor>Aznar Villacampa, María Pilar</dc:contributor>
+    <dc:creator>Ferrer Enciso, Gonzalo</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El proceso Chemical Looping Combustion (CLC) es un método de captura de CO2 por combustión sin N2 en el que la combustión se realiza aportando el oxígeno necesario para la reacción por medio de un transportador de oxígeno. Este transportador de oxígeno, generalmente un óxido metálico, circula entre dos reactores: en uno de ellos se lleva a cabo su reducción junto a la combustión del combustible, y en el otro su oxidación. En la actualidad, la mayoría de las instalaciones experimentales utilizan dos reactores de lecho fluidizado interconectados. En este proyecto se estudiará el proceso CLC con carbón con un tipo de transportador de oxígeno basado en un residuo industrial. Además, a modo de comparación se han utilizado dos transportadores de distinta procedencia (uno sintético y el otro a partir de un mineral). El estudio se centra en la conversión del char en presencia del transportador de oxígeno, ya que ésta es la etapa limitante para obtener elevadas eficacias de captura en el proceso. Se han utilizado tres tipos de char de carbón distintos que han sido preparados por pirólisis de carbón. Se llevaron a cabo experimentos en un reactor de lecho fluidizado en el que se alternaron la reducción y la oxidación del transportador. Para la oxidación, se pasó un flujo de aire por el reactor. Para la reducción, se pasó un flujo de H2O o CO2 como agente gasificante por el reactor y se alimentó char de carbón como combustible. Durante la reducción, se producen dos reacciones en serie: la gasificación del char y la combustión de los gases de gasificación. Cada experimento se ha realizado para varias condiciones de operación distintas, a fin de poder analizar cómo afecta cada una de ellas en el proceso y a cada transportador en particular. El estudio se ha llevado a cabo analizando la velocidad de conversión instantánea de char y la eficacia de combustión para cada uno de los transportadores bajo distintas condiciones de operación. Finalmente, se ha realizado un estudio teórico de la posible aplicación al diseño en una planta CLC con los distintos transportadores utilizados.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6917</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Tecnologías del Medio Ambiente</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6917/files/TAZ-PFC-2012-077.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6917/files/TAZ-PFC-2012-077_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>chemical looping combustion</dc:subject>
+    <dc:subject>combustión</dc:subject>
+    <dc:subject>carbón</dc:subject>
+    <dc:subject>residuo industrial</dc:subject>
+    <dc:subject>Ingeniero Químico</dc:subject>
+    <dc:title>Combustión de carbón con captura inherente de CO2 con un transportador de oxígeno basado en un residuo industrial</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

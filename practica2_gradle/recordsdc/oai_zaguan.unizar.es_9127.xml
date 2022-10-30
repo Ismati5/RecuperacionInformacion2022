@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Malvè, Mauro</dc:contributor>
+    <dc:contributor>Peña Baquedano, Estefanía</dc:contributor>
+    <dc:creator>Nicolás Chueca, Marina</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Este trabajo fin de máster lleva a cabo el análisis de la funcionalidad de un filtro antitrombo. El trabajo se centra, primero, en la creación de una serie de modelos numéricos usando herramientas numéricas y después en la comparación de los resultados obtenidos con unos modelos experimentales creados en el laboratorio usando la técnica de velocimetría láser (PIV).  Los filtros antitrombo son los encargados de capturar coágulos en pacientes con trombosis venosa profunda. Esta enfermedad consiste en la migración de un trombo hasta el pulmón y es potencialmente mortal, siendo una de las primeras causas de muerte en el mundo desarrollado. La terapia más habitual es la administración de fibrinolíticos pero en determinadas circunstancias el uso de filtros es necesario ya que los tratamientos con fibrinolíticos se encuentran contraindicados.  Para estudiar la funcionalidad del filtro antitrombo se han llevado a cabo tres modelos numéricos distintos. Cada modelo numérico ha sido comparado con un modelo experimental creado en el laboratorio ya que para poder determinar la validez del modelo creado mediante herramientas numéricas es necesario llevar a cabo una validación experimental del código comercial usado. El modelo experimental está compuesto por un tubo de silicona que simula una vena totalmente idealizada y el filtro antitrombo Gunther-Tulip estándar de cuatro patas. La comparación numérico-experimental ha sido realizada de forma cuantitativa comparando perfiles de velocidades de los dos modelos y también cualitativa comparando patrones de flujo en zonas cercanas y lejanas del filtro. Los tres modelos numéricos creados han sido los siguientes: una vena cava idealizada, modelada como un cilindro perfecto, un segundo modelo de vena con el filtro Günther Tulip de 4 patas insertado en su interior, y finalmente un tercer modelo que además incluye un trombo modelado como una esfera perfecta. Para la realización de los tres modelos se han seguido los mismos pasos. En primer lugar se ha modelado la geometría en 3D, sucesivamente la geometría ha sido exportada al programa ANSYS ICEM que permite crear mallas mediante el método de elementos finitos y finalmente la malla ha sido exportada al programa ANSYS CFX para procedecer al cálculo del modelo mediante el método de volúmenes finitos. Una vez los cálculos han finalizado se ha pasado a la  fase de posproceso donde se ha llevado a cabo un estudio fluido-dinámico del modelo y finalmente se ha realizado una comparación entre los resultados numéricos y los experimentales.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9127</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9127/files/TAZ-TFM-2012-837.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/9127/files/TAZ-TFM-2012-837_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>filtro antitrombo</dc:subject>
+    <dc:subject>fluido-dinámica</dc:subject>
+    <dc:subject>cfx</dc:subject>
+    <dc:subject>ansys</dc:subject>
+    <dc:subject>elementos finitos</dc:subject>
+    <dc:subject>velocimetrría láser</dc:subject>
+    <dc:subject>piv</dc:subject>
+    <dc:subject>trombosis venosa profunda</dc:subject>
+    <dc:subject>comparación numérico-experimental</dc:subject>
+    <dc:subject>vena cava</dc:subject>
+    <dc:subject>Máster Universitario en Mecánica Aplicada</dc:subject>
+    <dc:title>Comparación numérico-experimental de la fluido-dinámica de un filtro antitrombo</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

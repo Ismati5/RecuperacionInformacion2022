@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mena Nieto, Eduardo</dc:contributor>
+    <dc:creator>Tomás Gracia, Rubén</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>Hoy en día los videojuegos están más presentes en la vida diaria de lo que nunca han estado. Son mucho más accesibles para la gente con pocos medios, Asimismo, la extensión de la Informática ha propiciado el hecho de que mucha gente haya podido adoptar la programación como hobby. Esto ha desencadenado un estallido en el mundo de los videojuegos, de gente que programa sus propios videojuegos con bajo (o ningún) presupuesto para luego publicarlos en Internet: conocidos como juegos indie, están ahora en su mejor momento. Todo esto ha llevado a cabo una retroalimentación por la que cada vez los videojuegos están más aceptados, y más gente quiere hacer su propio juego. Muchas personas no quiere un videojuego comercial, solo explotar su lado artístico en un mundo que disfrutan, y por ello cada vez han surgido más herramientas que permiten hacer juegos con un esfuerzo reducido: los motores. En este proyecto se implementa, usando Java, desde cero y en código abierto, un motor de videojuegos 2D con la flexibilidad como máxima prioridad. Para demostrar dicha flexibilidad, se han creado tres juegos completamente distintos con él, que han permitido explorar todas las posibilidades que da el motor, así como servir de retroalimentación para el motor y saber qué era necesario cambiar en éste para cumplir los objetivos propuestos. El proyecto pretende ser una ayuda a todas las personas que quieren probar el desarrollo de videojuegos, tanto para aquellas que no saben ni quieren saber nada de programación, como para las que quieren desarrollar un motor propio, puesto que el proyecto se ha desarrollado bajo una licencia de código abierto.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/60816</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/60816/files/TAZ-TFG-2016-1909.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>JAGE (Just Another Game Engine), creación de un motor de videojuegos 2D multiplataforma de código abierto</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">JAGE (Just Another Game Engine), an open source cross platform 2D game engine</dc:title>
+</oai_dc:dc>

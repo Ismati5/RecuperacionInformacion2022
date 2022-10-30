@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Heintz, Julien</dc:contributor>
+    <dc:contributor>Guallar Paracuellos, Jesús</dc:contributor>
+    <dc:creator>Jorquera Ferrat, Pedro</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>En un contexto en el cual la energía es cada vez más cara, los sistemas que permiten la calefacción, la producción de agua caliente sanitaria y la ventilación cuyo objetivo es reducir el consumo, toman más y más importancia. Es en esta situación que numerosos industriales buscan soluciones que mejoren el rendimiento de sus productos. Este proyecto fin de carrera ha sido llevado a cabo en colaboración con CETIAT, centro técnico de estudios termodinámicos situado en Lyon, Francia. El objetivo principal es el de desarrollar tres herramientas independientes de simulación de tres sistemas de generación de energía: calderas híbridas, bombas de calor con colectores solares y aparatos multifunción. Para esto, una unidad de control ha sido creada utilizando técnicas de programación orientada a objetos, lo cual ha permitido generalizar los sistemas a controlar y así utilizar las mismas rutinas para cada uno de los aparatos simulados. En este documento se presentan los diferentes sistemas objetivo, detallando su principio de funcionamiento y mencionando productos que se encuentran en el mercado francés. Posteriormente, se describen los conceptos aplicados para crear las herramientas de simulación en BOOST, el cual es utilizado por los clientes de CETIAT con propósitos de R&amp;D. Finalmente, se lleva a cabo un estudio comparativo de diferentes soluciones utilizando las herramientas desarrolladas en este proyecto. Este estudio demuestra que la integración de diferentes fuentes de energía, en particular la energía solar, junto con un sistema de control inteligente, es la clave para reducir el consumo de energía sin sacrificar el confort.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12864</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12864/files/TAZ-PFC-2013-662.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>simulación</dc:subject>
+    <dc:subject>generadeor</dc:subject>
+    <dc:subject>híbrido</dc:subject>
+    <dc:subject>engría</dc:subject>
+    <dc:subject>calefacción</dc:subject>
+    <dc:subject>agua caliente sanitaria</dc:subject>
+    <dc:subject>bomba de calor</dc:subject>
+    <dc:subject>caldera</dc:subject>
+    <dc:subject>colector solar</dc:subject>
+    <dc:subject>control</dc:subject>
+    <dc:subject>Ingeniero Químico</dc:subject>
+    <dc:title>Desarrollo de herramientas de simulación de sistemas híbridos de generación de energía para una casa unifamiliar</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

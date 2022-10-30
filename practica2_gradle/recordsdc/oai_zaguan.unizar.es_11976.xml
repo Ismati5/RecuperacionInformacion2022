@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Calvo Lacosta, Jorge H.</dc:contributor>
+    <dc:contributor>Iturralde, María</dc:contributor>
+    <dc:creator>García Manrique, Belén</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>En el presente trabajo se ha estudiado la interacción gen-alimentación en corderos de raza Rasa Aragonesa de peso ternasco, a partir de tejido intestinal (yeyuno) de estos animales.  Se estudió la expresión diferencial de genes implicados en la captación,  transporte y eliminación de α-tocoferol (SCARB1, ABCA1, NPC1L, LPL, TTPA, APOE, CYP4F2), así como de genes que codifican factores de regulación de los mismos (PDKZ1, PPARG, PPARA, SREBP1 and CEBPB), en 58 animales agrupados según los diferentes días de finalización con concentrado suplementado con vitamina E, así como en 8 de ellos alimentados con alfalfa.  La Reacción en Cadena de la Polimerasa cuantitativa a tiempo real (RT-qPCR) ha sido la técnica elegida para este análisis de expresión diferencial. Previamente se estudió la expresión tisular específica de cada gen mediante PCR convencional en: músculo Longissimus dorsi; grasa subcutánea; hígado, e intestino delgado (duodeno, íleon y yeyuno).  En yeyuno han amplificado todos los genes excepto PDKZ1, que no amplificó en ninguna muestra, y TTPA que sólo amplificó en 25 muestras. El gen más estable bajo los distintos tratamientos fue el gen candidato APOE, seguido del gen de referencia (GR), RPL19 y la normalización se realizó frente a este último.  En cuanto a la expresión de los genes candidatos, se obtuvo que LPL  y SCARB1 podrían estar regulados mediante un mecanismo de  retroalimentación negativa del α-tocoferol. Dichos  genes muestran una regulación de la expresión génica mediada por α-tocoferol, que produce un incremento de su expresión cuando se suplementa vitamina E durante pocos días, y una disminución de la expresión al incrementar los días de suplementación. La menor expresión génica fue encontrada en los animales que pastaban alfalfa (rica en carotenos y vitamina E), lo que sugiere que la disminución en la expresión de dichos genes en estos animales podría estar mediada por los carotenos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/11976</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/11976/files/TAZ-TFM-2013-699.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>vitamina e</dc:subject>
+    <dc:subject>nutrición animal</dc:subject>
+    <dc:subject>expresión génica</dc:subject>
+    <dc:subject>nutrigenómica</dc:subject>
+    <dc:subject>nutrigenética</dc:subject>
+    <dc:subject>Máster Universitario en Biología Molecular y Celular</dc:subject>
+    <dc:title>Estudio de la influencia de la inclusión de diferentes niveles de vitamina E en la dieta de corderos de raza Rasa aragonesa en la expresión de genes en yeyuno mediante la metodología de gen candidato</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

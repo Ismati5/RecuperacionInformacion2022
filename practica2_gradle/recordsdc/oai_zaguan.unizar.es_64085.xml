@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ferreira González, Chelo</dc:contributor>
+    <dc:contributor>Ana Muniesa del Campo</dc:contributor>
+    <dc:contributor>Muniesa Del Campo, Ana</dc:contributor>
+    <dc:creator>García Sánchez, Alba</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El desayuno es la comida más importante del día porque cuando nos despertamos tras una noche de sueño los niveles de glucosa en sangre son bajos, por lo que es necesario ingerir alimentos para que el nivel de glucosa aumente y nos aporte energía suficiente para el resto del día. Un desayuno equilibrado se compone de un mínimo de tres grupos de alimentos, entre los que están los cereales. Los cereales son muy consumidos ya que constituyen la principal fuente energética de la alimentación humana. Nos aportan muchos nutrientes como hidratos de carbono, proteínas, vitaminas (entre las que destacan B1, B2 y B12), fibra y minerales como hierro y fósforo. Por estas razones es necesario conocer las aportaciones de este grupo de alimentos a nuestra dieta, y elegir, en función de nuestras necesidades, aquellos productos que nos proporcionen la mayor cantidad posible de los nutrientes necesarios. El objetivo de este trabajo es comparar diversos alimentos elaborados a base de cereales que se comercializan actualmente. Para ello se ha creado una base de datos a partir de dichos productos, en las que se incluirán múltiples variables, las cuales podemos agrupar en cuatro grupos: •	Descripción del producto: nombre del producto, marca, forma y tipo. •	Ingredientes: cereales e ingredientes que los componen y su cantidad. •	Información nutricional: hidratos de carbono, grasa, vitaminas, minerales, etc. •	Alérgenos. Se realizó un estudio estadístico de las variables registradas en la base de datos, con un software libre (programa PSPP) lo que permitió comparar las composiciones de los productos recogidos, y clasificarlos, según la cantidad de nutrientes que aporten en las dietas teniendo en cuenta distintos perfiles.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64085</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Matemática Aplicada; Área de Matemática Aplicada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64085/files/TAZ-TFG-2017-3216.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ciencia y Tecnología de los Alimentos</dc:subject>
+    <dc:title>Estudio comparativo de diversos alimentos preparados a base de cereales actualmente comercializados</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Comparative study of various cereal-based food currently marketed</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Letosa Fleta, Jesús</dc:contributor>
+    <dc:contributor>Usón Sardaña, Antonio</dc:contributor>
+    <dc:creator>Royo Silvestre, Isaac</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Este Trabajo Fin de Máster (TFM) corresponde al Máster en Energías Renovables y Eficiencia Energética de la Universidad de Zaragoza. En este trabajo se ha estudiado un tipo de rodamiento magnético con control activo en los tres ejes, con rotor cilíndrico e imanes permanentes. Esta estructura fue propuesta por Tsuchida, Takemoto y Ogasawara en 2010. Los objetivos principales son entender las características magnéticas del dispositivo y desarrollar un modelo electromagnético funcional del sistema bajo estudio que sea adaptable a diferentes dimensiones del rotor y el estátor. El estudio tiene la dificultad de requerir simulaciones en 3D. También se estudia la posibilidad de realizar simulaciones simplificadas en 2D que permitan acelerar los cálculos. El trabajo comienza con una introducción que explica la relevancia del tema y qué es un rodamiento magnético activo, también incluye una revisión del estado del arte en rodamientos magnéticos activos. A continuación se expone la estructura del dispositivo en estudio, después se explica brevemente el principio de funcionamiento del sistema. La parte central del trabajo justifica el modelo utilizado en las simulaciones por Método de Elementos Finitos (MEF) 3D y expone algunos resultados. La justificación del modelo se realiza de varias formas. Primero se comparan resultados de fuerzas y campos magnéticos con la referencia, esto también sirve para mostrar la potencia del dispositivo. En segundo lugar, puesto que algunos resultados no coinciden con la referencia, se justifica la calidad de nuestro modelo por medios teóricos. Se pone a prueba el margen de error del modelo variando sus parámetros, se intenta calcular fuerzas con dos métodos y se utiliza otra forma de validación por medio de simulaciones con MEF 2D. El siguiente punto explora las posibilidades y limitaciones inherentes a simular este problema 3D por medio de modelos simplificados 2D. A continuación se expone brevemente un ejemplo de aplicación adaptando el rodamiento a un flywheel (volante de inercia) con unos requerimientos determinados. Se presenta una curva de rigidez necesaria para diseñar un control (más allá del ámbito de este TFM). Finalmente se presentan las conclusiones, propuestas de trabajos de investigación futuros y las referencias. Tras la finalización del documento principal de la memoria se encuentran anexos con información adicional.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10186</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10186/files/TAZ-TFM-2013-085.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>rodamiento magnético</dc:subject>
+    <dc:subject>control activo</dc:subject>
+    <dc:subject>método elementos finitos</dc:subject>
+    <dc:subject>femm</dc:subject>
+    <dc:subject>opera</dc:subject>
+    <dc:subject>vector fields</dc:subject>
+    <dc:subject>active magnetic bearing</dc:subject>
+    <dc:subject>mef</dc:subject>
+    <dc:subject>fem 3d</dc:subject>
+    <dc:subject>Máster Universitario en Energías Renovables y Eficiencia Energética</dc:subject>
+    <dc:title>Características de un sistema de suspensión magnético, con control activo en los tres ejes</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

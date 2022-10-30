@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Moret-Fernández, David</dc:contributor>
+    <dc:contributor>González-Cebollada, César</dc:contributor>
+    <dc:creator>Peña Sancho, Carolina</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>La medida de las propiedades hidráulicas del suelo, curva de retención (θ(ψ)) y conductividad hidráulica (K) tiene una importancia fundamental para la simulación de procesos hidrológicos. La técnica de Reflectometría de Dominio Temporal (TDR) es una herramienta ampliamente utilizada para la medida no destructiva de contenido volumétrico de agua en el suelo (θ) y de conductividad eléctrica (σ). El objetivo de este trabajo es desarrollar una nueva metodología basada en el uso de la técnica TDR para estimar las propiedades hidráulicas del suelo (α, n and K) por análisis inverso de la dinámica de los perfiles de humedad (WCPs ) durante un proceso de infiltración de agua. Los WCPs se estiman a partir del análisis inverso de ondas TDR empleando un modelo físico de propagación electromagnética. Posteriormente, los parámetros α, n and K se calculan empleando una interfaz HYDRUS-1D-Matlab por medio del análisis inverso de los TDR-WCPs. Esta interfaz calcula los parámetros hidráulicos a partir del mejor ajuste entre los TDR-WCP registrados y los simulados por HYDRUS-1D. Para este fin, se emplea el método de optimización de fuerza bruta, el cual permite barrer un rango amplio de parámetros hidráulicos. El método fue probado en tres medios porosos distintos (tierra franca tamizada a 2 mm, arena y microesferas de vidrio) durante un proceso de infiltración. Las propiedades hidráulicas estimadas con este método se compararon con aquellas medidas en los mismos medios porosos empleando técnicas convencionales de laboratorio: cámaras de presión-TDR y mini-infiltrómetro de disco. Aunque se obtuvieron resultados satisfactorios para la mediad de K, los resultados obtenidos para la medida de n y α fueron imprecisos. Estas discrepancias se pueden atribuir a las siguientes causas (i) el uso de una función unimodal en lugar de una bimodal en HYDRUS-1D; (ii) el fenómeno de histéresis del suelo; (iii) incertidumbres en la función “puente” empleada para estimar WCP a partir del modelo de simulación de ondas TDR. Este método necesita nuevos esfuerzos para mejorar su precisión y así poder probarse en muestras de suelo inalterado.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/11059</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/11059/files/TAZ-TFM-2013-206.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>time domain reflectometry</dc:subject>
+    <dc:subject>hydrus 1d</dc:subject>
+    <dc:subject>inverse analysis of tdr waveforms</dc:subject>
+    <dc:subject>unsaturated soil hydraulic properties</dc:subject>
+    <dc:subject>water retention curve</dc:subject>
+    <dc:subject>hydraulic conductivity</dc:subject>
+    <dc:subject>moisture profile dynamics in porous media</dc:subject>
+    <dc:subject>Máster Universitario en Mecánica Aplicada</dc:subject>
+    <dc:title>Estimation of water content profiles by inverse analysis of TDR waveforms: application to infer soil hydraulic properties</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

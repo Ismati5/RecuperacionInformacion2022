@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Pina Iritia, María Pilar</dc:contributor>
+    <dc:creator>Eguizábal Alguacil, Adela</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>El objetivo general de este trabajo fin de máster ha sido el estudio de un nuevo material compuesto y multifuncional resultado de la combinación sinérgica de zeolitas y polímeros para su uso en PEMFCs de alta temperatura. Se han preparado membranas densas híbridas polímero-zeolita mediante proceso de casting seguido de un tratamiento de dopado con ácido fosfórico. Se eligió como polímero el polibencimidazol debido a que puede trabajar a altas temperaturas (&gt; 120 ºC) y mantiene sus excelentes propiedades en entornos reductores y oxidantes; y se utilizaron diferentes tipos de zeolitas funcionalizadas como material inorgánico para dar estabilidad térmica e hidrofilicidad a la membrana. Inicialmente, se sintetizaron dos tipos zeolitas: ETS-10 y Na-MOR. Se obtuvieron materiales con diferente tamaño de cristal. Las zeolitas fueron caracterizadas mediante XRD, FTIR, TGA, SEM, BET, XPS y se evaluaron las propiedades eléctricas. Posteriormente, las zeolitas fueron funcionalizadas con diferentes grupos funcionales (amino, sulfónico, epoxy e imidazol) para atribuirles propiedades como, mayor conductividad o mayor afinidad por el polímero, con el fin de mejorar la interfase polímero-zeolita presente en la membrana híbrida. Estos materiales se caracterizaron por FTIR, TGA y XPS y se midió la conductividad en función de la temperatura. Por último se prepararon membranas puras y membranas híbridas con el fin de estudiar varios parámetros en la conductividad de las membranas con respecto al PBI puro. Las variables fueron: •	Tamaño de cristal •	Funcionalización de las zeolitas •	Carga inorgánica •	Procedimiento de dopado •	Tipo de zeolita Se evaluó la conductividad de todas las membranas y las más prometedoras se caracterizaron por TGA, SEM y se les midió la permeación al metanol.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4883</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Ingeniería Química</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4883/files/TAZ-TFM-2010-006.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/4883/files/TAZ-TFM-2010-006_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>PBI</dc:subject>
+    <dc:subject>Zeolita</dc:subject>
+    <dc:subject>Membrana</dc:subject>
+    <dc:subject>PEMFC</dc:subject>
+    <dc:subject>Máster Universitario en Iniciación a la Investigación en Ingeniería Química y del Medio Ambiente</dc:subject>
+    <dc:title>Desarrollo de membranas híbridas para su uso en PEMFCs</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

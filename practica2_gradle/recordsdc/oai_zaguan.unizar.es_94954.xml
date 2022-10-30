@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>David Izquierdo Nuñez</dc:contributor>
+    <dc:contributor>Francisco Domingo Aleu Puerto</dc:contributor>
+    <dc:creator>CARRETERO ALVEDRO, SERGIO</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>En este proyecto se desarrollará un estudio de mejora de la integridad física y de las comunicaciones del UAV PASI siguiendo una secuencia lógica de análisis de sus principales vulnerabilidades. Se centrará en dos principales vertientes, la primera estudiará la integración de un sistema receptor de alerta radar o Radar Warning Receiver (RWR), de pequeño tamaño y adaptado a las restricciones físicas de la aeronave, que permitirá, principalmente, conocer si el enemigo ha activado su sistema de alerta temprana. Además también deberá contar con un registro de los diferentes radares de seguimiento que podrían estar fijando el UAV en vistas de derribarlo. La segunda tarea será un análisis de las principales deficiencias en la conexión entre el UAV y la estación de control terrestre. Se incluirá posibles mejoras de la encriptación de la información para el PASI, así como medidas de protección electromagnética para evitar el jamming y se abordará el problema de la saturación de la banda.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/94954</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/94954/files/TAZ-TFG-2016-300.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/94954/files/TAZ-TFG-2016-300_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Organización Industrial</dc:subject>
+    <dc:title>SISTEMAS DE EPM PARA LA INTEGRIDAD DEL UAV PASI Y SUS COMUNICACIONES</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

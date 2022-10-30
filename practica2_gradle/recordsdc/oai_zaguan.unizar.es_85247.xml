@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Larrodé Pellicer, Emilio</dc:contributor>
+    <dc:creator>Pellicer Zubeldía, David Santiago</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>En este trabajo se abordan dos sistemas de transporte de mercancías en tubos al vacío, el primero de ellos para transportar carga en contenedores y el segundo para transportar carga en cajas. Se siguen las siguientes fases:&lt;br /&gt;1.	Establecimiento de las hipótesis del problema y características técnicas de los vehículos.&lt;br /&gt;2.	Estudio de antecedentes y soluciones al problema planteado.&lt;br /&gt;3.	Establecimiento de las variables de medida del problema de diseño y de transporte.&lt;br /&gt;4.	Establecimiento de diferentes escenarios de utilización.&lt;br /&gt;5.	Parametrización de las variables de diseño que afectan a las prestaciones del vehículo. &lt;br /&gt;6.	Análisis de las características técnicas del sistema de transporte.&lt;br /&gt;7.	Obtención de resultados y determinación del diseño final. &lt;br /&gt;Además, previamente al análisis se hace una comparación entre un tren de alta velocidad, uno de levitación magnética y el primer modelo de Hyperloop diseñado por Elon Musk. &lt;br /&gt;La obtención de resultados se efectuó en el programa EES (Engineering Equation Solver), en el cual se introdujeron las ecuaciones obtenidas tras la parametrización y se variaron los parámetros para obtener diversos resultados y tendencias. &lt;br /&gt;Al final se hacen cálculos para la estimación de la energía necesaria para vaciar los tubos.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/85247</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería e Infraestructura de los Transportes</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/85247/files/TAZ-TFG-2019-2716.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Desarrollo conceptual, análisis y simulación de la capacidad de transporte de un vehículo de transporte de mercancías en tubos al vacío a alta velocidad (concepto Hyperloop)</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Conceptual development, analysis and simulation of the transport capacity of a freight transport vehicle in vacuum tubes at high speed (Hyperloop concept)</dc:title>
+</oai_dc:dc>

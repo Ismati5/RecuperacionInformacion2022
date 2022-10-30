@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Navas Izquierdo, Ana </dc:contributor>
+    <dc:creator>López Vicente, Manuel</dc:creator>
+    <dc:date>2007</dc:date>
+    <dc:description>El control de la pérdtaga de suelo es vital en el escenario actual para la sostenibiltagad de los recursos naturales y de los cultivos. La Cuenca de Estaña (Pre-Pirineo Central oscense) es el área de estudio, representativa de agroecosistemas mediterráneos de media montaña con vegetación autóctona y cultivos de secano. Es un sistema htagrológico cerrado, endorreico y kárstico, con quince subcuencas y tres lagos permanentes. En esta investigación se caracteriza el MDE y la geomorfología, los tipos y usos de suelo, las propiedades físicoquímicas y radiométricas y las variables climáticas. La erosión promedio con el modelo de procesos RMMF (3.6 Mg ha-1 año-1) es un 54 % superior a la del modelo empírico RUSLE (2.3 Mg ha-1 año-1). La erosión es inferior en cubiertas naturales frente a cultivos (5.0 y 5.3 Mg ha-1 año-1 para RUSLE y RMMF) y la mayor erosión en áreas de suelo desnudo, caminos, cultivos en laderas y zonas de elevada pendiente con arbustos dispersos. Se han tagentificado tres periodos erosivos: el PE-I (Jl.-Oc.) con valores altos de EI30, I30 y erosión mensual; el PE-II (My.-Jn.) con valores bajos de erosión mensual por la vegetación y el PE-III (Nv.-Ab.) con valores bajos de EI30 y de I30, altos del factor K y elevada erosión mensual. El cálculo de la escorrentía acumulada efectiva mejora el modelo RMMF. El algoritmo de flujo combinado asociado a cárcavas es el más preciso. El nuevo modelo SERT (Subcuenca Piloto) es sensible ante I30, saturación del suelo y generación de escorrentía y discrimina para cada mes las zonas con y sin erosión. La erosión más significativa en septiembre y octubre y la promedio y máxima es 17.5 y 324 Mg ha-1 año-1. La redistribución con 137Cs (Subcuenca Piloto) es -0.6 Mg ha-1 año-1. El 8 % de la superficie presenta erosión &gt; 20 Mg ha-1 año-1 y el 25 % acumulación &gt; 5 Mg ha-1 año-1. La valtagación de SERT con 137Cs es buena en las lindes del cultivo y en el fondo de la subcuenca y baja en zonas modificadas antrópicamente y algunos elementos geomorfológicos. Control of soil erosion is necessary under the current scenario to preserve natural resources and croplands. The Estaña catchment (Spanish Central Pre-Pyrenees) is the study area and is representative of the mtag-mountain Mediterranean agroecosystems with natural vegetation and croplands. This area is a hydrological closed and karstic system with fifteen sub-catchments and three permanent lakes. In this work it is characterized the DEM and geomorphology, the soil types and uses, the physical, chemical and radiometric properties and climatic parameters. Average soil erosion with RMMF model (3.6 Mg ha-1 yr-1) is 54 % higher than average rate with RUSLE model (2.3 Mg ha-1 yr-1). Soil erosion in natural land uses is lower than soil loss in croplands (5.0 and 5.3 Mg ha-1 yr-1 with RUSLE and RMMF). The highest rates of erosion appear in bare soils, paths, croplands and scrublands in steep areas. Three different erosive periods have been tagentified. EP-I (Jl-Oc) has the highest values of EI30, I30 and monthly soil loss. EP-II (My-Jn) has the lowest values of soil loss due to the protection role of the vegetation and EP-III (Nv-Ap) has the lowest values of EI30 and I30, the highest values of the K factor and high values of monthly soil loss. Assessment of effective cumulative runoff improves predictions of RMMF. The combined flow algorithm associated with gullies represents best the runoff path-ways. The new SERT model (Pilot sub-catchment) is very sensitive in changes of I30, top-soil saturation and runoff generation parameters. SERT predicts at monthly scale areas with erosion and no erosion obtaining the highest values of soil loss in September and October and mean and maximum annual rates of 17.5 y 324 Mg ha-1 yr-1. Soil redistribution (Pilot sub-catchment) with 137Cs is -0.6 Mg ha-1 yr-1 with values of soil loss higher than 20 Mg ha-1 yr-1 and soil deposition higher than 5 Mg ha-1 yr-1 affecting 8 and 25 % of the sub-catchment area. Valtagation of SERT with 137Cs is good in croplands and areas surrounding the bottom of the sub-catchment and is low in areas strongly modified by human activities and some geomorphological features.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/1921</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencias de la Tierra</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/1921/files/TUZ_044_Lopez_agroeco.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>Spanish Pre-Pyrenees</dc:subject>
+    <dc:subject>Cs-137</dc:subject>
+    <dc:subject>RMMF</dc:subject>
+    <dc:subject>SERT</dc:subject>
+    <dc:subject>RUSLE</dc:subject>
+    <dc:subject>GIS</dc:subject>
+    <dc:subject>modelling</dc:subject>
+    <dc:subject>Soil erosion</dc:subject>
+    <dc:subject>Prepirineo español</dc:subject>
+    <dc:subject>Cs-137</dc:subject>
+    <dc:subject>SERT</dc:subject>
+    <dc:subject>RMMF</dc:subject>
+    <dc:subject>RUSLE</dc:subject>
+    <dc:subject>SIG</dc:subject>
+    <dc:subject>modelización</dc:subject>
+    <dc:subject>Erosión del suelo</dc:subject>
+    <dc:title>Erosión y redistribución del suelo en agroecosistemas mediterráneos: Modelización predictiva mediante SIG y validación con 137Cs (Cuenca de Estaña, Pirineo Central)</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

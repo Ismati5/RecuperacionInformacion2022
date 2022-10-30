@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Galano Frutos, Juan José</dc:contributor>
+    <dc:contributor>García Cebollada, Helena</dc:contributor>
+    <dc:contributor>Sancho Sanz, Javier</dc:contributor>
+    <dc:creator>Blasco Puyuelo, Sofía</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Rett syndrome is a rare neurological disease that affects 1:10000 girls in the world, being the main cause of mental retardation in females. It is an X-linked disease, as the genes involved in its development are located in the X-chromosome. One of the main genes causing this disease is MECP2, that codifies the methyl-CpG-binding protein 2 (MeCP2). This protein is mostly located in brain cells, where it has several functions like regulation of chromatin or gene repression. Mutations in one of the domains of MeCP2, the methyl binding domain (MBD), account for more than 50% of the cases of Rett syndrome.&lt;br /&gt;The development in the last years of computational methods able to model molecular systems is providing very useful tools to study the action mechanisms of biomolecules. One example is the possibility of model proteins and follow its dynamics at an atomic level. Molecular dynamic simulations are capable of this, providing an insight into the molecular mechanisms that lead to protein function.&lt;br /&gt;In this work, we have performed all atom molecular dynamic simulations of different mutants known for causing Rett syndrome. We selected 12 mutants in the MBD of MeCP2 with the aim of predict its effect in the stability of the protein. Performing the simulation at the optimal temperature of 360K, we achieved an accuracy of 50%. Further analysis of the false negative predictions showed that some mutants are more stable than the wild type protein, suggesting that a great stabilizing effect may be causing pathogenicity too. Another hypothesis for these cases could be that they can affect interaction with its partners without affecting stability. &lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/86652</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Bioquímica y Biología Molecular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/86652/files/TAZ-TFM-2019-905.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Biotecnología Cuantitativa</dc:subject>
+    <dc:title>Evaluación del mutoma asociado a Síndrome de Rett</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Evaluation of the mutome associated to Rett syndrome</dc:title>
+</oai_dc:dc>

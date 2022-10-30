@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gallego Martínez, José Ramón</dc:contributor>
+    <dc:creator>Xiang Zheng, Víctor</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>En este Trabajo de Fin de Máster se ha realizado un sistema automatizado para el control de existencias dentro de una cámara frigorífica, enfocando a su aplicación a negocios del sector de la restauración. Para ello, se ha desarrollado una serie de sensores que son capaces de medir y registrar de forma automática la cantidad de comida que hay dentro de la cámara frigorífica y enviar estos datos a un servidor para procesarlos.  El trabajo está enmarcado como un proyecto de IoT (Internet of Things), cuyo principal objetivo es la interconexión digital de objetos cotidianos utilizando dispositivos electrónicos embebidos, sensores y proveyéndoles de conectividad con el mundo externo. De esta forma el sistema provee a una cámara frigorífica la capacidad de saber la cantidad de comida que contiene dentro y enviar esta información a una entidad externa. El sensor se ha implementado en un Arduino Mini Pro que controlará el sensado de las medidas. Para el envío de los datos generados al servidor se ha utilizado ZigBee, un protocolo de comunicaciones inalámbrico de bajo consumo energético. Con los datos generados por los sensores se ha implementado un sistema de gestión que permitirá llevar un control eficiente sobre la tasa a la que se gasta la comida y el tiempo que éste lleva dentro de las cámaras. Se ha implementado también una interfaz web gráfica a través de la cual se puede visualizar estos datos. Con esta información podrá realizar pedidos de forma automática a los proveedores calculando la cantidad que podría ser necesaria durante los próximos días. De este modo, en este Trabajo de Fin de Máster se ha desarrollado un módulo de sensado que generará datos y medidas, un módulo de servidor que procesará estos datos para obtener y mostrar información útil y un módulo de comunicaciones que conecten estos dos elementos de forma inalámbrica.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/60462</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingeniería Telemática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/60462/files/TAZ-TFM-2016-1068.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería de Telecomunicación</dc:subject>
+    <dc:title>Sistema automatizado para el control de existencias dentro de una cámara frigorífica</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Automated system for the control of stock in a refrigerator</dc:title>
+</oai_dc:dc>

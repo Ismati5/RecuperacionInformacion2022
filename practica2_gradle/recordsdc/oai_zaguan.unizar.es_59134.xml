@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Zueco Láinez, David</dc:contributor>
+    <dc:creator>Alegre Martínez, Raúl</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>Todos los sistemas interaccionan con su entorno. Esta interacción puede ser crucial en tecnologías cuánticas como la computación cuántica. En este trabajo estudiamos varios modelos que tratan de estudiar esta interacción y analizamos su comportamiento frente a problemas reales.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/59134</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física de la Materia Condensada; Área de Física de la Materia Condensada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/59134/files/TAZ-TFG-2016-2175.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Física</dc:subject>
+    <dc:title>Tecnologías cuánticas y la física de no equilibrio en mecánica cuántica</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Quantum technologies and non equilibrium physics in quantum mechanics</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Longares Aladrén, Luis Alberto</dc:contributor>
+    <dc:contributor>Pueyo Morer, Emilio L.</dc:contributor>
+    <dc:creator>Porquet Pardina, Manuel</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>En el presente trabajo se han georreferenciado las estaciones de medida de anisotropía de sus-ceptibilidad magnética pertenecientes a 21 cuerpos graníticos distribuidos a lo largo del Pirineo. Además se ha realizado una labor de homogeneización de la información que se ha plasmado en la generación de cartografías de síntesis, tanto a escala de cadena como de forma individual (ba-tolito), siguiendo los estándares de la Norma Cartográfica de Aragón. Estos datos provienen de distintas publicaciones sobre anisotropía de la susceptibilidad magnética (ASM) como técnica para caracterizar la estructura y deformación interna de los granitos, su modo de emplazamiento y su relación con la evolución estructural de las rocas encajantes.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31132</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio; Área de Geografía Física</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31132/files/TAZ-TFM-2014-858_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/31132/files/TAZ-TFM-2014-858.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>asm</dc:subject>
+    <dc:subject>pirineos</dc:subject>
+    <dc:subject>granito</dc:subject>
+    <dc:subject>georreferenciación</dc:subject>
+    <dc:subject>Máster Universitario en Tecnologías de la Información Geográfica para la Ordenación del Territorio: Sistemas de Información Geográfica y Teledetección</dc:subject>
+    <dc:title>Sistema de Información Geográfica de las propiedades magnéticas de los granitos del Pirineo</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

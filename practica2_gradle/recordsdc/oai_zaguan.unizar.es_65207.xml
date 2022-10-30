@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gómez Gardeñes, Jesús</dc:contributor>
+    <dc:creator>Faci Lázaro, Sergio</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Este trabajo trata de relacionar el comportamiento global de un sistema con el individual de cada uno de sus elementos. Con este fin, estudiamos las redes cerebrales; en concreto, nos centramos en el estudio de redes neuronales formadas en cultivos y en el fenómeno de emergencia de sincronización. Para ello hemos empleado redes complejas y desarrollado un modelo de formación de enlaces entre neuronas que imita el observado experimentalmente. Asimismo, hemos caracterizado mediante el modelo de Izhikevich las dinámicas individuales de cada neurona y cómo éstas interactúan para dar lugar el fenómeno de sincronización, el cual detectamos mediante la utilización de medidas expresamente diseñadas para este objetivo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/65207</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física de la Materia Condensada; Área de Física de la Materia Condensada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/65207/files/TAZ-TFG-2017-1871_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/65207/files/TAZ-TFG-2017-1871.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Física</dc:subject>
+    <dc:title>Estructura versus función en redes complejas cerebrales</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Structure versus function in complex brain networks</dc:title>
+</oai_dc:dc>

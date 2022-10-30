@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Follana Adin, Eduardo</dc:contributor>
+    <dc:creator>Castro Rivera, Juan Carlos</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>El trabajo consiste en una descripción básica de las estructuras matemáticas utilizadas en Relatividad General. Específicamente, el estudio de variedades semi-Riemannianas y cálculo tensorial, además de utilizar estas estructuras para describir las ecuaciones de Einstein. Al final del trabajo, se describe una solución concreta de la soluciones, describiendo brevemente su significado.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76756</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Teórica; Área de Física Teórica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76756/files/TAZ-TFG-2018-3193.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Matemáticas</dc:subject>
+    <dc:title>Algunas estructuras matemáticas en Relatividad General</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Some mathematical structures in General Relativity</dc:title>
+</oai_dc:dc>

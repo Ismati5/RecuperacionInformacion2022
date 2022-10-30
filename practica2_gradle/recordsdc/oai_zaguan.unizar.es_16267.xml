@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gaspar Lorenz, Francisco José</dc:contributor>
+    <dc:creator>Gómez Gómez, Marta</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>La aportación de las matemáticas, en concreto a la lucha contra el cáncer, se hace sobre todo a través de modelos y programas que simulan desde cómo crece un tumor a qué efecto tiene sobre un paciente determinada terapia.  En particular, los modelos en ecuaciones en derivadas parciales son herramientas muy usadas en el estudio del crecimiento de tumores y la forma en que se difunden sobre los tejidos que los rodean.  Así pues, a lo largo de este trabajo se trata de introducir un primer modelo matemático sencillo con el fin de producir un acercamiento al lector con todo este campo. Se busca una ecuación que modele tumores cerebrales, dando lugar a las ecuaciones de reacción-difusión. Se hará también un estudio de métodos numéricos para su resolución, como el método de diferencias finitas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/16267</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Matemática Aplicada; Área de Matemática Aplicada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/16267/files/TAZ-TFG-2014-1627.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Matemáticas</dc:subject>
+    <dc:title>Modelos matemáticos en oncología. Simulación numérica.</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

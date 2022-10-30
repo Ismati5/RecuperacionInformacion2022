@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Larrodé Pellicer, Emilio</dc:contributor>
+    <dc:contributor>Arroyo García, Juan</dc:contributor>
+    <dc:creator>Monreal Elorza, Guillermo</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Este proyecto nace de la colaboración entre la Universidad de Zaragoza y la empresa aragonesa Zytel Automoción. El proyecto tiene como objetivo principal el estudio de la generación de calor en los diferentes paquetes de baterías de un vehículo eléctrico y la realización si fuera necesario de un intercambiador de calor para la evacuación del mismo y cumplir con los objetivos de seguridad y confort dentro del habitáculo. Este proyecto se sitúa en el marco de uno mayor cuyo objetivo es la transformación de un vehículo con motor térmico a uno  de tracción eléctrica con cero emisiones capaz de realizar largos recorridos y disponer de altas prestaciones. La realización del proyecto conllevará diversos estudios. En un primer lugar se estudia el tipo de baterías que se disponen en el vehículo, cuya elección ya fue realizada en un proyecto anterior, centrándonos en las causas que producen la generación de calor. El estudio se basa en los valores de tensión e intensidad que son capaces de suministrar las baterías según el fabricante, con el fin de realizar el estudio de las mismas en las distintas condiciones de operación. Uno de los pasos esenciales se centra en la realización de un modelo teórico del comportamiento térmico de las baterías, que sea lo suficientemente aproximado a la realidad como para poder utilizarlo para los cálculos de la cantidad de calor a evacuar. Este modelo se apoya sobre ciertos experimentos realizados con las baterías, descargando estas a diferentes intensidades durante distintos periodos de tiempo.  Una vez realizado el cálculo de la temperatura alcanzada por el sistema gracias a dicho modelo, se procede al diseño e implementación de un intercambiador capaz de mantener la temperatura del habitáculo contenedor de las baterías en unos valores aceptables indicados anteriormente. Se estudia también la posibilidad de implantar el sistema calculado, debiendo ser este modificado en el caso de que la geometría del sistema, la cual vendrá determinada de antemano, no  permita su implementación. Se realizará el montaje del sistema final calculado y por último se comprobarán experimentalmente las condiciones térmicas en los diferentes grupos de baterías para verificar que cumplen con los requisitos de seguridad tanto para los ocupantes del vehículo como para su propio funcionamiento.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/14420</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Instituto de Investigación en Ingeniería de Aragón (I3A)</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/14420/files/TAZ-PFC-2014-250_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/14420/files/TAZ-PFC-2014-250.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>refrigeración</dc:subject>
+    <dc:subject>baterías</dc:subject>
+    <dc:subject>vehículo eléctrico</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Cálculo diseño y construcción de un sistema de refrigeración para los cofres de baterías de vehículo eléctrico</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

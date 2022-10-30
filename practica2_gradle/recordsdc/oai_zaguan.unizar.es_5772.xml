@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Losilla Anadón, Guillermo</dc:contributor>
+    <dc:contributor>Giner Gracia, Arturo</dc:contributor>
+    <dc:contributor>Mena Nieto, Eduardo</dc:contributor>
+    <dc:creator>Civitani Monzón, Víctor</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El Proyecto Fin de Carrera que se detalla en esta memoria ha sido realizado en el Instituto de Biocomputación y Física de Sistemas Complejos (BIFI), dentro del área de supercomputación. Se ha iniciado en octubre del 2010 y su duración ha sido de unos seis meses. Para su realización se ha contado con la codirección de Guillermo Losilla y Arturo Giner, y con Eduardo Mena como ponente. El objetivo final del proyecto ha sido diseñar e implementar un sistema de información que permita recopilar datos de los diferentes nodos de la Red Española de Supercomputación (RES) y mostrar dichos datos a los usuarios mediante un interfaz Web. El sistema almacena la información que se recopila de los diferentes nodos y geoposiciona dicha información sobre un mapa. Posee una estructura modular y es interoperable, permitiendo ser usado en distintos sistemas operativos y navegadores Web, y provee un interfaz que permite un acceso Web seguro y con distintos niveles de autorización a la información almacenada en el sistema.   El proyecto ha constado de tres fases: la primera ha sido el estudio previo de las tecnologías, donde se ha invertido bastante tiempo, la segunda y tercera han sido diseño e implementación, que se han realizado casi a la par. Durante la documentación se ha conseguido tener una idea global del funcionamiento de la RES, de forma que se han obtenido todos los detalles necesarios para la realización del proyecto. También se ha buscado información acerca de las posibles herramientas que se pueden utilizar durante el desarrollo. Se ha analizado la información obtenida, y se ha realizado una selección de las herramientas a usar, empezando así la fase de diseño, donde se ha decidido utilizar una base de datos de la cual los usuarios obtienen la información mediante un Applet de Java que usa World Wind para geolocalizar los datos, y los nodos son los encargados de actualizar la base de datos mediante el uso de scripts, de forma que es lo más automatizado posible. Finalmente, el desarrollo ha consistido en hacer realidad el diseño previo mediante las herramientas elegidas, que se han procurado que fueran Software Libre. Por ello las herramientas utilizadas han sido la base de datos MySQL, la API de la NASA World Wind Java SDK, el lenguaje Java para realizar el applet principal de la interfaz, NetBeans, Subversion, PHPMyAdmin, Gimp, Dia, Ganttproject, OpenOffice y LaTeX. Al finalizar el desarrollo del proyecto se han cumplido todos los objetivos iniciales, y se ha dejado el sistema en un estado estable que tiene grandes posibilidades con vistas al futuro.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5772</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5772/files/TAZ-PFC-2011-195.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5772/files/TAZ-PFC-2011-195_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>RES</dc:subject>
+    <dc:subject>HPC</dc:subject>
+    <dc:subject>Caesaraugusta</dc:subject>
+    <dc:subject>sistema de información</dc:subject>
+    <dc:subject>monitorización</dc:subject>
+    <dc:subject>accounting</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Desarrollo de un sistema de información para la Red Española de Supercomputación</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

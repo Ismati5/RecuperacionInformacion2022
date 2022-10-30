@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Auría Apilluelo, José M.</dc:contributor>
+    <dc:creator>Moral Ibáñez, Javier</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>En este proyecto se ha diseñado un sistema inteligente (mediante Microsoft Excel, Visual Basic y Autodesk Inventor), capaz de generar y editar productos 3D a gusto del usuario; y además, gestionar actualizaciones, modificaciones, datos, archivos... de una manera efectiva, y adecuándose siempre a las necesidades de la empresa AVANTI WIND SYSTEMS.  Se ha integrado en un producto de la compañía, un elevador de servicio (Shark L).  Es un proyecto de tipo B,en el que además de la Memoria, se ha incluido un Estudio de Mercado (Anexo I), Manual de Usuario Programador (Anexo II), y Manual de Usuario Habitual (Anexo III).</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12918</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12918/files/TAZ-TFG-2013-1004.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/12918/files/TAZ-TFG-2013-1004_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>configurador de producto</dc:subject>
+    <dc:subject>gestor de datos</dc:subject>
+    <dc:subject>automatización autodesk inventor</dc:subject>
+    <dc:subject>Graduado en Ingeniería en Diseño Industrial y Desarrollo de Producto</dc:subject>
+    <dc:title>Integración de sistemas de gestión y configurado de producto</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

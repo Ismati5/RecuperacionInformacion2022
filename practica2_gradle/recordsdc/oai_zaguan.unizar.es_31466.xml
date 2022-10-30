@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gambau Rodríguez, Luis Alberto</dc:contributor>
+    <dc:contributor>Fernández-Carrión Rubio, Javier</dc:contributor>
+    <dc:creator>Taulé Calvo, Irene</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El Trabajo Fin de Grado expuesto a continuación consiste en el diseño y desarrollo de la imagen corporativa y sus aplicaciones para grupo de la Universidad de Zaragoza que trabaja creando ayudas para la comunicación aumentativa y alternativa. También se llevo ha cabo el diseño y desarrollo de su sitio web, con el fin de aumentar la información sobre cada una de sus aplicaciones, mostrar la relación entre los proyectos del grupo, facilitar la interacción de los usuarios con el grupo de trabajo, y aumentar el número de colaboradores. Las diferentes fases del proyecto han sido: • Documentación y análisis: Se buscó información acerca de el ámbito de trabajo del grupo. Se definieron los perfiles de usuarios a los que iría dirigido el sitio web y se obtuvieron sus necesidades para poder definir el contenido. Se analizaron web similares, de las que poder extraer sus aspectos positivos y negativos para tenerlos en cuenta en el diseño. Se analizaron aspectos importantes en el diseño web como la accesibilidad, la usabilidad, y la adaptación a distintos dispositivos. • Contenido y estructura: Se definieron los contenidos a mostrar en el sitio web atendiendo a los necesidades que se habían descubierto que tenían los usuarios y teniendo también presentes los objetivos del grupo. Se estructuró la arquitectura del sitio organizando estos contenidos y definiendo su navegación entre ellos. • Diseño de imagen corporativa: Se realizó un estudio de mercado sobre imágenes corporativas del mismo ámbito para saber en que se relacionaban. Se definió junto con el grupo su identidad corporativa. Se definieron varios conceptos de naming e imágenes que atendían a los valores propuestos. Se fueron desarrollando hasta llegar a presentárselas al grupo y que escogieran. El concepto elegido se terminó de definir y se elaboró un manual de imagen corporativa recogiendo todas sus características y requisitos de uso. • Diseño del estilo web e implementación: A partir de la imagen corporativa definida se elaboró un estilo web adecuado y coherente en todas las páginas y apartados de la web en el que se adecuó el contenido definido anteriormente. Se implementó el sitio web siguiendo dichas pautas y se crearon modificaciones de las páginas según las diferentes resoluciones de dispositivos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31466</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31466/files/TAZ-TFG-2014-2533_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/31466/files/TAZ-TFG-2014-2533.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>diseño</dc:subject>
+    <dc:subject>diseño industrial</dc:subject>
+    <dc:subject>diseño interface</dc:subject>
+    <dc:subject>diseño web</dc:subject>
+    <dc:subject>Graduado en Ingeniería en Diseño Industrial y Desarrollo de Producto</dc:subject>
+    <dc:title>Diseño de la imagen corporativa y conceptualización, desarrollo e implementación de un sitio web para un grupo de trabajo de ayudas a la comunicación</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

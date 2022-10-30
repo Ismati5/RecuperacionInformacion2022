@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Hernández Solana, María Ángela</dc:contributor>
+    <dc:contributor>Valdovinos Bardají, Antonio</dc:contributor>
+    <dc:creator>Canales Compés, María</dc:creator>
+    <dc:date>2007</dc:date>
+    <dc:description>Resumen: Las redes móviles ad hoc se caracterizan por su autosuficiencia, gracias a la descentralización de las capacidades funcionales de los terminales, constituyendo así  una alternativa tecnológica para nuevos escenarios de aplicación, resolviendo el despliegue de redes donde resulta inviable el establecimiento de una infraestructura. El encaminamiento, responsable del establecimiento de rutas multisalto, y la gestión de recursos realizada por el nivel de acceso al medio, son especialmente relevantes a la hora de definir los criterios de admisión en este entorno cooperativo. El objetivo de esta tesis es la propuesta y evaluación de un encaminamiento con calidad de servicio basado en un diseño cross-layer sustentado en la cooperación entre el encaminamiento y el nivel de acceso al medio. Se pretende así diseñar un mecanismo de control de admisión distribuido que garantice la provisión de la calidad de servicio extremo a extremo adaptándose al dinamismo de las redes móviles ad hoc. Abstract: Mobile ad hoc networks are characterized by the self-organizing capacity provided by the decentralization of the terminals functionalities, which turns them into a technological alternative for new scenarios of application, solving the deployment of networks where it is difficulty to establish a net-infrastructure.  Routing, responsible of establishing multihop routes, and resource management performed by the medium access control level, are especially relevant in order to define the admission criteria. In this context, the main goal of this thesis is the proposal and evaluation of a quality of service routing based on a cross-layer design supported by the cooperation with the medium access layer. Therefore, it is intended to design a distributed admission control mechanism capable of guaranteeing end to end quality of service provision with an appropriate adaptation to the dynamism of mobile ad hoc networks.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4524</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4524/files/TESIS-2010-019.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>Redes Móviles Ad Hoc</dc:subject>
+    <dc:subject>Calidad de Servicio</dc:subject>
+    <dc:subject>Encaminamiento</dc:subject>
+    <dc:subject>Control de Acceso al Medio</dc:subject>
+    <dc:subject>Control de Admisión Distribuido</dc:subject>
+    <dc:subject>Cross-layer</dc:subject>
+    <dc:subject>Mobile Ad Hoc Networks</dc:subject>
+    <dc:subject>Quality of Service</dc:subject>
+    <dc:subject>Routing</dc:subject>
+    <dc:subject>Medium Access Control</dc:subject>
+    <dc:subject>Distributed Admission Control</dc:subject>
+    <dc:subject>Cross-layer</dc:subject>
+    <dc:title>Provisión de Calidad de Servicio en Redes Móviles Ad Hoc Basada en el Diseño Cross-layer de Algoritmos de Encaminamiento</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

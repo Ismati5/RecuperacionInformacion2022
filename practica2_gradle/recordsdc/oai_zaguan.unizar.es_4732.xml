@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Muñoz Rodríguez, Mariano</dc:contributor>
+    <dc:creator>Trujillo Arribas, María C.</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>El objetivo fundamental del proyecto es analizar en profundidad cómo se puede utilizar el análisis de vibraciones en auxiliares de motores alternativos de combustión interna como herramienta de diagnóstico de los mismos. Para poder realizar el correcto diagnóstico de una máquina es necesario conocer todos los problemas que pueden ocurrir. Para poder identificar un fallo en función, en este caso, de las vibraciones generadas es imprescindible conocer qué defectos son propios de cada máquina. Por ello, en este proyecto se presentan y explican las anomalías que pueden tener lugar en los distintos elementos y sistemas auxiliares del motor y posteriormente se muestran y analizan las vibraciones correspondientes a cada uno de los fallos. De este modo, al visualizar una señal vibratoria atípica captada en un componente determinado se dispone de una lista limitada de causas posibles de dicha vibración y basta identificar la señal captada con el problema que la genera. Los problemas que ocurren en auxiliares de MACI son muchos y muy variados dependiendo de la configuración y tipo de máquina que se analice, por lo que es necesario tener presente a la hora de realizar el estudio y posterior diagnóstico el tipo de máquina que se está analizando, incluyendo su modo de funcionamiento, partes que la componen y uniones entre dichas partes. Aparte de estudiar detalladamente los fallos en auxiliares de motores y las vibraciones que éstos generan, el proyecto tiene la finalidad añadida de servir de guía rápida para el diagnóstico de dichos problemas. Es por ello que se han incluido numerosas tablas resumen, las cuales pueden ser empleadas para identificar de forma sencilla la causa de una determinada vibración captada en los auxiliares sometidos a estudio.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4732</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4732/files/TAZ-PFC-2010-082.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/4732/files/TAZ-PFC-2010-082_ANE.PDF</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>vibraciones</dc:subject>
+    <dc:subject>análisis frecuencial</dc:subject>
+    <dc:subject>espectro vibrator</dc:subject>
+    <dc:subject>fallos en máquinas</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Análisis de vibraciones en auxiliares de MACI (Motores alternativos de combustión interna)</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

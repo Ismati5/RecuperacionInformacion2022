@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ferreruela Garcés, Sandra</dc:contributor>
+    <dc:creator>Mallor Urmeneta, Tania</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>El objetivo de este trabajo es analizar si la profunda crisis ocurrida en el año 2008 ha afectado a la relación entre la propensión imitadora (denominada comúnmente con el término anglosajón herding) y la volatilidad en los mercados de España y Portugal. Para ello hemos utilizado los precios de cierre diarios de todos los activos que cotizan en ambos mercados de capitales desde el 31 de diciembre de 1999 hasta el 7 de febrero de 2019, con el objetivo de tener un periodo lo suficientemente amplio anterior y posterior a la crisis, así como los precios de apertura, cierre, máximo y mínimo de los índices selectivos de ambos mercados para el mismo periodo. La intensidad de herding la hemos medido a través de las medidas propuestas por Christie y Huang (1995) y por Chang et al. (2000).  Se han utilizado medidas de volatilidad históricas, concretamente las propuestas por Parkinson (1980) y Garman y Klass (1980). Los resultados obtenidos confirman la existencia de una influencia de la volatilidad sobre el herding en ambos mercados aunque en sentido contrario (en el mercado español ocurre que a mayor volatilidad, mayor presencia de imitación entre los inversores, mientras que para Portugal ocurre cuando el mercado presenta valores normales de volatilidad), aunque en Portugal únicamente se observa dicha relación en momentos bajistas del mercado. Además, el herding aparece con mayor intensidad en periodos previos a la crisis, disminuyendo durante la crisis financiera y volviendo a aparecer, aunque con menor fuerza, en momentos posteriores. Adicionalmente se ha estudiado la posible interdependencia entre los mercados, concluyendo que incrementos en la rentabilidad cuadrática en el mercado español llevarían a un mayor nivel de herding en Portugal, mientras que no existe influencia portuguesa sobre el comportamiento imitador español.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/86577</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/86577/files/TAZ-TFM-2019-1175.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Contabilidad y Finanzas</dc:subject>
+    <dc:title>¿Influye la volatilidad sobre el comportamiento de los inversores en los mercados de España y Portugal?</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Does the volatility influence the behavior of investors in the markets of Spain and Portugal?</dc:title>
+</oai_dc:dc>

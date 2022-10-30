@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bernal Agustín, José Luis</dc:contributor>
+    <dc:creator>Mendiara Pueyo, Pascual</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>La introducción de Generación Distribuida (GD) en sistemas de distribución conlleva una valoración del impacto sobre la red y su comportamiento, como requisito previo ante una evaluación a nivel cualitativo y cuantitativo de las posibles mejoras que proporcionan las nuevas condiciones de suministro. Los factores económicos, de seguridad y calidad del flujo eléctrico son las variables clave al plantearse este tipo de cambios y que han sido materia de estudio desde que empezaron a considerarse los sistemas de GD como alternativa en el mercado a los sistemas aislados. Siguiendo con esta línea, este proyecto pretende profundizar en el análisis de la robustez de la red y fiabilidad de suministro al contemplar la introducción de un sistema de GD. Mediante herramientas de simulación, se hará un estudio detallado del comportamiento de la GD en redes de distribución atendiendo a las dos principales inquietudes que deben tratarse en una descentralización eléctrica: -	Condiciones de suministro: los efectos positivos o negativos de las modificaciones realizadas son evaluables en términos energéticos. Para ello se calcularán parámetros tales como las pérdidas en la red, flujos de potencia o variaciones de tensión en cada situación planteada. -	Comportamiento de la red: la fiabilidad del propio sistema es el otro punto de vista sobre el que se ha de incidir para discutir la validez de un modelo con GD. Bajo este enfoque, las simulaciones se centrarán en someter a los sistemas de estudio a diferentes contingencias que permitan desarrollar un análisis de la estabilidad transitoria de la red bajo estas condiciones de fallo provocado. Este trabajo de simulación tiene como punto de partida el estudio sobre una microrred, donde la regulación de sus componentes resulta más controlable dada su escasa complejidad, para pasar al segundo caso práctico: un sistema de distribución primario de 37 nudos. Parte del interés de este proyecto es confirmar si los resultados del análisis en una red pequeña son extrapolables a un caso de mayor tamaño y real, de allí que se haya elegido como objeto de estudio una red de la empresa IBERDROLA. La simulación del funcionamiento de ambos sistemas de distribución se hará contemplando diferentes escenarios, que obedecen a la variabilidad de las fuentes de energía tomadas para la GD (cogeneración, eólica y fotovoltaica) y a las diferentes opciones a considerar en cuanto a las situaciones que pueden darse tanto en los sistemas de distribución como en la red principal. El proyecto también pretende aportar una valoración de los resultados que ofrezcan conclusiones válidas a la hora de abordar esta materia en otros contextos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10252</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10252/files/TAZ-PFC-2013-140.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/10252/files/TAZ-PFC-2013-140_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>generación distribuida</dc:subject>
+    <dc:subject>energía fotovoltaica</dc:subject>
+    <dc:subject>simulación de redes</dc:subject>
+    <dc:subject>estabilidad transitoria</dc:subject>
+    <dc:subject>análisis de contingencias</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Estudio de la influencia de la generación distribuida en la red eléctrica</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Amo Sancho, Alejandro del</dc:contributor>
+    <dc:contributor>Marín Herrero, José María</dc:contributor>
+    <dc:creator>Bosch Navio, Manel David</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El progresivo auge de las energías renovables y el impulso gubernamental para su aplicación en el entorno de la construcción y la urbanización se manifiesta en la regulación de la instalación de captadores solares por medio del código técnico de la edificación. Sin embargo, dicha regulación no tiene en cuenta la posibilidad de saturación de la instalación captadora y tampoco se define completamente la resolución de esta situación mediante el sistema de disipación. Teniendo en cuenta estos aspectos, el punto de partida de este proyecto es la necesidad de idear una torre de refrigeración para el sistema de disipación de la vivienda sostenible que representó a la Universidad de Zaragoza (Unizar Casa Pi) en el certamen mundial “Solar Decathlon Europe 2012”. Dicha vivienda disponía de un sistema de trigeneración cuyo núcleo era una máquina de adsorción y cuyas exigencias técnicas establecían un rango de temperaturas del sistema de disipación. Con todo ello, el objetivo principal de este proyecto es el diseño justificado de un disipador de calor sumergido que cubra las exigencias de disipación mencionadas y garantice el correcto funcionamiento de la máquina de adsorción. Se valoran además como objetivos secundarios del proyecto la integración arquitectónica del dispositivo y el uso de la energía residual para refrigerar el aire cercano al disipador. Para el desarrollo del diseño y la comprobación de las diferentes posibilidades de mejora, ha sido fundamental la utilización de una serie de herramientas: Mediante el programa Trnsys se consigue evaluar la situación inicial del problema y la posible resolución de dicho problema desde el punto de vista energético. Con la utilización de las técnicas CFD se contrastan los resultados anteriores, se proponen las mejoras oportunas y se valida el diseño propuesto. De esta manera se consigue un disipador de calor alternativo a las torres de refrigeración convencionales y se añade a su principal función la posibilidad de refrigerar un espacio abierto, mejorando así el confort humano con respecto a la temperatura ambiente en el área de influencia de dicho disipador.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/14319</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/14319/files/TAZ-PFC-2014-234.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/14319/files/TAZ-PFC-2014-234_ANE.PDF</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>trnsys, cfd, computacional, disipación de calor, torre de refrigeración</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Diseño y modelado de un sistema de disipación de calor mediante Trnsys y técnicas CFD</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

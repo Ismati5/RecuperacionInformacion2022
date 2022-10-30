@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Fueyo Díaz, Norberto</dc:contributor>
+    <dc:creator>Izquierdo Estallo, Salvador</dc:creator>
+    <dc:date>2008</dc:date>
+    <dc:description>La ecuación de lattice Boltzmann (LB) es un método de Fluidodinámica Computacional (CFD) basado en la teoría cinética de gases que aproxima la solución de las ecuaciones de Navier-Stokes incompresibles en el límite de números de Mach y de Knudsen bajos. El creciente interés por este método proviene de las mejoras que introduce respecto a las técnicas clásicas de CFD, debido a su alto rendimiento computacional y a la posibilidad de incorporar modelos físicos a un nivel más fundamental debido a su origen cinético. El trabajo de esta Tesis se centra en el desarrollo de nuevas aproximaciones a dos aspectos numéricos: (i) condiciones de contorno, incluyendo la modificación de condiciones de contorno existentes para el tratamiento de la interacción entre contornos y ondas de presión, y la extensión necesaria para incluir condiciones de contorno relacionadas con gradientes de variables macroscópicas; y (ii) precondicionamiento, derivando métodos de lattice Boltzmann equivalentes a precondicionadores temporales de las ecuaciones de Navier-Stokes, y analizando las mejoras obtenidas. Se espera que estas propuestas ayuden a la generalización del uso de los métodos de lattice Boltzmann como una técnica estándar de CFD.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/1884</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/1884/files/TUZ_0009_IES_01.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>estabilidad</dc:subject>
+    <dc:subject>precondicionamiento</dc:subject>
+    <dc:subject>CFD</dc:subject>
+    <dc:subject>condiciones de contorno</dc:subject>
+    <dc:subject>lattice Boltzmann</dc:subject>
+    <dc:subject>microfluidos</dc:subject>
+    <dc:subject>deslizamiento</dc:subject>
+    <dc:title>Computational Gas Dynamics with the Lattice Boltzmann Method: Preconditioning and Boundary Conditions</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

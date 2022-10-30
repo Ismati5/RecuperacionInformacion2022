@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Marín Zurdo, José Javier</dc:contributor>
+    <dc:creator>Dendarieta Serrano, Juan</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El trabajo realizado en este proyecto es el análisis y la evaluación ergonómica del puesto de trabajo del maquinista de un tren de alta velocidad. Esto incluye el estudio del pupitre de control del tren, así como de la butaca correspondiente, y  del conjunto de tareas que realiza el conductor durante el trayecto de un viaje.  Para ello se realizó una reconstrucción 3D de la cabina mediante uso de un software de fotogrametría y una simulación de las posturas más frecuentes que el conductor adopta durante el transcurso de su trabajo. En un entorno 3D y aplicando un software específico, realizamos un análisis postural por medio del método evaluación ergonómica REBA (Rapid Entire Body Assesment) y un análisis Biomecánico, con el fin de determinar la carga postura asociada a la actividad que realiza el maquinista.  Asimismo, se ha llevado a cabo un análisis del campo visual del conductor  mediante el uso de un sistema de seguimiento ocular (Eye-tracking) y un software de simulación, con un modelo en 3D, con el propósito de estudiar posibles mejoras en este campo, tan importante para la eficacia del trabajo del maquinista. Todos estos estudios se han realizado para dos modelos biomecánicos de percentiles extremos, percentil 5 y 95 correspondiente a la población europea (norma EN 547-3-1996) para observar y comparar el comportamiento que tendrían diferentes sujetos en el mismo puesto de trabajo. Durante el trabajo de campo, también se hizo uso de una manta de presiones que se colocó sobre la butaca del conductor con el fin de estudiar la distribución de presiones sobre la misma en determinadas posiciones de uso, para observar si hubiese algún punto de presión que superase los valores máximos recomendados y analizar si el diseño de la butaca en este aspecto es adecuado o no para el uso de la misma.  Para completar el estudio, se realizó una encuesta de usabilidad y comodidad al maquinista que participó en las capturas en campo, que proporcionó información útil sobre su puesto de trabajo, de cara a proponer posibles mejoras de usabilidad del diseño actual del pupitre de conducción. A la vista de los resultados de los estudios realizados, el proyecto concluye con un conjunto de recomendaciones de mejoras ergonómicas del puesto de trabajo de conducción del tren de alta velocidad analizado.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5622</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Proyectos de Ingeniería</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5622/files/TAZ-PFC-2011-074.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5622/files/TAZ-PFC-2011-074_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>ergonomía</dc:subject>
+    <dc:subject>pupitre de conducción </dc:subject>
+    <dc:subject>tren alta velocidad</dc:subject>
+    <dc:subject>cabeza motriz</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Análisis y evaluación ergonómica de la cabina de conducción de un tren de alta velocidad</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

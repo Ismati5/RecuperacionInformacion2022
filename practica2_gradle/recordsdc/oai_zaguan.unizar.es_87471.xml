@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bernués, Julio</dc:contributor>
+    <dc:contributor>Ciria, José C.</dc:contributor>
+    <dc:creator>Gracia Aguilar, Violeta María</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>En este trabajo vamos a estudiar la distribución de los números primos. En primer lugar, vamos a centrarnos en los métodos que proporcionan la cantidad exacta de primos menores x, denotado como pi(x), desde los griegos hasta el comienzo del siglo XX. La búsqueda de éstos métodos comienza con Eratóstenes, (276 A.C.-197 A.C.), es desarrollada por Legendre en 1830, simplificada por Meissel en 1870 y mejorada por Lehmer en 1959. Además, implementamos un algoritmo para cada método con el que obtenemos la cantidad exacta de primos menores que x. &lt;br /&gt;Al mismo tiempo, históricamente, el comportamiento asintótico de pi(x) ha sido de gran interés. En particular vamos a estudiar el conocido resultado de Chebyshev, a partir de sus funciones y métodos, así como el postulado de Bertrand. &lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87471</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Matemáticas; Área de Análisis Matemático</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87471/files/TAZ-TFG-2019-2488.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/87471/files/TAZ-TFG-2019-2488_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Matemáticas</dc:subject>
+    <dc:title>El número exacto de primos menores que x</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">The exact number of primes less than x</dc:title>
+</oai_dc:dc>

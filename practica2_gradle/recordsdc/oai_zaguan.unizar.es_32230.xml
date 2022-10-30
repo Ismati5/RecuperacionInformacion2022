@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Cortés Azcoiti, José Luis</dc:contributor>
+    <dc:contributor>Carmona Martínez, José Manuel</dc:contributor>
+    <dc:creator>Relancio Martínez, José Javier</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>Uno de los grandes retos de la física actual es la unificación de la Relatividad General (GR) y de la Teoría Cuántica de Campos (QFT), o, equivalentemente, la formulación de una teoría cuántica de la gravedad. Ambas teorías, bien comprobadas experimentalmente el siglo pasado, presentan incompatibilidades fundamentales que tienen su origen en el papel que el espacio-tiempo presenta en ellas (es una variable dinámica en GR, y un marco estático en QFT). Ha habido numerosos intentos de formular una teoría de gravedad cuántica, como teoría de cuerdas, gravedad cuántica de lazos, teoría de conjuntos causales, etc. En algunos de estos contextos el espacio-tiempo adquiere una estructura fundamental, característica, y bien distinta a la noción de espacio-tiempo continuo de Relatividad Espacial (SR). Sin embargo, ni la dinámica de estas teorías se comprende en su totalidad, ni son fácilmente contrastables con observaciones experimentales. A principios de siglo comenzó a desarrollarse una nueva teoría que aún está germinando, la Relatividad Doblemente Especial (DSR). El punto de partida de esta teoría es muy diferente a los anteriores: se plantea, no como una teoría fundamental, sino como un límite de bajas energías que trata de capturar elementos residuales de una teoría de gravedad cuántica. En particular, en DSR se generaliza el principio de relatividad einsteniano añadiendo a la velocidad de la luz un nuevo invariante relativista, la longitud de Planck.  Esta idea sí puede tener implicaciones observables experimentalmente, dando lugar a lo que se conoce como fenomenología de gravedad cuántica. Por otro lado, DSR implica la existencia de relaciones de composición de energía y momento no triviales, lo que a su vez se traduce en un espacio-tiempo con ingredientes de no localidad, un elemento que también aparece en otros desarrollos de gravedad cuántica.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/32230</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Teórica; Área de Física Teórica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/32230/files/TAZ-TFM-2015-776.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Física y Tecnologías Físicas</dc:subject>
+    <dc:title>Más allá de la noción de espacio-tiempo en Relatividad Especial</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

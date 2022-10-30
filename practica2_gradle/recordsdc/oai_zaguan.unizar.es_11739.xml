@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Peña Baquedano, Estefanía</dc:contributor>
+    <dc:contributor>Martínez Barca, Miguel Ángel</dc:contributor>
+    <dc:creator>Sáez Viñas, Pablo</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>The present work deals with the development of a theoretical and computational framework of the mechano-biology happening in the arterial tissue during hypertension disease. Biological tissue adapts actively to different mechanical and chemical stimuli where the underlying mechanical properties of the tissue play an important role. The mechanical stimuli that trigger these changes is the increase of blood pressure experienced in hypertensive patients. There are also changes in the blood flow. This work is divided in four aspects of the adaptation of different components of the tissue to hypertension. Firsts, we focus on the mechanical properties of the arterial tissue and we particularly look at the behavior of a real human carotid artery. We obtain a finite element model of the carotid artery to apply all the models developed during this work. Two of them are related with the growth and remodeling of the collagen and smooth muscle cells within the arterial wall. Its thermodynamic description fall into the description of open systems where mass is allowed to gain or loss via changes of volume, density of both. The characteristic thickening of the arterial wall is describe by means of a volumetric growth model. The stiffening of the arterial tissue, which is due to the increase of the collagen content, is formulated within a density growth model. Both of these approaches are described theoretically and are later included computationally in a finite element framework. The last part of this dissertation aims at deriving a model of endothelial cell orientation and morphological adaptation to the blood flow. </dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/11739</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/11739/files/TESIS-2013-074.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>mechanical engineering</dc:subject>
+    <dc:subject>bioengineering</dc:subject>
+    <dc:subject>mecánica de medios continuos</dc:subject>
+    <dc:subject>biomecánica</dc:subject>
+    <dc:title>Theoretical and computational study of the mechano-biology in hypertension disease</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

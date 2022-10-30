@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sebastián Cabeza, Víctor</dc:contributor>
+    <dc:contributor>Arruebo Gordo, Manuel</dc:contributor>
+    <dc:creator>Pueyo Borbón, Leyre</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>La encapsulación celular permite crear vectores terapéuticos para tratar diferentes patologías, como la diabetes, el Alzheimer o múltiples tipos de cáncer mediante la liberación controlada de materiales terapéuticos. Estos vectores se basan en unas microcápsulas que permiten almacenar células, favorecer el intercambio de nutrientes y evitar ser reconocidas y eliminadas por el sistema inmune.  El uso de hidrogeles en aplicaciones biomédicas ha supuesto un avance ya que estos polímeros otorgan muy buenas propiedades en cuanto a biocompatibilidad y son capaces de absorber, retener y liberar materiales de forma muy controlada. Uno de los materiales más usados es el alginato de sodio, el cual, al entrar en contacto con un catión divalente, como el calcio, produce un fenómeno físico llamado reticulación encapsulando moléculas/células de interés en su interior. Por otro lado, la tecnología de microfluídos permite la formación de microcápsulas con un mayor control del tamaño y morfología y de manera rápida y simple comparada con la síntesis tradicional. El uso de sistemas de flujo en continuo para la encapsulación celular mediante tecnología microfluídica favorece que la carga a encapsular sea más controlada, obtener mayor reproducibilidad en los ensayos y la utilización de pequeñas cantidades de materiales, así como de un menor número de etapas de purificación. La investigación llevada a cabo en este trabajo se basa en tres fases: realizar una síntesis controlada mediante tecnología de microfluídos en continuo con los parámetros óptimos considerados, realizar un estudio de permeabilidad de las microcápsulas para analizar qué tamaños de metabolitos se pueden encapsular en su interior y llevar a cabo un experimento de citotoxicidad inicial para una posterior encapsulación celular.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87177</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Ingeniería Química</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87177/files/TAZ-TFM-2019-1387.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Biomédica</dc:subject>
+    <dc:title>Microencapsulación de células mediante tecnología de microfluídos para su aplicación en biomedicina</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Cells microencapsulation using microfluidic technology for application in biomedicine</dc:title>
+</oai_dc:dc>

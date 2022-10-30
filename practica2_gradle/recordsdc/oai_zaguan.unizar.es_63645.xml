@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gallego Lleyda, Ana</dc:contributor>
+    <dc:contributor>Martínez Lostao, Luis</dc:contributor>
+    <dc:creator>Soler Agesta, Ruth-Mafalda</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El cáncer es una de las patologías más comunes y con mayor tasa de mortalidad, entre las cuales encontramos el mieloma múltiple (MM), un tipo de cáncer hematológico que representa el 10% de neoplasias sanguíneas y afecta principalmente a mujeres de raza negra con una edad media de diagnosis de entre 65 y 70 años. Durante años, los tratamientos clásicos utilizados para tratar esta patología han sido los agentes alquilantes, que inhiben la replicación del ADN, los glucocorticoides, que aumentan la expresión de genes proapoptóticos como Bim , o el trasplante de células autólogas. Actualmente, los fármacos inhibidores del proteasoma son el tratamiento estándar para tratar el MM, entre los cuales se encuentra carfilzomib. Este fármaco de segunda generación parece tener un efecto positivo en la regresión de las células mielomatosas gracias a un mecanismo de acción bloqueando el proteasoma. En estudios realizados con carfilzomib se ha constatado que además de activar la muerte celular a través de vía intrínseca, esta droga podría tener un efecto sensibilizante a la terapia con ligandos mortales, en concreto con Apo2L/TRAIL. Este ligando mortal, utilizado previamente en ensayos para el tratamiento de otros cánceres, es capaz de activar la vía extrínseca de la apoptosis en células que expresan sus receptores mortales DR4 y DR5. En la última década, la inmunoterapia basada en el uso de ligandos mortales ha evolucionado hasta el punto de desarrollar diferentes formulaciones de ligando mortal TRAIL (bajo una forma soluble recombinante, asociado a liposomas, etc.) con el objetivo de potenciar su citotoxicidad en una gran variedad de células cancerosas. En este trabajo se plantea el estudio del mecanismo de inducción de apoptosis de una terapia que combina carfilzomib con diferentes formulaciones de TRAIL en líneas celulares tumorales humanas de MM.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/63645</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Biología Celular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/63645/files/TAZ-TFM-2017-938.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster en Biología Molecular y Celular</dc:subject>
+    <dc:title>Combinación de los inhibidores del proteasoma y TRAIL como tratamiento antitumoral del Mieloma Múltiple</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Combined proteasome inhibitors and TRAIL as anti-tumor treatement of Multiple Myeloma</dc:title>
+</oai_dc:dc>

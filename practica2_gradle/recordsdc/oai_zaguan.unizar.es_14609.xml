@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sánchez Peña, Nazly Efredis</dc:contributor>
+    <dc:contributor>Millera Peralta, Ángela</dc:contributor>
+    <dc:creator>Salvo Barco, Pablo</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Con vistas a minimizar el uso de combustibles fósiles, así como disminuir las emisiones de contaminantes que estos generan, hoy en día se plantea como una opción muy interesante el uso de energías alternativas en automoción. Entre estas alternativas, los biocombustibles se consideran como la alternativa más acorde con el medio ambiente. En los últimos años, se han desarrollado diferentes estudios acerca del uso de compuestos oxigenados como combustibles o como aditivos para los combustibles convencionales. Estos compuestos oxigenados muestran un buen potencial para minimizar las emisiones de hidrocarburos inquemados y la formación de hollín. El objetivo del presente proyecto es realizar un estudio experimental a presión atmosférica para evaluar la posible formación de hollín a partir de la pirólisis de diferentes aditivos oxigenados. Para ello, se ha utilizado una instalación experimental disponible en el Grupo de Procesos Termoquímicos. Esta instalación consta de un sistema de alimentación de gases, un sistema de reacción, que incluye un reactor de cuarzo calentado por un horno eléctrico que permite alcanzar temperaturas de hasta 1200ºC, y un sistema de recogida del hollín formado. Se ha analizado la influencia de la temperatura y de la concentración del compuesto oxigenado en los experimentos de pirólisis de los compuestos oxigenados elegidos (2,5-dimetilfurano y dimetoximetano) sobre la formación de hollín, además de comparar los resultados obtenidos con ambos compuestos. Adicionalmente, también se ha estudiado la reactividad de los hollines formados con diferentes gases (O2 y NO) y se han realizado algunas pruebas de caracterización del hollín con vistas a analizar su composición, estructura y morfología. El intervalo de las condiciones de trabajo comprende desde el límite de temperatura en el que se empieza a formar hollín (en nuestros experimentos a 950ºC para el 2,5-DMF y 1000ºC para el DMM) hasta los 1200ºC que es el límite que permite la instalación experimental utilizada. En cuanto a la concentración de compuesto oxigenado, se ha trabajado con dos concentraciones distintas para el 2,5-DMF (7500 y 15000 ppm) y con tres concentraciones para el DMM (15000, 30000 y 50000 ppm). En los experimentos de pirólisis se ha podido observar como un aumento de la temperatura y de la concentración de compuesto oxigenado favorecen la formación de hollín. Además, si se comparan los resultados con los dos compuestos oxigenados estudiados, el 2,5-DMF tiende a formar, en las mismas condiciones de operación, más hollín que el DMM.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/14609</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Ingeniería Química</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/14609/files/TAZ-PFC-2014-289_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/14609/files/TAZ-PFC-2014-289.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>compuestos oxigenados</dc:subject>
+    <dc:subject>pirólisis</dc:subject>
+    <dc:subject>hollín</dc:subject>
+    <dc:subject>dimetoximetano</dc:subject>
+    <dc:subject>2,5-dimetilfurano</dc:subject>
+    <dc:subject>Ingeniero Químico</dc:subject>
+    <dc:title>Formación de hollín en la pirólisis de diferentes biocombustibles oxigenados</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Cortés Franco, Fernando</dc:contributor>
+    <dc:contributor>Velilla Marco, Santiago Miguel</dc:contributor>
+    <dc:creator>Navarro Claras, Mario</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>En el ámbito de la gestión de los recursos humanos en las organizaciones existen múltiples procesos que requieren de firmar documentación. Mayoritariamente, hasta el momento, esta documentación se ha firmado en papel, con las dificultades y costes que ello conlleva a nivel de impresión, logística y custodia. Durante cierto tiempo, se ha intentado sin éxito que el uso de los certificados digitales formen parte del día a día en el contexto personal. Ante esta problemática, surge este proyecto que pretende abordar de manera global a través de una herramienta software la firma digital y gestión documental en los procesos de recursos humanos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/69846</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/69846/files/TAZ-TFG-2018-047_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/69846/files/TAZ-TFG-2018-047.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>Sistema en movilidad para la firma digital y gestión documental de contratos en un entorno de negocio laboral</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Mobility system for the digital signature and document management of contracts in a labor business environment</dc:title>
+</oai_dc:dc>

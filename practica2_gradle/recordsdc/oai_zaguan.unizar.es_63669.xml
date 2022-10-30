@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Aznar, José Manuel</dc:contributor>
+    <dc:creator>Pérez Rodríguez, Sandra</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>La regeneración cardiaca es crucial para la recuperación de la actividad del corazón tras una patología. En este proyecto se van a estudiar mediante microfluídica, dos procesos involucrados que destacan por su gran importancia: la migración de fibroblastos cardiacos a la zona dañada y la formación de nuevos vasos nacientespara revascularizar el tejido. Se han demostrado numerosas diferencias entre los fibroblastos dermales y  cardiacos, como la fuerza contráctil o la respuesta a factores de crecimiento. Los fibroblastos tienden a migrar en respuesta a factores de crecimiento, sin embargo, los fibroblastos cardiacos no se ven atraídos por el PDGF, como sí lo hacen los dermales, sino que sólo aumentan su velocidad media y efectivafrente a TGF-β. Además, ambos factores parecen mostrar una tendencia a disminuir la proliferación de estostiposcelulares. Por otro lado, se ha tratado de optimizar distintos protocolos para el estudio laangiogénesis, modificando distintos parámetros.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/63669</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Bioquímica y Biología Molecular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/63669/files/TAZ-TFM-2017-845.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/63669/files/TAZ-TFM-2017-845_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster en Biología Molecular y Celular</dc:subject>
+    <dc:title>Estudio en microfluídica de procesos involucrados en la regeneración cardiaca: fibroblastos y angiogénesis</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Microfluidic-based study of processes involved in cardiac regeneration: fibroblasts and angiogenesis</dc:title>
+</oai_dc:dc>

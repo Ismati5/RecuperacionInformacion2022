@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Novo Guerreo, Antonio</dc:contributor>
+    <dc:contributor>Miguel Artiga, Antonio</dc:contributor>
+    <dc:creator>Gómez Lizaga, Priscila</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Se exploran las diferentes opciones que hay disponibles para establecer conexión con cuatro controladores de soldadura. Se analiza su viabilidad y se intentan solventar los problemas que hay que hacer frente al trabajar en un entorno empresarial real. Tras conocer el camino correcto, se plantea una arquitectura que define los elementos necesario para establecer una correcta conexión. Se estudian los datos almacenados en bases de datos y se intenta realizar una primera aproximación aplicando algoritmos de aprendizaje supervisado, teniendo siempre en cuenta que el objetivo a futuro es realizar un mantenimiento predictivo. &lt;br /&gt;El trabajo de final de grado se engloba dentro del proyecto conocido como Welding Wizard de Opel-Vauxhall.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/85248</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/85248/files/TAZ-TFG-2019-2714_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/85248/files/TAZ-TFG-2019-2714.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías y Servicios de Telecomunicación</dc:subject>
+    <dc:title>Análisis e implementación de una arquitectura IoT sobre controladoras de soldadura</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Analysis and implementation of an IoT architecture on welding controllers</dc:title>
+</oai_dc:dc>

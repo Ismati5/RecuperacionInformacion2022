@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Lacasta Miguel, Javier</dc:contributor>
+    <dc:creator>Blázquez Hernández, Jorge</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Un Sistema de gestión de contenidos (Content Management System, CMS) permite la creación y administración de contenidos principalmente en páginas web. Consiste en una interfaz que controla una o varias bases de datos donde se aloja el contenido del sitio. Actualmente, es una herramienta muy usada dentro de entornos reales de trabajo, facilitando la creación de portales web y el acceso a los servicios que ofrece.&lt;br /&gt; &lt;br /&gt;En el presente trabajo se ha estudiado la viabilidad de incorporar un modelo semántico para la descripción del contenido con el objetivo de mejorar el sistema de búsqueda del CMS, es decir, hacer uso de la web semántica. Dotar de contenido semántico a los datos permite organizar mejor la información, permitiendo poder realizar búsquedas por significado y no solo por contenido textual, además de facilitar la interoperabilidad con otros sistemas web.&lt;br /&gt;Se ha estudiado cual sería la mejor opción para poder almacenar datos estructurados, ya sea mediante un servicio externo con almacenamiento que permita desplegar también el portal llamado Virtuoso o con un almacén externo, separado de la base de datos del portal usando la librería de Java Jena. Para acabar desarrollando una aplicación real con sentido semántico usando datos reales del gobierno de España.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/85052</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/85052/files/TAZ-TFG-2019-3368.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>Diseño e implementación de un sistema de gestión de contenido semántico sobre Liferay</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Design and implementation of a semantic content management system on Liferay</dc:title>
+</oai_dc:dc>

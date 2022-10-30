@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Castany Valeri, Javier</dc:contributor>
+    <dc:creator>Dalmau Boronat, Daniel</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Se parte de un molde de inyección de plásticos existente físicamente en el cual se dotan a los expulsores con un sistema de monitorización económico y eficaz que permitirá conocer los esfuerzos existentes en los expulsores durante todo el ciclo de trabajo. El desarrollo del proyecto se basa en: - Conocimiento del molde, así como de sus partes integrantes. - Conocimiento de su funcionamiento, su montaje y desmontaje. - Estudio de fuerzas que aparecen en el equilibrio de los expulsores inclinados. - Estudio del sistema de expulsión - Montaje y puesta a punto del molde para pruebas experimentales (0º) - Establecer batería de pruebas. - Procedimiento seguido para la colocación de galgas extensiométricas. - Calibración de las galgas extensiométricas. - Puesta a punto de los equipos de medida. - Calibración de los equipos de medida. - Realización de las pruebas de inyección. - Adquisición y tratamiento de datos registrados.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/13534</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería Mecánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/13534/files/TAZ-PFC-2014-133_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/13534/files/TAZ-PFC-2014-133.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>expulsores inclinados</dc:subject>
+    <dc:subject>esfuerzos en moldes</dc:subject>
+    <dc:subject>inyección de plástico</dc:subject>
+    <dc:subject>molde de inyección</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Análisis de los esfuerzos existentes en los expulsores de un molde de inyección de plásticos</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sagüés Blázquiz, Carlos</dc:contributor>
+    <dc:creator>Velázquez Millán, Roberto</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El control adaptativo es ampliamente utilizado en el mundo real como forma conseguir un funcionamiento óptimo en controles industriales. Este tipo de control toma mayor relevancia en casos donde el comportamiento dinámico del sistema a controlar cambia con el tiempo, de forma que el control debe adaptarse a ese cambio con el fin de mantener la especificación requerida. En la industria la mayoría de los accionamientos son eléctricos (motores, electroválvulas, calentadores, etc…) cualquiera que sea el sistema a controlar. En este trabajo se pretende explorar el uso de control adaptativo en aplicaciones en Ingeniería Eléctrica. Se ha enfocado en el control de una Central Hidroeléctrica debido a que se dispone en laboratorio de una maqueta de este sistema donde poner en práctica los controles desarrollados. Con la base de las asignaturas de Sistemas Automáticos e Ingeniería de Control, se estudia en distinta bibliografía los esquemas a utilizar para el control de la maqueta de Central Hidroeléctrica. Se tiene en cuenta que se va a utilizar control digital, es decir, el controlador es un dispositivo digital programable (en este caso un ordenador PC). -	Se obtiene un modelo dinámico de la maqueta de la Central Hidroeléctrica a controlar, este modelo es utilizado para el cálculo de los controles y para simulación. -	Se plantea un esquema de control en cascada, es sobre este esquema donde se aplica el control adaptativo. -	Se realiza el estudio y cálculo de diferentes controles adaptativos: Ziegler Nichols en bucle abierto, Método del Relé, Auto Sintonía mediante Algoritmo de Plackett y Predictor de Smith. -	Se realizan simulaciones de estos controles. Se posibilitan distintas opciones en simulación con el fin de poder comparar unos casos con otros y extraer conclusiones. -	Se aplican los controles desarrollados a la maqueta de la Central Hidroeléctrica. Al igual que en simulación, se dispone de opciones al aplicar el control con el fin de comparar unos casos con otros. -	Se obtienen conclusiones sobre los controles utilizados en la maqueta indicando ventajas e inconvenientes. Así mismo se argumenta sobre las posibilidades de implementación real de estos controles en instalaciones industriales reales. -	Se plantean posibles mejoras y formas de continuar el proyecto.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/15350</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/15350/files/TAZ-TFG-2014-1063.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>control digital</dc:subject>
+    <dc:subject>control adaptativo</dc:subject>
+    <dc:subject>algoritmo de plackett</dc:subject>
+    <dc:subject>predictor de smith</dc:subject>
+    <dc:subject>ziegler-nichols</dc:subject>
+    <dc:subject>método del relé</dc:subject>
+    <dc:subject>Graduado en Ingeniería Eléctrica</dc:subject>
+    <dc:title>Aplicaciones de control adaptativo en ingeniería eléctrica</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

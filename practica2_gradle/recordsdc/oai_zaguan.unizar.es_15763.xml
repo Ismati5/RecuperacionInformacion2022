@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Andersson, Magnus</dc:contributor>
+    <dc:contributor>Manchado Pérez, Eduardo</dc:contributor>
+    <dc:creator>Alonso Martínez, César</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El objetivo de este proyecto era el diseño y desarrollo de una carcasa exterior y una veleta para el aerogenerador de pequeña potencia Wind Flower, producido por la empresa sueca Windforce. Esta carcasa cubre el soporte principal del aerogenerador el cual sostiene el generador, el rotor y las aspas, y será la base en la que se ensamble el timón-veleta (tarea que realizará el usuario). Ambas piezas se diseñarán teniendo en cuenta su producción en fibra de vidrio, siguiendo instrucciones de la empresa. El proyecto incluye fases de investigación, metodologías de diseño industrial y análisis de diseño. También se abordan problemas como la diferenciación en el diseño y la facilidad de ensamblaje y fabricación. / The aim of this project was the design and development of an outer cover/housing and a wind vane for the small wind turbine Wind Flower, manufactured by the swedish company Windforce. This housing covers the main bracket of the wind turbine which supports the generator, the rotor and the blades, and it will be the base in which the vane will be assembled (task done by the user). Both pieces will be designed to be produced in fiberglass following instructions of the company. The project goes through research stages, industrial design methodologies and design analysis. It also addresses problems as the differentiation in design, the design for assembly and the design for manufacturability.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/15763</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Proyectos de Ingeniería</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/15763/files/TAZ-TFG-2014-1382.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>energia eólica</dc:subject>
+    <dc:subject>aerogenerador pequeña potencia</dc:subject>
+    <dc:subject>molino de viento</dc:subject>
+    <dc:subject>carcasa</dc:subject>
+    <dc:subject>veleta</dc:subject>
+    <dc:subject>timón</dc:subject>
+    <dc:subject>ingeniería</dc:subject>
+    <dc:subject>diseño industrial</dc:subject>
+    <dc:subject>desarrollo de producto</dc:subject>
+    <dc:subject>fibra de vidrio</dc:subject>
+    <dc:subject>micro-eólica</dc:subject>
+    <dc:subject>mini-eolica</dc:subject>
+    <dc:subject>españa</dc:subject>
+    <dc:subject>universidad de zaragoza</dc:subject>
+    <dc:subject>suecia</dc:subject>
+    <dc:subject>universidad de jonkoping</dc:subject>
+    <dc:subject>wind power</dc:subject>
+    <dc:subject>small wind turbine</dc:subject>
+    <dc:subject>windmill</dc:subject>
+    <dc:subject>windforce</dc:subject>
+    <dc:subject>housing</dc:subject>
+    <dc:subject>cover</dc:subject>
+    <dc:subject>vane</dc:subject>
+    <dc:subject>engineering</dc:subject>
+    <dc:subject>industrial design</dc:subject>
+    <dc:subject>product development</dc:subject>
+    <dc:subject>fiberglass</dc:subject>
+    <dc:subject>micro-wind</dc:subject>
+    <dc:subject>mini-wind</dc:subject>
+    <dc:subject>spain</dc:subject>
+    <dc:subject>university of zaragoza</dc:subject>
+    <dc:subject>sweden</dc:subject>
+    <dc:subject>jönköping university</dc:subject>
+    <dc:subject>Graduado en Ingeniería en Diseño Industrial y Desarrollo de Producto</dc:subject>
+    <dc:title>Diseño y desarrollo de la cobertura exterior de un aerogenerador de pequeña potencia para la empresa Windforce. Design and development of the outer housing of a small wind turbine for the company Windforce.</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

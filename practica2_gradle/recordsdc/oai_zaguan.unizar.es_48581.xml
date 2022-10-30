@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mayordomo Cámara, Elvira</dc:contributor>
+    <dc:creator>Ortiz Bascuas, Jose Antonio</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>Descripción de la situación actual y requisitos de partida para la creación de una herramienta de trazabilidad, en tiempo de ejecución, de aplicaciones software. En este punto, el lector debe conocer la utilidad, necesidad y usabilidad de este tipo de herramientas software. Principios forenses, de ámbito lo mas general posible para su aplicación en otros países. Introducir la necesidad de una herramienta que produzca trazas en sistemas de aplicaciones software que sean admisibles en un tribunal de justicia.  Estudio de la legalidad e interpretación de la ley orientada al tipo de herramientas en cuestión. Introducir el requisito “legalidad” en la discusión y que forme parte de las decisiones sobre la funcionalidad y el listado final de requisitos de usuario la “nueva” herramienta. Entendidas las necesidades y obligaciones de la entidad para con la legalidad de las trazas que generan sus sistemas de información, deben conocerse las alternativas existentes en el mercado, hasta donde llegan y si alguna de estas necesidades u obligaciones quedan desiertas. Una vez justificada la implementación de una nueva herramienta (log4legal), se usará el análisis realizado de las aplicaciones existentes para rellenar el hueco que han dejado y se aplicarán sus éxitos para realizar el diseño.   Enumeración de los requisitos técnicos para log4legal: funcionales, rendimiento, explotación, usabilidad, mantenimiento, arquitectura y seguridad. Análisis Técnico y Casos de Uso de log4legal. Criterios de Aceptación para la herramienta log4legal. Proyecto git para los desarrollos y ejemplos incluidos en este PFC: https://github.com/jaortizb/Log4Legal.git</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/48581</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/48581/files/TAZ-PFC-2016-008.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Política de seguridad para la trazabilidad de aplicaciones de sistemas de alto rendimiento</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

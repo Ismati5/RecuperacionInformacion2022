@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Alcalá Heredia, Vicente</dc:contributor>
+    <dc:creator>Magarín Martín, Carlos</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Este proyecto trata de mostrar al lector las decisiones tomadas a la hora de realizar medidas de parámetros físicos mediante elementos eléctricos y electrónicos en una moto de competición. Dicha información será procesada y estudiada para sacar unas conclusiones concretas y llevar a cabo unas medidas para mejorar el rendimiento de los elementos correspondientes. Dicho proyecto cuenta todo el proceso seguido por el equipo Alcañiz Unizar, del cual formo parte, a lo largo de la primera edición de la competición MotoStudent que culminó con unas jornadas de competición en Octubre de 2010.  La competición ha durado alrededor de 2 años y durante este proceso el equipo ha conseguido salir adelante para terminar proclamándose campeón de la competición MotoStudent. La estructura del proyecto se divide en capítulos independientes que mostrarán las diferentes etapas de la competición de forma cronológica, haciendo especial hincapié en las tareas de las cuales yo era responsable. El capitulo 6, pretende dar al lector una noción de lo que es un sensor, sus propiedades, su razón de ser, su funcionamiento etc. ya que mi tarea como ingeniero eléctrico en el equipo Alcañiz Unizar gira en torno a ellos y sus utilidades. El capitulo 7 da a conocer los criterios seguidos a la hora de elegir un sensor determinado de entre toda la variedad de sensores presentes en el mercado actual. El capitulo 8 habla de la instalación de todos los componentes electrónicos e informáticos necesarios.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6264</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6264/files/TAZ-PFC-2011-434_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6264/files/TAZ-PFC-2011-434.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>sensorización</dc:subject>
+    <dc:subject>motostudent</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electricidad)</dc:subject>
+    <dc:title>Estudio y sensorización de una moto de competición</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

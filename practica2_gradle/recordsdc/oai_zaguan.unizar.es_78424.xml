@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Peña Baquedano, Estefanía</dc:contributor>
+    <dc:contributor>Cilla Hernández, Myriam</dc:contributor>
+    <dc:creator>Hernández López, Patricia</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>Actualmente, las enfermedades cardiovasculares son la primera causa de mortalidad en los países desarrollados. Una gran parte de ellas es debida a consecuencias derivadas de la aterosclerosis, una enfermedad que causa el estrechamiento del espacio disponible para la circulación de la sangre a lo largo de las arterias debido al crecimiento de placas de ateroma en la pared de las mismas, pudiendo derivar en anginas de pecho, isquemias, infartos agudos de miocardio o incluso muerte súbita. Es por esto por lo que resulta muy importante encontrar formas de prevenir y tratar la aterosclerosis, así como comprender completamente el proceso de desarrollo de la misma. Una forma de hacerlo es realizando modelos matemáticos que permitan estudiar y prever en qué ocasiones se producirá placa de ateroma. Durante el presente proyecto, se ha llevado a cabo el desarrollo de un modelo de paciente real correspondiente a una arteria carótida, y se han validado los resultados obtenidos con el mismo. Adicionalmente, se han comprobado las hipótesis realizadas en el modelo 3D con un modelo 2D.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/78424</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/78424/files/TAZ-TFM-2018-1179.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/78424/files/TAZ-TFM-2018-1179_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Industrial</dc:subject>
+    <dc:title>Modelado mecanobiológico del crecimiento de la placa de ateroma en arteria carótida</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Mechanobiology growth model of atherome plaque for carotid artery</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Cilla Hernández, Myriam</dc:contributor>
+    <dc:contributor>Velasco Serrano, Gonzalo</dc:contributor>
+    <dc:creator>Torró Laguillo, Antonio</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Hoy en día, el ejército español está mejorando sus sistemas continuamente. Se consideró la necesidad de digitalizar la documentación. Hay mucha información en las unidades para guardar y hacerlo por papel sería una tarea muy farragosa, sobre todo a la hora de consultar la información. Se ha considerado que hacer una aplicación informática que digitalice toda la información sobre los pelotones, ayudará al jefe de sección a tener mayor control de la documentación del personal. A causa de la falta de conocimiento del código del programa, se esperaba que la aplicación no lograra resultados sobresalientes. Sin embargo, los resultados obtenidos han sido buenos porque el programa permite tener un control del personal que ha participado en las actividades registradas, así como ofrecer la opción de asignar una valoración para cada uno de ellos en cada actividad. La aplicación se ha llamado Sarrio debido a la conexión de este animal con la montaña. El programa tiene la capacidad de registrar diferentes usuarios (jefes de sección) que, una vez conectados, pueden crear diferentes registros de personal y actividad. Después de esto, los registros se almacenan en tablas de la base de datos a las que solo puede acceder el mismo usuario que las creó. Es decir, cada usuario tiene una serie de tablas que almacenan la información pertinente a sus subordinados y a las actividades realizadas por la sección. La mejora del programa es continua debido al hecho de que el código del programa se puede mejorar agregando funciones que hoy no se han alcanzado. En resumen, Sarrio ofrece la capacidad al jefe de sección de tener un control digitalizado de todas las actividades realizadas por la unidad como grupo e individualmente.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/90260</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/90260/files/TAZ-TFG-2017-4176.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Organización Industrial</dc:subject>
+    <dc:title>Creación de una aplicación informática para la preparación de las actividades de instrucción en montaña</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Implementation of a computer application for preparing the activities of mountain drill.</dc:title>
+</oai_dc:dc>

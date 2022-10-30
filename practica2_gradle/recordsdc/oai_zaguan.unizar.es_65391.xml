@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Aznar, José Manuel</dc:contributor>
+    <dc:contributor>Escribano Jiménez, Jorge</dc:contributor>
+    <dc:creator>Nieto Sandino, Alberto</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El proceso de extravasación celular es un momento clave de la cascada metastásica. En él, la célula cancerosa ubicada en el interior del vaso sanguíneo se adhiere a la monocapa celular de la pared de éste y la atraviesa, pudiendo así invadir órganos y completar la metástasis.  En este proceso, es clave cómo se rompen las adhesiones entre las células que conforman la monocapa originando así la abertura por la que la célula cancerosa es capaz de extravasar el vaso sanguíneo.  Dentro de este proceso, este Trabajo Fin de Grado se ha centrado en estudiar la dinámica de rotura que se produce en la monocapa endotelial por el efecto de una onda de Calcio. La regulación de esta monocapa es de vital importancia, no solo en la metástasis, sino también en enfermedades como el edema pulmonar o la aterosclerosis. Con el fin de conocer en mayor profundidad esta dinámica de rotura se creó un modelo comunicacional híbrido que simula las células endoteliales como elástico lineales y las adhesiones célula-célula de la monocapa mediante una subrutina de usuario compatible con Abaqus FEA para caracterizar el comportamiento de dichas uniones. Se estudiaron los efectos que la contracción causada por una onda de Calcio tenía en la monocapa endotelial en función de la cilindridad de ésta. Para ello, se crearon modelos bidimensionales de tensión plana, para geometrías en las que el diámetro del vaso sanguíneo era lo suficientemente grande, y modelos tridimensionales, para estudiar el efecto de los distintos valores de cilindridad. Finalmente, los resultados indicaron que se producía un mayor esfuerzo de tracción sobre las uniones que estaban situadas en vértices comunes a varias células. Esto conducía a la formación de agujeros en la monocapa endotelial, por los cuales se podría producir la extravasación de células tumorales. Para las distintas geometrías estudiadas, no se observó un efecto importante de la cilindridad sobre la rotura de las adhesiones de la monocapa.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/65391</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/65391/files/TAZ-TFG-2017-1747.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Simulación por elementos finitos de la ruptura de adhesiones celulares en vasos sanguíneos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Finite element simulation of the rupture of cellular adhesions in blood vessels</dc:title>
+</oai_dc:dc>

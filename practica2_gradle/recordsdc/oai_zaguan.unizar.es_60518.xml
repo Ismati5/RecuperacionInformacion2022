@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Castejón Herrer, Luis</dc:contributor>
+    <dc:contributor>Malón Litago, Hugo</dc:contributor>
+    <dc:creator>Dehesa Vicen, Joseba</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>En este proyecto se diseña, calcula y optimiza un chasis de semirremolque con cisterna criogénica.  Se parte de un modelo convencional de carga tipo chasis plataforma y se modifica su estructura adecuadamente para implementar una cisterna criogénica.  Posteriormente se aplica el método de los elementos finitos para calcular el vehículo frente a diferentes casos de carga. Posteriormente se optimiza el modelo y se presentan los resultados finales.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/60518</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería e Infraestructura de los Transportes</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/60518/files/TAZ-PFC-2016-097.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Diseño,cálculo y optimización de un semirremolque con cisterna criogénica</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+    <dc:title xml:lang="en">Design, calculation and optimization of a cryogenic tank semitrailer</dc:title>
+</oai_dc:dc>

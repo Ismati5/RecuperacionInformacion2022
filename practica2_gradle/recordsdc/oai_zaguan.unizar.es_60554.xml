@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Martínez Júlvez, Marta</dc:contributor>
+    <dc:contributor>Gracia Lostao, Ana Isabel</dc:contributor>
+    <dc:creator>Taleb Seral, Víctor</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Este trabajo ha abordado el estudio estructural de proteínas redox de interés biotecnológico y biomédico tales como el factor de inducción de la apoptosis humano, implicado en procesos de muerte celular (hAIF), la NADPH-flavodoxina reductasa del microorganismo fitopatógeno Xanthomonas axonopodis pv citri (XacFPR) y las proteínas riboflavin quinasa humana (hRFK) y FAD sintetasa humana (hFADS_2), implicadas en la síntesis del cofactor FAD necesario para múltiples rutas metabólicas así como para la actividad de las flavoproteinas. Con este fin se han utilizado  varias técnicas: la cristalografía de rayos X, la predicción estructural de proteínas y la microscopia de fuerzas atómicas. La técnica de cristalografía de rayos X aplicada a proteínas está basada en la obtención de  cristales proteicos que difractan los  rayos X proporcionando  datos que conducen a la resolución de la  estructura tridimensional de la proteína. Esta técnica se puede llevar a cabo en presencia de ligandos de manera que se consigue información de la interacción proteína - ligando. Durante el desarrollo de este trabajo se han identificado condiciones iniciales de cristalización de las proteínas riboflavin quinasa humana (hRFK) y de las especies mutantes del factor de inducción de la apoptosis humano (hAIF), así como la resolución de la estructura  de la proteína XacFPR cocristalizada con NADP+ y/o un inhibidor de su actividad reductasa  en la que no se observa densidad electrónica extra debida al ligando.  Con el fin de avanzar en el conocimiento de la estructura de la enzima hFADS_2, y a falta de un modelo cristalográfico, se realizó una predicción de su estructura tridimensional  así como un estudio morfológico del dominio C terminal mediante microscopia de fuerzas atómicas. Se observó que el dominio C terminal aislado dimeriza y que los monómeros presentan una altura promedio de 3,5 ± 0,5 nm, que se ajusta a las dimensiones encontradas en las predicciones.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/60554</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Bioquímica y Biología Molecular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/60554/files/TAZ-TFG-2017-108.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/60554/files/TAZ-TFG-2017-108_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Química</dc:subject>
+    <dc:title>Cristalización de proteínas redox y predicción estructural de la  FAD sintetasa humana</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Crystallization of redox proteins and structural prediction of human FAD synthetase</dc:title>
+</oai_dc:dc>

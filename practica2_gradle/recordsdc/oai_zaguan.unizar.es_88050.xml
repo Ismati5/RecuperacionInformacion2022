@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Adell Pascual, José Antonio</dc:contributor>
+    <dc:creator>Pérez Madre, Mario</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Los operadores lineales positivos son uno de los métodos de aproximación de funciones más estudiados. Uno de los ejemplos más importantes son los polinomios de Bernstein, que fueron introducidos por S. Bernstein a principios del siglo XX para dar una demostración sencilla del teorema de aproximación de Weierstrass y que, actualmente, tienen una gran importancia en el diseño asistido por ordenador. Estos polinomios están muy unidos a la probabilidad, y fueron el punto de partida de un gran interés en aplicar métodos probabilísticos en la aproximación mediante operadores lineales positivos. Muchos de los operadores estudiados habitualmente en la literatura poseen representaciones probabilísticas en términos de procesos estocásticos. Dichas representaciones permiten demostrar varias propiedades de los operadores lineales positivos de forma unificada y sencilla, utilizando herramientas como la esperanza condicionada a sigma-álgebras o las martingalas. En este trabajo, veremos propiedades de tres tipos: propiedades de preservación, principalmente de la monotonía, phi-variación, convexidad, constantes de Lipschitz y módulo de continuidad; propiedades aproximación, centrándonos en la convergencia monótona bajo convexidad y una cierta propiedad de tipo Lipschitz; y propiedades de velocidad de convergencia, respecto al primer y segundo módulo de continuidad, y en menor medida, respecto al segundo módulo de continuidad de Ditzian-Totik. En los dos primeros tipos de propiedades, consideraremos fundamentalmente los polinomios de Bernstein y los operadores de Szász y de Weierstrass, mientras que la velocidad de convergencia la estudiaremos, principalmente, para los polinomios de Bernstein.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/88050</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Métodos Estadísticos; Área de Estadística e Investigación Operativa</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/88050/files/TAZ-TFG-2019-2529.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Matemáticas</dc:subject>
+    <dc:title>Métodos probabilísticos en el estudio de operadores lineales positivos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Probabilistic methods in the study of positive linear operators</dc:title>
+</oai_dc:dc>

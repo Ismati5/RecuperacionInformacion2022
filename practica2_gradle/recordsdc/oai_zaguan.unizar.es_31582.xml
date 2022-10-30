@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ibáñez Pardos, Cristina</dc:contributor>
+    <dc:contributor>Yagüe Fabra, José Antonio</dc:contributor>
+    <dc:creator>Martínez Valtueña, Sergio</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>En el proyecto que se desarrolla a continuación se realiza un estudio de una línea de montaje real, estableciendo la defectuosidad y las acciones tomadas para reducirla. Para el cuál se va a utilizar el indicador FPY, que significa First Pass Yield y expresa el número de hornos fabricados buenos a la primera, es decir, que no precisan de reparación. Partiendo de una situación inicial (85% FPY) se plantea un objetivo inicial de mejora (90% FPY) y no sólo se alcanzan sino que se obtienen valores superiores (94% FPY). Este proyecto se realiza a través de la observación y trabajo en la propia línea de montaje y todos los problemas y acciones tomadas para solucionarlos son reales y se dieron durante la estancia en la empresa. Todo esto se enmarca en una metodología de trabajo 6 Sigma, que establece las pautas a seguir y marca la hoja de ruta para cada uno de los procesos de línea analizados. A modo de resumen podemos decir que diferencia 5 etapas que repetiremos para cada defecto analizado: Definición, Medición, Análisis, Implementación, Control. Inicialmente se establece un análisis mediante una fase de observación y aprendizaje, tanto de los tipos de hornos, como de los defectos y el puesto en el que suceden todos ellos. Gráficas de Pareto principalmente, pero también gráficos circulares reflejan este análisis, elaborado a partir de tablas dinámicas de Excel. Después de establecerse dicho análisis se evalúa el origen de dichos fallos, para tratar de implementar posteriormente una solución a cada uno. Tras estas dos fases se implementan las acciones correctoras. Con objeto de evaluar el impacto de las medidas se hace un análisis económico. Para ello se utilizan los datos reales, pero no se detallan al ser de carácter confidencial. Se muestran los resultados y la base de las estimaciones no estableciendo el origen exacto de cada uno. El proyecto finaliza con unas conclusiones, que recogen los resultados obtenidos para el mismo, las futuras líneas de mejora y las acciones infructuosas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31582</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31582/files/TAZ-PFC-2014-379.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>fpy</dc:subject>
+    <dc:subject>6 sigma</dc:subject>
+    <dc:subject>calidad</dc:subject>
+    <dc:subject>producción</dc:subject>
+    <dc:subject>ishikawa</dc:subject>
+    <dc:subject>pareto</dc:subject>
+    <dc:subject>shainin</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Análisis y mejora del índice de calidad de una línea de montaje de hornos</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

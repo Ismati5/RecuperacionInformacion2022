@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>López Mesa, Belinda</dc:contributor>
+    <dc:contributor>Espinosa Fernández, Almudena</dc:contributor>
+    <dc:creator>Lavilla Valiente, Irene</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>En la arquitectura, el mundo del software de diseño y el de la energía todavía se encuentran bastante separados. Este trabajo surge de la necesidad de investigar la compatibilidad entre el BIM y la simulación energética, a través de los programas más extendidos en cada campo, Revit y DesignBuilder.  Para el desarrollo de la investigación se recurrirá a un proceso de ensayo y error con un caso de estudio, hasta obtener unas pautas de trabajo que garanticen la compatibilidad entre Revit y Design Builder, tanto del modelo como de sus  propiedades térmicas. La investigación se realiza sobre el Gran Hotel de Jaca para dar continuidad al proyecto energético de I+D Abracadabra dentro del programa  europeo Horizonte 2020, llevado a cabo por la empresa Zeroaplus, sobre dicho edificio.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/63994</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Unidad Predepartamental de Arquitectura; Área de Construcciones Arquitectónicas</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/63994/files/TAZ-TFG-2017-3523.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Estudios en Arquitectura</dc:subject>
+    <dc:title>El BIM y la simulación energética para el diseño de estrategias de rehabilitación energética de la envolvente transparente</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">BIM and energy simulation for the design of refurbishment estrategies of the building glazed envelope</dc:title>
+</oai_dc:dc>

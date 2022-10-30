@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Cogolludo Agustín, José Ignacio</dc:contributor>
+    <dc:contributor>Lozano Imízcoz, María Teresa</dc:contributor>
+    <dc:creator>Tejerina García, Jorge</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>El presente trabajo consiste en una breve introducción a la teoría de nudos, con especial hincapié en la teoría de nudos virtuales (una joven rama de este campo con prometedoras perspectivas de futuro que estudia una generalización del concepto de nudo clásico) y su conexión (siendo ésta de carácter topológico) con unos elementos de naturaleza algebraica. La memoria está dividida en tres partes fundamentales: preliminares (apéndice A), códigos de Gauss (capítulo 1) y planaridad (capítulo 2). La lectura debe comenzar con el apéndice A: en éste se expone lo necesario para entender el desarrollo de los capítulos 1 y 2. Se introducen conceptos básicos de teoría de nudos y teoría de nudos virtuales y, debido a la fuerte analogía entre nudos y grafos, también de teoría de grafos. Esta parte presenta una visión general para posicionarse en el contexto de lo estudiado, proporcionando las herramientas para afrontar cuestiones más particulares. En el capítulo 1 entraremos en algo más concreto: la capacidad de unas secuencias de números, letras y signos para representar los nudos virtuales, los llamados códigos de Gauss. Desarrollaremos de forma natural y detallada el proceso para demostrar que estos códigos verdaderamente sirven para representar nudos virtuales y nos familiarizaremos mejor con el entorno sobre el que estamos trabajando. El último y segundo capítulo servirá para demostrar la utilidad de este nuevo enfoque para estudiar los nudos virtuales: el hecho de trabajar con códigos de Gauss nos permitirá obtener nuevos resultados y además, ser capaces de desarrollar algoritmos para el estudio de nudos virtuales.  En definitiva, se trata de una breve inmersión en una línea de investigación actual, la teoría de nudos virtuales, mostrando su motivación y (parte de) la utilidad de la misma.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/59046</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Matemáticas; Área de Geometría y Topología</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/59046/files/TAZ-TFG-2016-3363.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/59046/files/TAZ-TFG-2016-3363_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Matemáticas</dc:subject>
+    <dc:title>Teoría de nudos y aplicaciones</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Knot Theory and its applications.</dc:title>
+</oai_dc:dc>

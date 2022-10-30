@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Baldassarri Santa Lucía, Sandra</dc:contributor>
+    <dc:contributor>Marco Rubio, Javier</dc:contributor>
+    <dc:creator>Ubide Garralda, Elisa</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>En el Affective Lab del Grupo de Informática Gráfica Avanzada (GIGA) de la Universidad de Zaragoza, se ha desarrollado en los últimos años NIKVision, un prototipo de tabletop o superficie horizontal activa. Este prototipo permite crear juegos interactivos, basados en la interacción tangible a través de la manipulación de objetos físicos o juguetes en la superficie del tabletop. Para la detección de dichos objetos, NIKVision usa una cámara digital convencional y el framework TOYVision, un software opensource encargado del análisis de la imagen proveniente de la cámara.         La comunicación entre el framework TOYVision y la aplicación de los juegos se realizaba mediante el protocolo TUIO, basado en paquetes UDP, y un socket TCP. Dichos protocolos presentaban importantes limitaciones para el desarrollo de juegos tangibles avanzados:       -	La comunicación era undireccional: el framework TOYVision podía enviar mensajes a la aplicación del juego mientras que el sentido inverso de comunicación no era posible, es decir, la aplicación del juego no podía enviar mensajes al framework TOYVision.      -	Los mensajes del protocolo TUIO estaban limitados a tres tipos: “objeto añadido en la mesa”, “objeto movido en la mesa” y “objeto eliminado de la mesa”. Juguetes más complejos requerirían mensajes más complejos.         El objetivo de este Proyecto de Fin de Carrera ha sido el de ampliar las posibilidades del framework TOYVision para la creación de juegos tangibles avanzados para NIKVision, para lo cual:       -	Se han sustituido el protocolo TUIO y el socket TCP (unidireccionales) por un solo protocolo basado en XML y que utiliza un socket TCP bidireccional. De este modo, los paquetes XML permiten enviar tanto la información enviada anteriormente como nuevos tipos de mensajes para nuevas manipulaciones de los juguetes, para que estos, así mismo, puedan ser controlados por el ordenador (siempre y cuando dichos juguetes dispongan de la electrónica adecuada).       -	Se ha creado un nuevo módulo en el framework TOYVision para la gestión de sensores y actuadores electrónicos embebidos en los juguetes. Dicha gestión se realiza a través de la plataforma de hardware libre Arduino, con la que el framework TOYVision se comunica a través de una conexión por un puerto COM. Ello ha requerido la creación y gestión de un nuevo protocolo de comunicación con Arduino y del envío y recepción de información para que la aplicación del juego conozca el estado de los sensores y mande órdenes a los actuadores de los juguetes.        Estas nuevas funcionalidades permiten desarrollar juegos basados en la interacción tangible utilizando juguetes activos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10407</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10407/files/TAZ-PFC-2013-181.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>interacción</dc:subject>
+    <dc:subject>tangible</dc:subject>
+    <dc:subject>framework</dc:subject>
+    <dc:subject>arduino</dc:subject>
+    <dc:subject>juguetes activos</dc:subject>
+    <dc:subject>juegos</dc:subject>
+    <dc:subject>tabletop</dc:subject>
+    <dc:subject>nikvision</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Gestión de juguetes tangibles activos para una mesa interactiva</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

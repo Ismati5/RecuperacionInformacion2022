@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sivalingam, Senthoorselvan</dc:contributor>
+    <dc:contributor>Romeo Giménez, Luis Miguel</dc:contributor>
+    <dc:creator>Alonso Lozano, Álvaro</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El documento consta de diferentes simulaciones en ASPEN Plus de una planta IGCC con diferentes modelos de gasificador y diferentes métodos de enfriamiento del gas. Se realizan cuatro simulaciones principales, dos con carbón como combustible, una con biomasa y una última donde se estudia la co-gasificación de carbón y biomasa. Los resultados obtenidos para las diferentes plantas son estudiados y una breve valoración es expresada.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9706</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9706/files/TAZ-PFC-2012-707.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>aspen plus</dc:subject>
+    <dc:subject>gasificación</dc:subject>
+    <dc:subject>carbón</dc:subject>
+    <dc:subject>biomasa</dc:subject>
+    <dc:subject>simulación</dc:subject>
+    <dc:subject>igcc</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Gasificación en gasificadores de flujo arrastrado: Simulación en ASPEN plus y comparación</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

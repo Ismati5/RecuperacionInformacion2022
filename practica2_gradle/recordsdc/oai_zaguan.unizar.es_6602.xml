@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Royo Sánchez, Jesús</dc:contributor>
+    <dc:creator>Sariñena Sánchez, Daniel</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El objetivo de este estudio, es analizar la interferencia que ejercen diferentes metales en la lectura de la etiqueta electrónica (tag) adherida al metal, cuando se utiliza la tecnología de identificación por radiofrecuencia (RFID) en la banda UHF (400 - 1000 MHz), ya que una de las características de esta banda de frecuencia es la problemática que presenta cuando el tag es adherido a un metal. Se han seleccionado dos metales, aluminio y acero, para investigar cual de ambos obstaculiza de manera más significativa las lecturas. Al mismo tiempo, del aluminio, se escogieron dos placas para el ensayo, una con mayor espesor, para comparar si también se veía influenciada la lectura por la variación del espesor. Los materiales seleccionados para utilizar como separadores, y establecer así una distancia entre el tag y la placa metálica, son consumibles habituales en sectores industriales y con características diferentes entre sí (papel, cinta aislante, cinta de embalar, cinta de carrocero, cartón y papel de burbujas) para dar una solución viable y a su vez establecer una comparativa entre ellos mismos. Por consiguiente, con la presente investigación se pretende aportar una alternativa real y económica de sustituir los tags encapsulados para metales (más caros), por tags flexibles separándolos del metal por el material elegido (solución más económica), proporcionando una opción de gran ahorro para las empresas, estableciendo que metal interfiere más y la influencia del espesor en las lecturas, además de indicar que separador es más beneficioso para reducir la interferencia.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6602</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6602/files/TAZ-PFC-2011-656.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Análisis de operatividad y comportamiento de la tecnología RFID UHF en diferentes metales</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

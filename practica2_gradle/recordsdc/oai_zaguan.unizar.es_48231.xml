@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Blasco Sánchez, Mariano</dc:contributor>
+    <dc:creator>Julian Fabro, Nuria</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>Este trabajo fin de grado se caracteriza por realizar los ensayos a un transformador trifásico de la forma estandarizada pero a diferencia de lo realizado en las prácticas de la asignatura de máquinas eléctricas, se utiliza un autómata para efectuar el activado de los distintos contactores y además realizar las operaciones matemáticas oportunas, por otra parte se emplea el multímetro SENTRON PAC3200 que gestionará la toma de medidas de cada ensayo y por último una pantalla HMI con la cual se realiza el guiado por el proceso y la muestra de resultados.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/48231</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/48231/files/TAZ-TFG-2015-3394.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Eléctrica</dc:subject>
+    <dc:title>Parametrización de un transformador trifásico mediante autómata programable</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

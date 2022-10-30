@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Celma Pueyo, Santiago</dc:contributor>
+    <dc:contributor>Aznar Tabuenca, Francisco</dc:contributor>
+    <dc:contributor>Mateo Gascón, Francisco Javier</dc:contributor>
+    <dc:creator>Morte Palacios, Jorge</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Este trabajo de fin de grado ha consistido principalmente en el diseño y caracterización de mezcladores pasivos en una tecnología CMOS para aplicaciones de radio sobre fibra (RoF) en redes de área doméstica (HAN). El proyecto ha constado de distintas fases. La primera de ellas ha sido el estudio teórico y revisión bibliográfica de los mezcladores pasivos y filtros polifase como elementos principales en transceptores integrados de radio frecuencia (RF), para ello ha sido necesario comprender el procesado de la señal en toda la cadena del front-end. Una vez elegidas las topologías de los mezcladores, se ha realizado un análisis exhaustivo del comportamiento en cuanto a sus parámetros más importantes, con las limitaciones propias de la tecnología de fabricación escogida (CMOS 65 nm 1.2V), y a partir de ellos elegir la topología óptima para el diseño del bloque mínimo que forma el mezclador. La siguiente fase se centra en el desarrollo de mezcladores I-Q, caracterizando completamente la topología escogida y las alternativas que mejoran en algún aspecto a la propuesta, centrándose principalmente en el Image Rejection Ratio (IRR) como uno de los parámetros más importantes de estas estructuras y una de las especificaciones más difíciles de cumplir. Para ello se realizan análisis de mismatch y de variaciones de proceso mediante el análisis de Montecarlo. La última fase ha consistido en realizar el diseño físico o layout, aplicando las técnicas de diseño apropiadas en función de los resultados previos, y obteniendo los resultados extraídos del post layout para realizar una comparativa entre el diseño ideal y el obtenido. Mediante estas actividades se ha conseguido la adquisición de competencias y habilidades en el uso de herramientas específicas de diseño y simulación de circuitos integrados de radiofrecuencia (RFIC) en tecnologías CMOS nanométricas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/65372</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/65372/files/TAZ-TFG-2017-1781.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías y Servicios de Telecomunicación</dc:subject>
+    <dc:title>Diseño CMOS de celdas RFIC para aplicaciones de radio sobre fibra RoF</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">CMOS design of RFIC cells for radio over fiber applications</dc:title>
+</oai_dc:dc>

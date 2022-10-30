@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Casas Nebra, Roberto</dc:contributor>
+    <dc:contributor>Marco Marco, Álvaro</dc:contributor>
+    <dc:creator>Ferrando Sixtac, Alfredo</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El proyecto consiste en el desarrollo de un dispositivo electrónico, denominado comúnmente como datalogger, cuya función es la toma de muestras de sensores colocados en la motocicleta. El dispositivo desarrollado es capaz de tomar los datos, darles un tratamiento previo y enviarlos a un Smartphone donde son tratados y almacenados. También se ha realizado un plan de empresa que evalúa la viabilidad del producto de cara a su comercialización.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12935</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12935/files/TAZ-PFC-2013-697.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>data logger</dc:subject>
+    <dc:subject>electrónica</dc:subject>
+    <dc:subject>motocicleta</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Desarrollo de un sistema de sensorización para motos de competición</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

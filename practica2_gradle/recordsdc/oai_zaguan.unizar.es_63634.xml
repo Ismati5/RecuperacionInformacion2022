@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Martínez Barca, Miguel Ángel</dc:contributor>
+    <dc:contributor>Escuer Gracia, Javier</dc:contributor>
+    <dc:creator>Cebollero Burgués, Martina</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Como punto de partida se realizó un exhaustivo estudio bibliográfico (sec. “Introducción”) obteniendo nociones básicas de aterosclerosis (“Anatomía e histología de la arteria coronaria”, “Aterosclerosis”) y los tratamientos contra la misma (“Dispositivos intravasculares de difusión de fármaco”, “Tipos de fármaco”). Adicionalmente, se estudió la teoría de transporte de fármaco, los distintos modelos de comportamiento de material y el acoplamiento entre las dos físicas. Respecto al software utilizado, fue necesario un aprendizaje previo de su funcionamiento y un análisis de las funciones de cada física (sec.“Material y Métodos”). Una vez determinado el marco teórico, se desarrollaron los modelos computacionales de elementos finitos mediante el software COMSOL Multiphysics. Tras la realización de los modelos, se extrajeron los resultados, estudiando el comportamiento de los mismos y analizando los efectos de la mecánica (sec.”Resultados”). Como conclusiones (sec.”Conclusiones”) se obtuvieron resultados del efecto de la expansión del dispositivo en el transporte de fármaco, donde la deformación de las paredes arteriales es un parámetro que afecta notablemente al pico de concentración máxima de fármaco. Así mismo, se realizó una comparativa entre dispositivos, en la cual el stent presentó un control más eficiente del fármaco. La diferencia entre coeficientes de difusión entre la placa y la capa media fue clave en el modelo desarrollado en arteria afectada por placa de ateroma. El estudio comparativo de fármacos mostró comportamientos de difusión y adhesión al tejido muy diferente. Por último, los modelos 3D y 2D arrojaron resultados similares.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/63634</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/63634/files/TAZ-TFM-2017-1027.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Industrial</dc:subject>
+    <dc:title>Modelo computacional acoplado de la expansión mecánica de dispositivos intravasculares y liberación de fármaco asociada</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Coupled computational modeling of the mechanical expansional of endovascular devices and their drug release</dc:title>
+</oai_dc:dc>

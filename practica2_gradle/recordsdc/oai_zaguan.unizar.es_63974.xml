@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Villa Gazulla, Juan Luis</dc:contributor>
+    <dc:creator>Ferrer Gómez, Víctor</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>La creciente preocupación medioambiental en las ciudades, evidenciada por el endurecimiento de las emisiones máximas permitidas por los vehículos, hacen que la movilidad eléctrica sea objeto de numerosos estudios e investigaciones actualmente. No obstante, la electrificación del transporte en entornos urbanos, especialmente la de los autobuses públicos, está hoy en día limitada por el elevado peso de las baterías necesario y la pobre autonomía que ofrecen las baterías comerciales actuales. Por este motivo, el objetivo del presente trabajo es el de minimizar dichos inconvenientes a través del diseño de un sistema de carga inalámbrica estática y dinámica para un autobús eléctrico urbano. La solución propuesta consiste en la instalación de puntos de carga inductiva estática en cada parada del recorrido, permitiendo la subida y bajada de pasajeros al mismo tiempo que se las baterías se recargan, así como la disposición de carriles de carga inductiva dinámica entre cada parada, recargando el vehículo mientras se desplaza. Además, el sistema se ha diseñado de tal forma que las baterías se alimentan de forma ininterrumpida, minimizando al máximo el peso necesario de éstas. El sistema diseñado resulta ser viable técnicamente, al transferir la potencia deseada a la carga y cumplir con la normativa vigente de la emisión máxima de campo electromagnético. Sin embargo, el coste necesario para su instalación y puesta en marcha es bastante alto, lo que actualmente entorpece su implantación masiva en las ciudades.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/63974</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/63974/files/TAZ-TFG-2017-3561.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Diseño teórico de un sistema de carga inalámbrica estática y dinámica para un autobús eléctrico urbano</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Theoretical design of a static and dynamic wireless power transfer for a public electric bus</dc:title>
+</oai_dc:dc>

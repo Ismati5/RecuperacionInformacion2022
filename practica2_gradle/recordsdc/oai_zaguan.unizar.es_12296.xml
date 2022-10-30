@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Verbeek, Sytze</dc:contributor>
+    <dc:contributor>Aznar Colino, Eduardo</dc:contributor>
+    <dc:creator>Rodes Sanagustín, Pablo</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El objetivo de este proyecto consiste en sintetizar los conceptos generales de las redes inteligentes (Smart Grids), los cambios que se prevén en la red eléctrica y las principales tecnologías que apoyaran el desarrollo de las mismas. Una Smart Grid es una sistema que permite la comunicación bidireccional entre el consumidor final y las compañías eléctricas, de forma que la información proporcionada por los consumidores pueda ser utilizada por las compañías eléctricas para permitir una operación mas eficiente de las red eléctrica, así como ofrecer nuevos servicios a los clientes. El desarrollo de las Smart Grids es esencial si la comunidad global quiere alcanzar objetivos comunes de seguridad energética, desarrollo económico y mitigación del cambio climático. Para ello, se están desarrollando e implementando nuevas tecnologías como los medidores inteligentes (Smart Meters) y nuevas técnicas de medida de consumo eléctrico como la monitorización no intrusiva (Non Intrusive Load Monitoring). Los Smart Meters son medidores de electricidad, agua o gas que recopilan de forma automática los datos de medida y los envían a las compañías eléctricas permitiendo a estas tener una mejor visión de la distribución eléctrica y proporcionan a sus clientes un mayor conocimiento de su propio consumo. La monitorización no intrusiva es una técnica que detecta los eventos de aparatos eléctricos analizando la demanda total de la carga. Esto es posible debido a que los aparatos presentan características especiales en los momentos de conexión y desconexión consistentes en cambios tanto positivos como negativos en las potencias activa y reactiva. Como dichas características son únicas en cada dispositivo, es posible reconocer el perfil de cada uno de ellos pudiendo saber que dispositivos se están encendiendo o apagando, así como el consumo eléctrico de cada uno de ellos. Esto es lo que ofrece la tecnología Plugwise, que mediante el uso de sus dispositivos permite monitorizar y controlar el consumo eléctrico de una vivienda, oficina o empresa y poder ver los resultados en nuestro propio Smartphone o PC. El uso de tecnología Plugwise en combinación con un Smart Meter permite que tanto clientes como compañías eléctricas sean conscientes de cuanto, como y donde se consume la electricidad.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12296</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12296/files/TAZ-PFC-2013-618.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>smart grids</dc:subject>
+    <dc:subject>smart meters</dc:subject>
+    <dc:subject>non intrusive load monitoring</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electrónica Industrial)</dc:subject>
+    <dc:title>Smart grids: smart meters and non intrusive load monitoring</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

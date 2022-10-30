@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>González Bedia, Manuel</dc:contributor>
+    <dc:contributor>Serón Arbeloa, Francisco José</dc:contributor>
+    <dc:contributor>Barandiarán Fernández, Xabier Eugenio</dc:contributor>
+    <dc:creator>Aguilera Lizarraga, Miguel</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>The concept of autonomy is of crucial importance for understanding life and cognition. Whereas cellular and organismic autonomy is based in the self-production of the material infrastructure sustaining the existence of living beings as such, we are interested in how biological autonomy can be expanded into forms of autonomous agency, where autonomy as a form of organization is extended into the behaviour of an agent in interaction with its environment (and not its material self-production).  In this thesis, we focus on the development of operational models of sensorimotor agency, exploring the construction of a domain of interactions creating a dynamical interface between agent and environment. We present two main contributions to the study of autonomous agency: First, we contribute to the development of a modelling route for testing, comparing and validating hypotheses about neurocognitive autonomy. Through the design and analysis of specific neurodynamical models embedded in robotic agents, we explore how an agent is constituted in a sensorimotor space as an autonomous entity able to adaptively sustain its own organization. Using two simulation models and different dynamical analysis and measurement of complex patterns in their behaviour, we are able to tackle some theoretical obstacles preventing the understanding of sensorimotor autonomy, and to generate new predictions about the nature of autonomous agency in the neurocognitive domain. Second, we explore the extension of sensorimotor forms of autonomy into the social realm. We analyse two cases from an experimental perspective: the constitution of a collective subject in a sensorimotor social interactive task, and the emergence of an autonomous social identity in a large-scale technologically-mediated social system. Through the analysis of coordination mechanisms and emergent complex patterns, we are able to gather experimental evidence indicating that in some cases social autonomy might emerge based on mechanisms of coordinated sensorimotor activity and interaction, constituting forms of collective autonomous agency.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/47407</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/47407/files/TESIS-2016-015.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>teoría de sistemas</dc:subject>
+    <dc:subject>neurociencias</dc:subject>
+    <dc:subject>cibernética</dc:subject>
+    <dc:subject>comportamiento colectivo</dc:subject>
+    <dc:title>Interaction dynamics and autonomy in cognitive systems</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

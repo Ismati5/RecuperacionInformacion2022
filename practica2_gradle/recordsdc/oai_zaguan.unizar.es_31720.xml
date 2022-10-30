@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>de Marcos Ruiz, Susana</dc:contributor>
+    <dc:creator>Martín Barreiro, Alba</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>El objetivo del presente trabajo es la puesta a punto de un biosensor óptico enzimático para la determinación de peróxido de hidrógeno. Como base para el desarrollo del biosensor, se ha estudiado la reacción de este peróxido con la enzima HRP en disolución y entrampada en una red de poliacrilamida en celda de flujo.  Una vez optimizado el desarrollo de la lámina sensora para su implementación en el biosensor óptico, se han estudiado los parámetros analíticos e instrumentales que afectan a la medida, llevándose a cabo la optimización del módulo óptico y evaluándose  las mejoras en función de la relación de la concentración con el área de la respuesta. Los estudios han consistido en el rediseño de celda sensora que ha conllevado una disminución de la dispersión de la luz y la elección de los leds de referencia y medida que proporcionan mayor selectividad en el máximo de excitación. Se han estudiado las características analíticas del biosensor en cuanto a estabilidad y reversibilidad, obteniéndose resultados reproducibles hasta después de 60 medidas con la lámina sensora. El método permite la determinación de peróxido de hidrógeno en un intervalo lineal de 1,5·10-5 – 7,6·10-4 M. Tras la optimización se ha aplicado el método a una muestra real y comparando los resultados con la determinación por métodos normalizados, se ha establecido éste como un método adecuado para la determinación de peróxido de hidrógeno en muestras reales. A partir de este biosensor se ha propuesto ampliar la metodología para la determinación de otros peróxidos, por lo que se han estudiado las posibilidades analíticas de la reacción enzimática de la catalasa para la determinación de ácido peracético.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31720</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Analítica; Área de Química Analítica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31720/files/TAZ-TFG-2015-1890.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/31720/files/TAZ-TFG-2015-1890_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Química</dc:subject>
+    <dc:title>Puesta a punto de un biosensor óptico enzimático para la determinación de peróxido de hidrógeno</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

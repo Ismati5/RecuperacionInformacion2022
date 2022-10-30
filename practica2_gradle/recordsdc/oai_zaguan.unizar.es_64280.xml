@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Huertas Talón, José Luis</dc:contributor>
+    <dc:creator>Román Gimeno, Patricia</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>La idea principal de este proyecto es la automatización de un proceso de montaje para que los controles de verificación de componentes los realice una máquina. De esta forma evitamos los fallos humanos debido a la falta de inspección visual por parte del trabajador. Este proyecto además de evitar los fallos humanos debe mejorar los tiempos de ciclo y amortizar la inversión en un plazo razonable.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64280</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64280/files/TAZ-PFC-2017-068.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Diseño de un útil para el montaje semiautomático de un casquillo sobre una pieza de plástico y la verificación de componentes</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+    <dc:title xml:lang="en">Design of a tool for the semiautomatic assembly of a bushing on a piece of plastic and the verification of components</dc:title>
+</oai_dc:dc>

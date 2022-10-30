@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Abad Blasco, Javier Óscar</dc:contributor>
+    <dc:creator>De Pascual Samper, Ignacio Miguel</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>El objeto de este proyecto de fin de grado es fabricar y diseñar un  reductor de velocidad de engranajes de dos escalamientos. Los ejes de entrada y salida están dispuestos en el mismo eje, llamado este tipo de  disposición de eje doble. Las condiciones iniciales de entrada son 15 C.V. a 1.000 r.p.m., relación 7,88:1 y duración mínima de la máquina sea de 6.000 horas de trabajo. En este caso, se diseña un reductor de velocidad con engranajes cilíndricos de dientes rectos de dos escalonamientos. 	La carcasa será de fundición gris, formada por un cuerpo inferior y un tape, unidos entre sí mediante tornillos de acero, calidad 8.8, formando  un solo bloque compacto y sólido. Los piñones de los engranajes se  diseñan con acero 40CrNiMo7 y las coronas y los ejes con acero C45E. Los  ejes se apoyarán en los rodamientos SKF. El cálculo de los de los rodamientos se  hace de acuerdo con el catálogo general de SKF y el de los ejes se va realizar según la fórmula de Poncelet, del  “momento flector ideal”. Se desprecia el cálculo por deformación, dada  la longitud tan pequeña de dichos ejes. Los engranajes se calcularán a rotura, siguiendo el procedimiento de la  regla Vagma, y a desgaste, siguiendo el procedimiento del libro de H. Trier ("Trazado y Calculo de las Ruedas Dentadas"). 	         Para comprobar su resistencia a fatiga, se calcularán los coeficientes de seguridad de los ejes mediante el método de tensión equivalente de Soderberg, siguiendo el libro de Rafael  Avilés ("Análisis de Fatiga en Máquinas").</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/77597</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería Mecánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/77597/files/TAZ-TFG-2018-2902.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Reductor con engranajes cilíndricos de dos escalonamientos, y disposición de eje doble</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Reducer with two-step cylindrical gears, and double shaft arrangement</dc:title>
+</oai_dc:dc>

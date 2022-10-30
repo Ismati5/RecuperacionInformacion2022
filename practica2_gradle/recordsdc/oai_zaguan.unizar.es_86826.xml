@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gómez Gardeñes, Jesús</dc:contributor>
+    <dc:creator>Boghiu, Emanuel Cristian</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Nuestro objetivo en este trabajo es el desarrollo de un modelo nuevo en redes complejas que muestre sincronización explosiva de osciladores de fase en procesos de percolación,  uniendo de esta manera procesos de crecimiento de redes con procesos dinámicos. Hemos desarrollado un modelo con un crecimiento acoplado a la dinámica basado en la adición selectiva de enlaces (según una regla probabilística basada en las frecuencias efectivas de los osciladores) que presenta transición explosiva en la sincronización. En la memoria contextualizamos los fenómenos explosivos en los campos de la sincronización y de la percolación y resumimos las características principales de nuestro nuevo modelo.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/86826</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física de la Materia Condensada; Área de Física de la Materia Condensada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/86826/files/TAZ-TFM-2019-325.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/86826/files/TAZ-TFM-2019-325_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Física y Tecnologías Físicas</dc:subject>
+    <dc:title>Sincronización explosiva y percolación en redes complejas</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Explosive synchronization and percolation on complex networks</dc:title>
+</oai_dc:dc>

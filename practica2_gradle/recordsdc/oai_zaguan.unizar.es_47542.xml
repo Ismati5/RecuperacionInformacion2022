@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ramírez Laboreo, Edgar</dc:contributor>
+    <dc:creator>Anzola Trevijano, Juan</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>El presente trabajo fin de grado se enmarca dentro de la colaboración de la Universidad de Zaragoza con BSH Electrodomésticos España. El principal objetivo del mismo es el sensado de diferentes variables en relés electromecánicos. El trabajo se incluye dentro de una línea de investigación más amplia que engloba tareas de modelado, caracterización, simulación y control de estos dispositivos. En primer lugar, se han estudiado distintos métodos y se han valorado varios equipos que permitan medir la posición del mecanismo presente en un relé electromecánico. Dicha posición es crítica a la hora de caracterizar correctamente el dispositivo y también como realimentación de cualquier sistema control que pueda llegar a proponerse.  La segunda variable a medir es el ruido generado en las conmutaciones de apertura y cierre del relé. En ambos procesos, los impactos que se producen entre distintos elementos móviles del mecanismo originan ruidos que pueden llegar a ser molestos. Resulta interesante por tanto estudiar el origen de los mismos y la relación que puedan tener con los diferentes parámetros del relé. Para ello se han evaluado distintos micrófonos y se ha seleccionado uno según criterios de coste y calidad de la señal. Además, se ha diseñado e implementado un banco de pruebas que permite la realización de ensayos sobre relés electromecánicos. Se ha tratado de aportar una gran versatilidad al diseño y se ha conseguido un montaje que permite la activación del relé de modo manual o automático, con distintas configuraciones del circuito de activación y que puede ser utilizado con cualquier modelo de relé del mercado.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/47542</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/47542/files/TAZ-TFG-2015-2642.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Electrónica y Automática</dc:subject>
+    <dc:title>Técnicas de sensorización para caracterización y control de dispositivos electromecánicos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

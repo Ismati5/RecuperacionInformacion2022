@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>González Rico, Iñaki</dc:contributor>
+    <dc:contributor>Alastruey Benedé, Jesús</dc:contributor>
+    <dc:creator>Serrano López, Roberto</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>En este TFG se ha desarrollado un visor DICOM controlado por gestos y por voz para ordenadores de sobremesa usando Kinect. También permite descargar y visualizar imágenes médicas de cualquier servidor PACS que utilice el protocolo DICOM.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31487</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Arquitectura y Tecnología de Computadores</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31487/files/TAZ-TFG-2014-2439.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>dicom</dc:subject>
+    <dc:subject>pacs</dc:subject>
+    <dc:subject>kinect</dc:subject>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>Software para control gestual y por voz de imágenes médicas durante la cirugía</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

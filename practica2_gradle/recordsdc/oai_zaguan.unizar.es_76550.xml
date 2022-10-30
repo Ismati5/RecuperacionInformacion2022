@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Briz Velasco, José Luis</dc:contributor>
+    <dc:contributor>Suárez Gracia, Darío</dc:contributor>
+    <dc:creator>Fueris Martín, Luis</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>Actualmente están muy extendidos en los centros de datos los low-volume servers, que albergan máquinas virtuales con aplicaciones accedidas por usuarios de manera concurrente. La seguridad es crucial, sea a nivel de aplicación como a nivel de sistema operativo, para evitar filtración de datos personales. Si el sistema está comprometido y un atacante adquiere permisos de administrador, su próximo movimiento será realizar una escalada de privilegios, ya sea horizontal (dentro de la DMZ) o vertical (red interna). Una aproximación para intentar aumentar los privilegios es instalar código malicioso para, por ejemplo, corromper la filtración de paquetes y acceder a otras máquinas. Existen prototipos como "DADE: A fast Data Anomaly Detection Engine for kernel integrity monitoring" que ayuda a detectar cambios de código o datos dentro del kernel. DADE provee un mecanismo que ayuda a mantener la integridad del sistema operativo Linux. Realiza una detección basada en la monitorización de los objetos del kernel. Los objetos creados en el kernel pueden ser caracterizados por su stacktrace, que es la cadena ordenada de invocaciones a funciones hasta llegar al interfaz de asignación de memoria física del kernel. En este trabajo se ha implementado el prototipo DADE introducido en [4], y se han aportado nuevos métodos para la detección de anomalías. Además de reproducir las técnicas de detección de ataques referidas en dicho artículo, se han desarrollado tres pruebas de concepto propias para atacar el código del kernel y comprobar la viabilidad y eficacia del diseño propuesto.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76550</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Arquitectura y Tecnología de Computadores</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76550/files/TAZ-TFG-2018-3682.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>DADE: Motor de detección de datos anómalos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">DADE: Data anomaly detection engine</dc:title>
+</oai_dc:dc>

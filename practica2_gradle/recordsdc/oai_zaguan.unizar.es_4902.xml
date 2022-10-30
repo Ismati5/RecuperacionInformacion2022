@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Lázaro Elorri, María Jesús</dc:contributor>
+    <dc:contributor>Herguido Huerta, Francisco Javier</dc:contributor>
+    <dc:creator>Pérez Rodríguez, Sara</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>La concentración de CO2 en el aire ha aumentado de forma alarmante durante los últimos años, provocando que dicho gas sea el principal causante del efecto invernadero. Por ello, la reducción de sus emisiones es asunto prioritario a nivel global. Hasta el momento, se han propuesto diversas estrategias para mitigar el aumento de la concentración de CO2 en la atmósfera. Una posibilidad es la reutilización del CO2, reduciéndolo electroquímicamente a productos útiles para la industria química, de forma que se obtienen productos valiosos a la vez que se reducen las emisiones.  En el presente Trabajo Fin de Máster se han preparado y caracterizado diversos catalizadores de Fe soportados sobre el negro de carbono Vulcan XC-72R, para ser utilizados en la reducción electrocatalítica de CO2. Previamente, el soporte se sometió a distintos tratamientos de oxidación con HNO3, para modificar su morfología y química superficial, y así poder estudiar la influencia de la funcionalización sobre las propiedades de los catalizadores. La reactividad de estos catalizadores hacia la reducción de CO2 se estudió en medio alcalino, a temperatura ambiente y presión atmosférica. Además, se comparó la actividad de los catalizadores de Fe con la de un catalizador de Pt sintetizado por el mismo método. Los soportes fueron caracterizados aplicando experimentos de desorción a temperatura programada (TPD), análisis elemental, difracción de rayos X (XRD), microscopía electrónica de barrido (SEM), fisisorción de N2 y experimentos de oxidación a temperatura programada (TPO). Por otro lado, los catalizadores se caracterizaron físico-químicamente por energía de dispersión de rayos X (EDX), SEM, XRD y fisisorción de N2.  La actividad de los catalizadores sintetizados, así como la formación de productos gaseosos y volátiles de los procesos electroquímicos, se siguieron “in-situ” mediante espectrometría de masas diferencial electroquímica (DEMS). Esta técnica, no comercial y no utilizada extensamente, aporta más información que técnicas puramente electroquímicas como son la voltamperometría cíclica y cronoamperometría. De la caracterización de los soportes, se concluyó que se crearon grupos oxigenados superficiales tras los tratamientos de oxidación, sin afectar significantemente a las propiedades texturales y morfológicas de los soportes, así como a su estabilidad química.  Finalmente, de la caracterización de los catalizadores, se dedujo que la funcionalización de los soportes aumentaba significantemente la actividad catalítica hacia la formación de productos hidrogenocarbonados, haciendo más interesante este proceso de reutilización de CO2.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4902</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Ingeniería Química</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4902/files/TAZ-TFM-2010-014.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/4902/files/TAZ-TFM-2010-014_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Electro-reducción de CO2</dc:subject>
+    <dc:subject>Catalizadores Fe/Vulcan</dc:subject>
+    <dc:subject>Catalizadores Pt/Vulcan</dc:subject>
+    <dc:subject>Reactor fotoelectrocatalítico</dc:subject>
+    <dc:subject>Funcionalización</dc:subject>
+    <dc:subject>Vulcan XC-72R</dc:subject>
+    <dc:subject>Máster Universitario en Iniciación a la Investigación en Ingeniería Química y del Medio Ambiente</dc:subject>
+    <dc:title>Influencia de las condiciones de oxidación en las propiedades de catalizadores de Fe soportados sobre Vulcan para la reducción de CO2 a productos de alto valor añadido</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

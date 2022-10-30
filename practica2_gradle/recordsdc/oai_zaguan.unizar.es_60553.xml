@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Macías Maza, Ramón</dc:contributor>
+    <dc:contributor>Sanz Miguel, Pablo J.</dc:contributor>
+    <dc:creator>Pérez Domínguez, Sandra</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>En este TFG se ha sintetizado la sal de Proton Sponge, [PSH][B10H13]. Los reactivos empleados, decaborano y Proton Sponge, son solubles en hexano y se disolvieron individualmente, y tras verter la base sobre el decaborano, B10H14, se observó la precipitación instantánea de la sal. Así, este procedimiento de síntesis es una forma nueva y conveniente de preparar una sal de decaborano, que es estable al aire, y fácil de pesar y manipular. Se ha observado por primera vez en el sistema nido-decaborano, el movimiento tautomérico de los átomos de hidrógeno puente de su estructura. El clúster aniónico, [B10H13]-, presenta procesos fluxionales en los que intervienen los átomos de hidrógeno puente, y se ha podido caracterizar con detalle que los tres átomos de hidrógeno puente de su estructura participan en un intercambio de posición continuo con movimiento constante alrededor de la cara hexagonal del clúster.  La obtención de la sal se debe a la abstracción de un átomo de hidrógeno puente del decaborano por la base Proton Sponge. Cabría esperar que la base atacara acercándose por la parte de arriba de la cara hexagonal del B10H14, donde se encuentran los átomos de hidrógeno ácidos; pero los cálculos DFT indican que las configuraciones de menor energía son aquellas en las que el catión interacciona con la periferia del clúster. Este hecho nos hace sugerir que la base, PS, podría capturar el protón también en la periferia del clíster, cerca de los átomos terminales, disminuyendo así las repulsiones estéricas entre el clúster poliédrico y la base orgánica. La sal de decaborano es un producto de partida útil para el estudio de su reactividad con moléculas orgánicas, complejos metálicos, etc.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/60553</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Inorgánica; Área de Química Inorgánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/60553/files/TAZ-TFG-2017-109.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Química</dc:subject>
+    <dc:title>Reactividad del decaborano con bases de Brønsted y compuestos de plata: Estudios estructurales y espectroscópicos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Decaborane reactivity with Bronsted bases and silver compounds: Structural and spectroscopic studies</dc:title>
+</oai_dc:dc>

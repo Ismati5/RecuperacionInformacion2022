@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Casas Nebra, Roberto</dc:contributor>
+    <dc:creator>Hernando Torres, Eduardo Javier</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>En el presente proyecto,  teniendo en cuenta los avances en dispositivos  de tratamiento de señal digital, capaces  ya,  de incorporar elementos típicos de la electrónica analógica de forma configurable y  programable embebidos en un chip, se plantea el estudio de diferentes soluciones a este problema.  Proponiendo en primera instancia una etapa tradicional analógica, para después comparar sus resultados  frente a una etapa integrada completamente en un dispositivo de tratamiento digital ,  evitando así la  necesidad de diseño e implantación de una etapa analógica. Una vez se han diseñado las etapas, se  expone  un breve  estudio estadístico comparando los datos  obtenidos de la monitorización de cargas en diferentes rangos para cada una de estas etapas. Posteriormente,  cuando se  determine  la solución más interesante a raíz del estudio mentado  anteriormente, se procederá  a su implementación tanto a nivel firmware  como hardware,  materializando  está en una placa de circuito impreso. Como resultado final se ha obtenido un prototipo funcional para monitorizar cargas, capaz  de medir de  forma fiable, y comunicar los resultados a un ordenador utilizando el puerto serie del mismo y un sencillo  protocolo de comunicación diseñado con este propósito.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61086</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61086/files/TAZ-TFG-2016-4453.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Electrónica y Automática</dc:subject>
+    <dc:title>Sistema de monitorización de cargas</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Load monitoring system</dc:title>
+</oai_dc:dc>

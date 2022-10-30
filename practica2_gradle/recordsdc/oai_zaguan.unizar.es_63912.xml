@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mancebón Torrubia, María Jesús</dc:contributor>
+    <dc:creator>Langa Hernández, Andrea</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El fracaso escolar constituye el mayor reto al que se enfrenta el sistema educativo español, ya que las elevadas tasas que este presenta, suponen una dificultad para la economía y sociedad de un país. En este trabajo se trataremos de explicar, por un lado, la eficacia del programa de refuerzo educativo PROA en relación a los logros obtenidos por los alumnos con mayor y menor riesgo de fracaso escolar. El análisis será llevado a cabo mediante regresiones lineales las cuales tendrán como variable dependiente las puntuaciones obtenidas en las competencias evaluadas por PISA 2012, obteniendo los datos necesarios de la base de datos de PISA 2012. Se plantean por ello tres modelos (uno por competencia) formados por variables personales y socioeconómicas del alumno y por la variable predictor principal que es la variable cuyo impacto se trata de evaluar. El estudio presenta dos conclusiones relevantes. La primera conclusión extraída del análisis es que la variable género y la asistencia a educación infantil, junto a las variables socioeconómicas índice del estatus económico, social y cultural del hogar son los factores más relevantes a la hora de determinar el rendimiento académico. La segunda conclusión relevante es la repercusión positiva del programa de refuerzo PROA para los resultados de lectura y ciencias para los alumnos que han repetido en primaria y para los que no han repetido.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/63912</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Estructura e Historia Económicas y Economía Pública; Área de Economía Aplicada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/63912/files/TAZ-TFG-2017-3869.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Economía</dc:subject>
+    <dc:title>Eficacia del programa de refuerzo educativo PROA en el fracaso escolar</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Effectiveness of the PROA educational reinforcement program in the school failure</dc:title>
+</oai_dc:dc>

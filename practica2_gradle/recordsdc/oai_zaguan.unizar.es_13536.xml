@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Rodríguez Martínez, Mario Félix</dc:contributor>
+    <dc:contributor>Herrero Jaraba, José Elías</dc:contributor>
+    <dc:creator>Montañés Laborda, Miguel Ángel</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>En este trabajo proponemos una aplicación para plataformas móviles capaz de realizar la proyección de una imagen virtual sobre un entorno real de forma consistente a lo largo de un periodo de tiempo más o menos prolongado. Se realiza una detección del entorno para seleccionar la superficie de proyección de la imagen y, a lo largo de la duración de toda la observación, se mantiene la proyección de forma estable sobre ella. En el escenario seleccionado confluyen diferentes elementos adversos que dificultan las tareas de detección y seguimiento, como son cambios de iluminación, escala, giros y movimientos de la cámara y oclusiones por lo que hemos diseñado nuestro sistema para que sea capaz de gestionar todos estos distractores propios de ciertos escenarios adversos. Adicionalmente, se propone un sistema de reinicialización para aquellos casos en los que los distractores hagan imposible el seguimiento de la superficie y una proyección consistente.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/13536</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/13536/files/TAZ-PFC-2014-135.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>realidad aumentada</dc:subject>
+    <dc:subject>seguimiento de objetos</dc:subject>
+    <dc:subject>extracción de características</dc:subject>
+    <dc:subject>tiempo real</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Sistema de realidad aumentada en entornos reales adversos</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

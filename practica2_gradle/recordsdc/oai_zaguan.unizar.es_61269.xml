@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bayod Rújula, Ángel Antonio</dc:contributor>
+    <dc:creator>Izquierdo García, Miguel</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>En el presente Trabajo de Fin de Grado se ha analizado una de las formas de gestión y autoconsumo más innovadoras. El objeto de estudio ha sido analizar la operación de una microrred eléctrica, en la que participarán diferentes usuarios de consumo, generación con fuentes renovables y almacenamiento en baterías, todo ello conectado a la red eléctrica principal en un único punto. Se ha llevado a cabo la implementación de un programa que calcule la microrred y además una programación de la batería de forma que sean cuales sean los datos de generación y consumo en ese instante, la batería se cargue o descargue en función de ellos. Es decir, siempre que la batería esté por encima del 20% de estado de carga (SOC) y se demande energía, la batería aportará esta energía en lugar de que sea aportada por la red. O en otras palabras, solo se demandará energía eléctrica de la red principal cuando ni la generación ni las baterías puedan aportar la energía demandada por las cargas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61269</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61269/files/TAZ-TFG-2016-2110.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Estudio de una microrred eléctrica y análisis de su interacción con la red principal</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Study of a microgrid and analysis of its interaction with the main network</dc:title>
+</oai_dc:dc>

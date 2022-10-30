@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Medina Trullenque, María Milagros</dc:contributor>
+    <dc:contributor>Polo Ortiz, Victoriano</dc:contributor>
+    <dc:creator>Pelegrín Costea, Jonás</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>Xanthomonas axonopodis pv. citri es una bacteria responsable del cáncer de cítricos, una enfermedad que afecta a la calidad de estos. El genoma de este patógeno contiene el gen que codifica la enzima Flavodoxina-NADPH Reductasa (XacFPR), perteneciente a la familia de la Flavodoxina-NADPH Reductasa (FNR). A su vez, la XacFPR se clasifica en la subclase Ia de las FPRs, caracterizada por presentar una alanina enfrentada a la isoaloxacina del cofactor FAD de la proteína y una extensión más corta del dominio C-terminal con respecto a las FPRs de la subclase Ib.  XacFPR está involucrada en la respuesta a estrés oxidativo inducida por la planta para combatir al patógeno, por lo que la inhibición de su actividad puede ser un aspecto clave para frenar la supervivencia del patógeno. Por ello resulta de interés identificar cómo los posibles inhibidores interaccionarían con la XacFPR. Sin embargo, teniendo en cuenta que hasta la fecha no existen modelos tridimensionales que representen la interacción de XacFPR con su sustrato, el coenzima NADPH, se hace necesario entender como dicho sustrato se une a esta enzima.  El objetivo que se planteó en el presente trabajo fue utilizar herramientas computacionales para simular la interacción de los componentes nucleotídicos del coenzima NADPH con XacFPR. Para ello realizamos el acoplamiento molecular entre la proteína y fragmentos del sustrato. Esta aproximación permite evaluar la energía de interacción entre distintas posiciones relativas de las dos moléculas, para así obtener aquella o aquellas posiciones más favorables.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/59121</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Bioquímica y Biología Molecular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/59121/files/TAZ-TFG-2016-2228.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Química</dc:subject>
+    <dc:title>Simulación computacional para la predicción de acoplamiento enzima-inhibidor: identificación del sitio de unión de inhibidores de flavoenzimas esencenciales en patógenos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Computational simulation for the prediction of an enzyme-inhibitor docking: identification of the binding site of  inhibitors of essentials pathogenic flavoenzymes</dc:title>
+</oai_dc:dc>

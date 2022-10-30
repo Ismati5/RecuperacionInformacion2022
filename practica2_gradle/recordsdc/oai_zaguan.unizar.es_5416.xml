@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Martín Yagüe, Jesús</dc:contributor>
+    <dc:creator>Cifuentes Rubio, Luis Hernando</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>El presente trabajo comienza con un capítulo introductorio donde se expone brevemente el contexto que motiva la investigación, los antecedentes en turbulencia, los objetivos y estructura del trabajo. Posteriormente se describe la dinámica del flujo turbulento no reactivo, formulándose las ecuaciones de transporte del gradiente de velocidad en turbulencia homogénea e incompresible.  Se detallan las condiciones de homogeneidad e isotropía que se suponen en el estudio y se analiza el significado físico del tensor gradiente de velocidad y el papel que desempeña en la dinámica de líneas, superficies, volúmenes fluidos y evolución en un campo escalar. Se plantea el problema de la evolución del sistema conjunto gradiente de velocidad - gradiente del escalar en la mezcla escalar turbulenta y se afronta éste por medio del método de la función densidad de probabilidad. El cierre del problema planteado se lleva a cabo con un modelo isótropo para la presión, una estimación lineal (LMSE) modificada para el término difusivo del gradiente de velocidad, la cual contiene una parte aleatoria para darle variabilidad al término y otra parte no lineal en función del gradiente de velocidad inicial e instantáneo que asegura la convergencia del sistema, y una estimación lineal para el término difusivo del gradiente del escalar. Se analiza la solución numérica de los métodos para la evolución del sistema conjunto gradiente de velocidad - gradiente del escalar, teniendo en cuenta los errores tanto globales como locales, la exactitud y estabilidad. Cada sistema se resuelve mediante un método numérico de Runge - Kutta de segundo orden. Se implementa una modelización Montecarlo para la evolución de una distribución de sistemas de gradientes, la cual reproduce numerosas características de la estadística de las pequeñas escalas, como la intermitencia en las funciones densidad de probabilidad de los tensores, así como para las magnitudes dependientes de las mismas. La estadística del campo final se analiza y se valida con resultados conocidos de LMSE, DNS y experimentales. Finalmente se presentan las conclusiones del trabajo de forma compacta en un capítulo final.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5416</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5416/files/TAZ-TFM-2010-083_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5416/files/TAZ-TFM-2010-083.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Turbulencia homogénea isotropa</dc:subject>
+    <dc:subject>Gradiente de velocidad</dc:subject>
+    <dc:subject>Gradiente de un escalar</dc:subject>
+    <dc:subject>Difusión</dc:subject>
+    <dc:subject>Métodos Montecarlo</dc:subject>
+    <dc:subject>Simulación Numérica Directa</dc:subject>
+    <dc:subject>Máster Universitario en Mecánica Aplicada</dc:subject>
+    <dc:title>Análisis de modelos sencillos para los términos difusivos del sistema conjunto gradiente de velocidad - gradiente de un escalar en mezcla escalar turbulenta mediante simulaciones Montecarlo</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

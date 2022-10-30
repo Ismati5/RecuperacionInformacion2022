@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Fernández Álvarez, Francisco José </dc:contributor>
+    <dc:creator>Berdonces Layunta, Alejandro</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>En los últimos cinco años, el conocimiento sobre los procesos de hidrosililación catalítica de CO2 se ha desarrollado significativamente. La contribución de nuestro equipo de investigación a dicho campo se ha centrado en el diseño de sistemas catalíticos basados en complejos de iridio con ligandos monoanionicos tridentados del tipo NSiN. En particular, el complejo [Ir(H)(RFCO2)(NSiN)(coe)] (1) (coe = cis-cicloocteno; NSiN = fac-bis(4-metilpiridin-2-iloxi)metilsililo; RFCO2 = CF3(CF2)2CO2, heptafluorobutirato) ha demostrado ser un precursor catalítico de gran actividad y selectividad en procesos de hidrosililación de CO2. En el presente trabajo, se han estudiado procesos de hidrosililación de CO2 catalizados por el compuesto 1, en los que el silano contiene sustituyentes con grupos NMe2. En primer lugar, se realizó la síntesis y caracterización de dos nuevos silanos, HSiMe2(C6H5NMe2) y HSiMe(C6H5NMe2)2. A continuación, se realizaron estudios, mediante RMN de 1H y 13C, de la reacción de dichos silanos con CO2 (y 13CO2) en presencia del compuesto 1 como precursor catalítico. Se ha observado que la naturaleza del silano tiene un clara influencia sobre la actividad y selectividad en este tipo de procesos, siendo el compuesto HSiMe2(C6H5NMe2) mucho más activo que la especie HSiMe(C6H5NMe2)2. Además, se ha podido concluir que la presencia del grupo amino inhibe la reactividad del silano resultante en comparación con lo observado para HSiMe2Ph y favorece procesos de hidrólisis.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64148</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Inorgánica; Área de Química Inorgánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64148/files/TAZ-TFG-2017-3039.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Química</dc:subject>
+    <dc:title>Síntesis de hidrosilanos funcionalizados.  Estudio de su actividad en hidrosililación de CO2 </dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Synthesis of functionalized hydrosilanes. Study of their activity in CO2 hydrosilylation</dc:title>
+</oai_dc:dc>

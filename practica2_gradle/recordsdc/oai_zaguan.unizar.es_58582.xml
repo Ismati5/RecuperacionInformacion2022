@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ollero Ojeda, Alfredo</dc:contributor>
+    <dc:creator>Adrover Galmés, Javier</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>El objetivo de este documento versa en obtener una valoración de la vulnerabilidad por inunda-ciones en la cuenca baja del río Iregua. Se han analizado diferentes fechas temporales para darle rango de proceso evolutivo minutas cartográficas, Vuelo Americano (serie B) 1956/57, vuelo 1998 (parcial) y PNOA (2014). Para determinar el estado de vulnerabilidad se han usado proce-dimientos de SIG como de teledetección que a su vez se han utilizado como procedimiento único para la estimación de la vulnerabilidad. Los resultados indican que ha habido un aumento de la exposición y una falsa seguridad arraigada le ha dado a la cuenca baja del Iregua un estado alto de vulnerabilidad antes inundaciones.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/58582</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/58582/files/TAZ-TFM-2016-1185.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Tecnologías de la Información Geográfica para la Ordenación del Territorio: Sistemas de Información Geográfica y Teledetección</dc:subject>
+    <dc:title>VALORACIÓN DEL FACTOR VULNERABILIDAD POR INUNDACION EN EL BAJO IREGUA (LA RIOJA). DESARROLLO, USO Y APLICACIÓN DE TÉCNICAS SIG Y TELEDETECCIÓN PARA SU ESTIMACIÓN.</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">ASSESSMENT VULNERABILITY FACTOR BY FLOODING IN THE BASIN LOW OF THE IREGUA RIVER (LA RIOJA). DEVELOPMENT, USE AND APPLICATION OF TECH-NIQUES TO ESTIMATE IT BY GIS AND REMOTE SENSING</dc:title>
+</oai_dc:dc>

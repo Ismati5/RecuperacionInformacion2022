@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Rodríguez Fernández, Ricardo Julio</dc:contributor>
+    <dc:creator>Sánchez Ballabriga, Víctor</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>Este proyecto realiza una investigación sobre las medidas de seguridad implementadas en la nueva interfaz NFC de la última versión del Documento Nacional de Identidad (DNIe3.0) para detectar así posibles vulnerabilidades. En concreto, se estudian los protocolos de conexión con esta interfaz NFC, desarrollando pruebas de concepto. De este modo, se han detectado las fortalezas de los mecanismos de seguridad implantados, como el generador de números pseudoaleatorios perfectamente uniforme, o la seguridad en las comunicaciones, bien cifradas en todo momento. Existe, sin embargo, una vulnerabilidad explotable: la ausencia de defensas contra ataques de fuerza bruta.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61214</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61214/files/TAZ-TFG-2016-2895.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>Análisis de la resistencia del DNIe3.0 ante el robo de identidad mediante tecnología NFC</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Security analysis of DNIe3.0 against NFC-based identity theft</dc:title>
+</oai_dc:dc>

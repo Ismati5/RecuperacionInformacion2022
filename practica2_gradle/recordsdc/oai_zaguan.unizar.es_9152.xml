@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Navarro, Pilar</dc:contributor>
+    <dc:creator>Fernández Pato, Javier</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>La simulación numérica de flujos de agua en sistemas de drenaje urbano es uno de los ámbitos en donde se pone de manifiesto la necesidad de combinar flujos en lámina libre a presión atmosférica con situaciones en las que el conducto se encuentra presurizado, tanto en régimen estacionario como transitorio. Las ecuaciones que gobiernan los dos tipos de flujo son diferentes, por lo tanto, es necesario tener en cuenta el cambio lámina libre/presión a la hora de programar un modelo numérico completo que sea capaz de resolver transitorios independientemente de la región de trabajo. En este trabajo se desarrolla un modelo de simulación numérica capaz de resolver redes de tuberías cuyo régimen mayoritario de funcionamiento sea el de lámina libre, pero que se puedan ver presurizadas ante situaciones puntuales. Para ello, se propone adaptar la formulación matemática a través del método de la rendija de Preissmann, mediante en cuál se consigue una estimación razonable de la presión del agua en el conducto. El método numérico empleado se basa en el esquema de Roe de primer orden, enmarcado dentro de la familia de los métodos de volúmenes finitos. Se trata de un método adaptado a las situaciones transitorias bruscas, capaz de trabajar en régimen subcrítico, supercrítico y mixto. Para su validación, se han resuelto varios casos con solución analítica o datos empíricos correspondientes a experimentos de laboratorio. Mediante la aplicación a casos más complejos, como confluencias o redes de tuberías, se ha evaluado la sensibilidad del método a los cambios de régimen en este tipo de situaciones más realistas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9152</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9152/files/TAZ-TFM-2012-855_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/9152/files/TAZ-TFM-2012-855.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>flujo en lámina libre</dc:subject>
+    <dc:subject>shallow water</dc:subject>
+    <dc:subject>presurización</dc:subject>
+    <dc:subject>water hammer</dc:subject>
+    <dc:subject>rendija de preissmann</dc:subject>
+    <dc:subject>transitorios</dc:subject>
+    <dc:subject>estacionarios</dc:subject>
+    <dc:subject>volúmenes finitos</dc:subject>
+    <dc:subject>esquema de roe</dc:subject>
+    <dc:subject>upwind</dc:subject>
+    <dc:subject>Máster Universitario en Mecánica Aplicada</dc:subject>
+    <dc:title>Modelo de redes de flujo con transición dinámica de régimen lámina libre/presión</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

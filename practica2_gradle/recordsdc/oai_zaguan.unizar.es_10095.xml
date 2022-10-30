@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Agustín Berné, Miguel Ángel</dc:contributor>
+    <dc:contributor>Valdovinos Bardají, Antonio</dc:contributor>
+    <dc:creator>Ruber Royo, Alexandra</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El objeto principal de este proyecto es el desarrollo e implementación de un sistema de localización e identificación basado en la tecnología RFID con el fin de mejorar la seguridad en un centro de  educación infantil. En particular se ha llevado a cabo un análisis de las diferentes tecnologías para la identificación y transmisión de los datos en interiores como RFID, WIFI, etc. teniendo en cuenta las ventajas e inconvenientes de cada una y, posteriormente, un estudio del estado del arte de los dispositivos de localización basados en RFID.Tambien se ha diseñado la arquitectura de red necesaria para el sistema de localización basada en una relación TCP cliente-servidor y ,por último, se ha realizado el desarrollo e implementación de una aplicación que procesa todos los datos captados por los lectores y los traduce de manera gráfica sobre un mapa del recinto con el fin de que el personal del centro sea capaz de ubicar de un solo vistazo a los alumnos y reaccionar con prontitud ante algún tipo de incidencia</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10095</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingeniería Telemática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10095/files/TAZ-PFC-2013-050.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/10095/files/TAZ-PFC-2013-050_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>rfid</dc:subject>
+    <dc:subject>localización en interiores</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicación</dc:subject>
+    <dc:title>Implementación y desarrollo de un sistema de localización en interiores mediante RFID</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

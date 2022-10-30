@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Salvador Figueras, Manuel</dc:contributor>
+    <dc:contributor>Alcalá Nalvaiz, José Tomás</dc:contributor>
+    <dc:creator>Ortega Palacios, Inés</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>En este trabajo se realiza en primer lugar una presentación del concepto del Valor de Riesgo. Seguidamente, se presentan modelos clásicos para la estimación del Valor de Riesgo: Histórico, Delta, GARCH y distribuciones de Valores Extremos. Después, se introduce el concepto de regresión cuantil y se explican los principales resultados de esta teoría y estimaciones de parámetros. Se presenta el modelo CAViaR de estimación del Valor de Riesgo utilizando métodos de regresión cuantil. Finalmente, se aplican estos modelos a series económicas de retornos de tres empresas pertenecientes al IBEX 35 y el cambio de divisa Euro-Dolar. El software estadístico especializado, R, es el programa utilizado para estimar el Valor de Riesgo temporal en cada una de las series.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76268</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Métodos Estadísticos; Área de Estadística e Investigación Operativa</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76268/files/TAZ-TFM-2018-706.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Modelización e Investigación Matemática, Estadística y Computación</dc:subject>
+    <dc:title>Regresión cuantil aplicada a la estimación del Valor de Riesgo. Una aplicación al mercado español</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Quantile regression applied to the estimation of Value at Risk. An application to the Spanish market</dc:title>
+</oai_dc:dc>

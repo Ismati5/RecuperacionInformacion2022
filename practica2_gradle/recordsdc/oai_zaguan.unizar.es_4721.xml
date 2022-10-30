@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Uriel Rubio, Santiago</dc:contributor>
+    <dc:creator>Gaspar Lasanta, Blanca</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El presente proyecto final de carrera se desarrolla en el ámbito de la Química Supramolecular y tiene como principal objetivo estudiar la capacidad de los enlaces de halógeno y coordinación en la formación de interacciones moleculares para dar lugar a estructuras cristalinas supramoleculares. Respecto de los enlaces de halógeno se ha escogido como componente estructural el 1,4-bis(yodoetinil)benceno (compuesto 1) por su simetría, rigidez, linealidad y carácter electrófilo del yodo, debido al triple enlace al que está unido (Csp-I). La síntesis del compuesto 1 se ha llevado a cabo por reacción del 1,4-dietinilbenceno con N-yodosuccinimida, en presencia de AgNO3 y en acetona seca. Dicho compuesto se ha obtenido con un rendimiento del 84%. Esto ha significado una mejora notable tanto en las condiciones de reacción como en el rendimiento, respecto a lo descrito previamente en la bibliografía (38%). Se han realizado numerosos ensayos de cocristalización del 1,4-bis(yodoetinil)benceno con diversos compuestos con nitrógeno y cetonas. A partir de dichos ensayos se han obtenido monocristales del compuesto 1 y del agregado 1,4-bis(yodoetinil)benceno-hexametilentetraamina. La resolución de las estructuras cristalinas puso de manifiesto la formación de enlaces de halógeno. En el caso de la estructura del monocristal, la distancia Csp-I···N es de 2,853 Å, muy similar a las encontradas en estructuras del 1-4-diyodoperfluorobenceno. Este building block difícil de modificar, ha sido muy empleado para la formación de estructuras supramoleculares. Por otra parte, se han realizado experimentos de síntesis solvotermal in situ, para la obtención de compuestos de coordinación triazol-CuI. El derivado de triazol se sintetiza en el medio de reacción partiendo de 4-bromobenzonitrilo, NH3 y una sal de CuII. Una vez formado el triazol, en dicho medio, puede coordinarse al cobre reducido (CuI) en el transcurso de la reacción y cristalizar con control termodinámico. Los espectros de IR y RMN de las mezclas de reacción no han permitido determinar con precisión la obtención de los complejos deseados, por lo que es necesario investigar más en profundidad sobre el empleo de este tipo de síntesis.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4721</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Orgánica y Química Física; Área de Química Orgánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4721/files/TAZ-PFC-2010-071_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/4721/files/TAZ-PFC-2010-071.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>química supramolecular</dc:subject>
+    <dc:subject>ingeniería cristalina</dc:subject>
+    <dc:subject>síntesis solvotermal</dc:subject>
+    <dc:subject>materiales porosos</dc:subject>
+    <dc:subject>1-Yodoalquinos</dc:subject>
+    <dc:subject>Ingeniero Químico</dc:subject>
+    <dc:title>Preparación de materiales porosos mediante interacciones del tipo Csp-I···N y enlaces de coordinación</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

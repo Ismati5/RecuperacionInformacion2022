@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Álvarez Pérez-Aradros, Pedro</dc:contributor>
+    <dc:creator>Gimeno Caudepón, Luis Miguel</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Este Proyecto Fin de Carrera comprende el análisis, diseño e implementación de un sistema accesible vía Web que facilite el control y la previsión del coste temporal de la realización de una amplia variedad de tipos de proyectos. Dada la naturaleza de cualquier proyecto software es complicado prever con antelación el tiempo necesario para su realización. En algunos casos, puede ser la causa para que no se cumpla con la fecha de entrega, con la posible pérdida de confianza por parte del cliente. El sistema da acceso a los gestores y a los participantes en los proyectos. Un gestor puede configurar un proyecto y añadirle tareas y participantes. También puede configurar alarmas que permitan avisarle, tanto a él como a los participantes, de que el tiempo previsto para la realización de una tarea del proyecto ha sido superado. Además podrá generar informes de la dedicación de los proyectos que gestione. Por otro lado, un participante en un proyecto podrá introducir su dedicación diaria realizada a cada una de las tareas del proyecto en el que participe. También podrá ver las alarmas que el gestor haya configurado, así como crear informes de la dedicación que ha realizado en los proyectos. El sistema está compuesto por dos aplicaciones: Una aplicación Web que permitirá a los gestores configurar los proyectos y los participantes. Una aplicación Portlet que permitirá a los participantes en los proyectos introducir su dedicación diaria. La tecnología de Portlet permite crear aplicaciones que se integran fácilmente en un portal Web. Un gestor de un proyecto podrá añadir esta aplicación en su página Web para facilitar el acceso a los participantes.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12034</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12034/files/TAZ-PFC-2013-504.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>gestión de proyectos</dc:subject>
+    <dc:subject>control de dedicación</dc:subject>
+    <dc:subject>aplicaciones web</dc:subject>
+    <dc:subject>tecnología de portlets</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Diseño y desarrollo de un sistema de control de la dedicación basado en tecnología de Portlets</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

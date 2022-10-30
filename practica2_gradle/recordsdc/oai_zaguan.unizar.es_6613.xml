@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sánchez Chumillas, Manuel</dc:contributor>
+    <dc:contributor>Alesanco Iglesias, Álvaro</dc:contributor>
+    <dc:creator>Checa Betegón, Javier</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>La información ha jugado siempre un papel fundamental a todos los niveles y en concreto para el empresarial: datos de empleados, de clientes, de facturación, etc. Hoy en día esta importancia sigue vigente y, con el desarrollo de las nuevas tecnologías, aparecen nuevas amenazas de fuga o pérdida de esta información: ataques malintencionados por medio de virus o troyanos, dispositivos de almacenamiento masivo con datos sensibles sin protección o datos relevantes cedidos de manera involuntaria a través de otros archivos son sólo algunos ejemplos. La metainformación, o información de la información, que de un documento podría entenderse como el nombre del autor o el programa con el que fue editado, puede resultar útil a la hora de clasificarlo y buscarlo, por ejemplo. Actualmente la mayoría de los archivos que se crean llevan algún tipo de metadato asociado desde el primer momento, lo que puede suponer un problema si no se tiene un control sobre ello, pues, al compartir un documento, se puede, además, facilitar información no deseada. Esto hace referencia a la tercera amenaza mencionada anteriormente. Este PFC, a la vista de este problema y teniendo en cuenta que iPhone, el smartphone de Apple, es uno de los teléfonos más extendidos en este ámbito, desarrolla una aplicación con la que poder extraer los metadatos almacenados en distintos tipos de fichero para obtener un mayor control sobre lo que se comparte.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6613</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingeniería Telemática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6613/files/TAZ-PFC-2011-663.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>seguridad</dc:subject>
+    <dc:subject>smartphone</dc:subject>
+    <dc:subject>iphone</dc:subject>
+    <dc:subject>metainformación</dc:subject>
+    <dc:subject>metadatos</dc:subject>
+    <dc:subject>aplicación</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Desarrollo de una aplicación para la extracción y análisis de metainformación en dispositivos iPhone</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

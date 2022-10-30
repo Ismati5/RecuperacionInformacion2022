@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Pardo Jimeno, Julián</dc:contributor>
+    <dc:contributor>Santiago García, Llipsy</dc:contributor>
+    <dc:creator>Navarro Domínguez, Mario</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>La perpetuación de la respuesta inflamatoria conduce a la aparición de procesos patológicos, entre los que se incluyen el cáncer y trastornos autoinmunes. Recientemente se ha descrito que la granzima A (gzmA), una serín-proteasa expresada en los gránulos de linfocitos T citotóxicos (T CD8+) y células Natural Killer (NK), tiene un papel eminentemente pro-inflamatorio, regulando la producción de las citoquinas pro-inflamatorias IL-1, IL-6 y TNFα en macrófagos y otros grupos celulares. Se ha demostrado que la gzmA juega un papel fundamental en procesos inflamatorios como artritis reumatoide, sepsis bacteriana, colitis ulcerosa y cáncer colorrectal. Además, se ha comprobado que su ausencia no produce efectos inmunosupresores. Es por esto que la búsqueda de posibles inhibidores de gzmA es de gran interés, con el fin de desarrollar nuevos tratamientos que atenuen selectivamente la inflamación sin provocar inmunosupresión. En este trabajo, se ha realizado un cribado de compuestos químicos con el fin de identificar posibles inhibidores de gzmA, utilizando distintas librerías de compuestos químicos. Para ello, se llevó a cabo la sobreexpresión y purificación de gzmA recombinante de ratón en un sistema de expresión en Escherichia coli. Con la gzmA obtenida, se realizaron ensayos de inhibición con un total de 533 compuestos químicos diferentes. Los compuestos que inhibieron in vitro la la actividad enzimática de gzmA, fueron seleccionados para evaluar si eran capaces de reducir la producción de IL-6 inducida por gzmA en macrófagos. Únicamente 2 compuestos pudieron ser seleccionados como posibles inhibidores, pero finalmente ninguno mostró capacidad de inhibir la producción de IL-6 mediada por gzmA en macrófagos.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87442</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Microbiología, Medicina Preventiva y Salud Pública; Área de Inmunología</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87442/files/TAZ-TFG-2019-2638.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Biotecnología</dc:subject>
+    <dc:title>Identificación de inhibidores de la proteasa pro-inflamatoria granzima A mediante cribado de librerías de compuestos químicos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Identification of inhibitors of the pro-inflammatory protease granzyme A through the screening of chemical compounds sets</dc:title>
+</oai_dc:dc>

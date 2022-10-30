@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bodin, Ulf</dc:contributor>
+    <dc:contributor>Ilarri Artigas, Sergio</dc:contributor>
+    <dc:creator>Sánchez Cuenca, Luis Javier</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>La tecnología inalámbrica Mesh es una de las tecnologías que van a jugar un importante papel dentro de las redes de comunicaciones inalámbricas en la próxima década. Con el uso de esta tecnología será posible llevar a cabo un sueño dentro de las redes de comunicaciones: poder conectarse a la red desde cualquier sitio a cualquier hora muy fácilmente y con un coste muy bajo. Las mejoras que ofrece este tipo de tecnología son debido a la capacidad de auto organización de la que dispone, ya que reduce significativamente la complejidad y el mantenimiento de la red, lo que repercute en que la inversión a realizar es mínima. El objetivo principal de este proyecto es la creación de una Red Inalámbrica Mesh (WMN, Wireless Mesh Network) basada en el proyecto Open80211s, que sirva como banco de pruebas para analizar el rendimiento y comportamiento de esta nueva tecnología. Este Proyecto Fin de Carrera ha sido realizado en la Universidad Tecnológica de Luleå dentro de su Grupo de Investigación de Redes de Comunicación, con el propósito de avanzar en el desarrollo e implantación de esta tecnología emergente. Los objetivos de este proyecto son construir y verificar dos paquetes de instalación para evaluar diferentes topologías de una Red Inalámbrica Mesh basada en el protocolo 802.11s. El primer paquete de instalación será desarrollado bajo el sistema operativo Ubuntu-Linux, utilizando la implementación del proyecto open80211s, y el segundo será desarrollado en el simulador de redes NS-3. La evaluación incluye pruebas de calidad y rendimiento de la red para diferentes topologías y tráfico de datos, comparando los resultados obtenidos en ambos sistemas. Con la realización de este proyecto obtenemos dos sistemas en los que se puede analizar la tecnología inalámbrica Mesh. Por un lado, tenemos un sistema real donde podemos analizar la red bajo condiciones reales y por otra parte tenemos un sistema donde podemos simular la red con las mismas condiciones que en la realidad. Se han podido comparar los resultados y se ha determinado que se ajustan a la realidad, pero con algunos matices a la hora de implementar las interferencias del medio. Con los resultados obtenidos podemos modificar, mejorar y ampliar las implementaciones utilizadas obteniendo un sistema más eficaz y robusto.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4881</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4881/files/TAZ-PFC-2010-095.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>wireless mesh network</dc:subject>
+    <dc:subject>wmn</dc:subject>
+    <dc:subject>802.11s</dc:subject>
+    <dc:subject>red inálambrica mesh</dc:subject>
+    <dc:subject>open80211s</dc:subject>
+    <dc:subject>ubuntu</dc:subject>
+    <dc:subject>simulador ns-3</dc:subject>
+    <dc:subject>banco de pruebas</dc:subject>
+    <dc:subject>test-bed</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Banco de pruebas de una red inalámbrica Mesh basada en el protocolo IEEE 802.11s</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Vogt, Steffen</dc:contributor>
+    <dc:contributor>Larrodé Pellicer, Emilio</dc:contributor>
+    <dc:creator>Rodríguez Joven, Inés</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>En este proyecto se propone un método de simulación del conjunto pantógrafo-catenaria. Para ello se ha contado con las herramientas informáticas Hypermesh 10.0, MSC.Nastran 2008 r1 y SIMPACK 8904.  A la hora de diseñar los modelos individulaes de pantógrafo y catenaria se ha consultado en la literatura la evolución de los diferentes modelos matemáticos y de simulación informática desarrollados hasta la actualidad. Se han tenido en cuenta no sólo las características de ambos sistemas por separado, sino también el comportamiento dinámico del conjunto cuando el pantógrafo se desplaza a lo largo de la catenaria. Además, se han utilizado datos de medidas en un banco de pruebas y en vía, además de simulaciones anteriores, para la construcción y validación del proceso propuesto. El modelo de pantógrafo se corresponde con el método de la simulación multicuerpo y el de la catenaria con el método de elementos finitos. Se han definido modelos de pantógrafo y de catenaria generales que pueden ser usados para cualquier tipo de pantógrafo asimétrico y catenaria convencional. En el primero se necesita únicamente calcular los nuevos parámetros de la función de transferencia del nuevo pantógrafo y cambiar el archivo de entrada que contiene todos los valores de los parámetros del modelo. En el caso de la catenaria debería rehacerse el modelo con la nueva geometría y propiedades pero siempre siguiendo un mismo proceso. La idea del método para el cálculo de la interacción dinámica de ambos es realizar la reducción modal del modelo de elementos finitos de la catenaria para crear un cuerpo flexible a partir de dicho modelo reducido. Este cuerpo flexible debe ser implementado en el modelo multicuerpo del pantógrafo en SIMPACK para poder realizar el análisis dinámico del conjunto. Dicho método se halla explicado teóricamente así como los pasos a seguir en la práctica. Sin embargo, el programa informático presenta una serie de limitaciones para este proceso que hacen que resulte inadecuado para la correcta simulación de líneas aéreas de contacto de gran longitud. Por último se proponen otras líneas de investigación con las que superar estas limitaciones.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8988</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería e Infraestructura de los Transportes</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8988/files/TAZ-PFC-2012-632.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>pantógrafo</dc:subject>
+    <dc:subject>catenaria</dc:subject>
+    <dc:subject>simulación elementos finitos (hypermesh/nastran)</dc:subject>
+    <dc:subject>simulación multicuerpo (simpack/fembs)</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Modelización y simulación del sistema catenaria-pantógrafo</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

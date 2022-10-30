@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mahulea, Cristian</dc:contributor>
+    <dc:contributor>Silva Suárez, Manuel</dc:contributor>
+    <dc:creator>Wang, Xu</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Este trabajo propone un algoritmo para la estimación de estados "online" de redes de Petri temporizadas (timed Petri nets) sin conflicto (del tipo "choice-free"). Además, proporciona algunas ideas sobre cómo el procedimiento puede ser adaptado a una particular clase de sistemas distribuidos. En primer lugar, se presenta un algoritmo para calcular el conjunto de marcados consistentes, y a continuación la información temporal se agrupa en un conjunto de ecuaciones temporales, el cual se emplea para la reducción del conjunto de marcados consistentes. También se presentan algunas reglas de reducción, las cuales pueden ser empleadas tambén para la reducción del espacio de estados de los sistemas temporizados, realizando la fusión de las transiciones indistinguibles. En segundo lugar, se discute el caso general, las redes con conflicto (que no son "choice-free").  Por último, un ejemplo ilustra cómo adaptar este método a sistemas distribuidos. La comunicación para llevar a cabo la estimación de estados se realiza mediante "agentes" de sistemas distribuidos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6508</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6508/files/TAZ-TFM-2011-083.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>estimación de estados</dc:subject>
+    <dc:subject>redes de petri temporizadas</dc:subject>
+    <dc:subject>sistemas de eventos discretos</dc:subject>
+    <dc:subject>observabilidad</dc:subject>
+    <dc:subject>Máster Universitario en Ingeniería de Sistemas e Informática</dc:subject>
+    <dc:title>Estimación de estados en redes de Petri temporizadas</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

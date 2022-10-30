@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Dafni, Theopisti</dc:contributor>
+    <dc:creator>Garcés Pérez, Juan José</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>Este trabajo pretende realizar un acercamiento al uso general de detectores de tipo MICROMEGAS así como al análisis de datos necesario a posteriori. Para ello, se realizan una serie de tests en distintas e innovadoras condiciones que nos permitirán conocer el comportamiento de nuevos componentes de la toma de datos. Se estudiará el funcionamiento de este tipo de detectores en una atmósfera de xenón-isobutano, un gas que no había sido utilizado para el propósito de detectar sucesos en una TPC y se comprobará su validez como mezcla activa en el volumen de detección, con vista a su posible utilización en experimentos de primer nivel. Asimismo, se trabajará con una nueva tecnología dentro del campo de las MICROMEGAS, como son los detectores que incorporan un elemento resistivo para mejorar sus prestaciones, realizando una caracterización completa y comparándola con otros prototipos actualmente más extendidos. Estos nuevos detectores potencian la resistividad entre la mesh y el ánodo de manera que es posible aplicar mayores campos al sistema de detección, clave para mejorar su ganancia y en consecuencia, los resultados que proporciona. Por último, se realizará un trabajo de análisis de datos, en el que se trabajará con RESTSoft, un software diseñado por la Universidad de Zaragoza, a cuya biblioteca se buscará añadir un método de calibración diseñado sobre el marco de NEXT-MM, pero con proyección para ser exportado a otros ámbitos. Para ello, la implementación será testada con datos obtenidos experimentalmente, para probar su validez y la calidad del algoritmo creado.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/36776</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Teórica; Área de Física Atómica, Molecular y Nuclear</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/36776/files/TAZ-TFM-2015-1110.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Física y Tecnologías Físicas</dc:subject>
+    <dc:title>Análisis de datos adquiridos con una cámara de proyección temporal (TPC) y caracterización de nuevos planos de lectura MICROMEGAS</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Rebolledo Gajardo, Boris</dc:contributor>
+    <dc:contributor>Gil Martínez, Antonia</dc:contributor>
+    <dc:creator>Santolaria Capdevila, Carlos</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Una buena opción para el aprovechamiento energético y la reducción de emisiones de efecto invernadero de los residuos agropecuarios es el proceso de digestión anaerobia. Este proceso biológico degradativo (fermentativo), se lleva a cabo en un medio libre de oxígeno, en el cual gracias a la acción de varios grupos de microorganismos se logra la desintegración, transformación y estabilidad de la materia orgánica biodegradable. Como resultado final del desarrollo de este proceso se obtiene un gas combustible que recibe el nombre de biogás  por el hecho de producirse mediante un proceso biológico. El biogás es una mezcla gaseosa formada, principalmente, por metano y dióxido de carbono y pequeñas proporciones de otros gases. La aplicación del proceso de digestión anaeróbica al tratamiento de purines de cerdos está limitada por su baja relación C/N, bajo contenido en materia orgánica, alto contenido en nitrógeno amoniacal y agua. Estas limitaciones pueden ser superadas mediante la digestión conjunta (codigestión) con residuos agrícolas y de la industria agroalimentaria, con composiciones complementarias. La codigestión es la estrategia más eficaz para incrementar la producción de biogás al digerir purines porcinos. El objetivo del presente trabajo es la confección de un modelo semiempírico de codigestión anaeróbica para la estimación de la producción máxima de metano a partir de la mezcla óptima de cosustratos. Por ello, se realiza una exhaustiva revisión bibliográfica respecto al potencial bioquímico de metano de los distintos residuos biodegradables y de los purines porcinos para su transformación mediante codigestión anaeróbica en biogás. Para  la elección de los cosustratos se tienen en cuenta las características físico-químicas del sustrato como sólidos totales, sólidos volátiles, balance Carbono/Nitrógeno, etc. además de la composición de la materia orgánica y el análisis elemental de cada sustrato. Basándose en estos parámetros se ha desarrollado un modelo semiempírico que permite predecir el potencial bioquímico de metano.  Con base en los resultados obtenidos en este estudio, se puede inferir que es factible la producción de biogás con un alto contenido de metano a partir de la codigestión anaerobia de los residuos orgánicos seleccionados. Y es una buena opción la codigestión anaeróbica de purín porcino con otros cosustratos para aumentar la producción de metano. Los datos utilizados para el diseño de este modelo semiempírico y para la validación del modelo se han extraído de estudios experimentales e información obtenida en artículos científicos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/13372</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/13372/files/TAZ-PFC-2014-027.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/13372/files/TAZ-PFC-2014-027_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>digestión anaerobia</dc:subject>
+    <dc:subject>codigestión anaerobia</dc:subject>
+    <dc:subject>cosustratos</dc:subject>
+    <dc:subject>biogás</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Diseño de un modelo semiempírico de codigestión anaerobia</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

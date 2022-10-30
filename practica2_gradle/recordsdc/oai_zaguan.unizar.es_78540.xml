@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Fernández Navajas, Julián</dc:contributor>
+    <dc:creator>Parra Romero, Alberto</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Este TFG (Trabajo Fin de Grado) se ha fundamentado en el proyecto TISFIBE en el que trabajó el grupo CeNITEQ del i3a para añadir las nuevas funcionalidades de seguridad requeridas al proyecto ya desarrollado en GitHub. Para ello, se ha trabajado en un entorno virtualizado con un escenario de red montado, sobre el cuál se han realizado pruebas para testear el funcionamiento correcto del código añadido. El proyecto tiene como base los protocolos LISP y Simplemux, que surgieron como posibles soluciones a problemas actuales como la escalabilidad y la movilidad en la arquitectura IP, en el caso de LISP; y a la búsqueda de una mejora de eficiencia en situaciones en las cuáles el overhead de las cabeceras tenga mucho impacto sobre la comunicación establecida, en el caso de Simplemux. Con la sinergia (LISP-SM) de ambos protocolos se pretende mejorar la Calidad de Servicio (QoS) en entornos difíciles.  Debido a que la seguridad es un aspecto muy importante en las comunicaciones y una preocupación de los usuarios, se ha añadido la posibilidad de securización de los datos enviados a través del túnel LISP-SM en el entorno virtual. Debido al overhead que introduce la seguridad, se da la posibilidad al usuario de elegir entre tres modos diferentes descritos en la memoria. A lo largo de la memoria se describen las herramientas utilizadas, se realiza una descripción del código añadido y se presentan las pruebas a las que ha sido sometido el escenario. Se analizan los test realizados, explicando los encapsulados realizados para facilitar el entendimiento de la multiplexión. Se comprobará el funcionamiento dinámico de la comunicación, cambiando valores en su transcurso y analizando las implicaciones del uso de cada modo con diferentes valores de multiplexión. Finalmente se recogen todas las conclusiones  y posibles continuaciones de este TFG, así como se realiza la subida del código al repositorio de GitHub del proyecto inicial.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/78540</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingeniería Telemática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/78540/files/TAZ-TFG-2019-075_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/78540/files/TAZ-TFG-2019-075.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías y Servicios de Telecomunicación</dc:subject>
+    <dc:title>Configuración dinámica de túneles seguros LISP-SM</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Dynamic LISP-SM secure tunnels configuration</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bernal Ruiz, Carlos</dc:contributor>
+    <dc:creator>Soria de las Heras, Arturo</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>En este proyecto se realiza un estudio del rendimiento de los convertidores semipuente utilizados actualmente en las cocinas de inducción. Con los resultados obtenidos, se pretende dar solución a los importantes problemas de rendimiento que se dan en esta topología a medias y bajas potencias de operación. Dicha solución pasa por la utilización de redes resonantes hibridas: redes compuestas tanto por resonancias series como paralelas. El fin de dichas redes es el de modificar la forma de la impedancia de la carga y conseguir comportamientos distintos con factores de potencia próximos a la unidad.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12239</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12239/files/TAZ-PFC-2013-617.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>cocinas de inducción</dc:subject>
+    <dc:subject>redes resonantes híbridas</dc:subject>
+    <dc:subject>convertidor semipuente</dc:subject>
+    <dc:subject>convertidor hb</dc:subject>
+    <dc:subject>resonancia paralela</dc:subject>
+    <dc:subject>resonancia serie</dc:subject>
+    <dc:subject>redes de tercer orden</dc:subject>
+    <dc:subject>redes de cuarto orden</dc:subject>
+    <dc:subject>topología semipuente</dc:subject>
+    <dc:subject>topología hb</dc:subject>
+    <dc:subject>rendimiento semipuente</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electrónica Industrial)</dc:subject>
+    <dc:title>Aplicación de redes resonantes híbridas al calentamiento por inducción doméstica</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

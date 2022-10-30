@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Valdeón Vélez, Aitor</dc:contributor>
+    <dc:contributor>Serrano Notivoli, Roberto</dc:contributor>
+    <dc:creator>Cano Lucas, Silvia</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Los incendios forestales y el incremento de estos es uno de los problemas más frecuentes de la cuenca mediterránea, que se ha visto incrementado en las últimas décadas debido al éxodo rural y el abandono de tierras. En este trabajo se realiza un análisis del estrato de la vegetación del bosque mediterráneo, no desde una manera óptica, sino analizando la estructura interna del dosel vegetal, para realizar un análisis exhaustivo y poder generar información sobre los modelos de combustible dictados por Rothermel (1972) en el barranco de la Tagarina (Sella, Alicante). La información necesaria para la elaboración de la capa sobre modelos de combustible se ha obtenido del proyecto LiDAR – PNOA y se ha procesado a través del software FUSION, especializado en zonas forestales. Una vez se ha obtenido la información necesaria para trabajar con el modelo de combustible, se ha hecho uso del programa de simulaciones de incendio Flammap para conocer las variables principales que se darían en caso de repetirse el incendio ocurrido en 1995 y poder así tomar medidas para la prevención de incendios forestales.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87883</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87883/files/TAZ-TFM-2019-1246.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Tecnologías de la Información Geográfica para la Ordenación del Territorio: Sistemas de Información Geográfica y Teledetección</dc:subject>
+    <dc:title>Modelización de combustible y simulación de incendios en el barranco de Tagarina (Sella, Alicante).</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Fuel modeling and fire simulation in Tagarina's ravine (Sella, Alicante).</dc:title>
+</oai_dc:dc>

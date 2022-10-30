@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Navarro Elola, Luis</dc:contributor>
+    <dc:creator>Gutiérrez Gómez, Roberto</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>En este Proyecto Fin de Carrera se ha desarrollado una herramienta de evaluación de la adicción a Internet y al teléfono móvil en estudiantes de la Universidad de Zaragoza.  El objetivo es obtener unas conclusiones sobre las relaciones planteadas que permitan comprender de un mejor modo el problema de estas dos adicciones. Tras una exhaustiva revisión de la literatura se ha elaborado un modelo, tanto explicativo como predictivo, de estas adicciones y de los motivos de su uso. En este modelo se han planteado un total de doce hipótesis sobre las relaciones causales que se espera encontrar entre sus variables. Para el estudio de este modelo se ha empleado el Método de Ecuaciones Estructurales, concretamente la metodología PLS (Partial Least Squares), cuyas características hacen que sea la técnica idónea para el análisis requerido.  Una vez planteado el modelo se elaboró un cuestionario para medir todas las variables que se creyó necesario analizar. El cuestionario fue distribuido a estudiantes de la Universidad de Zaragoza tanto en bibliotecas como a través de Intenet para rellenar telemáticamente. Tras la recogida de datos se ha analizado la fiabilidad y validez de los mismos a través del programa informático SPSS (Statistical Product and Service Solutions). Con este software se han realizado los análisis de fiabilidad y los análisis factoriales precisos para garantizar la idoneidad de los datos. Se trata de un paso importante previo al estudio del modelo y las relaciones entre sus variables debido a que puede haber indicadores que sea preciso eliminar para no perturbar el estudio y de esta forma obtener unos resultados totalmente válidos. Posteriormente ha sido utilizado el software SmartPLS para llevar a cabo la estimación del modelo. Con este programa se ha ratificado nuevamente la validez y fiabilidad de los datos, para después analizar y contrastar las hipótesis propuestas en el modelo. Finalmente, con los resultados obtenidos se exponen las conclusiones de la investigación y se proponen posibles líneas de investigación para el futuro sobre ampliaciones de esta temática.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/16104</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Dirección y Organización de Empresas; Área de Organización de Empresas</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/16104/files/TAZ-PFC-2014-465.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/16104/files/TAZ-PFC-2014-465_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>adicción a internet, </dc:subject>
+    <dc:subject>adicción al teléfono móvil, </dc:subject>
+    <dc:subject>cuestionario de evaluación de adicción a internet, </dc:subject>
+    <dc:subject>método de ecuaciones estructurales.</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Diseño de un método de evaluación mediante el método de ecuaciones estructurales de la adicción a las nuevas tecnologías en estudiantes de la Universidad de Zaragoza</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

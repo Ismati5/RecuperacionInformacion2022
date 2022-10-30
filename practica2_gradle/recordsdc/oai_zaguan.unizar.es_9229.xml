@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Suárez Gracia, Darío</dc:contributor>
+    <dc:contributor>Alastruey Benedé, Jesús</dc:contributor>
+    <dc:creator>Ferrerón Labari, Alexandra</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Although multi-threading processors can increase the performance of embedded systems with a minimum overhead, fetching instructions from multiple threads each cycle also increases the pressure on the instruction cache, potentially harming the performance/consumption ratio. Instruction caches are responsible of a high percentage of the total energy consumption of the chip, which for battery-powered embedded devices becomes a critical issue. A direct way to reduce the energy consumption of the first level instruction cache is to decrease its size and associativity. However, demanding applications, and specially applications with several threads running together, might suffer a dramatic performance slow down, or even increase the total energy consumption of the cache hierarchy, due to the extra misses incurred. In this work we introduce iLP-NUCA (Instruction Light Power NUCA), a new instruction cache that replaces the conventional second level cache (L2) and improves the Energy–Delay of the system. We provided iLP-NUCA with a new tree-based transport network-in-cache that reduces both the cache line service latency and the energy consumption, regarding the former LP-NUCA implementation. We modeled in our cycle-accurate simulation environment both conventional instruction hierarchies and iLP-NUCAs. Our experiments show that, running SPEC CPU2006, iLP-NUCA, in comparison with a state–of–the–art high performance conventional cache hierarchy (three cache levels, dedicated L1 and L2, shared L3), performs better and consumes less energy. Furthermore, iLP-NUCA reaches the performance, on average, of a conventional instruction cache hierarchy implementing a double sized L1, independently of the number of threads. This translates into a reduction of the Energy–Delay product of 21%, 18%, and 11%, reaching 90%, 95%, and 99% of the ideal performance for 1, 2, and 4 threads, respectively. These results are consistent for the considered applications distribution, and bigger gains are in the most demanding applications (applications with high instruction cache requirements). Besides, we increase the performance of applications with several threads without being detrimental for any of them. The new transport topology reduces the average service latency of cache lines by 8%, and the energy consumption of its components by 20%.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9229</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Arquitectura y Tecnología de Computadores</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9229/files/TAZ-TFM-2012-919_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/9229/files/TAZ-TFM-2012-919.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>computer architecture</dc:subject>
+    <dc:subject>cache memory</dc:subject>
+    <dc:subject>multi-thread</dc:subject>
+    <dc:subject>embedded systems.</dc:subject>
+    <dc:subject>Máster Universitario en Ingeniería de Sistemas e Informática</dc:subject>
+    <dc:title>Efficient instruction and data caching for high-performance low-power embedded systems</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

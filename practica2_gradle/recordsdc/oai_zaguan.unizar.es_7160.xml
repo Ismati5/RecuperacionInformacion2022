@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Maguire, Gerald Quentin Junior</dc:contributor>
+    <dc:contributor>Molina Gaudó, Pilar</dc:contributor>
+    <dc:creator>Sánchez Galisteo, Francisco Javier</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El gran interés del ser humano en conocer y controlar todo lo que le rodea ha motivado la gran proliferación de sistemas con elementos sensores. Asimismo, la evolución de las tecnologías inalámbricas ha facilitado su implantación. Este proyecto surge de la idea de explotar el gran potencial que ofrecen los sensores inalámbricos y así ampliar y extender su uso. El objetivo de este trabajo es diseñar el hardware de un gateway (o pasarela) que permita captar los datos provenientes de distintos tipos de sensores inalámbricos y transmitirlos a través de una red LAN para su posterior tratamiento. Se comienza por un análisis del estado del arte de las tecnologías relativas a redes de sensores, para después estudiar y descifrar el protocolo propietario que utiliza un determinado sensor comercial. A continuación, se diseña el hardware del gateway, que debe decodificar la información útil del sensor estudiado y proporcionársela a otro dispositivo conectado en una red. Este gateway consta básicamente de un microcontrolador, una interfaz Ethernet y un módulo de RF. Finalmente, se estudia cómo adaptar este diseño para aprovechar otro tipo de sensores, ampliando su utilidad. La finalidad última de este desarrollo es la de dar soporte a futuros trabajos que puedan sacar provecho de este proyecto. Este gateway pretende ser un puente entre la información que nos rodea y una red o dispositivo inteligente dónde puedan desarrollarse diversas aplicaciones y servicios.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/7160</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/7160/files/TAZ-PFC-2012-198_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/7160/files/TAZ-PFC-2012-198.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>wireless sensor</dc:subject>
+    <dc:subject>home automation</dc:subject>
+    <dc:subject>rf gateway</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicación</dc:subject>
+    <dc:title>Exploiting wireless sensors</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Salinas Áriz, Íñigo</dc:contributor>
+    <dc:contributor>Alcain Ruiz, Raúl</dc:contributor>
+    <dc:creator>Chueca Lasheras, Rocío</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Este trabajo fin de máster se enmarca dentro del proyecto FOTOFREC del Grupo de Tecnologías Fotónicas y Ariño Duglass y pretende abordar el reto de la atenuación de señales de radiofrecuencia en vidrios de control solar y bajo emisivos.  &lt;br /&gt;Para solucionar este problema se propone el desarrollo de superficies selectivas en frecuencia (FSS) sobre vidrios arquitectónicos y de transporte. Para poder caracterizar este tipo de superficies, se procede a diseñar y evaluar un sistema para medir la atenuación de las señales en el rango de frecuencias de comunicaciones móviles en vidrios.&lt;br /&gt;El sistema propuesto está basado en una guía de ondas rectangular con dos adaptadores coaxial-guía que actúan como transmisor y receptor. Estos adaptadores están diseñados para excitar el modo fundamental de la guía (TE10), y se optimizan para el rango 800-2000 MHz mediante la variación del tamaño y posición de una sonda coaxial.&lt;br /&gt;Los resultados obtenidos permiten concluir que el sistema diseñado permite caracterizar los distintos tipos de FSS consiguiéndose una mejora notable respecto al sistema de medida anterior basado en cámara anecoica.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/84851</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/84851/files/TAZ-TFM-2019-323.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería de Telecomunicación</dc:subject>
+    <dc:title>Diseño y construcción de un sistema de medida de la atenuación de señales de radiofrecuencia en vidrios de control solar</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Design and construction of a measurement system for the attenuation of RF signals through energy efficient glass</dc:title>
+</oai_dc:dc>

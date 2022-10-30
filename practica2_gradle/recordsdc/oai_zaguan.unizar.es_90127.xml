@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Paricio, Eduardo</dc:contributor>
+    <dc:creator>Lacambra Guillén, Daniel</dc:creator>
+    <dc:date>2020</dc:date>
+    <dc:description>El presenta trabajo aborda el estudio de la implantación fotovoltaica mas adecuada para una explotación ganadera avícola, mediante hojas de cálculo, se obtiene la rentabilidad de los diferentes casos de estudio planteados previamente, una vez obtenidos los resultados, se comparan con las características de la instalación para obtener la instalación mas favorable.&lt;br /&gt;Una vez obtenido el sistema fotovoltaico mas favorable, se estudia la implantación de baterías para transportar la energía en momentos de vertido a la red para su posterior aprovechamiento, además, también se estudia el caso de reducción de potencia mediante el uso de baterías.&lt;br /&gt;Tras obtener los resultados de todos los estudios, se diseña mediante PVSYST el sistema óptimo seleccionado y se obtiene su rentabilidad.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/90127</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/90127/files/TAZ-TFG-2020-029.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Eléctrica</dc:subject>
+    <dc:title>Estudio de viabilidad de una instalación fotovoltaica para autoconsumo en una explotación ganadera avícola</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Feasibility study of a photovoltaic system for self-consumption within a use cattle poultry</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gómez Benito, María José</dc:contributor>
+    <dc:contributor>Javierre Pérez, Etelvina</dc:contributor>
+    <dc:creator>Valero Lázaro, Clara</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Este trabajo se ha desarrollado en el departamento de Ingeniería Mecánica y su principal objetivo ha sido el desarrollo e implementación de un modelo multifísico del proceso de angiogénesis. La piel es el órgano más grande del cuerpo humano, encargada del mantenimiento de la integridad de los órganos en su interior. Es de gran importancia su capacidad de autorregeneración ante lesiones. Dadas las particularidades de cada herida y con el fin de obtener el resultado deseado con la mayor eficiencia, deben plantearse tratamientos específicos para cada situación. Para ello, será de gran importancia disponer de técnicas numéricas de simulación que permitan una evaluación rápida de cada caso.  El proceso de cicatrización de heridas se produce en tres etapas: inflamación, proliferación y remodelación. Dentro de la fase de proliferación tienen lugar numerosos procesos, entre ellos la angiogenesis. El proceso de angiogenesis consiste en la formación de vasos sanguíneos a partir de vasos ya existentes. Tras producirse una herida los vasos sanguíneos localizados en el tejido dañado quedan cortados, de manera que se impide la correcta distribución de oxígeno y nutrientes. Por ello es de gran importancia conocer en qué medida afectan los factores presentes en la evolución del proceso de cicatrización.  Durante este proceso además se produce una contracción de la herida debida a las tensiones que ejercen las células presentes, tanto en la herida como en la piel que la rodea. Este proceso es el objeto de estudio de este trabajo y depende tanto de las propiedades mecánicas como de las biológicas y químicas de la piel. En este trabajo se ha implementado en primer lugar un modelo que incluye solo los factores bioquímicos que afectan al proceso de angiogénesis y en segundo lugar un modelo que tiene en cuenta tanto los factores mecánicos como los biológicos para simular el proceso de angiogénesis en la cicatrización de heridas en la piel. Para ello se partió de un modelo matemático de  comportamiento de todos los elementos presentes tanto en la herida como en la piel sana, y se evaluó utilizando el Método de los Elementos Finitos (MEF). Por último, se han comparado los resultados obtenidos con los dos modelos. Para ello se ha prestado atención principalmente a la influencia del oxígeno en el proceso y al efecto de las tensiones mecánicas creadas por las células en las concentraciones de las especies presentes. También se ha estudiado la diferencia en la geometría final de la herida de los dos modelos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6439</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6439/files/TAZ-TFM-2011-054.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>angiogénesis</dc:subject>
+    <dc:subject>método de elementos finitos</dc:subject>
+    <dc:subject>mef</dc:subject>
+    <dc:subject>problema mecano-bioquímico</dc:subject>
+    <dc:subject>herida</dc:subject>
+    <dc:subject>cicatrización</dc:subject>
+    <dc:subject>Máster Universitario en Mecánica Aplicada</dc:subject>
+    <dc:title>Finite element study of the angiogenesis process:  application to wound healing. Estudio con elementos finitos del proceso de angiogénesis: aplicación a la cicatrización de heridas</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

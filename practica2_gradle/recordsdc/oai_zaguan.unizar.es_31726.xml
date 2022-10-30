@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>López Lorente, Francisco Javier</dc:contributor>
+    <dc:creator>Laliena Bernués, Pablo</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>Tras las críticas que recibió el sorteo de la FIFA del Mundial de fútbol de 2014, el probabilista Julien Guyon escribió un artículo en el que ponía de manifiesto las deficiencias del sorteo usado por la FIFA, a la vez que proponía otras formas más justas de hacer el sorteo. El objetivo de este trabajo será encontrar un sistema de sorteo que de lugar a unas agrupaciones lo más homogéneas posibles, es decir que todos los grupos tengan un potencial lo más semejante posible cumpliendo además las restricciones impuestas por la FIFA. Para ello se analizará el sorteo actual y los propuestos por Guyon con el fin de crear un sistema de sorteo nuevo que deberá ser equiprobable además de justo. Después se compararán los distintos tipos de sorteo mediante simulación para posteriormente hacer un análisis estadístico de los resultados.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31726</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Métodos Estadísticos; Área de Estadística e Investigación Operativa</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31726/files/TAZ-TFG-2015-1849.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Matemáticas</dc:subject>
+    <dc:title>Sorteos para hacer justo un Mundial de fútbol</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

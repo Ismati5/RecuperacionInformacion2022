@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Merino Filella, Pedro</dc:contributor>
+    <dc:creator>Fontana Escartín, Adrián</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>En este trabajo, se estudia el mecanismo de la cicloadición 1,3-dipolar entre fenilazida y (E)-nitroestireno. El estudio se ha llevado a cabo de manera teórica, utilizando herramientas computacionales para realizar cálculos basados en la teoría del funcional de densidad (DFT). Los niveles de teoría empleados han sido M062X/6-31+G(d,p) para la optimización de geometrías y M062X/6-311+G(d,p)// M062X/6-31+G(d,p) para el cálculo de las energías. Se ha explorado la superficie de energía potencial (PES) para las dos vías regioisómeras que conducen a la formación de dos posibles triazolinas, según los grupos fenilo estén en posiciones 1,4 o 1,5 y las correspondientes aproximaciones endo/exo. La obtención del producto 1,5 a través de una aproximación endo está favorecida. La reacción transcurre a través de un mecanismo concertado asíncrono que debido a su baja polaridad apenas se ve afectado por el disolvente empleado. La reacción es exotérmica pero los productos se obtienen a través de un control cinético, es decir, dependiendo de la barrera de activación.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76828</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Orgánica; Área de Química Orgánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76828/files/TAZ-TFG-2018-2946_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/76828/files/TAZ-TFG-2018-2946.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Química</dc:subject>
+    <dc:title>Estudio computacional del mecanismo de reacciones orgánicas</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Computational study of the mechanism of organic reactions</dc:title>
+</oai_dc:dc>

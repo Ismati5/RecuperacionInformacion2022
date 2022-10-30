@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ilarri Artigas, Sergio</dc:contributor>
+    <dc:contributor>Tellerı́a Orriols, Carlos</dc:contributor>
+    <dc:creator>Sánchez Coronas, Carlos</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Hoy en día, la minería de textos es uno de los campos de actuación clave dentro del aprendizaje automático debido a la gran cantidad de texto que se genera diariamente escrito en lenguaje natural, ya que es la forma que tenemos de comunicarnos y expresar nuestras ideas, haciendo a los ordenadores capaces de entender esta forma de comunicación y de extraer información de ella. Hay multitud de campos de actuación, como extracción de información, detección de palabras clave, análisis del sentimiento, clasificación de documentos, etc. Una de las grandes barreras de este sector es el idioma, debido a que las técnicas que se aplican son propias de un lenguaje y por tanto pueden no ser aplicables a otro idioma diferente. Dentro del marco de la medicina, también existen multitud de áreas de actuación, entre ellas, el procesamiento de historias o guías clínicas puede ser de especial interés para la búsqueda automática de información, ya que en medicina, es necesario tener acceso a la última evidencia científica para poder desarrollar la actividad. &lt;br /&gt;    &lt;br /&gt;Este trabajo se ha centrado en la aplicación de técnicas de minería de textos médicos en español con la idea de avanzar en la automatización de la búsqueda de esta evidencia científica. Durante su desarrollo se detalla el estudio del arte del sector y la implementación y evaluación de un detector de entidades médicas y los problemas encontrados al no contar con un conjunto de datos específico para esta tarea, y de un módulo cuyo objetivo es detectar la intención de 'recomendación o sugerencia' en textos, ya que suelen ser las partes de las guías clínicas más importantes donde se resume toda la evidencia científica. A partir de este proyecto, se abren líneas de trabajo futuro en la búsqueda automática de la evidencia científica de la medicina en español.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87175</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87175/files/TAZ-TFM-2019-1395.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Informática</dc:subject>
+    <dc:title>Aplicación de técnicas de minería de textos para apoyar la búsqueda de información en contextos médicos en español</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Application of text mining techniques to support the search of information in medical contexts in Spanish</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Alcalá Heredia, Vicente</dc:contributor>
+    <dc:creator>Parrilla Bel, Alba</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>La dependencia del petróleo y el alto nivel contaminante de los vehículos de combustión ha obligado a buscar alternativas en el transporte, y el vehículo eléctrico es una de las que está cobrando gran importancia en los últimos tiempos. Por ello, el presente proyecto, llevado a cabo en la University of Southern Denmark (Odense, Dinamarca), tiene como finalidad la transformación real de un quad de gasolina en un vehículo eléctrico impulsado por baterías.  Para la realización del proyecto se dispone de un quad “T-Rex Hummer” de gasolina, de la marca Menila y un presupuesto muy ajustado, que obliga a la utilización de componentes alcanzables sin coste alguno siempre que sea posible. En cuanto a los resultados obtenidos, estos han sido el cambio del sistema de tracción a uno totalmente eléctrico y el control de velocidad del vehículo desde el ordenador o desde los manguitos del manillar. En este documento se expone, tanto un estudio de las posibilidades que nos ofrece el mercado en cuanto a componentes, como el análisis de las opciones utilizables en base al presupuesto disponible. En él se trata de describir también todo el proceso de transformación del quad, el sistema eléctrico y  la programación del software.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10243</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10243/files/TAZ-PFC-2013-133_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/10243/files/TAZ-PFC-2013-133.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>vehículo eléctrico</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electrónica Industrial)</dc:subject>
+    <dc:title>Transformación de un quad, de gasolina a electricidad</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Zalba Nonay, Belen</dc:contributor>
+    <dc:contributor>Marín Herrero, José María</dc:contributor>
+    <dc:creator>Dolado Bielsa, Pablo</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Esta tesis se ha planteado dentro de un trabajo más amplio de diseño y análisis de un sistema almacenamiento de energía térmica (TES) con materiales de cambio de fase (PCM) para su aplicación a salas de temperatura controlada. Se ha centrado en la modelización numérica del sistema y en el análisis de la viabilidad en diferentes aplicaciones de interés. Inicialmente se han desarrollado 4 modelos teóricos base, se han comparado los resultados entre ellos y con los resultados experimentales a escala de laboratorio seleccionando el más adecuado. Se ha escalado el modelo y se ha diseño el prototipo de intercambiador de calor. Se ha construido una instalación experimental y se ha ensayado con el intercambiador. Así, se ha validado el modelo teórico. Se ha analizado la propagación de incertidumbres del modelo. Finalmente, se ha utilizado el modelo teórico para estudiar la viabilidad de esta tecnología en potenciales aplicaciones de interés.  </dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6153</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6153/files/TESIS-2011-036.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>material de cambio de fase</dc:subject>
+    <dc:subject>almacenamiento de energía térmica</dc:subject>
+    <dc:subject>simulación</dc:subject>
+    <dc:subject>validación experimental</dc:subject>
+    <dc:subject>phase change material</dc:subject>
+    <dc:subject>thermal energy storage</dc:subject>
+    <dc:subject>simulation</dc:subject>
+    <dc:subject>experimental validation</dc:subject>
+    <dc:title>Almacenamiento térmico de energía mediante cambio de fase</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

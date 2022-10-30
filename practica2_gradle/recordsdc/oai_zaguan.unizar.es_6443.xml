@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Hamdy Doweidar, Mohamed</dc:contributor>
+    <dc:contributor>Doblaré Castellano, Manuel</dc:contributor>
+    <dc:creator>Manzano Martínez, Sara</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Este proyecto se ha desarrollado en el departamento de Ingeniería Mecánica. El principal objetivo del mismo ha sido la mejora de un modelo computacional de contracción experimentada por un hidrogel debido a las fuerzas ejercidas por las células embebidas. De forma paralela, se han llevado a cabo diferentes experimentos con el fin de lograr una mayor comprensión del proceso y validar el modelo computacional desarrollado. Dicho proyecto se encuentra incluido en una línea de investigación mayor que trata de determinar y cuantificar la influencia de factores mecánicos en el comportamiento celular.  La interacción célula-sustrato es un tema que genera gran interés en la comunidad científica debido principalmente a su conexión con importantes procesos biológicos como la angiogénesis o enfermedades como el cáncer. En esta interacción la célula ejerce una fuerza que será transmitida al sustrato (gel) produciendo la deformación del mismo al objeto de establecer un mecanismo mecano-sensor del microambiente que la rodea. Existen numerosas evidencias que muestran la gran importancia de de las características mecánicas del entorno circundante en procesos tales como la proliferación, diferenciación y migración celular. Para comprender mejor esta interacción mecanobiológica, y partiendo de un modelo previo de reacción-difusión, se ha generado un modelo que permite simular la deformación que experimenta un gel que contiene fibroblastos en su interior, cuantificar la fuerza celular necesaria para que el proceso tenga lugar y es capaz de predecir la distribución y concentración celular.  Las principales tareas de este proyecto se resumen a continuación. En primer lugar, se han realizado diversos experimentos en el laboratorio para comprender el proceso de contracción del hidrogel, obtener datos experimentales precisos del proceso y determinar la influencia de los diferentes parámetros mecánicos y biológicos. Para ello se han manejado diferentes dispositivos (microscopio optico confocal, lupa de 40X, ). Se han incorporado los fenómenos de migración y proliferación al modelo para lograr la deformación observada experimentalmente. Y finalmente, se ha modificado el comportamiento del material (gel) para asemejarlo al observado experimentalmente.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6443</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6443/files/TAZ-TFM-2011-057.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>migración</dc:subject>
+    <dc:subject>proliferación</dc:subject>
+    <dc:subject>hidrogel</dc:subject>
+    <dc:subject>sustrato</dc:subject>
+    <dc:subject>modelado computacional</dc:subject>
+    <dc:subject>fuerzas celulares</dc:subject>
+    <dc:subject>Máster Universitario en Ingeniería Biomédica</dc:subject>
+    <dc:title>Modelado de la deformación de un hidrogel debido a las fuerzas embebidas, migración y proliferación</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

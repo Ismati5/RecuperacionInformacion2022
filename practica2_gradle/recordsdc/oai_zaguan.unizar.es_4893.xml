@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Monne Bailo, Carlos</dc:contributor>
+    <dc:creator>Alonso Pellón, Diego</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>El presente proyecto tiene como objetivo el estudio y análisis del comportamiento térmico del edificio Agustín de Betancourt, para poder realizar propuestas de mejora que disminuyan el consumo de energía, así como las emisiones de CO2 para conseguir un edificio más eficiente térmicamente además de un ahorro económico. A lo largo del proyecto se desarrollará la auditoria y certificación energética del edificio Agustín de Betancourt de la Universidad de Zaragoza siguiendo una serie de estudios. Para ello, se realizará un análisis termográfico de la envolvente del edificio con una cámara termográfica para analizar el comportamiento y la eficiencia energética de los cerramientos exteriores del edificio y así proponer mejoras. También se estudiará el comportamiento de los diferentes sistemas del edificio a estudio, realizando un estudio más detallado de la instalación de climatización para observar sus características y sus consumos. Por otro lado, se hará uso de un programa oficial del Ministerio de la Vivienda y del Ministerio de Industria, Turismo y Comercio. Dicho programa es el LIDER, que estudia la limitación de demanda energética (HE1 del Código Técnico de la Edificación) y nos permite analizar la demanda energética del edificio y ver las condiciones necesarias en el edificio para que cumpla con la normativa actual. En base a esto, se propondrán las oportunas modificaciones en el edificio para que cumpla la normativa.  Por último, se hará uso de otro programa oficial del Ministerio de la Vivienda y del Ministerio de Industria, Turismo y Comercio, en este caso el CALENER-GT (Calificación Energética de Edificios en su versión de Grandes edificios Terciarios), para realizar la calificación energética del edificio y determinar su nivel de eficiencia energética. Mediante esta aplicación informática obtendremos una calificación energética del edificio mediante una etiqueta energética. Una vez simulado el edificio en este programa, se propondrán medidas a realizar para obtener un edificio con mayor eficiencia energética disminuyendo su consumo energético y sus emisiones contaminantes. En cada una de las partes y estudios del proyecto, se analizarán detalladamente los resultados obtenidos y así se pasará a dar propuestas de mejora y de ahorro energético.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4893</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4893/files/TAZ-PFC-2010-103.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/4893/files/TAZ-PFC-2010-103_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>auditoría energética</dc:subject>
+    <dc:subject>certificación energética</dc:subject>
+    <dc:subject>ahorro de energía</dc:subject>
+    <dc:subject>eficiencia energética</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Auditoría y certificación energética del edificio Agustín de Betancourt de la Universidad de Zaragoza</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

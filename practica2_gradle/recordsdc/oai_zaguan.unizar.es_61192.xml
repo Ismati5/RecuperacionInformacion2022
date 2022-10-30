@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Aznar, José Manuel</dc:contributor>
+    <dc:contributor>Gómez Benito, María José</dc:contributor>
+    <dc:creator>Serrano Alcalde, Francisco</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>El trabajo tiene como objetivo calcular la deformación que sufre un sólido que se encuentra embebido en un canal de sección variable por el que fluye un fluido a una velocidad determinada, utilizando el módulo de interacción fluido-estructura del programa de cálculo por elementos finitos ABAQUS.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61192</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61192/files/TAZ-TFG-2016-3428.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Simulación por elementos finitos de la deformación de un sólido inducida por el arrastre de un fluido en movimiento</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Finite element simulation of the deformation of a solid driven by creeping flow</dc:title>
+</oai_dc:dc>

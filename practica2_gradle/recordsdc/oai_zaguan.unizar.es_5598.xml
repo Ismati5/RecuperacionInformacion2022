@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mínguez Zafra, Javier</dc:contributor>
+    <dc:creator>Sánchez-Rubio Alfaro, Daniel</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>PFC correpondiente al desarrollo de dos sistemas para la gestión de sesiones de neurofeedback. Uno encargado de la configuración de estas y otro diseñado para la monitorización y control de la sesión. Ambos han sido diseñados para un terapeuta sin experiencia informática y son intuitivos y de fácil manejo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5598</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5598/files/TAZ-PFC-2011-050.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5598/files/TAZ-PFC-2011-050_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>neurofeedback</dc:subject>
+    <dc:subject>EEG</dc:subject>
+    <dc:subject>ADD</dc:subject>
+    <dc:subject>déficit de atención</dc:subject>
+    <dc:subject>biofeeedback</dc:subject>
+    <dc:subject>neuroterapia</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Diseño de un sistema de gestión para una aplicación de neurofeedback</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

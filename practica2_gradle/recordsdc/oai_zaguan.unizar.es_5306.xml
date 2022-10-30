@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Carrera Alegre, Marco</dc:contributor>
+    <dc:creator>Vicente García, Adolfo</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>El presente proyecto consiste en el cálculo y optimización mediante el Método de los Elementos Finitos de un chasis de un semirremolque para basculantes respecto uno inicial facilitado por la empresa Leciñena S.A. Este se lleva fabricando desde hace tiempo en la empresa fundamentándose en la experiencia de la misma en el sector y por tanto se desconoce cómo se distribuyen las tensiones y si algún elemento del mismo está sobredimensionado, de esto la necesidad del proyecto. La finalidad será un análisis de cálculo y simulación mediante elementos finitos capaces de reproducir el comportamiento del chasis teniendo en cuenta la situación más desfavorable del semirremolque. Después de haber analizado cómo trabaja cada elemento del chasis, se pasará a la parte de optimización, cuya finalidad es conseguir una buena distribución de tensiones y después ahorrar en lo posible peso en la estructura. Por último, y no menos importante, se darán una serie de conclusiones relativas a cómo se comporta el chasis del semirremolque para basculantes original y las posibles optimizaciones frente a este primero.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5306</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería Mecánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5306/files/TAZ-PFC-2010-302.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>elementos finitos</dc:subject>
+    <dc:subject>chasis semirremolque</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Cálculo y optimización mediante el M.E.F. de un chasis de semirremolque para basculantes</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

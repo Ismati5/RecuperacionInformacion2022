@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Pérez Benedicto, José Ángel</dc:contributor>
+    <dc:creator>Ostáriz Falo, David</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>El dimensionamiento de cimentaciones profundas a día de hoy no queda cubierto completamente por los programas comerciales. Este trabajo pretende desarrollar una aplicación informática que se adapte a las necesidades de los profesionales y pueda resolver una proporción importante de las situaciones que éstos puedan encontrarse, realizando los cálculos estructurales de pilotes y micropilotes e implementándolos en algoritmos de optimización para la obtención de la solución de menor coste, tanto para grupos de pilotes bajo un mismo encepado como para plantas de cimentación completas, realizando todas las operaciones según las preferencias especificadas por el usuario, como la normativa que haya de regir los cálculos, los materiales a emplear o el procedimiento de ejecución, entre otros.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/56513</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/56513/files/TAZ-TFG-2016-2499_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/56513/files/TAZ-TFG-2016-2499.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Civil</dc:subject>
+    <dc:title>Software de cálculo y optimización de cimentaciones por pilotes</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Calculation and Optimization Software of Pile Foundations</dc:title>
+</oai_dc:dc>

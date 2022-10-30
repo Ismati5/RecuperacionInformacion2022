@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Royo Sanchez, Jesús Antonio</dc:contributor>
+    <dc:creator>Monguilod López, Jose Ignacio</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Este Trabajo de Fin de Grado a consistido en la puesta en marcha del módulo de fabricación del ERP Sage Murano. Para ello ha sido necesaria la consecución de unos hitos. Estos han sido la creación de un manual de codificación, una correcta planificación de stock, estudio del proceso productivo y finalmente implementación del mismo con la ayuda de la aplicación SAGE.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/78565</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/78565/files/TAZ-TFG-2019-017.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Implantación del módulo de fabricación de la aplicación de Sage Murano en Trituradoras Picursa S.L.</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Implementation of the manufacturing module of the Sage Murano application in Trituradoras Picursa S.L.</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Miralbes Buil, Ramón</dc:contributor>
+    <dc:creator>Muñoz Hernández, Luis</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Este trabajo fin de grado consiste en el diseño de una caja amplificadora de una parte de una segadora, la cual va sujeta a la parte trasera de la toma de fuerza del tractor. Para ello, se ha realizado el cálculo mediante métodos analíticos y, mediante el uso de los programas informáticos Autodesk Inventor y SolidWorks Simulator, permitiendo para así hacer una comparación de dichos métodos en cuanto a los estudios estáticos, dinámicos, fatiga, etc. Y, de este modo llegar finalmente al diseño del componente mecánico. &lt;br /&gt;Finalmente, se han realizado los planos de elaboración de dicho componente así como de los procesos usados.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/85291</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Expresión Gráfica de la Ingeniería</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/85291/files/TAZ-TFG-2019-2395.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Diseño de una caja amplificadora de velocidad a 90º para el sector agrícola</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Design of a 90º gear box for the agricultural sector</dc:title>
+</oai_dc:dc>

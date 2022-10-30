@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Dufo López, Rodolfo</dc:contributor>
+    <dc:creator>Tejedor Izquierdo, Silvia</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>En este proyecto se pretende buscar la mejor combinación de paneles fotovoltaicos, aerogeneradores, baterías y generadores diesel, para el suministro eléctrico de una granja ubicada en Ayllón, perteneciente a la provincia de Segovia, la cual está alejada de la red eléctrica, además de ver los factores que afectan al sistema óptimo que se obtiene. Para ello se utiliza el software iHOGA.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61267</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61267/files/TAZ-TFG-2016-2126_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/61267/files/TAZ-TFG-2016-2126.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Optimización del suministro eléctrico de una granja aislada de la red eléctrica mediante un sistema híbrido fotovoltaico-eólico-diesel-baterías.</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Optimisation of the eletric supply of an off-grid farm by means of a hybrid PV-wind-diesel-battery system</dc:title>
+</oai_dc:dc>

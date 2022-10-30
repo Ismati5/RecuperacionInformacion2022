@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Oliveros Colay, María José</dc:contributor>
+    <dc:creator>Ortiz de Landazuri Suárez, Ignacio</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El presente trabajo tiene como objetivo buscar una metodología adecuada para optimizar el correcto dimensionamiento de la maquinaría implicada en un proceso de molienda conocido. Para ello se parte de los conocimientos adquiridos profesionalmente por el alumno en la empresa EZSA donde desarrolla su labor como Ingeniero de Proyectos desde el año 2005. EZSA es una empresa dedicada principalmente al diseño de plantas y maquinaria para la molienda en la industria cerámica. Se detallará primeramente la descripción de los procesos de molienda, qué tipo de maquinaría se usa, qué tipos de procesos existen y qué problemática motivó  este trabajo. Seguidamente se parametrizarán cada uno de los elementos que componen la instalación buscando la forma más adecuada y aproximada para el fin buscado y se buscaran las soluciones a priori factibles. Se procederá a una simulación discretizando el comportamiento de las soluciones a lo largo del tiempo para detectar incompatibilidades o cuellos de botella. Para ello se utilizará Matlab®. Dada la alta factibilidad y el tiempo necesario de cálculo en la simulación se utilizará un algoritmo genético modificado para hallar la solución más correcta posible. Este algoritmo se programará también con Matlab®. Finalmente se aplicará a cuatro problemas el algoritmo y se comparará los resultados con las soluciones adoptadas en la industria obteniéndose conclusiones válidas para ser aplicadas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/7861</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/7861/files/TAZ-TFM-2012-091.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>optimización</dc:subject>
+    <dc:subject>algoritmo genético</dc:subject>
+    <dc:subject>molienda</dc:subject>
+    <dc:subject>Máster Universitario en Sistemas Mecánicos</dc:subject>
+    <dc:title>Optimización del proceso de selección y dimensionamiento de equipos en instalaciones de molienda</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

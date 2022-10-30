@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Álvarez Abenia, José Miguel</dc:contributor>
+    <dc:contributor>Jarabo Lallana, Sebastián</dc:contributor>
+    <dc:creator>Escuer Sanagustín, Alejandro</dc:creator>
+    <dc:date>2002</dc:date>
+    <dc:description>En esta tesis doctoral se desarrollan, estudian y comparan varios modelos teóricos aplicados a láseres de fibra óptica de sílice dopada con erbio. Este trabajo teórico permite obtener un nuevo modelo más evolucionado que explica correctamente el comportamiento de este tipo de dispositivos y deriva ecuaciones analíticas que permiten la caracterización, el diseño y la optimización de láseres de fibra óptica dopada con erbio con cavidad lineal. Además, para verificar la adecuación del nuevo modelo, se construyen y estudian experimentalmente un amplio conjunto de cavidades láser, combinando diferentes tipos de espejos (redes de Bragg, multicapas, acopladores, etc) y bombeando tanto en 1480 nm como en 980 nm. En total, 80 configuraciones láser distintas que permiten una comparación teoría-experiencia muy amplia y con las que encontramos un buen acuerdo. Finalmente, se adapta este estudio a cavidades láser en anillo. Several theoretical models for Erbium-doped optical fibre lasers have been developed, analysed and compared. This theoretical treatment allows obtaining a new model that explains correctly the behaviour of these lasers and that allows deducing analytical equations in order to characterise, design and optimising linear-cavity fibre lasers. Moreover, a wide set of cavities have been experimentally studied by combining different kinds of mirrors (Bragg gratings, coatings, fibre couplers, etc) and by pumping at 1480 nm as well as at 980 nm. Thus, a set of 80 different configurations has been measured. This huge work has provided an extensive comparison between theory and experiment, finding a good agreement. Finally, this study has been adapted to ring-cavity lasers. </dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/1891</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Fisica Aplicada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/1891/files/TUZ_0023_escuer_01.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>Erbium-doped optical fibre</dc:subject>
+    <dc:subject>fibra óptica</dc:subject>
+    <dc:subject>fibra óptica dopada con erbio</dc:subject>
+    <dc:subject>láser</dc:subject>
+    <dc:subject>optical fibre</dc:subject>
+    <dc:title>Estudio teórico y experimental de láseres de fibra óptica de sílice dopada con erbio</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

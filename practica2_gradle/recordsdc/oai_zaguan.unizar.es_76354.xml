@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Cebrián Guajardo, Ana Carmen</dc:contributor>
+    <dc:creator>Morte Sarmiento, Laura</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>A lo largo de este trabajo se han estudiado los modelos lineales generalizados, los cuales se utilizan cuando no es posible verificar una o más características de los modelos lineales. Se comienza recordando las propiedades de estos para poder definir los modelos lineales generalizados. Una vez definidos, se explica la componente aleatoria, sistemática y la función de enlace. A continuación, se muestra como estimar un modelo lineal generalizado con el método de máxima verosimilitud y se definen la desviación y desviación escalada. Para terminar el primer capítulo, se estudian tres tipos de residuos, conocidos como residuo de Pearson, de Anscombe y residuo de desviación, así como la selección de las covariables. En el segundo capítulo, se consideran algunos casos particulares de los modelos lineales generalizados, tales como modelos con error Poisson o Binomial Negativo, dando lugar a definir la sobredispersión. Otro tipo de caso particular que también se estudia a lo largo del capítulo es el modelo con error Gamma. Para el finalizar el trabajo, se aplica lo tratado en los capítulos anteriores al estudio de la duración e intensidad de las olas de calor en Zaragoza.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76354</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Métodos Estadísticos; Área de Estadística e Investigación Operativa</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76354/files/TAZ-TFG-2018-4745.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Matemáticas</dc:subject>
+    <dc:title>Modelos lineales generalizados: Modelos con coeficiente de variación constante y otros</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Generalized linear models: Models with constant coefficient of variation and others</dc:title>
+</oai_dc:dc>

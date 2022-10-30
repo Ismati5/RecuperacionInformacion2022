@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Blanco Bascuas, María Teresa</dc:contributor>
+    <dc:contributor>Magallón Lacarta, Juan Antonio</dc:contributor>
+    <dc:creator>Serón Ruiz, Alejandro</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El objetivo de este Trabajo Fin de Grado pretende conseguir que un sistema de rendering basado en la física genere imágenes que sean lo más fieles posibles a lo que vería un ser humano, aplicándolo a señales de emergencia en túneles en el caso de un incendio o apagón. La estructura de la memoria está formada por ocho capítulos, acompañados de la bibliografía citada y un conjunto de once apéndices. La memoria se inicia con una introducción que incluye contexto, problema abordado, objetivo del TFG y la estructura de la misma. El capítulo dos se dedica a realizar una presentación general de los aspectos relacionados con túneles, señalética y normativa, y caracterización del usuario. El siguiente capítulo describe aspectos relacionados con el color y su caracterización perceptual. El capítulo cuatro analiza el problema de la simulación físicamente creible de la iluminación recogiendo el fenómeno de la visión, el rendering basado en la física y reflexiona sobre las características que tiene que reunir el software utilizado. El software seleccionado ha sido la biblioteca denominada ALEPH. El quinto capítulo intruduce la problemática asociada a la generación de imágenes perceptualmente creibles y describe en profundidad el operador de reproducción de tono seleccionado (Ferwerda) y su implementación expresada mediante pseudocódigo. En el capítulo que sigue se aplica todo el conocimiento adquirido al caso de un túnel en las situaciones normal y de emergencia (incendio y apagón). Y se generan un amplio conjunto de imágenes sintéticas que permiten analizar visualmente en detalle dichas situaciones. Se han utilizado para su obtención el operador de tono perceptual de Ferwerda, el operador de tono estético de Reinhard y otros tres operadores más simples que el de Ferwerda. Se finaliza con las conclusiones de este TFG y se indican posibles líneas de trabajo futuro. La memoria se acompaña de un diagrama temporal de todo el trabajo, de la bibliografía referenciada y de los apéndices que recogen normativas, fichas técnicas, explicaciones en profundidad de la física de la visión y de la ecuación de rendering.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12974</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12974/files/TAZ-TFG-2013-1010.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/12974/files/TAZ-TFG-2013-1010_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>rendering perceptual</dc:subject>
+    <dc:subject>túneles y señalética</dc:subject>
+    <dc:subject>situaciones de emergencia</dc:subject>
+    <dc:subject>diseño industrial</dc:subject>
+    <dc:subject>gráficos por computador</dc:subject>
+    <dc:subject>Graduado en Ingeniería en Diseño Industrial y Desarrollo de Producto</dc:subject>
+    <dc:title>Rendering perceptual de escenarios. Aplicación a túneles y su señalética en situaciones de emergencia</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

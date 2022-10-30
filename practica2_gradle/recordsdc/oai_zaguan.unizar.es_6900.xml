@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Porta Royo, Luis</dc:contributor>
+    <dc:creator>Esteban Ibáñez, Roberto</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El presente proyecto tiene por objeto la fabricación de un Sistema portátil para la medición de vibraciones en máquinas eléctricas.  Dicho dispositivo se encargará de medir las aceleraciones en los ejes seleccionados por el usuario, las cuales serán representadas a través de un display gráfico en forma de vibraciones o inclinación.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6900</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6900/files/TAZ-PFC-2012-061.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6900/files/TAZ-PFC-2012-061_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>acelerómetro</dc:subject>
+    <dc:subject>vibrómetro</dc:subject>
+    <dc:subject>inclinómetro</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electrónica Industrial)</dc:subject>
+    <dc:title>Sistema portátil para la medición de vibraciones en máquinas eléctricas</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

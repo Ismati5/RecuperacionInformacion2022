@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ezpeleta Mateo, Joaquín</dc:contributor>
+    <dc:creator>Pérez Marco, Joaquín</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Existen personas que por diversas lesiones padecen graves trastornos en el habla lo que les limita a la hora de comunicarse con el entorno que les rodea. Para facilitarles la expresión sin utilizar la palabra hablada surgen los llamados sistemas aumentativos y alternativos de comunicación que complementan o sustituyen el lenguaje oral. Muchos de ellos recurren al uso de pictogramas que representen, de forma clara y sencilla, los conceptos más habituales en la comunicación cotidiana. Este proyecto fin de carrera tiene por objetivo el desarrollo de un procesador de textos, para el ámbito de la comunicación aumentativa y alternativa, que permita la escritura simultánea con texto y pictogramas. El procesador incluye algunas de las funcionalidades más habituales de este tipo de herramientas (creación, apertura y guardado de documentos, posibilidad de exportar a PDF y archivos de imagen; cortar, copiar y pegar textos, búsqueda de palabras en el documento, ayuda al manejo de la aplicación, etc), así como las específicas para el trabajo con el conjunto de pictogramas del Portal Aragonés de la Comunicación Aumentativa y Alternativa ARASAAC. La interfaz del programa, así como la base de datos con la que trabaja, está traducida a ocho idiomas diferentes (castellano, inglés, francés, alemán, italiano, catalán, portugués, portugués brasileño). Es fácilmente ampliable según las necesidades que surjan en distintos centros educativos. Se distribuye como software libre bajo licencia GPL, y está programado en Java, lo que permite su ejecución en distintos sistemas operativos y plataformas (Windows, Linux, Mac...). La aplicación ha sido probada por profesores del CPEE Alborada de Zaragoza, lo que permite garantizar que se ajusta a las necesidades de éstos desde el primer momento. Próximamente se empezará a utilizar en diversos colegios y asociaciones dedicadas a personas con necesidades especiales, y en la docencia de asignaturas universitarias relacionadas con la educación especial. Además, se ha empezado a utilizar en la radio pública aragonesa (Aragón Radio 2) para generar los titulares de las noticias adaptadas a estas personas con necesidades especiales.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6008</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6008/files/TAZ-PFC-2011-310_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6008/files/TAZ-PFC-2011-310.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>comunicación aumentativa</dc:subject>
+    <dc:subject>atención a la discapacidad</dc:subject>
+    <dc:subject>software libre</dc:subject>
+    <dc:subject>procesador de textos</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>AraWord : un procesador de textos para comunicación aumentativa y adaptativa</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

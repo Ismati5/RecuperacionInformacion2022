@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Guerrero Campo, José Jesús</dc:contributor>
+    <dc:creator>Nova Guerrero, Alejandro de</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>El objetivo de este proyecto es el desarrollo de un algoritmo que permita la detección de puertas, de forma que sirva para la planificación de trayectorias de personas con deficiencias visuales para ayudarlas a moverse por entornos desconocidos. Para realizar esta tarea se utilizará la información obtenida a partir de dos sensores, una cámara RGB-D y una cámara fisheye, a través de las cuales se obtiene tanto información 3D de una pequeña región de la escena como información de color de una amplia región que sirva como complemento. Esta combinación de sensores se encuentra a la altura del pecho de los usuarios, ya que es una posición discreta y estable para las cámaras, a la vez que permite captar imágenes desde un ángulo que facilita la navegación. La información recogida se procesará mediante el uso de algoritmos de procesamiento de información 3D y de color, a través de las librerías PCL y OpenCV. Además, se utilizarán los resultados obtenidos de un proyecto previo, de forma que es la base principal sobre la que se apoya este trabajo.  Finalmente se obtiene un algoritmo con una tasa de falsos positivos prácticamente nula y una capacidad de detección de puertas de casi el 50%.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/85310</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/85310/files/TAZ-TFG-2019-2332.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Detección de puertas mediante un sistema de visión omnidireccional y de profundidad</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Door detection using an omnidirectional and depth vision-based system</dc:title>
+</oai_dc:dc>

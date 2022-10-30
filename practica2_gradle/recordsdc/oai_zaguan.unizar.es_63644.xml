@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Anel Bernal, Alberto</dc:contributor>
+    <dc:creator>Woods Alonso, Daniel Luis</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>La leucemia linfocítica crónica de células B (LLC-B) es un tumor hematológico causado por la acumulación de linfocitos B maduros y tumorales en sangre periférica, médula ósea y órganos linfoides secundarios. Durante muchas décadas para su tratamiento se han utilizado diferentes aproximaciones quimioterápia como agentes alquilantes, análogos de purinas o cortiocoesteroides. La desventaja de estos fármacos es que presentan una gran cantidad de efectos secundarios, es por ello que se ha intentado investigar la inmunoterapia como un tratamiento más selectivo y efectivo para combatir este tipo de tumores, utilizando por ejemplo anticuerpos contra ciertos antígenos tumorales. Sin embargo se ha generado múltiples resistencias contra estos anticuerpos, es por ello que más recientemente se han propuesto nuevas posibilidades como la utilización de células NK de donantes alogénicos sometidas a un proceso de activación y expansión. Nuestro grupo ha puesto a punto un protocolo de expansión de células NK humanas y estas células activadas y expandidas se han ensayado frente a células de 38 pacientes de LLC-B. En algunos pacientes se ha observado el desarrollo de resistencias a la citotoxicidad de las células NK expandidas, una causa para explicar esta resistencia podría deberse a la compatibilidad del HLA-I del paciente con los receptores de inhibición KIR de las células NK del donante empleado en cada caso.  El objetivo de este trabajo es determinar si la resistencia generada se debe a este hecho, y así mismo estudiar los cambios producidos en el transcriptoma tras el procedimiento de activación y expansión.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/63644</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Bioquímica y Biología Molecular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/63644/files/TAZ-TFM-2017-939.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster en Biología Molecular y Celular</dc:subject>
+    <dc:title>Estudio genético de células NK expandidas para el tratamiento de la leucemia linfocítica crónica de células B</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Study of expanded NK cells for the treatment of chronic lynphocitic leukaemia of B cells.</dc:title>
+</oai_dc:dc>

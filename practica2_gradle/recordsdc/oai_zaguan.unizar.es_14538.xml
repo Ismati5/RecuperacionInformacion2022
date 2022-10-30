@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bayod Rújula, Ángel Antonio</dc:contributor>
+    <dc:creator>Latorre Martínez, Pablo</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>La generación en distribución supone mejoras en la reducción del impacto ambiental del sistema eléctrico y un importante cambio en el modelo energético, sin embargo, exige una valoración de su impacto sobre la red y su comportamiento. Este proyecto pretende estudiar la cantidad de generación fotovoltaica que puede incorporar una red de distribución desde el punto de vista de la reducción de pérdidas por efecto Joule en las líneas. Para ello se han tomado diferentes tipologías de redes de consumo y se han determinado las posiciones y los tamaños de generación fotovoltaica que hacen óptimo el ahorro en dichas pérdidas. Siguiendo la metodología de algunos estudios anteriores, se han utilizado datos reales de generación fotovoltaica y datos de consumo horario de un hogar tipo, para ser después introducidos en los diferentes modelos desarrollados con Matlab para hallar la solución al problema. Los casos estudiados son, en primer lugar, aquellos que plantean una combinación de carga uniformemente distribuida y una carga concentrada al final de la línea variando la proporción de una y otra. En segundo lugar, el caso de una red de consumo con carga uniformemente distribuida con la producción de fotovoltaica dividida en varias posiciones. Otra tipología estudiada es la de una línea con una distribución de carga en triángulo o en trapecio simulando el sector de una red urbana de consumo. Por último, se ha planteado la introducción de almacenamiento con baterías en los puntos de generación y la consideración de caída de tensión en la línea para hacer los modelos más próximos a la realidad.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/14538</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/14538/files/TAZ-PFC-2014-273.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>generación distribuida</dc:subject>
+    <dc:subject>energía fotovoltaica</dc:subject>
+    <dc:subject>sistema eléctrico</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Localización y tamaño óptimo de instalaciones fotovoltaicas en redes de distribución</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

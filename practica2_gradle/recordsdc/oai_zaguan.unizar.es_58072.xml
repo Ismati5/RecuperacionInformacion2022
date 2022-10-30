@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Jarne Jarne, Gloria</dc:contributor>
+    <dc:contributor>Andaluz Funcia, Joaquín</dc:contributor>
+    <dc:creator>Lahuerta Martinez, Javier</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>Este Trabajo Fin de Grado se basa en el estudio de la aplicación de la teoría de la diagonalización de matrices en un caso real como es el mercado laboral español. Se analizarán las tablas obtenidas del Instituto Nacional de Estadística que reflejan el estado laboral de la población española, la evolución y el impacto de la crisis en la población ocupada, desempleada e inactiva a lo largo de los periodos 2005 trimestre 2 a 2016 trimestre 1. En la parte teórica se ha desarrollado un ejercicio académico que recoge las condiciones óptimas, para que se obtengan unos resultados verídicos. En la parte práctica se han realizado estimaciones del mercado laboral español, mediante la aplicación de la diagonalización de matrices, realizándose posteriormente una comparativa de estos resultados con los valores teóricos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/58072</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/58072/files/TAZ-TFG-2016-3918.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Administración y Dirección de Empresas</dc:subject>
+    <dc:title>Una aplicación de la diagonalización de matrices al mercado laboral español</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">An application of the matrix diagonalization to spanish labor market</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Fernández Ledesma, Luis José</dc:contributor>
+    <dc:contributor>Ochoa Garrido, Ignacio</dc:contributor>
+    <dc:contributor>Doblaré Castellano, Manuel</dc:contributor>
+    <dc:creator>Monge Prieto, Rosa María</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>“Lab-On-a-chip” systems have proved to be a promising tool in the field of biology. Currently, cell culture is performed massively on Petri dishes, which have traditionally been used in cell culture laboratories and tissue engineering. However, having proved to be a widely used tool until now, the scientific community has largely described the lack of correlation between the results obtained in the laboratory and the clinical results. This lack of connection between what has been studied in the laboratories and what has been observed in the clinic has led to the search for more advanced alternative tools that allow results to be obtained closer to reality. Thus, the use of microtechnologies in the field of biomedical engineering, presents itself as the perfect tool as an alternative to obsolete traditional media. Thanks to the low volumes of liquid it presents for its use, it also makes it an essential technology for the testing of drugs, new compounds and materials. By being able to more accurately reproduce the biomimetic environment of cell cultures and tissues, they make this technique fundamental as an intermediate step between basic in vitro laboratory tests and preclinical animal tests, resulting from this way in the best alternative for the reduction of both the use of animal models, as in times and costs. For a biomimetic system to be as such, it also needs another series of complementary devices for its better functioning. Micro-valves, micro pumps, flow sensors, O2 sensors, pH, CO2 are fundamental for the correct functioning and&lt;br /&gt;sophistication of biomimetic systems. This complexity, on the other hand, is often not perceived by the user since the miniaturization of all these components makes “Lab-On-a-Chip” systems smaller every day, despite numerous control components that can be incorporated.&lt;br /&gt;This thesis presents some examples of different microfluidic devices designed and manufactured through the use of microtechnologies, with all applications, focused on their use in biomimetic systems.&lt;br /&gt;</dc:description>
+    <dc:description>&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61705</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61705/files/TESIS-2017-064.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>biomecánica</dc:subject>
+    <dc:subject>microelectrónica</dc:subject>
+    <dc:title>Development and application of microtechnologies in the design and fabrication of cell culture biomimetic systems</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Martín Burriel, Inmaculada</dc:contributor>
+    <dc:contributor>López Perez, Óscar</dc:contributor>
+    <dc:creator>Solanas Laguna, Laura</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El scrapie, Encefalopatía Espongiforme Transmisible ovina y caprina, es una enfermedad neurológica que afecta al sistema nervioso central (SNC). El agente patógeno, PrPSc, se caracteriza por su alta resistencia a tratamientos físicos y químicos, su largo periodo de incubación y su acumulación en el SNC. La autofagia es un proceso intracelular mediado por lisosomas que limpia el citoplasma y degrada componentes dañados. Aunque se asocia a varias enfermedades neurodegenerativas, no hay muchos estudios que hayan analizado el efecto que dicho evento celular puede tener sobre el scrapie. En este trabajo se ha estudiado la inducción de la autofagia en un modelo murino de scrapie en distintas fases de la enfermedad. Se pretende comprobar si este modelo es adecuado para continuar la investigación en este ámbito. Se ha trabajado con ratones Tg338 que sobreexpresan el alelo VRQ del gen PNRP ovino. Sobre cortes de tejido cerebral se valoraron las lesiones histopatológicas de scrapie mediante la tinción con hematoxilina y eosina y la técnica PET Blot. Además, se realizaron estudios de expresión génica de seis marcadores (Atg5, Lc3, E2f1, Fbxw7, p62 y Gas5), seleccionados por su papel en la regulación de la autofagia. Para ello se empleó la técnica de PCR cuantitativa en tiempo real(qPCR). Finalmente, mediante técnicas inmunohistoquímicas detectamos los marcadores LC3-II y p62. Tanto este marcaje como las lesiones histopatológicas se valoraron de forma semicuantitativa. La disminución de Atg5 (p=0.05) y el incremento de marcaje de p62 en la fase clínica sugieren una inhibición del proceso de autofagia en la fase tardía de la enfermedad. Además la similitud observada entre el modelo y las lesiones descritas en ovejas con scrapie clásico confirman la idoneidad del modelo murino Tg338 para la continuación de la investigación en esta línea.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64260</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Anatomía, Embriología y Genética Animal; Área de Genética</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64260/files/TAZ-TFG-2017-2131.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Biotecnología</dc:subject>
+    <dc:title>Autofagia en Enfermedades Priónicas</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Autophagy in Prion Diseases</dc:title>
+</oai_dc:dc>

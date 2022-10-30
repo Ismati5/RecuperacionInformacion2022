@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bono Nuez, Antonio</dc:contributor>
+    <dc:creator>Millán Sanz, Jorge</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El sistema de pre-señalización para pasos de peatones con balizas solares trata de mejorar los dispositivos existentes mediante la inclusión de varias tecnologías novedosas en este tipo de sistemas. Por una parte se trata de un sistema autónomo que puede funcionar obteniendo la energía del sol, además las balizas no disponen de baterías sino que éstas se han sustituido por súper condensadores que tienen muchas ventajas de funcionamiento respecto a las baterías. La única desventaja, que es la capacidad de almacenar energía se ve compensada por el bajo consumo de los componentes electrónicos utilizados. Otro añadido es que las balizas son controladas por radio desde un dispositivo que detecta a los peatones con un sensor PIR y transmite una señal para informar a las balizas de que deben destellear para avisar a los conductores de la presencia de peatones cruzando la vía.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9865</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9865/files/TAZ-PFC-2012-818_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/9865/files/TAZ-PFC-2012-818.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>balizas solares</dc:subject>
+    <dc:subject>supercondesador</dc:subject>
+    <dc:subject>módulo de radio frecuencia</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electrónica Industrial)</dc:subject>
+    <dc:title>Sistema para pre-señalización de pasos de peatones con balizas solares</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

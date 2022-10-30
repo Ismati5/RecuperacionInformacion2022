@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ibarz Montaner Elena</dc:contributor>
+    <dc:creator>Ortiz Sánchez David</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>El presente trabajo fin de grado consistirá en el análisis del comportamiento resistente del cigüeñal de un motor de combustión de cuatro tiempos de un automóvil a través del Método  de Elementos  Finitos  (MEF o FEA, por sus siglas en inglés).  En el proyecto en primer lugar se realizará un análisis estático de las situaciones más desfavorables en las que trabaja el cigüeñal. Considerando las temperaturas máximas y las fuerzas que ejercen los pistones, se obtendrán los valores de desplazamiento y tensiones que se producen en el ciclo de funcionamiento. Por otra parte se realizará un estudio del daño a fatiga que pueda existir como consecuencia de las cargas que actúan sobre el cigüeñal.  Al tratarse de un Trabajo de Fin de Grado no se puede llevar a cabo un análisis completo de un proyecto real, por lo que no se han tenido en cuenta efectos dinámicos, de régimen transitorio y vibraciones entre otras cosas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/59100</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/59100/files/TAZ-TFG-2016-2697.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Electrónica y Automática</dc:subject>
+    <dc:title>Análisis resistente mediante Elementos Finitos del cigüeñal de un motor de combustión</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Resistant analysis by Finite element crankshaft of a combustion engine</dc:title>
+</oai_dc:dc>

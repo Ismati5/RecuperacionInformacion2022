@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Carrodeguas Villar, José Alberto</dc:contributor>
+    <dc:creator>Tarancón Iñiguez, Raquel</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>En este Proyecto estudiamos la proteína PSAP (presenilin 1-associated protein)  también conocida como Mtch1 (mitocondrial carrier homolog 1) por su función proapoptótica y su posible relación con la enfermedad del Alzhéimer. Con la intención de determinar si la sobreexpresión o la reducción de los niveles de PSAP producían cambios en la proliferación, muerte o morfología celular, se cultivaron células HEK293T y HeLa modificadas genéticamente que sobreexpresan o expresan muy bajos niveles de PSAP. Se ha constatado que las células conservaban las características propias de su modificación genética, por medio de la realización de controles con antibióticos y por la técnica del western blot, que demostró que los niveles de sobreexpresión de PSAP eran los esperados tras la modificación de las células HEK293 e inducción de la expresión. Las células se tiñeron con distintos fluorocromos y se estudiaron utilizando un microscopio óptico multidimensional, que también puede realizar experimentos en célula viva, lo que permitió llevar a cabo estudios de viabilidad y morfología celular. En el experimento de viabilidad, se puso de manifiesto la actividad proapoptótica de PSAP tras añadir camptotecina pues  la población que sobreexpresaba PSAP tenía la mayor tasa de mortalidad. Sin embargo, sin camptotecina, el crecimiento de esta población era similar al del resto de poblaciones con niveles de PSAP normales. Por otro lado, se vieron diferencias en cuanto a la morfología entre las células HEK293 con niveles de PSAP reducidos al 20% (HEK293-11C) y el resto de poblaciones.  Estos resultados indican la importancia de las investigaciones de PSAP para estudiar  las consecuencias de su inhibición y para entender  en profundidad la vía apoptótica que implica a esta proteína.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/15213</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Bioquímica y Biología Molecular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/15213/files/TAZ-TFG-2014-989_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/15213/files/TAZ-TFG-2014-989.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>mtch1/psap</dc:subject>
+    <dc:subject>apoptosis independiente de bax/bak</dc:subject>
+    <dc:subject>microscopía óptica multidimensional</dc:subject>
+    <dc:subject>Graduado en Biotecnología</dc:subject>
+    <dc:title>Determinación del efecto en cultivos celulares de la alteración de los niveles de MTCH1/PSAP mediante microscopía óptica multidimensional.</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

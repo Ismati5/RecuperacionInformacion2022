@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bernués del Río, Emiliano</dc:contributor>
+    <dc:creator>Esparza Andrés, Mikel</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>En este proyecto de fin de carrera se define un entorno de trabajo para el desarrollo de algoritmos de DeepLearning especializados en imagen.  Primero se estudian las bases que definen los algoritmos del Deep Learning profundizando mas en las redes neuronales. Después se realiza un trabajo de investigación de las diferentes librerías y lenguajes de programación óptimos para el desarrollo de este tipo de algoritmos. Con estos datos, definiremos un entorno de trabajo. Para finalizar, se comprueba que este entorno de trabajo es funcional implementando distintas redes neuronales especializadas en la clasificación de imagen basándonos en técnicas del estado del arte actual.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76832</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76832/files/TAZ-PFC-2018-006.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías y Servicios de Telecomunicación</dc:subject>
+    <dc:title>Definición y aplicación de un  entorno de programación para Deep learning aplicado al procesado de imágenes</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+    <dc:title xml:lang="en">Definition and application of a programming framework of Deep Learning for image processing</dc:title>
+</oai_dc:dc>

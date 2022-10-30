@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Hernández Ainsa, Carmen</dc:contributor>
+    <dc:contributor>Emperador Ortiz, Sonia</dc:contributor>
+    <dc:contributor>Montoya Villarroya, Julio</dc:contributor>
+    <dc:creator>Martín Rubio, Paula</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>El Síndrome de Pearson (PS) es una enfermedad mitocondrial rara caracterizada por la aparición de fallos multisistémicos, como anemia sideroblástica refractaria y disfunción del páncreas exocrino. Está causada por deleciones grandes únicas del ADN mitocondrial (mtADN) que afectan al sistema OXPHOS de la mitocondria. En este trabajo estudiamos el efecto en el metabolismo celular de una deleción mitocondrial de 6517 pb (6897-13414), causante del PS. Utilizamos como modelo celular cuatro clones de cíbridos mitocondriales de la línea celular CibPS-143B, con grados de heteroplasmia del 0 %, 60-65 %, 70-75 % y 75-80 %. Los parámetros analizados fueron el número de copias de mtADN, la actividad y cantidad del complejo IV mitocondrial (CIV), la actividad de citrato sintasa y los niveles de ATP mitocondrial. Observamos que al aumentar el grado de heteroplasmia de las células, se incrementa el déficit del CIV y disminuye la producción de ATP mitocondrial. Por otro lado, el aumento del porcentaje de deleción supone un incremento del número de copias de mtADN, lo que seguramente se trate de un mecanismo de compensación de la célula. Además, se ha observado que durante el crecimiento en cultivo los clones estudiados tienden a aumentar su grado de heteroplasmia, evolucionando hacia la homoplasmia mutante.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76771</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Bioquímica y Biología Molecular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76771/files/TAZ-TFG-2018-3159.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Biotecnología</dc:subject>
+    <dc:title>Caracterización bioquímica de un cíbrido transmitocondrial: un modelo celular del Síndrome de Pearson</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Biochemical characterization of transmitochondrial cybrid: a cell model of Pearson Syndrome</dc:title>
+</oai_dc:dc>

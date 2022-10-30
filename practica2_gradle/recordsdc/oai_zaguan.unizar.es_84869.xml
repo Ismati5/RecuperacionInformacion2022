@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Jahedi, Mohammad</dc:contributor>
+    <dc:creator>Martínez Gil, Pablo</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Regarding the great importance of fast cooling in steel industry for the production processes, a deep understanding of heat transfer and fluid dynamics must be held. A steel plate is heated up until a maximum temperature of 700 ⁰C to be then cooled down seconds later by a configuration of multiple impinging water jets. Different flow rates are used simultaneously by different adjacent jets to perform quenching over the sample, so different hardness is obtained in the material over a small area. Temperature drop in time is measured and monitored by embedded thermocouples and LabVIEW program. To achieve greater understanding of the quenching performance with different flow rates, several parameters are selected to be varied in order to achieve the best working conditions. Jet diameter takes values between 4 and 10 mm, initial temperature of quenching varies from 400 to 700 ⁰C, subcooling temperature is tested for 65 and 75 K, and jet velocity varies between 1.9 and 3.9 m/s. The result of total number of 9 experiments shown that variation of jet diameter does not influence substantially on the cooling rate if flow rate is kept constant. High initial quenching temperature (600-700 ⁰C) led to slightly higher cooling rate in the stagnation region of water jets. The peak value of heat transfer rate in the upwash flow zone was more highlighted for initial quenching temperature 600⁰C and below it. Higher values of subcooling and jet velocity produce better cooling rates. The result shown higher jet velocity at one column of water jets changes position of upwash flow slightly toward the adjacent column of jets with lower jet velocity. In general, the result shown that all the studied parameters did not have negative effect on obtaining various cooling rates over the steel plate.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/84869</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería Mecánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/84869/files/TAZ-TFM-2019-216.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Industrial</dc:subject>
+    <dc:title>Quenching a steel plate by water-impinging jets and different simultaneous flow rates</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Quenching a steel plate by water-impinging jets and different simultaneous flow rates</dc:title>
+</oai_dc:dc>

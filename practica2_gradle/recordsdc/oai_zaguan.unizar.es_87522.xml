@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Albajez García, José Antonio</dc:contributor>
+    <dc:contributor>Yagüe Fabra, José Antonio</dc:contributor>
+    <dc:creator>Díaz Pérez, Lucía Candela</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>The importance of nanotechnology in the world of Science and Technology has rapidly increased over recent decades, demanding positioning systems capable of providing accurate positioning in large working ranges. In this line of research, a nanopositioning platform, the NanoPla, has been developed at the University of Zaragoza. The NanoPla has a large working range of 50 mm × 50 mm and submicrometre accuracy. The NanoPla actuators are four Halbach linear motors and it implements planar motion. In addition, a 2D plane mirror laser interferometer system works as positioning sensor. One of the targets of the NanoPla is to implement commercial devices when possible. Therefore, a commercial control hardware designed for generic three phase motors has been selected to control and drive the Halbach linear motors.&lt;br /&gt;This thesis develops 2D positioning control strategy for large range accurate positioning systems and implements it in the NanoPla. The developed control system coordinates the performance of the four Halbach linear motors and integrates the 2D laser system positioning feedback. In order to improve the positioning accuracy, a self calibration procedure for the characterisation of the geometrical errors of the 2D laser system is proposed. The contributors to the final NanoPla positioning errors are analysed and the final positioning uncertainty (k=2) of the 2D control system is calculated to be ±0.5 µm. The resultant uncertainty is much lower than the NanoPla required positioning accuracy, broadening its applicability scope.&lt;br /&gt;</dc:description>
+    <dc:description>&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87522</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87522/files/TESIS-2020-034.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by/3.0/es</dc:rights>
+    <dc:subject>metrologia</dc:subject>
+    <dc:subject>sistemas de control</dc:subject>
+    <dc:title>Positioning Control System for a Large Range 2D Platform with Submicrometre Accuracy for Metrological and Manufacturing Applications</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Casas Nebra, Roberto</dc:contributor>
+    <dc:contributor>Marco Marco, Álvaro</dc:contributor>
+    <dc:creator>Martín Nuez, Luis Antonio</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Este proyecto está enmarcado dentro de mis prácticas en la empresa Libelium Comunicaciones Distribuidas S.L. Su motivación surge del interés en la creación de un dispositivo sensorial de parámetros biométricos que le permita utilizar esta tecnología, actualmente demasiado cara, a todo el mundo. Las redes sensoriales inalámbricas están formadas por una serie de nodos que miden parámetros de interés mediante sensores, y trabajan en conjunto para enviar esta información. La instalación de una red sensorial en el entorno de un paciente o persona con limitaciones, posibilita una atención y control constante, incluso en su propio domicilio. Para este proyecto se decide trabajar sobre la plataforma Open Source Arduino. Siguiendo las líneas de ese dispositivo, el proyecto se apoyará en las bases definidas por los productos del movimiento Open Source: contenido libre, accesibilidad, bajo coste... Por lo tanto, se pretende integrar en un único dispositivo una serie de sensores biométricos, para posibilitar la monitorización de parámetros vitales. Este seguimiento tiene que ser en tiempo real, de manera que es conocido el estado del sujeto y sus posibles necesidades. El campo de aplicación incluye todo tipo de monitorización de pacientes de forma poco invasiva, y otros usos que dependan de mediciones biomédicas. El primer paso consistirá en la búsqueda de las necesidades del usuario, investigación de sistemas ya existentes, y estudio de sensores en el mercado. Esto nos permitirá definir unos requisitos mínimos de la plataforma, con los que poder continuar trabajando. Una vez definidos los sensores se deben diseñar las diferentes etapas, el hardware formado por la electrónica de adaptación necesaria para los sensores elegidos. Con respecto al software, se implementará una librería con múltiples funciones y ejemplos, con el fin de facilitar su programación al usuario final. El resultado final pretende ser un dispositivo real, que se pueda comercializar como un producto acabado y funcional, acercando la tecnología de la monitorización médica a todos los lugares del planeta a un precio asequible, y que sirva como base para un futuro producto utilizable como "mini hospital" o centro de diagnóstico médico de bajo coste en países en vías de desarrollo o subdesarrollados.  Aplicable al campo de la telemedicina, se busca revolucionar esta tecnología, rompiendo con la privatización de este mercado y disminuyendo el precio del producto final en comparación con los prohibitivos precios de los dispositivos hospitalarios. Esto abrirá las puertas a un nuevo movimiento de tecnologías médicas libres.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/13441</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/13441/files/TAZ-PFC-2014-087.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>ehealth</dc:subject>
+    <dc:subject>e-salud</dc:subject>
+    <dc:subject>biometría</dc:subject>
+    <dc:subject>biometrics</dc:subject>
+    <dc:subject>arduino</dc:subject>
+    <dc:subject>plataforma</dc:subject>
+    <dc:subject>open source</dc:subject>
+    <dc:subject>sensores</dc:subject>
+    <dc:subject>biomedical signal processing</dc:subject>
+    <dc:subject>medicina</dc:subject>
+    <dc:subject>raspberry pi</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>e-Health sensor platform: Diseño e implementación de una plataforma sensorial biométrica para diagnóstico de pacientes en tiempo real y otras aplicaciones médicas</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

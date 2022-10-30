@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Bordejé, José Enrique</dc:contributor>
+    <dc:contributor>Hernández Ferrer, Javier</dc:contributor>
+    <dc:contributor>Peña Torre, José Ignacio</dc:contributor>
+    <dc:creator>Rodríguez Mata, Vanesa</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>En este Trabajo Fin de Máster se han sintetizado, caracterizado y optimizado aerogeles de grafeno con el objetivo de su utilización en aplicaciones de almacenamiento de energía, como electrodos de supercondensadores. A partir del método de síntesis ya implementado en el ICB, se han variado experimentalmente los diferentes parámetros del proceso y la composición de los aerogeles,  y se ha estudiado su influencia en las propiedades de interés como la capacitancia, la microestructura, la hidrofobicidad y la superficie específica, mediante distintos tipos de caracterización física y electroquímica. Mediante el ensayo electroquímico en configuración de tres electrodos, se han alcanzado valores elevados de capacitancia, de alrededor de los 400 F/g para aerogeles de grafeno de composición original, de 45 minutos en autoclave y congelación con N2 líquido; e incluso por encima de este valor para aerogeles de grafeno sintetizados con nanotubos de carbono con un tratamiento de oxidación en HNO3. Así, se han seleccionado los materiales más idóneos para esta aplicación, los cuales se han implementado como electrodos en supercondensadores “caseros”, sencillos y de bajo coste, para obtener una primera aproximación de su funcionamiento real en una configuración de dos electrodos en laboratorio, y poder así obtener y comparar sus características, como la densidad de energía y de potencia, con otros sistemas de almacenamiento de energía. Una vez representados en el diagrama de Ragone, se han situado los dispositivos fabricados junto al rango habitual de los supercondensadores respecto a su densidad de potencia gravimétrica, entre 2 y 5 kW/kg, y con valores de densidad de energía gravimétrica superiores a estos, llegando hasta casi los 9 Wh/kg, por lo que suponen un punto de partida prometedor para futuros estudios.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76215</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Ciencia de los Materiales e Ingeniería Metalúrgica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76215/files/TAZ-TFM-2018-933.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/76215/files/TAZ-TFM-2018-933_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Industrial</dc:subject>
+    <dc:title>Síntesis y caracterización de aerogeles de grafeno para aplicaciones de almacenamiento de energía</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Synthesis and characterization of graphene aerogels for energy storage applications</dc:title>
+</oai_dc:dc>

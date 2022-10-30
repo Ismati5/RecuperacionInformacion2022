@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Tricas Lamana, Fernando</dc:contributor>
+    <dc:contributor>Briz Velasco, José Luis</dc:contributor>
+    <dc:creator>Clemente Pedrico, Óscar</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>Este Trabajo de Fin de Grado se enmarca dentro de mi trabajo en Pariver S.A. y está compuesto por tres partes diferenciadas. Pariver recibió una oferta para un proyecto en El Salvador en la que se buscaba el uso del protocolo DNP3 en la comunicación entre sistemas SCADA. En este Trabajo de Fin de Grado se ha incluido también la creación del propio sistema SCADA y formar redes de comunicación entre ellos. \\ La primera tarea consistió en el estudio y análisis del protocolo DNP3 buscando toda la documentación posible del protocolo. Para subsanar las lagunas y dudas surgidas de la documentación he recurrido a simuladores del protocolo DNP3 y a un analizador de paquetes de red para realizar ingeniería inversa. La segunda tarea trató la implementación del protocolo DNP3 en sendas aplicaciones cliente y servidor que leen los valores de un fichero, los traducen al formato del protocolo y los envían para que sean leídos por el servidor. El servidor analiza los datos y verifica que son aceptables, si no lo son responde al cliente comunicando los cambios necesarios. La tercera y última tarea abarcó la configuración de las placas ARM GuruPlug sobre las que se desplegaron los clientes y servidores DNP3 y la utilización de sensores que comuniquen valores a los SCADA a través de placas Arduino mediante el protocolo Modbus. \\ El resultado es un sistema capaz de recolectar datos del entorno, enviarselos al servidor de forma encriptada, analizar los datos y corregir posibles problemas en la instalación en la que se ha implantado de forma automatica.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61143</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Arquitectura y Tecnología de Computadores</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61143/files/TAZ-TFG-2016-3635.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>Implementación del protocolo DNP3 en una red de sistemas SCADA empotrados para la monitorización de variables y dispositivos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Implementation of the DNP3 protocol in embedded SCADA systems for the monitorization of variables from sensors and devices</dc:title>
+</oai_dc:dc>

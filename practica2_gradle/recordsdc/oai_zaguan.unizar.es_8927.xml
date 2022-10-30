@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Luis Vitalla, Fernando María</dc:contributor>
+    <dc:contributor>Roubeau, Olivier</dc:contributor>
+    <dc:creator>Yubero Valdivielso, David</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El objetivo del trabajo es estudiar la potencialidad de complejos moleculares como posibles puertas lógicas √SWAP. En concreto, se investigan trímeros formados por dos átomos de Cu (espín ½), conectados por un átomo de Eu. Los dos primeros juegan el papel de qubits de espín mientras que el Eu actúa como un “interruptor” activado ópticamente la interacción entre ambos qubits. Se usa para ello el hecho de que Eu no tiene espín en el estado fundamental (con momento angular total J=0) y que es posible excitar este átomo a estados con J no nulo mediante la aplicación de pulsos luminosos. Los componentes de la puerta se estudian previamente por separado. Para ello se analizan, además, los complejos ZnEuZn y CuLaCu. El trabajo se organiza en las siguientes secciones: 	Introducción conceptual somera a la computación cuántica.  	Técnicas experimentales. 	Mecánica cuántica de la operación √SWAP. 	Descripción teórica del sistema. En esta sección se propone un hamiltoniano que explique correctamente su comportamiento y se deducen mecano-estadísticamente las magnitudes termodinámicas correspondientes a los trímeros en estudio. 	 Caracterización magnética y calorimétrica de moléculas de ZnEuZn, CuLaCu y CuEuCu en oscuridad con el objeto de determinar los estados de espín de cada componente de la molécula (es decir, de los dos átomos de Cu y del Eu), así como su acoplo magnético. 	Caracterización óptica de los compuestos ZnEuZn, CuLaCu y CuEuCu, con el fin de determinar las bandas de absorción y, en su caso, los procesos de desexcitación. 	Realización de medidas de la respuesta magnética en presencia de iluminación, con el fin de determinar la posibilidad de controlar la interacción entre los espines de Cu mediante la modificación del estado del átomo de Eu. 	Conclusiones del estudio: el complejo CuEuCu no constituye un candidato apto para puerta lógica √SWAP, al menos por el procedimiento seguido en su estudio.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8927</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física de la Materia Condensada; Área de Física de la Materia Condensada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8927/files/TAZ-TFM-2012-753.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/8927/files/TAZ-TFM-2012-753_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>puerta lógica cuántica swap</dc:subject>
+    <dc:subject>Máster Universitario en Física y Tecnologías Físicas</dc:subject>
+    <dc:title>Prototipos moleculares para puertas lógicas cuánticas</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Larrodé Pellicer, Emilio</dc:contributor>
+    <dc:contributor>Escalada de la Hoz, Alejandro</dc:contributor>
+    <dc:creator>Jimenez Navarro, Guillermo</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Este proyecto aborda el cálculo y diseño de la estructura portante sustentadora y el sistema de tracción para una instalación portátil de cable esquí. El proyecto incluye el cálculo del cable tractor que desplaza al esquiador, dimensionamiento de la estructura en forma de escalera que soporta el sistema de poleas tractor, así como del propio sistema tractor, compuestos por un conjunto de poleas, tambores de cable, una cadena de rodillos, reductor y motor. También se incluye el cálculo del cable de equilibrio de la estructura y un conjunto de patas que estabilizan el producto completo. En primer lugar, se han analizado las tensiones a las que se ve sometido el cable tractor por parte del esquiador y del propio peso del cable. Con esta tensión definida se han calculado los esfuerzos a los que se someterá la estructura portante, y se ha dimensionado consiguientemente. El siguiente paso ha sido el diseño y cálculo del sistema superior de poleas, y la polea del extremo opuesto. Ambas se han sometido a un proceso de elementos finitos para determinar el grosor de la chapa que lo compone. Mas adelante se idea el método por el que se traccionara el cable y se dimensiona el tambor que almacenara el mismo, así como los ejes, rodamientos, soportes, motor y reductor que lo componen, también se usa el método de elementos finitos para calcular los soportes que sustentan el sistema tractor. Para terminar, se estudia el sistema de montaje y desmontaje del conjunto portátil.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/69865</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería e Infraestructura de los Transportes</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/69865/files/TAZ-TFG-2017-4635_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/69865/files/TAZ-TFG-2017-4635.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Calculo, diseño y optimización de un sistema de cable esquí portátil sobre vehículo</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Calculation, design and optimization of a portable cable-sky system on a vehicle</dc:title>
+</oai_dc:dc>

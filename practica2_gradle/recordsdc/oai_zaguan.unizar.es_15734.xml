@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Nievas López, Javier</dc:contributor>
+    <dc:creator>Berriel Martins, Matías</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Este trabajo fin de grado se centra en el estudio de los tipos de cambio en su versión más conocida: la teoría de la Paridad del Poder de Adquisitivo (PPA). Inicialmente, se realiza un análisis teórico de dicha teoría, desde su planteamiento inicial hasta llegar a determinar los factores que se esconden detrás del tipo de cambio. Posteriormente se realiza un análisis de cointegración que rechaza su cumplimiento para varios países y se analizan las causas que han podido llevar a este rechazo. Para tratar de avanzar más en los determinantes del tipo de cambio, se formula un nuevo modelo monetario que, a través de la incorporación de nuevos determinantes teóricos, permite establecer y estimar una relación estable a largo plazo. Se concluye que, si bien la intuición detrás de la PPA la hace sumamente atractiva, los tipos de cambio son un fenómeno complejo que requieren un análisis que también lo sea.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/15734</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Análisis Económico</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/15734/files/TAZ-TFG-2014-1361.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>ppa</dc:subject>
+    <dc:subject>tipo de cambio</dc:subject>
+    <dc:subject>enfoque monetario</dc:subject>
+    <dc:subject>divisas</dc:subject>
+    <dc:subject>tipo de cambio real</dc:subject>
+    <dc:subject>análisis de cointegración</dc:subject>
+    <dc:subject>mce</dc:subject>
+    <dc:subject>Graduado en Economía</dc:subject>
+    <dc:title>Análisis de la PPA en los tipos de cambio:Teoría y evidencia empírica</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bayona Bafaluy, María Pilar</dc:contributor>
+    <dc:contributor>Garrido Pérez, Nuria</dc:contributor>
+    <dc:creator>Amezcua Gil, Javier</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>La transcripción del mtDNA es uno de los procesos más importantes en la regulación de la biosíntesis del sistema OXPHOS y en el mantenimiento del mtDNA por estar conectada con la replicación del mismo. La RNA polimerasa mitocondrial humana (POLRMT) actúa como molécula central de la transcripción, que se divide en tres etapas: iniciación, elongación y terminación. Para que se produzca la elongación es necesario el factor de elongación de la transcripción (TEFM), que aumenta la procesividad de POLRMT y se encuentra codificado por el gen nuclear TEFM. En el presente trabajo se ha llevado a cabo un estudio de la mutación c.1036C&gt;T en TEFM presente en el paciente 3304, que cursa con déficit serotoninérgico y disfunción hipotalámica, con el objetivo de determinar si es la responsable de la etiología de su enfermedad. Para ello, se ha analizado bioinformáticamente el carácter patológico de la mutación, se ha caracterizado el mtDNA del paciente y se ha valorado la existencia o ausencia de disfunción mitocondrial a nivel de producción de ATP, transcripción mitocondrial, cuantificación de subunidades del sistema OXPHOS y formación de complejos y supercomplejos respiratorios. Además, se ha aplicado un ensayo de complementación genética para analizar la recuperación de la función mitocondrial. La mutación c.1036C&gt;T se predice como patológica, el paciente carece de mutaciones en su mtDNA y presenta una disfunción mitocondrial que podría estar relacionada con los síntomas de su enfermedad. Finalmente, la sobreexpresión de TEFM wt perjudica la funcionalidad mitocondrial de las células del paciente, imposibilitando la terapia génica como tratamiento.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76307</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Bioquímica y Biología Molecular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76307/files/TAZ-TFM-2018-231.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster en Biología Molecular y Celular</dc:subject>
+    <dc:title>Estudio de patogenicidad de la mutación c.1036C&gt;T en el gen TEFM</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Study of c.1036C&gt;T mutation pathogenicity in TEFM gene</dc:title>
+</oai_dc:dc>

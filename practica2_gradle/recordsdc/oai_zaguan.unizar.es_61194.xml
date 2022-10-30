@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Palacín, José Ignacio</dc:contributor>
+    <dc:creator>Jiménez Torres, Roberto</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>Con este trabajo se pretende diseñar, simular y ejecutar el funcionamiento de un sistema neumático para una línea de envasado, aplicándose los conocimientos desde el punto de vista de la neumática e hidráulica y empleándose diversos actuadores neumáticos de distintos tamaños para realizar cada uno distintas operaciones. Para su realización, se han empleado distintos materiales facilitados por el área de mecánica de fluidos de la universidad y posteriormente adaptados para conseguir la correcta ejecución y funcionamiento del diseño previamente realizado. Este diseño de la línea de envasado, ha sido realizado con ayuda del programas de simulación: AutomationStudio, de tal forma que se han desarrollado previamente todos los distintos circuitos neumáticos y eléctricos y una vez simulados con este software, ha sido montado todos sus circuitos tanto eléctricos, neumáticos e hidráulicos y además todo lo que lleva implícito(montaje de soportes, ajustes de actuadores, etc.) para llevarse y ejecutarse tal y como previamente ha sido diseñado.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61194</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61194/files/TAZ-TFG-2016-3412.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Diseño y simulación de un sistema neumático para línea de envasado</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Design and simulation of a pneumatic system for packaging line</dc:title>
+</oai_dc:dc>

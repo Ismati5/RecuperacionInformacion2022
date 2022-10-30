@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Polo Llorens, Vicente</dc:contributor>
+    <dc:contributor>Frezzotti, Pablo</dc:contributor>
+    <dc:contributor>García Martín, Elena</dc:contributor>
+    <dc:creator>Herrero Latorre, Raquel</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Introducción:  El tema principal de las cuatro publicaciones internacionales que componen esta tesis doctoral se centra en el estudio de la capa de fibras nerviosas de la retina en pacientes con esclerosis múltiple como método para mejorar y acelerar el proceso diagnóstico así como el seguimiento y la monitorización de esta enfermedad.  Material y Métodos:  Se realizó un estudio observacional y prospectivo donde se incluyeron 150 sujetos con esclerosis múltiple y 150 sujetos sanos.  El protocolo exploratorio se realizó de modo coordinado entre oftalmología, neurofisiología y neurología y constó de tres tipos de pruebas: una exploración oftalmológica completa; una exploración neurofisiológica, que incluyó los potenciales evocados visuales (PEV); y una exploración neurológica que incluyó la valoración neurológica.  Se analizaron las diferencias en los distintos parámetros entre sujetos sanos y pacientes con esclerosis múltiple,  y entre pacientes con antecedente de neuritis óptica y sin el antecedente de la misma. Conclusiones: El análisis de la capa de fibras nerviosas de la retina es un buen biomarcador de la degeneración axonal progresiva que se produce en la esclerosis múltiple y es útil para evaluar la progresión de la enfermedad y la eficacia de los tratamientos en la protección de la degeneración axonal.  La función lineal discriminante que combina varios espesores de la capa de fibras nerviosas de la retina mejora la capacidad de la tomografía de  coherencia óptica Spectralis para detectar esclerosis múltiple y distinguir entre ojos con antecedente y sin antecedente de neuritis óptica. La técnica estadística de redes neuronales artificiales puede identificar correctamente un alto porcentaje de sujetos con esclerosis múltiples y permite clasificar aquellos ojos que han presentado antecedente de neuritis ópticas, con mayor precisión diagnóstica que cualquier parámetro aislado de la capa de fibras nerviosas de la retina obtenido a partir de la tomografía de coherencia óptica La representación del espesor de la capa de fibras nerviosas de la retina utilizando el modelo de geometría en tres dimensiones nos permite observar la distribución del daño axonal en pacientes con esclerosis múltiple con una mayor afectación del sector temporal, especialmente en aquellos pacientes con neuritis óptica previa.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12836</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Cirugía, Ginecología y Obstetricia</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12836/files/TESIS-2013-145.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>oftalmología</dc:subject>
+    <dc:subject>neurocirugía</dc:subject>
+    <dc:subject>neurociencias</dc:subject>
+    <dc:subject>neurofisiología</dc:subject>
+    <dc:title>Valor diagnóstico y pronóstico de la evaluación de la capa de fibras nerviosas de la retina en la esclerosis múltiple</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Cerecedo, Luis M.</dc:contributor>
+    <dc:contributor>García Rodríguez, Juan Antonio</dc:contributor>
+    <dc:creator>Ferruz Alba, María Victoria</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Una técnica ampliamente utilizada para la determinación de tamaños de partículas es la difracción. En el Área de mecánica de Fluidos de la Universidad de Zaragoza, se cuenta con un equipo apropiado para este fin: el equipo de difractometría Malvern HS-2600. Dicho equipo, adquirido en 1986, ya no dispone del ordenador que el fabricante suministró y actualmente se controla a través de un ordenador con sistema operativo Windows 3.11, lo que no permite emplear los recientes y potentes programas para el análisis de resultados, y los datos únicamente pueden ser transferidos a través de un disquete de 3½. La principal actividad es el desarrollo de un programa de adquisición de datos para la adquisición de los datos proporcionados por un difractómetro Malvern HS-2600 con una nueva tarjeta de adquisición de National Instrument, NI USB-6501. El desarrollo de un nuevo software permitirá la instalación en equipos con sistemas operativos modernos y, puesto que la nueva tarjeta se comunica con el ordenador a través de USB, permitirá el uso con cualquier ordenador. El código se escribe en C# puesto que se desea una aplicación que explote el potencial del entorno gráfico de Windows y, por tanto, es idóneo el uso de un lenguaje orientado a la programación con objetos. Se construye también un conector que adapta las entradas-salidas del equipo a la nueva tarjeta de adquisición. El trabajo a realizar, por tanto, consistirá en implementar todo lo necesario para habilitar la adquisición de datos con una nueva tarjeta de adquisición y validar todo con medidas para verificar tanto la adquisición de datos como el cálculo de la distribución de probabilidad de clases de tamaños.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/15895</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/15895/files/TAZ-PFC-2014-358.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Químico</dc:subject>
+    <dc:title>Desarrollo de un software para la adquisición de datos de un equipo de difractometría Malvern HS-2600 para determinar el tamaño de burbujas generadas por cavitación</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

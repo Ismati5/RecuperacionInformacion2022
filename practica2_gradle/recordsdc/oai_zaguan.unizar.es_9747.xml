@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ochoa Garrido, Ignacio</dc:contributor>
+    <dc:contributor>Hamdy Doweidar, Mohamed</dc:contributor>
+    <dc:creator>Pelegay Salas, Carlos</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>La artrosis es una enfermedad degenerativa de las articulaciones que produce el desgaste del cartílago originando dolor, rigidez e incapacidad funcional. En la actualidad, los tratamientos aplicados se centran en paliar sus efectos. Sin embargo no existen recursos eficaces para evitar su aparición, ni métodos para detener el proceso degenerativo. Las investigaciones actuales se encaminan al desarrollo de técnicas capaces de regenerar la estructura y el funcionamiento del tejido lesionado. Una de las ideas que está adquiriendo mayor importancia es el uso de implantes de células madre mesenquimales embebidas en matrices o andamios tridimensionales. Dichos andamios tienen como objetivo principal aportar el soporte estructural y facilitar la adhesión, proliferación y migración de las células, logrando así la regeneración tisular. Los hidrogeles son biomateriales que, debido a su elevada capacidad de absorción de agua y la gran similitud con el microambiente celular están demostrando ser particularmente útiles en el diseño y fabricación de andamios. Permiten la difusión de nutrientes y oxígeno a las células, así como la eliminación del dióxido de carbono y productos de desecho del interior del andamiaje. Sin embargo, quedan por estudiar aspectos fundamentales relacionados en gran medida con las propiedades macroscópicas de  los mismos. En particular estudios de las cargas que soportan, las velocidades de los flujos a través del material poroso, la permeabilidad, etc. Por lo tanto, es necesario conocer en profundidad cómo afectan dichas variables al comportamiento del hidrogel. Como objetivo principal de este proyecto se propuso caracterizar mecánicamente un nuevo material fabricado a base de hidrogel. Este biomaterial pretende mimetizar al cartílago articular humano para poder ser utilizado en un biorreactor en Ingeniería de Tejidos. Para ello se realizó el estudio de varias familias de andamios estructurales compuestos, en diferentes proporciones, a base de poly(ethyl acrylate) (PEA) que actúa como red de refuerzo y poly(hydroxyethyl acrylate) (PHEA) que es propiamente el hidrogel. Se analizó en detalle el proceso de síntesis, se caracterizó mecánicamente el material a nivel macro y micro-estructural y se determinó qué familia de material presentaba un comportamiento más semejante al del cartílago articular humano.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9747</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9747/files/TAZ-PFC-2012-734.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>ingeniería de tejidos</dc:subject>
+    <dc:subject>artrosis</dc:subject>
+    <dc:subject>hidrogeles</dc:subject>
+    <dc:subject>biorreactor</dc:subject>
+    <dc:subject>biomateriales</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Caracterización de biomateriales compuestos para su uso en ingeniería de tejidos</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

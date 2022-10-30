@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Santolaria Mazo, Jorge</dc:contributor>
+    <dc:contributor>Aguilar Martín, Juan José</dc:contributor>
+    <dc:creator>Mainz Salvador, Jorge</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El objetivo del presente trabajo final de master consiste en abordar el problema de calibración y de identificación de parámetros cinemáticos en los brazos articulados de medición por coordenadas. Este problema, entendido de forma general, persigue la obtención de los parámetros óptimos del modelo cinemático del brazo a partir de sus valores de diseño y gracias a un ajuste por mínimos cuadrados mediante la captura de puntos en un sistema de multilateralización, conseguir que el error de posicionamiento del brazo sea lo menor posible. El método utilizado aborda el problema desde un punto de vista matemático, ya que tras la captura de una serie de puntos medidos y nominales de la posición y orientación del brazo de forma simultanea por un lado con captura interna del propio brazo y por el otro capturando los puntos con los equipos patrón láser tracker que componen el sistema multilateralizado, este método obtendrá un conjunto de parámetros que minimiza el error de posicionamiento en las posiciones capturadas, mejoras de posicionamiento y precisión que pueden ser extrapolados al resto del volumen de trabajo del brazo.  Por lo tanto para obtener unos resultados óptimos se necesita capturar un número importante de puntos distribuidos en todo el volumen de trabajo para mejorar los resultados globales de precisión y repetibilidad direccional. En este trabajo se abordará: - Implementación del método para identificar los parámetros de un brazo articulado de medición por coordenadas FARO mediante la utilización del modelo matemático básico de Denavit-Hartenberg. - Modelización cinemática del brazo de medición de coordenadas y posterior implementación del modelo de Denavit-Hartenberg con el software MATLAB. - Generación de un sistema de coordenadas aplicando los principios de la cuatrilateralización mediante un sistema compuesto por cuatro equipos de medición patrón denominados láser tracker. - Realización de un ensayo de captura de nube de puntos de forma simultanea con el sistema multilateralizado y con el sistema interno modelizado del brazo articulado para una posterior comparación de valores de los sumatorios de las distancias entre los puntos capturados en ambos sistemas. - Manipulación de los valores cinemáticos del brazo mediante un programa que realiza la optimización e identificación de dichos parámetros con la finalidad de reducir la función objetivo compuesta por el sumatorio de las diferencias entre las distancias obtenidas entre los puntos del ensayo en sistema interno del brazo con respecto al sistema multilateralizado. - Realización de minimización de función objetivo mediante ajuste por mínimos cuadrados en MATLAB. - Validación experimental. Mediante una segunda medición se capturarán los puntos necesarios para comprobar que los parámetros del brazo identificados han mejorado la precisión inicial que poseía el equipo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6782</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6782/files/TAZ-TFM-2011-144.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6782/files/TAZ-TFM-2011-144_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>brazo articulado medición coordenadas </dc:subject>
+    <dc:subject>parámetros cinemáticos </dc:subject>
+    <dc:subject>calibración </dc:subject>
+    <dc:subject>multilateralización </dc:subject>
+    <dc:subject>modelado cinemático </dc:subject>
+    <dc:subject>matlab</dc:subject>
+    <dc:subject>laser tracker</dc:subject>
+    <dc:subject>Máster Universitario en Sistemas Mecánicos</dc:subject>
+    <dc:title>Técnica de calibración de brazos articulados de medición por coordenadas mediante patrones basados en multilateralización de sistemas de medida de alto rango</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sevilla Callejo, Miguel </dc:contributor>
+    <dc:contributor>Cámara Menoyo, Carlos</dc:contributor>
+    <dc:creator>Azkona Fuente, Kepa</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Este trabajo ha consistido en demostrar el gran valor añadido que suponen los Sistemas de Información Geográfica en la gestión, presentación y difusión de la información urbanística frente a los programas de dibujo asistido por ordenador. Para ello se ha llevado a cabo un estudio de caso con el Plan General Municipal (PGM) de Beriáin (Navarra) aprobado en 2014. Con la información de este plan se ha desarrollado un proceso de depuración y corrección de la información espacial para posteriormente generar dos herramientas con las cuales queda de manifiesto las ventajas que suponen los GIS en el planeamiento urbano. Por un lado, se ha creado un SIG urbanístico de escritorio, con el cual poder realizar diferentes consultas, análisis y cartografía con la información urbanística del PGM, y por otro lado, una aplicación web interactiva con la cual poder consultar e interactuar con la información urbanística del PGM. &lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/84777</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/84777/files/TAZ-TFM-2019-965.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Tecnologías de la Información Geográfica para la Ordenación del Territorio: Sistemas de Información Geográfica y Teledetección</dc:subject>
+    <dc:title>Actualización y publicación del planeamiento urbanístico con el uso de los sistemas de información geográfica: estudio de caso plan general municipal de Beriáin (Navarra).</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Update and publication of the urban planning with the use of the geographic information system: case study of the general municipal plan of Beriáin (Navarra).</dc:title>
+</oai_dc:dc>

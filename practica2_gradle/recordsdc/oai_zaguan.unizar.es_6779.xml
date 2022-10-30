@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Santolaria Mazo, Jorge</dc:contributor>
+    <dc:contributor>Naverac Aznar, María</dc:contributor>
+    <dc:creator>Frisa Rubio, Alberto</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El procedimiento actual para la elaboración de guías quirúrgicas para implantología dental, se basa en procedimientos que desarrollan centros especializados a partir de imágenes médicas como tomografías computarizadas o placas de rayos X, desde dónde se planifica la posición, tipo y características del implante dental y la férula a emplear como guía durante el trabajo quirúrgico. El presente Trabajo Fin de Máster trata en primer lugar de mejorar la cirugía optimizando la posición del implante mediante algoritmos matemáticos a través de la herramienta MATLAB, lo que ayudaría a aumentar el éxito de la intervención o a plantear una situación inicial de planificación para los profesionales en base a un posicionamiento que maximiza el hueso alrededor del implante, como uno de los principales criterios para la implantación duradera y osteointegración futura. Por otro lado, salva la problemática existente sobre la posibilidad que el implante llegue a colisionar con el nervio maxilar inferior incluyéndolo en los cálculos del algoritmo de optimización. De este modo, en este trabajo se abordará el procedimiento completo de diseño y fabricación de una guía quirúrgica dentosoportada para la colocación de implantes dentales, partiendo de la tomografía de una mandíbula inferior a intervenir. Una vez obtenido el CAD a partir de la tomografía, el procedimiento partirá de la planificación manual del dentista y planteará, mediante una técnica de optimización no lineal, varias alternativas de algoritmos de optimización de la posición de los implantes con el objetivo de maximizar el espesor de hueso entorno a cada uno de ellos. Como dato de entrada al algoritmo se partirá del archivo 3D .STL de la mandíbula, que se dividirá en capas para obtener nubes de puntos parciales a modo de secciones. El algoritmo de optimización trabajará con nubes de puntos y efectuará dichas optimizaciones de acuerdo a: - Diagrama de Voronoi: establecerá para cada capa de trabajo un nuevo punto del eje del implante de manera que equidiste de los puntos restantes de las paredes de la mandíbula. - Optimización del eje de implante: partiendo del eje del implante planificado inicialmente definido por un vector de 6 componentes que contiene las tres coordenadas x,y,z de su punto base y las tres coordenadas i,j,k que definen su vector dirección, se obtiene un nuevo vector del implante que ha definido una nueva dirección que minimiza la diferencia total por capa entre cada punto del eje y la distancia al punto más próximo de la pared de la mandíbula. Con esta nueva planificación obtenida, se lleva a cabo el procedimiento de diseño de una férula de montaje dentosoportada para su uso en la cirugía mediante fabricación aditiva con prototipado rápido, incluyendo las consideraciones de diámetro de los registros de guiado de fresado y colocación de implantes, profundidad máxima de fresado y zonas de irrigación. Finalmente, la validación del presente trabajo se realiza mediante la fabricación de un biomodelo de la mandíbula del paciente para el que se ha elaborado la férula optimizada, mediante prototipado rápido a partir del CAD, sobre la que se evaluará el montaje de la férula obtenida también mediante técnicas de fabricación aditiva.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6779</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6779/files/TAZ-TFM-2011-141.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>ingeniería biomédica</dc:subject>
+    <dc:subject>fabricación aditiva</dc:subject>
+    <dc:subject>prototipado rápido</dc:subject>
+    <dc:subject>hueso</dc:subject>
+    <dc:subject>mandíbula</dc:subject>
+    <dc:subject>diente</dc:subject>
+    <dc:subject>diseño</dc:subject>
+    <dc:subject>optimización</dc:subject>
+    <dc:subject>fabricación</dc:subject>
+    <dc:subject>algoritmo</dc:subject>
+    <dc:subject>Máster Universitario en Sistemas Mecánicos</dc:subject>
+    <dc:title>Diseño, optimización y fabricación de férulas para cirugía guiada en implantología dental mediante técnicas de fabricación aditiva</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

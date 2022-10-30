@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gutiérrez Pérez, Diego</dc:contributor>
+    <dc:creator>Martín González, Miguel</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>Hoy en día, las imágenes de alto rango dinámico (High Dynamic Range Imaging, o HDRI) reciben una cuidadosa atención desde el punto de vista cinematográco e industrial. El margen dinámico es el rango de iluminación (EV) en el que la cámara es capaz de ver detalle. Un margen dinámico elevado permite que, pese a que la instantánea tenga zonas con luces fuertes y sombras oscuras, se mantenga el detalle en ambas iluminaciones. Cuando se supera el margen dinámico, las zonas sobreexpuestas1 aparecen totalmente blancas y las sombras totalmente negras, de manera que resulta imposible recuperar la textura original. En los gráficos por ordenador y en la fotografía, HDRI es un conjunto de técnicas que permiten un mayor rango dinámico de exposición que las técnicas usuales de fotografía digital. La intención de la tecnología HDRI es representar de forma precisa el amplio rango de niveles de intensidad que se encuentran en las escenas reales, desde la luz directa del sol a las sombras más oscuras. HDRI permite el almacenamiento de un amplio abanico de valores fotométricos físicamente precisos para cada píxel, asemejándose a los que es capaz de percibir el sistema visual humano.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4504</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4504/files/TAZ-PFC-2010-002.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Fotografía computacional</dc:subject>
+    <dc:subject>Mapeado de tono</dc:subject>
+    <dc:subject>Tone mapping</dc:subject>
+    <dc:subject>Reverse tone mapping</dc:subject>
+    <dc:subject>Subexposición</dc:subject>
+    <dc:subject>Sobreexposición</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Fotografía Computacional para imágenes subexpuestas y sobreexpuestas</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

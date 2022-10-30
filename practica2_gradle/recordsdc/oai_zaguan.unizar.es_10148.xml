@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Monne Bailo, Carlos</dc:contributor>
+    <dc:creator>Calleja del Ser, Juan</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Este proyecto consiste en la búsqueda de una solución al problema de disipación de calor que aparece en los LED de iluminación de alta potencia. Dada la evolución que han experimentado estos dispositivos en los últimos años, se ofertan en el mercado elementos comerciales con unas elevadas potencias de trabajo sobre superficies físicas muy reducidas, una situación perfectamente comparable a la de los procesadores o CPU’s de los equipos sobremesa actuales. Se parte de un estudio térmico del LED en el cual intervienen las limitaciones impuestas por el fabricante del dispositivo en lo referente a degradación del mismo, además de las condiciones de contorno del ambiente que se imponen de forma arbitraria. El resultado del estudio arroja un valor mínimo de disipación de calor que deberemos cumplir en cualquier caso para el correcto funcionamiento del LED. Para este proyecto se escogen, de entre diversos catálogos, disipadores comerciales aptos para las necesidades del LED que se han calculado. Además se diseñan otros modelos que pretenden resultar al menos tan competitivos como los anteriores o incluso mejores en algunos aspectos. Todos los disipadores, comerciales y diseñados, se simulan en el programa de elementos finitos SolidWorks 2011. Con los resultados que se obtienen de las simulaciones en el programa se emiten unas conclusiones centradas en la selección de la mejor solución de todas, orientada principalmente en aquella que ocupe un menor volumen y, en consecuencia, un menor peso, ya que éste está directamente relacionado con el precio final del mismo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10148</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10148/files/TAZ-PFC-2013-086.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>disipadores</dc:subject>
+    <dc:subject>led en iluminación</dc:subject>
+    <dc:subject>transferencia de calor</dc:subject>
+    <dc:subject>heat sink</dc:subject>
+    <dc:subject>solidworks</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Disipadores de calor para iluminación con LED de potencia</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Saz Sánchez, Miguel Ángel</dc:contributor>
+    <dc:creator>Gento Arranz, Iván</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>Los modelos de nieve son muy útiles en la gestión del recurso y en el análisis de los procesos y actividades en las que interviene, pero la mayoría se centra en su cuantificación obviando su localización. El objetivo de este trabajo es definir mediante Sistemas de Información Geográfica, los lugares de alta montaña donde hay más probabilidades de que se acumule nieve y ésta perdure durante un mayor periodo de tiempo, diferenciando los factores que intervienen en los procesos de acumulación y fusión, y el influjo de cada uno. Para ello se ha establecido una metodología de trabajo y se ha creado un modelo y una herramienta que automaticen el proceso.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76188</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio; Área de Geografía Física</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76188/files/TAZ-TFM-2018-1016.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Tecnologías de la Información Geográfica para la Ordenación del Territorio: Sistemas de Información Geográfica y Teledetección</dc:subject>
+    <dc:title>Modelización de las zonas de acumulación de nieve en ambientes de alta montaña mediante Sistemas de Información Geográfica</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Modeling of snow accumulation zones in high mountain environments through Geographic Information Systems</dc:title>
+</oai_dc:dc>

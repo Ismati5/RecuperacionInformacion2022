@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Giménez Esteban, Gregorio</dc:contributor>
+    <dc:creator>López Borrell, Ana Mª</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>Este trabajo estudia el rol que juega la tecnología en el crecimiento económico de los países desarrollados. Para ello, se utiliza un modelo neoclásico ampliado con tecnología; a partir de un panel de datos con información para 24 economías de la OCDE y un periodo, en lustros, comprendido entre 1950 y 2000. El panel se estimó mediante una regresión de efectos fijos para corregir la heterogeneidad espacial y temporal. La hipótesis de efectos fijos se testa mediante un contraste de Hausman. Para medir la innovación, se hace uso de la apertura comercial, siguiendo el enfoque sugerido por autores como Elhanan Helpman, Philippe Aghion o Peter Howitt. La apertura estaría recogiendo la capacidad de difusión y asimilación de la tecnología. La utilización de la técnica de datos de panel en un modelo de crecimiento neoclásico ampliado, que aproxima la innovación mediante la apertura comercial, supone, hasta donde nosotros conocemos, una novedad en la realización de trabajos de fin de grado en la Facultad de Economía y Empresa de la Universidad de Zaragoza. Los resultados que se obtienen permiten inferir la existencia de una correlación positiva y significativa entre la asimilación de tecnología y el crecimiento de los países de la muestra. En conclusión, la innovación supone un elemento clave para el crecimiento económico de los países desarrollados en las últimas décadas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/56580</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/56580/files/TAZ-TFG-2016-2336.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Economía</dc:subject>
+    <dc:title>Tecnología y Comercio Internacional: Análisis de su importancia para el crecimiento de la OCDE a partir de un modelo neoclásico ampliado</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Technology and International Trade: Analysis of its importance for the growth of the OECD countries using an extended neoclassical model</dc:title>
+</oai_dc:dc>

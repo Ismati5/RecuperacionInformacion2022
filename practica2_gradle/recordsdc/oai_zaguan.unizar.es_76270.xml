@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Menichetti, Stefano </dc:contributor>
+    <dc:contributor>Viglianisi, Caterina</dc:contributor>
+    <dc:creator>Marín Miana, Iván</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>Los helicenos son unos compuestos únicos debido a su estructura y a las propiedades que derivan de dicha estructura, así como de su disposición electrónica. El término heliceno comprende una gran variedad de compuestos dependiente del esqueleto de la molécula, podemos estudiar diferentes heterohelicenos como thia[n]helicenos, aza[n]helicenos or oxa[n]helicenos. A parte de por su peculiar estructura los helicenos destacan por el gran número de usos que pueden tener: desde ligandos en catálisis asimétrica hasta fármacos capaces de interaccionar con la doble hélice de ADN pasando por sustancias electroactivas útiles en el almacenamiento de información o en la fabricación de baterías. Vinculado con este último punto, recientemente diversos grupos han estudiado la idea de sintetizar polímeros con cadenas laterales que contengan distintos grupos electroactivos para el almacenamiento de energía u otras aplicaciones relacionadas.  En este trabajo de fin de máster se ha buscado obtener distintos monómeros que contengan unidades heteroheliceno los cuales permitan obtener polímeros y copolímeros con ramificaciones laterales que posean diferentes helicenos terminales. Una vez obtenidos dichos polímeros helicénicos se estudiará la formación de los correspondientes radicales.  Para el proceso de polimerización se han utilizado dos reacciones diferentes: una de ellas es la polimerización RAFT, la cual se basa en una polimerización radicalaria controlada. Además de homopolímeros permite obtener copolimeros bloque en nuestro caso un bloque de PEG hidrófilo y otro de polimetacrilato con unidad heliceno hidrófobo. El otro tipo de polimerización realizada es la Ring Opening Metathesis Polymerization, esta reacción se basa en el uso del catalizador de Grubbs, un complejo organometálico de Rutenio que permite polimerizar dobles enlaces presentes en anillos como es el caso del norborneno, el ciclopenteno o el ciclohexeno.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76270</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76270/files/TAZ-TFM-2018-699.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Química molecular y Catálisis Homogénea</dc:subject>
+    <dc:title>Síntesis y (co)polimerización de (co)monómeros que contienen diferentes unidades de forma helicoidal</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Synthesis and (co)polymerization of (co)monomers containing different helical shaped units</dc:title>
+</oai_dc:dc>

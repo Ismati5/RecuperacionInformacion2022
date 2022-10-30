@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Rodríguez, Juan Antonio</dc:contributor>
+    <dc:contributor>Santolaya Sáenz, José Luis</dc:contributor>
+    <dc:creator>Clavel Villagrasa, Daniel</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>La utilización de ondas ultrasónicas para producir la atomización de líquidos es una alternativa a los métodos tradicionales de atomización, que resulta muy atractiva por las características de la distribución de tamaños que genera: monodispersas y con tamaño de gota controlado por la frecuencia de la onda. Podría ser aplicada en diversos procesos industriales como producción de energía, lubricación, procesos de secado, aplicación de pinturas y también en otros ámbitos, como en la atomización de medicamentos. Los experimentos realizados hasta la fecha han tratado de determinar cuáles son los fenómenos físicos responsables del proceso de atomización ultrasónica, sin que todavía se conozcan con exactitud. Cavitación e inestabilidad en las ondas generadas en la superficie libre son las causas más estudiadas y que parecen intervenir de forma simultánea. Este trabajo pretende caracterizar la evolución de las perturbaciones ultrasónicas en el seno de una masa de líquido y tratar de aportar más conocimiento al origen de los procesos de atomización. Para generar la onda ultrasónica en la masa líquida de agua se utilizan transductores piezoeléctricos con unas características definidas por el fabricante y en el estudio de las perturbaciones se emplea un hidrófono de alta sensibilidad. Se han establecido diferentes condiciones de ensayo. En particular, se han manejado diferentes voltajes de alimentación del piezoeléctrico, diferentes alturas de lámina de agua y dos configuraciones geométricas que han consistido, en un caso, en un transductor situado en la base del recipiente y en otro caso, en dos transductores enfrentados a 45. Para el desarrollo de los experimentos se ha construido una instalación apropiada y se han definido y determinado los parámetros que permiten la caracterización de la perturbación. En el trabajo se describe el montaje experimental y los equipos empleados durante la realización de las medidas. También los procedimientos seguidos, los problemas que han surgido y cómo se han resuelto. En los resultados obtenidos se ha observado que la intensidad de la perturbación es muy sensible a las variaciones del voltaje de alimentación del piezoeléctrico y muy poco sensible a la altura de la lámina líquida para medidas realizadas a una misma distancia del piezoeléctrico. La utilización de dos piezoeléctricos permite incrementar localmente la intensidad de la perturbación y detectar diferencias en las frecuencias de vibración.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31527</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31527/files/TAZ-TFG-2014-1904.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>atomización ultrasónica</dc:subject>
+    <dc:subject>instalación experimental</dc:subject>
+    <dc:subject>onda acústica</dc:subject>
+    <dc:subject>piezoeléctrico</dc:subject>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Caracterización experimental de la onda acústica producida por un piezoeléctrico en el seno de una masa líquida</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

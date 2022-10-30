@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Velázquez Campoy, Luis Fernando</dc:contributor>
+    <dc:creator>Montaner García, Santiago</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>En este trabajo se estudia la relación existente entre la teoría espectral de operadores acotados autoadjuntos y la teoría de polinomios ortogonales en la recta real (PORR) a través de las llamadas matrices de Jacobi. Hay dos resultados clásicos en teoría espectral que se demuestran en este trabajo y que son de gran utilidad aquí: el criterio de Weyl, que sirve para caracterizar el espectro esencial de un operador autoadjunto; y el teorema de Weyl, que arma que las perturbaciones compactas de un operador autoadjunto conservan el espectro esencial. De la teoría de PORR se demuestran dos resultados básicos: la relación de recurrencia a tres términos y el teorema de Favard, que dada un relación de recurrencia a tres términos entre polinomios, asegura la existencia de una medida conocida como medida de ortogonalidad. Además, se estudian los polinomios de Chebychev de primera especie, que resultan de interés porque pueden modicarse con facilidad para obtener resultados de cierta generalidad. Finalmente, se establece la relación que hay entre las dos teorías introducidas previamente. La clave de esta conexión son los operadores de Jacobi, que pueden representarse mediante matrices tridiagonales simétricas y que están estrechamente relacionadas con la relación de recurrencia de las sucesiones de polinomios ortogonales. En este trabajo, la conexión que existe entre la teoría de polinomios ortogonales y la teoría espectral de operadores se explota para obtener información sobre los puntos de acumulación del soporte de la medida de ortogonalidad de una sucesión de polinomios ortogonales, siendo el teorema de Krein que se demuestra en esta memoria uno de los resultados más ilustrativos del enfoque adoptado en este trabajo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8740</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Matemáticas; Área de Análisis Matemático</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8740/files/TAZ-TFM-2012-693.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>polinomios ortogonales</dc:subject>
+    <dc:subject>espectral</dc:subject>
+    <dc:subject>operadores</dc:subject>
+    <dc:subject>jacobi</dc:subject>
+    <dc:subject>krein</dc:subject>
+    <dc:subject>chebychev</dc:subject>
+    <dc:subject>espectro</dc:subject>
+    <dc:subject>esencial</dc:subject>
+    <dc:subject>medida</dc:subject>
+    <dc:subject>ortogonalidad</dc:subject>
+    <dc:subject>Máster Universitario en Iniciación a la Investigación en Matemáticas</dc:subject>
+    <dc:title>Teoría de polinomios ortogonales y teoría espectral</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

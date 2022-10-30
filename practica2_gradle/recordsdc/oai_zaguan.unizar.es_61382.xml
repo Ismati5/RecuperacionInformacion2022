@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Barra García, Rebeca</dc:contributor>
+    <dc:contributor>Royo Vázquez, Emilio</dc:contributor>
+    <dc:creator>Alierta Cirisuelo, Javier</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Un cuaderno de cargas es un documento técnico en el que se recogen todos los elementos necesarios para el proceso del producto. En este caso se elabora un cuaderno de cargas para galgas debido a la necesidad de estandarización de un proceso como es la fabricación de galgas donde entra en juego varios procesos antes de su fabricación e incluso posteriores para su debida utilización. Se diseña un cuaderno de cargas base que sirva para todos los proyectos en los que se decida fabricar una galga para evitar la problemática que surge al intervenir diversas personas de varios departamentos y elaborar así, un documento para que se haga un trabajo común independientemente quien lo realice. Para poder implementar este proyecto en Mann+Humel Ibérica, se ha decidido comenzar con un conjunto flexible compuesto por un tubo soplado como pieza de prueba debido a su complejidad. Para saber cuándo implementar este documento se diseña un IDEF0 y un diagrama FLOWCHART donde se especifica todos los pasos a seguir, donde interviene cada departamento y que es necesario cumplir en cada parte para dejar estandarizado todo el proceso desde que se decide su necesidad hasta su uso. Como se puede comprobar, finalmente ha sido útil la aplicación de introducir un cuaderno de cargas para este proceso, se ha reducido el número de reuniones para ponerse de acuerdo en todos los puntos sin que aparezcan problemas ni a mitad ni al final del proceso, se ha conseguido desde un inicio tener en cuenta las especificaciones técnicas que aparecen una vez más avanzado el proyecto y que se pueden corregir, de esta manera, en un tiempo más temprano para generar un menor coste y consiguiendo así un proceso más estable. Otro punto importante es que se ha conseguido mantener el tiempo de cada proceso como se indicó en un inicio, debido a que se pudo tener en cuenta desde un inicio todos los procesos teniendo en cuenta los retrasos que podían aparecer y en qué puntos se dio un tiempo realista y se llegó a tener la galga en el tiempo que se esperaba.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61382</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61382/files/TAZ-TFG-2017-453.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/61382/files/TAZ-TFG-2017-453_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Cuaderno de cargas para la fabricación de galgas aplicado a un tubo soplado</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Manufacturing manual for a gagging fixture applied on a blowing duct</dc:title>
+</oai_dc:dc>

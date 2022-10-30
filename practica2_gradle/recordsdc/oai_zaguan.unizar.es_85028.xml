@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Moliné Arroyo, Ana</dc:contributor>
+    <dc:contributor>Villaroel Salcedo, José Luis</dc:contributor>
+    <dc:creator>Carmen Buil, Raúl</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>El TFG consiste en diseñar un automatismo que realice el montaje de racor DIN 2353 evitando preparaciones costosas, y accesible a trabajadores poco formados. El racor DIN 2353 es un racor conductor que se utiliza para realizar la unión entre elementos hidráulicos, habitualmente, tubos rígidos. El sistema debe desarrollarse cumpliendo los tiempos de ciclo objetivo y el presupuesto fijado por el grupo DICSA.&lt;br /&gt; &lt;br /&gt;Se ha optado por una máquina que automatiza el proceso mediante dos brazos robóticos que manipulan las piezas, recogiéndolas de unas plataformas vibrantes y llevándolas a los centros de ensamblaje. La posición de recogida es determinada por cámaras de visión artificial. Aseguramos el correcto montaje del racor mediante un sensor de comprobación que actúa tras el ensamblado. Toda la secuencia de trabajo esta comandada por un PLC. La alimentación de las piezas se realiza desde unas tolvas externas. El sistema va protegido por un vallado perimetral que garantiza la seguridad. &lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/85028</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/85028/files/TAZ-TFG-2019-3412_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/85028/files/TAZ-TFG-2019-3412.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Automatización y reducción de preparaciones en el proceso de montaje del racor DIN 2353</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Racor DIN 2353: Automation and reduction of the assembly proccess</dc:title>
+</oai_dc:dc>

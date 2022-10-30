@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Puimedón Santolaria, Jorge Mario</dc:contributor>
+    <dc:creator>Coarasa Casas, Iván</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>Los experimentos dedicados a sucesos poco probables, como la búsqueda de materia oscura o la doble desintegración beta, precisan de blindajes que protejan los detectores de la radiación gamma emitida por la radiactividad del entorno. Los materiales más utilizados son el plomo y el cobre. Las medidas llevadas a cabo en este Trabajo Fin de Grado consisten en la comparación de un blindaje de plomo de 25 cm de espesor que rodea un detector de germanio hiperpuro, situado en el laboratorio subterráneo de Canfranc, con otro exactamente igual, pero sustituyendo los 10 cm internos del blindaje por cobre. Hemos observado que los ladrillos de cobre constituyentes del blindaje han sido activados por los neutrones procedentes de los rayos cósmicos desde su fabricación hasta su llegada al laboratorio, produciendo el radioisótopo 58Co (T1/2 = 70.83 días). Hemos estimado el tiempo de exposición en 66 ± 10 días a nivel del mar, y han sido suficientes unos 100 días tras la llegada del cobre al laboratorio para alcanzar la situación de fondo constante. Las principales conclusiones obtenidas son: entre 20 y 100 keV es mejor el blindaje de cobre, pues en el de plomo aparecen los rayos X característicos del plomo, elevando el nivel de radiación. Entre 100 keV y 3.0 MeV el ritmo es mayor con el blindaje de cobre que con el de plomo por la presencia del 58Co y la acumulación de 222Rn; pero, tras la desintegración del 58Co y, utilizando ventilación forzada para reducir los niveles de 222Rn, el ritmo con el blindaje de cobre es menor que con el de plomo. Entre 3.0 y 5.4 MeV el plomo produce más radiación de bremsstrahlung al tener un número atómico mayor, llegando a generar un nivel de radiación casi tres veces mayor que en el blindaje de cobre.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31751</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Teórica; Área de Física Atómica, Molecular y Nuclear</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31751/files/TAZ-TFG-2015-1724.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/31751/files/TAZ-TFG-2015-1724_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Física</dc:subject>
+    <dc:title>Atenuación de la radiación gamma con blindajes de plomo y cobre</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

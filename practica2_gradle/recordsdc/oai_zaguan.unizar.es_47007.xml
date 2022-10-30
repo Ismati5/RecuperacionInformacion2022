@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>de la Riva Fernández, Juan</dc:contributor>
+    <dc:creator>Vicente Bartolí, Eduardo</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>Los espacios naturales protegidos por sí mismos se consideran insuficientes para la conservación de la biodiversidad, en el sentido de que actúan como entidades aisladas en el territorio que no tienen en cuenta el flujo de genes e individuos entre las distintas poblaciones para asegurar su supervivencia. Por lo tanto, existe la necesidad de fomentar la conectividad ecológica entre dichos espacios a través de corredores ecológicos. Este asunto es una asignatura pendiente en Aragón aunque es algo que está contemplado por diversos textos legales, como la última actualización de la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad, además de ser un objetivo específico en la política territorial de esta Comunidad Autónoma. El presente trabajo constituye una aproximación al diseño de corredores ecológicos entre espacios de la Red Natura 2000 en Aragón, para ello se utiliza una metodología basada en el método Least Cost Path o LCP y en el diseño de capas de fricción. Además, se introducirán dos variaciones en el cálculo para analizar su papel en los cambios de los resultados. Estos ponen de manifiesto las ventajas y limitaciones del método empleado, así como la importancia de una asignación adecuada de valores de resistencia durante la construcción de la capa de fricción.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/47007</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio; Área de Análisis Geográfico Regional</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/47007/files/TAZ-TFM-2015-1084.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Tecnologías de la Información Geográfica para la Ordenación del Territorio: Sistemas de Información Geográfica y Teledetección</dc:subject>
+    <dc:title>Aproximación metodológica para el diseño de corredores ecológicos en Aragón</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

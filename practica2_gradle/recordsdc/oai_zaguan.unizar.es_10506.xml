@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Torres Portero, Manuel</dc:contributor>
+    <dc:creator>Miranda Baile, José Emilio</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El sistema que se ha conseguido con la creación de este proyecto es un aparato electroestimulador de uso profesional para utilizar en clínicas deportivas, donde existan clientes que necesiten una mejora de sus condiciones físicas por medio de entrenamientos alternativos a los convencionales, utilizando para ello corrientes eléctricas. 	El aparato debe ser utilizado bajo personal cualificado ya que son necesarios unos conocimientos sobre los temas relacionados con la utilización de este tipo de dispositivos, como la seguridad, el tiempo de utilización, elección de parámetros...etc. 	Concretando, las funciones principales del aparato son: aumento de la masa muscular del paciente, mejora de la resistencia física del paciente y una recuperación más rápida de posibles agotamientos musculares y fisuras, mejorando la circulación sanguínea de la zona a tratar. 	Estas funciones se pondrán conseguir por medio de la variación de los diferentes parámetros como la frecuencia, anchura de pulsos, número de pulsos, tiempo de descanso que aparecerán para seleccionarlos en la pantalla del sistema, una vez se halla conectado. 	El aparato dispone de dos canales para la electroestimulación, pudiendo colocar de esta manera 4 electrodos en el cuerpo del paciente. Ambos canales tienen la misma onda de salida menos la variación de la intensidad, ya que si se quieren trabajar ambos lados del cuerpo, uno siempre está más desarrollado que el otro y no soporta los mismos valores de intensidad. 	Resumiendo, el bioestimulador muscular creado se centra en uso específico para deportistas de alto rendimiento que pretendan mejorar sus aptitudes físicas con ayuda de corrientes eléctricas por medio de un aparato de gran robustez y de un precio muy competitivo para el mercado actual.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10506</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Expresión Gráfica de la Ingeniería</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10506/files/TAZ-PFC-2013-204_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/10506/files/TAZ-PFC-2013-204.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>bioestimulador muscular</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electrónica Industrial)</dc:subject>
+    <dc:title>Bioestimulador muscular</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

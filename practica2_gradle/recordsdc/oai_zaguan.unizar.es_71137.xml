@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Cebrián Auré, Guillermo</dc:contributor>
+    <dc:contributor>Halaihel Kassab, Nabil</dc:contributor>
+    <dc:creator>Calero Martínez, Silvia</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>El pescado es un producto esencial en la dieta de gran parte de la población mundial y por tanto de gran interés económico. En los últimos años sus canales de distribución han evolucionado estimulando el desarrollo de nuevos métodos de conservación para prolongar su vida útil y de nuevos sistemas para la estimación de su vida útil que ayuden a optimizar su gestión y comercialización. El desarrollo de estos últimos es posible mediante el uso de modelos de predicción del crecimiento microbiano, sin embargo es necesaria una cuantificación rápida y efectiva de los mismos, y más específicamente de los microorganismos responsables de la alteración, que en el caso de la merluza es, principalmente, P. phosphoreum. Las técnicas moleculares, en concreto la qPCR, podría suplir a la microbiología “cultivo-dependiente” en este aspecto dada su elevada especificidad, sensibilidad y velocidad para obtener resultados. En este proyecto se ha puesto a punto un ensayo qPCR para determinar la concentración de este microorganismo y evaluado la aplicación de esta técnica para la predicción de vida útil en merluza conservada en atmósfera modificada rica en CO2. Los resultados obtenidos indican que el ensayo de qPCR que se ha puesto a punto es un método rápido y efectivo para determinar la concentración de P. phosphoreum en filetes de merluza. Por otra parte, este ensayo, combinado con el modelo predictivo desarrollado por Artaiz (2016) estimó una vida útil de la merluza muy similar a la determinada mediante análisis sensorial, lo que indica que de este modo se puede predecir la vida útil del pescado en pocas horas. Finalmente, se ha logrado poner a punto un protocolo de extracción de DNA bacteriano purificado para comenzar el estudio del metagenoma del pescado, que permita comparar la flora total del pescado fresco, frente a la que está presente en el pescado alterado.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/71137</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Producción Animal y Ciencia de los Alimentos; Área de Tecnología de Alimentos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/71137/files/TAZ-TFG-2018-1769.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ciencia y Tecnología de los Alimentos</dc:subject>
+    <dc:title>Aplicación de técnicas moleculares al estudio de la vida útil de filetes de merluza conservados en atmósferas modificadas</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Application of molecular techniques for the study of the shelf-life of hake fillets stored under MAP</dc:title>
+</oai_dc:dc>

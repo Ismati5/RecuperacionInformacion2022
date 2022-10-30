@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Grasa Orús, Jorge</dc:contributor>
+    <dc:creator>Montañés Solana, Alfonso</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>La realización de este proyecto consiste en simular un cuadro genérico, para una talla de una persona de aproximadamente 1´8 metros de altura, de una bicicleta de carretera fabricada en fibra de carbono, y probar en ella distintas condiciones de contorno y de carga. La finalidad de las simulaciones es, determinar el espesor mínimo para los tubos del cuadro, que haga resistir al conjunto todas las pruebas realizadas. Como ya hemos mencionado, se trabaja con un único material, la fibra de carbono. Esto se debe a su gran relación resistencia-peso, le convierte en uno de los materiales más, sino el más, utilizados en la actualidad en la alta competición en el mundo del ciclismo. El programa utilizado para el diseño del modelo es Autodesk Inventor 2010. Para el análisis por elementos finitos, que permite evaluar tensiones y deformaciones a partir de las condiciones de contorno y cargas que nosotros introduzcamos al modelo, se utilizó Abaqus/CAE 6.9. El proyecto se centrará exclusivamente en analizar distintas condiciones solicitaciones producidas por el ciclista sobre el cuadro, y no entrará en aspectos fundamentales de diseño y rediseño, ni elección de material, así como tampoco se tratarán aspectos económicos ni de fabricación</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5499</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5499/files/TAZ-PFC-2010-432.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>análisis</dc:subject>
+    <dc:subject>elementos finitos</dc:subject>
+    <dc:subject>bicicleta</dc:subject>
+    <dc:subject>fibra de carbono</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Análisis por elementos finitos de un cuadro de bicicleta de fibra de carbono</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Burriel, Ramón</dc:contributor>
+    <dc:contributor>Palacios Latasa, Elías</dc:contributor>
+    <dc:creator>Wang, GaoFeng</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>En este estudio se caracteriza el efecto magnetocalórico de varias series de compuestos intermetálicos con transiciones magneto-estructurales de primer orden, tales como Gd5(Si,Ge)4, La(Fe,Si)13Hy, MnAs, (Mn,Fe)2(P,Ge) y MnCoGeBx. La histéresis térmica y magnética asociada a estas transiciones afecta a la determinación del cambio isotérmico de entropía y del cambio adiabático de temperatura inducidos por una variación del campo magnético. Se han usado medidas directas y métodos indirectos en las determinaciones magnetocalóricas, incluyendo estos últimos métodos técnicas magnéticas y calorimétricas. Se han comparado los valores resultantes para los cambios de entropía y de temperatura usando los distintos métodos. Se analiza la influencia del proceso de medida y de la irreversibilidad en los valores resultantes de los cambios de entropía y de temperatura. Esta investigación es de interés para el uso de estos materiales en refrigeración magnética a temperatura ambiente.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9510</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física de la Materia Condensada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9510/files/TESIS-2012-086.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>refrigeración magnética a temperatura ambiente</dc:subject>
+    <dc:subject>magnetic refrigeration at room temperature</dc:subject>
+    <dc:subject>efecto magnetocalórico</dc:subject>
+    <dc:subject>magnetocaloric effect</dc:subject>
+    <dc:subject>cambio isotérmico de entropía</dc:subject>
+    <dc:subject>isothermal entropy change</dc:subject>
+    <dc:subject>cambio adiabático de temperatura</dc:subject>
+    <dc:subject>adiabatic temperature change</dc:subject>
+    <dc:subject>capacidad calorífica</dc:subject>
+    <dc:subject>heat capacity</dc:subject>
+    <dc:subject>imanación</dc:subject>
+    <dc:subject>magnetization</dc:subject>
+    <dc:subject>compuestos intermetálicos</dc:subject>
+    <dc:subject>intermetallic compounds</dc:subject>
+    <dc:subject>transiciones de primer orden</dc:subject>
+    <dc:subject>first-order transition</dc:subject>
+    <dc:subject>rreversibilidad</dc:subject>
+    <dc:subject>irreversibility</dc:subject>
+    <dc:subject>medidas directas</dc:subject>
+    <dc:subject>direct measurement</dc:subject>
+    <dc:subject>efecto ?spike?</dc:subject>
+    <dc:subject>?spike? effect</dc:subject>
+    <dc:subject>efecto ?virgen?</dc:subject>
+    <dc:subject>?virgin? effect</dc:subject>
+    <dc:subject>modelo de bean-rodbell.</dc:subject>
+    <dc:subject>bean-rodbell model</dc:subject>
+    <dc:title>Magnetic and Calorimetric Study of the Magnetocaloric Effect in Intermetallics Exhibiting First-order Magnetostructural Transitions</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

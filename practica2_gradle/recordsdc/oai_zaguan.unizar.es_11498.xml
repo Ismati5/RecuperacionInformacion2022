@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Andrés Gimeno, María Nieves</dc:contributor>
+    <dc:contributor>Arroyo de Grandes, María del Pilar</dc:contributor>
+    <dc:creator>Lorda Abadías, José Alberto</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El trabajo fin de master está relacionado con el desarrollo y aplicación de técnicas de interferometría de moteado para medir cambios en superficies sometidas a diferentes procesos. La  interferometría de moteado permite detectar cambios en la superficie antes y después de inducir pequeñas modificaciones que no destruyan la coherencia de la luz difundida por el objeto. Una de las posibles aplicaciones es la medida de la deformación de materiales producida por calentamiento o tracción. Utilizando esta técnica se pueden observar variaciones en la superficie del material desde decenas de nanómetros hasta decenas de micras.  La interferometría de moteado precisa el registro de un moteograma, que es la interferencia de  la luz difundida por el objeto con un haz que denominamos haz de referencia. La comparación de moteogramas registrados en distintos instantes de tiempo permite obtener, mediante programas diseñados en el entorno de Matlab, mapas de diferencia de fase con información del cambio en la superficie que se ha producido en cada punto de la misma. En primer lugar, la interferometría de moteado se va a aplicar para medir la deformación por calentamiento de una cinta superconductora sumergida en nitrógeno por la que se hace circular diferente corriente eléctrica. Se realizará el montaje óptico utilizando un láser de estado sólido donde el haz de iluminación y el haz de referencia son guiados a través de fibra óptica. Se registrarán los moteogramas en una cámara digital sincronizados con el pulso de corriente. Se analizarán las limitaciones de la técnica para la medida de estas deformaciones. En segundo lugar, en este trabajo se analizarán las posibilidades de medir formas con dos longitudes de onda. Se diseñará un montaje óptico para el registro de moteogramas con longitudes de onda próximas y se estudiará la viabilidad de la técnica para reconstruir la superficie.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/11498</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Aplicada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/11498/files/TAZ-TFM-2013-514.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>interferometría</dc:subject>
+    <dc:subject>moteado </dc:subject>
+    <dc:subject>digital</dc:subject>
+    <dc:subject>Máster Universitario en Física y Tecnologías Físicas</dc:subject>
+    <dc:title>Aplicación de la interferometría de moteado digital al estudio de sólidos</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

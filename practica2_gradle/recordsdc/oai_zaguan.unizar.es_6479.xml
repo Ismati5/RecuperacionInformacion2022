@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Montijano Muñoz, Eduardo</dc:contributor>
+    <dc:contributor>Sagüés Blázquiz, Carlos</dc:contributor>
+    <dc:creator>Vera Soriano, Davinia</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>La idea de robots autónomos que se mueven por el entorno de forma automática plantea numerosas ventajas para los seres humanos. Disponer de un sistema multi-robot permite realizar las tareas de manera eficiente, segura y robusta, colaborando por ejemplo en la exploración de un determinado recinto. En este contexto se deben tener en cuenta las estrategias de coordinación, con el fin de conseguir que los miembros del sistema multi-robot optimicen la percepción del entono. Sin embargo, a medida que se incrementa el número de robots que participan en estas tareas, la ejecución de las mismas se vuelve más complicada debido a las restricciones de movimiento de los robots. El objetivo principal del proyecto es el estudio de algoritmos de planificación y control que permitan a un equipo de robots obtener la ruta más interesante de exploración y moverse de manera coordinada siguiendo la misma. Dichos algoritmos deben considerar las restricciones del entorno, como los obstáculos, y deben incorporar las limitaciones de comunicación, de percepción y de movilidad de los robots involucrados. Para el proyecto se ha partido de dos artículos de investigación para el estudio del control de sistemas multi-robot. Se ha analizado un control mediante una abstracción geométrica y otro basado en particiones de Voronoi. Ambos controles se han implementado desde cero, y en el caso del control basado en particiones de Voronoi, se ha extendido la propuesta original para que admita entornos dinámicos en el tiempo. De esta manera se ha podido usar dicho control para el movimiento de la abstracción dentro de un escenario de simulación. En cuanto al planificador de trayectorias, se ha utilizado el algoritmo de búsqueda A*. Se ha modificado el algoritmo estándar para que considere diferentes tamaños de abstracción y costes en función del entorno en la planificación. Con las modificaciones implementadas se ha conseguido una mejor adaptación de la trayectoria generada por el planificador en función de las características y limitaciones que ofrece el escenario en el que se trabaja. Finalmente se han adaptado mapas de escenarios realistas de interiores y exteriores al entorno de simulación, un piso y un parque respectivamente. Se han propuesto diferentes trayectos sobre ellos, y se ha estudiado la influencia de las modificaciones en el planificador y la eficacia del control del sistema seleccionado.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6479</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6479/files/TAZ-PFC-2011-621_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6479/files/TAZ-PFC-2011-621.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>sistemas multi-robot</dc:subject>
+    <dc:subject>planificación de trayectorias</dc:subject>
+    <dc:subject>control distribuido</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Planificación y control con restricciones de formaciones de robots</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

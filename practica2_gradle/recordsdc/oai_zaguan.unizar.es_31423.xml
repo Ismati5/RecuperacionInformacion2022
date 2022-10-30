@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mediano Heredia, Arturo</dc:contributor>
+    <dc:creator>Florentín Martín, Lorena Isabel</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El propósito de este Trabajo Fin de Máster, realizado en la empresa Libelium Comunicaciones Distribuidas S.L., es la caracterización del consumo eléctrico de los distintos modos y opciones de funcionamiento de la plataforma Waspmote, incluyendo sus sensores y módulos de comunicaciones asociados, a través de medidas experimentales para poder realizar estimaciones de autonomía de su batería de alimentación realizando lo que se conoce como “Energy Guide” cada vez de mayor relevancia en productos electrónicos de todo tipo y, especialmente, en redes sensoriales inalámbricas. El desarrollo del proyecto comprende, el estudio y la formación de la plataforma Waspmote, de las placas de sensores que la integran y de los módulos de comunicaciones, la familiarización del software de desarrollo, la caracterización de las medidas realizadas junto con el cálculo del consumo de cada una de ellas analizando los resultados obtenidos, el cálculo del consumo en procesos globales mostrándose la vida de la batería y finalmente, la redacción de la Guía Energética de usuario mostrándose los consumos de cada prueba.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31423</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31423/files/TAZ-TFM-2014-766.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Electrónica</dc:subject>
+    <dc:title>Evaluación y caracterización experimental del consumo energético del dispositivo Waspmote para redes sensoriales y de comunicaciones</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

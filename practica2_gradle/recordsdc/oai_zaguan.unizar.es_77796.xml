@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Civera Sancho, Javier</dc:contributor>
+    <dc:creator>Oliva Maza, Laura</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>La visión por computador es uno de los campos tecnológicos con mayor actividad. Esto es debido a la gran cantidad de aplicaciones potenciales relacionadas con ella. Dentro de la visión por computador se encuentra la visión 3D cuyo objetivo es generar una reconstrucción 3D de una escena a partir de imágenes 2D de la misma. La visión 3D tiene aplicaciones, por ejemplo, dentro de la robótica y la realidad aumentada. Hoy en día, para generar un mapa en 3D se utilizan algoritmos de estimación. Estos algoritmos reciben un estado y unas medidas, y devuelven un estado actualizado. Para obtener estas medidas lo más habitual es utilizar un sensor visual-inercial. Este sensor está compuesto por una cámara y una unidad inercial (IMU). Uno de los problemas de los algoritmos de estimación es que, aunque son bastante robustos, a la hora de inicializar necesitan una semilla inicial precisa. La generación de semillas iniciales o inicialización del estado visual-inercial es un problema no resuelto. En este trabajo de fin de grado se ha estudiado, implementado y evaluado un algoritmo de inicialización del estado visual-inercial. Para la evaluación del algoritmo se ha utilizado el dataset EuRoC y se han diseñado diferentes experimentos para evaluar cómo afectan los diferentes parámetros a su precisión y robustez. A partir de los resultados obtenidos en los experimentos se han escogido los parámetros con los que se obtienen mejores resultados, permitiendo ejecutar el algoritmo en tiempo real y obteniendo elevadas tasas de robustez y alta precisión.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/77796</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/77796/files/TAZ-TFG-2018-2322.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>Inicialización del estado para un sistema monocular inercial</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">State initialization for monocular-inertial systems</dc:title>
+</oai_dc:dc>

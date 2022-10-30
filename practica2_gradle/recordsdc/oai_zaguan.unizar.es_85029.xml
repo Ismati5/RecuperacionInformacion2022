@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Brosed Dueso, Francisco Javier</dc:contributor>
+    <dc:creator>Vega Romero, Ignacio de la</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>En la industria manufacturera, el propósito básico de las mediciones es verificar y asegurar, que el equipo fabricado coincida con las especificaciones dadas. Además, se buscan sistema sencillos y versátiles que permitan llevar a cabo mediciones de diferentes elementos con un mismo equipo de medida.&lt;br /&gt;Este trabajo de fin de grado [TFG] forma parte de un proyecto en el que se diseña un sistema que permita la verificación de una máquina herramienta. En concreto, el objetivo de este TFG es el diseño de un utillaje que amarre el sistema de verificación a la máquina.&lt;br /&gt;Para llevar a cabo el trabajo, en primer lugar, se analiza el entorno de trabajo y las condiciones de contorno del sistema de medición. Posteriormente se busca la forma más adecuada de disponer el sistema. Una vez escogida dicha disposición, se analiza qué geometría permite verificar un mayor espacio de trabajo sin que se produzcan colisiones en el sistema. Para llevar a cabo esta tarea se desarrolla un programa que permite evaluar el número de puntos verificables según la geometría del utillaje.&lt;br /&gt;Tras encontrar una geometría idónea del utillaje, se realiza un primer diseño del mismo, el cual se comprueba con CAD mecánico. Éste se rediseña hasta obtener un diseño, que pueda instalarse sin interferencias en la máquina.&lt;br /&gt;Finalmente se escogen los materiales más adecuados y se realiza un análisis estático a través de elementos finitos. &lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/85029</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/85029/files/TAZ-TFG-2019-3409.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Diseño del utillaje de sujeción de un sistema de medición de longitudes para la verificación de máquina-herramienta</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Design of a support fixture for a length-measuring system to verify a machine tool</dc:title>
+</oai_dc:dc>

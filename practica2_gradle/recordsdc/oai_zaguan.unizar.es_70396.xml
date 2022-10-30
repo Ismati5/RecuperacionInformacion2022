@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mauri Llerda, José Ángel</dc:contributor>
+    <dc:contributor>López del Val, Luis Javier</dc:contributor>
+    <dc:contributor>Marín Ibáñez, Alejandro</dc:contributor>
+    <dc:creator>Marín Gracia, Carmen Marta</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Introducción: El ictus isquémico aterotrombótico es una de las principales causas de morbimortalidad en España generando un importante gasto socio-sanitario. Aunque los factores de riesgo están bien establecidos, no se dispone de tablas de riesgo específicas de uso cotidiano en nuestro medio para la prevención primaria. Objetivos: Se pretende elaborar un algoritmo y una tabla predictivos en función de los factores de riesgo cardiovascular de mayor repercusión. Material y métodos: Se realizó un estudio de cohortes con un seguimiento de 5 años,  prospectivo y analítico, poblacional que incluía 1924 hombres y 2498 mujeres mayores de 40 años. Mediante regresión logística se elaboró una ecuación predictiva, así como una tabla de riesgo. Resultados y discusión: Los factores de riesgo más significativos en nuestro estudio fueron la edad, el tabaquismo e índice aterogénico. La tensión arterial sistólica y la diabetes mellitus no obtuvieron suficiente significación probablemente debido a que principalmente, la variable índice aterogénico explica parte de la varianza de éstas, existiendo una correlación entre este índice y las cifras de tensión arterial sistólica y las de glucemia. La probabilidad de un evento isquémico aterotrombótico se explicó con un porcentaje de acierto del 98,3% con el algoritmo: P= 1/1 + 2,7182818284 ^ 11,1+(0,087 X EDAD) + (0,83 si es fumador) + ((0,331 x( LDL/HDL)) Conclusiones: Presentamos una herramienta para la toma de decisiones preferentemente mediante el manejo de los lípidos, una vez controlados otros factores de riesgo, que puedan mejorar la incidencia de eventos. Creemos necesario continuar en la misma línea de generar nuevos algoritmos de predicción con muestras poblacionales mas amplias para que puedan incorporarse mas variables predictivas</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/70396</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Medicina, Psiquiatría y Dermatología; Área de Medicina</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/70396/files/TAZ-TFM-2017-747_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/70396/files/TAZ-TFM-2017-747.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Medicina</dc:subject>
+    <dc:title>Tablas de Riesgo de Enfermedad Cerebrovascular Isquémica para la Población Española</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Ischemic Cerebrovascular Disease Risk Chart for Spanish Population</dc:title>
+</oai_dc:dc>

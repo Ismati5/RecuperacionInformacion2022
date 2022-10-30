@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Amo Sancho, Alejo</dc:contributor>
+    <dc:contributor>Martínez Gracia, Amaya</dc:contributor>
+    <dc:creator>Solano Rodriguez, Ismael</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>En el presente proyecto se realiza un análisis energético y económico derivado de las indisponibilidades en los diferentes equipos que conforman una central fotovoltaica de gran potencia, en paralelo realizaremos un modelo el cual nos permita estimar el coste económico necesario para llevar a cabo un mantenimiento correctivo, necesario para atender cada una de las indisponibilidades anteriores, en base a ambos resultados, tendremos la posibilidad de lograr una comparativa entre ambas pérdidas, dicha comparativa será de fácil interpretación mediante la generación de gráficas, en donde el operador podrá detectar el tiempo estimado en converger el gasto por pérdida energética vs coste de correctivo, determinando así la criticidad de la falla y el tiempo permisible de respuesta para el equipo de O&amp;M.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76207</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76207/files/TAZ-TFM-2018-958.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/76207/files/TAZ-TFM-2018-958_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Energías Renovables y Eficiencia Energética</dc:subject>
+    <dc:title>Análisis económico y energético de los posibles fallos y su repercusión en las actividades de O &amp; M de una Central Solar Fotovoltaica de gran potencia de la compañía Iberdrola</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Energy and economic analysis of possible failures and their impact on the O&amp;M activities in one plant solar photovoltaic of high power of the company Iberdrola</dc:title>
+</oai_dc:dc>

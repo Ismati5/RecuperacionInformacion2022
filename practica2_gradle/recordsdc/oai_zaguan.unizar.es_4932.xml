@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Brufau García, Pilar</dc:contributor>
+    <dc:contributor>López García de la Barrera, Daniel</dc:contributor>
+    <dc:creator>Soriano Pina, Ainara</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>El proyecto se enmarca dentro del proyecto de investigación de carácter multidisciplinar financiado por la D.G.A. “Desarrollo y validación de modelos acoplados hidrológicos e hidráulicos en cuencas a diferentes escalas espaciales”. Para poder realizar este proyecto se cuenta con los datos experimentales proporcionados por el Instituto Pirenaico de Ecología (CSIC), los programas de simulación desarrollados en el área de Mecánica de Fluidos (Universidad de Zaragoza) y los datos de precipitación en posibles escenarios de Cambio Global proporcionados por el área de Estadística (Universidad de Zaragoza). En primer lugar se describe detalladamente la cuenca de Arnás, cuenca experimental elegida como objeto de análisis en este trabajo. Se realiza el estudio de la relación precipitación-escorrentía que se produce en esta cuenca con la ayuda de dos programas de simulación que se detallarán en la memoria. Se lleva a cabo la calibración de algunos parámetros fundamentales en cada uno de los programas de simulación para una posterior calibración/validación de los modelos y de esta forma poder elegir el programa óptimo de simulación para esta cuenca. Para ello se estudia la evolución espacio-temporal del caudal de escorrentía con cada uno de los programas y se compara con el caudal medido en la estación de aforo de la cuenca. Por último se lleva a cabo el análisis de la respuesta hidrológica de la cuenca frente a diferentes escenarios de cambio climático desde el año 2030 al 2100. Interesa conocer los cambios producidos a lo largo de estos años en cuanto a caudal y a frecuencia e intensidad de avenidas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4932</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4932/files/TAZ-PFC-2010-129.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/4932/files/TAZ-PFC-2010-129_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Recursos hídricos</dc:subject>
+    <dc:subject>Cambio climático</dc:subject>
+    <dc:subject>Eventos extremos</dc:subject>
+    <dc:subject>Modelos hidrológicos</dc:subject>
+    <dc:subject>Modelos hidráulicos</dc:subject>
+    <dc:subject>Precipitación-escorrentía</dc:subject>
+    <dc:subject>Ingeniero Químico</dc:subject>
+    <dc:title>Calibración de modelos hidrológicos-hidráulicos y análisis de la respuesta hidrológica frente a posibles escenarios de cambio climático en la cuenca de Arnás</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

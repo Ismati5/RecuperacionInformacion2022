@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Beltrán Blázquez, José Ramón</dc:contributor>
+    <dc:contributor>Viñals Yufera, Víctor</dc:contributor>
+    <dc:creator>Rouffineau, Frédéric</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El trabajo realizado consiste en la realización de una aplicación Android para cantantes llamada Singvibes que les permite analizar su afinación en tiempo real. También permite encontrar a otros miembros e intercambiar con ellos para ofrecer a los usuarios herramientas a la vez técnicas como un detector de tono y de la afinación, y la oportunidad de mejorar al contacto de otros cantantes. La realización consistió en dos proyectos. Por una parte, se realizó la implementación de un servidor desplegado en una instancia EC2 en el cloud de Amazon, desde la configuración hasta el desarrollo y la implementación propia del paradigma MVC mediante un framework personal llamado LeafStormMVC. Por otra parte, se desarrolló la aplicación Android con la implementación de un detector de tono utilizando el Fast-Lifting-Wavelet Transform algorithm (documentado en la memoria). A la hora de entrega, el proyecto está en fase Beta (funcionalidades básicas de análisis y de red social implementadas). El documento ajuntado presenta todas las etapas importantes del proyecto, desde el establecimiento de los objetivos y requisitos hasta la implementación y la planificación futura con la integración de la aplicación en el Google Play, que seguirá una mejora continua de tipo ágil.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61368</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Arquitectura y Tecnología de Computadores</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61368/files/TAZ-TFM-2017-052.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Informática</dc:subject>
+    <dc:title>Desarrollo de una red social y herramientas para cantantes mediante una aplicación Android</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Creation of a social network and tools for singers through an Android application</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Beltrán Blázquez, José Ramón</dc:contributor>
+    <dc:creator>Hernando Carnicer, Álvaro</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El trabajo está destinado a la creación de un sistema práctico y barato que permita la síntesis de audio digital en tiempo real. Para ello, nos servimos de las plataformas de Arduino y Raspberry Pi para realizar la monitorización de datos y la exposición de la información para el usuario gracias a un programa generado en Pure Data. Dado que el objetivo principal es que sea un sistema modular, se prioriza la necesidad de que tenga elementos de comunicación inalámbrica a través de módulos de radio frecuencia.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61401</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61401/files/TAZ-TFG-2017-052.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías y Servicios de Telecomunicación</dc:subject>
+    <dc:title>Sintetizador musical digital con controles inalámbricos mediante Arduino y Raspberry Pi</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Digital musical syntethizer with wireless controlers using Arduino and Raspberry Pi</dc:title>
+</oai_dc:dc>

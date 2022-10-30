@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Llera Sastresa, Eva María</dc:contributor>
+    <dc:creator>Serrano Ruiz, Rubén</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>Partiendo de datos procedentes de fuentes secundarias, este estudio persigue los siguientes objetivos:  • Analizar el comportamiento de los principales combustibles alternativos (hidrógeno, biodiesel, bioetanol, gas natural comprimido y gas natural licuado) en motores de combustión interna (MACI`s) en cuanto a sus emisiones (CO2, CO, NOX e hidrocarburos totales) y principales parámetros de funcionamiento (rendimiento y régimen de giro). •	Identificar las modificaciones necesarias de los motores alternativos de combustión interna convencionales para el uso de combustibles alternativos. • Establecer métodos para normalizar los resultados obtenidos en pruebas bajo diferentes condiciones a una referencia común y para el cálculo de las variables no medidas.  • Hacer una clasificación de los principales combustibles alternativos en función de diferentes criterios medioambientales y económicos. •	Definir un único indicador que permita categorizar los combustibles según su idoneidad ante diferentes escenarios.  El estudio se centra en MACI´s convencionales (tanto de encendido provocado, como de encendido por compresión) y de aspiración natural que en ocasiones han sido modificados para su adaptación a cada tipo de combustible alternativo.  Por medio de 2 indicadores económicos y 4 indicadores medioambientales se analiza el comportamiento de un total de 30 carburantes, entre los que se incluyen combustibles puros, mezclas y combustibles duales, utilizando como herramienta visual un conjunto de diagramas radiales.  Para 8 escenarios diferentes se implementa el método analítico-jerárquico (AHP) obteniendo un ranking de carburantes más adecuados para cada escenario.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/48188</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/48188/files/TAZ-TFM-2016-005.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Energías Renovables y Eficiencia Energética</dc:subject>
+    <dc:title>Análisis multicriterio de motores de combustión interna alimentados por combustibles alternativos.</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

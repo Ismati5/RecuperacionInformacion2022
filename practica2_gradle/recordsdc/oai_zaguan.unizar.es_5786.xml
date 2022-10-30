@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Serón Arbeloa, Francisco José</dc:contributor>
+    <dc:contributor>López Moreno, Jorge Félix</dc:contributor>
+    <dc:creator>Alastuey Elpuente, Arturo</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El presente proyecto consiste en el desarrollo de una aplicación inmersiva de bajo coste que dispone de interacción natural con el usuario. Esta aplicación dispone de características como la visualización en tres dimensiones, el reconocimiento de la posición espacial del usuario (Head Tracking), el soporte para utilizar técnicas de render avanzado o la posibilidad de desplazarse por la escena mediante un sistema de navegación. Para conseguir la visualización en tres dimensiones, dispone de un sistema de estereoscopía que renderiza dos imágenes similares de la escena, cada una de ellas con la perspectiva ligeramente cambiada. Cada ojo del usuario debe visualizar solamente una de estas dos imágenes, simulando así la perspectiva 3D del mundo real. Para comprobar el funcionamiento se ha utilizando un sistema basado en la polarización en el cual el usuario debe ponerse unas gafas que le permiten visualizar una imagen en cada ojo. A la hora de determinar los puntos de enfoque de estas dos cámaras, se ha tenido en cuenta que no afecten a la percepción del escalado por parte del usuario. Para la realización de un correcto Head Tracking, es necesario posicionar la cabeza del usuario y modificar la perspectiva de la escena respondiendo a los movimientos que realice. Esto provoca una gran sensación de inmersión en la escena. Para conseguir el posicionamiento se han utilizado los mandos de la consola Wii de Nintendo, debido a su bajo coste y a la buena relación del rendimiento con respecto al mismo. El sistema de visualización de la aplicación permite hacer uso de técnicas avanzadas de render. Una de las técnicas que pueden utilizarse son los shaders (pequeños programas que calculan el aspecto final o color de cada píxel a pintar en pantalla). Como demostración se ha creado un shader que implementa la novedosa técnica de parallax mapping. Esta técnica consigue mayor sensación de profundidad de las texturas con menor número de polígonos, reduciendo los tiempos y posibilitando el cálculo de la escena en tiempo real. Algunos de los campos en los que puede aplicarse el trabajo realizado son la arqueología virtual, la biomedicina, la realidad aumentada y realidad virtual.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5786</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5786/files/TAZ-PFC-2011-209_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5786/files/TAZ-PFC-2011-209.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>estereoscopía</dc:subject>
+    <dc:subject>3D</dc:subject>
+    <dc:subject>Wiimote</dc:subject>
+    <dc:subject>headtracking</dc:subject>
+    <dc:subject>inmersividad</dc:subject>
+    <dc:subject>interacción</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Entorno inmersivo de bajo coste con interacción natural</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

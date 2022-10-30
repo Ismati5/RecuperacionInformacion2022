@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ortín Gracia, Jorge</dc:contributor>
+    <dc:contributor>Gallego Martínez, José Ramón</dc:contributor>
+    <dc:creator>Bravo Jiménez, Francisco Javier</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Este proyecto se enmarca dentro del estudio de técnicas eficientes de reconfiguración y adaptación al entorno en un contexto de redes inalámbricas multisalto distribuidas (ad hoc, mesh), específicamente en el estudio de técnicas distribuidas de reparto de recursos evaluadas mediante teoría de juegos.  Como alternativa, la teoría de juegos es una herramienta matemática que analiza las interacciones estratégicas entre múltiples agentes que toman decisiones. Por esta razón, resulta adecuada para analizar de una manera más formal las prestaciones de este tipo de redes, donde cada nodo debe decidir sus parámetros de configuración de manera autónoma. Sin embargo, la complejidad matemática de los problemas a resolver resulta difícil de abordar computacionalmente. Una alternativa es el desarrollo de simuladores que modelan las interacciones entre los individuos los nodos de la red, partiendo de diversas condiciones iniciales, que permiten resolver, de manera heurística, el problema planteado. En este proyecto se ha modificado un simulador ya existente sobre el que se han implementado  distintas soluciones relativas a la generación de una topología de red mesh realista y a la selección de nodos Gateways en la misma, analizando mediante la aplicación de la teoría de juegos los flujos establecidos finalmente en la red.  Todo esto permite establecer el punto de partida para desarrollar en el futuro algoritmos de gestión de recursos de nivel de enlace junto con el diseño del encaminamiento y su implementación en protocolos en redes mesh cognitivas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9061</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9061/files/TAZ-PFC-2012-654.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/9061/files/TAZ-PFC-2012-654_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>estrategias de selección de ruta</dc:subject>
+    <dc:subject>redes móviles ad hoc</dc:subject>
+    <dc:subject>redes mesh coginitivas</dc:subject>
+    <dc:subject>teoría de juegos</dc:subject>
+    <dc:subject>tecnicas distribuidas de reparto de recursos</dc:subject>
+    <dc:subject>topología de red</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicación</dc:subject>
+    <dc:title>Estudio de estrategias de selección de ruta en redes mesh cognitivas mediante teoría de juegos</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

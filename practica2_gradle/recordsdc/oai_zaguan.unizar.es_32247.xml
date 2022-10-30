@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gracia Lostao, Ana Isabel</dc:contributor>
+    <dc:creator>Salvo Ibáñez, Ignacio</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>El objetivo de este proyecto consiste en depositar las nanopartículas en los dispositivos sensores micromecánicos y depositar capas ordenadas de proteínas redox sobre sustratos de oro y analizar sus propiedades de conductividad con microscopías SPM. Para ello, vamos a utilizar la técnica de Dip-Pen  (DPN) que es capaz de manipular y organizar las sustancias y partículas en las superficies a escala nanométrica. DPN utiliza una punta  piezoeléctrica que se ocupa de depositar moléculas y partículas de una solución, la tinta y, a continuación, con la punta húmeda,  se deposita esta tinta sobre una superficie, que se llama sustrato. Para lograr deposiciones de calidad con DPN, tendremos que buscar las condiciones óptimas de temperatura, la humedad y viscosidad de la tinta. Usaremos DPN para depositar las nanopartículas de oro en la superficie de microcantilevers, con el objetivo de estas nanopartículas, una vez adsorbidos en el material, seamos capaces de detectar analitos neurotóxicos y explosivos. Este sensor tiene una frecuencia de resonancia que cambia cuando detecta un variaciones de la masa, y este cambio se puede medir para detectar y tratar de cuantificar diferentes sustancias. Además, vamos a utilizar DPN para depositar proteínas flavodoxina sobre un sustrato de oro. Vamos a utilizar las proteínas nativas y mutantes para comprobar cual es la mejor opción que se adjunta con el oro a través de un grupo sulfhidrilo. Por eso, vamos a tratar con DPN para formar una monocapa de biomoléculas y, una vez logrado, vamos a utilizar STM y c-AFM, para analizar la topografía, el orden y propiedades conductoras de esta proteína.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/32247</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Bioquímica y Biología Molecular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/32247/files/TAZ-TFM-2015-643.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Biología Molecular y Celular</dc:subject>
+    <dc:title>Nanoposicionamiento de partículas y moléculas para dispositivos sensores</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sanz Saiz, Gerardo</dc:contributor>
+    <dc:creator>Martínez Esteban, Antonio</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>Los procesos de ramiﬁcación son una parte de las matemáticas que trata de explicar el crecimiento o decrecimiento de sistemas cuyos componentes se reproducen siguiendo leyes estocásticas. Partimos del proceso original de Bienaymé-Galton-Watson para el que estudiamos sus características principales prestando especial atención al problema que motivó el estudio de este tipo de procesos: la probabilidad de extinción. Posteriormente se considera una variante de este proceso en el que se tiene en cuenta el sexo de los individuos, el proceso Bisexual, para el que también se estudia la probabilidad de extinción dependiendo de la función de emparejamiento.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/32283</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Métodos Estadísticos; Área de Estadística e Investigación Operativa</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/32283/files/TAZ-TFG-2015-3137.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Matemáticas</dc:subject>
+    <dc:title>Procesos de ramificación</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Silva Suárez, Manuel</dc:contributor>
+    <dc:creator>Wang, Liewei</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>In this report, we first address the minimum-time control problem of structurally persistent timed continuous Petri Net systems (ContPN). In particular, an ON-OFF controller is proposed to drive the system from a given initial marking to the final marking in minimum-time. The controller is developed first for the discrete-time system ensuring that all transitions are fired as fast as possible in each sampling period until the required total firing counts are reached. After that, they are stopped suddenly. By taking the limit of the sampling period, the controller for continuous-time systems is obtained. Simplicity and the fact that it ensures minimum-time are the main advantages of the controller. A manufacturing system is taken as case study to illustrate the control strategy. In a distributed controlled system, normally a complex dynamic system, the controllers are not centralized in one location, but are distributed in subsystems. We try to apply the ON-OFF controller into the distributed control of large scale systems modeled with timed continuous Petri net. The original net system is first structurally decompose into smaller subnets through sets of places. Then the ON-OFF controller is applied in controlling each subsystem. Algorithms are proposed to compute admissible control laws for the local subsystems in a distributed way. It is proved that with that control laws, the final state can be reached in minimum time.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5104</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5104/files/TAZ-TFM-2010-070_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5104/files/TAZ-TFM-2010-070.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Petri nets</dc:subject>
+    <dc:subject>Minimum-time control</dc:subject>
+    <dc:subject>Distributed control</dc:subject>
+    <dc:subject>Máster Universitario en Ingeniería de Sistemas e Informática</dc:subject>
+    <dc:title>Minimum-time control for structurally persistent continuous Petri nets and the application in distributed Control</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

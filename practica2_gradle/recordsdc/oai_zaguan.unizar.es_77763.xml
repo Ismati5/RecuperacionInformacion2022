@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Acero Fraile, Isabel; Serrano Lázaro, Rául</dc:contributor>
+    <dc:creator>Felices Manero, Diego</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>La Vuelta Ciclista a España es la tercera carrera de tres semanas que se disputan cada año en el calendario profesional. Junto con el Giro d’Italia y el Tour de France completan las tres grandes vueltas del ciclismo. En este Trabajo de Fin de Grado, se analizan los distintos factores que influyen a la hora de determinar el rendimiento individual de un ciclista en la prueba española. Para llevar a cabo dicho análisis se tendrán en cuenta diferentes atributos que consideran desde aspectos individuales, a la experiencia del corredor o la calidad de su equipo. En este proyecto, se detallan los distintos métodos y técnicas necesarios para realizar el análisis, así como los resultados obtenidos. Asimismo, se utilizan una variable normalizada para medir el rendimiento de forma más precisa. El objetivo de este estudio no es otro que observar el nivel de rendimiento individual en este deporte. Esto permitirá añadir nueva información a la literatura ya existente al respecto, con la intención de que los encargados de la gestión de equipos ciclistas dispongan de datos que cuantifiquen los aspectos más relevantes de una participación exitosa en la Vuelta Ciclista a España. Para ello, se realizan el estudio individual de cada una de las últimas cinco ediciones de la carrera española. En la realización del trabajo, se ha tratado de poner en práctica los conocimientos teóricos obtenidos durante el Grado en Marketing e Investigación de Mercados, más concretamente en las asignaturas de Análisis de Datos y Técnicas Multivariantes y Econometría. Por otra parte, la mayor parte del análisis estadístico fue realizado utilizando Jupyter Notebooks.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/77763</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Dirección y Organización de Empresas; Área de Organización de Empresas</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/77763/files/TAZ-TFG-2018-2413.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Marketing e Investigación de Mercados</dc:subject>
+    <dc:title>Análisis del resultado individual en la Vuelta Ciclista a España</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Analysis of individual performance in the Vuelta Ciclista a España</dc:title>
+</oai_dc:dc>

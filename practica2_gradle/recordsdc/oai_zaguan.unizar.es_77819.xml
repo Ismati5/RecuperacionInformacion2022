@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bernués Pardo, Julio</dc:contributor>
+    <dc:creator>Martínez Bravo, Abel</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>Un producto infinito es una expresión de la forma u1u2...un, siendo (un) números complejos. Análogamente a lo que sucede con series, nos preguntamos cuando un producto es convergente. Sin embargo, la definición de convergencia no es tan trivial como en el caso de una serie, debido a la posible existencia de algún término nulo. Afinaremos la definición de convergencia y daremos condiciones suficientes para garantizar la convergencia en términos de convergencias de series. Después pasaremos al producto de funciones complejas, donde la noción de convergencia uniforme será fundamental en su estudio. También trataremos la factorización de funciones enteras como producto de sus ceros, donde veremos que el conjunto de ceros no puede ser arbitrario, habiendo determinadas restricciones. Finalmente, veremos algunas aplicaciones de los productos infinitos en teoría de números, como los productos de Euler de funciones multiplicativas y las funciones generatrices para funciones de partición.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/77819</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Matemáticas; Área de Análisis Matemático</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/77819/files/TAZ-TFG-2018-2260.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Matemáticas</dc:subject>
+    <dc:title>Productos infinitos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Infinite products</dc:title>
+</oai_dc:dc>

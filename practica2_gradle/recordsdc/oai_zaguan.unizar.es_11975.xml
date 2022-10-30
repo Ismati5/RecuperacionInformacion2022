@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mattila, Jouni</dc:contributor>
+    <dc:contributor>Civera Sancho, Javier</dc:contributor>
+    <dc:creator>Martí Martínez, Álvaro</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Éste proyecto fin de carrera consiste en comparar dos formas de estimación de la posición de un manipulador flexible. El estudio realizado implica el diseño y el modelado del manipulador flexible y del sistema hidráulico actuador. El diseño del manipulador se realiza en MATLAB mediante las ecuaciones de Euler-Bernoulli para la frecuencia deseada. El modelado del manipulador se desarrolla en el toolbox de MATLAB SimMechanics junto con el sistema hidráulico y todos los sensores necesarios. El sistema hidráulico se compone de una servo válvula o válvula progresiva y un cilindro hidráulico. En el proyecto se desarrolla el modelado de éste servo mecanismo, junto con un controlador y un sistema de lazo cerrado para el control de posición y/o velocidad. La estimación de la posición se realiza mediante dos tipos de sensores distintos, utilizando galgas extensométricas o acelerómetros. Se establecen diferentes puntos de sensado a lo largo del manipulador y con éstos valores se calculan los coeficientes de una función hiperbólica junto con las condiciones de contorno, dicha función hiperbólica aproxima la forma del manipulador. El proyecto también comprende la construcción del prototipo y la comparación de los resultados con los obtenidos en la simulación. Para ello el hardware necesario es una tarjeta de entradas y salidas para el ordenador, encoders, galgas extonsométricas, amplificadores de señal, acelerómetros, válvula progresiva, cilindro hidráulico, transductores de presión... Se desarrolla una interfaz de comunicación mediante el software dSPACE, el cual en base a un archivo de MATLAB Simulink te permite la interacción y visualización de todos los parámetros del programa y así actúa sobre el prototipo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/11975</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/11975/files/TAZ-PFC-2013-475.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>manipulador flexible</dc:subject>
+    <dc:subject>sistema hidráulico</dc:subject>
+    <dc:subject>acelerómetro</dc:subject>
+    <dc:subject>galga extensométrica</dc:subject>
+    <dc:subject>cilindro hidráulico</dc:subject>
+    <dc:subject>válvula progresiva</dc:subject>
+    <dc:subject>simmechanics</dc:subject>
+    <dc:subject>euler-bernoulli</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Diseño y control de un manipulador flexible accionado por un cilindro hidráulico</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

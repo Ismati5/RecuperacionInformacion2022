@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Tabuenca Cintora, Víctor</dc:contributor>
+    <dc:creator>Muñoz Zuara, Rodrigo</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El presente Proyecto Fin de Carrera consiste en elcálculo de una nave industrial  de  estructura  metálica  destinada  el  sector  de  fabricación  de  perfiles  de  hormigón  armado. La nave a diseñar tienes unas dimensiones totales de 50 metros de ancho por 40  metros de largo, y a su vez puede dividirse en dos naves diferenciadas, una de 30 metros  de ancho, con la cubierta resuelta mediante cercha,y otra de 20 metros de ancho, cuya  cubierta se resuelve mediante dintel simple. Cada una de las dos partes diferenciadas de  la  nave  tiene  una  altura  diferente  en  cumbrera,  y  a su  vez,  en  cada  una  de  ellas  se  dispone un puente grúa, de 20 y 10 toneladas. Además, se diseña un pequeño bloque de  oficinas de 20 metros de ancho por 10 metros de largo alojado en la nave de 20 metros  de ancho.   El trabajo llevado a cabo en el proyecto se diferencia en dos partes. La primera  de ellas es la consistente en la descripción de la nave y cálculo de su estructura metálica  principal que se explica en los anexos del proyecto, junto con la Memoria, el Pliego de  Condiciones,   el  Presupuesto  y  el  Estudio  Básico  de Seguridad  y  Salud.  La  segunda  parte es el conjunto de los Planos necesarios para llevar a cabo a cabo la construcción de  los diferentes componentes de la nave y su posterior ejecución de la obra.   Para  el  desarrollo  del  proyecto,  se  ha  utilizado  por  una  parte  el  soporte  informático  CYPE  Ingenieros,  necesario  para  el  cálculo  completo  de  la  estructura  metálica de la nave, haciendo uso de sus módulos Generador de Pórticos y Nuevo Metal  3D;  y  por  otra  parte  el  programa  de  diseño  asistido por  ordenador  AutoCAD  para  la  realización de los planos de componentes, uniones,  secciones,  alzados  y  plantas de la  nave.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10508</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10508/files/TAZ-PFC-2013-206_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/10508/files/TAZ-PFC-2013-206.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>estructura metálica</dc:subject>
+    <dc:subject>nave industrial</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Proyecto de construcción de nave industrial de estructura metálica para fabricación de perfiles de hormigón armado</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

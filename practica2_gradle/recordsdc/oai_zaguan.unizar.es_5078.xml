@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Montesano del Campo, Luis</dc:contributor>
+    <dc:contributor>Civera Sancho, Javier</dc:contributor>
+    <dc:creator>Valdivielso Miranda, Félix</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>El proyecto se inicia con la reconstrucción densa de una escena 3D a partir de imágenes en dos pasos. Con el primero de ellos se obtendrá la posición 3D de las cámaras usando la técnica conocida como Bundle Adjustment. En un segundo paso, a partir de estas localizaciones y mediante restricciones proyectivas se densificará la reconstrucción 3D de la escena. En esta primera fase del proyecto se desarrollará un visor 3D el cual nos permitirá manipular y visualizar el entorno 3D obtenido a partir de los programas mencionados previamente y que nos será de utilidad para la aplicación final. La segunda fase del proyecto se plantea el reconocimiento de objetos a partir de imágenes. El reconocimiento se realizará basado en características salientes en la imagen. En primer lugar se creará una pequeña base de datos con imágenes de un conjunto de objetos y su reconstrucción densa. En segundo lugar, se buscará en la escena los objetos de la base de datos mediante la comparación de descriptores asociados a las características salientes. Para ello será necesario el desarrollo de una aplicación que nos permita comparar las imágenes de los diferentes objetos de nuestra base de datos con las imágenes de la escena y ver así si los objetos de la base de datos aparecen o no en la escena. Una vez el objeto ha sido reconocido en la escena se pretende sustituir en el modelo 3D de dicha escena la reconstrucción 3D del objeto (por ejemplo, un libro) disponible en nuestra base de datos, permitiéndonos así visualizar en la escena 3D partes del libro que no se veían en las imágenes de la escena. Para ello será necesaria una tercera y última fase en el proyecto donde se deberá posicionar los modelos 3D de los objetos que disponemos en la base de datos y que aparecen en la escena.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5078</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5078/files/TAZ-PFC-2010-171_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5078/files/TAZ-PFC-2010-171.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Reconstrucción 3D</dc:subject>
+    <dc:subject>Posicionamiento de objetos</dc:subject>
+    <dc:subject>Visor 3D</dc:subject>
+    <dc:subject>Emparejamiento de imágenes</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Reconocimiento y registro 3D de objetos conocidos en una escena</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

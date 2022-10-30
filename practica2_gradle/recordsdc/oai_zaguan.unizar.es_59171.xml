@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>de Marcos Ruiz, Susana</dc:contributor>
+    <dc:creator>Villuendas Romeo,María</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>Este trabajo tiene como objetivo la optimización de un biosensor óptico enzimático para la determinación de glucosa. Es enzimático ya que se emplea una enzima, glucosa oxidasa, como biorreceptor, la cual está entrampada en una matriz polimérica de poliacrilamida. Es óptico debido a que se miden los cambios de absorbancia de la enzima con láseres como fuente de excitación y un detector óptico. Estos cambios se relacionan directamente con la concentración de glucosa. Primero es necesario el estudio de la reacción en disolución, para optimizar la concentración de enzima necesaria para conseguir la mayor sensibilidad sin perder el rango lineal. A continuación se estudia en celda de flujo, lo que es más similar al biosensor puesto que la enzima ya se entrampa en una lámina.  A continuación se estudia la reacción en el biosensor con la concentración de enzima considerada como óptima. Se optimizan los parámetros que caracterizan el instrumento para obtener la mayor sensibilidad y se estudia el rango lineal, el cual se establece desde 2,79·10ˉ³M  hasta 5,60·10ˉ³M. El estudio se concluye con la introducción de una muestra sintética y de una muestra real para comprobar la precisión en la determinación de glucosa, observándose lo elevada que es ésta. Finalmente se estudia la vida de la enzima entrampada en la lámina y si se producen cambios en la sensibilidad de las medidas con el paso del tiempo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/59171</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Analítica; Área de Química Analítica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/59171/files/TAZ-TFG-2016-1914.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Química</dc:subject>
+    <dc:title>Optimización de un biosensor óptico enzimático para la determinación de glucosa</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Optimization of an enzymatic optical biosensor for the determination of glucose</dc:title>
+</oai_dc:dc>

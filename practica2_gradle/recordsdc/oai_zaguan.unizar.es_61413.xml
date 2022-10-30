@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Alonso Esteban, Rafael</dc:contributor>
+    <dc:creator>García González, José Antonio</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El objetivo de este Trabajo Fin de Grado es el diseño y construcción de un sistema que permita medir fuerzas de forma sencilla y económica, y aplicarlo a una serie de experiencias didácticas en el laboratorio relacionadas con el equilibrio estático de los cuerpos rígidos.  En el Trabajo se han diseñado dos montajes que formarán parte de las sesiones de prácticas para el alumnado del Departamento de Física Aplicada de la E.I.N.A. El primero permite comprobar el valor de las reacciones en los apoyos de una escalera en dos situaciones: sin rozamiento y con rozamiento. El segundo estudia la descomposición de fuerzas bajo la influencia de una carga en una cercha simple.  Se trata de una Trabajo transversal a varias áreas de  conocimiento, fundamentalmente electrónica (adquisición de datos, uso de convertidores de señal), informática (uso de software y hardware), diseño (concepción y materialización de la idea y planos para mecanización de piezas) y mecánica (realización de estructuras y aplicación de leyes).</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61413</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Aplicada; Área de Física Aplicada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61413/files/TAZ-TFG-2017-019.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Diseño y construcción de un sistema medidor de fuerzas y su aplicación en el diseño de montajes didácticos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Design and construction of a force measuring system and its application in the design of didactic assemblies</dc:title>
+</oai_dc:dc>

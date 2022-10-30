@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Dufo López, Rodolfo</dc:contributor>
+    <dc:creator>Milagro Serrano, Juan</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Este Trabajo de Fin de Máster se plantea como una oportunidad para estudiar formas de contribuir en la lucha contra el cambio climático desde todos los ámbitos de la sociedad, centrándose en la generación y consumo de energía. De este modo, se plantea una optimización multiobjetivo del coste nivelado de la energía y las emisiones del ciclo de vida de sistemas de energías renovables con diferentes características, implantados en diversos perfiles de consumo en diferentes localizaciones de España. &lt;br /&gt;Los resultados obtenidos arrojan conclusiones claras. En primer lugar, se observa una gran reducción de costes y emisiones de este tipo de sistemas desde principios de década, concluyéndose que los sistemas de energía renovables propuestos resultan mejores tanto en costes como en emisiones que el seguir simplemente conectado a la red. Por otro lado, los sistemas de almacenamiento basados en baterías de plomo-ácido siguen suponiendo una mejor opción que los formados por baterías de ion-litio en la inmensa mayoría de los casos, si bien esta diferencia se ha estrechado, pudiendo llegar a invertirse en los próximos años. &lt;br /&gt;Teniendo en cuenta los resultados obtenidos, se puede concluir que si este tipo de sistemas se impulsan adecuadamente, podrían pasar a formar parte de la vida cotidiana y jugar un papel muy importante en la lucha contra el cambio climático en nuestro país.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/84770</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/84770/files/TAZ-TFM-2019-1029.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Industrial</dc:subject>
+    <dc:title>Minimización de costes y emisiones en sistemas de energías renovables</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Costs and emissions minimization in renewable energy systems</dc:title>
+</oai_dc:dc>

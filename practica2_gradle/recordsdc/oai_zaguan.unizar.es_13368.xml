@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Asensio Diago, José Ramón</dc:contributor>
+    <dc:creator>Nogueras Edo, Alejandro</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El presente proyecto surge de la necesidad de mejorar el control de calidad de placas electrónicas, para ello se realiza un prototipo y su automatización. Consta de memoria, manual de usuario, planos y anexos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/13368</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/13368/files/TAZ-PFC-2014-025.PDF</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/13368/files/TAZ-PFC-2014-025_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electricidad)</dc:subject>
+    <dc:title>Movimiento incontrolado de cabina de ascensor</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Serón Arbeloa, Francisco José</dc:contributor>
+    <dc:contributor>González Bedia, Manuel</dc:contributor>
+    <dc:creator>Nasarre Embid, Beatriz</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El Go es un juego de mesa estratégico para dos jugadores. Se originó en China y su historia se remonta hace más de 2500 años. A pesar de la simplicidad de sus reglas, el Go, supone aún un reto para la Inteligencia Artificial, incapaz de realizar mediante ordenador un jugador capaz de vencer a los humanos expertos en el juego. El método Monte-Carlo Tree Search (MCTS) estudiado, en contraste con los algoritmos clásicos, no necesita ninguna función heurística de evaluación de posición, ya que realiza una exploración aleatoria del espacio de búsqueda, construyendo gradualmente en memoria un árbol de juego a través de los resultados de exploraciones anteriores. Este algoritmo resulta interesante para una gran cantidad de dominios, ha conseguido muy buenos resultados en problemas de juegos de todo tipo, especialmente en el juego del Go. En este proyecto se ha realizado la implementación del juego del Go, un módulo que implementa el método Monte-Carlo Tree Search y una aplicación que permite al usuario enfrentarse  en el juego del Go a un jugador virtual dotado de cierta inteligencia y que usa el método anterior.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8010</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de CC. de la Computación e Inteligencia Artificial</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8010/files/TAZ-PFC-2012-393.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>inteligencia artificial</dc:subject>
+    <dc:subject>monte-carlo tree search</dc:subject>
+    <dc:subject>mcts</dc:subject>
+    <dc:subject>monte carlo</dc:subject>
+    <dc:subject>go</dc:subject>
+    <dc:subject>juegos</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Método de Monte-Carlo Tree Search (MCTS) para resolver problemas de alta complejidad: jugador virtual para el juego del Go</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

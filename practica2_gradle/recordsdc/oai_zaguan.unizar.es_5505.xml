@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Otín Acín, Aránzazu</dc:contributor>
+    <dc:creator>Pérez Pellicena, Francisco Manuel</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El objeto del presente proyecto es la realización de un prototipo funcional sencillo, que permita la medición de ciertos parámetros físicos haciendo uso de los pertinentes transductores o sensores. Las mediciones realizadas de forma aislada, se propagarán a través de una red inalámbrica hasta llegar a un sistema central, el cual procesará las medidas y las almacenará para su posterior tratamiento. La principal idea a aplicar es el hacer accesible esa información, siempre convenientemente tratada, a in-ternet, de tal forma que pueda ser consultada desde cualquier terminal con acceso y en cualquier momento</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5505</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5505/files/TAZ-PFC-2010-438_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5505/files/TAZ-PFC-2010-438.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>domótica</dc:subject>
+    <dc:subject>microcontroladores</dc:subject>
+    <dc:subject>AVR</dc:subject>
+    <dc:subject>XBEE</dc:subject>
+    <dc:subject>802.15.4</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electrónica Industrial)</dc:subject>
+    <dc:title>Realización de sistema domótico con microcontroladores de bajo coste (AVR) y módulos RF, verificando el estándard 802.15.4</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

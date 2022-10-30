@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Idiago Valero, José Miguel</dc:contributor>
+    <dc:contributor>Casas Nebra, Roberto</dc:contributor>
+    <dc:creator>Domínguez Guillén, Daniel</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>Este Proyecto de Fin de Carrera se ha realizado en Tecnodiscap, grupo de investigación del I3A, dentro de la línea de investigación en salas de estimulación multisensorial. Se ha detectado en las salas actualmente disponibles una falta de posibilidades de interacción del usuario con el entorno, lo que supone una limitación en el desarrollo de las sesiones terapéuticas. Se ha colaborado en el desarrollo de un sistema que permita la interacción entre diferentes elementos que pueden estar presentes en una sala de estimulación multisensorial. En concreto se ha realizado un controlador ZigBee de dispositivos de iluminación DMX.  Además del puro diseño hardware, se ha integrado el dispositivo en un driver ZigBee, que permite la auto-detección del dispositivo. Este driver funciona bajo el framework OSGi, que facilita el manejo e interconexión de dispositivos y servicios. De esta manera el objeto software creado por el driver podrá interactuar con otros dispositivos o servicios. Por otro lado se han realizado dos diseños software. El primero de ellos se trata de un sencillo interfaz de control del dispositivo de iluminación elegido para este proyecto desde un ordenador. El segundo es una primera versión del gestor de interconexiones entre los sensores y los actuadores presentes en una sala de estimulación multisensorial, para lo que se ha colaborado tanto con alumnos de diseño industrial como con ingenieros de Tecnodiscap. Así, se ha conseguido crear una buena base para su futura ampliación con más dispositivos. El objetivo principal ha sido el de añadir un elemento nuevo a las salas de estimulación multisensorial e integrarlo junto con otros dispositivos que se están desarrollando en paralelo; pero a la vez se pretende tener una visión clara del proceso de diseño de un dispositivo, desde la electrónica básica, pasando por el firmware, el funcionamiento de un driver y el control software del dispositivo, hasta llegar a la puesta en funcionamiento del mismo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5337</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5337/files/TAZ-PFC-2010-331_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5337/files/TAZ-PFC-2010-331.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>SNOEZELEN</dc:subject>
+    <dc:subject>Estimulación multisensorial</dc:subject>
+    <dc:subject>ZigBee</dc:subject>
+    <dc:subject>DMX</dc:subject>
+    <dc:subject>PSOC</dc:subject>
+    <dc:subject>OSGi</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicaciones</dc:subject>
+    <dc:title>Control vía ZigBee de dispositivos de iluminación con protocolo DMX para salas de estimulación multisensorial</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Larrodé Pellicer, Emilio</dc:contributor>
+    <dc:contributor>Escuín Finol, David</dc:contributor>
+    <dc:creator>Royo Agustín, Beatriz</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>El transporte de mercancías supone un reto en la actualidad, ya que cada vez prima más la inmediatez. Además, aunque este paso de la cadena de suministro no supone un valor añadido al producto, sí que incrementa su precio. Por otro lado, una de las grandes preocupaciones es el consumo energético y la contaminación. Estos motivos, además de los económicos, son los que han llevado a muchos investigadores a dirigir sus esfuerzos hacia la optimización del transporte. A este tipo de cuestiones se las conoce como VRP o “vehicle routing problem” Se ha comprobado, durante el estudio del estado del arte, que los problemas VRP se centran en un escenario que difiere del presentado en este trabajo. En este caso, en el contexto analizado, un pedido se caracteriza por tener dos localizaciones, el origen donde se recoge la mercancía y el destino donde se deposita. La distancia entre estos puntos es grande necesitando controlar el tiempo de conducción, de disco, de desplazamiento y el de espera para llegar dentro de las ventanas temporales impuestas. Además, existen distintos tipos de mercancía y la capacidad es limitada. Es decir, se persigue modelar este escenario presentando la función objetivo a minimizar y las restricciones que lo caracterizan. Gracias a esto, se puede plantear la metodología de resolución que mejor se ajusta. En este caso, se ha basado en la adaptación de dos investigaciones analizadas: para la agrupación de pedidos y generación de las rutas se ha acomodado un algoritmo sustentado en colonias de hormigas; y para aprovechar al máximo la disposición de los artículos, se han utilizado técnicas heurísticas de forma que también se determina si un pedido puede ser servido en esa ruta.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4940</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería e Infraestructura de los Transportes</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4940/files/TAZ-TFM-2010-025.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/4940/files/TAZ-TFM-2010-025_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Transporte mercancías carretera</dc:subject>
+    <dc:subject>VRP</dc:subject>
+    <dc:subject>BPP</dc:subject>
+    <dc:subject>Colonia de hormigas</dc:subject>
+    <dc:subject>Heurística</dc:subject>
+    <dc:subject>Metaheurística</dc:subject>
+    <dc:subject>Optimización</dc:subject>
+    <dc:subject>Planificación</dc:subject>
+    <dc:subject>Calculo de rutas</dc:subject>
+    <dc:subject>Máster Universitario en Sistemas Mecánicos</dc:subject>
+    <dc:title>Modelización de problemas de cálculo de rutas de larga distancia con llenado óptimo de vehículos (VRP + BPP)</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

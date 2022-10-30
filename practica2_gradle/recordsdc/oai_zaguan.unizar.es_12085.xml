@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Marco Marco, Álvaro</dc:contributor>
+    <dc:contributor>Aragüés Ruiz, Antonio</dc:contributor>
+    <dc:creator>Beltrán Nuez, Sergio</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Una situación muy usual que podemos encontrar en un hospital es el hecho de que un paciente este  sujeto a una monitorización permanente de medidas como la presión arterial, la saturación del oxígeno en sangre o la temperatura. Todas estas medidas van conectadas a una interfaz de monitorización por medio de cables, lo que conlleva una serie de problemas relacionados con la movilidad del paciente, tanto para el propio paciente como para el personal sanitario. Este Proyecto Fin de Carrera (PFC) plantea construir un entorno de telemonitorización inalámbrica utilizando tecnología ZigBee y con el fin de trabajar de acuerdo a los estándares del Comité Europeo de Normalización (CEN) implantar el estándar ISO/IEEE 11073. Para establecer la comunicación entre un manager y un agente médico.  Este proyecto se apoya en dos tecnologías como son ZigBee y X73, la parte correspondiente a ZigBee se va a desarrollar en el laboratorio del grupo Howlab, un grupo de investigación de la universidad de Zaragoza.Por otro lado en lo que corresponde a la implantación del estándar médico se va a llevar a cabo dentro de la empresa Goodday Solutions S.L. El PFC comenzará con el estudio de la tecnología ZigBee, para conseguir un software que de un modo automático cree y gestione una red ZigBee, además de llevar a cabo una configuración específica de los módulos que la componen. Por otro lado implementaremos el perfil médico ZigBee Health Care (ZHC) a ambos extremos de la comunicación el cual nos permite establecer un canal sobre el que  establecer el protocolo de comunicación ISO/IEEE 11073, que será el encargado de  realizar los pasos necesarios para acabar estableciendo una conexión entre un agente y un manager de un modo seguro, con el fin de transmitir un dato clínico.  Para gestionar correctamente cada nivel de la comunicación también será necesario el encapsulado y desencapsulado de los datos dentro de tramas ZCL, ZHC y APDU en ambos extremos. Para llevar a cabo el proyecto se dispondrá de dos dispositivos ZigBee de Telegesis, uno de estos módulos haremos que se comporte como el manager, mientras que el otro módulo junto con el sensor emularán el comportamiento del dispositivo médico. El proyecto se desarrollara en un entorno Java y siguiendo la especificación OSGi, para lo que se utilizará como entorno de ejecución Karaf (http://karaf.apache.org), donde también se implementará una interfaz gráfica para poder seguir todo el proceso de comunicación. De manera general, este PFC busca la implementación de una arquitectura y un modo sistemático de trabajo para poder extrapolarlo en un futuro a una monitorización completa del paciente con todo tipo de sensores en un entorno ZigBee.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12085</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12085/files/TAZ-PFC-2013-533.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>zigbee</dc:subject>
+    <dc:subject>iso/ieee 11073</dc:subject>
+    <dc:subject>osgi</dc:subject>
+    <dc:subject>zigbee healthcare profile (zb hcp)</dc:subject>
+    <dc:subject>sensor</dc:subject>
+    <dc:subject>java</dc:subject>
+    <dc:subject>netbeans</dc:subject>
+    <dc:subject>dispositivo medico</dc:subject>
+    <dc:subject>interfaz gráfica</dc:subject>
+    <dc:subject>agente </dc:subject>
+    <dc:subject>manager</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicación</dc:subject>
+    <dc:title>Desarrollo de un termómetro inalámbrico basado en ISO/IEEE 11073</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

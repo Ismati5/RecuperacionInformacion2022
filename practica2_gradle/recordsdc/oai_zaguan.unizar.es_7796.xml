@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Torres Moreno, Enrique</dc:contributor>
+    <dc:creator>Oliván Monge, Miguel Ángel</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>En el presente trabajo se describe el diseño, la implementación, los tests y la puesta en marcha del sistema de adquisición de datos del experimento ANAIS. El experimento ANAIS está diseñado para detectar y caracterizar la materia oscura con cristales centelleadores de yoduro de sodio (NaI) mediante la observación de modulación anual en el ritmo de detección y se está llevando a cabo en el Laboratorio Subterráneo de Canfranc (LSC), bajo el monte Tobazo.  El objeto del trabajo aquí presentado es el diseño, implementación y validación de un sistema capaz de tratar, digitalizar, transmitir y almacenar los datos del experimento e implementar un análisis preliminar de dichos datos. En este documento se repasan todos los aspectos a tener en cuenta en el diseño del sistema de adquisición de datos: tratamiento analógico y digital de la señal, los elementos de hardware y software necesarios, el almacenamiento y análisis de datos, la monitorización del sistema y el envío de estadísticas. Se describen también los requisitos que se deben cumplir en cada uno de estos elementos, haciendo hincapié en la caracterización y reducción del tiempo muerto introducido. Posteriormente se describe la implementación de los sistemas hardware y software. Se detallan también las pruebas realizadas para verificar que se cumplen los requisitos, los esfuerzos para caracterizar y mejorar el sistema, los problemas encontrados y el modo en el que se resolvieron. En particular se detallan las estrategias usadas en el software de adquisición para reducir el tiempo muerto y las medidas realizadas para caracterizar el sistema en función de configuraciones distintas. También se describen las tareas de búsqueda de latencias inesperadas en la atención de las interrupciones por parte del kernel de Linux y se detallan las configuraciones elegidas tanto de hardware como de software, las razones de su elección, en particular la opción de adquirir los datos mediante interrupciones y no hacerlo con encuesta activa. Finalmente se describe el estado actual del sistema, que se encuentra tomando datos en el Laboratorio Subterráneo de Canfranc desde diciembre de 2011 con todos los componentes del sistema en funcionamiento, a la espera de la llegada de nuevos detectores.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/7796</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Arquitectura y Tecnología de Computadores</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/7796/files/TAZ-TFM-2012-073.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/7796/files/TAZ-TFM-2012-073_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>materia oscura</dc:subject>
+    <dc:subject>anais</dc:subject>
+    <dc:subject>electrónica</dc:subject>
+    <dc:subject>vme</dc:subject>
+    <dc:subject>nim</dc:subject>
+    <dc:subject>nuclear instrumentation module</dc:subject>
+    <dc:subject>pc</dc:subject>
+    <dc:subject>adquisición</dc:subject>
+    <dc:subject>adquisición de datos</dc:subject>
+    <dc:subject>tiempo muerto</dc:subject>
+    <dc:subject>linux</dc:subject>
+    <dc:subject>software</dc:subject>
+    <dc:subject>diseño de software</dc:subject>
+    <dc:subject>irq</dc:subject>
+    <dc:subject>interrupciones</dc:subject>
+    <dc:subject>encuesta</dc:subject>
+    <dc:subject>poll</dc:subject>
+    <dc:subject>Máster Universitario en Ingeniería de Sistemas e Informática</dc:subject>
+    <dc:title>Sistema de adquisición de datos para un experimento de detección directa de materia oscura (ANAIS)</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

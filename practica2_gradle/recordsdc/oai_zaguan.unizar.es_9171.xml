@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Herguido Huerta, Francisco Javier</dc:contributor>
+    <dc:contributor>Menéndez Sastre, Miguel Alejandro</dc:contributor>
+    <dc:creator>Julián Burillo, Ignacio</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El Reactor de Lecho Fluidizado de Dos Zonas con Cambio de Sección (RLFDZ-CS), recientemente patentado por la Universidad de Zaragoza, ha sido propuesto como una solución efectiva para llevar a cabo reacciones catalíticas heterogéneas en las cuáles el catalizador sufre una rápida desactivación por deposición de coque sobre su superficie activa.  La integración de reacción catalítica y regeneración del catalizador en un mismo lecho fluidizado es posible debido a la circulación de las partículas de catalizador entre las dos zonas de lecho sometidas a atmósferas reactiva y regenerativa, respectivamente. Dicha circulación de sólido está causada por las burbujas de gas, que generan un transporte axial de partículas en el interior del lecho fluidizado.  El estudio de la formación y el crecimiento de burbujas de gas proporciona una valiosa información sobre el comportamiento fluidodinámico de un reactor de lecho fluidizado y determina las condiciones de diseño del mismo. Entre las variables que determinan el tamaño de las burbujas de gas y, por tanto, la circulación de catalizador en el lecho, están la velocidad del gas de fluidización introducido en cada una de las entradas de gas al lecho, la geometría del reactor (el ángulo de cambio de sección entre zonas reactiva y regenerativa) y el tipo de partículas de catalizador a utilizar.  El objetivo principal del presente trabajo es llevar a cabo un estudio fluidodinámico de la fase gas en un RLFDZ-CS a fin de establecer unas condiciones de trabajo que garanticen el buen comportamiento de la fluidización en dicho reactor. La metodología utilizada para alcanzar el objetivo final del trabajo se detalla a continuación:  a)  Puesta a punto del sistema de medida experimental de burbujeo.  b) Determinación del perfil axial de tamaños de burbuja experimental mediante análisis digital de imágenes (DIA).  c) Post-procesado de imágenes para relacionar la velocidad de las burbujas con su tamaño y posición. d) Modelado matemático de la evolución axial del tamaño y velocidad de burbuja. Comparativa de resultados experimentales con correlaciones clásicas. e) Validación de simulaciones fluidodinámicas llevadas a cabo en un simulador CFD con los resultados experimentales anteriores.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9171</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Ingeniería Química</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9171/files/TAZ-TFM-2012-873.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>rlfdz</dc:subject>
+    <dc:subject>lecho fluidizado</dc:subject>
+    <dc:subject>cfd</dc:subject>
+    <dc:subject>fluidodinámica</dc:subject>
+    <dc:subject>rlfdz-cs</dc:subject>
+    <dc:subject>modelado hidrodinámico</dc:subject>
+    <dc:subject>Máster Universitario en Iniciación a la Investigación en Ingeniería Química y del Medio Ambiente</dc:subject>
+    <dc:title>Estudio fluidodinámico de la fase gas en un reactor de lecho fluidizado de dos zonas con cambio de sección (RLFDZ-CS): Experimentación, modelado matemático y simulación mediante CFD</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

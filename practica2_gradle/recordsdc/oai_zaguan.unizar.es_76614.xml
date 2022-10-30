@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bea Cascarosa, José Antonio</dc:contributor>
+    <dc:creator>Fernández Valero, David</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>En el presente documento se desarrolla todo el cálculo y consideraciones necesarias para la elaboración de un programa de cálculo que mejore la seguridad aérea en las operaciones, tanto de aeronaves ligeras ya construidas como para aeronaves de construcción amateur. Para esto se presentan todos los cálculos necesarios para obtener los límites del centro de gravedad, a partir de un avión ya fabricado y conociendo los resultados correctos para la comprobación final de los mismos. Más tarde se podrá extrapolar el desarrollo para cualquier tipo de aeronave, ya sea como complemento para los pilotos como para aeronaves de construcción amateur. Para esto se procede a realizar el modelo del avión, para conocer la geometría del mismo. Esto se realiza mediante el método de fotogrametría, con el objetivo de obtener la geometría de fabricación de forma explícita. Acto seguido, se introduce la geometría y se calculan de forma explícita algunos parámetros necesarios para el programa de cálculo fluido-dinámico (ANSYS), el cual proporciona las características aerodinámicas necesarias para el cálculo de estabilidad. Para verificar que el modelo formulado en ANSYS es suficientemente sólido, se procede a hacer una verificación de los resultados obtenidos en comparación con datos experimentales. Más tarde, conocidos los límites del centro de gravedad, se desarrolla un programa que permita el cálculo de la posición del centro de gravedad, que es obligatorio antes de realizar cualquier vuelo. A día de hoy, estos cálculos se realizan de forma manual mediante el manual del fabricante, el cual proporciona todos los datos necesarios para su cálculo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76614</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76614/files/TAZ-TFG-2018-3530.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Análisis de la estabilidad longitudinal de aeronaves ligeras y diseño de programa para mejora de la seguridad aérea de los pilotos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">On the longitudinal stability analysis of light aircrafts for software development related to pilot safety improvement</dc:title>
+</oai_dc:dc>

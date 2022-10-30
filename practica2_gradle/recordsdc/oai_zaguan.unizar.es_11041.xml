@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Turégano Romero, José Antonio</dc:contributor>
+    <dc:creator>Roldán Saso, Eva</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>La tendencia que sigan las ciudades y la forma en la que se desarrollen y transformen en los próximos años va a ser determinante para hacer frente al reto de la sostenibilidad. De ahí la importancia de realizar planificaciones urbanísticas con una adecuada combinación de factores  puesto que esto va a influir directamente en el comportamiento posterior de la ciudad.  En este sentido, y con el objetivo de facilitar la labor de realizar adecuados diseños urbanos se está  desarrollando la aplicación informática URSOS. Este programa permite calcular las demandas de climatización de un conjunto de edificios.  El trabajo consiste en el desarrollo de un modelo de evaluación de sostenibilidad urbana a partir de un conjunto de indicadores enfocados a tres ámbitos: energético, medioambiental y de habitabilidad. Este modelo ha sido incorporado a URSOS para que además de las demandas de climatización sea capaz de evaluar más aspectos relacionados con la sostenibilidad urbana, como instrumento útil para la toma de decisiones en la etapa de planificación y diseño de un proyecto, o bien en las etapas previas a las actividades de rehabilitación de áreas urbanas ya existentes.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/11041</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/11041/files/TAZ-TFM-2013-203.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Energías Renovables y Eficiencia Energética</dc:subject>
+    <dc:title>Propuesta de modelo simplificado para la evaluación cuantitativa de la sostenibilidad urbana</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Fabra Caro, Francisco Javier</dc:contributor>
+    <dc:creator>Mur Rodrigo, Alberto</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Este trabajo se centra en el desarrollo de una aplicación (que recibe el nombre de Quizer) utilizando un conjunto de tecnologías abiertas y bien aceptadas en el mercado.&lt;br /&gt;Dicha aplicación estará enfocada a la resolución de cuestionarios, pero dando una vuelta de tuerca a las encuestas tradicionales como podrían ser por ejemplo las realizadas en papel o vía telefónica. Dicha vuelta de tuerca se centra sobre todo en el desarrollo de una herramienta que sea lo más interactiva (y amena de utilizar) posible, sobre todo si tenemos en cuenta que uno de los motivos principales por los que las personas se echan atrás a la hora de responder encuestas es por lo tedioso que puede llegar a ser.&lt;br /&gt;Aparte de la funcionalidad de resolución de cuestionarios, la importancia de Quizer reside en las estadísticas de uso, tanto para el lado del profesor como para el alumno, porque la información de respuestas no serviría de nada si se almacena en “crudo”, sino que lo realmente útil es presentar la información con gráficos y, en general, de forma que los usuarios puedan ver de forma lo más visual posible la información que es de su interés.&lt;br /&gt;Los objetivos perseguidos, además del desarrollo como tal, son un análisis previo de las herramientas que ya están siendo empleadas para ver en qué se puede mejorar a dichas aplicaciones, la extensión de un proyecto base con la meta de añadir valor a un proyecto ya existente y, sobre todo, la realización de un sistema web que se adapte a dispositivos móviles, que son unas de las piezas de tecnología que más se emplean debido a la versatilidad y movilidad que proporcionan.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/85249</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/85249/files/TAZ-TFG-2019-2710.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>Quizer: una herramienta de participación en el aula</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Quizer: a participation tool in the classroom</dc:title>
+</oai_dc:dc>

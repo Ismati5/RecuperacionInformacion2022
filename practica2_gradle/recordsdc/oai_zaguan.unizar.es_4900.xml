@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Suelves Laiglesia, Isabel</dc:contributor>
+    <dc:contributor>Pinilla Ibarz, José Luis</dc:contributor>
+    <dc:contributor>Herguido Huerta, Francisco Javier</dc:contributor>
+    <dc:creator>LLobet Cucalón, Saúl Francisco de</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>El biogás es un gas generado a partir de la biodegradación de la materia orgánica y por lo tanto se trata de una fuente de energía renovable. Los principales componentes del biogás son el metano y el dióxido de carbono, y su concentración varía en función del tipo de residuo utilizado (CH4: 40-70% y CO2: 30-60%). En la actualidad, el biogás está adquiriendo un papel cada vez más importante como fuente de energía alternativa al petróleo y son muchos los proyectos relacionados con su aprovechamiento energético. Una de las líneas de investigación del Grupo de Conversión de Combustibles del Departamento de Energía y Medioambiente del Instituto de Carboquímica (CSIC), se centra en la producción de H2 libre de CO2 y materiales nanoestructurados de alto valor añadido mediante la Descomposición Catalítica de Gas Natural (DCGN). Este proceso puede aplicarse a cualquier tipo de mezcla con alto contenido en metano, como por ejemplo, el biogás. El objetivo del presente proyecto consiste en el estudio de la Descomposición Catalítica de Biogás (DCB) para la obtención de gas de síntesis (H2 y CO) y material carbonoso nanoestructurado de alto valor añadido.  Como punto de partida, se ha realizado un estudio termodinámico comparando los procesos de descomposición de metano y de biogás. Así mismo, se ha identificado la ventana de temperatura en la que la formación de carbono está favorecida. Para la realización de los experimentos se ha utilizado un catalizador de níquel, desarrollado en trabajos anteriores por el grupo de investigación, determinando su actividad catalítica frente a la descomposición de biogás en distintas condiciones de operación (temperatura, velocidad espacial, relación CH4:CO2). Además, se han establecido  las condiciones de operación en las que la formación de carbono no provoca la desactivación de los catalizadores, ya que se promueve su acumulación en forma de estructuras tubulares denominadas nanofibras de carbono, tal y como se ha observado mediante microscopía de barrido y de transmisión. El papel inhibidor del CO2 en la desactivación de los catalizadores de níquel ha sido estudiado y se ha determinado un posible mecanismo de reacción.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4900</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Ingeniería Química</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4900/files/TAZ-PFC-2010-107_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/4900/files/TAZ-PFC-2010-107.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Descomposición catalítica</dc:subject>
+    <dc:subject>Biogás</dc:subject>
+    <dc:subject>Gas de síntesis</dc:subject>
+    <dc:subject>Catalizadores metálicos</dc:subject>
+    <dc:subject>Material carbonoso nanoestructurado</dc:subject>
+    <dc:subject>Ingeniero Químico</dc:subject>
+    <dc:title>Descomposición catalítica de biogás</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Lloret Gazo, Jorge</dc:contributor>
+    <dc:creator>Aranda Granda, Francisco Javier</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>Cuando es modificado el esquema de BD, los programas que acceden a éste frecuentemente deben ser modificados. En ocasiones la modificación de los programas es complicada y costosa. Los objetivos generales de esta línea de investigación son 1) llegar a un mejor conocimiento del problema y de las soluciones existentes, y 2) desarrollar nuevas soluciones al problema que puedan ser ventajosas. Conclusiones Tras examinar diversas propuestas, se ha desarrollado una solución abierta con la esperanza de que otras partes puedan aplicarla sobre escenarios alternativos, y tengan un punto de apoyo sobre el que desarrollar soluciones ampliadas o alternativas. A diferencia de otras propuestas vistas hemos preferido: 1) Dejar de lado el análisis estático del código fuente, y realizar una recopilación y análisis de la información obtenida de la ejecución del programa. 2) Dejar de lado (de momento) la idea de realizar una traducción automática basada en una especificación del cambio del esquema, y depender en los técnicos para definir y corregir la adaptación concreta según su criterio y experiencia. El mecanismo de adaptación implementado es un wrapper JDBC que permite 1) obtener una información muy detallada del acceso a BD y 2) traducir dichas operaciones mediante matchers que identificarían cada caso de sentencia SQL solicitada, y handlers que se encargarían de realizar el tratamiento correcto. La implementación incluye un proceso rudimentario para analizar las operaciones de acceso registradas. Este análisis produce un resumen de las sentencias SQL ejecutadas, así como de las dependencias entre las mísmas (que es necesario para adaptaciones complejas). Con esta información se elabora una configuración base para el mecanismo de adaptación. En el trabajo presentado se realiza una visión global del problema y se muestra de forma práctica cómo se soluciona un caso de estudio no trivial con el wrapper implementado.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5103</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de CC. de la Computación e Inteligencia Artificial</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5103/files/TAZ-TFM-2010-069_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5103/files/TAZ-TFM-2010-069.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Bases de datos</dc:subject>
+    <dc:subject>Ingeniería del Software</dc:subject>
+    <dc:subject>Evolución del Software</dc:subject>
+    <dc:subject>Máster Universitario en Ingeniería de Sistemas e Informática</dc:subject>
+    <dc:title>Adaptación flexible de aplicaciones de base de datos mediante wrappers</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

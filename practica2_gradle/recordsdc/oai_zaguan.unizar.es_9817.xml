@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Castejón Herrer, Luis</dc:contributor>
+    <dc:creator>Galindo Torres, Juan Miguel</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El presente trabajo tiene como objeto el estudio comparativo teórico del comportamiento ante un impacto lateral de una puerta de automóvil junto con distintas geometrías de barras de protección contra impacto lateral. Para este estudio se ha utilizando software comercial de ingeniería asistida por ordenador: - Catia V5 para el diseño de la geometría. - Ansys Workbench para el preproceso, cálculo y postproceso. El punto de partida del estudio es la geometría del panel exterior de una puerta de automóvil, y varias geometrías de barras de protección contra impacto lateral que comparten la misma altura. Sobre estas barras de protección contra impacto lateral en acero se va a realizar la selección de la geometría óptima según: - Resistencia al aplastamiento en un impacto lateral y energía de deformación (criterios principales). - Rigidez a torsión (criterio secundario). Sobre la barra de protección contra impacto lateral con la geometría óptima frente a impacto lateral se estudiará: - Influencia del tipo de acero en los resultados de la prueba. - Viabilidad de sustituir acero por otros materiales, variando el espesor. Finalmente, se estudiará la contribución del panel exterior de la puerta en la prueba de impacto lateral.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9817</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería e Infraestructura de los Transportes</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9817/files/TAZ-TFM-2012-1220_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/9817/files/TAZ-TFM-2012-1220.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>puerta automóvil</dc:subject>
+    <dc:subject>acero</dc:subject>
+    <dc:subject>aluminio</dc:subject>
+    <dc:subject>materiales compuestos</dc:subject>
+    <dc:subject>impacto lateral</dc:subject>
+    <dc:subject>fmvss214</dc:subject>
+    <dc:subject>Máster Universitario en Sistemas Mecánicos</dc:subject>
+    <dc:title>Optimización de una puerta de automóvil en distintos materiales ante impacto lateral</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

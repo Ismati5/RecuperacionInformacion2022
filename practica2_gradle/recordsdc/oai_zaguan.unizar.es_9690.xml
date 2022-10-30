@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Dwivedi, Satyam</dc:contributor>
+    <dc:contributor>Valdovinos Bardají, Antonio</dc:contributor>
+    <dc:creator>Aguilar Pérez, David</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>En sistemas de localización cooperativa, los dispositivos de una red transmiten pulsos en un determinado orden preestablecido. Cada dispositivo (nodo) realiza mediciones del tiempo de llegada de los distintos pulsos recibidos para localizar a los otros nodos de la red. Este proyecto ha tratado algunos aspectos de la localización cooperativa basada en secuencias. La primera parte del proyecto define el sistema propuesto y las secuencias de transmisión de pulsos. Después se discuten las restricciones que el mismo sistema impone y se propone un algoritmo de generación de una secuencia que se adapte al número de nodos de una red. Una vez expuesto este algoritmo, se extiende para que sea capaz de generar todas las secuencias posibles para cualquier red. La segunda parte trata sobre el diseño del filtro que va a procesar las mediciones que los nodos toman, para estimar las distancias entre todos los nodos de la red. Cada nodo ejecuta un filtro de Kalman. Se muestran varias simulaciones para este modelo. Se discute también coste computacional requerido por el filtro, proponiendo diversas formas de reducirlo. Se realiza una comparación entre varios métodos de descomposición de matrices, descomposiciónes QR y Cholesky. Finalmente, se discute la relación del coste computacional con el número de nodos que compone la red.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9690</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingeniería Telemática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9690/files/TAZ-PFC-2012-704.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/9690/files/TAZ-PFC-2012-704_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>localización cooperativa</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicación</dc:subject>
+    <dc:title>Diseño de secuencias y filtro para localización cooperativa</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

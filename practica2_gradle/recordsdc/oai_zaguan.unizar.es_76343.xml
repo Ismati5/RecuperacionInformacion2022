@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ponce de León Vázquez, Jesús</dc:contributor>
+    <dc:creator>Pérez Sancho, Joaquín</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>Este proyecto trata sobre un sistema de navegación aplicado al sector agrícola. Su implantación en vehículos o robots agrícolas podrían dotar a estos de una navegación semiautónoma o autónoma integral.  El principio básico de funcionamiento se basa, en primera estancia, en guardar una ruta personalizada y adaptada a cada parcela en la que se vaya a trabajar, estas rutas se denominan "tracks" o "trazadas". Una vez se tenga estas rutas adquiridas, estas se vuelcan al sistema de control del vehículo y utilizando la trazada correspondiente a la parcela en la que se esté trabajando y comparando su posición en tiempo real. Decidirá mediante su programación cual será su rumbo y dirección a tomar, para seguir de forma precisa la trazada, además de hacerlo a una velocidad optima para el laboreo que esté realizando en ese momento. Este sistema de navegación está enfocado a un tipo de cultivo en particular: en concreto a todo aquel que posea una plantación de árboles (ya sean frutales de hueso, frutos secos, plantaciones para madera, etc). Esta parte del sector actualmente no está provista de sistemas de navegación, por su gran dificultad al presentar parcelas repletas de obstáculos: los propios árboles.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76343</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76343/files/TAZ-TFG-2018-4811.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/76343/files/TAZ-TFG-2018-4811_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecatrónica</dc:subject>
+    <dc:title>Sistema de navegación para vehículos agrícolas autónomos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Navigation System for self-driven farming veheicles</dc:title>
+</oai_dc:dc>

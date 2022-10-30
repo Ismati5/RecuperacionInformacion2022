@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Olave Rubio, Pilar</dc:contributor>
+    <dc:creator>Morales Blanco, Luis</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Este trabajo pretende poner en valor el gran alcance que tiene la minería de datos y más concretamente, cuales son las técnicas estadísticas que tenemos que utilizar en función de los datos obtenidos, para usar el conocimiento que se deriva de ellos en la toma de decisiones  empresariales y, en particular, en las variables estratégicas del marketing. El objetivo del proyecto es demostrar el gran interés que tiene para las empresas el tratamiento de la información para generar conocimiento y valor, en particular en el campo del Marketing y la Investigación de Mercados. Este objetivo lo llevaremos a cabo mediante el tratamiento de una encuesta realizada a empresas de 8 países (Alemania, España, Estados Unidos, Francia, Italia, Polonia, Reino Unido y Suecia) de los sectores químico, acero y equipamiento para el hogar en el año 2.007. A través de la implementación de las técnicas más usuales en análisis de datos multivariantes, constataremos su importancia para la toma de decisiones  en el mundo empresarial y justificaremos el peso de la figura del analista de investigación de mercados en la empresa con conocimientos en minería de datos. Así pues, este proyecto consta de 4 partes: marco teórico, principales métodos multivariantes, análisis empírico y conclusiones y la correspondiente bibliografía.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/30823</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Métodos Estadísticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/30823/files/TAZ-TFG-2014-2230.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/30823/files/TAZ-TFG-2014-2230_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>big data</dc:subject>
+    <dc:subject>data analysis</dc:subject>
+    <dc:subject>data mining</dc:subject>
+    <dc:subject>marketing</dc:subject>
+    <dc:subject>analisis de datos</dc:subject>
+    <dc:subject>minería de datos</dc:subject>
+    <dc:subject>multivariante</dc:subject>
+    <dc:subject>open data</dc:subject>
+    <dc:subject>data analysis</dc:subject>
+    <dc:subject>herramienta de análisis</dc:subject>
+    <dc:subject>Graduado en Marketing e Investigación de Mercados</dc:subject>
+    <dc:title>El análisis de datos: Herramienta clave en el éxito del marketing actual.</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

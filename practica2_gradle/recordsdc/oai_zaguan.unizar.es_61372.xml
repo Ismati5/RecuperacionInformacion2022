@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Santolaya Sáenz, José Luis</dc:contributor>
+    <dc:creator>Allué Ibor, Inés</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>La alfalfa es un cultivo con fuerte presencia en el valle del Ebro y utilizado fundamentalmente para la alimentación animal. Para optimizar su transporte y almacenamiento se reduce el contenido de humedad hasta valores de 12-14% mediante la técnica de secado de aire caliente. Tras su deshidratación, eI primer elemento de la línea de empaquetado es el transportador-enfriador que reduce la temperatura del forraje hasta valores de 20-25 °C y lo transporta a la prensa que conforma la paca. Este trabajo aborda el diseño y planificación de la fabricación de un transportador-enfriador de alfalfa. Se estudian los procesos y operaciones que permitan proyectar una máquina con las especificaciones deseadas y conforme con la normativa. En particular, el transportador deberá ser capaz de procesar 20 ton/h de producto a través de una anchura útil de 2 m, trasladando el producto desde el trómel deshidratador hasta la tolva de descarga. El diseño de la máquina se compone principalmente de una banda de transporte con una estación motriz y una estación tensora, una estructura soporte y un carenado protector. Además, dispone de un sistema de aspiración y conducción de aire para reducir la temperatura de la alfalfa. Todas las partes, conjuntos y subconjuntos se han modelado con herramientas de diseño 3D y se han elaborado los planos necesarios para su fabricación. En el proyecto se incluye también la planificación del proceso productivo, con los materiales y recursos necesarios, lo que permite obtener un presupuesto final de la máquina terminada. Para facilitar la puesta en marcha, utilización y mantenimiento, se acompaña la ficha de características técnicas y el manual de instrucciones de instalación.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61372</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Expresión Gráfica de la Ingeniería</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61372/files/TAZ-TFG-2017-471.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Diseño y Planificación de la fabricación de un transportador-enfriador de alfalfa</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Design and manufacturing planning of an alfalfa conveyor-cooler system</dc:title>
+</oai_dc:dc>

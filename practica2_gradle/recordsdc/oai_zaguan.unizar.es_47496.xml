@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Larrodé Pellicer, Emilio</dc:contributor>
+    <dc:creator>Cancer Casado, Pablo</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>El trabajo de fin de grado realizado consiste en analizar diferentes costes debido a las características del transporte de mercancías, tanto el transporte por carretera como el transporte por ferrocarril. Para poder realizar el análisis se han escogido unos recorridos donde las diferentes tipologías de mercancía escogidas, contenedores, cereal, automóviles y carbón circulan en la realidad, es necesario elegir un recorrido antes de analizar los costes porque estos dependen de las características del trayecto, pendiente, longitud máxima del tren, velocidad máxima o tipo de vía (electrificada o no). Dentro del trabajo hay tres partes diferenciadas en el análisis de costes, una parte donde se analiza la intermodalidad del transporte de contenedores, otra en la que se estudia los costes en función de la tipología de la mercancía (cereal, contenedor, automóviles) y una última pate donde se analizan dos tipos de mercancía (cereal y carbón) para ver si los costes depende en función del peso o de la mercancía. Todos los recorridos analizados se estudian tanto para el transporte carretero como el ferroviario para hacer una comparativa entre ambos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/47496</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería e Infraestructura de los Transportes</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/47496/files/TAZ-TFG-2015-2753.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Análisis de costes para la selección de transporte ferroviario ante diferente tipología de cargas</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

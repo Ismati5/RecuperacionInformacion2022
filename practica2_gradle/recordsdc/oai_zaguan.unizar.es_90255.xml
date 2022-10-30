@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Rodríguez Fernández, Ricardo J.</dc:contributor>
+    <dc:creator>Olivares González, Juan Ignacio</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>Gracias a los avances tecnológicos actuales, la ciberseguridad es un pilar fundamental en cualquier ámbito de la sociedad. Evitar intrusiones o pérdida de información en los sistemas de información es uno de los objetivos principales de cualquier empresa u organización que se precie. También lo es, por tanto, en las Fuerzas Armadas debido a la gran cantidad de información sensible con la que se trabaja.  A partir de este objetivo nace este trabajo, que pretende definir las posibles vulnerabilidades del sistema de información más susceptible de ser dañado del Ejército de Tierra (en adelante ET), que es SIMACET, así como proponer soluciones. Con este objetivo, la metodología utilizada es la siguiente: En un primer lugar se analiza el estado del arte del citado sistema para conocer las actuales vulnerabilidades por medio de entrevistas a personal cualificado de la Compañía de Transmisiones de la Bandera de Cuartel General de la Brigada II de La Legión “Rey Alfonso XIII” y con la búsqueda y posterior filtrado de información proporcionada por ese mismo personal. Más tarde, se utiliza el método científico Delphi distribuyendo dos encuestas a diferente personal del acuartelamiento involucrado en los sistemas. Estas encuestas se entregarán en dos momentos diferentes y servirán para obtener información esencialmente cualitativa y precisa acerca del actual uso y futuro de estos sistemas. Por último, se realiza una práctica en un laboratorio simulando este sistema y monitorizando a tiempo real ciertas amenazas que pueda sufrir con el fin de observar la respuesta dada ante estas situaciones, buscando posibles soluciones de mejora.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/90255</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/90255/files/TAZ-TFG-2018-373.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Organización Industrial</dc:subject>
+    <dc:title>Estado de la Ciberseguridad en los medios CIS Tácticos de una BOP</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">State of Cibersecurity in BOP’s Tactical Systems</dc:title>
+</oai_dc:dc>

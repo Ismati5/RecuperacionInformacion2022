@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Oriol Langa, Luis Teodoro</dc:contributor>
+    <dc:contributor>Piñol Lacambra, Milagros</dc:contributor>
+    <dc:creator>García Juan, Hugo</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>La combinación de las técnicas de polimerización radicalaria controlada (como la ATRP), que permite controlar tanto la masa como los grupos terminales del polímero, con la química click constituye una herramienta excepcional para la síntesis de nuevas arquitecturas poliméricas con una estructura perfectamente definida.  En este trabajo se han preparado por ATRP polimetacrilatos de oligoetilenglicol y dietilenglicol termosensibles con un grupo alquino en un extremo. Estos polímeros son solubles en agua a temperatura ambiente, pero sobrepasada una temperatura crítica (LCST) se vuelven insolubles. El acoplamiento por reacción click de estos polímeros con un dendrón con azida en el punto focal dio lugar a un copolímero bloque dendrítico-lineal (LDBC) de estructura compleja y con respuesta dual: a la temperatura y a la luz, gracias a las unidades de azobenceno en la periferia del dendrón.    Se ha estudiado la formación de vesículas en disolución acuosa y se ha comprobado cómo estas vesículas responden a la luz y a la temperatura. Asimismo se ha estudiado el encapsulado y liberación bajo estímulos de sondas fluorescentes, para verificar la aplicación de estas vesículas como nanotransportadores. Otra arquitectura polimérica interesante explorada son los polímeros tipo ramificado.   Estos polímeros están formados por una cadena principal de la que cuelgan, a su vez, cadenas poliméricas laterales. Se ha explorado la aplicación de la reacción click de tiolinos fotoiniciada  como estrategia para conseguir fotopolímeros con esta estructura compleja, utilizando los polimetracrilatos termosensibles con alquino terminal, como macrómero, y ditioles comerciales.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/15162</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Orgánica; Área de Química Orgánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/15162/files/TAZ-TFM-2014-344.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>química click</dc:subject>
+    <dc:subject>atrp</dc:subject>
+    <dc:subject>vesículas poliméricas</dc:subject>
+    <dc:subject>termorrespuesta</dc:subject>
+    <dc:subject>fotorrespuesta</dc:subject>
+    <dc:subject>tiolinos</dc:subject>
+    <dc:subject>Máster Universitario en Investigación Química</dc:subject>
+    <dc:title>Nuevas arquitecturas poliméricas basadas en la química click</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

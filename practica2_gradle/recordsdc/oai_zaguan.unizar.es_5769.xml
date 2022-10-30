@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Lasierra Beamonte, Nelia</dc:contributor>
+    <dc:contributor>Alesanco Iglesias, Álvaro</dc:contributor>
+    <dc:creator>Muñoz Zuara, Andreas</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>En este proyecto se ha desarrollado un agente SNMPv3 (Simple Network Management Protocol) para la gestión técnica de dispositivos involucrados en un escenario de atención domiciliaria. Este agente va a permitir recoger la información técnica de los dispositivos médicos (báscula, termómetro...) asociados al Compute Engine (CE), el cual es el dispositivo concentrador de datos utilizado en la casa del paciente para reunir información de los dispositivos y enviarla posteriormente al centro sanitario correspondiente. Además, el agente permitirá la gestión técnica del CE, permitiendo así conocer información de recursos propios de dicho dispositivo y la detección de posibles problemas que afecten al correcto funcionamiento de éste. El diseño del agente se ha adaptado a la utilización de dispositivos médicos que implementen el estándar X.73 para las comunicaciones con el CE. Para desarrollar las herramientas que componen el sistema de gestión se ha utilizado software Java y bases de datos MySQL. El agente no sólo ofrece la ventaja de una centralización de la información proveniente de los dispositivos médicos, sino que permite una escalabilidad total. Para llevar a cabo estas funciones, se han diseñado los bloques que componen el sistema completo: establecimiento y control de comunicaciones SNMP entre agente y gestores, diseño de la MIB de gestión de la información técnica, control de las comunicaciones con el manager X.73 y diseño del interfaz del agente y del interfaz de simulación del manager X.73. Además, el agente  desarrollado recogerá información de los recursos propios del CE mediante encuestas SNMP transparentes al gestor. De esta forma, el agente propuesto permite la gestión de la información técnica de los dispositivos, dejando a elección del gestor la configuración de alarmas y eventos para mejorar la percepción de los problemas presentes en los dispositivos. Por último, se han realizado pruebas mediante simulación del sistema de gestión propuesto para comprobar el alcance de la gestión del sistema y asegurar que todas las capacidades que el sistema se supone debe cumplir para realizar una gestión completa realmente se llevan a cabo de forma satisfactoria. Mediante la consecución de estas pruebas, se presenta un resumen de los resultados obtenidos que demuestra la eficacia del sistema de gestión de dispositivos médicos propuesto.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5769</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingenieria Telematica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5769/files/TAZ-PFC-2011-192.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5769/files/TAZ-PFC-2011-192_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>agente SNMP</dc:subject>
+    <dc:subject>dispositivos médicos</dc:subject>
+    <dc:subject>management information base</dc:subject>
+    <dc:subject>SNMP</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicaciones</dc:subject>
+    <dc:title>Desarrollo de un agente SNMPv3 para la gestión técnica de dispositivos en escenarios de atención domiciliaria</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

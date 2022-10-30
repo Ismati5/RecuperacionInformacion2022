@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Álvarez Lanzarote, Ignacio</dc:contributor>
+    <dc:contributor>Cebrián Auré, Guillermo</dc:contributor>
+    <dc:creator>Astráin Redín, Leire</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>La aplicación de Pulsos Eléctricos de Alto Voltaje (PEAV) puede conducir a la electroporación celular lo que aceleraría los procesos de difusión de agua que suceden durante la deshidratación de los alimentos. Este aspecto puede ser interesante para productos cárnicos crudo-curados que presentan largos tiempos de secado. Sin embargo, casi no existen datos al respecto. El objetivo de este trabajo es realizar un estudio básico sobre la aplicación de PEAV en la carne para acelerar los procesos de deshidratación. Se trabajó con muestras de lomo de cerdo de en las que se evaluó la influencia de distintos parámetros del tratamiento de PEAV (intensidad de campo eléctrico, anchura de pulso, energía específica y orientación de las fibras musculares) y del proceso de desecación (temperatura del aire y tamaño de corte) en su velocidad de deshidratación. Se determinó que el tratamiento PEAV óptimo sería de 1 kV/cm, 200 μs de anchura de pulso y 28 kJ/kg, aplicando el campo eléctrico de forma perpendicular a la orientación de las fibras musculares. Este tratamiento aumentó la deshidratación en un 60,4% tras el mismo tiempo de desecación a 4oC. El tamaño de corte/partícula fue un parámetro importante en la deshidratación observándose una mayor desecación en muestras con una relación superficie/volumen de 5,50 y en la carne picada con un tamaño de corte de 4 mm. En las condiciones ensayadas no se observaron diferencias en el tiempo de secado de las longanizas independientemente de si la carne había sido o no tratada por PEAV pero se obtuvieron resultados favorables en textura y evaluación sensorial. Los resultados muestran el potencial de los PEAV en los procesos de desecación de la carne, aunque es necesario realizar más investigaciones acerca de los cambios estructurales que suceden y del efecto de los PEAV en la deshidratación de la carne picada.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/71131</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Producción Animal y Ciencia de los Alimentos; Área de Tecnología de Alimentos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/71131/files/TAZ-TFG-2018-1846_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/71131/files/TAZ-TFG-2018-1846.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ciencia y Tecnología de los Alimentos</dc:subject>
+    <dc:title>Aplicación de los Pulsos Eléctricos de Alto Voltaje en productos cárnicos: evaluación de su potencial en procesos de curado.</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Application of Pulsed Electric Fields in meat products: evaluation of its potential in curing processes.</dc:title>
+</oai_dc:dc>

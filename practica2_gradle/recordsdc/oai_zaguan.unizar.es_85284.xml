@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Paseta Martínez, Óscar</dc:contributor>
+    <dc:contributor>Gómez Benito, María José</dc:contributor>
+    <dc:creator>Mayoral García, Ismael</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>El objetivo del presente trabajo es el dimensionamiento y cálculo de la armadura de las secciones de hormigón necesario para la construcción de  un depósito de agua potable de cuatro vasos, utilizando el método de los elementos finitos para hallar los esfuerzos a los que se encuentran sometidos los elementos estructurales del mismo. Este trabajo únicamente aborda el cálculo estructural, no tratándose de un proyecto de construcción completo, por lo que se considera proyecto de tipo B. &lt;br /&gt;La metodología a seguir y las herramientas empleadas son las habituales en un proyecto de estructuras de hormigón armado. Se ha utilizado un software de elementos finitos (ABAQUS) para el cálculo de los esfuerzos a los que se ve sometida la estructura y posteriormente se ha utilizado el Prontuario Informático del Hormigón para el cálculo del armado de las secciones. &lt;br /&gt;Las fases de la elaboración del proyecto han sido las siguientes. En primer lugar se ha realizado un predimensionamiento de la geometría y secciones del hormigón. Posteriormente se ha elaborado un modelo de elementos finitos para el depósito con el que se han obtenido los esfuerzos producidos en el mismo. Más adelante han sido calculadas las armaduras con la ayuda del PIHE y conocidas las mismas se ha procedido a elaborar los planos de la estructura del depósito. Finalmente, se ha redactado la memoria y los anexos donde se ve reflejado todo el trabajo realizado.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/85284</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/85284/files/TAZ-TFG-2019-2466_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/85284/files/TAZ-TFG-2019-2466.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Diseño y cálculo estructural de un depósito de hormigón armado para agua potable</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Design and structural analysis of a reinforced concrete tank for drinking water</dc:title>
+</oai_dc:dc>

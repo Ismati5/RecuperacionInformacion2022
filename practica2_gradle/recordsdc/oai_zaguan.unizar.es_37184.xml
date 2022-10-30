@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Alierta Nicodemus, Jesús</dc:contributor>
+    <dc:creator>Bobi Bona, Fernando</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>En este Proyecto Fin de Carrera se ha plasmado el proceso de diseño de una instalación industrial para la fabricación de un tren de aterrizaje del helicóptero BEL UH-1H.  La instalación industrial se ha generado en base a las necesidades del proceso de fabricación y a las instalaciones ya existentes, adaptándolas en el beneficio propio y del proyecto. En dicho proceso se ha desarrollado el tren de aterrizaje cumpliendo los requisitos legales que la FAA (Federal Aviation Administration) y EASA (European Aviation Safety Agency). En estas agencias, no solo se plantean cuestiones legales sino técnicas. El proceso de desarrollo de material aeronáutico requiere de certificaciones muy estrictas a nivel particular, y a su vez, debe ser aprobado en su conjunto, llegando a hacer ensayos de vuelo para probar la idoneidad del producto final. En el caso de este tren, hemos podido verificar mediante Elementos Finitos las condiciones de carga para el caso más desfavorable posible. La capacidad para soportar el impacto después de una autorrotación ha quedado reflejada en el capítulo 2.1. Cálculos estructurales.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/37184</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/37184/files/TAZ-PFC-2015-156.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Diseño de una instalación industrial para la fabricación del tren de  aterrizaje de un helicópero BELL UH-1H</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

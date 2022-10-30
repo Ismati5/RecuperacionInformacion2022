@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Zúñiga Antón, María</dc:contributor>
+    <dc:creator>Vicente Cabanas, César</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>La revolución en el mundo de las tecnologías de la información experimentada en las últimas décadas no ha pasado desapercibida para la ciencia geográfica y la publicación de cartografía. Google Mapas es el mejor ejemplo de este paradigma. El acceso a información territorial de diferente temática está al alcance cualquier usuario de la Red.  OpenStreetMap nace con la intención de completar esta realidad. El usuario es el encargado de construir la cartografía del mundo y describir todo aquello que sea de su interés. Así surge el concepto de Neogeografía entendido como la publicación voluntaria de información geográfica gracias a una participación voluntaria de los usuarios que se centran en describir los elementos más próximos a su realidad. En la mayoría de los casos son usuarios inexpertos en las tecnologías de la información geográfica, aunque ello no exime la existencia de información de calidad. Además, OpenStreetMap se ha convertido en un potencial y firme competidor de servidores privados. El libre acceso y publicación de contenidos de su base de datos (gracias a la licencia Creative) son la clave de su éxito y protagonismo crecientes. Las oportunidades que surgen a raíz de esta plataforma son numerosas y este trabajo se centrará en la publicación de cartografía mediante la implementación de un visor cartográfico en una página web. OpenStreetMap proveerá la base cartográfica, mientras que OpenLayers será la herramienta (código abierto, libre y gratuito) que permitirá llevar a cabo el trabajo puramente técnico. La estructura de trabajo lleva a cabo en la redacción de este documento consta de 3 líneas de actuación: 	La búsqueda de editores de la cartografía proporcionada por OpenStreetMap: editores online (Potlach, Cloudmade) y editores offline (JOSM, ArcGIS, Maperitive). 	La obtención de un medio de publicación de la cartografía realizada con programas comerciales: MapServer y GeoServer han sido las plataformas seleccionadas para llevar a cabo esta tarea, cada una con sus virtudes y problemáticas como se expone en este trabajo. 	La implementación de un visor cartográfico en una página web mediante el uso de la plataforma OpenLayers gracias a las múltiples funcionalidades que ofrece a los usuarios. El análisis de OpenStreetMap y de una gran variedad de software informático será el guión de este trabajo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9662</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9662/files/TAZ-TFM-2012-1178.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>cartografía</dc:subject>
+    <dc:subject>openstreetmap</dc:subject>
+    <dc:subject>arcgis</dc:subject>
+    <dc:subject>geoserver</dc:subject>
+    <dc:subject>openlayers</dc:subject>
+    <dc:subject>estilos cartográficos</dc:subject>
+    <dc:subject>Máster Universitario en Tecnologías de la Información Geográfica para la Ordenación del Territorio: Sistemas de Información Geográfica y Teledetección</dc:subject>
+    <dc:title>Análisis espacial mediante OpenStreetMap. Edición y difusión web de cartografía</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

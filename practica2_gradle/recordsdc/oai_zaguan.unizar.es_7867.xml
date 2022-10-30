@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Montano Gella, Luis</dc:contributor>
+    <dc:creator>Ruiz Bueno, Diana Teresa</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Este trabajo desarrolla una técnica basada en modelo de músculo de Hill para estimar el par de fuerza del codo humano a partir de electromiografía superficial (sEMG). Se han incluido algunos nuevos parámetros del modelo en el proceso de optimización con el fin de mejorar el par estimado resultante. Estos parámetros corresponden a los niveles de activación de los músculos involucrados en la generación de movimiento y que no se han utilizado previamente en otros trabajos que se ocupan de este tipo de modelo. Los resultados de experimentos con varios sujetos en diferentes condiciones, como fatiga y fuerzas de resistencia al movimiento, y el uso de los nuevos parámetros optimizados lleva a algunas conclusiones acerca de la generalidad del optimizado y la influencia de los nuevos parámetros en la mejora de la estimación del par de fuerza.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/7867</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/7867/files/TAZ-TFM-2012-093.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>neuroestimador</dc:subject>
+    <dc:subject>electromiografía</dc:subject>
+    <dc:subject>optimización</dc:subject>
+    <dc:subject>modelo muscular</dc:subject>
+    <dc:subject>fuerzas musculares</dc:subject>
+    <dc:subject>Máster Universitario en Ingeniería de Sistemas e Informática</dc:subject>
+    <dc:title>Modelo optimizado para la estimación de pares articulares y contribución muscular a partir de información sEMG</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

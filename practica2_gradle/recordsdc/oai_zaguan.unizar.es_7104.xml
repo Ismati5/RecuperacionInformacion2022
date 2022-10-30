@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Malón Litago, Hugo</dc:contributor>
+    <dc:creator>Molina Clemente, Fernando</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>Dentro de la edificación agroindustrial, las estructuras prefabricadas de hormigón son de uso extendido por su rapidez de ejecución y su resistencia a ambientes adversos, como los que se producen en instalaciones ganaderas. Dentro de estas estructuras, la unión más comúnmente utilizada entre el pilar prefabricado y la zapata es el sistema de cáliz, en el que el pilar se introduce en un hueco practicado en la zapata para constituir la unión entre ambos. Las características de esta unión determinan su rigidez, y por tanto su comportamiento  como empotramiento o como articulación, en función del contacto que se establezca entre ambos y de la profundidad de introducción del pilar en el cáliz. En este trabajo se realiza un estudio del comportamiento de dicha unión mediante su modelización por el método de los elementos finitos. Para ello, se propone un modelo de pilar y zapata en elementos finitos, sometido a cargas y condiciones de contorno de las mismas características que aquellas a las que estaría sometido un modelo real, y se evalúa su validez frente a los métodos clásicos elástico-lineales utilizados en el cálculo de este tipo de estructuras. Una vez validado el modelo, se analiza el comportamiento de la unión con respecto a los desplazamientos en el pilar, y se obtienen una serie de conclusiones en cuanto a la influencia que la profundidad de empotramiento, el tipo de contacto establecido y las cargas aplicadas tienen sobre la rigidez de dicha unión, y sobre su comportamiento empotrado o articulado.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/7104</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería Mecánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/7104/files/TAZ-TFM-2012-022.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>elementos finitos</dc:subject>
+    <dc:subject>unión zapata-pilar tipo cáliz</dc:subject>
+    <dc:subject>estructuras de hormigón prefabricadas</dc:subject>
+    <dc:subject>Máster Universitario en Iniciación a la Investigación en Ciencias Agrarias y del Medio Natural</dc:subject>
+    <dc:title>Análisis del grado de rigidez de la unión pilar-zapata tipo cáliz en estructuras de hormigón armado para edificios agro-industriales por el método de los elementos finitos</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

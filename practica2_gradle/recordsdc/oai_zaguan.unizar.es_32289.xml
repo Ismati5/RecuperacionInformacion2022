@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Navarro, Pilar</dc:contributor>
+    <dc:creator>Trasobares Fernández de Heredia, Pablo</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>En este trabajo se ha realizado una simulación computacional del flujo en arterias. Para ello, en primer lugar se han derivado las ecuaciones diferenciales que rigen el comportamiento del sistema y después, se han resuelto por medio del método de las características. Dicho método aprovecha una propiedad de las ecuaciones hiperbólicas, que consiste en que en ciertas familias de curvas, llamadas curvas características, la solución de dichas ecuaciones varía de una forma específica, que depende de dichas ecuaciones. El objetivo es proponer un modelo de simulación numérica de flujos transitorios en vasos elásticos. Los resultados numéricos se han validado por comparación con soluciones exactas de problemas simplificados. Se ha analizado la sensibilidad de dichas soluciones a diversos parámetros tanto físicos como numéricos. Para dar por finalizado el trabajo, se han expuesto una serie de conclusiones obtenidas de las distintas simulaciones realizadas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/32289</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/32289/files/TAZ-TFG-2015-3129.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/32289/files/TAZ-TFG-2015-3129_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Física</dc:subject>
+    <dc:title>Un modelo computacional de simulación de flujo en arterias</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

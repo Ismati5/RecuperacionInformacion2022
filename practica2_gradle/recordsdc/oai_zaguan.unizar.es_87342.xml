@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ilarri Artigas, Sergio</dc:contributor>
+    <dc:creator>Potrony Compaired, Óscar</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Cada vez es mayor la competencia entre los equipos de fútbol, y la línea entre vencer o salir derrotado, cada vez más delgada. Es por ello que hay que buscar nuevas alternativas para tratar de sobresalir del resto y optimizar el rendimiento de todo el equipo. Ahí es donde entra la ciencia de datos, que está empezando a ser aplicada a este deporte. En este ámbito se enmarca el presente trabajo, que sigue toda la creación de un proyecto completo de análisis de datos cuya última finalidad es ofrecer la mejor alineación posible al entrenador de un equipo de fútbol, con el objetivo de maximizar sus probabilidades de ganar el partido.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87342</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87342/files/TAZ-TFG-2019-4485.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>Sistema de ayuda a la elección de la alineación de un partido de fútbol profesional</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Support system for choosing a suitable lineup for professional football matches</dc:title>
+</oai_dc:dc>

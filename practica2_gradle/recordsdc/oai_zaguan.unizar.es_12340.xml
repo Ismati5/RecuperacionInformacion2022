@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Pina Martínez, José Luis</dc:contributor>
+    <dc:contributor>Serón Arbeloa, Francisco José</dc:contributor>
+    <dc:creator>Gracia Cabrera, Héctor</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Este TFM se centra en evaluar las diferencias observadas en las diez capas que existen en la retina, comparando las de los pacientes con Esclerosis múltiple o Parkinson y los pacientes sanos. Para ello se emplea un nuevo prototipo de segmentación del dispositivo de Tomografía de Coherencia Óptica tipo Spectralis. Los datos a analizar pertenecen a 463 pacientes, 204 con Esclerosis múltiple, 121 con Parkinson y 138 sanos. En total, cada paciente tiene asociados 7680 valores y un campo en el que se indica si es un paciente sano o que enfermedad padece. Se desarrollo una herramienta que permite diferentes visualizaciones de los datos para poder observar con comodidad los datos de los diferentes pacientes, con el objetivo de poder validar estos datos. Este proceso de validación fue clave para alcanzar los resultados finales. Se decidió probar a clasificar los pacientes usando un tipo concreto de red neuronal, los llamados suport vector machine (SVM), por estar considerados como los mejores clasificadores binarios dentro de las redes neuronales. Se utilizó un SVM para cada enfermedad y, tras varias pruebas, se consiguió que estos clasificadores obtuvieran precisiones superiores al 90% a la hora de diferenciar entre pacientes sanos y enfermos de ambas enfermedades. El trabajo se completo con varias pruebas extra y se añadieron ciertos datos estadísticos que ofrecen más información sobre la validez del método desarrollado como criterio diagnostico para estas enfermedades. Además, se describen en los anexos las prácticas realizadas que son requisito para aprobar el Máster en Ingeniería Biomédica.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12340</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12340/files/TAZ-TFM-2013-822.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>tomografía óptica</dc:subject>
+    <dc:subject>esclerosis múltiple</dc:subject>
+    <dc:subject>parkinson</dc:subject>
+    <dc:subject>suport vector machine</dc:subject>
+    <dc:subject>redes neuronales</dc:subject>
+    <dc:subject>vtk</dc:subject>
+    <dc:subject>Máster Universitario en Ingeniería Biomédica</dc:subject>
+    <dc:title>Análisis de datos obtenidos por tomografía óptica de retina y su posible relación con la esclerosis múltiple y el parkinson</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

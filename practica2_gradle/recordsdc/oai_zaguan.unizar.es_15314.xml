@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Azcoiti Pérez, Vicente</dc:contributor>
+    <dc:contributor>Follana Adín, Eduardo</dc:contributor>
+    <dc:creator>Royo Amondarain, Eduardo</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>En este trabajo se plantea como objetivo la implementación de un algoritmo de simulación geométrico para el modelo Z(2) gauge-Higgs. Tras una exposición de los resultados relevantes en el campo, se introduce el modelo de estudio y se prueba su dualidad con el modelo de Ising con campo magnético en dimensión dos. Posteriormente se describe en detalle el funcionamiento de los algoritmos implementados y se presentan los resultados obtenidos por estos, incluyendo una comparativa de la eficiencia computacional de cada uno. Adicionalmente, se estudia el modelo de Ising en su sector antiferromagnético, corroborando la existencia de una línea de transición que persiste para valores del campo no nulos, a diferencia del caso ferromagnético.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/15314</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Teórica; Área de Física Teórica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/15314/files/TAZ-TFM-2014-400.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>ising</dc:subject>
+    <dc:subject>gauge</dc:subject>
+    <dc:subject>higgs</dc:subject>
+    <dc:subject>algoritmos</dc:subject>
+    <dc:subject>critical slowing down</dc:subject>
+    <dc:subject>altas energías</dc:subject>
+    <dc:subject>Máster Universitario en Física y Tecnologías Físicas</dc:subject>
+    <dc:title>Desarrollo de un algoritmo de simulación geométrico para modelos de gauge acoplados a un campo de Higgs</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mazo Torres, Juan José</dc:contributor>
+    <dc:creator>Valiño Borau, Luis</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El estudio del rozamiento está sin duda justificado por la gran cantidad de campos en los que interviene, desde procesos a gran escala como los terremotos, a procesos a escala nanométrica como los que se observan en un microscopio de fuerza atómica. Para describir este último tipo de procesos existen varios modelos, de entre ellos uno de los más notables es el de Prandtl-Tomlinson; este predice que bajo ciertas condiciones el sistema presenta un comportamiento de stick-slip, que consiste en largos periodos de aumento de la fuerza en los que el sistema se encuentra prácticamente parado y cortos periodos de liberación de la misma en los que se produce un movimiento brusco del sistema; esto se ajusta muy bien a lo observado experimentalmente. En el proceso de stick-slip, la disipación de energía sufre un pico en el momento del slip, lo que puede conllevar un brusco aumento de la temperatura local en el sistema y provocar porcesos de abrasión, deformación, desgaste e incluso facilitar la interacción química entre superficies; de ahí la importancia de entender y controlar los procesos de fricción a escala atómica, marco conceptual en el que se sitúa el trabajo realizado. Lo primero que se incluye en el trabajo es una breve explicación del modelo de Prandtl-Tomlinson con temperatura. Después, puesto que el modelo se aplica computacionalmente, se presentan las comprobaciones que se han realizado para asegurarse del correcto funcionamiento del programa. Por último se presentan una serie de resultados, tanto cualitativos como cuantitativos, obtenidos de la simulación del programa, a partir de los cuales se sacan conclusiones sobre el comportamiento de la disipación y las posibles formas de controlarla en procesos a la nanoescala.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/16293</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física de la Materia Condensada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/16293/files/TAZ-TFG-2014-1642.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/16293/files/TAZ-TFG-2014-1642_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>fricción</dc:subject>
+    <dc:subject>rozamiento</dc:subject>
+    <dc:subject>nanoescala</dc:subject>
+    <dc:subject>Graduado en Física</dc:subject>
+    <dc:title>Estudio numérico de fenómenos de fricción en la nanoescala</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

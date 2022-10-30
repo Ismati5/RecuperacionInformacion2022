@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Murillo Arnal, Ana Cristina</dc:contributor>
+    <dc:creator>Escriche Martínez, Alfonso</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Se estudian diferentes métodos de visión por computador aplicados a dispositivos móviles con sistema operativo Android, orientados a mostrar realidad aumentada. Se pretende ser capaz de encontrar una superficie plana en la escena obtenida con la cámara del dispositivo, y proyectar sobre esta un modelo virtual de realidad aumentada. Las aplicaciones actuales de realidad aumentada dependen de un marcador, una imagen predefinida, que debe estar presente en la escena, y que indica dónde y cómo debe proyectarse el modelo virtual. La mejora que propone este proyecto supone eliminar esta necesidad y permitir que la realidad aumentada sea mostrada en cualquier superficie plana, detectada en tiempo real.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/11855</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/11855/files/TAZ-PFC-2013-423.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/11855/files/TAZ-PFC-2013-423_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>realidad aumentada</dc:subject>
+    <dc:subject>realidad virtual</dc:subject>
+    <dc:subject>visión por computador</dc:subject>
+    <dc:subject>visión por ordenador</dc:subject>
+    <dc:subject>opencv</dc:subject>
+    <dc:subject>fastcv</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Visión por computador en dispositivos móviles para realidad aumentada</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

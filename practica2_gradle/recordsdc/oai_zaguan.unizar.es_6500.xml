@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Guerrero Campo, José Jesús</dc:contributor>
+    <dc:creator>Bermúdez Cameo, Jesús</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Los sistemas de visión omnidireccional son dispositivos que permiten la adquisición de imágenes con un campo de vista de 360º en un eje y superior 180º en el otro. La necesidad de integrar estas cámaras en sistemas de visión por computador ha impulsado la investigación en este campo profundizando en los modelos matemáticos y la base teórica necesaria que permite la implementación de aplicaciones. Existen diversas tecnologías para obtener imágenes omnidireccionales. Los sistemas catadióptricos son aquellos que consiguen aumentar el campo de vista utilizando espejos. Entre estos, encontramos los sistemas hiper-catadióptricos que son aquellos que utilizan una cámara perspectiva y un espejo hiperbólico. La geometría hiperbólica del espejo garantiza que el sistema sea central.  En estos sistemas adquieren una especial relevancia las rectas del espacio, en la medida en que, rectas largas son completamente visibles en única imagen. La recta es una forma geométrica abundante en entornos construidos por el hombre que además acostumbra a ordenarse según direcciones dominantes. Salvo construcciones singulares, la fuerza de la gravedad fija una dirección vertical que puede utilizarse como referencia en el cálculo de la orientación del sistema. Sin embargo el uso de rectas en sistemas catadióptricos implica la dificultad añadida de trabajar con un modelo proyectivo no lineal en el que las rectas 3d son proyectadas en cónicas.  Este TFM recoge el trabajo que se presenta en el artículo "Significant Conics on Catadioptric Images for 3D Orientation and Image Rectification" que pretendemos enviar a "Robotics and Autonomous Systems". En él se presenta un método para calcular la orientación de un sistema hiper-catadióptrico utilizando las cónicas que son proyecciones de rectas 3D. El método calcula la orientación respecto del sistema de referencia absoluto definido por el conjunto de puntos de fuga en un entorno en que existan direcciones dominantes.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6500</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6500/files/TAZ-TFM-2011-076.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>sistemas catadióptricos</dc:subject>
+    <dc:subject>visión omnidireccional</dc:subject>
+    <dc:subject>visión por computador</dc:subject>
+    <dc:subject>extracción de cónicas</dc:subject>
+    <dc:subject>Máster Universitario en Ingeniería de Sistemas e Informática</dc:subject>
+    <dc:title>Proyecciones cónicas de rectas en sistemas catadióptricos para percepción visual en entornos construidos por el hombre</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Masiá Corcoy, Belén</dc:contributor>
+    <dc:contributor>Gutiérrez Pérez, Diego</dc:contributor>
+    <dc:creator>Serrano Pacheu, Ana</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>En el campo de la teoría de señal, el muestreo y la compresión siempre han sido puntos claves.  El teorema de muestreo de Nyquist-Shannon es fundamental, especialmente en el campo de las telecomunicaciones. Este teorema establece que la reconstrucción exacta de una señal continua en banda base y limitada en banda a partir de sus muestras, es posible siempre y cuando su frecuencia de muestreo sea igual o superior al doble de su ancho de banda. Esto supone una barrera a la hora de muestrear ciertas señales de frecuencia elevada, ya que empiezan a aparecer limitaciones en el hardware necesario.  Recientemente se ha estado desarrollando un nuevo campo en teoría y procesado de señal llamado compressive sensing. La teoría de compressive sensing establece que una señal puede reconstruirse perfectamente incluso cuando es muestreada a frecuencias menores que las establecidas por el teorema de Nyquist siempre que sea lo suficientemente dispersa (sparse según el término en inglés), esto es, que gran parte de los coeficientes en su representación en el dominio de alguna base sean cero, y el muestreo cumpla una serie de condiciones. Para poder trabajar en este marco, es pues necesario transformar la señal a una base (también llamadas diccionarios) en la que sea sparse. Una vez se cuenta con este diccionario, y conociendo el patrón de muestreo, es posible reconstruir la señal original a partir de una versión muestreada por debajo del límite de Nyquist de la misma mediante la resolución de un problema de minimización L1. Uno de los campos de aplicación de esta teoría es la captura de vídeo de alta resolución temporal. Las cámaras de vídeo están limitadas por diversos factores hardware y para capturar vídeos de gran resolución espacial a altas velocidades se requiere material altamente especializado. Una alta resolución temporal es una necesidad para el estudio de ciertos fenómenos como el comportamiento de fluidos o tejidos bajo ciertas condiciones externas o la observación de fracturas de materiales. En este proyecto se aborda el problema de la captura de vídeo de alta resolución tanto temporal como espacial desde la perspectiva de la teoría de compressive sensing. El objetivo es explotar su potencial para lograr reconstruir un vídeo completo a partir de una única imagen en la que se encuentra codificada la información temporal. Esto se consigue realizando la captura del vídeo con una exposición codificada, es decir, muestreando diferentes píxeles en cada fotograma en función del tiempo, para después recuperar toda la información necesaria para reconstruir el vídeo completo mediante procesado basado en compressive sensing.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/16144</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/16144/files/TAZ-PFC-2014-480.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>compressive sensing</dc:subject>
+    <dc:subject>compresión</dc:subject>
+    <dc:subject>captura de vídeo</dc:subject>
+    <dc:subject>procesado de imagen</dc:subject>
+    <dc:subject>dictionary learning</dc:subject>
+    <dc:subject>fotografía computacional</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicación</dc:subject>
+    <dc:title>Captura de vídeos de alta resolución temporal utilizando exposición codificada y aprendizaje de diccionarios</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

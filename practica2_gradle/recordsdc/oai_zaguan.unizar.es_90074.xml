@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ariño Lapuente, Miguel</dc:contributor>
+    <dc:creator>Valero Fernando, María</dc:creator>
+    <dc:date>2020</dc:date>
+    <dc:description>Introducción&lt;br /&gt;El cuidado del niño oncológico resulta complejo debido a la gran cantidad de alteraciones que experimentan. Estas no solo afectan a nivel físico, sino que también afectan a nivel psicológico e involucran a toda la unidad familiar.&lt;br /&gt;Objetivo&lt;br /&gt;Diseñar un software que suponga un soporte de ayuda al cuidado para padres/cuidadores del niño oncológico.&lt;br /&gt;Metodología&lt;br /&gt;Se trata de la elaboración de un plan de mejora, para el cual se ha realizado una búsqueda bibliográfica en las principales bases de datos y páginas web oficiales. Así mismo, se ha realizado un diagrama de Ishikawa para establecer las principales variables que determinan el problema detectado. El ámbito de actuación son los padres/cuidadores de los infantes oncológicos.&lt;br /&gt;Desarrollo&lt;br /&gt;Siguiendo el ciclo de mejora de calidad de Deming, se ha propuesto un plan de mejora basado en la creación de un soporte informático que sirva como medio de ayuda para el cuidado del niño oncológico que permita aumentar el afrontamiento y disminuya la ansiedad.&lt;br /&gt;Conclusión&lt;br /&gt;Debido a que el servicio actual de salud no puede cubrir todas las necesidades de los infantes de oncológicos, resulta de gran utilidad la creación de una aplicación móvil que ayude a los padres/cuidadores al cuidado del niño oncológico para así cubrir sus necesidades.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/90074</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Fisiatría y Enfermería; Área de Enfermería</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/90074/files/TAZ-TFG-2020-476.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Cáncer infantil</dc:subject>
+    <dc:subject>Cuidador/familiar</dc:subject>
+    <dc:subject>Cuidados</dc:subject>
+    <dc:subject>Enfermería</dc:subject>
+    <dc:subject>Software</dc:subject>
+    <dc:subject>Graduado en Enfermería</dc:subject>
+    <dc:title>Atención a padres/cuidadores de niños oncológicos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Care for parents/caregivers of oncological children</dc:title>
+</oai_dc:dc>

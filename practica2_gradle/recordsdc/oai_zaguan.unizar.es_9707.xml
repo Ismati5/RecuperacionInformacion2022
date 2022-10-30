@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Cavero Racaj, Eva Maria</dc:contributor>
+    <dc:contributor>Alesanco Iglesias, Álvaro</dc:contributor>
+    <dc:creator>Salvador Igea, Diego</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Este proyecto se centra, en el desarrollo de una aplicacion en Matlab para la segmentación, compresión y visualización de pruebas ecocardiográficas compatible con DICOM. La aplicación, partiendo de una ecocardiografía almacenada en un contenedor DICOM, segmenta las distintas imagenes de la prueba comprimiendolas con el algoritmo SPIHT y reconoce el texto que contiene mediante el uso de un Reconocedor  Optico de Caracteres (OCR) almacenandolo en formato de texto. Pudiendo guardar las imagenes en el nuevo formato, asi como, abrir y representar imagenes almacenadas en el formato propuesto. La aplicación tambien cuenta con una herramienta para la realización de nuevas medidas sobre la imagen, permitiendo ademas el almacenamiento de la prueba con las nuevas medidas añadidas. El método de segmentación ha sido evaluado con un banco de imágenes pertenecientes a varios aparatos de los principales fabricantes como Philips, Siemmens o Agilent.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9707</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingeniería Telemática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9707/files/TAZ-PFC-2012-708_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/9707/files/TAZ-PFC-2012-708.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero de Telecomunicación</dc:subject>
+    <dc:title>Desarrollo de una aplicación para el almacenamiento eficiente de pruebas ecocardiográficas</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Arcega Solsona, Francisco Javier</dc:contributor>
+    <dc:creator>García Castelreanas, Pablo</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Se trata del estudio de una serie de medidas en diferentes electrodomésticos que encontramos en cualquier hogar de clase media. De estos datos se extraen las potencias activas, y posteriormente se calcula el gasto económico de cada aparato, para poner de manifiesto diferentes acciones que se pueden llevar a cabo en el hogar para mejorar la eficiencia energética. Ademas en el apartado de introducción se hace un exhaustivo resumen de las medidas llevadas a cabo por el Gobierno Español en lo referente a la eficiencia energética (planes de ahorro y medidas tomadas por las administraciones públicas). Ademas se explica brevemente las diferentes normativas que han ayudado al analisis de los datos obtenidos (UNE EN ISO 50001:2011 y UNE EN ISO 62301:2006.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10070</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10070/files/TAZ-PFC-2013-029.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>eficiencia energética</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electrónica Industrial)</dc:subject>
+    <dc:title>Medida de consumos de aparatos en standby en un hogar medio</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

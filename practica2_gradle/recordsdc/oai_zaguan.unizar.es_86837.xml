@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Juan Ignacio Aguiló Anento</dc:contributor>
+    <dc:creator>Guerrero Perales, Claudia</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>MTBVAC es una vacuna viva atenuada de Mycobacterium tuberculosis que actualmente se encuentra en ensayos clínicos. MTBVAC contiene los principales antígenos inmunodominantes de M. tuberculosis, ESAT6 y CFP10, los cuáles están ausentes en BCG. Recientemente se ha descrito que ESAT6 y CFP10 podrían estar implicados en la mayor eficacia de MTBVAC respecto a BCG. En este trabajo, se llevó a cabo la caracterización molecular de distintas cepas de MTBVAC para dilucidar el papel de CFP10 en la protección mediada por MTBVAC. Sin embargo, las cepas utilizadas no mostraron complementación de CFP10 impidiendo continuar con los estudios.&lt;br /&gt;Por otro lado, los métodos actuales de diagnóstico de TB conocidos como IGRA utilizan antígenos presentes en MTBVAC lo que dificulta la diferenciación entre vacunados con MTBVAC e infectados por M. tuberculosis ya que ambos casos generan respuesta contra estos antígenos. En este trabajo, se ha llevado a cabo la optimización de un ensayo tipo EliSPOT que permite evaluar la respuesta específica de MTBVAC en sangre de ratón utilizando los antígenos ESAT6, CFP10 y EspC.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/86837</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Microbiología, Medicina Preventiva y Salud Pública; Área de Microbiología</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/86837/files/TAZ-TFM-2019-277.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster en Biología Molecular y Celular</dc:subject>
+    <dc:title>Optimización de ensayos inmunológicos con células sanguíneas de ratón para evaluación de vacunas de tuberculosis</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Optimization of immunological tests with mouse blood cells for the evaluation of tuberculosis vaccines</dc:title>
+</oai_dc:dc>

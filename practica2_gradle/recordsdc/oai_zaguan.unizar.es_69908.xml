@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Guerrero Campo, José Jesús</dc:contributor>
+    <dc:creator>Molina Mata, Pablo</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El presente proyecto describe el trabajo desarrollado para generar material docente, tanto teórico como práctico en forma de guías y de estaciones de simulación, para la asignatura Automatización Flexible y Robótica, del Grado de Tecnologías Industriales, y se ha desarrollado en el Laboratorio L0.06 del edificio Ada Byron de la Escuela de Ingeniería y Arquitectura de la Universidad de Zaragoza. El trabajo tiene como denominador común la lectura y comprensión de gran cantidad de documentación técnica en referencia al lenguaje de programación de robots RAPID, al Robot de ABB modelo IRB 120 disponible en dicho laboratorio, así como al software simulación de entornos de producción robotizados, Robot Studio. Como resultado del proyecto, se ha generado material docente para prácticas de programación de robots, así como la documentación de todo el trabajo realizado, que se ha dividido principalmente en tres bloques temáticos: 1.	Introducción al robot industrial IRB 120, en la que se muestran sus principales características, así como al lenguaje de programación RAPID. 2.	Explicación detallada de las opciones de Robot Studio como software de simulación, incluyendo la herramienta FlexPendant. 3.	Creación de las estaciones de simulación, adaptadas a las necesidades de las prácticas de la asignatura, en que se incluyen y se desarrollan las principales funciones de Robot Studio y RAPID.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/69908</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/69908/files/TAZ-TFG-2017-4455.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Simulación y programación de un Robot Industrial ABB</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Simulation and progamming of an Industrial Robot ABB</dc:title>
+</oai_dc:dc>

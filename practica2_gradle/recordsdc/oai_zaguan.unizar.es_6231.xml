@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Dieste Marcial, José Antonio</dc:contributor>
+    <dc:creator>Lario Perea, Yasmina</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>La evaluación de la vida útil de los materiales en ingeniería es un aspecto fundamental para el diseño de productos, este aspecto, unido al creciente uso de materiales plásticos en la industria, hace que se presente la necesidad de ensayar a fatiga estos elementos. Hasta el momento los ensayos convencionales son largos y complicados debido a que se trata de un proceso estocástico y trabajado a bajas frecuencias (1-3 Hz), pudiendo aumentar este factor únicamente realizando una alta inversión en el equipo de ensayo. Cómo alternativa a estas dos opciones se plantea el concepto de vibraciones mecánicas cómo medio para valorar este esfuerzo aminorando la duración y el gasto en este tipo de pruebas. El objetivo de este proyecto es adaptar y monitorizar una máquina, previamente diseñada, que provoca esfuerzos cíclicos de flexión sobre una probeta, para realizar ensayos de fatiga en materiales poliméricos reforzados con nanopartículas, proporcionando resultados coherentes y comparables entre muestras, que permitan llegar a conclusiones de las características de los materiales ensayados, disminuyendo en la medida de lo posible el tiempo y el coste de la realización de este tipo de ensayos. La producción de nanocompuestos, permiten dotar a materiales comunes, de propiedades nuevas o mejoradas; con este trabajo se pretende alcanzar una comparación de la resistencia a fatiga, entre muestras de compuestos nanoaditivados. Esto proporcionará un nuevo dato para el diseño de los materiales en función de los requerimientos técnicos de los productos a los que van destinados.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6231</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería Mecánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6231/files/TAZ-PFC-2011-406.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6231/files/TAZ-PFC-2011-406_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Ensayo de fatiga en materiales poliméricos reforzados con nanopartículas mediante vibraciones mecánicas</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

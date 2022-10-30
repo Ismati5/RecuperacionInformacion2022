@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Martín, Elena</dc:contributor>
+    <dc:contributor>Polo Llorens, Vicente</dc:contributor>
+    <dc:creator>Pinilla Borobia, Juan</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Propósito: Evaluar el espesor de las capas de la retina en pacientes con enfermedad de Alzheimer (EA) usando la segmentación automatizada de la tomografía de coherencia óptica (OCT). Determinar si el espesor de determinadas capas de la retina se correlaciona con la gravedad de la neurodegeneración en la EA. Método: Se incluyeron en el estudio 150 sujetos con EA y 75 sujetos sanos. A todos ellos se les realizó una OCT parafoveal con Spectralis OCT (Heidelberg Engineering) en uno de los ojos seleccionado aleatoriamente. Para obtener la segmentación automatizada de todas las capas de la retina se utilizó un nuevo prototipo de software para Spectralis OCT. Se comparó el espesor promedio de cada capa entre pacientes y controles, y entre sujetos con EA de menos de 3 años de evolución y aquellos con al menos 3 años de duración. Se evaluó la correlación entre los espesores de las capas de la retina, la duración de la EA y su severidad medida con la escala Mini Mental State Examination (MMSE). Resultados: Los sujetos con EA mostraron una reducción significativa en el espesor de la capa de fibras nerviosas de la retina, de células ganglionares, plexiforme interna y nuclear externa (p&lt;0.05). Las capas más internas presentaban una afectación significativamente mayor en los pacientes de larga evolución. Los espesores de la capa de células ganglionares y de la capa de fibras de la retina se correlacionaron inversamente con la duración y la gravedad de la EA. Conclusiones: La aplicación de segmentación del OCT Spectralis detectó atrofia en las capas internas de la retina de los sujetos con EA, especialmente en pacientes de larga evolución. La reducción del espesor de la capa de células ganglionares se relacionó con un aumento en el daño axonal, postulándose como un predictor de severidad de la enfermedad</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31329</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Cirugía, Ginecología y Obstetricia; Área de Oftalmología</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31329/files/TAZ-TFM-2014-488.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>enfermedad de alzheimer</dc:subject>
+    <dc:subject>tomografía óptica de dominio espectral</dc:subject>
+    <dc:subject>oct</dc:subject>
+    <dc:subject>segmentación </dc:subject>
+    <dc:subject>oftalmología</dc:subject>
+    <dc:subject>Máster Universitario en Iniciación a la Investigación en Medicina</dc:subject>
+    <dc:title>Correlación del grosor de las capas de la retina con la gravedad en la enfermedad de Alzheimer</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

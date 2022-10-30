@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Urcola Irache, Pablo</dc:contributor>
+    <dc:contributor>Murillo Arnal, Ana Cristina</dc:contributor>
+    <dc:creator>Sánchez Montejo, Irene</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Este proyecto tiene como objetivo la creación de un entorno virtual donde se puedan realizar experimentos neurocientíficos y poder estudiar correlatos motores.&lt;br /&gt;El diseño de experimentos en neurociencia es crítico puesto que se necesita un entorno muy controlado, para asegurar la reproducibilidad, e instrumentalizado para poder situar las señales registradas del cerebro en un contexto.&lt;br /&gt;Estas restricciones hacen que sea inmanejable crear escenarios que permitan estudiar el comportamiento humano en situaciones complejas, algo que cada vez está más demandado.&lt;br /&gt;El uso de la realidad virtual simplifica el diseño de escenarios aptos para este tipo de experimentos de neurociencia que permitan estudiar los correlatos motores de los sujetos. &lt;br /&gt;Además, permite introducir de forma sencilla situaciones inesperadas por los sujetos. La percepción de estos eventos provocan potenciales de error en el cerebro de los sujetos, que es otro de los elementos objeto de estudio en la neurociencia.&lt;br /&gt;Para conseguir el objetivo del proyecto, se han completado distintas tareas:&lt;br /&gt;Primero, se ha integrado la adquisición de señal de EEG en el software de realidad virtual, con especial cuidado en la sincronización de los datos.  &lt;br /&gt;Se ha diseñado un entorno virtual de primera persona con un avatar que imita los movimientos reales de los brazos y la cabeza del sujeto.  &lt;br /&gt;En ese entorno, se han diseñado dos protocolos de neurociencia para medir los correlatos motores y los potenciales de error.&lt;br /&gt;Finalmente, se han procesado los datos obtenidos, analizando los correlatos motores, la desincronización asociada a eventos y los potenciales de error provocados por situaciones discordantes entre la realidad y el mundo virtual.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/85220</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/85220/files/TAZ-TFG-2019-2902.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>Análisis de correlatos motores en entornos de realidad virtual</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Analysis of motor-related brain correlates in virtual reality environments</dc:title>
+</oai_dc:dc>

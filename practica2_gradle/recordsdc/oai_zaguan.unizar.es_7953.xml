@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Herce Fuente, Carlos</dc:contributor>
+    <dc:contributor>Díez Pinilla, Luis Ignacio</dc:contributor>
+    <dc:creator>Jiménez Cavero, Carlos Manuel</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Este proyecto se relaciona con la investigación de un mecanismo de reducción de emisiones de CO2 en centrales térmicas de generación de energía. Concretamente se estudia el proceso de la oxicombustión en un lecho fluido en régimen circulante. Se trata de diseñar una nueva planta piloto con las características citadas, que sustituya a la instalación existente en el CEEI, Centro Europeo de Empresas e Innovación, basada en un lecho fluido burbujeante. Concluido el diseño de un modelo de simulación del lecho, se procede a la aplicación del mismo para dimensionar los equipos de la nueva planta experimental. Con el objetivo de reducir los costes económicos, se trata de aprovechar al máximo los equipos existentes. Básicamente se trata de reutilizar los sistemas de alimentación de combustible y gases. Para la realización del modelo de simulación, se han planteado las ecuaciones de la fluidodinámica, de la combustión y de los balances energéticos característicos de un lecho fluido circulante, basadas en una amplia bibliografía. Para ello, se ha empleado el software EES. Debido a la complejidad del estudio, se han realizado varias hipótesis simplificadoras que dan un resultado aproximado. Este modelo realiza una previsión del comportamiento del lecho bajo unos determinados parámetros impuestos. El análisis de los resultados obtenidos bajo distintas condiciones de funcionamiento de la planta permite obtener conclusiones previas a la realización de ensayos en la misma. A su vez, permite evaluar la influencia de diversos parámetros en el proceso de oxicombustión y obtener información para el pre-diseño de los distintos equipos de la instalación. En la adaptación y transformación de la planta existente en un nuevo laboratorio de oxicombustión en lecho fluido circulante, se pretende aprovechar al máximo la instrumentación y los equipos existentes en el laboratorio. Por ello, en el pre-diseño de los nuevos equipos auxiliares de tiene en cuenta los límites técnicos de los existentes, para evaluar su viabilidad técnica y posibilidad de reutilización.  En último lugar, la selección del tamaño del nuevo reactor es una decisión técnico-económica, que cumple dos objetivos. Por un lado, el tamaño es suficientemente grande para que los resultados sean representativos y se pueda aprovechar al máximo los equipos existentes. Y por otro, el tamaño no es excesivamente grande para no incurrir en elevados gastos de consumo de combustible y botellas de gases.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/7953</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/7953/files/TAZ-PFC-2012-363_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/7953/files/TAZ-PFC-2012-363.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>oxicombustión</dc:subject>
+    <dc:subject>captura co2</dc:subject>
+    <dc:subject>lecho fluido circulante</dc:subject>
+    <dc:subject>carbón</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Diseño de un laboratorio de oxicombustión en lecho fluido circulante</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Tardioli, Danilo</dc:contributor>
+    <dc:contributor>Fernández González, Juan Ignacio</dc:contributor>
+    <dc:creator>Carrasco Nogales, Álvaro</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El uso de los UAV militares como medios tácticos y estratégicos se ha incrementado notablemente en la última década. Este tipo de aeronave aporta grandes ventajas a la vez que reduce las servidumbres e inconvenientes del uso de aviación convencional. Son muchos los avances para automatizar al completo toda la maniobra de este tipo de aeronaves, pero es sin duda el aterrizaje aquella más crítica, teniendo lugar en ella el mayor número de accidentes. Existen numerosos trabajos relacionados con sistemas autónomos para el aterrizaje, la mayoría basados en GPS Diferencial u óptica y que sufren los inconvenientes relativos a estas tecnologías. La finalidad de este trabajo es proponer un sistema de aterrizaje autónomo robusto y difícilmente perturbable, que pueda operar en condiciones meteorológicas adversas y a su vez, no dependa de tecnología controlada por terceros. La tecnología Microwave Landing System (MLS) cumple con los requisitos anteriormente mencionados y aporta numerosas ventajas respecto sistemas similares, como su predecesor, el Instrumental Landing System (ILS). A su vez, y al automatizar la fase del aterrizaje, se abre la puerta a nuevos estudios sobre la gestión autónoma completa de las misiones no tripuladas y la creación de un centro coordinador de misiones de inteligencia, vigilancia y adquisición de objetivos, (por sus siglas en ingles ISTAR) de nivel estratégico.  En la vertiente civil, la automatización de este tipo de aeronaves y el incremento en la seguridad podría llevar a la integración completa de estas aeronaves en el espacio aéreo no segregado, vital para el correcto desarrollo y aplicación de los UAV en el futuro cercano. Además, permite ampliar y crear oportunidades en cuanto a nuevos usos de este tipo de aeronaves para labores de alto riesgo o alienables, siendo claros ejemplos la revisión de líneas de alta tensión o la fumigación aérea. Este proyecto aporta un análisis cualitativo de la aplicación del sistema MLS en dispositivos no pilotados, poniendo de manifiesto las carencias de los sistemas actuales así como los posibles beneficios de su implementación futura. El estudio de las plataformas actuales pone en evidencia un grave fallo de seguridad al emplear sistemas controlados por terceros y de una facilidad de perturbación alarmantemente elevada. Se analizan los sistemas antecesores al MLS, como pueden ser el ILS, sus variantes y el GPS y tras él estudio de sus características se demuestra que todos ellos tienen limitaciones que afectarán negativamente al desarrollo de la tecnología UAV.  Se han realizado también diversos análisis del proceso y del producto mediante herramientas de calidad y que demuestran la completa viabilidad del mismo. Finalmente y gracias a la dotación del ejército de tierra de las dos plataformas UAV con las que cuenta en la actualidad, se realiza una aproximación del uso de esta tecnología en una de ellas, justificando las mejoras y las nuevas capacidades que el sistema le aportará.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/30702</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/30702/files/TAZ-TFG-2014-2228.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/30702/files/TAZ-TFG-2014-2228_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>mls</dc:subject>
+    <dc:subject>microwave landing system</dc:subject>
+    <dc:subject>uav</dc:subject>
+    <dc:subject>uas</dc:subject>
+    <dc:subject>aeronaves no pilotadas</dc:subject>
+    <dc:subject>gps</dc:subject>
+    <dc:subject>tls</dc:subject>
+    <dc:subject>ils</dc:subject>
+    <dc:subject>pasi</dc:subject>
+    <dc:subject>siva</dc:subject>
+    <dc:subject>ejército de tierra</dc:subject>
+    <dc:subject>aterrizaje</dc:subject>
+    <dc:subject>Graduado en Ingeniería de Organización Industrial</dc:subject>
+    <dc:title>Estudio de un sistema de aterrizaje autónomo portátil basado en microondas para aeronaves no tripuladas</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

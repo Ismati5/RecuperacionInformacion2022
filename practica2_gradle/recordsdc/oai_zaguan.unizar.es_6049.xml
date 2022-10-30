@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Carvalho, Monica</dc:contributor>
+    <dc:contributor>Serra, Luis M.</dc:contributor>
+    <dc:creator>Bolea García, Miguel</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>En este trabajo se ha desarrollado el análisis de metodologías y procedimientos para el cálculo de emisiones de CO2, aplicándolos a un sistema de trigeneración optimizado. Estas metodologías incluyen la investigación de bases de datos para aplicar adecuadamente los mismos. Se ha considerado un sistema de trigeneración optimizado de un hospital de tamaño medio con 500 camas, ubicado en Zaragoza que tiene que atender las demandas de calor (agua caliente sanitaria y calefacción), refrigeración, y electricidad. Se ha procedido a calcular las emisiones de CO2 mediante el Análisis del Ciclo de Vida ACV, por medio de la metodología CML2 baseline 2000, para su categoría de impacto Cambio Climático, utilizando el software Sima Pro 7.3. Las emisiones de CO2 para la Huella de Carbono se han calculado mediante el Método Compuesto de las Cuentas Contables, MC3, utilizando la Hoja de Cálculo MC3v2. El MC3, recoge los consumos de las principales categorías de productos que una empresa necesita, existiendo también.Esos consumos/residuos serán transformados a toneladas de CO2 equivalentes, que sirven para el cálculo de la Huella de Carbono. Se ha procedido a analizar los resultados obtenidos comparándolos. Se ha mostrado que aun siendo metodologías muy diferentes conceptualmente los resultados son similares, lo que sugiere que el método MC3, de un modo comprensible y sencillo, puede ser una herramienta útil a las empresas y organizaciones para evaluar la Huella de Carbono de sus bienes y servicios.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6049</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6049/files/TAZ-TFM-2011-017_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6049/files/TAZ-TFM-2011-017.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>huella de carbono (hc)</dc:subject>
+    <dc:subject>emisiones co2 eq.</dc:subject>
+    <dc:subject>mc3</dc:subject>
+    <dc:subject>análisis del ciclo de vida (acv)</dc:subject>
+    <dc:subject>cml2 baseline 2000</dc:subject>
+    <dc:subject>Máster Universitario en Iniciación a la Investigación en Ingeniería Química y del Medio Ambiente</dc:subject>
+    <dc:title>Análisis de dos metodologías de cálculo de la huella de carbono para un sistema de trigeneración optimizado</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

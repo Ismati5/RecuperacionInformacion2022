@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Giménez López, Ignacio</dc:contributor>
+    <dc:contributor>Meade Huerta, Patricia</dc:contributor>
+    <dc:creator>Ruiz Torrubia, Fernando</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>La nefrotoxicidad es uno de los efectos adversos que se producen más frecuentemente durante el desarrollo de fármacos. La falta de un modelo eficaz basado en el cultivo celular y la variabilidad de los estudios en animales ha generado la necesidad de desarrollar un modelo para evaluar la nefrotoxicidad in vitro de forma efectiva y precisa. En este proyecto se testará un modelo de nefrotoxicidad en el túbulo proximal basado en cisplatino. Se parte de la hipótesis de que la viabilidad de las células epiteliales de túbulo proximal aumentará tras el tratamiento con cisplatino si antes se le expone a flujo laminar que genere shear stress sobre la zona apical de dichas células. Los ensayos de nefrotoxicidad en ausencia de flujo han revelado que se produce una disminución en la viabilidad de las células epiteliales de túbulo proximal tras el tratamiento con cisplatino que parece ser dosis-dependiente. No se ha podido demostrar que el shear stress altere la sensibilidad de estas células al cisplatino, ya que las células respondían igual que en ausencia de flujo. Por otra parte se han introducido una mejora en el sistema de fluídica empleado en los ensayos; la utilización de conectores verticales en lugar de los acodados.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64223</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Bioquímica y Biología Molecular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64223/files/TAZ-TFG-2017-2229.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Biotecnología</dc:subject>
+    <dc:title>Ensayos de nefrotoxicidad en condiciones de shear stress</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Nephrotoxicity assays in shear stress conditions</dc:title>
+</oai_dc:dc>

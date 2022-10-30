@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Navarro, María Pilar</dc:contributor>
+    <dc:contributor>Navas Montilla, Adrián</dc:contributor>
+    <dc:contributor>Gracia Lozano, José Luis</dc:contributor>
+    <dc:creator>Solán Fustero, Pablo</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Los flujos reales están determinados por características y fenómenos físicos muy complejos. En particular, la turbulencia del movimiento fluido es indescriptible analíticamente, así que es necesario afrontar su resolución mediante métodos numéricos.  En la Dinámica de Fluidos Computacional, a la hora de resolver flujos turbulentos es conveniente conocer de manera muy detallada las propiedades de los esquemas numéricos que se van a utilizar. Dos propiedades relevantes de estos esquemas son la dispersión y la difusión numéricas, que pueden ser cuantificadas mediante el análisis espectral de von Neumann. En este trabajo se explora el estudio de varios esquemas numéricos, utilizando esta metodología, para evaluar su adecuación para la resolución de problemas de turbulencia. El análisis espectral de los esquemas numéricos se complementa con el estudio de un problema unidimensional descrito por la ecuación de Burgers con término fuente, que presenta características análogas a las de las ecuaciones de Navier-Stokes. Con las conclusiones obtenidas se propone un modelo de simulación para flujos de aguas poco profundas y se evalúan sus limitaciones.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/86546</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/86546/files/TAZ-TFM-2019-1455_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/86546/files/TAZ-TFM-2019-1455.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Modelización e Investigación Matemática, Estadística y Computación</dc:subject>
+    <dc:title>Evaluación de esquemas de alto orden para la simulación numérica de fenómenos de transporte convectivo en flujos reales</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Evaluation of high-order schemes for numerical simulation of convective transport phenomena in real flows</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Aguilar Martín, Juan José</dc:contributor>
+    <dc:contributor>Brosed, F. J.</dc:contributor>
+    <dc:creator>Calavia Traín, Ignacio</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El objetivo de este proyecto es continuar con el desarrollo de un sistema de medición por visión creado en el Departamento de Ingeniería de Diseño y Fabricación de la Universidad de Zaragoza. Para ello en primer lugar se hace una introducción que permita conocer la evolución de este tipo de sistemas de medición, las diferentes técnicas de medición sin contacto existentes y los campos de aplicación que tienen en la actualidad. También se describen los componentes y el funcionamiento del equipo de visión, para a continuación llevar a cabo diferentes tipos de estudios que permitan tener un conocimiento más profundo del equipo de medición, así como aportar datos, que contribuyan a su mejora. Con ello, se realizan estudios de repetibilidad y sensibilidad. Ambos se llevan a cabo empleando tres modelos diferentes de intercambiadores de calor para la toma de datos. Se estandariza el procedimiento de calibración y se implementa un segundo método para establecer una comparativa entre ambos. A partir de este segundo procedimiento, también se hace un estudio de sensibilidad modificando la dirección del sistema de visión, con el objeto de tener más datos sobre la influencia de este parámetro en los resultados finales. Por último se realiza un rediseño de los calibradores empleados en la calibración del equipo, integrando ambos en uno solo, con el fin de hacer más fácil y rápido el procedimiento de calibración.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6872</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6872/files/TAZ-PFC-2012-037.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>metrología</dc:subject>
+    <dc:subject>medición sin contacto</dc:subject>
+    <dc:subject>medición por visión</dc:subject>
+    <dc:subject>calibración</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Calibración y estudio de capacidad de un sistema de medición sin contacto de intercambiadores de calor</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

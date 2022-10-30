@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Durán Sanchez, Paúl</dc:contributor>
+    <dc:contributor>Peña Llorente, José Ángel</dc:contributor>
+    <dc:creator>Martínez Tutor, Juan</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Este proyecto surge de la necesidad de encontrar alternativas energéticas al uso de combustibles fósiles que sean viables tecnológica y económicamente. En este proyecto se ha estudiado la producción y purificación de hidrógeno a escala de laboratorio, combinando el reformado seco de biogás y el proceso Steam-Iron. Este estudio se encuentra dentro de un contexto energéticamente renovable y sostenible debido al empleo de biogás como agente reductor y de agua como agente oxidante. El hidrógeno obtenido, con una pureza muy alta, puede ser empleado en pilas de combustible tipo PEM.  Se ha partido de un biogás sintético, formado por metano y dióxido de carbono (simula un biogás desulfurado). La reacción se ha llevado a cabo en un reactor de lecho fijo que contiene ferritas de níquel o cobalto. En primer lugar, durante la reducción de la ferrita, el biogás se transforma en gas de síntesis por efecto de la reacción con la ferrita reduciendo a ésta a su mínimo estado de oxidación. Posteriormente se produce la oxidación con vapor de agua, regenerando la estructura inicial de la ferrita y obteniendo como único producto hidrógeno.   El proceso se ha seguido mediante el uso de micro-cromatografía de gases. Las variables que se han analizado son: efecto de la composición de la ferrita (de níquel y cobalto, con o sin alúmina), temperatura de la etapa de reducción y recuperación de la ferrita en la etapa de oxidación. Como etapa previa al estudio en reactor de lecho fijo, se llevaron a cabo una serie de medidas dinámicas e isotermas en termobalanza, estudiando la influencia de las variables anteriores y de los métodos de preparación. Además, se ha realizado la caracterización de las ferritas frescas mediante los métodos de difractometría de Rayos X (XRD) y microscopía electrónica de transmisión (TEM).</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31563</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Ingeniería Química</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31563/files/TAZ-PFC-2014-585.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>hidrógeno</dc:subject>
+    <dc:subject>biogás</dc:subject>
+    <dc:subject>ferrita</dc:subject>
+    <dc:subject>níquel</dc:subject>
+    <dc:subject>cobalto</dc:subject>
+    <dc:subject>reformado seco de metano</dc:subject>
+    <dc:subject>steam-iron</dc:subject>
+    <dc:subject>Ingeniero Químico</dc:subject>
+    <dc:title>Hidrógeno de alta pureza a partir de biogás mediante ferritas de níquel y cobalto</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

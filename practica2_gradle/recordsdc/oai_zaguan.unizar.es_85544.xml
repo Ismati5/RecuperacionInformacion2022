@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Cueto Prendes, Elías</dc:contributor>
+    <dc:creator>Chamarro Pellejero, Pedro</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Eladio Dieste (Artigas, UY, 1917 – Montevideo, UY, 2000), hijo de inmigrantes españoles en Uruguay, de carácter sólido y austero, destacó por ejecutar obras arquitectónicas en América del Sur y España. Ingeniero desde 1943, en 1952 diseña y en 1960 construye su obra más singular con cerámica armada: La Iglesia de Cristo Obrero, candidata a formar parte del patrimonio de la humanidad. A través del empirismo y el rigor científico del sistema constructivo, realiza una obra arquitectónica lejos de los avances tecnológicos del mundo desarrollado. El análisis de su figura y de su característica obra es el punto de partida para generar tridimensionalmente un modelo geométrico que contenga con detalle la sinuosidad de sus muros laterales y cubierta. El modelado se realiza con el programa paramétrico de diseño TopSOLID. Con objeto de analizar la estructura, se diseña un ensayo por elementos finitos para aplicar cargas, evaluar esfuerzos y desplazamientos y tensiones principales con el programa ANSYS. Los resultados son expuestos asépticamente como uno de los objetivos de este trabajo. La interpretación de los resultados se realiza con el privilegio de poder comprobar la obra ejecutada y “en pié” desde 1960, y con la información que fue quedando archivada de su proceso de construcción. La conclusión de este trabajo permite poner en valor la técnica de la cerámica armada, exponer sus cualidades como material de construcción actual, recordar la figura de su máximo exponente, Eladio Dieste, y poner de manifiesto la evolución en las técnicas de cálculo.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/85544</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/85544/files/TAZ-TFG-2019-1922.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Análisis y simulación computacional de la obra de Eladio Dieste. La Iglesia de Cristo Obrero en Atlántida</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Analysis and computational simulation of the work of Eladio Dieste. The church of cristo obrero at Atlántida</dc:title>
+</oai_dc:dc>

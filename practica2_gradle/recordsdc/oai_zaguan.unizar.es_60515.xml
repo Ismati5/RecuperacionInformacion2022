@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Casas Cañada, Jorge</dc:contributor>
+    <dc:contributor>Trillo Lado, Raquel</dc:contributor>
+    <dc:creator>Canales Mayo, Marcos</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>En este trabajo de fin de grado (TFG) se desarrolla un módulo que sirve de apoyo a la gestión de las carreteras, a petición del personal del proyecto SmartRoads desarrollado conjuntamente con la empresa Grupo Hermes Infraestructuras en México. En este contexto, el TFG tiene como principal objetivo desarrollar un panel de control (dashboard) desde el que se puedan visualizar en tiempo real datos de interés, en su mayoría estadísticos, de módulos implementados en el sistema SmartRoads. En concreto, se requiere: – Análisis, diseño y desarrollo de un nuevo módulo de dashboard para gestionar los widgets de los múltiples módulos a monitorizar. – Una nueva funcionalidad para el módulo de Google Charts del núcleo del sistema (core), que permita la actualización de gráficas de forma asíncrona. – Análisis e introducción de una nueva librería para hacer scroll horizontal. – Análisis e introducción de una nueva librería para crear una malla (grid) de cajas/elementos que puedan manejarse con drag and drop. – Implementación de los widgets correspondientes a los siguientes módulos: – Agenda de Tareas. Se requiere que se muestren las tareas del último año, desglosadas en tareas sin comenzar, empezadas y terminadas. Además, también se debe proporcionar un mapa donde se localicen todas estas tareas. – Estaciones Meteorológicas. Se requiere que se puedan visualizar los datos en tiempo real de las estaciones que el usuario final desee. – Estadísticas de Logs. Se requiere que se muestren datos sobre el uso del sistema por parte de los usuarios, considerando la información de los ficheros de log, como por ejemplo el número de visitas que reciben los 10 módulos más usados junto con sus porcentajes de uso. – Uso del disco del sistema. Se necesita mostrar información relativa al disco duro, como la cantidad de espacio que queda libre.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/60515</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/60515/files/TAZ-TFG-2016-1806.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>Análisis, diseño y desarrollo de Dashboard para el sistema SmartRoads de Iternova</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Analysis, design and development of Dashboard for Iternova's SmartRoads system</dc:title>
+</oai_dc:dc>

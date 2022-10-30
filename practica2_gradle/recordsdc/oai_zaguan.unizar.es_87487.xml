@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Martín Solans, Santiago</dc:contributor>
+    <dc:creator>Bonastre Álvarez, José María</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Los dispositivos electrónicos son usados en todo el mundo y su mejora y optimización viene acompañado de avances en todos los ámbitos de la sociedad. Uno de los resultados de esa optimización es su miniaturización, que hace que sean cada vez más eficientes y manejables.La electrónica molecular se presenta como una de las alternativas más prometedoras para continuar esta miniaturización, y consiste en el uso de moléculas unidas a electrodos metálicos como base de funcionamiento de los componentes electrónicos. Se pueden emplear moléculas individuales o ensamblajes moleculares (monocapas), pudiendo tener estos últimos unos efectos en la funcionalidad de las moléculas como consecuencia de la formación de agregados moleculares.En este TFG se estudia la efectividad de un compuesto que forma dichos agregados moleculares bidimensionales y qué variaciones estructurales se observan en la monocapa formada según se use la técnica de Langmuir-Blodgett (LB) o el autoensamblaje. Para ello se han empleado una serie de técnicas de caracterización para comprobar la estabilidad, homogeneidad y orientación molecular de la monocapa formada. Se ha demostrado que el uso de la técnica LB da lugar a la formación de estructuras bidimensionales las cuales permiten un transporte de carga anisotrópico en dispositivos electrónicos, mientras que en la técnica de autoensamblaje no.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87487</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Física; Área de Química Física</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87487/files/TAZ-TFG-2019-2380.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Química</dc:subject>
+    <dc:title>Nanofabricación de dispositivos con aplicaciones en electrónica molecular</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Nanofabrication of devices with applications in molecular electronics</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gonzalo Callejo, Alberto</dc:contributor>
+    <dc:creator>Figueruelo Malo, Guillermo</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Este  proyecto sigue la línea marcada por el trabajo de la asignatura Procesos Químicos Industriales realizado conjuntamente con otros dos compañeros y que llevó por título “Diagrama de bloques y balances para una planta de gasificación de biomasa en lecho fluidizado para 600kg/h de alimentación de madera de pino con el objetivo de producir electricidad en un motor”. El proyecto realizado es eminentemente teórico. Se ha generado una herramienta que permite predecir los productos resultantes de procesar cualquier biomasa vía gasificación. Tras haber realizado una revisión bibliográfica y selección de datos de partida utilizando artículos científicos y bases de datos como Phillis de ECN, se ha desarrollado un modelo teórico del gasificador a partir de los balances de materia y energía y de los principales equilibrios de las reacciones de gasificación. Para la realización de esta tarea se ha utilizado el software Engineering Equation Solver (EES). También se ha realizado el dimensionamiento del resto de equipos principales como son el separador ciclónico o el intercambiador de calor, así como un análisis del comportamiento mecánico del gasificador implementado en Abaqus. Tras la fase de diseño, se ha procedido a la simulación del sistema completo, tanto en EES como en la planta diseñada en Aspen Hysys, comparando los parámetros y resultados obtenidos entre estas dos simulaciones y otras experimentales encontradas en la bibliografía revisada. El sistema completo se trata de una planta de producción de electricidad a partir de la combustión en un motor de combustión interna del gas de síntesis generado a partir de la gasificación de 600  kg⁄h de biomasa y de los que posteriormente se desarrollará su funcionamiento.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31503</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Ingeniería Química</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31503/files/TAZ-TFG-2014-2032.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>gasificación</dc:subject>
+    <dc:subject>biomasa forestal con fines energéticos</dc:subject>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Desarrollo de modelos matemáticos y diseño de los principales equipos de una planta de gasificación de biomasa para producción de electricidad</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

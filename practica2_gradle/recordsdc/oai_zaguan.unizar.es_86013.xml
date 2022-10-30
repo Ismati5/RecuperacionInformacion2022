@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Miralbes Buil, Ramón</dc:contributor>
+    <dc:creator>García Otín, Guillermo</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>Se trata de un algoritmo escrito en lenguaje Python, utilizando funciones de la librería OpenCv. A partir de fotos tomadas con un dron a campos de agricultura de maíz, se localizan las plantas de maíz y las malas hierbas. Seguidamente se calculan los parámetros de interés (coordenadas de las plantas, áreas, e indice de nacencia) para lograr una mejora tanto del proceso de fumigación de malas hierbas,como del riego, y el control de las plantas de maíz. De esta forma se ahorrara producto fumigante, ya que solo se fumigara con la cantidad exacta donde haya malas hierbas y no en todo el campo. Ademas, también se ahorrará agua debido a que, mediante el indice de nacencia, sabremos donde hay que realizar riegos mas frecuentemente para conseguir que nazcan todas las plantas, esto sera en las zonas del campo donde este indice sea bajo, y que por tanto nos indique que han nacido menos plantas de las que deberían.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/86013</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Expresión Gráfica de la Ingeniería</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/86013/files/TAZ-TFG-2018-2608_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/86013/files/TAZ-TFG-2018-2608.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Diseño y desarrollo de una aplicación para detección de plantas de maíz</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Design and development of a program to detect corn plants</dc:title>
+</oai_dc:dc>

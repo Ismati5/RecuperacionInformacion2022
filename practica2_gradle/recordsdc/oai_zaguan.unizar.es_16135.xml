@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Toulhoat, Nelly</dc:contributor>
+    <dc:contributor>Gea Galindo, Gloria</dc:contributor>
+    <dc:creator>Artigas Sancho, Julia</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Los reactores nucleares de 1ª generación han llegado al final de su vida útil y están en proceso de desmantelamiento. A diferencia de los reactores de 2ª generación actualmente en funcionamiento, donde el moderador es el agua, la tecnología utilizada en la época empleaba grandes cantidades de grafito como moderador neutrónico. En Francia, el grafito residual se estima en 23000 toneladas provenientes de nueve centrales de 1ª generación. En  España, únicamente existió la central de Vandellòs I con este diseño. Este grafito ha sido sometido a irradiación y a temperaturas medias de 500ºC lo cual tiene varios efectos en el material: por un lado, la desestructuración que se traduce en un aumento de la porosidad y un desmembramiento de los planos de grafeno; por otro, la aparición de nuevas especies debido a las reacciones nucleares que causa el bombardeo de neutrones dentro del reactor. Algunos de los elementos que aparecen son inestables y convierten el grafito en un residuo radiactivo clasificado como de vida larga – puesto que los periodos de desintegración de los radioisótopos exceden los 30 años- y de baja actividad – a tenor de las bajas concentraciones de radioelementos. Las especies que más influyen en esta tipificación son 14C, 36Cl y 3H. El presente trabajo se centra en la eliminación del tritio en estos materiales. Se estudian los efectos de tratamientos térmicos bajo diferentes condiciones (temperatura, tiempo, humedad y tasa de irradiación) mediante el seguimiento del porcentaje de retención de tritio tras recocidos experimentales. Estas medidas se toman sobre muestras de grafito representativas de aquél utilizado en los reactores de la época. En particular, se trabaja con muestras de grafito de calidad nuclear almacenado en la central de Saint-Laurent A2 (Francia), y con HOPG (High Oriented Pyrolytic Graphite). La presencia de tritio se simula mediante implantación iónica de deuterio, isótopo del hidrógeno más ligero que el tritio y carente de actividad radiactiva. La retención, calculada como el cociente entre la cantidad de deuterio restante y la cantidad inicial, se valora por análisis por reacción nuclear (NRA), utilizando el acelerador 4 MV del IPNL (Institut de Physique Nucléaire de Lyon). Los resultados de estas pruebas servirán, en un futuro, para definir las condiciones de un posible tratamiento térmico de descontaminación del grafito nuclear residuo, lo que evitaría el enterramiento en una ubicación geológicamente estable, de todo el volumen de grafito que ya ha sido desalojado; solución esta última, que se presenta a priori más costosa y controvertida.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/16135</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Ingeniería Química</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/16135/files/TAZ-PFC-2014-475.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>grafito</dc:subject>
+    <dc:subject>nuclear</dc:subject>
+    <dc:subject>desmantelamiento</dc:subject>
+    <dc:subject>central nuclear</dc:subject>
+    <dc:subject>ungg</dc:subject>
+    <dc:subject>reactor nuclear</dc:subject>
+    <dc:subject>residuo nuclear</dc:subject>
+    <dc:subject>tritio</dc:subject>
+    <dc:subject>deuterio</dc:subject>
+    <dc:subject>srim</dc:subject>
+    <dc:subject>interacción iones-materia</dc:subject>
+    <dc:subject>radiación</dc:subject>
+    <dc:subject>neutrones</dc:subject>
+    <dc:subject>Ingeniero Químico</dc:subject>
+    <dc:title>Estudio de la migración del deuterio implantado en grafito, para descontaminación de residuos nucleares grafíticos</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

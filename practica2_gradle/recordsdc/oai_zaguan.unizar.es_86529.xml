@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Ramos, Francisco Javier</dc:contributor>
+    <dc:contributor>Martín Ramos, Pablo</dc:contributor>
+    <dc:creator>Val Aguasca, Jesús P.</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Las cosechadoras constituyen una causa importante de incendios en todo el mundo. El&lt;br /&gt;objetivo de este trabajo ha sido investigar los puntos críticos asociados al riesgo de incendio&lt;br /&gt;en este tipo de máquinas, identificados a través de una encuesta distribuida a propietarios&lt;br /&gt;de cosechadoras en Aragón (España). Se recopiló información sobre las características&lt;br /&gt;técnicas de las máquinas y, en su caso, sobre las características de los incendios generados&lt;br /&gt;(cultivo, uso del picador de paja, zona en el que se originó el incendio, etc.). Sobre la base&lt;br /&gt;de los datos de la encuesta, se analizaron las relaciones entre las características de la&lt;br /&gt;máquina y la ignición de un incendio, y se investigaron los puntos de la cosechadora en la&lt;br /&gt;que se originó el fuego. Sólo se encontró una relación estadísticamente significativa del&lt;br /&gt;riesgo de incendio con el número de hectáreas cosechadas, de manera que el riesgo sería&lt;br /&gt;especialmente alto para las máquinas con más de 6000 ha acumuladas. El 32% de los&lt;br /&gt;incendios se originaron en la zona del motor, en comparación con el 31% en la barra de&lt;br /&gt;corte y el 18% en los rodamientos y correas. El estudio se completó con mediciones de&lt;br /&gt;temperatura in situ realizadas en nueve máquinas en 2018 y 2019, en las que se registraron&lt;br /&gt;temperaturas superiores a 250 °C en el colector de escape y en la barra de corte. Estas&lt;br /&gt;temperaturas superaron los umbrales de ignición obtenidos en los estudios de&lt;br /&gt;inflamabilidad realizados en laboratorio para los residuos de trigo recogidos de las&lt;br /&gt;cosechadoras.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/86529</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencias Agrarias y del Medio Natural; Área de Ingeniería Agroforestal</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/86529/files/TAZ-TFM-2019-1510.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>maquinaría agrícola</dc:subject>
+    <dc:subject>barra de corte</dc:subject>
+    <dc:subject>EN ISO/IEC 80079-20-2</dc:subject>
+    <dc:subject>inflamabilidad</dc:subject>
+    <dc:subject>temperatura de ignición</dc:subject>
+    <dc:subject>picador</dc:subject>
+    <dc:subject>paja</dc:subject>
+    <dc:subject>sensor de temperatura</dc:subject>
+    <dc:subject>Máster Universitario en Ingeniería Agronómica</dc:subject>
+    <dc:title>Análisis de riesgos de incendios en cosechadoras de cereales en Aragón</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Analysis of fire risks associated with cereal harvesters in Aragón</dc:title>
+</oai_dc:dc>

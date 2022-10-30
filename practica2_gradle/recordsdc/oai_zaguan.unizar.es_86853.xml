@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>PONCE DE LEÓN VÁZQUEZ, JESÚS</dc:contributor>
+    <dc:creator>SEGARRA ESPAÑOL, ALBERTO</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>El presente proyecto trata del estudio y diseño de un sistema de adquisición, capaz de detectar señales mioeléctricas procedentes especialmente del músculo bíceps.&lt;br /&gt;El alcance del sistema de adquisición, plantea adquirir y trabajar con señales caracterizadas con rangos de frecuencias que van desde 20 Hz hasta los 500 Hz.&lt;br /&gt;La amplitud de la señal estará limitada por un rango de 0 a 5 V adaptándose a la tensión de referencia del microcontrolador.&lt;br /&gt;El diseño de basó en un microcontrolador ATmega328P, de la placa de Arduino, aprovechando su velocidad de procesamiento y su convertidor analógico digital.&lt;br /&gt;El sistema en cuestión plantea brindar con un sistema de bajo costo, capaz de demostrar que la electrónica brinda un papel importante en la actualidad, pudiendo ser compatible con el ser humano.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/86853</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/86853/files/TAZ-TFG-2019-4785_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/86853/files/TAZ-TFG-2019-4785.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecatrónica</dc:subject>
+    <dc:title>Captura y monitorización de señales mioeléctricas del músculo biceps</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Capture and monitoring a myoelectric signals from the biceps musle</dc:title>
+</oai_dc:dc>

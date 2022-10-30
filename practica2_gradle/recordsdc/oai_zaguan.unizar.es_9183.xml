@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bayod Rújula, Ángel Antonio</dc:contributor>
+    <dc:creator>Lainez Peña, M. Carmen</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Actualmente el equilibrio entre la oferta y la demanda eléctrica se sucede en tiempo real, y el sistema soporta unos sobrecostes derivados de la sobreinstalación de potencia no gestionable. El presente trabajo analizará la posibilidad de adaptar la generación de energía renovable a una curva previamente establecida. Para ello, el ejercicio va a satisfacer una demanda, atendiendo a la actual configuración de redes  eléctricas, como un paso intermedio entre la generación centralizada y la generación distribuida. A partir de una demanda previamente escalada, se va a garantizar la máxima energía posible ajustada a la curva de demanda, mediante un sistema híbrido fotovoltaico y eólico, compensando excesos y carencias mediante un almacenamiento. El trabajo se realizará a partir de datos de producción horarios extraídos de instalaciones den operación, y la curva de demanda será la publicada por Red Eléctrica de España. El alcance del trabajo se detalla a continuación: 1. Ajustar la generación de electricidad de origen fotovoltaico a la curva de demanda, y calcular el porcentaje de demanda satisfecha. 2. Ajustar la generación de electricidad de origen eólico a la curva de demanda y calcular el porcentaje de demanda satisfecha. 3. Generar conjuntamente eólica y fotovoltaica de acuerdo a la curva de demanda. Analizar su compatibilidad y calcular el porcentaje de demanda satisfecha. 4. Implementar un almacenamiento y cuantificar su mejora. 5. Incorporar un grupo biodiesel al sistema formado por la hibridación y el almacenamiento, con el objetivo de intentar cubrir la totalidad de la demanda. 6. Elaborar las conclusiones obtenidas acerca de la posibilidad de satisfacer o no la demanda. Calcular la energía de exceso, las horas de funcionamiento y la viabilidad económica de la instalación. 7. Por último, realizar un pequeño análisis de las oportunidades de mercado.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9183</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9183/files/TAZ-TFM-2012-885.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/9183/files/TAZ-TFM-2012-885_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>renovables</dc:subject>
+    <dc:subject>hibridación</dc:subject>
+    <dc:subject>eólica</dc:subject>
+    <dc:subject>fotovoltaica</dc:subject>
+    <dc:subject>Máster Universitario en Energías Renovables y Eficiencia Energética</dc:subject>
+    <dc:title>Hibridación de tecnologías renovables para adaptar la generación a la curva de demanda</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

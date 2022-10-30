@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Tolosana Calasanz, Rafael</dc:contributor>
+    <dc:creator>Macarrilla Bastida, Javier</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>La respuesta a la demanda está recibiendo un interés creciente como una nueva forma de flexibilidad dentro de los sistemas de energías renovables. Es un nuevo paradigma de gestión de la red eléctrica que consiste en gestionar y controlar la demanda. Los modelos energéticos son una herramienta importante para evaluar la capacidad potencial de las contribuciones del lado de la demanda. Los modelos actuales basados en actividades asumen explícitamente una relación unidireccional causal entre actividades y dispositivos. Sin embargo, existe una clara falta de datos en los que basar esto, con el riesgo de perfiles de dispositivos simulados incorrectos. Existe un requisito para la recolección y comprensión de los datos que describen la relación entre las actividades y el uso de energía de los electrodomésticos, y cómo esto varía dentro y entre los hogares. Hasta la fecha, el foco ha estado localizado en torno a cuestiones fundamentalmente tecnológicas, minimizando el hecho de que la adopción de esta tecnología requiere al final de una interacción con seres humanos. Además, los sistemas de respuesta de la demanda todavía no están implantados de forma generalizada y se utilizan modelos para realizar simulaciones. En este proyecto se modelarán los supuestos socio-técnicos que sustentan los modelos de demanda de energía y unos perfiles de confort, de manera que podremos simular el grado de adopción y de satisfacción de la respuesta a la demanda respecto del confort térmico.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87290</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87290/files/TAZ-TFG-2019-4653.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Modelado de aspectos sociales del comportamiento  humano para mejorar las simulaciones del smart-grid</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Modelling householders social behaviour in order to improve smart-grid simulations</dc:title>
+</oai_dc:dc>

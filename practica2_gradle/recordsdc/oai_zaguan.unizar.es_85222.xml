@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Asensio Diago, José Ramón</dc:contributor>
+    <dc:contributor>Mahulea, Cristian</dc:contributor>
+    <dc:creator>Grima Montesa, Fernando</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>En este trabajo se detallan las operaciones seguidas para la creación de una planta virtual en el simulador Factory I/O.&lt;br /&gt;Una vez realizada la simulación se detalla cómo se ha procedido para la implementación de un sistema de control mediante la programación de un autómata programable PLC.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/85222</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/85222/files/TAZ-TFG-2019-2900.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Desarrollo de una planta virtual en Factory I/O y control mediante PLC</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Design of a virtual system in Factory I/O and PLC based control</dc:title>
+</oai_dc:dc>

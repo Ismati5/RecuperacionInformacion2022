@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ochoa Garrido, Ignacio</dc:contributor>
+    <dc:contributor>Ayuso Domínguez, Jose Mª</dc:contributor>
+    <dc:contributor>Fernández Ledesma, Luis José</dc:contributor>
+    <dc:contributor>Moreno Loshuertos, Raquel</dc:contributor>
+    <dc:creator>Sánchez Álvarez,Pablo</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>El glioblastoma (GBM) es el tumor cerebral más común, con un crecimiento muy agresivo y una prognosis dramática.  El GBM se caracteriza por la presencia de un núcleo necrótico rodeado por una pseudoempalizada de células tumorales migratorias. Los gradientes de nutrientes y oxígeno, así como la presencia de vasos sanguíneos adyacentes al tumor componen un microentorno que parece desempeñar un rol fundamental en el crecimiento fuertemente invasivo de este tumor. La recreación de este microentorno puede suponer un gran avance en el estudio del GBM, ya que permitiría la investigación en un entorno y condiciones mucho más fieles a las fisiológicas. Las técnicas de cultivo tradicionales así como los modelos animales no nos permiten mimetizar este microentorno y parte de los esfuerzos de la investigación biomédica han apuntado hacía la búsqueda de nuevas alternativas, destacando entre ellas la tecnología de la microfluídica. En el grupo GEMM se han diseñado y fabricado dispositivos microfluídicos con el objetivo de crear un modelo in vitro que permita recrear esta estructura compleja en la que se desarrolla el GBM. En el presente trabajo, se han realizado con éxito ensayos para la validación de este modelo in vitro  entre los que destacan la realización de cultivos a altas densidades en un entorno 3D o el co-cultivo de células tumorales. De forma paralela, se ha llevado a cabo una búsqueda de nuevos fármacos para la mejora del tratamiento del GBM utilizando este dispositivo microfluídico.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/32293</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/32293/files/TAZ-TFG-2015-3121.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Biotecnología</dc:subject>
+    <dc:title>Desarrollo de sistemas microfluídicos biomiméticos aplicados a la investigación tumoral</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

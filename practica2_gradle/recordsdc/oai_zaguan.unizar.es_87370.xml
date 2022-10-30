@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Júlvez Bueno, Jorge Emilio</dc:contributor>
+    <dc:creator>Oarga Hategan, Alexandru Ioan</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>El creciente número de bacterias multirresistentes a los fármacos y la alta mortalidad provocada por estos microorganismos son un desafío para la comunidad científica y la salud pública. En contraste, la frecuencia de desarrollo de nuevos fármacos es baja a pesar de los avances en la secuenciación genómica y la alta cantidad de datos disponibles de estos microorganismos. En este contexto, la biología de sistemas puede contribuir a la identificación de vulnerabilidades que faciliten el desarrollo de nuevos fármacos. A partir de los datos generados con la experimentación sobre diferentes microorganismos, se han construido a lo largo de los años varios modelos metabólicos de agentes microbianos. Mediante la simulación sobre estos modelos se pueden calcular los puntos que pueden resultar críticos para el metabolismo de un organismo y que por&lt;br /&gt;tanto pueden ser un objetivo terapéutico de interés.&lt;br /&gt;Este trabajo en concreto presenta un procedimiento para el cálculo de reacciones del metabolismo que son las únicas productoras o consumidoras de un compuesto. El trabajo incluye además un enfoque novedoso al utilizar la variabilidad de flujo para el cálculo de las reacciones que son únicas consumidoras o productoras. Además de esto, se calculan los conjuntos de compuestos con un flujo nulo y se estudia el efecto que tiene su eliminación en el cálculo de las anteriores reacciones. También se calculan y comparan junto a estas reacciones los conjuntos de reacciones que se obtienen al&lt;br /&gt;desactivar un gen esencial y las reacciones cuya eliminación interrumpe el crecimiento del agente microbiano. Para producir los resultados anteriores y dar la posibilidad de modificar modelos metabólicos se ha desarrollado además una aplicación de escritorio y una aplicación web.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87370</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87370/files/TAZ-TFG-2019-4387.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>Cálculo de puntos críticos en redes metabólicas microbianas</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Computation of chokepoints in microbial metabolic networks</dc:title>
+</oai_dc:dc>

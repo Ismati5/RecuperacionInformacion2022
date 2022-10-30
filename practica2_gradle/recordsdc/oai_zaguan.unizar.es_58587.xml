@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Saz Sánchez, Miguel Ángel</dc:contributor>
+    <dc:creator>Sabater, Segurana, Darío</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>La importancia de la temperatura en la superficie terrestre para el desarrollo de multitud de actividades socioeconómicas para el ser humano es notoria. Pero la información climática de la que disponemos posee un carácter puntual y no es continua sobre el territorio. Existen muchos trabajos que se han dedicado a resolver este problema y a generar información climática con-tinua mediante diferentes métodos de interpolación a partir de variables geográficas como la altitud, distancia a los mares o la latitud. Más recientemente, los trabajos están orientados a incluir en los modelos predictivos, variables procedentes de satélite con el fin de mejorar los resultados. En este trabajo se ensaya una metodología para generar modelos de temperaturas mínimas y máximas mensuales entre 2005 y 2006 sobre sobre el sector central de Aragón (España), aportando, además de variables geográficas, información de LST y NDVI proceden-tes del sensor MODIS. Los modelos han sido creados utilizando el método de interpolación de regresión múltiple por pasos y su posterior validación cruzada. Los resultados presentan valo-res de R² muy diferentes entre los distintos meses y años y entre las mínimas y máximas. El RMSE se sitúa en valores por debajo de 1,5 grados centígrados, si bien no se observan diferen-cias significativas entre la utilización únicamente de variables geográficas y el uso de datos de satélite.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/58587</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio; Área de Geografía Física</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/58587/files/TAZ-TFM-2016-1174.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Tecnologías de la Información Geográfica para la Ordenación del Territorio: Sistemas de Información Geográfica y Teledetección</dc:subject>
+    <dc:title>Modelización de temperaturas mensuales entre 2005 y 2006 en el sector central de Aragón combinando datos de satélite</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Modeling of monthly temperatures between 2005 and 2006 in the central sector of Aragón combining satellite data</dc:title>
+</oai_dc:dc>

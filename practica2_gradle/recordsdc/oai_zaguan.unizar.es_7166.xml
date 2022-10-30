@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ortín Gracia, Jorge</dc:contributor>
+    <dc:contributor>Valdovinos Bardají, Antonio</dc:contributor>
+    <dc:creator>Sanz Segura, Raquel</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Los códigos LDPC (low-density parity-check) son un tipo de códigos bloque lineares cuya principal característica consiste en que las matrices de chequeo de paridad contienen sólo unos pocos 1’s en comparación con la cantidad de 0’s que éstas presentan. Son los códigos correctores de errores que presentan hasta la fecha unas prestaciones más cercanas a los límites teóricos establecidos en el teorema de Shannon (cuando las longitudes del código son lo suficientemente largas) , siendo por tanto superiores a otros esquemas de codificación. Por esta razón, esta clase de códigos se emplea en varios sistemas de comunicaciones de última generación, como por ejemplo en los sistemas de radiodifusión basados en los estándares DVB-S2 y DVB-T2 o en las redes móviles basadas en WiMAX (estándar 802.16e).  El objetivo del proyecto es la implementación de los bloques correspondientes a la codificación y decodificación de los códigos LDPC (en C++) especificados en el estándar 802.16e e integrarlos en un simulador de capa física del sistema Wimax para evaluar las prestaciones que ofrecen estos códigos en un entorno de comunicaciones móviles.   Estos bloques permitirán la elección de determinados parámetros tales como la tasa de codificación, tamaño del bloque FEC, etc. El decodificador LDPC estará basado en la implementación del algoritmo suma-producto (se implementará una simplificación de dicho algoritmo). Éste consiste en un algoritmo iterativo cuyo objetivo es la obtención del vector decodificado, el cual será una estimación del vector codificado transmitido capaz de satisfacer la condición del síndrome (síndrome igual a 0). Se estudiarán los resultados obtenidos en las simulaciones en términos del BER Y BLER para diferentes SNR y se compararán con los límites teóricos de Shannon.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/7166</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/7166/files/TAZ-PFC-2012-203.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>códigos ldpc</dc:subject>
+    <dc:subject>sistema de comunicaciones móviles wimax</dc:subject>
+    <dc:subject>codificador</dc:subject>
+    <dc:subject>decodificador</dc:subject>
+    <dc:subject>snr</dc:subject>
+    <dc:subject>ber</dc:subject>
+    <dc:subject>bler</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicación</dc:subject>
+    <dc:title>Implementación y evaluación de las prestaciones de los códigos correctores de errores LDPC en un sistema de comunicaciones móviles WiMAX</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Daniel Guitiérrez Gómez</dc:contributor>
+    <dc:creator>Gargallo Sureda, Alejandro</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>Cada vez está más extendido el uso de cámaras portables o llevables, conocidas comúnmente por el anglicismo wearables, en actividades deportivas. Durante este tipo de actividades son frecuentes los movimientos bruscos y rápidos que dificultan el tracking (seguimiento) de puntos característicos del entorno en las imágenes, complicando en gran medida o llegando en ocasiones a impedir la aplicación de técnicas de SLAM  visual.  	El objetivo de este trabajo es estudiar técnicas de tracking robustas ante movimientos bruscos de cámara que permitan la aplicación de odometría y mapeo en 3D ante este tipo de movimientos. 	El trabajo se desarrolla sobre plataforma Linux, en lenguaje C++ sobre el editor de texto de programación Geany  y haciendo uso de los algoritmos disponibles en la biblioteca libre de visión artificial desarrollada por Intel OpenCV[1], todo ello software libre. 	Se procederá en primer lugar a crear un entorno de simulación y prueba que permita calcular el flujo óptico sobre imágenes reales grabadas con una cámara wearable. Se realizara un estudio del flujo óptico sobre imágenes andando e imágenes corriendo con el fin de definir el problema que generan los movimientos bruscos en el tracking, de ahí en adelante, se estudiarán formas de mejorar el seguimiento mediante dos técnicas: estudiando la frecuencia y la aplicación de pirámides de imágenes.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/47514</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/47514/files/TAZ-TFG-2015-2713.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Técnicas de tracking de puntos característicos ante movimientos bruscos de cámara</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

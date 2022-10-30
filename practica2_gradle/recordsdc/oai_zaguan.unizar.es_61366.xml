@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>López Larraz, Eduardo</dc:contributor>
+    <dc:contributor>Martínez Cortés, Juan Pablo</dc:contributor>
+    <dc:creator>Bibián Nogueras, Carlos</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El principal objetivo de este Trabajo Fin de Master es proponer un decodificador basado en EEG que sea capaz de discriminar entre movimientos de brazo en distintas direcciones y evaluarlo en un escenario que imite las condiciones de un entorno en tiempo real. Para ello, propodremos e implementaremos un decodificador; posteriormente se evaluará su comportamiento utilizando un conjuto de datos de seis sujetos sanos, grabados en la Universidad de Tubinga (Alemania).</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61366</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61366/files/TAZ-TFM-2017-055_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/61366/files/TAZ-TFM-2017-055.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Biomédica</dc:subject>
+    <dc:title>Control de un exoesqueleto de brazo para rehabilitación de pacientes de ictus basado en EEG</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">EEG-based control of an upper-limb exoskeleton for stroke rehabilitation</dc:title>
+</oai_dc:dc>

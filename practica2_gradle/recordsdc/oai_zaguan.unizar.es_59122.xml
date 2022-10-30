@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ruiz Blasco, Francisco José</dc:contributor>
+    <dc:contributor>Pérez Riera, Mario</dc:contributor>
+    <dc:creator>Montoro Mavilla, Sergio</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>Las funciones generatrices es una herramienta muy potente para estudiar propiedades de las funciones a las que van asociadas. Una de ellas, las series de Dirichlet, son muy utilizadas en la teoría multiplicativa de números. El desarrollo del trabajo es formalizar un estudio detallado de las series de Dirichlet intentando hacer analogías, si es que existen, con las series de potencias. Conforme avance la teoría, se irá viendo la conexión de estas series con la teoría de números y un resultado central en este contexto es el famoso teorema del número primo. La idea es demostrar rigurosamente este teorema utilizando las herramientas desarrolladas anteriormente. Además se expondrán las principales ideas de otra demostración que está muy conectada con la función zeta de Riemann, que inicialmente se define como una serie de Dirichlet, y permite intuir la conexión que tienen sus ceros con el término error en el teorema del número primo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/59122</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Matemáticas; Área de Análisis Matemático</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/59122/files/TAZ-TFG-2016-2225.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Matemáticas</dc:subject>
+    <dc:title>Series de Dirichlet y el teorema del número primo</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Dirichlet series and the prime number theorem</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Xhonneux, André</dc:contributor>
+    <dc:contributor>Blasco Alberto, Javier</dc:contributor>
+    <dc:creator>Martínez Yubero, Santiago</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Los reactores nucleares de alta temperatura refrigerados por gas (HTR) forman una de las ramas en desarrollo para la construcción de los reactores de III+ y IV generación. Se caracterizan por obtener elevados rendimientos eléctricos y la posibilidad de obtener calor de proceso a muy alta temperatura además de una mayor seguridad intrínseca. En el pasado estuvieron operativos varios modelos en Alemania, Reino Unido y EE.UU. los cuales mostraron su viabilidad técnica. Existen diversos proyectos de desarrollo y construcción a nivel mundial y actualmente esta operativo un reactor de pruebas en China de 10MWe. Uno de los conceptos en estudio avanzado es el de lecho fluido, en el cual, la vasija del reactor es similar a un silo de almacenamiento. Dicha vasija esta rellena de esferas de 6cm de diámetro las cuales forman una matriz de grafito refractario. Dentro de las mismas se encuentra embebido el material radiactivo que actúa como combustible en las reacciones nucleares. Para el desarrollo de los nuevos diseños de reactores es preciso conocer el comportamiento de las esferas en el lecho fluidizado así como su movimiento, ya que la carga de combustible nuclear depende del tiempo que tardan las esferas en abandonar la vasija. La gravedad es la fuerza impulsora de dichas esferas, las cuales caen a ritmo controlado mediante un dispositivo de expulsión. Por lo tanto, es preciso conocer con precisión la distribución de tiempos de residencia, así como los perfiles de velocidad y las lineas de corriente. Dado que este comportamiento esta orientado a la etapa de diseño del reactor, se requiere también, que los cálculos sean realizados en el menor tiempo posible y que se fijen unos parámetros que doten de flexibilidad al modelo de cálculo así como de un cierto margen de calibración para el estudio de diferentes diseños. Es posible realizar dicha tarea a través de métodos de computación de sistemas mecánicos, sin embargo, no cumplen los requerimientos de tiempo y flexibilidad, además, suman complejidad y coste. Por lo tanto, y siguiendo una serie de trabajos realizados en el pasado, se contempla como opción mas viable, el desarrollo de un modelo basado en fluidodinámica computacional (CFD) que ya se mostraron eficaces en el pasado. Para realizar dicha tarea, es necesaria primeramente una labor de investigación acerca de los fenómenos de fluido granular, fluidos viscosos, fuerzas de fricción, propiedades de los materiales, características geométricas, así como de los diferentes métodos de cálculo ya realizados. Con todo ello, se pretende acoplar las variables de ambos sistemas y adaptarlas para que sea posible obtener una solución realista y con cierto nivel de precisión. Posteriormente, el modelo ha de ser calibrado y validado con una serie de experimentos realizados. Finalmente se han de calibrar las diferentes variables para poder continuar con los trabajos en el futuro. Con todo lo anterior, se pretende obtener un modelo de comportamiento que pueda ser utilizado en los programas que se comercializan actualmente.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6687</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6687/files/TAZ-PFC-2011-706.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>pebble bed reactor</dc:subject>
+    <dc:subject>htr reactors</dc:subject>
+    <dc:subject>reactores de alta temperatura refrigerados por gas</dc:subject>
+    <dc:subject>lecho fluidizado de esferas</dc:subject>
+    <dc:subject>pbmr</dc:subject>
+    <dc:subject>thtr</dc:subject>
+    <dc:subject>cfd</dc:subject>
+    <dc:subject>triso fuel elements</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Estudio de lechos fluidizados de esferas aplicados a reactores HTR</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Oyarbide Usabiaga, Estanislao</dc:contributor>
+    <dc:creator>Manrique Las, Iván</dc:creator>
+    <dc:date>2020</dc:date>
+    <dc:description>En el Control de los motores síncronos de imanes permanentes (PMSM) es fundamental conocer los parámetros del mismo motor, los cuales cambian, bien sea por la corriente de los devanados o por la temperatura de estos. En la actualidad el método utilizado para saber estos parámetros es el uso de Look-Up- tables (LUT). Aunque este método es un método eficaz tiene varios problemas. Como por ejemplo la gran necesidad de memoria necesaria para almacenar estas tablas o la poca precisión que puedan tener estas, pues para ser mas precisas se necesita una mayor memoria. Es por eso por lo que surge la necesidad de la estimación de los parámetros. Estos parámetros de los que estamos hablando son:&lt;br /&gt;-	Resistencia de fase del devanado del motor (R)&lt;br /&gt;-	Flujo de los imanes permanentes del motor (ɸ)&lt;br /&gt;-	Inductancia equivalente en el eje d (Ld)&lt;br /&gt;-	Inductancia equivalente en el eje q (Lq)&lt;br /&gt;En el presente TFG se ha desarrollado el estudio de una estrategia de estimación de parámetros para ser utilizada posteriormente en el control de motores síncronos de imanes permanentes.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/90132</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/90132/files/TAZ-TFG-2020-021.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Electrónica y Automática</dc:subject>
+    <dc:title>Estrategia de estimación de parámetros de máquina síncrona de imanes permanentes</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Parameter estimation strategy for a synchronous permanent magnet machine</dc:title>
+</oai_dc:dc>

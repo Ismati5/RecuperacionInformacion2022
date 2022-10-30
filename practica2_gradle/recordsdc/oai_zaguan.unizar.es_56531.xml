@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Monzón Bescós, Antonio</dc:contributor>
+    <dc:contributor>Villacampa Elfau, José Ignacio</dc:contributor>
+    <dc:creator>Sánchez Torres, Eduardo</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>El bioprocesado es una parte esencial de muchas industrias de alimentación, químicas y farmacéuticas. Los bioprocesos utilizan células microbianas, animales o vegetales y componentes de esas células, como por ejemplo enzimas, para producir nuevos productos y destruir residuos nocivos. Las técnicas biotecnológicas actuales ofrecen nuevas oportunidades para el desarrollo y mejora del bioprocesado. El presente trabajo se centra en la puesta en marcha de una línea de experimentación de bioprocesos a través de la utilización de un biorreactor discontinuo a escala de laboratorio perteneciente al Departamento de Ingeniería Química y Tecnologías del Medio Ambiente que nunca ha sido utilizado con fines de investigación. Para ello se ha estudiado la cinética fermentativa de Saccharomyces cerevisiae en presencia de lindano (γ-HCH), midiendo el crecimiento microbiano, el consumo de sustrato (glucosa) y la formación de producto (etanol) y realizando un ajuste experimental a distintos modelos cinéticos empíricos para la modelización del proceso bajo distintas temperaturas. Se ha conseguido una reproducibilidad en los experimentos muy significativa a través de los protocolos elaborados y de las condiciones de trabajo empleadas, siendo el modelo cinético que mejor ajusta los datos experimentales el denominado Tessier-Aiba, con el cual se han obtenido las energías de activación aparentes de proceso. La cinética fermentativa no se ve alterada bajo concentraciones por debajo de 2000 ppb de lindano en el medio de cultivo y no existen evidencias claras de su metabolización para su uso como fuente de carbono y energía.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/56531</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/56531/files/TAZ-TFG-2016-2443.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Agroalimentaria y del Medio Rural</dc:subject>
+    <dc:title>Estudio de la cinética fermentativa de Saccharomyces cerevisiae, en presencia de lindano, en un proceso de fermentación discontinuo (batch)</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Kinetic study of a process of batch fermentation with Saccharomyces cerevisiae in presence of lindane</dc:title>
+</oai_dc:dc>

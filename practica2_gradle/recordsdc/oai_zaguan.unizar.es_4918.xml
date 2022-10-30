@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Lamarca González, José Ángel</dc:contributor>
+    <dc:creator>Pérez-Aradros Obis, Victoria</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>El motivo del proyecto surge de la necesidad de optimizar los costes logísticos de aprovisionamiento, para una empresa fabricante de electrodomésticos de línea blanca situada en Zaragoza, como consecuencia de una variación en el volumen de entregas de dos de los proveedores situados en la región de Francia y tres en la de Italia, durante seis semanas comprendidas entre los meses de marzo y abril del año 2010. Las propuestas de mejora se ciñen al modo de entrega de los pedidos y al retorno de los embalajes reutilizables. Para ello, se han evaluado económicamente y operativamente las distintas opciones de suministro y tomado una decisión en función de los resultados.   A lo largo del estudio, ha sido necesario calcular el volumen de entregas de cada uno de los proveedores. Los datos de los pedidos se han obtenido a través del sistema informático de gestión integrada SAP, debido a que los datos han sido proporcionados en unidades, kilogramos o metros de materia prima, se necesitó convertir los mismos a metros lineales o bases de europalé (1200mm*800mm). Una vez realizada esta conversión de unidades, se calculó el porcentaje de ocupación de camión para cada uno de los proveedores. Así mismo, basándose en los datos proporcionados por SAP, se determinó los días, horarios y frecuencias de entrega. Al coste de realizar las entregas, hubo que sumarle el coste de la devolución de los embalajes retornables. Con los datos anteriores se han evaluado las opciones de realizar el suministro por medio de las plataformas o por medio de los Milk run.    Para ambas regiones, el estudio,  ha dado como resultado la implantación de un Milk Run, que además de ser  la opción más rentable, añade una serie de ventajas propias de las entregas controladas. Para ello se ha elaborado una propuesta de ejecución de los Milk run:-días de entrega, -horarios de entrega,- cantidad por proveedor y -retorno de embalajes. Dicha propuesta deberá ser revisada ante cualquier cambio significativo en la cadena logística que implique una variación en los volúmenes o fechas de entrega.   Por último, se han detallado una serie de propuestas que mejoran el control y la gestión de la logística de transporte y suministro, como son las plantillas para el control de la ocupación, la creación de una base de datos y un  conjunto de acciones logísticas más respetuosas con el medio ambiente.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4918</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Dirección y Organización de Empresas; Área de Organización de Empresas</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4918/files/TAZ-PFC-2010-120.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Logística de suministro y transporte</dc:subject>
+    <dc:subject>Milk Run</dc:subject>
+    <dc:subject>Plataforma</dc:subject>
+    <dc:subject>Supply Chain Management</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Optimización de los costes logísticos de aprovisionamiento de las regiones de Francia e Italia</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

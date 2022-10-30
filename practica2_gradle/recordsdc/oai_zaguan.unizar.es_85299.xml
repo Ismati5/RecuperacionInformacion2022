@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Montijano Muñoz, Eduardo</dc:contributor>
+    <dc:creator>Sebastián Rodríguez, Eduardo</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>El Trabajo de Fin de Grado pretende desarrollar estrategias de control en sistemas multi-robot (MRS) aplicadas al problema concreto de atrapamiento. En objetivo del atrapamiento es llevar a un grupo no coordinado de objetivos a un lugar deseado mediante la interacción con un equipo coordinado de robots. La dinámica de movimiento de los objetivos es fuertemente no lineal tanto en la posición de los objetivos como en la de los robots, constituyendo la principal fuente de complejidad del problema. Por otro lado, en ningún momento se asume un numero determinado de objetivos o robots, añadiendo generalidad a las soluciones diseñadas. Para ello, se plantea el estudio teórico y global del problema, aplicando de forma escalonada diferentes técnicas de control. La estrategia inicial se basa en la búsqueda de la formación óptima de los robots con respecto a la posición deseada para los objetivos. A partir aquí se aplica un control óptimo LQR apoyado en la linealización del sistema, que tiene como punto de partida la configuración previamente obtenida. Posteriormente, se aborda el diseño de estrategias de control no lineal basadas en la teoría de estabilidad de Lyapunov para superar los inconvenientes de la estrategia inicial. Por último, se incluye un breve desarrollo de estrategias adaptativas que generalizan el control no lineal a situaciones en las que no se conocen con precisión los parámetros de la dinámica de los objetivos. Además, el trabajo ha supuesto un esfuerzo de diseño de un entorno de simulación para poder evaluar todos los algoritmos, analizando las prestaciones de las diferentes estrategias propuestas. El desarrollo y evaluación de la primera estrategia de control ha supuesto la redacción de un artículo que ha sido aceptado y publicado en la 24a edición IEEE Conference on Emerging Technologies and Factory Automation (ETFA).&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/85299</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/85299/files/TAZ-TFG-2019-2370.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Electrónica y Automática</dc:subject>
+    <dc:title>Estrategias de control multi-robot aplicadas a problemas de atrapamiento</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Multi-robot control strategies applied in entrapment problems</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bartolomé Usieto, José Fernando</dc:contributor>
+    <dc:creator>Urdíroz Urricelqui, Unai</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>La medida de capacidad calorífica es una fuente de información muy potente en cuanto a propiedades de un determinado material se refiere.  Las vibraciones de la red, distribuciones electrónicas, niveles energéticos en materiales magnéticos o transiciones de fase orden-desorden  pueden ser estudiadas mediante esta técnica.  La medida de capacidad calorífica en función de temperatura, campos externos aplicados o presión  es además,  fuente de comprobaciones de modelos teóricos. En los rangos de estudio usuales (RT), los fenómenos asociados a interacciones débiles no son apreciables al estar enmascarados por la agitación térmica. Estas interacciones van ganando importancia conforme la temperatura va disminuyendo,  ganando importancia en la física de la materia condensada  y dando lugar a una rica fenomenología interesante de estudiar.  Se ha comenzado con el proceso de puesta en  marcha de un calorímetro para poder estudiar los fenómenos de la física de muy bajas temperaturas.  El  SAI dispone de sistemas PPMS capaz de realizar medidas de diverso tipo (imanación, susceptibilidad, capacidad calorífica) a temperaturas de hasta 0.35K.  En este caso, se han iniciado la implementación de medidas de capacidad calorífica en un refrigerador de dilución capaz de alcanzar  las decenas de mK.  El trabajo fin de máster recoge la introducción teórica tanto del refrigerador de dilución utilizado como de los métodos calorimétricos implementados.  Además se exponen los diseños de calorímetro desarrollados para cada método .  Se ha realizado una calibración completa de 3 termómetros de Ru2O obteniendo su respuesta R(T), el valor apropiado de excitación para la lectura evitando el self-heating , el tiempo de integración de lectura de la electrónica para minimizar el ruido y la evolución de la magnetoresistencia con la temperatura.  Además, se exponen medidas de Cp realizadas de relajación probando el primer calorímetro comparadas con la literatura.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/15301</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física de la Materia Condensada; Área de Física de la Materia Condensada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/15301/files/TAZ-TFM-2014-395.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>calorimetría</dc:subject>
+    <dc:subject>bajas temperaturas</dc:subject>
+    <dc:subject>frustración</dc:subject>
+    <dc:subject>Máster Universitario en Física y Tecnologías Físicas</dc:subject>
+    <dc:title>Very low temperature calorimetry</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

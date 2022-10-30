@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bernal Agustín, José Luis</dc:contributor>
+    <dc:creator>Pérez Puyod, María Pilar</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>La finalidad de este trabajo es poder aumentar la generación de energía en distintos puntos de la comunidad gallega. Para llegar a eso, lo primero que se ha hecho ha sido estudiar la parte de la red que corresponde a la comunidad de Galicia. Para ello, se han utilizado diferentes mapas de la red eléctrica de transporte y, a partir de ellos y de los datos correspondientes a la red el día 17 de abril de 2012,  se ha conseguido crear un modelo simplificado en un programa informático de simulación de sistemas de potencia. Este modelo nos permitirá su modificación tantas veces como queramos; pudiendo así llevar a cabo todas las hipótesis que sean necesarias. En el proceso de realización del caso base ha habido que recopilar datos de archivos que contenían los nudos de toda España, con su generación y carga, y los parámetros de las línea que unen dichos nudos para obtener, en nuestro modelo simplificado, unas líneas lo más parecidas posibles a las existentes realmente. Se han escogido cuatro nudos pertenecientes a la red real, representados en el modelo, como objetivo para el aumento de la penetración eólica a través de ellos, por encontrarse en situaciones favorables para la obtención de energía eléctrica a partir de la energía eólica.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64023</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64023/files/TAZ-TFG-2017-3467.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/64023/files/TAZ-TFG-2017-3467_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Estudio del efecto de aumentar la penetración de generación renovable en la red de transporte</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Study of the effect of increasing the penetration of renewable generation in the power transmission grid</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Alcalá Nalvaiz, José Tomás</dc:contributor>
+    <dc:creator>Martín Escura, Ana</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>La regresión cuantil fue introducida por Roger Koenker y Gib Basset (1978) buscando extender las ideas de estimación de función cuantil condicional. Estos modelos constan de una distribución condicional de la variable respuesta expresada en función de las covariables observadas. Los métodos de regresión cuantil son competitivos con el método de mínimos cuadrados en lo que se refiere al esfuerzo computacional gracias al descubrimiento del método simplex y al desarrollo en la programación lineal. La localización de los cuantiles asegura un tipo de robustez carente en muchos procedimientos estadísticos habituales, como, por ejemplo, los basados en minimizar una suma de residuos al cuadrado. La regresión cuantil está llegando a ser cada vez más útil en áreas como la Econometría, Finanzas, Biomedicina, búsqueda de patrones y en Estudios Ambientales. En el primer capítulo se realiza una introducción de los conceptos básicos de la regresión cuantil, como el término cuantil y la función de pérdida de un cuantil. Además, se muestra cómo el cuantil es solución de un problema de optimización y se da su distribución asintótica. Finalmente se comparan distintos métodos de estimación. En el segundo capítulo se hace una introducción a la regresión cuantil no paramétrica, donde se muestra que el estimador lineal local depende de la función kernel y el parámetro de suavizado h. Por último se dan diversos selectores de este parámetro h, como son el método plug-in o el de validación cruzada. El último capítulo es una aplicación en R de los modelos descritos en dos conjuntos de datos con varias funciones del paquete `quantreg'.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/78512</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Métodos Estadísticos; Área de Estadística e Investigación Operativa</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/78512/files/TAZ-TFG-2019-149.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Matemáticas</dc:subject>
+    <dc:title>Introducción a la Regresión Cuantil. Estimación y extensión a modelos no paramétricos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Introduction to Quantile Regression. Estimation and expansion to non-parametric models</dc:title>
+</oai_dc:dc>

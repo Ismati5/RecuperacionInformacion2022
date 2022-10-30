@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>ARCEGA SOLSONA, FRANCISCO JAVIER </dc:contributor>
+    <dc:contributor>GONZÁLEZ ARTECHE FERNANDO JOSÉ</dc:contributor>
+    <dc:creator>Iglesias Amella, Mateo</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>En la presente tesis se ha desarrollado e implementado metodologías de caracterización desde el punto de vista de compatibilidad electromagnética (EMC) para poder realizar de manera óptima la integración de los distintos tipos de electrónica en el nuevo detector tipo vértice que será instalado en el experimento de física de altas energías de Belle II, situado en KEK (High Energy Accelerator Research Organization), localizado en Tsukuba (Japón). Se ha establecido la estrategia, recomendaciones y topología de puesta a tierra del detector de pixeles (PXD).&lt;br /&gt;Así mismo, se ha realizado la caracterización y el análisis desde el punto de vista de emisiones electromagnéticas del detector, el estudio de propagación y acoplo de ruido en el complejo cable multiconductor y se ha obtenido la susceptibilidad del detector frente al ruido electromagnético,  pudiendo establecer límites para poder evaluar la compatibilidad del sistema. Los estudios realizados han sido realizado con un novedoso enfoque, y suponen el primer estudio completo en base a EMC en esta topología de detección. Toda la parte experimental asociada a esta caracterización se ha realizado sobre prototipos reales. Los modelos de simulación (basados en líneas de multitransmisión) se han validado con medidas experimentales. Los resultados y conclusiones del presente trabajo podrán servir de base para el desarrollo para futuras normativas EMC en el ámbito de la física de altas energías, ya que actualmente no existen especificaciones para ello.&lt;br /&gt;</dc:description>
+    <dc:description>&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/78878</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/78878/files/TESIS-2019-078.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-nd/3.0/es</dc:rights>
+    <dc:subject>campos electromagneticos</dc:subject>
+    <dc:subject>fisica de altas energias</dc:subject>
+    <dc:subject>electromagnetismo</dc:subject>
+    <dc:title>Caracterización electromagnética para la futura generación de detectores tipo vértice</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

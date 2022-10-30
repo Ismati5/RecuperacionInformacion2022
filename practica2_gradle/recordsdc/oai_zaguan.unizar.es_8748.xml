@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Salvador Oliván, José Antonio</dc:contributor>
+    <dc:creator>Ramón Esteban, Silvia</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El presente trabajo analiza la actualidad de la accesibilidad web, subrayando la importancia de ofrecer sitios web accesibles, ya que no solo es beneficioso para personas con discapacidades sino que también sirve para facilitar la navegación al usuario y ofrecer contenidos de calidad con un diseño más amigable. Se revisa la legislación vigente a diferentes niveles (internacional, nacional, europeo y local) y de las herramientas de evaluación disponibles. La normativa más arraigada y extendida son las pautas de accesibilidad dadas por el Consorcio W3C, que cuenta con dos versiones. Se remarca la importancia de su uso así como las diferencias entre ambas versiones. Tomando como base la web municipal del Ayuntamiento de Zaragoza y su gestión de contenidos, se señala el proceso a seguir para crear contenidos accesibles, especificando el caso de los documentos en formato PDF. Se presentan los resultados dados tras la revisión manual y la automática (a través de herramientas de evaluación como el test TAW), señalando los errores encontrados y las soluciones dadas para solventarlos. Se completa la información con una serie de anexos que incluyen formatos de registro de errores empleados en la web municipal, así como los enunciados principales de las pautas de accesibilidad web y un glosario de términos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8748</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencias de la Documentación e Historia de la Ciencia; Área de Biblioteconomía y Documentación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8748/files/TAZ-TFG-2012-594.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Accesibilidad web</dc:subject>
+    <dc:subject>Diseño páginas web</dc:subject>
+    <dc:subject>Estándares</dc:subject>
+    <dc:subject>Normalización</dc:subject>
+    <dc:subject>Graduado en Información y Documentación</dc:subject>
+    <dc:title>Análisis de la accesibilidad: el caso de la Web Municipal de Zaragoza</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

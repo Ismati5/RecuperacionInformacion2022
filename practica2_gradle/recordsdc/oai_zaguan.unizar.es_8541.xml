@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Jarabo Torrijos, Adrián</dc:contributor>
+    <dc:contributor>Gutiérrez Pérez, Diego</dc:contributor>
+    <dc:creator>Aliaga Badal, Carlos</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>La apariencia de los objetos del mundo real está definida por los detalles geométricos de su superficie y por los fenómenos de interacción luz-materia que se producen en ella o en su interior. Capturar los efectos en la apariencia producidos a diferentes escalas por la geometría y el material de los objetos puede resultar muy costoso, tanto en tiempo de simulación como en memoria. Por ello, pese a la importancia en la apariencia final, estos efectos son ignorados con frecuencia. El presente PFC se centra en la implementación y evaluación de técnicas que permiten modelar de forma eficiente el efecto que los detalles de alta frecuencia tienen sobre la apariencia final del objeto. En concreto, se trabaja en base a Characteristic Point Maps (CPM) [1,2]. Este método selecciona un número reducido de puntos sobre la superficie del objeto, Characteristic Points, que indican dónde muestrear la radiancia reflejada de la superficie para reconstruír la apariencia a escala macroscópica de la radiancia reflejada por superficies con gran cantidad de detalle, sin necesidad de la alta tasa de muestreo que se requiere en estos casos para evitar artefactos en forma de aliasing. El uso de esta técnica nos permite reducir la complejidad geométrica en la escena, ya que gran parte de esta complejidad se encuentra modelada por los CPMs. Eso nos permite acelerar de manera notable el rendering de estos objetos. Para ello, se ha implementado un sistema jerárquico en el que se combinan una representación multi-resolución de CPMs, junto con una jerarquía de mallas simplificadas, cuyos detalles geométricos son modelados por los CPMs. La técnica es evaluada, de modo que se discuten puntos fuertes y débiles de la misma, a fin de explorar posibles mejoras, ampliaciones o técnicas alternativas. Finalmente se analiza cómo incorporar en un sistema de reflectancia pre-filtrada el efecto de la iluminación indirecta, donde la radiancia incidente no proviene de las fuentes de luz, sino que llega reflejada por las superficies de la escena. Para ello, se desarrolla una prueba de concepto que constituye el primer intento para incorporar este fenómeno en un método de pre-filtrado de reflectancia, y se proporcionan posibles avenidas de trabajo futuro para el desarrollo de modelos que incluyan otros efectos de transporte de luz. Este trabajo se ha realizado en colaboración con Hongzhi Wu, Prof. Julie Dorsey y Prof. Holly Rushmeier, de Yale University (EEUU). [1] Hongzhi Wu, Julie Dorsey, Holly Rushmeier. 2009. Characteristic Points Maps. En Computer Graphics Forum (Proc. of EUROGRAPHICS Symposium on Rendering, 2009), 28(4), 1227-1236. [2] Hongzhi Wu, Julie Dorsey, Holly Rushmeier. 2011. Physically-Based Interactive Bi-Scale Material Design. En ACM Transaction on Graphics (Proc. of SIGGRAPH Asia 2011), 30(6), 145:1-145:10.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8541</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8541/files/TAZ-PFC-2012-424.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/8541/files/TAZ-PFC-2012-424_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>characteristic point maps</dc:subject>
+    <dc:subject>iluminación global</dc:subject>
+    <dc:subject>iluminación indirecta</dc:subject>
+    <dc:subject>filtrado</dc:subject>
+    <dc:subject>pre-filtrado</dc:subject>
+    <dc:subject>ray tracing</dc:subject>
+    <dc:subject>apariencia</dc:subject>
+    <dc:subject>brdf</dc:subject>
+    <dc:subject>btf</dc:subject>
+    <dc:subject>lod</dc:subject>
+    <dc:subject>level of detail</dc:subject>
+    <dc:subject>nivel de detalle</dc:subject>
+    <dc:subject>render</dc:subject>
+    <dc:subject>informática gráfica</dc:subject>
+    <dc:subject>computer graphics</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Iluminación global en Characteristic Point Maps: iluminación indirecta pre-filtrada en objetos con geometría y reflectancia complejas</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

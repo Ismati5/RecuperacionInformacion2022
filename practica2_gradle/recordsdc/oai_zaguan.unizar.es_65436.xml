@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Aznar, José Manuel</dc:contributor>
+    <dc:contributor>Gómez Benito, María José</dc:contributor>
+    <dc:creator>Hervás Raluy, Silvia</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Simulación del movimiento de una célula en ambientes confinados. El trabajo define un modelo que simula el movimiento de la célula en un ambiente confinado, basándose en la hipótesis de que ésta se mueve debido a la fuerza ejercida por la actina y la miosina.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/65436</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/65436/files/TAZ-TFG-2017-1633.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Simulación y análisis 3D por elementos finitos de la mecánica celular en ambientes confinados</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">3D finite element analysis of migration under conditions of mechanical confinement</dc:title>
+</oai_dc:dc>

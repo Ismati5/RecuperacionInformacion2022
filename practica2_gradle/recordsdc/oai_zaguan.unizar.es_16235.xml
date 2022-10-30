@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Dafni, Theopisti</dc:contributor>
+    <dc:creator>Garcés Pérez, Juan José</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>En este trabajo se propone el estudio de una cámara Compton con detectores de carga Micromegas como una innovadora alternativa para la detección de radioisótopos en medicina nuclear y se realizan una serie de simulaciones del experimento NEXT\=/MM para comprobar su validez. El estudio se llevará a cabo analizando la información que proporcionan los eventos que produzcan tres deposiciones. Para obtenerlos se implementa y utiliza un algoritmo de \textit{tracking} para eventos de tres deposiciones, que permite obtener la trayectoria de un fotón a partir de la energía y posición de dichas deposiciones, basándose en la comparación de los ángulos de incidencia Compton con los obtenidos geométricamente en las diversas trayectorias, cuyo resultado es el ángulo de dispersión Compton que ha sufrido el fotón en la primera de las deposiciones, resultando por tanto en un cono de posibles puntos de emisión. Cada uno de los eventos genera un cono, de manera que podemos obtener la posición de la fuente conociendo el punto en el que se cortan todos los conos. Se introduce también un método de proyección de los eventos al plano de emisión y se estudian y analizan los resultados de una serie de simulaciones, incluyendo la influencia de factores como son la presión y la adición de gases que reducen la influencia de la difusión de los electrones en la cámara. Por último, al tratarse de un primer contacto con este tipo de estudios y no haberse encontrado resultados especialmente buenos, se exponen diversos modos de mejorar la calidad de la detección, resolución y reducción de exposición del paciente.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/16235</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Teórica; Área de Física Atómica, Molecular y Nuclear</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/16235/files/TAZ-TFG-2014-1611.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Física</dc:subject>
+    <dc:title>Experimentación con detectores gaseosos en una cámara de proyección temporal (TPC)</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

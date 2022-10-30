@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Cuartero Salafranca, Jesús</dc:contributor>
+    <dc:creator>Riveros Moyano, Fabián Mauricio</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>Este proyecto aborda el proceso completo de diseño de un rotor de un aerogenerador de pequeña potencia, comenzando por el diseño aerodinámico del rotor que esta demarcado por unos criterios de funcionamiento del aerogenerador, el dimensionado y cálculo de la estructura resistente de cada pala mediante el uso de la herramienta NuMAD y su posterior postprocesado en ANSYS; y la determinación de un sistema de fabricación. Se ha realizado el análisis aerodinámico completo, desde la selección de los perfiles aerodinámicos, el desarrollo de un código de cálculo y la comprobación mediante un código comercial. A partir de este diseño y cálculo se encuentran las cargas que actúan sobre la pala para realizar el análisis estructural. Mediante la herramienta de diseño NuMAD, desarrollada por el NREL (National Renewable Energy Laboratory) específicamente para generar una geometría y mallado de palas reduciendo el tiempo y aumentado la confiabilidad mediante un proceso simplificado de creación de un modelo en tres dimensiones, se genera un modelo para elementos finitos que utiliza a ANSYS como postprocesador. Se realiza el diseño estructural usando un apilado de capas de fibra de vidrio y se comprueba su resistencia ante las cargas de diseño, ante vibraciones y pandeo. Finalmente se selecciona el método de fabricación, el cual es el RTM.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5540</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería e Infraestructura de los Transportes</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5540/files/TAZ-TFM-2011-002_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5540/files/TAZ-TFM-2011-002.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>aerogenerador</dc:subject>
+    <dc:subject>aerodinámica</dc:subject>
+    <dc:subject>perfiles</dc:subject>
+    <dc:subject>pala</dc:subject>
+    <dc:subject>diseño</dc:subject>
+    <dc:subject>NuMAD</dc:subject>
+    <dc:subject>ansys</dc:subject>
+    <dc:subject>RTM</dc:subject>
+    <dc:subject>Máster Universitario en Sistemas Mecánicos</dc:subject>
+    <dc:title>Diseño aerodinámico, estructural y determinación del sistema de fabricación de una pala en fibra de vidrio de un aerogenerador de pequeña potencia</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

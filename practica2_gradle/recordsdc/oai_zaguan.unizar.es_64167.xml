@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Montano Gella, Luis Enrique</dc:contributor>
+    <dc:creator>Portolés García, Inés</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>En este trabajo se desarrollan las funciones de navegación autónoma de un multi-rotor, controlando automáticamente el avance a través del control del ángulo Pitch. El sistema de percepción es un sensor inercial IMU, a partir de cuya información se calcula la velocidad. El control de los otros grados de libertad se realiza mediante el autopiloto comercial embarcado. El estudio abarca los métodos posibles de cálculo de la velocidad, la simulación del sistema y su implementación y prueba.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64167</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64167/files/TAZ-TFG-2017-2914.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Electrónica y Automática</dc:subject>
+    <dc:title>Navegación autónoma de un multi-rotor: control automático del avance</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Autonomus navigation of a multi-rotor: automatic advane control</dc:title>
+</oai_dc:dc>

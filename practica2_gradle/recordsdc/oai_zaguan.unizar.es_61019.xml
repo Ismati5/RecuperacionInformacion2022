@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Puimedón Santolaria, Jorge Mario</dc:contributor>
+    <dc:creator>Coarasa Casas, Iván</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>La materia oscura es un tipo de materia elusiva que ha sido postulada para explicar algunas observaciones astronómicas (curvas de rotación de galaxias, lentes gravitacionales) causadas por sus efectos gravitacionales sobre estrellas y galaxias. También influye a escala cosmológica dejando su huella en el fondo cósmico de microondas. El experimento ANAIS, situado en el Laboratorio Subterráneo de Canfranc, persigue la detección directa de la materia oscura atendiendo a la modulación anual del ritmo de interacción esperado debido al movimiento de la Tierra en torno al Sol. ANAIS utiliza cristales centelleantes de NaI(Tl) ultrapuros, el mismo blanco que DAMA/LIBRA. Esta búsqueda está motivada por la presencia de modulación en los datos del experimento DAMA/LIBRA con una alta significancia estadística. En primer lugar, se estudiará si ANAIS es capaz de discernir la hipotética señal de modulación anual de DAMA del fondo. Después, traduciremos la sensibilidad de ANAIS al espacio de parámetros (σ,m) de masa y sección eficaz de los hipotéticos WIMPs. Se analizan dos escenarios de fondo: uno constante en el tiempo y otro linealmente decreciente con el tiempo. En ambos casos hemos deducido los límites crítico y de detección de una señal de modulación anual y probado que la observada por DAMA/LIBRA (0.0112 ± 0.0012 cpd/kg/keVee entre 2 y 6 keVee) es detectable por ANAIS con una exposición de 112.5 kg durante 5 años. Por último, hemos interpretado para las interacciones independientes del espín las perspectivas de ANAIS atendiendo a la modulación anual del ritmo de interacción. Tras 5 años de medida ANAIS puede detectar la práctica totalidad de la señal de DAMA en la región a 5σ.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61019</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Teórica; Área de Física Atómica, Molecular y Nuclear</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61019/files/TAZ-TFM-2016-118.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Física y Tecnologías Físicas</dc:subject>
+    <dc:title>Sensibilidad y perspectivas del experimento ANAIS</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Sensitivity and prospects of ANAIS experiment</dc:title>
+</oai_dc:dc>

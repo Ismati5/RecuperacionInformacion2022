@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Cuchí Oterino, José Antonio</dc:contributor>
+    <dc:creator>Pellicer Sorolla, Raúl</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El presente Trabajo de Fin de Grado analiza aspectos hidrológicos y determina parámetros hidráulicos de las aguas de escorrentía superficial y las aguas subterráneas de las pequeñas cuencas de los barrancos del Diablo y la Alfándiga, donde se encuentran depósitos de residuos sólidos urbanos (vertedero de Fornillos de Apiés). La zona de estudio está localizada en una pequeña depresión natural excavada entre los materiales terciarios del límite norte del Valle del Ebro. Las principales unidades hidrogeológicas vulnerables ante la posible afección de los lixiviados del vertedero son los rellenos de fondo de valle de los barrancos citados, donde se localizan dos modestos acuíferos someros y libres. Se han realizado balances hídricos mediante el método directo para valorizar el drenaje profundo de las unidades hidrogeológicas. Se ha obtenido un drenaje anual de 14,6 mm en los materiales terciarios y 47,3 mm en los glacis. También se han realizado medidas de la tasa de infiltración a partir del método de los anillos de infiltración de Müntz obteniendo valores de permeabilidad bajos (6,5x10-7 y 1,5x10-6 m/s), a excepción de los glacis (7,5x10-6 m/s).  Respecto a la escorrentía superficial, se han simulado los flujos generados en eventos extremos mediante el método del Número de Curva y el programa ARHYMO, para conocer los volúmenes y caudales punta de escorrentía que afectan al vertedero en actual explotación. En relación a las aguas subterráneas, se ha determinado una baja conductividad hidráulica de los materiales terciarios (salagón) y los rellenos de fondo de valle, mediante un permeámetro de carga variable. A partir de la permeabilidad y el gradiente hidráulico se estima que el movimiento del agua en la zona saturada del suelo varía entre 9 y 10 m/año, valores relativamente muy bajos. Sin embargo, es recomendable realizar un programa de vigilancia ambiental.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/11301</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencias Agrarias y del Medio Natural; Área de Ingeniería Agroforestal</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/11301/files/TAZ-TFG-2013-530.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/11301/files/TAZ-TFG-2013-530_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>hidrología</dc:subject>
+    <dc:subject>vertederos</dc:subject>
+    <dc:subject>escorrentía</dc:subject>
+    <dc:subject>número de curva</dc:subject>
+    <dc:subject>tasa de infiltración</dc:subject>
+    <dc:subject>anillos de infiltración</dc:subject>
+    <dc:subject>conductividad hidráulica</dc:subject>
+    <dc:subject>permeámetro carga variable</dc:subject>
+    <dc:subject>aguas subterráneas</dc:subject>
+    <dc:subject>simulaciones arhymo</dc:subject>
+    <dc:subject>Graduado en Ciencias Ambientales</dc:subject>
+    <dc:title>Estudio hidrológico del vertedero de residuos sólidos urbanos de Fornillos de Apiés, Huesca</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

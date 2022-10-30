@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Irún Irún, María Pilar</dc:contributor>
+    <dc:contributor>Cebolla Sanz, Jorge Javier</dc:contributor>
+    <dc:contributor>Sevilla Miguel, Emma</dc:contributor>
+    <dc:creator>Roy Guerra, María</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>La enfermedad de Gaucher (EG) es un error innato del metabolismo lisosomal caracterizado por el depósito de glucosilceramida en este orgánulo y que se corresponde con una actividad reducida-nula de la enzima β-glucosidasa ácida (GC). El acúmulo de glucosilceramida en las células del sistema fagocítigo mononuclear es el principal responsable de los signos y síntomas propios de la enfermedad. Con el presente trabajo se persigue la optimización y validación de un método de detección de potenciales afectos de EG partir de muestras de gota de sangre seca (GSS). Para ello, se estudió el efecto de las siguientes variables sobre la actividad enzimática: composición del tampón de elución, cantidad de muestra a ensayar, tiempo de incubación y sensibilidad del sistema de detección fluorimétrico. A continuación, se ensayaron, siguiendo el procedimiento optimizado, 85 muestras, distribuidas en 18 afectos de EG, 22 portadores y 45 controles. Mediante una curva característica operativa del receptor (COR) se determinó un 95% de sensibilidad y 100% de especificidad para el método, así como un valor de corte de 2,06 μmol/L sangre/h, por encima del cual los individuos se consideran potencialmente no compatibles con la EG. Finalmente, se ensayó la actividad GC en extracto leucocitario, lo que permitió comprobar que existía una buena correlación entre ambos métodos (ρ=0,72), aportando fiabilidad al nuevo procedimiento. No obstante, al tratarse de un método de cribado, las muestras que no alcancen el valor de corte establecido deberán ser sometidas a un diagnóstico confirmatorio mediante el análisis de la actividad enzimática en extracto leucocitario.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/77878</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/77878/files/TAZ-TFG-2018-2084.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/77878/files/TAZ-TFG-2018-2084_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Biotecnología</dc:subject>
+    <dc:title>Optimización de la determinación de la actividad de la enzima Beta-Glucosidasa ácida en gota de sangre seca y su comparación con la actividad de la misma en extracto de leucocitos en pacientes con enfermedad de Gaucher</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Optimization of acid Beta-Glucosidase enzyme activity measurement in dried blood spot and comparison with that in leukocytes in patients affected from Gaucher disease</dc:title>
+</oai_dc:dc>

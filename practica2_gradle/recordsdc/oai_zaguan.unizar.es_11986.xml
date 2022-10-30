@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Schukat, Michael</dc:contributor>
+    <dc:contributor>Salazar Riaño, José Luis</dc:contributor>
+    <dc:creator>Ruiz Mañas, Arturo</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El objetivo de nuestro proyecto es el de contribuir con una nueva herramienta en el campo de la "Detección y Prevención" de ataques a la seguridad de Sistemas de Información en el entorno industrial. Para esto, el software sobre el que he estado trabajando, realizará un estudio estadístico de las tramas que transmiten información y señales de control entre dispositivos electrónicos que conforman segmentos de red en sistemas de entorno industrial. El "sniffer" que aquí presento, va algo mas allá con respecto a los analizadores de paquetes que ya conocemos (Ethereal, Wireshark...). Es capaz de extraer los campos de interés que caracterizan un conexión entre dichos dispositivos, almacenar estos datos en estructuras de almacenamiento dínámicas para datos adaptadas para este propósito, llegando a realizar una completa descripción del tráfico observado; para. Para posteriormente, con dicha información, realizar "listas blancas" (comportamiento permitido), las cuales serán utlizadas por el Detector de Intrusiones de software libre conocido como Snort. Además, nuestra herramienta, será capaz de interactuar con el sistema de ficheros de Snort. Utilizando las alternativas que los Sistemas Operativos Linux nos brindan a través de script. Somos de este modo capaces de automatizar el intercambio de archivos tanto de información como de configuración entre componentes software, facilitando en definitiva la labor de un admisnistrador de red.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/11986</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingeniería Telemática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/11986/files/TAZ-PFC-2013-480.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>seguridad en redes</dc:subject>
+    <dc:subject>detección de intrusiones</dc:subject>
+    <dc:subject>snort</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicación</dc:subject>
+    <dc:title>Desarrollo de un 'sniffer' para la generación de listas blancas para Snort</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

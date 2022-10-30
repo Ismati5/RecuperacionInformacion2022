@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Herrero Jaraba, José Elías</dc:contributor>
+    <dc:creator>Granado Fornás, Javier</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>En el presente proyecto se ha desarrollado una aplicación para dispositivos móviles con Sistema Operativo Android. Esta aplicación es capaz de realizar la autenticación de personas mediante la captura de las huellas dactilares de las mismas con la cámara del propio dispositivo. El presente proyecto afronta el reto de no disponer de sensores de huella dedicados, que es la forma de capturar la huella a tratar, incluso en los dispositivos móviles de ultima generación (iPhone 5S, Galaxy S5), en los que se incorpora esta funcionalidad. Otro importante reto en el presente proyecto es el de implementar en un dispositivo móvil, como teléfonos o tablets, los algoritmos necesarios para conseguir la autenticación. La aplicación desarrollada tiene una doble vertiente. Por un lado es capaz de realizar la autenticación en tiempo real de un número limitado de usuarios, cuyas huellas se almacenan localmente en la memoria del dispositivo. El número de usuarios está limitado por el tiempo necesario para comparar la huella a identificar contra las demás huellas almacenadas. Por otro lado la aplicación es capaz de generar una comparación cruzada de todas las huellas alojadas en una base de datos en DropBox1, a la cual se “suben” todas las huellas capturadas por el dispositivo. La propia aplicación es capaz de crear una hoja Excel en la cual se refleja el resultado obtenido de la comparación de cada huella con todas las demás. Para lograr este objetivo, se ha optimizado el algoritmo de autenticación para adoptar una solución de compromiso entre fiabilidad y tiempo de proceso.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31441</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31441/files/TAZ-TFM-2014-589.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>android</dc:subject>
+    <dc:subject>huella dactilar</dc:subject>
+    <dc:subject>cámara</dc:subject>
+    <dc:subject>imagen</dc:subject>
+    <dc:subject>Máster Universitario en Ingeniería Electrónica</dc:subject>
+    <dc:title>Autenticación por huella dactilar para dispositivos Android mediante captura de imágenes</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

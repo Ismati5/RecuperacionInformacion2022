@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Peña Torre, José Ignacio</dc:contributor>
+    <dc:contributor>Oriol Langa, Luis Teodoro</dc:contributor>
+    <dc:creator>Villarreal Calvo, Luis</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Laser marking of polymers. Work Methodology. Context  The aim of this work is to obtain a work protocol for laser marking of polymers (figure 1). An in depth study regarding the ‘state of the art’ (articles, patents, books, dissertations) about the laser-polymer interaction, laser parameters, photo chemical/thermical processes, mechanical properties of polymers and optical characterization will be carried out.   During laser marking, different phenomena can be observed from the most common photothermical processes to photochemical reactions. Those phenomena are not only due to the raw material, but also to different additives, wavelengths and laser parameters. This work will be developed with the resources available at the company B.S.H. (Balay) and the University of Zaragoza, mainly with the laser processing of materials group and the liquid crystals and polymers group. Initial proposal As starting materials for the study of laser marking, the following commercial polymers are proposed: ABS, SAN, PBT, PMMA and mainly PP. Regarding the irradiation following wavelengths are proposed: 1064, 532 and 355 nm covering IR, visible and UV spectra. Special interest will be paid to 355nm (UV) because in this range the possibilities of photochemical processes increases. Control of raw material There is a strong interest in controlling the raw material and additives, so alternatives for the production of different polymer plates will be studied; partially to identify the relationships between different phenomenology and additives. To control the raw material a profound knowledge of the quantitative and qualitative composition of the material is necessary. For the analysis various tools can be enhanced (XPS, ATR, EDX). Experiments According to the ‘state of the art’ different experiments are proposed, carrying them out  on both, the raw material and the marks. The experiments fall into various investigation backgrounds, the different fields are shown below. .       Design of experiments (DoE): parameter selection, factorial design. •	Mathematical models: photo chemical/thermical rate, thermal models. •	Mechanical properties: hardness and scratch resistance of the marks. •	Temperature: measurement different tools •	Morphology: roughness, appearance and depth of marks. •	Optical characterization: Contrast and color distance (CIELab), absorption spectra. •	Detection of photochemical/photothermical phenomena:  carbonization, foaming, photo reduction, bond breaking, ablation, incubation, blocking. Importance of experimental results The experimental results must be discussed leading to conclusions. According to the conclusions the experiments can be accepted, discarded or adapted defining a solid work methodology suitable for a wide group of polymers.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6965</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Ciencia de los Materiales e Ingeniería Metalúrgica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6965/files/TAZ-TFM-2012-016.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>laser marking</dc:subject>
+    <dc:subject>polymer plastic</dc:subject>
+    <dc:subject>foaming</dc:subject>
+    <dc:subject>carbonization</dc:subject>
+    <dc:subject>tampography</dc:subject>
+    <dc:subject>ablation</dc:subject>
+    <dc:subject>marcado laser</dc:subject>
+    <dc:subject>polímero plástico</dc:subject>
+    <dc:subject>tampografia</dc:subject>
+    <dc:subject>ablación</dc:subject>
+    <dc:subject>Máster Universitario en Física y Tecnologías Físicas</dc:subject>
+    <dc:title>Laser marking of polymers. Work methodology</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

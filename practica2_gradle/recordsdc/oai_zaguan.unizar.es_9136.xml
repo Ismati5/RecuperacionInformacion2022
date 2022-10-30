@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bayod Rújula, Ángel Antonio</dc:contributor>
+    <dc:creator>Cebollero Abián, José Antonio</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>En este Trabajo Fin de Máster se ha diseñado una técnica con la que es posible mejorar el rendimiento de una instalación fotovoltaica debido al seguimiento del punto de máxima potencia. Por un lado, se ha construido una herramienta que permite simular el funcionamiento de un sistema fotovoltaico, teniendo en cuenta el seguimiento del punto de máxima potencia que habitualmente está incorporado en el inversor o en el regulador. Para ello se ha utilizado el programa MATLAB-SIMULINK. El circuito equivalente de los paneles fotovoltaicos está basado en el modelo de los dos diodos. Este modelo permite calcular las curvas I-V y P-V de cualquier tipo de panel fotovoltaico, en función de la irradiancia incidente, la temperatura de las células y los datos técnicos que aparecen en su hoja de características. Es capaz de calcular las curvas resultantes en una instalación fotovoltaica formada por varios paneles, incluso no estando todos ellos uniformemente iluminados.  Por otro lado, se ha realizado un estudio de investigación acerca de los principales métodos de seguimiento del punto de máxima potencia. Se han simulado los más destacados con la herramienta diseñada, lo que ha permitido evaluar el rendimiento obtenido con cada uno de ellos y descubrir sus puntos fuertes y débiles. Estas simulaciones se han realizado con datos de irradiancia y temperatura obtenidos en un emplazamiento cercano a la ciudad de Zaragoza. A continuación, se ha diseñado un nuevo método de seguimiento, cuya característica más innovadora es que cuenta con sensores de irradiancia. Estos sensores le proporcionan información adicional con la que tomar mejores decisiones, así como detectar situaciones de sombreado parcial. En estas situaciones, donde las curvas de potencia presentan varios picos, la técnica es capaz de localizar el verdadero punto de máxima potencia, evitando que permanezca en un máximo local. Los resultados obtenidos han demostrado que este método diseñado permite obtener un mayor rendimiento de la instalación fotovoltaica que las principales técnicas tradicionales, para cualquier condición climática. De este modo, se mejora el aprovechamiento del recurso solar disponible.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9136</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9136/files/TAZ-TFM-2012-841_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/9136/files/TAZ-TFM-2012-841.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>fotovoltaica</dc:subject>
+    <dc:subject>reducción de pérdidas</dc:subject>
+    <dc:subject>rendimiento</dc:subject>
+    <dc:subject>instalación solar fotovoltaica</dc:subject>
+    <dc:subject>mppt</dc:subject>
+    <dc:subject>matlab/simulink</dc:subject>
+    <dc:subject>energías renovables</dc:subject>
+    <dc:subject>Máster Universitario en Energías Renovables y Eficiencia Energética</dc:subject>
+    <dc:title>Análisis y simulación del rendimiento de seguimiento del PMP en inversores fotovoltaicos</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

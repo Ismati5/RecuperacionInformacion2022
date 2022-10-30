@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Martínez Cortés, Juan Pablo</dc:contributor>
+    <dc:creator>Martín Yebra, Alba</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Una de las principales causas de mortalidad, sobre todo en paises industrializados, la costituyen las afecciones cardiovasculares. Buena parte de estas muertes se deben a paros cardiacos inducidos por arritmias ventriculares malignas que aparecen de manera repentina, dando lugar a la comúnmente conocida como Muerte Súbita Cardiaca. En este proyecto se han aplicado técnicas de procesado de la señal electrocardiográfica para el análisis y estimación de las alternancias de la onda T (AOT), asociadas a la isquemia aguda de miocardio. Estas alternancias se definen como una fluctuación consistente latido a latido de la amplitud, duración o morfología de la repolarización con un período de repetición de dos latidos y, a día de hoy, son consideradas como uno de los índices clínicos no invasivos más prometedores en la predicción de Muerte Súbita Cardiaca.  Este tipo de alternancia ha sido ya caracterizada en estudios con pacientes durante la oclusión de una de las arterias coronarias principales mediante PTCA, modelando así los primeros minutos de isquemia aguda en la zona ocluída. Nuestro objetivo en este proyecto ha sido estudiar y caracterizar las alternancias de la onda T durante oclusiones de mayor duración en un modelo animal, contando para ello con dos bases de datos diferentes. En la primera de ellas, se ha practicado a 29 cerdos durante 40 minutos una PTCA, ocluyendo la aretia descendente anterior izquierda (LAD). Disponemos de los registros en reposo, oclusión y reperfusión. La segunda de ellas cuenta con los registros de base y oclusión de 10 cerdos, monitorizando en este caso derivaciones de electrogramas intracavitarios tomados directamente en el seno coronario, los ventrículos izquierdo y derecho y el epicardio. En ambos casos, tanto los registros de control como los de oclusión han sido procesados utilizando un detector multiderivacional de alternancias, basado en el Análisis de las Componentes Periódicas (pi-CA) junto con el Método de Verosimilitud Laplaciano. Así pues, hemos estudiado en ambas bases de datos la presencia, evolución temporal así como la distribución espacial de la AOT. Ambos resultados han resulado muy cohetentes, así como con estudios anteriores. Además hemos podido caracterizar este fenómeno desde el interior del músculo cardiaco. Adicionalmente, se ha estudiado la relación de esta AOT con la presencia de arritmias durante la oclusión.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6468</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6468/files/TAZ-PFC-2011-611.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>ecg</dc:subject>
+    <dc:subject>señal biomédica</dc:subject>
+    <dc:subject>alternancias de onda t</dc:subject>
+    <dc:subject>isquemia</dc:subject>
+    <dc:subject>infarto agudo de miocardio</dc:subject>
+    <dc:subject>electrograma intracavitario</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicaciones</dc:subject>
+    <dc:title>Caracterización de las alternancias de onda T en la señal electrocardiográfica durante isquemia prolongada de miocardio en modelo animal</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

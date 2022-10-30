@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Berrade Ursúa, María Dolores</dc:contributor>
+    <dc:contributor>Badía Blasco, Francisco Germán</dc:contributor>
+    <dc:creator>Martín Villanueva, Pablo</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Tras la revisión de la bibliografía básica sobre procesos de fallo y mantenimiento, propondremos una nueva política de mantenimiento para sistemas asumiendo que los fallos siguen procesos de Poisson no homogéneos mezclados. El esquema de mantenimiento que se propone trata de reproducir las características de contratos en los que se acuerdan la frecuencia y el coste de los procedimientos que se llevarán a cabo. En este contexto, estudiaremos un mantenimiento que deja al sistema peor de lo que estaba antes del fallo. Así analizaremos las consecuencias del mantenimiento defectuoso que ocurre cuando se utilizan componentes de baja calidad o de segunda mano. Analizaremos las políticas óptimas y su aplicación en la práctica.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87181</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Métodos Estadísticos; Área de Estadística e Investigación Operativa</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87181/files/TAZ-TFM-2019-1369.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Industrial</dc:subject>
+    <dc:title>Mantenimiento de sistemas con fallos que siguen un proceso de Poisson no homogéneo mezclado</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Maintenance of systems under failures following a mixed non-homogeneous Poisson process</dc:title>
+</oai_dc:dc>

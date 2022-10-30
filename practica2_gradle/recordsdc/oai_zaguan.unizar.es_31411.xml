@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Briz Velasco, José Luis</dc:contributor>
+    <dc:creator>Rodríguez Perales, Iván</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El objetivo de este TFM es caracterizar el comportamiento de lasinterrupciones sobre SoCs con núcleo ARM orientado a aplicaciones,gestionados mediante Linux. Para ello se parte del estudio de todoslos posibles mecanismos hardware disponibles en ARM para gestionary disminuir la latencia de interrupción. Se estudia el tratamiento delas excepciones en el núcleo de Linux, prestando especial atención ala influencia de los diferentes modos de expulsión, incluyendo la ex-pulsión total para tiempo real estricto, en condiciones de carga y sincarga. Sobre dos placas (Beaglebone y Raspberry Pi) con diferentesmicroprocesadores ARM, en ambos casos orientados a aplicación, secaracterizan las latencias en diferentes niveles y condiciones, desde lageneración /retorno de la señal hasta los handlers y rutinas de serviciode niveles más altos del núcleo. Se estudian las diferencias en los tiem-pos de respuesta de las dos placas analizadas en diferentes condicio-nes. Se muestra que la programaciónbaremetalsin sistema operativo,recurriendo a librerías optimizadas por el fabricante, puede ser másestable pero poco eficiente, proporcionando una latencia de respuestaen torno a 1.5 ms, en relación a Linux/ARM que proporciona laten-cias de respuesta medias en torno a 10 us. Se estudian las variacionesen la latencia de interrupción que aparecen en Linux/ARM y se con-cluye por exclusión que puede deberse a la gestión de los gpios y elsistema de entrada/salida de las placas, y no con los controladores deinterrupciones del SoC o con los mecanismos de gestión de Linux.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31411</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Arquitectura y Tecnología de Computadores</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31411/files/TAZ-TFM-2014-795.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>arm</dc:subject>
+    <dc:subject>linux</dc:subject>
+    <dc:subject>interrupciones</dc:subject>
+    <dc:subject>latencia</dc:subject>
+    <dc:subject>Máster Universitario en Ingeniería de Sistemas e Informática</dc:subject>
+    <dc:title>Caracterización del comportamiento y gestión de interrupciones en sistemas empotrados Linux sobre arquitecturas ARM</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

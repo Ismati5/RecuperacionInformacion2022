@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ruíz Más, José de las Huertas</dc:contributor>
+    <dc:contributor>Saldaña Medina, José María </dc:contributor>
+    <dc:creator>Hoz Diego, Jorge David de</dc:creator>
+    <dc:date>2020</dc:date>
+    <dc:description>La presente tesis se desarrolla en el sector de las telecomunicaciones y está relacionada particularmente con el campo de la Ingeniería Telemática. De forma más específica, el trabajo persigue diseñar y validar una tecnología de red mejorada de comunicación segura que pueda constituirse como alternativa a las existentes actualmente en determinados escenarios. El objetivo primario de esta red es desacoplar la seguridad de las aplicaciones de los dispositivos IoT a partir de la definición de contextos de seguridad, y facilitar las comunicaciones entre procesos remotos de forma cuasi-transparente. Estos contextos se configuran a partir de la separación de privilegios de entornos de tipo Portable Operating System Interface (POSIX), junto con marcado y filtrado de paquetes locales Internet Protocol (IP). Esta configuración se puede implementar fácilmente aprovechando el protocolo Secure Socket Shell (SSH) y tomando ciertas ideas de Multi Protocol Label Switching (MPLS), pero también de conmutación de circuitos. El campo inmediato de aplicación abarca las infraestructuras y ecosistemas del Internet de las Cosas (IoT) que cuenten con dispositivos POSIX con capacidad para soportar SSH, algo bastante factible en una mayoría de los entornos IoT. Los principales beneficios de esta solución persiguen acortar los tiempos de desarrollo, facilitar la conectividad y simplificar el mantenimiento y las actualizaciones de seguridad. &lt;br /&gt;</dc:description>
+    <dc:description>&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/94492</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/94492/files/TESIS-2020-135.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-nd/3.0/es</dc:rights>
+    <dc:subject>redes de comunicaciones</dc:subject>
+    <dc:subject>redes de ordenadores</dc:subject>
+    <dc:subject>internet e intranet</dc:subject>
+    <dc:title>loTsafe: Método y sistema de comunicaciones seguras para ecosistemas loT</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

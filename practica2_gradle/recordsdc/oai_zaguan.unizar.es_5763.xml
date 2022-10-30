@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mínguez Zafra, Javier</dc:contributor>
+    <dc:creator>Vega Romero, Irene de la</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El presente proyecto ha sido desarrollado durante el periodo de prácticas realizado en la empresa Entrerríos Automatización (S.A.). El objeto del mismo es el desarrollo de una aplicación Scada para el control de una nueva línea de producción dentro una planta química. Dicha empresa química solicita los servicios de Entrerríos para la creación e implantación del autómata. El proceso productivo consiste en la elaboración de diferentes productos químicos, y es llevado a cabo en varias fases: Carga de las materias primas y de los reactivos en los tanques de almacenamiento de la planta para su posterior utilización; elaboración de los diferentes productos finales mediante la mezcla de ciertas materias primas, reactivos y aditivos, en su cantidad exacta y bajo determinadas condiciones, dependiendo del producto que se desea conseguir en cada proceso; y descarga del producto final para su posterior venta. Todo el conjunto de la instalación está controlado mediante la instrumentación de válvulas, tanques y demás elementos. Las fases de ejecución del proyecto son: 1)      Análisis de las exigencias y especificaciones del cliente y de los diferentes elementos de los que consta la planta. El cliente aporta la información de los ciclos del proceso productivo y de la instrumentación de la que ha de disponer la instalación. Con ello se elabora el diseño de automatización del proceso. 2)      Diseño de la solución: Elaboración de la lista de parámetros de control que serán utilizados en la programación del interfaz hombre-máquina. Diseño de las líneas de programa mediante diagramas de flujo, que muestran la jerarquía de las acciones, las restricciones que ha de tener el sistema y los controles ante posibles fallos. 3)      Diseño e implementación del interfaz visual Scada mediante una herramienta informática de Omron (CX-Supervisor). Su misión es la de ofrecer al operario una visión rápida y global de los procesos que están en funcionamiento, permitir la ejecución de otros y aportar seguridad ante posibles fallos en la instalación y las máquinas involucradas. 4)      Elaboración de un plan de pruebas mediante el cual se verificará la correcta implementación de la aplicación, antes de su instalación en la propia planta. 5)      El proyecto contendrá un manual de usuario que se entregará al cliente, explicando el funcionamiento del Scada.   El proyecto ha de ser fiel a las exigencias del cliente y ser resuelto dentro del plazo de entrega negociado. La memoria recoge la explicación de cada una de las fases desarrolladas, y se encuentra más extensamente documentada en los diferentes anexos adjuntos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5763</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5763/files/TAZ-PFC-2011-186_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5763/files/TAZ-PFC-2011-186.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>scada</dc:subject>
+    <dc:subject>control</dc:subject>
+    <dc:subject>interfaz</dc:subject>
+    <dc:subject>diseño de la solución</dc:subject>
+    <dc:subject>diagrama de flujo</dc:subject>
+    <dc:subject>parámetro</dc:subject>
+    <dc:subject>manual de usuario</dc:subject>
+    <dc:subject>plan de pruebas</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Aplicación Scada para el control del proceso de producción en una planta química</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

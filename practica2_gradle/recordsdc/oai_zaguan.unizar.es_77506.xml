@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Esteban Escaño, Javier</dc:contributor>
+    <dc:creator>Bin Selimin, Syafirul Ariff</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>This project focuses on transferring power from the two available power sources permitted during the competition, solar and a rechargeable battery to the engine of the car. The idea is to implement pass through charging in the circuitry of the solar car’s battery. In simple terms, pass through charging is an integrated technology in power banks that allows a device, say a smartphone, to be plugged and charged while the power bank itself is connected to a wall outlet. This method has been used widely by power bank manufacturers to charge portable electronic devices. However, it is not known to date if the technology has been used in electric cars. Although it has been used widely in the portable electronics field, the implementation is not as direct as it may seem. Car batteries are much more complex, and they possess more physical challenges that may easily interfere with the micro electronics. Since no battery manufacturer for the solar car is able to work together with the author in building the battery, a custom circuit board has to be made. One powerpath controller and two dual p-channel MOSFETs are used in the circuit. This circuit board will be the intermediate between the two power sources and the engine. The developed circuit board is tested on its possibility and reliability to see whether it can be used on a car’s battery</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/77506</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/77506/files/TAZ-TFG-2019-094.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecatrónica</dc:subject>
+    <dc:title>Intergrating pass-through charging in a solar car by using a powerpath controller</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Intergrating pass-through charging in a solar car by using a powerpath controller</dc:title>
+</oai_dc:dc>

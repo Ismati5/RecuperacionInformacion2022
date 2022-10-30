@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>de Marcos Ruiz, Susana</dc:contributor>
+    <dc:creator>Camacho Aguayo, Javier</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>El estudio de los nanomateriales ha supuesto una revolución en las investigaciones de diversos campos científicos. Dentro de la nanoescala, destacan por sus excepcionales propiedades fisicoquímicas los nanoclusters metálicos, entre ellos, los de oro. En este trabajo se han sintetizado Au-NCs haciendo uso de seroalbúmina bovina y ácido lipoico como ligandos estabilizadores. Estos presentan propiedades fluorescentes con longitudes de onda de excitación/emisión de 370/670 nm para los sintetizados con BSA y 400/700 nm para los de ácido lipoico. Una de las características de estos nanoclusters fluorescentes, es el tiempo de vida largo; que favorece la desactivación por especies como el oxígeno. Esta atenuación de la fluorescencia o quenching ha sido utilizada como principio de un método analítico diseñado con el fin de medir los niveles de oxígeno del medio. Haciendo uso de las condiciones óptimas anteriormente descritas, se ha obtenido que las  constantes de desactivación de Sterm Volmer (Kq), toman los valores de 13253 M-1 y 6413 M-1 para los NCs sintetizados con BSA y ácido lipoico respectivamente. El objetivo del estudio es el diseño de un sistema de reconocimiento que, acoplado a un transductor, sea capaz de determinar la concentración de oxígeno en fase gas. Para ello, se han estudiado distintos soportes donde inmovilizar los Au-NCs, obteniéndose los mejores resultados con las láminas de sílica.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/77784</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Analítica; Área de Química Analítica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/77784/files/TAZ-TFG-2018-2346.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/77784/files/TAZ-TFG-2018-2346_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Química</dc:subject>
+    <dc:title>Síntesis y caracterización de nanoclusters de oro. Aplicación al desarrollo de sensores fluorescentes para la determinación de oxígeno</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Synthesis and characterization of gold nanoclusters. Application to the development of fluorescent sensors for the determination of oxygen</dc:title>
+</oai_dc:dc>

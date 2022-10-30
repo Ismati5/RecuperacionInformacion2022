@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bernabéu Martínez, Eusebio</dc:contributor>
+    <dc:creator>Gil Pérez, José Jorge</dc:creator>
+    <dc:date>1983</dc:date>
+    <dc:description>Se desarrolla un método dinámico de análisis de luz polarizada y determinación de matrices de Mueller  por análisis de Fourier de la señal de intensidad de luz generada por un dispositivo de medida que contiene una combinación de dos retardadores lineales no ideales y dos polarizadores lineales totales. Para una adecuada interpretación de los resultados experimentales se ha realizado un estudio teórico de las propiedades de los sistemas compuestos por medios activos a la polarización desde el punto de vista de la representación matricial. Se estima una precisión mejor que el 1%.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10680</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Aplicada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10680/files/TESIS-2013-057.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>óptica</dc:subject>
+    <dc:subject>matrices de mueller</dc:subject>
+    <dc:subject>optics</dc:subject>
+    <dc:subject>mueller matrix</dc:subject>
+    <dc:title>Determinación de parámetros de polarización en representación matricial</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Floría Peralta, Luis Mario</dc:contributor>
+    <dc:contributor>Gómez Gardeñes, Jesús</dc:contributor>
+    <dc:creator>Lanaspa Ferrer, Alejandro</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>En este trabajo se desarrollan herramientas de control de los parámetros de solapamiento de enlaces y distribución conjunta de grado en el duplex y se realiza un estudio de la influencia de estos parámetros en el modelo SIS.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/77768</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física de la Materia Condensada; Área de Física de la Materia Condensada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/77768/files/TAZ-TFG-2018-2396.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Física</dc:subject>
+    <dc:title>Estructura bicapa en el modelo SIS</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Bilayer structure in SIS model</dc:title>
+</oai_dc:dc>

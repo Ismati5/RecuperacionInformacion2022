@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Riva Fernández, Juan de la</dc:contributor>
+    <dc:contributor>Camarero Martínez, Jesús Julio</dc:contributor>
+    <dc:creator>Sangüesa Barreda, Gabriel</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>La procesionaria del pino (Thaumetopoea pityocampa Dennis &amp; Schiff) es el principal defoliador invernal de los pinares mediterráneos. Las orugas de la procesionaria se alimentan de acículas durante el invierno, reduciendo el crecimiento y el vigor del árbol. Sin embargo, se desconocen sus efectos a distintas escalas espacio-temporales, ni su interacción con el estrés climático en el contexto actual de calentamiento global. Este trabajo pretende abordar estas cuestiones cuantificando las relaciones entre datos de defoliación invernal durante los últimos 40 años en diversos montes en la Sierra de Gúdar (Teruel), índices de vegetación como el Moisture Stress Index (MSI), Soil Adjusted Vegetation Index (SAVI) o el Normalized Difference Vegetation Index (NDVI) y datos de crecimiento secundario en seis sitios de estudio. El uso de sensores multiespectrales como es el caso de Landsat ha sido ampliamente utilizado desde décadas en el estudio plagas y enfermedades forestales. Su resolución espacial y temporal, lo hacen idóneo en el ámbito de la sanidad forestal. Este estudio pretende marcar las pautas en el seguimiento y evaluación multitemporal de defoliaciones por procesionaria mediante el uso de índices de vegetación con este tipo de sensor. Los resultados han mostrado defoliaciones más severas y más recurrentes en las zonas ocupadas por Pinus nigra. En general, los índices de vegetación han sido sensibles a las defoliaciones presentes en el periodo, encontrando descensos de NDVI y SAVI en los años con mayores defoliaciones y aumentos en el caso del MSI; siendo de gran importancia las condiciones climáticas presentes en cada año. El índice de vegetación MSI es el que mejor ha reflejado las defoliaciones. Por otro lado, el NDVI y SAVI están condicionados enormemente por la precipitación de primavera del año previo, y el crecimiento secundario por la precipitación durante la primavera. El crecimiento radial se redujo en años con defoliaciones recurrentes y fuertes sequías. También, se han encontrado buenos resultados en la reducción de la componente climática en los distintos años del periodo de estudio, detectando una clara sensibilidad de las defoliaciones en el crecimiento radial y los índices de vegetación. Estos resultados pueden ayudar a la toma de medidas que mejoren la gestión de las masas afectadas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9409</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio; Área de Análisis Geográfico Regional</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9409/files/TAZ-TFM-2012-1034.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>procesionaria</dc:subject>
+    <dc:subject>índices de vegetación</dc:subject>
+    <dc:subject>teledetección</dc:subject>
+    <dc:subject>landsat</dc:subject>
+    <dc:subject>sanidad forestal</dc:subject>
+    <dc:subject>dendrocronología</dc:subject>
+    <dc:subject>Máster Universitario en Tecnologías de la Información Geográfica para la Ordenación del Territorio: Sistemas de Información Geográfica y Teledetección</dc:subject>
+    <dc:title>Evaluación espaciotemporal de los efectos de la procesionaria sobre el vigor y el crecimiento de pinares mediterráneos en la Sierra de Gúdar (Teruel)</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

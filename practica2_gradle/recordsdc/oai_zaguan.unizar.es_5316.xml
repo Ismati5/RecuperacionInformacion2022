@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Knutsson, Björn</dc:contributor>
+    <dc:contributor>Ilarri Artigas, Sergio</dc:contributor>
+    <dc:creator>Saad García, Ismael</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>BitTorrent es, hoy en día, una de las redes P2P (Peer-to-Peer) de compartición de objetos más populares. Tiene millones de usuarios. BitTorrent proporciona un mecanismo eficiente para compartir objetos entre un gran número de clientes, incentivando a aquellos que descargan un objeto a compartirlo con el resto. Para obtener peers con los que intercambiar un objeto, las versiones más recientes de BitTorrent empiezan a incorporar el uso de un DHT (Distributed Hash Table). El DHT es un mecanismo para distribuir el almacenamiento de las listas de peers participantes en la distribución de un objeto entre todos los nodos participantes en la red P2P. BitTorrent tiene dos DHTs: Mainline DHT y Azureus DHT. Este proyecto se centra en el estudio de Mainline DHT. Concretamente, este proyecto se centra en el estudio de la generación, distribución y obtención de valores en Mainline DHT. En primer lugar, se presenta un análisis teórico de esta parte concreta del DHT y, posteriormente, se contrasta con el comportamiento real. Se identifican situaciones inesperadas y casos en los que el rendimiento del DHT se podría mejorar. Además, de acuerdo con el análisis que se presenta, hay situaciones en las que el DHT es vulnerable, haciendo posible: censura mediante la denegación a nodos del acceso al intercambio de un objeto, encaminamiento de tráfico a modo de ataque DDoS (Distributed Denial of Service) y un problema de escala-bilidad. Se han comprobado estos problemas experimentalmente y se incluye una documentación de los mismos. El análisis ha ayudado a diseñar algunos experimentos que muestran la robustez del DHT contra la censura y, por otro lado, un serio problema de escalabilidad. Para llevar a cabo los experimentos, se ha desarrollado una colección de herramientas que sirve para monitorizar aspectos concretos del DHT. Estas herramientas son Open Source de modo que se puedan utilizar y ampliar para llevar a cabo más experimentos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5316</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5316/files/TAZ-PFC-2010-312.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>P2P</dc:subject>
+    <dc:subject>Sistemas Distribuidos</dc:subject>
+    <dc:subject>DHT</dc:subject>
+    <dc:subject>Kademlia</dc:subject>
+    <dc:subject>BitTorrent</dc:subject>
+    <dc:subject>Vulnerabilidad</dc:subject>
+    <dc:subject>Escalabilidad</dc:subject>
+    <dc:subject>Censura</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Censura en BitTorrent</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

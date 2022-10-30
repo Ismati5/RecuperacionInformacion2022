@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Llombart Estopiñán, Andrés</dc:contributor>
+    <dc:creator>Rupérez Cerqueda, Marcos</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>Fórmula Zero es una competición internacional de automovilismo basada en coches de hidrógeno (pila de combustible). Un equipo, liderado por la "Fundación para el desarrollo de las nuevas tecnologías del hidrógeno en Aragón“ se formó para participar en dicha competición. Se realizó un testeo de todos y cada uno de los equipos presentes en el kart (pila de combustible, condensadores, DC/DC, demanda de energía...) de manera que se tuvieran bien caracterizados, conociendo su funcionamiento y respuesta. Los datos obtenidos en los test son utilizados para construir modelos de cada uno de los equipos en matlab simulik. El modelo global del coche se ha utilizado con el fin de diseñar el mejor control del sistema de potencia. Se simulan diferentes configuraciones de interconexionado entre los bloques buscando la que mejor resultados obtenga. Finalmente la configuración seleccionada es implementada en el kart de hidrógeno y testeada en circuito para un mejor ajuste de sus sistemas. Esta configuración del kart será la que finalmente competirá durante la próxima temporada.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4564</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4564/files/TAZ-PFC-2010-016_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/4564/files/TAZ-PFC-2010-016.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>hidrógeno</dc:subject>
+    <dc:subject>coche eléctrico</dc:subject>
+    <dc:subject>energías renovables</dc:subject>
+    <dc:subject>energía sostenible</dc:subject>
+    <dc:subject>fc</dc:subject>
+    <dc:subject>pilas de combustible</dc:subject>
+    <dc:subject>fuel cell</dc:subject>
+    <dc:subject>hydrogen</dc:subject>
+    <dc:subject>renewable</dc:subject>
+    <dc:subject>energy supercaps</dc:subject>
+    <dc:subject>step-up</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Kart de Hidrógeno Fórmula Zero</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

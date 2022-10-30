@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bernal Agustín, José Luis</dc:contributor>
+    <dc:contributor>Dufo López, Rodolfo</dc:contributor>
+    <dc:creator>Delgado Pérez, Taoro Ancor</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El Departamento de Ingeniería Eléctrica de la Escuela de Ingeniería y Arquitectura de la Universidad de Zaragoza solicita como proyecto de fin de carrera, el desarrollo de una bancada de baterías que permita el estudio de las mismas. Se pretende simular las distintas situaciones ambientales del entorno natural de las baterías dentro de un recinto controlado. Se fabrica para este cometido una cámara climática donde albergar las baterías. Para el desarrollo de un sistema de control externo, que posibilite el control de la temperatura en el interior de la cámara climática, se provee del hardware necesario que permite la comunicación entre el ordenador y la cámara climática. También se propone la posibilidad de poder almacenar en memoria distintos perfiles de carga y descarga de las baterías, para ello se tiene en cuenta que la carga electrónica y la fuente de alimentación deben ser programables a la hora de seleccionar los equipos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6228</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6228/files/TAZ-PFC-2011-403.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>baterías</dc:subject>
+    <dc:subject>simulación</dc:subject>
+    <dc:subject>renovable</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Estudio y diseño de un banco de pruebas de baterías</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

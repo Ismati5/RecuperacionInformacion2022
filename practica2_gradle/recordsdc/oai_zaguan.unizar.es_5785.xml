@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Hauke Bernardos, Guillermo</dc:contributor>
+    <dc:creator>Lizarraga Roncal, Fernando</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Este proyecto investiga técnicas de estimación de error a posteriori para el método de elementos finitos, aplicadas a un caso de interés en la industria aeronáutica. El estimador de error objeto del estudio utiliza el método variacional de las multiescalas. La ventaja de este método reside en que se evita la resolución de ecuaciones diferenciales para estimar el error. Este método ha resultado eficiente en el estudio de ondas de choque en flujos supersónicos. En el presente proyecto, se pretende analizar el comportamiento de este estimador de error en régimen subsónico para las ecuaciones de Euler. Para este tipo de estudios es necesario comparar el error estimado con el error real. La elección de los perfiles de Joukowski para este estudio se justifica no solo en su relevancia en la historia de la aeronáutica, sino en que además, haciendo uso de una transformación conforme en variable compleja en combinación con el método de Poggi, tienen una solución analítica conocida para flujo potencial compresible. Se ha estudiado el estimador de error con respecto a gran cantidad de parámetros como pueden ser, el número de Mach del flujo, las matrices de tiempos intrínsecos, tando del flujo como del estimador de error y la norma elegida para el cálculo del residuo. También se han usado distintas geometrías para asegurar la repetibilidad de los resultados.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5785</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5785/files/TAZ-PFC-2011-208.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>mecánica de fluidos</dc:subject>
+    <dc:subject>ecuaciones de Euler</dc:subject>
+    <dc:subject>metodo variacional de las multiescalas</dc:subject>
+    <dc:subject>estimación de error</dc:subject>
+    <dc:subject>perfil de Joukowski</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Estimación de error local para el método de elementos finitos aplicado a las ecuaciones de Euler en un flujo alrededor de un perfil aerodinámico</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

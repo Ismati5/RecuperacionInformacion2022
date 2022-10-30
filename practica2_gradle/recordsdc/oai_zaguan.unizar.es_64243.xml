@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Grazú Bonavía, María Valeria</dc:contributor>
+    <dc:contributor>Asín Pardo, Laura</dc:contributor>
+    <dc:creator>Sierra Arregui, Teresa</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>La terapia enzimática dirigida surge como una estrategia interesante para el empleo de enzimas capaces de metabolizar profármacos en el interior del cuerpo. Sin embargo, cuenta con limitaciones como la respuesta inmune del propio organismo o la temperatura sub-óptima alcanzada por las enzimas en el interior del mismo. Como respuesta a estas limitaciones, en este trabajo se propone la co-encapsulación de la enzima peroxidasa de rábano picante (HRP) con nanopartículas magnéticas (MNPs) por medio de una cubierta de sílica biomimética. De esta manera, el objetivo principal es la activación de estas MNPs mediante la aplicación de un campo magnético alterno externo, para conseguir la temperatura óptima de la HRP. Además, para evaluar la estabilidad y la funcionalidad del nanohíbrido se debe optimizar el protocolo de actividad enzimática. Los resultados obtenidos mostraron que la HRP es funcional en el interior del nanohíbrido. Así mismo, se observó cómo las MNPs son capaces de absorber energía y generar calor al ser expuestas a un campo magnético. Sin embargo, la temperatura alcanzada no se correspondió con la óptima de la enzima. Futuros estudios son necesarios para determinar el efecto de diferentes condiciones del campo magnético, con el objetivo de alcanzar dicha temperatura óptima.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64243</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Orgánica; Área de Química Orgánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64243/files/TAZ-TFG-2017-2181.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Biotecnología</dc:subject>
+    <dc:title>Nanoestructuras híbridas para la activación remota de terapia enzimática dirigida mediada por hipertermia magnética</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Biohybrid nanoparticles for directed enzyme prodrug therapy remotely triggered by magnetic hyperthermia</dc:title>
+</oai_dc:dc>

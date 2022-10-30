@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sancho Larraz, Jorge</dc:contributor>
+    <dc:contributor>Alesanco Iglesias, Álvaro</dc:contributor>
+    <dc:creator>Hernández Rodrigo, Manuel</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>Actualmente se está produciendo un cambio en el paradigma de la prestación de los servicios sanitarios en todo el mundo debido al desarrollo de las Tecnologías de la Información y Comunicaciones (TIC) en este ámbito. El abaratamiento en los costes de los sensores médicos y el uso de wearables ha incrementado la cantidad de información médica disponible en cada paciente. 	 En este caso, desde un punto de vista de red, cada uno de los pacientes podría considerarse un nodo de red generando información y el médico sería el administrador de esta. Dada esta simetría y el gran número de herramientas existentes para la gestión, manipulación y representación de la información recolectada de los nodos de red, sería interesante analizar su funcionamiento en un escenario médico. Para ello se parte de una aplicación basada en plataformas de mensajería para la recolección de datos médicos de un grupo de pacientes. Esta aplicación se ha extendido para recoger los datos de actividad de Google Fit. Se ha diseñado una arquitectura que permita integrar las arquitecturas de gestión de red y los pacientes utilizando para ello una herramienta de gestión de red, ELK, para el análisis y la representación de la información y un estándar médico, FHIR, para el intercambio de la información de salud. Esta arquitectura tiene como objetivo crear una carpeta personal de salud (PHR), realizando la visualización de los datos mediante la herramienta Kibana de ELK, en la cual se han definido los dashboards que representan la información médica. Dada la sensibilidad de la información médica recolectada y que ELK no proporciona un control de acceso, se ha implementado una arquitectura que mediante el protocolo OAuth garantice el acceso autenticado a los datos. Esto se ha desarrollado implementando un control de acceso a la aplicación utilizando Python y la librería Flask. Este control de acceso garantiza la autenticación del usuario, el acceso únicamente a los recursos a los que tiene permiso y define las operaciones que puede realizar.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76297</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingeniería Telemática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76297/files/TAZ-TFM-2018-259.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/76297/files/TAZ-TFM-2018-259_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería de Telecomunicación</dc:subject>
+    <dc:title>Diseño e implementación de una interfaz gráfica para la gestión de un PHR basado en FHIR utilizando ELK</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Design and implementation of a management interface of a PHR based on FHIR using ELK</dc:title>
+</oai_dc:dc>

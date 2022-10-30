@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Cabello Matud, María Cristina</dc:contributor>
+    <dc:contributor>Ruberte Bailo, Jorge</dc:contributor>
+    <dc:creator>Lázaro Sebastián, Lucía</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>La normativa actual y la necesidad de diseñar y construir edificios eficientes desde el punto de vista energético están afectando directamente a los procesos actuales de certificaciones energéticas. La intención de este trabajo es detectar el panorama actual que sufre la interoperabilidad entre programas BIM y BPS. En concreto a través de Revit, un programa en fase de desarrollo e implantación en la sociedad actual el cual ofrece unas prestaciones muy atractivas y Design Builder, un programa destinado a la simulación energética con un potente motor de cálculo, Energy-plus. A través de esta interrelación se pretende detectar un método para conseguir un traspaso más eficiente y fluido de información entre estos dos programas, así como detectar los procesos que no son posibles transferir e investigar sobre nuevas interoperabilidades.  En el proceso final, se realizan una serie de comprobaciones de parámetros que se deben definir en Design Builder directamente para realizar una simulación. Como comprobación del correcto traspaso, se han realizado una serie de  simulaciones con propuestas de mejora de los cerramientos opacos. Ya que como se esperaba, los valores ofrecidos corresponden con datos acordes con la realidad en la que se encuentra el edificio su ubicación (Jaca) y su año de construcción. Estas propuestas mayoritariamente se centran en reducir la demanda por calefacción de las habitaciones objeto de estudio a través de unas propuestas en las que se modifican los elementos que componen la fachada.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64000</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Unidad Predepartamental de Arquitectura; Área de Construcciones Arquitectónicas</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64000/files/TAZ-TFG-2017-3513.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Estudios en Arquitectura</dc:subject>
+    <dc:title>El BIM y la simulación energética para el diseño de estrategias  de rehabilitación energética de la envolvente opaca</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">BIM and energy simulation for the design of refurbishment  strategies of the building opaque envelope</dc:title>
+</oai_dc:dc>

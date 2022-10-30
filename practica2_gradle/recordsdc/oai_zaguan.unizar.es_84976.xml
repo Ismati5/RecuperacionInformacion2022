@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Suárez Gracia, Darío</dc:contributor>
+    <dc:contributor>Gran Tejero, Rubén</dc:contributor>
+    <dc:creator>Moniente Pannocchia, Miguel Santiago</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Este trabajo se centra en el estudio de los ataques hardware basados en ejecución especulativa que han aparecido en los últimos años. &lt;br /&gt;Esto abre un nuevo foco de investigación en un ámbito de información limitada a causa de su novedad y la falta de documentación por parte de los fabricantes. &lt;br /&gt;Se han estudiado los principales ataques de este tipo (Meltdown, Spectre, Foreshadow y ZombieLoad), con el fin de clasificarlos y proponer una taxonomía de éstos. &lt;br /&gt;Como fruto de este estudio, se ha realizado la implementación de dos de ellos, Meltdown y Spectre, y desarrollado dos técnicas de optimización que permiten mejorar el rendimiento de Meltdown. De esta manera, también se ha podido proponer una posible mitigación a este ataque. &lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/84976</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Arquitectura y Tecnología de Computadores</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/84976/files/TAZ-TFG-2019-3519.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/84976/files/TAZ-TFG-2019-3519_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>Análisis de vulnerabilidades hardware basadas en la ejecución especulativa</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Analysis of hardware vulnerabilities based on speculative execution</dc:title>
+</oai_dc:dc>

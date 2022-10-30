@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Tricas García, Fernando</dc:contributor>
+    <dc:creator>Vizner López, Juan Carlos</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>En los últimos años se vienen desarrollando trabajos tratando de estudiar la seguridad no sólo desde el punto de vista técnico, sino también económico y de usabilidad. En 2010 se presentó el artículo de Joseph Bonneau y  Sören Preibusch, “The password thicket: technical and market failures in human authentication on the web” (en Proceedings of the Ninth Workshop on the Economics of Information Security (WEIS), June 2010) y nos preguntábamos cómo serían las métricas que se describían allí para sitios populares en España. Este trabajo es una primera aproximación para tratar de responder a estas preguntas en lo referente a la creación y gestión de cuentas de usuario en comparación con las de otras partes del mundo. Pensamos que sería beneficiosa una comparación clara y empírica sobre las medidas de seguridad adoptadas por los sitios web españoles frente a la identificación de sus usuarios, de modo que se puedan observar los puntos fuertes y débiles de dicha identificación. Para ello hemos llevado a cabo una selección de los sitios web españoles más visitados y los dividimos en 3 categorías principales: sitios de identidad, de comercio electrónico y de contenido. Una vez hecho se recogen una determinada serie de datos relevantes y finalmente se comparan los resultados obtenidos de las distintas páginas web analizadas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/36885</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/36885/files/TAZ-TFM-2015-111.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería de Sistemas e Informática</dc:subject>
+    <dc:title>Evaluación de las características de seguridad de la gestión de credenciales en un conjunto de sitios web</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

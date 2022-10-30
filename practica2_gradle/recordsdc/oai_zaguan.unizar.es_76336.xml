@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Esteban Escaño, Luis Mariano</dc:contributor>
+    <dc:creator>Calleja Visiedo, Adrián</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>La gestión de inventarios es un aspecto clave para cualquier empresa, el nivel de stock que se disponga de cada artículo tendrá consecuencias directas en los beneficios de la empresa, siendo esta cantidad uno de los factores más importantes en el nivel de servicio ofrecido a los clientes. La problemática radica en encontrar el nivel adecuado de inventario. Grandes volúmenes de stock son un riesgo, causantes de pérdidas por depreciación e ineficiencia, aparte de una gran inversión en capital. Por su parte, niveles excesivamente bajos no permiten satisfacer toda la demanda produciéndose pérdidas por roturas de stock. Para tomar una decisión sobre qué cantidad mantener en inventario, cuándo y cuánto reponer es necesario analizar datos históricos sobre las ventas de cada producto, así como los costes que tiene asociado operar con ellos. Con el fin de analizar todas estas variables y llegar a una solución óptima en cuanto a la forma de gestionar cada uno de los productos, se ha creado un programa informático en lenguaje Python, capaz de ofrecer de forma independiente para cada uno de los artículos la mejor alternativa entre las 4 políticas estudiadas (EOQ, Stock Objetivo, Stock Obj pp1, Stock Obj pp2). Justificando esta decisión en base a resultados obtenidos en simulaciones de cada modelo. Es fundamental que estas simulaciones reflejen la realidad del producto, para ello se ha trabajado extensamente en la parametrización de la demanda, filtrando para su estudio en un primer momento los datos atípicos, y posteriormente generando valores con la misma frecuencia y distribución, extraídas del histórico. Reducir los costes totales es la principal función del programa, aunque también aporta soluciones alternativas que permiten reducir el capital invertido en stock. Para el ejemplo analizado, las políticas “EOQ” y “Stock Obj pp1” han logrado los mejores resultados, aunque todos los modelos estudiados tienen una significativa presencia en el resultado final.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76336</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76336/files/TAZ-TFG-2018-4839_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/76336/files/TAZ-TFG-2018-4839.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Organización Industrial</dc:subject>
+    <dc:title>Herramientas dinámicas para determinación de política de inventario óptima bajo distintas distribuciones de demanda</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Dynamic tools for deciding on the best inventory policy under different demand distributions </dc:title>
+</oai_dc:dc>

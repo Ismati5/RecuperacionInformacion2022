@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bailera Martín, Manuel</dc:contributor>
+    <dc:contributor>Romeo Giménez, Luis Miguel</dc:contributor>
+    <dc:creator>García Rodríguez, Alejandro</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>El actual sistema de generación eléctrica de la isla de Gran Canaria se caracteriza por ser un sistema pequeño, poco eficiente, aislado y por estar constituido principalmente por tecnología sustentada en combustibles fósiles. Ello conlleva un elevado coste de generación eléctrica, así como de emisiones. Con la finalidad de conseguir un sistema eléctrico más favorable técnica, económica y medioambientalmente se dimensiona un sistema de generación 100% renovable. Se proponen cuatro posibles modelos. Se selecciona un modelo basado en generación eólica y fotovoltaica, el cual implementa un sistema Power to Gas que permite adaptar la generación a la demanda requerida por el sistema, además de considerar limitar la potencia del sistema Power to Gas. Finalmente, la alternativa proyectada resulta ser una opción más rentable y sostenible que el sistema de generación actual.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/69853</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/69853/files/TAZ-TFG-2018-030.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Sistemas insulares energéticamente sostenibles: Estudio de aplicación de la tecnología power to gas en la isla de Gran Canaria</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Island sustainable energy systems: Study of the application of power to gas technology on the island of Gran Canaria</dc:title>
+</oai_dc:dc>

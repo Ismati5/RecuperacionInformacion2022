@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ramos Martínez, Luis Manuel</dc:contributor>
+    <dc:creator>Ceamanos Gaya, Carlos</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Diseño de un sistema domótico de bajo coste para hogar, utilizando software y hardware open, utilizando para ello Android, Raspberry Pi, Arduino, y como sistema de comunicación entre los diferentes componentes del sistema, ZigBee/XBee.     Para ello se diseña una aplicación Android, que ofrece control al usuario del sistema, y se implementa un servidor central del sistema con las Raspberry Pi, instalando en la misma un servidor LAMP (Linux Apache MySql y PHP) que se comunica con los Arduinos, dispositivos que alojan sensores y actuadores, a través de ZigBee/XBee.    Al prototipo se le dota de sensores de humedad, temperatura, nivel de gas, nivel de agua, luminosidad, presencia, etc. permitiendo implementar alarmas de gas, presencia e inundación, así como conocer datos que permiten actuar sobre persianas, luces, electrodomésticos, etc.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64294</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Arquitectura y Tecnología de Computadores</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64294/files/TAZ-PFC-2017-021.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero de Telecomunicación</dc:subject>
+    <dc:title>Sistema domótico low-cost con Android, Arduino y Raspberry Pi</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+    <dc:title xml:lang="en">Low-cost domotics system with Android, Arduino and Raspberry Pi</dc:title>
+</oai_dc:dc>

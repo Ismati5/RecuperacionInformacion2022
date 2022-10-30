@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>López Melús, Raúl</dc:contributor>
+    <dc:contributor>Porta Royo, Luis</dc:contributor>
+    <dc:creator>Guillén Monge, Tomás</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El presente proyecto nace del encargo de la empresa en la que empecé de prácticas y en la que llevo desde diciembre. Consiste en realizar la instalación de baja tensión y de control necesaria para alimentar y comunicar los receptores y equipos necesarios de la presa y la toma del canal de la central hidroeléctrica de Villanúa, para concentrando todas las protecciones y dispositivos de control en un nuevo armario, poder operar la presa de manera automática ya sea de forma local o remota. Empezando por la parte de la instalación de baja tensión, el alcance del proyecto consiste en diseñar, dimensionar, seleccionar e instalar, cada uno de los cables de fuerza que alimentan a los distintos receptores que operan la presa. La parte de control, consiste en realizar los esquemas necesarios para que cada uno de los equipos de control, ya sean sensores y sondas de campo, o cámaras de contactos de dentro del armario, sean concentrados en el PLC recogiendo toda la información que estos proporcionan. También consiste en realizar el diseño del control de la instalación de potencia, mediante relés auxiliares y contactores, para permitir al autómata actuar sobre cada una de las distintas salidas de potencia del armario. El presente proyecto no comprende la programación de dicho autómata. Añadido a esto, el alcance del proyecto incluye la codificación de todos los equipos y elementos y zonas de la instalación mediante el sistema utilizado por la empresa, así como la codificación de los cables y venas de estos y su etiquetado para una correcta y sencilla identificación. Dicho sistema, será desarrollado en los anexos de este proyecto. Asimismo incluye un estudio básico de seguridad y salud y, a modo de anexo, un procedimiento de seguridad más completo en el que se establecen todas las condiciones necesarias para realizar los trabajos de manera que se cumplan con los requisitos de seguridad, tanto de la empresa, como del cliente.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64003</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64003/files/TAZ-TFG-2017-3503.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/64003/files/TAZ-TFG-2017-3503_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Eléctrica</dc:subject>
+    <dc:title>Automatización de la presa y la toma del canal de la central hidroeléctrica de Villanúa</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Automation of Villanua´s power station´s dump and watercourse</dc:title>
+</oai_dc:dc>

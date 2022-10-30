@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Moreno Gómez, Francisco</dc:contributor>
+    <dc:creator>Rodríguez Rodríguez, Alejandro José</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>La creciente población supone una creciente demanda de energía, de suelo y de alimento. Se propone en este documento una forma de paliar esa demanda energética con la ayuda de la creciente demanda alimenticia, en concreto la cárnica y toda aquella con origen animal, sea cual sea la especie animal. Para ello se aprovecha las secreciones y deyecciones animales para la obtención de una fuente energética, pudiéndose considerar tal, como una fuente renovable. Con ello no solo se adapta la industria animal al crecimiento actual, sino que se proporciona energía, la cual cada vez es más demandada y además se elimina la posible emisión a la atmósfera de gases de efecto invernadero tales como el CH4. Con la tendencia a tornar la ganadería de extensiva a intensiva, se facilita la posibilidad de recoger y almacenar todas las deposiciones animales, ayudando a su uso en la dirección aquí planteada. El presente documento trata de describir las bases para un modelo matemático para la predicción del volumen de CH4 producido a partir de una cantidad de estiércol concreta. Para ello es necesario identificar unos factores que influyan en su generación y combinarlos de manera correcta, con el objetivo de lograr datos precisos. Una vez diseñado el método de cálculo se procederá a su aplicación para la cabaña ganadera de España. Es importante tener en cuenta que los datos proporcionados pueden variar de la realidad, debido a la posibilidad de existir cabezas de ganado no censadas. Se obtendrá pues, una estimación de la potencial producción de biogás en España.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10321</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10321/files/TAZ-TFM-2013-144.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/10321/files/TAZ-TFM-2013-144_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>biogás</dc:subject>
+    <dc:subject>Máster Universitario en Energías Renovables y Eficiencia Energética</dc:subject>
+    <dc:title>Cuantificación del potencial de producción de biogás. Valoración de los parámetros de influencia</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

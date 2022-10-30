@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sanz Saiz, Gerardo</dc:contributor>
+    <dc:creator>Velilla Gambó, Jorge</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El trabajo consta de dos capítulos en los que se pretende estudiar un tipo de procesos de Markov en tiempo continuo conocidos como sistemas interactivos, y un caso particular de estos, el llamado modelo del votante. Este tipo de procesos modelan el comportamiento de grandes masas de partículas que interactúan unas con otras, no desde el punto de vista de las partículas sino del conjunto, pues es precisamente este punto de vista el que dota al proceso de la propiedad markoviana y hace posible un estudio detallado del mismo.  Los sistemas interactivos presentan un gran interés a la hora de modelar situaciones reales, y también dentro de la Teoría de la Probabilidad y la Estadística al ser procesos de Markov en tiempo continuo sobre, generalmente, un espacio de estados no contable. A lo largo del trabajo se presentan los principales resultados de los procesos de spin, un tipo especial de sistema interactivo en el que los valores que puede tomar cada partícula son solamente dos. En cuanto al modelo del votante, en el segundo capítulo se recoge un estudio del modelo del votante simple y uno del modelo del votante con umbral; así mismo, se presentan otros modelos del votante más complejos y se mencionan varias de las aplicaciones actuales de este tipo de modelos, como la modelización del marketing en redes sociales.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/15157</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Métodos Estadísticos; Área de Estadística e Investigación Operativa</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/15157/files/TAZ-TFG-2014-959.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>votante</dc:subject>
+    <dc:subject>interactivo</dc:subject>
+    <dc:subject>partículas interactivas</dc:subject>
+    <dc:subject>Graduado en Matemáticas</dc:subject>
+    <dc:title>Sistemas interactivos: modelo del votante</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

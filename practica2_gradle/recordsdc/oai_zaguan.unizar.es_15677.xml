@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Nievas López, Javier</dc:contributor>
+    <dc:creator>Alderete, Nicolás Martín Víctor</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Este trabajo trata de obtener conclusiones sobre de las diferentes teorías de determinación del tipo de cambio. Para ello se ha utilizado los tipos de cambio euro/libra. Se han estudiado las diferentes teorías que han surgido a lo largo de la historia y su aplicación a la realidad estimando los modelos econométricos, cuando es posible, con variables reales utilizando métodos econométricos para tratar de verificar estas teorías. Además, el estudio se ha apoyado en teorías econométricas para evaluar las variables y, a su vez, evaluar los modelos estimados. Dadas las características de las variables y el período de estudio, pueden existir problemas entre los modelos económicos y econométricos, para los cuales se estudia una posible solución. The aim of this paper is to explore different exchange rates theories and obtain conclusions. For this purpose, euro/pound exchange rate has been used. Exchange rate theories that have arisen along the history and their real application have been studied. This paper estimates econometrics models – with real variables, when possible, for the different theories considered. The chosen models were selected and estimated by using a range of econometric techniques. Furthermore, the whole study is based in econometric theories in order to evaluate the chosen variables and the estimated models. Given the characteristics of the variables and the time period studied, problems between economics and econometrics models might arise. A solution to this issue is proposed in this paper.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/15677</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Análisis Económico; Área de Fundamentos del Análisis Económico</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/15677/files/TAZ-PFC-2014-335.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>exchange rate</dc:subject>
+    <dc:subject>econometria</dc:subject>
+    <dc:subject>series temporales</dc:subject>
+    <dc:subject>tipo de cambio</dc:subject>
+    <dc:subject>ppc</dc:subject>
+    <dc:subject>ppa</dc:subject>
+    <dc:subject>modelos de activos</dc:subject>
+    <dc:subject>modelos monetarios</dc:subject>
+    <dc:subject>precios flexibles</dc:subject>
+    <dc:subject>precios</dc:subject>
+    <dc:subject>precios rigidos</dc:subject>
+    <dc:subject>cointegracion</dc:subject>
+    <dc:subject>euro/libra</dc:subject>
+    <dc:subject>Graduado en Administración y Dirección de Empresas</dc:subject>
+    <dc:title>Modelización de las Teorías del Tipo de Cambio</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

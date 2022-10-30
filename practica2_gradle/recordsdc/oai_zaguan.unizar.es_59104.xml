@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gaspar Lorenz, Francisco José</dc:contributor>
+    <dc:contributor>Rodrigo Cardiel, Carmen</dc:contributor>
+    <dc:creator>Hernández López, Ángela</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>Este trabajo de fin de grado consiste en un estudio de los sistemas de modelizacion de enfermedades SIR y SEIR, junto con la discretización de ambos modelos. Para ello se estudiará el metodo de ecuaciones en diferencias finitas y el imex.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/59104</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Matemática Aplicada; Área de Matemática Aplicada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/59104/files/TAZ-TFG-2016-2289.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Matemáticas</dc:subject>
+    <dc:title>Estudio numérico de un modelo de propagación de enfermedades</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Numerical study of an illness dispersion</dc:title>
+</oai_dc:dc>

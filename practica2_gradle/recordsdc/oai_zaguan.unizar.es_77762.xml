@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Floría Peralta, Luis Mario</dc:contributor>
+    <dc:contributor>Gómez Gardeñes, Jesús</dc:contributor>
+    <dc:creator>Antón Galindo, Daniel</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>El objetivo del trabajo es la exploración de la posibilidad de introducir escalas mesoscópicas en la dinámica de sistemas culturales, mediante la introducción de las nociones emergentes de "identidad cultural" de grupo e "interacción entre grupos culturales", en el marco formal y computacional del llamado modelo de Axelrod, un modelo que en el campo de los modelos sociales de agentes viene a representar lo que el modelo de Ising en la física estadística, dada su simplicidad a la vez que relevancia en la comprensión de fenómenos macroscópicos. La memoria se ha estructurado del modo que sigue. En el capítulo 1 se presenta muy brevemente el modelo de Axelrod de diseminación cultural, del cual partiremos para introducir posteriormente la escala mesoscópica -el grupo cultural- mediante la estructura de red bipartita en el sistema de agentes culturales. Se reproducen los resultados conocidos de este modelo para dos tipos de redes mediante códigos propios, como test de éstos. En el capítulo 2 se introduce la noción de identidad cultural de grupo y su interacción con los agentes culturales, estimando los efectos en la dinámica cultural en relación a las interacciones agente-agente. Se analiza aquí el caso elemental de un sistema formado por un solo grupo, para el que se implementan simulaciones que reproducen correctamente las predicciones del análisis realizado. A continuación, en el capítulo 3 se considera el sistema no-trivial de dos grupos culturales, observando la emergencia de conceptos como "interacción entre grupos" y "crisis de identidad". Se hace un análisis teórico de las situaciones asintóticas posibles y se describe con detalle el algoritmo utilizado para la detección de éstas. Se presentan los resultados obtenidos y la discusión sobre la transición de fases observada, así como el diagrama de fases en el espacio de parámetros.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/77762</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física de la Materia Condensada; Área de Física de la Materia Condensada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/77762/files/TAZ-TFG-2018-2416_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/77762/files/TAZ-TFG-2018-2416.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Física</dc:subject>
+    <dc:title>Dinámica cultural de grupos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Group cultural dynamics</dc:title>
+</oai_dc:dc>

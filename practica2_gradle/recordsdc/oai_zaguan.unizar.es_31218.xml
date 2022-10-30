@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Zúñiga Antón, María</dc:contributor>
+    <dc:contributor>Sebastián López, María</dc:contributor>
+    <dc:creator>Alcalá Canales, Adriana</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>La relación entre factores ambientales y enfermedades ha sido tratada desde la antigüedad. En los últimos años, las nuevas tecnologías permiten la existencia de almacenamiento de la información en grandes bases de datos, facilitan el acceso a la mismo y ofrecen una gran posibilidad de análisis. Entre estas encontramos los Sistemas de Información Geográfica que permiten completar los análisis estadísticos de la información a través de la representación cartográfica y por lo tanto análisis visual de la misma.  En el siguiente trabajo se estudia la prevalencia del asma en Aragón y los determinantes de la salud que la condicionan. Se presenta un análisis descriptivo de todas las variables con el fin de mostrar su variabilidad espacial dentro de la comunidad y se estudia la existencia o no de relaciones lineales  entre la prevalencia del asma y sus determinantes a través del modelo de Pearson.  Los resultados obtenidos varían según la variable representante de la prevalencia del asma. Si relacionamos los determinantes con los valores de REM de asma, se aceptan las relaciones con el bajo peso al nacer, el tabaquismo, la renta per cápita, la edad media de los edificios, la población, la población urbana y la cercanía a carreteras, y si relacionamos la tasa de prevalencia de asma con los determinantes, no se acepta la relación entre el asma infantil ni con respecto al bajo peso al nacer ni la cercanía a carreteras, pero sí con respecto a la vegetación alérgena. Sin embargo, todas estas relaciones son de baja intensidad por lo que consideramos este trabajo como un primer acercamiento al estudio del asma y sus determinantes, dejando para trabajos futuros la opción de completarlo con análisis más complejos e interdisciplinares.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31218</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio; Área de Geografía Humana</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31218/files/TAZ-TFG-2014-1820.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>prevalencia del asma infantil</dc:subject>
+    <dc:subject>geografía médica</dc:subject>
+    <dc:subject>cartografía médica</dc:subject>
+    <dc:subject>determinantes de la salud</dc:subject>
+    <dc:subject>zonas básicas de salud</dc:subject>
+    <dc:subject>Graduado en Geografía y Ordenación del Territorio</dc:subject>
+    <dc:title>Relación entre el asma infantil y los determinantes de la salud en Aragón: Variación geográfica y modelos de regresión</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

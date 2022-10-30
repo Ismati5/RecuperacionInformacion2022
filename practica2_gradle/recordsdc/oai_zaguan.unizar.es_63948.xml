@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mur Lacambra, Jesús</dc:contributor>
+    <dc:contributor>Atwi Saab, Majed</dc:contributor>
+    <dc:creator>Lara Salvador, Víctor Juan</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Según el IPCC, a nivel mundial, el crecimiento económico y el crecimiento de la población son los principales impulsores del aumento en las emisiones de CO2 procedentes de la quema de combustibles fósiles (carbón, petróleo, gas). Por lo tanto, existe gran interés en examinar la relación entre el crecimiento económico y la degradación medioambiental mediante la hipótesis de la curva de Kuznets ambiental (CKA). Esta hipótesis sostiene que la relación entre la renta per cápita y un indicador de la degradación medioambiental tiene una forma funcional de U-invertida, es decir, asume que el crecimiento económico es necesario para una mejora de la calidad medioambiental. En este contexto, el presente trabajo tiene como objetivo principal comprobar la validez empírica de esta hipótesis para las emisiones de CO2 en el caso de los EE. UU. y la UE-15 durante el periodo 1971-2014. Con el fin de realizar los objetivos se propone para cada región un modelo econométrico polinómico de segundo grado para explicar el comportamiento de las emisiones de CO2 per cápita en función de la renta per cápita. Nuestros resultados indican la existencia de la CKA con forma de U-invertida en el caso de la UE-15 y una relación monótona decreciente en el caso de los EE.UU. En base a los resultados obtenidos del análisis econométrico, se observa el cambio hacia un desarrollo menos contaminante. Tal y como describe la teoría de la CKA, ambas economías se sitúan en la parte decreciente de la curva. En este sentido, los resultados sugieren que el desarrollo económico en ambas regiones puede conducir a la reducción de las emisiones de CO2 y por consiguiente a mejoras en la calidad medioambiental en el largo plazo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/63948</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Análisis Económico; Área de Fundamentos del Análisis Económico</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/63948/files/TAZ-TFG-2017-3720.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Economía</dc:subject>
+    <dc:title>Curva de Kuznets Ambiental: análisis empírico para los EE.UU. y la UE-15 </dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Environmental Kuznets Curve: empirical analysis for the U.S. and the EU-15</dc:title>
+</oai_dc:dc>

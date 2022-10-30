@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Abián Vicén, María</dc:contributor>
+    <dc:contributor>Alzueta Anía, María U.</dc:contributor>
+    <dc:creator>Peribáñez Estevan, Eduardo</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>La combustión de hidrocarburos lleva asociada una serie de problemas medioambientales, entre los que destacan la emisión de materia particulada (tipo hollín) y de óxidos de nitrógeno. La aplicación de técnicas de recirculación de flujo de gas en los procesos de combustión implica la interacción de diferentes contaminantes presentes en los gases de salida, pudiendo dar lugar a su reducción. El objeto de este proyecto es analizar el efecto de la presencia de diferentes óxidos de nitrógeno sobre la cantidad de hollín formado en la pirólisis de etileno. Se han realizado experimentos con diferentes concentraciones de los óxidos de nitrógeno (NO, N2O, NO2), desde 500 a 12.000 ppm, en condiciones controladas de presión y temperatura, en un reactor tubular de cuarzo, y en el intervalo de temperaturas de 700 a 1.200 ºC. El hollín producido ha sido cuantificado mediante pesada y se ha analizado la composición de los gases de salida. Los resultados experimentales se han simulado con el software CHEMKIM, utilizando mecanismos cinéticos en fase gas procedentes de bibliografía, con el proposito de identificar los principales caminos de reacción involucrados en el proceso. Los resultados obtenidos muestran que la presencia de óxidos de nitrógeno influye en la cantidad de hollín formada en la pirólisis de etileno, obteniéndose diferentes resultados en función del óxido de nitrógeno presente durante la reacción, la concentración inicial del mismo y la temperatura. En determinadas condiciones experimentales, se ha observado una reducción tanto de la cantidad de hollín formada como de la concentración de los óxidos de nitrógeno a la salida del reactor. Los resultados teóricos obtenidos a partir de las simulaciones de los experimentos mediante los mecánismos obtenidos de bibliografía, se ajustan a los resultados experimentales obtenidos, permitiendo identificar los principales caminos de reacción involucrados en el proceso de reacción. Se ha encontrado que las principales responsables de la reducción de la cantidad de hollín formada en la pirólisis de etileno son las reacciones de formación de HCN y CO a partir de la interacción de etileno con los óxidos de nitrógeno NO y NO2.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/7991</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Tecnologías del Medio Ambiente</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/7991/files/TAZ-PFC-2012-380.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>hollín</dc:subject>
+    <dc:subject>oxidos de nitrógeno</dc:subject>
+    <dc:subject>nox</dc:subject>
+    <dc:subject>etileno</dc:subject>
+    <dc:subject>oxicombustion</dc:subject>
+    <dc:subject>egr</dc:subject>
+    <dc:subject>soot</dc:subject>
+    <dc:subject>pirólisis</dc:subject>
+    <dc:subject>no</dc:subject>
+    <dc:subject>no2</dc:subject>
+    <dc:subject>n2o</dc:subject>
+    <dc:subject>Ingeniero Químico</dc:subject>
+    <dc:title>Sinergia entre óxidos de nitrógeno y precursores de hollín: influencia en las emisiones de contaminantes</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

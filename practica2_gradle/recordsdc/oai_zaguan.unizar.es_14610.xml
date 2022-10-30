@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ruiz Manzanares, Gonzalo</dc:contributor>
+    <dc:contributor>Ilarri Artigas, Sergio</dc:contributor>
+    <dc:creator>Alcolea Ursua, Alberto</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El auge de dispositivos conectados a Internet y la explosión de las redes sociales han hecho crecer de forma exponencial la información creada por los ciudadanos en la Red. Este intercambio de contenidos de todo tipo (datos, opiniones, estados de ánimo...) entre sus usuarios ha causado una enorme repercusión en el impacto que dicha información tiene en la vida diaria de las personas, influyendo cada vez más en su comportamiento, hábitos de vida, decisiones de compra, opiniones políticas, etc. En este contexto, el Gobierno de Aragón, junto con el Instituto de Biocomputación y Física de Sistemas Complejos (BIFI) de la Universidad de Zaragoza, planteó la realización de una plataforma de datos sociales abiertos relacionados con la Comunidad Autónoma de Aragón. Su objetivo era poner a disposición del público una gran cantidad de datos estructurados que pueden ser de utilidad para la sociedad, tanto en términos de transparencia, como para su explotación por parte de empresas que contribuyan de este modo al crecimiento económico. Para lograr este objetivo, en este Proyecto de Fin de Carrera (PFC) se ha desarrollado un sistema de recopilación y estructuración de información obtenida de las principales redes sociales y portales web (wikis, blogs...) junto con una API REST abierta que ofrece los datos procesados al público. Además, se ha implementado una interfaz web interna para facilitar la gestión y monitorización de los sistemas de escucha de fuentes y los contenidos servidos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/14610</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/14610/files/TAZ-PFC-2014-290.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>open data</dc:subject>
+    <dc:subject>social data</dc:subject>
+    <dc:subject>big data</dc:subject>
+    <dc:subject>web scraping</dc:subject>
+    <dc:subject>web crawling</dc:subject>
+    <dc:subject>scraper</dc:subject>
+    <dc:subject>web semántica</dc:subject>
+    <dc:subject>gis</dc:subject>
+    <dc:subject>amqp</dc:subject>
+    <dc:subject>api</dc:subject>
+    <dc:subject>python</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Aragón Open SocialData: una API de datos sociales abiertos y estructurados sobre la Comunidad Autónoma de Aragón</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

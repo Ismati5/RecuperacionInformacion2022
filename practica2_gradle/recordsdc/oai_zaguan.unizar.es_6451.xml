@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Romeo Giménez, Luis Miguel</dc:contributor>
+    <dc:creator>Etayo Rillo, Fernando</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El objetivo del presente trabajo es la búsqueda de nuevas variaciones del método de captura de CO2 mediante ciclos de carbonatación – calcinación que puedan suponer mejoras del proceso, como una disminución de la penalización energética. Para ello se utiliza el software Aspen Plus V7.2. Tras una revisión bibliográfica, se comienza la simulación con un caso de referencia con un esquema similar a los que se están estudiando en la actualidad. Se trata de un proceso de captura en el que los gases de escape de la combustión de una central térmica se hacen pasar por un carbonatador en el que se captura el CO2. A partir del caso de referencia se buscan nuevas alternativas que puedan producir alguna mejora.  En primer lugar se estudia la modificación de la temperatura y la presión del carbonatador. Aumentado la temperatura los resultados muestran una disminución de la conversión de CO2, del calor aprovechable de los gases de salida del calcinador y del flujo de calor saliente del carbonatador. Por otra parte esta modificación tiene las ventajas de disminuir la necesidad de carbón y las irreversibilidades y aumenta el calor que puede aprovecharse de los gases de salida del carbonatador. Un aumento de la presión del carbonatador hasta 1,5 atm, provoca un ligero aumento del carbón pero favorece el equilibrio y aumenta ligeramente el calor aprovechable en los intercambiadores. Por último se ha comprobado el efecto de añadir un intercambiador de calor entre las corrientes de sólidos entre el carbonatador y el calcinador. Esto provoca una disminución de las irreversibilidades y del carbón necesario en el calcinador y en consecuencia del calor aprovechable de los gases de salida de este reactor.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6451</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6451/files/TAZ-TFM-2011-060_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6451/files/TAZ-TFM-2011-060.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>captura de co2</dc:subject>
+    <dc:subject>post-combustión</dc:subject>
+    <dc:subject>carbonatación-calcinación</dc:subject>
+    <dc:subject>Máster Universitario en Energías Renovables y Eficiencia Energética</dc:subject>
+    <dc:title>Simulación del proceso de carbonatación – calcinación para captura de CO2. Estrategias de mejora del proceso</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

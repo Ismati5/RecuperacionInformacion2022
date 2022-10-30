@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Marín Herrero, José María</dc:contributor>
+    <dc:creator>Serrano Ruiz, Rubén</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El proyecto persigue dos objetivos fundamentales: •	Obtener los rangos de la temperatura ambiente (Ta)  y de la temperatura media radiante (Tr) (variables ambientales más influyentes en ambientes de interior) para un individuo situado en un habitáculo cerrado y que se encuentra en una situación de confort o neutralidad térmica (PMV=0). •	Comprobar la existencia de un vínculo entre la sensación térmica de confort y la mínima destrucción de exergía en el cuerpo humano. Dada la imposibilidad de realizar las medidas experimentales, el proyecto se va a basar en correlaciones matemáticas y en dos modelos termodinámicos del cuerpo humano: el modelo estacionario y el modelo de dos nodos. Los modelos termodinámicos del cuerpo humano se han basado tradicionalmente en el primer principio de la termodinámica, o balance de energía, para evaluar la sensación térmica de un sujeto en un ambiente determinado; en este trabajo, el modelo de dos nodos va a incorporar también el segundo principio, realizando un balance de exergía en los compartimentos de la piel y del núcleo corporal.  Dichos modelos van a ser plasmados en 4 programas para el software EES, dos programas (individuo en reposo y en movimiento)  basados en el modelo estacionario y otros dos inspirados en el modelo de dos nodos. En ellos, el autor de éste proyecto ha programado un conjunto de funciones y procedimientos, de forma que para un rango de la temperatura del aire y la temperatura radiante media, se obtengan como salidas del programa los flujos energéticos y exergéticos que entran en juego, la humedad de la piel (ω), la temperatura de la piel (Tsk), la temperatura de la ropa (Tcl), la temperatura del núcleo corporal (Tcr), la exergía destruida (Bd) y la sensación térmica que experimenta el individuo a lo largo del intervalo de temperaturas. Se tendrá en cuenta además, dos niveles de actividad antagónicos en el sujeto:  •	De pie y en reposo  •	En carrera continua a 7 km/h en un plano horizontal En todo momento el sujeto se situará en un recinto cerrado, bajo condiciones ambientales controladas y vestirá con ropa de entretiempo. Finalmente, se refutarán los resultados encontrados de destrucción de exergía en el organismo hallados por el investigador Matjaz Prek (2006).</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/15977</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/15977/files/TAZ-PFC-2014-396.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>balance de energía</dc:subject>
+    <dc:subject>balande de exergía</dc:subject>
+    <dc:subject>cuerpo humano</dc:subject>
+    <dc:subject>confort</dc:subject>
+    <dc:subject>sensación térmica</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Balances de energía y exergía en el cuerpo humano</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

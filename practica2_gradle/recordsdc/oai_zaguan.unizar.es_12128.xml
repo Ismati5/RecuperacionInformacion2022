@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bono Nuez, Antonio</dc:contributor>
+    <dc:creator>Pino Escartín, Francho María</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Desde hace unas décadas ha venido produciéndose un incremento en la longevidad de la población debido en gran parte a los avances realizados en el campo médico, creando una nueva meta, alcanzar esa longevidad con la máxima calidad de vida posible. Por esta razón se encuentran ya gran cantidad de publicaciones, estudios e investigaciones en el ámbito de la calidad de vida, resolviendo cuestiones sobre cómo evaluarla, identificar qué factores se ve afectada y cómo mejorarla.En este estudio se ha pretendido realizar la búsqueda y análisis de las diferentes investigaciones que se han realizado a nivel internacional sobre calidad de vida pero añadiendo una herramienta novedosa a su comprensión, las redes neuronales. Además, se ha procesado mediante el uso de redes auto-organizadas una base de datos realizada junto al grupo de investigación de enfermería con el que se ha trabajado, compuesta de dos cuestionarios, uno de creación propia denominado “Temores, preocupaciones y afectación de la calidad de vida diaria de pacientes post infarto agudo de miocardio” y otro de calidad de vida conocido como EuroQoL 5D-3L. Como resultado principal obtenido de la fase de documentación destaca la escasez de investigaciones en España sobre el uso de redes neuronales para el estudio de la calidad de vida. En este ámbito, este proyecto ha pretendido ser pionero en el empleo de dichas técnicas consiguiendo el reconocimiento de ciertos patrones entre los temores y preocupaciones que sufren los pacientes post-infartados y la división de los posibles niveles de calidad de vida relacionada con la salud.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12128</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12128/files/TAZ-PFC-2013-557.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/12128/files/TAZ-PFC-2013-557_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>redes neuronales</dc:subject>
+    <dc:subject>calidad de vida</dc:subject>
+    <dc:subject>infarto agudo de miocardio</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electrónica Industrial)</dc:subject>
+    <dc:title>Estudio mediante redes neuronales de la incidencia de los infartos en la calidad de vida</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

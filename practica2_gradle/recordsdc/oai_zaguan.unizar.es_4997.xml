@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Maldonado, Germán</dc:contributor>
+    <dc:contributor>Arauzo Pelet, Inmaculada</dc:contributor>
+    <dc:creator>Rodríguez Pascual, Marta</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>El objetivo de este proyecto es estudiar el desarrollo del sistema energético de Aragón y analizar algunas opciones para su futura evolución, aplicando un enfoque de sistemas. El proyecto se divide en dos partes, la primera centrada en el sector eléctrico y su evolución y la segunda incluyendo todo el sistema energético y consiste en la simulación de distintos escenarios para el desarrollo futuro de este. Para elaborar este proyecto se realizó primero una revisión bibliográfica para encontrar datos históricos del sistema energético aragonés. Después se calcularon las curvas logísticas de evolución para el consumo de electricidad, la potencia instalada y la generación de electricidad. Para la segunda parte, se utiliza el programa LEAP y se elabora un caso base y tres escenarios más: carbón prioritario (COAL), electricidad renovable (REN) y coches eléctricos (ELECAR). Durante la realización del proyecto se ha localizado una gran cantidad de datos sobre el sistema energético en Aragón. Sin embargo, cuando se han necesitado datos detallados han sido difícil de encontrar, y muchos de ellos se han encontrado mal organizados o con erratas. A su vez, cabe destacar la deficiencia de la planificación energética a nivel estatal, tanto pública como privada. LEAP es un programa sencillo de utilizar y con pocos requerimientos, pero es poco robusto. En los resultados obtenidos, se concluye que tanto el escenario REN como el ELECAR supondrían una disminución de las emisiones de CO2, aunque también es son los escenarios más caros. El escenario COAL sería el escenario más barato y con más emisiones. Otra de las conclusiones importantes del proyecto es que hay un exceso de potencia instalada en Aragón, debido a la baja producción de las centrales térmicas de carbón y la entrada de ciclos combinados.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4997</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4997/files/TAZ-PFC-2010-164.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/4997/files/TAZ-PFC-2010-164_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Energía</dc:subject>
+    <dc:subject>Aragón</dc:subject>
+    <dc:subject>Enfoque de sistemas</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>El sistema energético de Aragón : estrategias para el futuro. (The Energy System in Aragón facing the Future)</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

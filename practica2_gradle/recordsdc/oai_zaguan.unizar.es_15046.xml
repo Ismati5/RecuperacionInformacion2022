@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Cariñena, José F.</dc:contributor>
+    <dc:creator>Sala de Torres-Solanot, Pablo</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Las aproximaciones usuales a la mecánica cuántica y clásica son bastante diferentes. Por un lado tenemos una estructura lineal que se nos presenta en un espacio de Hilbert H, estructura que es considerada realmente importante para la formulación posterior; y por otro lado nos encontramos con las ecuaciones de Hamilton, que nos definen trayectorias en un espacio de fases. Sin embargo desde hace unos años, ha surgido una formulación alternativa de la mecánica cuántica análoga a la perspectiva geométrica de la mecánica clásica no relativista. En el primer captulo de este trabajo desarrollaremos esta formulación. Una vez se haya introducido esta formulación, se pasará al estudio del efecto Zenón cuántico (QZE), primeramente abordado por Von Neumann y unos veinte a~nos mas tarde, desarrollado teoricamente por B. Misra y G. Sudarshan, los cuales acu~naron el nombre con el que hoy se le conoce, QZE. Destacar que pese a que académicamente se había hecho uso de los sistemas inestables para probar dicho efecto, la primera validación experimental fue hecha por Itano et al., basándose en el experimento propuesto por Cook. Para este apartado nos centraremos en los diferentes desarrollos mostrados por de P. Facchi y S. Pascazio. Además se aplicara la formulacion geometrica aprendida, al estudio del efecto Zenón cuántico. Cabe resaltar que entre las aplicaciones prácticas existentes hasta la fecha de este efecto están la preservacion de la polarizacion de spin en gases y el control de la decoherencia en computacion cuantica. Para el lector que no esté familiarizado con los términos geométricos que aquí se utilizan, se puede encontrar en el apéndice A, una descripción resumida de dichos conceptos. Además en el apéndice B se anexa una breve descripción del efecto Zenón inverso (IZE).</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/15046</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Teórica; Área de Física Teórica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/15046/files/TAZ-TFG-2014-897.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>mecánica cuántica</dc:subject>
+    <dc:subject>formalismo geométrico</dc:subject>
+    <dc:subject>efecto zenón</dc:subject>
+    <dc:subject>sistema hamiltoniano</dc:subject>
+    <dc:subject>traducción geométrica mecánica cuántica</dc:subject>
+    <dc:subject>qze</dc:subject>
+    <dc:subject>Graduado en Física</dc:subject>
+    <dc:title>Sistemas dinámicos Hamiltonianos en Mecánica Cuántica: el efecto Zenón</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

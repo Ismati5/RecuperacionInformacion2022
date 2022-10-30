@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gómez Gardeñes, Jesús</dc:contributor>
+    <dc:creator>Soriano Paños, David</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>En este trabajo, se ha pretendido abordar la modelización de epidemias en sistemas en los que coexisten diferentes patrones de movilidad de sus individuos. Para ello se ha construido una serie de ecuaciones que permiten caracterizar la evolución espacio-temporal de una enfermedad así como las condiciones bajo las cuales su impacto global en el sistema es relevante. Por último, a partir del formalismo desarrollado, se ha propuesto un indicador para reflejar la distancia social entre cada uno de los estratos en los que se divide la ciudad de Medellín (Colombia)</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/63728</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física de la Materia Condensada; Área de Física de la Materia Condensada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/63728/files/TAZ-TFM-2017-331.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Física y Tecnologías Físicas</dc:subject>
+    <dc:title>Dinámicas de contagio en metapoblaciones multicapa</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Contagion dynamics on multilayer metapopulations</dc:title>
+</oai_dc:dc>

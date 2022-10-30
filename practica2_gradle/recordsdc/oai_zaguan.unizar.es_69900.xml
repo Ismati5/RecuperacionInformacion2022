@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Abad Blasco, Javier Óscar</dc:contributor>
+    <dc:creator>Gamiz Escanilla, Edgar</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Se escoge un montacargas de referencia para el cual se realizarán unas modificaciones con las que conseguir unos determinados requisitos en el aparato (mayor carga útil y versatilidad en la plataforma permitiendo su intercambio). Teniendo en cuenta la normativa existente, se abordarán cálculos aproximados con el que escoger elementos mecánicos para introducirlos en un software de diseño (Solid Works) con el que estudiar su comportamiento. También se seleccionara el motor-reducto necesario.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/69900</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería Mecánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/69900/files/TAZ-TFG-2017-4497.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/69900/files/TAZ-TFG-2017-4497_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Análisis y rediseño de montacargas para construcción</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Analysis and redesign of construction elevator</dc:title>
+</oai_dc:dc>

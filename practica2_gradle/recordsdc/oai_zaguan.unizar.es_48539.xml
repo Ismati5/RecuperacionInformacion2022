@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Velázquez Sancho, Jesús</dc:contributor>
+    <dc:contributor>Cascarosa Salillas, Esther</dc:contributor>
+    <dc:creator>Biota Torrecilla, Raquel</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>El presente trabajo consiste en el estudio y caracterización de materiales susceptibles de ser utilizados en máquinas de fabricación aditiva basadas en tecnología DLP o procesamiento digital de luz. Este análisis se realiza tanto con materiales o resinas existentes en el mercado como con materiales de elaboración propia. Se analizan diferentes variables asociadas al proceso de impresión con los diferentes materiales, así como ciertas características mecánicas de las piezas finales fabricadas.  Una vez adquiridos ciertos conocimientos sobre diferentes programas necesarios para el manejo de la impresora 3D, se definen los materiales a utilizar y se realizan unas primeras pruebas para descartar las peores combinaciones. Se diseña la pieza o probeta a desarrollar y se fabrica tanto con los materiales propios seleccionados como con materiales comerciales. En este punto, se analizan diversos parámetros a controlar en la impresión de las piezas. Dichos parámetros se miden, y se estudia su dependencia con las variables configurables del proceso. Con esto se consigue obtener la relación que presenta mejor resultado en la pieza final. Finalmente, se analizan diferentes propiedades sobre las piezas fabricadas para poder realizar una comparación entre ellas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/48539</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/48539/files/TAZ-TFG-2015-3740.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Química</dc:subject>
+    <dc:title>Estudio y caracterización de materiales para un prototipo de impresora 3D basada en la tecnología DLP</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

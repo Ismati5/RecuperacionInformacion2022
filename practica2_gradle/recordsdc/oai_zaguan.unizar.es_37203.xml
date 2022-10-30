@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Pascau Benito, Antonio</dc:contributor>
+    <dc:creator>Llorente Lázaro, Víctor Javier</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>El presente proyecto consiste en la simulación numérica de fluidos cuyas propiedades, y en consecuencia su movimiento, se ven afectadas y modificadas mediante la aplicación externa de campos magnéticos. Dichas simulaciones se realizará sobre una geometría de placas planas, paralelas y fijas. Para llevar a cabo lo comentado anteriormente, se dispondrá de un software académico desarrollado por el profesorado del Área de Mecánica de Fluidos de la Universidad de Zaragoza denominado CRETINO (Código de Resolución de Ecuaciones de Transporte con Introducción Numérica de Opciones). Dicho software, que es utilizado por los alumnos del centro en prácticas, puede simular tanto flujos laminares como turbulentos, estacionarios y transitorios mediante el método de discretización de “Volúmenes Finitos”, método muy empleado en el ámbito de la mecánica de fluidos computacional (CFD). Para poder alcanzar la meta de nuestro proyecto es necesario modificar el código interno del programa. Al tener una nueva variable de cálculo, es necesario incorporar por un lado, un término adicional a la ecuación del movimiento lineal del fluido debido a la aparición de fuerzas de origen magnético. Y por otro lado, incorporar la ecuación de inducción magnética que nos permitiría resolver el campo magnético inducido que se generaría debido a que el propio movimiento del fluido modifica el campo magnético en el que está sumergido. Todos estos resultados se validarán con la literatura científica existente en revistas especializadas y libros técnicos, para así proveer de un código académico en el cálculo de flujos que se ven modificados mediante campos magnéticos externos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/37203</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/37203/files/TAZ-PFC-2015-108.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Simulación numérica de flujos magnetoreológicos</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

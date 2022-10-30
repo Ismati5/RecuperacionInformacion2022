@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Goya, Gerardo Fabián</dc:contributor>
+    <dc:creator>Bruvera, Ignacio Javier</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>A dedicated device was built with the purpose of studing the remotely controlled drug release of a temperature sensitive hydrogel in a water flow. Samples of the hydrogel (semi-interpenetrating polymer networks constituted by alginate and PNIPAAm) with in situ synthesized magnetite nanoparticles (average size 10nm) were characterised by TEM, STEM/EDS, SEM, VSM and power dissipation measurements. These results were used to design and construct a system able to measure the drug release of the samples in a water flow when exposed to an external RF field. The device was calibrated to obtain absolute values of drug concentration in the water flow in real time by a built-in photometer. Vitamin B12 was used as model drug. First results indicate a good response of both the sample and the device. Field induced drug liberation events were clearly recorded. A liberated B12 mass in the order of 10ng was calculated for each event. Further experiments are necessary for a complete characterization of the drug release process.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8189</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física de la Materia Condensada; Área de Física de la Materia Condensada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8189/files/TAZ-TFM-2012-287.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>hydrogels</dc:subject>
+    <dc:subject>drug release</dc:subject>
+    <dc:subject>magnetic nanoparticles</dc:subject>
+    <dc:subject>Máster Universitario en Física y Tecnologías Físicas</dc:subject>
+    <dc:title>Estudio de la liberación remota de fármacos utilizando ferrogeles bajo la acción de campos magnéticos alternos</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

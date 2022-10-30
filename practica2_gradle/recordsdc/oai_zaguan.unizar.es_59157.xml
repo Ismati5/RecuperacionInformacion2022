@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gómez Ambrosi, Carlos</dc:contributor>
+    <dc:creator>del Castillo Tierz, Jorge</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>En este trabajo, se estudiará el Teorema de Incompletitud de Gödel, clave en el campo de la Lógica matemática. En pocas palabras, lo que dice es que si un sistema matemático contiene suﬁciente aspectos de la Aritmética y es consistente, es decir, que no se pueda probar a la vez una cosa y su contrario, entonces, por desgracia, ese sistema siempre va a ser incompleto. Esto quiere decir que hay alguna fórmula que, a pesar de ser verdadera, no puede ser probada. No porque la demostración sea extremadamente complicada, sino porque esa demostración, simplemente, no existe.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/59157</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Matemáticas; Área de Algebra</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/59157/files/TAZ-TFG-2016-2053.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Matemáticas</dc:subject>
+    <dc:title>Teorema de Incompletitud de Gödel</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Gödel's Incompleteness Theorem</dc:title>
+</oai_dc:dc>

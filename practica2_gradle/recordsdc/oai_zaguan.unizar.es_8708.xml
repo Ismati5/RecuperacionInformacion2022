@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Lehmann Jørgensen, Sune</dc:contributor>
+    <dc:contributor>Frederiksen, Michael</dc:contributor>
+    <dc:contributor>Murillo Arnal, Ana Cristina</dc:contributor>
+    <dc:creator>Pérez Lahera, Jorge</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El objetivo de este proyecto es desarrollar un sistema de seguimiento de usuarios con un iPhone y un modelo 3D del campus de la Technical University of Denmark. El usuario podrá activar el seguimiento tras abrir una aplicación en el iPhone siempre y cuando se encuentre en alguna de las áreas donde haya un modelo 3D disponible. Los usuarios que hayan activado el seguimiento serán mostrados en  estos modelos 3D en forma de avatares. Los modelos 3D junto con los avatares pueden ser visualizados usando cualquier navegador de escritorio en la página web realsite.dk. Los sensores GPS de los Smartphones no son normalmente muy precisos. Para desarrollar buenos algoritmos en el sistema de seguimiento requerido, la precisión de este sensor tiene que ser analizada. Por esta razón el proyecto empieza con un extenso estudio de la precisión de los sistemas de localización en el iPhone y de los parámetros que pueden configurarse. Se estudian tanto posiciones fijas como en movimiento. Este estudio revela que el error medio en posiciones estáticas es en torno a 8 metros y bastante mayor para las posiciones en movimiento. Sin embargo es muy rápido determinando la primera posición lo cual lo hace en menos de 10 segundos en la mayoría de los casos. Utilizando los resultados de este estudio, se han diseñado varios filtros para eliminar las posiciones menos precisas. Además, también se ha desarrollado una técnica que permite detectar cuando el usuario entra dentro de un edificio sin usar ninguna información adicional más que la que los servicios de localización ofrecen. Las dos partes mas importantes de este sistema han sido desarrolladas en su totalidad en este proyecto fin de carrera. Estas son una aplicación para el sistema operativo móvil iOS y un algoritmo para representar a los avatares de los usuarios en los modelos 3D. La aplicación recoge las posiciones de los usuarios, utilizando el GPS del dispositivo, las filtra, las guarda y las manda a un servidor de internet donde son almacenadas en una base de datos. También permite visualizar las sesiones anteriores en las que el seguimiento ha sido activado y tomar una foto que será utilizada en el avatar del usuario. La representación de los avatares en el modelo no se puede llevar a cabo con las posiciones que el dispositivo iOS obtiene ya que no son suficientemente precisas. Por lo que se diseñó un algoritmo que genera a partir de las posiciones GPS recibidas una ruta realista, factible y libre de obstáculos en el modelo. Un detalle importante por ejemplo, es que hace que los avatares utilicen escaleras y puertas de edificios cuando se detecta que han cambiado de altitud o entrado a un edificio respectivamente.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8708</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8708/files/TAZ-PFC-2012-471.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>visualización modelos 3d</dc:subject>
+    <dc:subject>desarrollo en iphone</dc:subject>
+    <dc:subject>seguimiento posición</dc:subject>
+    <dc:subject>seguimiento de usuarios</dc:subject>
+    <dc:subject>a-gps</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicación</dc:subject>
+    <dc:title>Desarrollo de un sistema de seguimiento de usuarios con iPhone para visualizarlos en un modelo 3D</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

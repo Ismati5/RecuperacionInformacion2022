@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Hernando Seral, José Ignacio</dc:contributor>
+    <dc:contributor>Alesanco Iglesias, Álvaro</dc:contributor>
+    <dc:creator>Abián Dionis, Alejandra</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Este proyecto está situado en el campo de seguridad de tecnologías de la información, también llamada ciberseguridad, que es el que se encarga de proteger la información buscando mantener la integridad, privacidad y conﬁdencialidad de la misma, previniendo el acceso no autorizado a una red y a recursos de la red. Este trabajo se centra en la detección avanzada de ciberamenazas en entornos empresariales complejos. Debido a que en este tipo de entornos los clientes suelen utilizar Microsoft Active Directory, que es el servicio de directorio que utiliza Microsoft en el que se almacena y organiza la información de todos los usuario y recursos de la red, el sistema de detección de intrusos que se va a testear mediante la realización de varios ataques es Microsoft Advanced Threat Analytics(ATA), plataforma local que ayuda a la empresa a protegerse de amenazas dentro de la red. El objetivo de este proyecto es doble: por una lado tenemos la automatización de la instalación de dicha herramienta y por otro lado tenemos la comprobación del correcto funcionamiento de esta. El primer objetivo se consigue creando un script en PowerShell y, una vez instalado y preparado el escenario, se realizará un test con un número reducido de usuarios, que es el segundo objetivo a conseguir en este proyecto. Lo que haremos en este punto ser´a generar ataques con diferentes herramientas y ver así la información detallada que nos proporciona ATA de cada ataque.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64187</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingeniería Telemática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64187/files/TAZ-TFG-2017-2879.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías y Servicios de Telecomunicación</dc:subject>
+    <dc:title>Detección avanzada de ciberamenazas en entornos complejos basada en Microsoft Advanced Threat Analytics</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Advanced detection of cyberthreats in complex environments based on Microsoft Advanced Threat Analytics</dc:title>
+</oai_dc:dc>

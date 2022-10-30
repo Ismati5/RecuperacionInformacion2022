@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Vicente Gimeno, Luis Alfonso</dc:contributor>
+    <dc:creator>Sandoval Salcedo, Carlos</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>Este trabajo de fin de grado (TFG) desarrolla la elaboración de  un sistema de compra venta para fondos de inversión, mediante la creación de un sistema de trading que permita lanzar señales al mercado de manera automática y restar cualquier posible subjetividad a los inversores. Se busca de manera adicional, que se pueda aplicar a cualquier tipo de gestión de carteras o activos. Su análisis y validación se ha realizado sobre dos de las tres empresas con mayor capitalización del índice español Ibex-35, Santander y Telefónica, basándose en la liquidez como criterio de selección.  En primer lugar trata de acercar las principales características de los fondos de inversión; tipos, su evolución y comisiones principalmente. Luego se introduce el análisis técnico, donde se detallan los conceptos más importantes, fundamentales para posteriormente entender el uso de ellos para la elaboración del sistema. A través del análisis empírico se puede ver la combinación de varios indicadores que permiten maximizar los resultados sobre los valores seleccionados durante los años 2012-2013 para seguidamente validarlos en los años siguientes, 2014-2015. De manera complementaria se ha testeado el año 2006, año fuertemente alcista en el mercado español. Finalmente se han obtenido conclusiones al respecto.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/58160</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Contabilidad y Finanzas</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/58160/files/TAZ-TFG-2016-3687.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Finanzas y Contabilidad</dc:subject>
+    <dc:title>Sistemas de compra venta de fondos de inversión: Elaboración de un sistema de trading</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Systems of buying and selling in Investment funds: Development of a trading system</dc:title>
+</oai_dc:dc>

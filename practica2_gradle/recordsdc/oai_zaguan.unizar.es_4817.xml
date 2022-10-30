@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Pablo Júlvez, Luis Emilio </dc:contributor>
+    <dc:contributor>Ferreras Amez, Antonio</dc:contributor>
+    <dc:creator>Egea Estopiñán, María del Carmen</dc:creator>
+    <dc:date>2009</dc:date>
+    <dc:description>OBJETIVO Calcular y validar una función de discriminante lineal (LDF) en la tomografía óptica de coherencia (OCT) y mejorar la capacidad diagnóstica de sus parámetros para discriminar entre individuos sanos y pacientes con glaucoma MATERIAL Y MÉTODO  Se seleccionaron 717 pacientes de forma prospectiva, consecutiva y aleatoria. Tras realizar las pruebas descritas en el protocolo exploratorio los sujetos fueron clasificados en dos grupos glaucoma o control RESULTADOS La población para desarrollar la FDL estuvo formada por 135 sujetos (62 control y 73 glaucoma), la población para validar la FDL estuvo formada por 582 sujetos (280 control y 302 glaucoma). Tras aplicar una regresión logística binaria la FDL resultó: 15,584 -(Espesor en el segmento horario de las 12 x 0,032) - (Espesor en el segmento horario de las 7 x 0,041) - (Espesor en el segmento horario de las 3 [lado nasal] x 0,121). La mejor área bajo la curva se observó con nuestra FDL en ambas poblaciones CONCLUSIONES Nuestra LDF obtuvo las mayores sensibilidades para especidicidades fijadas del 85% y del 95%. Los resultados obtenidos por la FDL en la población de validación confirmaron aquellos obtenidos en la población utilizada para obtener la FDL</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4817</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Medicina, Psiquiatría y Dermatología</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4817/files/TESIS-2010-042.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>Glaucoma</dc:subject>
+    <dc:subject>OCT</dc:subject>
+    <dc:subject>Función discriminante lineal</dc:subject>
+    <dc:title>Capacidad diagnóstica de la tomografía óptica de coherencia en el glaucoma mediante el desarrollo y validación de un nuevo algoritmo multivariante </dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

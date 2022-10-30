@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Cea Mingueza, Pilar</dc:contributor>
+    <dc:creator>González Martínez, Irene</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>Las limitaciones tecnológicas, económicas y medioambientales de la actual tecnología del silicio han llevado a desarrollar nuevas líneas de investigación para hacer frente a la problemática existente. En este marco se desarrolla la Electrónica Molecular dentro de la cual hay un interés creciente por investigar las posibilidades que ofrecerían los dispositivos electrónicos totalmente orgánicos. A lo largo del TFG se han optimizado las condiciones para obtener sales de diazonio a partir de aminas de interés y mediante el proceso de electrografting se han depositado sobre electrodos de carbono, creando enlaces covalentes C-C entre la molécula y un electrodo orgánico, formando películas de espesor controlado. Para controlar el espesor, se ha demostrado la utilidad de un inhibidor de radicales (DPPH) que favorece la interacción electrodo-molécula dificultando la formación de multicapas. Los sustratos modificados se han caracterizado electroquímicamente utilizando dos sondas redox que nos han proporcionado información sobre el grado de bloqueo del electrodo y mediante microscopía de fuerza atómica (AFM) lo que ha permitido conocer detalles sobre la morfología, es decir, rugosidad y espesor.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/59062</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Física; Área de Química Física</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/59062/files/TAZ-TFG-2016-3304.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Química</dc:subject>
+    <dc:title>Ingeniería molecular al servicio de la construcción de dispositivos electrónicos totalmente orgánicos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Molecular Engineering for the construction of all-carbon based molecular electronic devices</dc:title>
+</oai_dc:dc>

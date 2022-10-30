@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bailón Luesma, Raquel</dc:contributor>
+    <dc:contributor>Garatachea Vallejo, Nuria</dc:contributor>
+    <dc:creator>Iglesia Palacios, Ignacio de la</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El análisis de la variabilidad del ritmo cardiaco (HRV) es ampliamente utilizado como una medida no invasiva de la actividad del sistema nervioso autónomo (ANS) en condiciones estacionarias. Sin embargo, en condiciones no estacionarias y, en particular, durante la realización de ejercicio, tanto el análisis como la interpretación de las componentes principales de la HRV se complican. El análisis de la HRV durante la realización de ejercicio supone un reto desde el punto de vista metodológico y fisiológico y es de gran interés tanto por su potencial capacidad discriminatoria en la identificación de determinadas enfermedades cardiovasculares como porque permite investigar los mecanismos de regulación cardiovascular en respuesta al estrés del ejercicio.  En este proyecto fin de carrera se analiza la HRV durante prueba de esfuerzo realizada sobre tapiz rodante en un conjunto de atletas. Se presta especial atención a las componentes de alta frecuencia de la HRV, en particular, a la componente síncrona con la frecuencia respiratoria y a otra componente a la frecuencia  de la zancada que, si bien no ha sido descrita en la literatura, es nuestra hipótesis que aparezca debida al acoplo cardiolocomotor, que sí que ha sido documentado en pruebas de esfuerzo realizadas sobre cicloergómetro a la frecuencia del pedaleo.  El principal objetivo del proyecto es investigar la existencia de una componente en la HRV durante prueba de esfuerzo realizada sobre tapiz rodante relacionada con el acoplo cardiolocomotor.  El primer paso del proyecto consiste en el diseño del protocolo y registro de una base de datos de atletas durante prueba de esfuerzo que permita contrastar nuestra hipótesis.  A partir de los datos de periodo cardiaco instantáneo registrados por un medidor de pulso comercial, se estima la señal de HRV a partir del modelo de modulación en frecuencia de pulsos por integración con umbral variante en el tiempo. La señal de HRV estimada se analiza en el dominio tiempo-frecuencia mediante la distribución pseudo Wigner-Ville suavizada (SPWVD). Después se definen las bandas frecuenciales asociadas a las componentes de la HRV de interés: una centrada en la frecuencia respiratoria, otra centrada en la frecuencia de la zancada, así como otras centradas en alias de la frecuencia de la zancada y sus armónicos originados por el muestreo intrínseco de la HRV por el propio ritmo cardiaco. Se calcula la potencia instantánea de cada una de estas componentes integrando la SPWVD en las correspondientes bandas frecuenciales, y se estudia su evolución durante la prueba de esfuerzo en función de diferentes umbrales fisiológicos.  Se observa que la potencia asociada a la componente de la cadencia y sus alias representa en media el 21,3±12,6% de la potencia total de la HRV durante la prueba de esfuerzo, conduciendo a errores en la interpretación fisiológica de las componentes clásicas de la HRV si no es tenida en cuenta.  La contribución de la potencia asociada a la cadencia en la potencia total de la HRV no sufre cambios significativos ni con el aumento en el consumo de oxígeno ni con la carga de trabajo. La potencia de la componente síncrona con la respiración tiene una mayor contribución en la potencia total de la HRV a medida que el nivel de esfuerzo se aproxima al máximo, reflejando una modulación mecánica de la HRV debida a los propios movimientos respiratorios. Estos resultados cuestionan que la señal moduladora del ANS de la que partimos, tenga un origen puramente neurológico, pudiendo verse afectada por los efectos mecánicos que sobre el organismo y sobre el sistema cardiovascular, se dan en situaciones de alta exigencia física.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6755</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6755/files/TAZ-PFC-2011-751.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>hrv</dc:subject>
+    <dc:subject>variabilidad del ritmo cardiaco</dc:subject>
+    <dc:subject>prueba de esfuerzo</dc:subject>
+    <dc:subject>deportistas</dc:subject>
+    <dc:subject>frecuencia de zancada</dc:subject>
+    <dc:subject>frecuencia respiratoria</dc:subject>
+    <dc:subject>sistema cardiovascular</dc:subject>
+    <dc:subject>sistema nervioso autónomo (ans)</dc:subject>
+    <dc:subject>modelo tvipfm</dc:subject>
+    <dc:subject>spwvd</dc:subject>
+    <dc:subject>distribución pseudo wigner-ville suavizada</dc:subject>
+    <dc:subject>acoplamiento cardiolocomotor</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicaciones</dc:subject>
+    <dc:title>Análisis de las componentes de alta frecuencia de la HRV en prueba de esfuerzo mediante métodos tiempo-frecuencia</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

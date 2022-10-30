@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mínguez Zafra, Javier</dc:contributor>
+    <dc:creator>Aguilar Herrero, Mónica</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El electroencefalograma constituye una de las técnicas de adquisición no invasivas más ampliamente utilizadas para el registro de actividad cerebral. El uso de Bases Normativas de EEG resulta de gran interés para determinar un patrón de referencia en cuanto a señal EEG se refiere. En el presente proyecto se diseña, desarrolla y valida una Base Normativa de EEG basal en adultos, con el objetivo de automatizar el diagnóstico, tratamiento y evaluación de las enfermedades neurológicas. Actualmente la problemática existente en el desarrollo de una Base Normativa de EEG viene determinada por la alta variabilidad interpersonal de la señal EEG. Este aspecto ha sido estudiado mediante la relación de esta variabilidad con factores fisiológicos llevando a cabo una estraticación de sujetos clasicados por dichos factores. Esta técnica ha resultado útil en el caso de Bases Normativas de adultos, pero no en el caso de Bases Normativas infantiles. Este proyecto plantea una alternativa mediante la estraticación de la Base Normativa de forma explícita sobre los cambios significativos de la propia señal EEG. Además, se han elaborado unas herramientas matemáticas que permiten aplicar la Base Normativa en el diagnóstico de una patología neurológica y en el análisis de la evolución de un sujeto bajo una terapia establecida. La ventaja del conjunto de técnicas desarrolladas frente a las existentes sobre Bases Normativas radica en la automatización tanto del proceso de inclusión de un sujeto a la base, como en la aplicación de las herramientas que determinan la normalidad en la señal EEG, evitando cualquier intervención humana en el diseño de la Base Normativa. El conjunto de procesos desarrollados se centran en favorecer la capacidad de discriminación entre sujetos sanos y patológicos, en función de unos patrones extraídos de la señal EEG, y analizar estadísticamente estos patrones para determinar su robustez frente a la variabilidad interpersonal. La búsqueda de los patrones de referencia se orientó hacia descriptores de la energía en las bandas del espectro de potencias de la señal EEG los cuales se ha demostrado su relación con diferentes patologías neurológicas. Finalmente, se ha llevado a cabo la validación global de las técnicas diseñadas tomando la Base Normativa desarrollada como una prueba diagnóstica bajo un contexto clínico, mediante el uso de datos EEG cuasi-sintéticos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5620</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5620/files/TAZ-PFC-2011-072_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5620/files/TAZ-PFC-2011-072.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>base normativa</dc:subject>
+    <dc:subject>EEG</dc:subject>
+    <dc:subject>BCI</dc:subject>
+    <dc:subject>clusterización</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicaciones</dc:subject>
+    <dc:title>Diseño de una base normativa de EEG basal en adultos</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

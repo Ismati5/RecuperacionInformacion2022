@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Siekkinen, Matti</dc:contributor>
+    <dc:contributor>Waris, Heikki</dc:contributor>
+    <dc:contributor>Ilarri Artigas, Sergio</dc:contributor>
+    <dc:creator>Miranda Arto, Pedro</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>En los últimos años, la telefonía móvil ha redenido la forma de comunicación entre las personas. Los dispositivos electrónicos, a través de los cuales se establece dicha comunicaci ón, han evolucionado vertiginosamente en potencia, rendimiento y sobre todo en nuevas funcionalidades, pero siguen estando limitados por la autonomía que les proporciona la duración de la batería. Mientras la capacidad de procesamiento se incrementa en un 200% cada 18 meses siguiendo la Ley de Moore, el rendimiento de las baterías sólo se ha visto mejorado en un 80% en los últimos 10 años [Fit07]. Esta mejora del rendimiento y la llegada de Internet a estos dispositivos ha hecho posible la comunicación a través de diferentes canales, la búsqueda de información o la posibilidad de realizar compras, todo ello de una forma segura y condencial. Dichas conexiones seguras, bien utilizando conexiones cableadas o inalámbricas, se consiguen mediante la utilización de protocolos de seguridad, basados en algoritmos criptográcos. Estos algoritmos son seleccionados basándose en los objetivos de seguridad denidos en el protocolo de seguridad a utilizar. Entre ellos se incluyen algoritmos de encriptación simétricos y asimétricos, utilizados para proporcionar autenticación y encriptación de los datos, así como algoritmos basados en funciones hash, y, de esa manera, conseguir integridad en los mensajes intercambiados. En la actualidad, el consumo energético en dispositivos móviles es una de los principales preocupaciones de los fabricantes de dispositivos móviles. De la misma manera, la seguridad en las comunicaciones se posiciona como una área muy importante en materia de investigación y desarrollo. El uso de protocolos de seguridad no sólo afecta al rendimiento de las comunicaciones, sino que también representa un fuerte impacto en el consumo energético en estos dispositivos alimentados por baterías. De este modo, uno de los desaf íos más importantes es conseguir un balance entre rendimiento, seguridad y consumo energético, con el n de obtener un buen rendimiento y niveles de seguridad adaptados al usuario con la mínima cantidad de energía. En este contexto, Nokia corporation encargó un proyecto de investigación a la Aalto University School of Science and Technology (Helsinki, Finlandia), para analizar el consumo energético de diferentes protocolos de seguridad y algoritmos criptográcos en la plataforma móvil Symbian.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5267</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5267/files/TAZ-PFC-2010-266.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>AES</dc:subject>
+    <dc:subject>SHA</dc:subject>
+    <dc:subject>SSL</dc:subject>
+    <dc:subject>TLS</dc:subject>
+    <dc:subject>Diffie-Hellman</dc:subject>
+    <dc:subject>RSA</dc:subject>
+    <dc:subject>Symbian OS</dc:subject>
+    <dc:subject>algoritmos criptográficos</dc:subject>
+    <dc:subject>protocolos de seguridad</dc:subject>
+    <dc:subject>OpenSSL</dc:subject>
+    <dc:subject>análisis energético</dc:subject>
+    <dc:subject>terminales móviles</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Consumo energético de algoritmos criptográficos y protocolos de seguridad en dispositivos móviles Symbian</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

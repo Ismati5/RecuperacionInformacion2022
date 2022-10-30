@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Naval Iraberri, José Javier</dc:contributor>
+    <dc:creator>Campos Pardos, Elena</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El mieloma múltiple (MM) es un tipo de neoplasia que afecta a las células de la médula ósea y se caracteriza por una proliferación anormal y acumulación de células plasmáticas, las cuales producen una inmunoglobulina monoclonal que provoca daños en el organismo. Actualmente, el MM sigue siendo una enfermedad incurable, a pesar de que existen tratamientos quimioterápicos y fármacos dirigidos que han conseguido aumentar la supervivencia de los pacientes con mieloma y mejorar el pronóstico de la enfermedad. Se ha propuesto una nueva estrategia terapéutica basada en inhibir la actividad de los principales reguladores positivos de la progresión del ciclo celular, las quinasas dependientes de ciclinas (Cdks), con la finalidad de impedir la proliferación descontrolada característica de las células tumorales. En este contexto, se ha encontrado una molécula que posee una potente actividad inhibidora de diversas Cdks, y se conoce con el nombre de dinaciclib. En el presente trabajo fin de grado, se ha analizado el efecto citotóxico del dinaciclib y su capacidad para inducir la muerte celular programada o apoptosis en células de mieloma múltiple humano. Además, se han estudiado diversas proteínas de la familia Bcl-2 (reguladoras de la vía intrínseca de la apoptosis) para intentar comprender el mecanismo de acción del dinaciclib por el cual es capaz de inducir apoptosis en células de mieloma. Los resultados obtenidos parecen indicar que la apoptosis inducida por dinaciclib se produce como consecuencia de la disminución de los niveles de la proteína antiapoptótica Mcl-1, que es un factor clave para la supervivencia de las células de MM. Por su parte, las proteínas proapoptóticas solo-BH3 Puma y Noxa parecen no intervenir en dicho mecanismo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64219</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Biología Celular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64219/files/TAZ-TFG-2017-2239.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Biotecnología</dc:subject>
+    <dc:title>Proteínas implicadas en la apoptosis inducida por el inhibidor de Cdk dinaciclib en células de mieloma humano</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Proteins involved in apoptosis induced by the Cdk inhibitor dinaciclib in human myeloma cells</dc:title>
+</oai_dc:dc>

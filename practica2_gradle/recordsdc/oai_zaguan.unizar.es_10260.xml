@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Oliveros Colay, María José</dc:contributor>
+    <dc:creator>Artigas Chavarría, Alberto</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El tema principal de este proyecto es la realización de una simulación de un proceso de fundición con molde de arena mediante QuikCast. Con este software se obtendrán los resultados para los procesos de llenado y solidificación, así como la posibilidad de analizar la pieza una vez completada la simulación de la simulación. Las herramientas que se han utilizado para la realización de este proyecto son el software de dibujo Solid Edges, para realizar los diseños en 3D y el software de simulación QuikCast, que permite la simulación del proceso de llenado y la solidificación de la pieza. Para realizar la simulación se ha necesitado aprender el funcionamiento del programa para poder realizar una correcta simulación. Además se realiza un manual del profesor y otro para alumno. Estos manuales estas hechos para que se realice la simulación de una pieza durante la sesión prácticas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10260</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10260/files/TAZ-PFC-2013-144.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Simulación de un proceso de fundición con molde de arena en QuikCast</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

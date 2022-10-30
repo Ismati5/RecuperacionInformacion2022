@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Floría Peralta, Luis Mario</dc:contributor>
+    <dc:contributor>Gómez Gardeñes, Jesús</dc:contributor>
+    <dc:creator>Gamazo Tejero, Ángel Javier</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Se presenta en este trabajo un modelo basado en agentes para el complejo fenómeno de la corrupción. El modelo estudiado ha sido inspirado por otros modelos económicos y se considera una red de contactos entre agentes que pueden tomar tres estados. Se consideran probabilidades de transición de carácter endógeno e interacciones entre agentes. Se implementa en primer lugar el método de Monte Carlo con el fin de compararlo con los resultados del proceso de Markov no estacionario que se ha diseñado.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/65182</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física de la Materia Condensada; Área de Física de la Materia Condensada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/65182/files/TAZ-TFG-2017-2012.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/65182/files/TAZ-TFG-2017-2012_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Física</dc:subject>
+    <dc:title>Análisis de un modelo estocástico de corrupción</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Analysis of a stochastic model of corruption</dc:title>
+</oai_dc:dc>

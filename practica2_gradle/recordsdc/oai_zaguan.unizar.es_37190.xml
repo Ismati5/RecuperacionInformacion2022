@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Usón Sardaña, Antonio</dc:contributor>
+    <dc:creator>Fuertes El-Musa, Aiman</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>El proyecto consiste en la realización de un alternador trifásico con materiales convencionales (madera, chapa, cobre...) y usando imanes de tierras raras para crear el campo magnético del rotor. El trabajo tiene como objetivo interpretar las formas de onda resultantes y llegar a conclusiones que expliquen el comportamiento de dicho alternador.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/37190</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/37190/files/TAZ-PFC-2015-142.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electrónica Industrial)</dc:subject>
+    <dc:title>Alternador Trifásico de Imanes de Tierras Raras con finalidad docente</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

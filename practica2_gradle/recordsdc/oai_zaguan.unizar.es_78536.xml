@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mahulea, Cristian</dc:contributor>
+    <dc:creator>Calvo Subirá, José Luis</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Se propone una estrategia de planificación de trayectorias para sistemas multi-robot, suponiendo navegación clásica, con un método implementado de evitación de colisiones y prevención de bloqueos durante la evolución del sistema.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/78536</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/78536/files/TAZ-TFG-2019-082.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Planificación del movimiento basada en diagramas de Voronoi para equipos de robots móviles</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Path planning based on Voronoi diagrams in multirobot systems</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>López Ruiz, Ricardo</dc:contributor>
+    <dc:creator>Asís Cánovas, Mario</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>Se introducen los conceptos de sistema y sistema complejo, así como de red compleja y ofrecen características y ejemplos ilustrativos de los mismos.´Se introduce un transfondo matemático para su estudio, incluyendo bases de teoría de grafos y sistemas dinámicos. Se estudia la dinámica del mapa logístico y se procede a construir un acoplado de mapas de este tipo siguiendo una estructura de red cualquiera, siguiendo los pasos de un artículo escrito por el director del proyecto. Estudiamos la dinámica del nuevo sistema. Se hace particular hincapié en la biestabilidad, una propiedad que el sistema presenta independientemente de la red escogida para construir el acoplado. Para finalizar se incluyen resultados propios sobre puntos fijos del sistema en ciertas redes y medidas computacionales de parámetros cuyo estudio queda pendiente.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31704</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de CC. de la Computación e Inteligencia Artificial</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31704/files/TAZ-TFG-2015-1968.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Matemáticas</dc:subject>
+    <dc:title>Sistemas Complejos: Un modelo de mapas logísticos acoplados</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

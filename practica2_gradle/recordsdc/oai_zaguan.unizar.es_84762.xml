@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Barroso Estébanez, Jorge Ángel</dc:contributor>
+    <dc:contributor>Ballester Castañer, Javier Manuel</dc:contributor>
+    <dc:creator>Andrés Buey, Chabier</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Las emisiones no intencionadas de gas natural en los sistemas de distribución se cifran entre un 1% y un 4% del total que circula por los conductos, siendo la causa más importante las fugas por poros u orificios de pequeño diámetro. Por lo tanto, existe un alto interés en el tejido empresarial por conocer y evaluar este tipo de fugas.&lt;br /&gt;Para una mejor caracterización teórica de estas fugas se desarrolla un modelo CFD y se analizan sus resultados junto las medidas experimentales tomadas de un banco de ensayos. Tras explorar las limitaciones de la teoría de flujo compresible 1-D y validar el modelo CFD, se elaboran nuevos modelos compresible-viscosos. Además, se propone un método de conversión de caudal de aire a metano para poder realizar pruebas con aire y evitar los riesgos asociados a la manipulación de metano al realizar pruebas de comprobación de fugas de gas en bancos de ensayo.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/84762</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/84762/files/TAZ-TFM-2019-1076.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Industrial</dc:subject>
+    <dc:title>Análisis de fugas por microporos en tuberías de gas natural</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Pinhole leaks analysis in natural gas pipelines</dc:title>
+</oai_dc:dc>

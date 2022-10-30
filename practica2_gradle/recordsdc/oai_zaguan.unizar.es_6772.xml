@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Villarroel Salcedo, José Luis</dc:contributor>
+    <dc:creator>Rizzo Bobbio, Carlos Ernesto</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Conocer ciertas características sobre cómo es la propagación de la señal en determinados entornos es de vital importancia para el uso efectivo de una red de comunicaciones inalámbrica.  Dependiendo de la complejidad del medio podemos utilizar como guía uno o varios modelos de propagación, pudiéndose llegar a buenas aproximaciones sobre el comportamiento de la señal.  Bien sea para desarrollar modelos (empíricos o deterministas) o validarlos, se requieren mediciones experimentales. En otros casos no se dispone de un modelo de propagación, por lo que la única opción radica en tomar mediciones prácticas. Cualquiera sea el caso, a través de la representación de estas mediciones en función de la posición obtenemos lo que se suele llamar un mapa de comunicaciones o mapa de cobertura. 	Situados en este contexto, en este trabajo se desarrollaron herramientas para la construcción de mapas de comunicaciones a gran escala y a pequeña escala. Pensando en una solución modular, se desarrollaron diversos módulos para el meta sistema operativo ROS y se implementaron en un vehículo real todoterreno, y en un robot Pioneer P3AT. 	Se realizaron pruebas en un ambiente de especial interés para el grupo RoPeRT (Robotics, Perception and Real Time) de la Universidad de Zaragoza: el túnel  ferroviario de Somport, que conecta Francia con España.  Se obtuvo un mapa de cobertura a gran escala de una sección de especial interés, de unos 2.5 km de largo con cambio de pendiente, y uno más detallado a menor escala de una sección de 1 Km, donde aparecen atenuaciones importantes.  	Se compararon los resultados con un modelo de propagación basado en “Ray Tracing” (trazado de rayos), desarrollado por Valenzuela (1993). Se obtuvieron similitudes como la existencia de un notable fading, pero a la vez diferencias que dan importancia a las mediciones realizadas, como la ubicación de este fading y diversas atenuaciones que no aparecen en las simulaciones. Se verificó la repetibilidad de estos fenómenos realizando diversos experimentos, inclusive en días diferentes, cuestión que no se ha sido tratada con importante énfasis en la literatura. 	También se encontró que, debido a variaciones transversales, aplicando una diversidad espacial muy superior a la de las tarjetas comerciales, podemos mejorar la calidad de señal en la mayoría del trayecto estudiado. 	Los resultados obtenidos pueden ser utilizados tanto para el despliegue óptimo de redes inalámbricas, hasta inclusive para el desarrollo de técnicas de navegación para equipos multi-robot manteniendo la comunicación.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6772</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6772/files/TAZ-TFM-2011-137.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>robótica</dc:subject>
+    <dc:subject>mapas de cobertura</dc:subject>
+    <dc:subject>túneles</dc:subject>
+    <dc:subject>comunicaciones inalámbricas</dc:subject>
+    <dc:subject>navegación de vehículos</dc:subject>
+    <dc:subject>slam</dc:subject>
+    <dc:subject>wifi</dc:subject>
+    <dc:subject>Máster Universitario en Ingeniería de Sistemas e Informática</dc:subject>
+    <dc:title>Construcción de mapas de cobertura para comunicaciones inalámbricas</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

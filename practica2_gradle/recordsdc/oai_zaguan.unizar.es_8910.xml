@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ferreira Neila, Patricia</dc:contributor>
+    <dc:creator>Usón Ferrando, Alejandro</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El factor inductor de apoptosis (AIF) es una flavoproteína principalmente conocida por su actividad pro-apoptótica, aunque también presenta actividad NAD(P)H óxido-reductasa gracias a su cofactor FAD. Se piensa que ambas funciones podrían estar relacionadas. En este proyecto principalmente se ha caracterizado la función óxido-reductasa de la forma humana apoptótica de AIF (hAIFΔ1-102) mediante el estudio de los residuos W483, F310, P173 y H454, pertenecientes al centro activo, y E413, R422 y R430, vinculados a la dimerización. Para ello se ha reemplazado dichos residuos y se ha estudiado el proceso de transferencia de hidruro de las proteínas mutantes. También se ha estudiado la reactividad de hAIFΔ1-102 reducida con sustratos de tipo quinona, siendo ésta muy baja, así como la afinidad de unión entre hAIFΔ1-102 oxidada y NAD+, la cual no se ha detectado. También se ha logrado la expresión y optimización de las condiciones de cultivo de la forma mitocondrial hAIFΔ1-54 y la forma truncada hAIFΔ1-340. Con respecto al estudio de los mutantes, los residuos P173 y H454 son claves en la unión del FAD y en la estabilización del complejo de transferencia de carga, mientras que el residuo F310, además de estar implicado en la estabilización del cofactor, también participa en alguna de las etapas del mecanismo de transferencia de hidruro. Los residuos E413, R422A y R430, que participan en la dimerización, también alteran la velocidad de transferencia de hidruro y la unión del cofactor, por lo que la dimerización también podría regular la actividad óxido-reductasa de la proteína. En conclusión, tanto los residuos del centro activo como los que intervienen en la dimerización son esenciales para la actividad óxido-reductasa, ya que su sustitución altera el proceso de transferencia de hidruro y la unión entre la proteína y el coenzima.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8910</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Bioquímica y Biología Molecular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8910/files/TAZ-TFM-2012-745.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>aif</dc:subject>
+    <dc:subject>flavinas</dc:subject>
+    <dc:subject>flavoproteínas</dc:subject>
+    <dc:subject>Máster Universitario en Biología Molecular y Celular</dc:subject>
+    <dc:title>Caracterización de la función redox del factor de inducción de apoptosis humano (hAIF)</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

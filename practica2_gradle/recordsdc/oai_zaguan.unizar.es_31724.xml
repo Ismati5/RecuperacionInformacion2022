@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Martínez Pérez, Conchita</dc:contributor>
+    <dc:creator>Alegre Martínez, Raúl</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>La teoría combinatoria de grupos estudia presentaciones de grupos, que describen un grupo en términos de generadores y relaciones. Estas presentaciones plantean ciertas preguntas asociadas a los llamados los problemas de decisión, los cuáles encuentran aplicaciones en criptografía. De forma paralela se introduce la relación entre grupos y objetos geométricos. En particular, nos centramos en la acción de un grupo sobre los llamados grafos de Cayley. Esta correspondencia nos permitirá establecer caracterizaciones sobre la estructura algebrica de un grupo en términos estrictamente geométricos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31724</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Matemáticas; Área de Algebra</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31724/files/TAZ-TFG-2015-1855.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Matemáticas</dc:subject>
+    <dc:title>Teoría de grupos. Problemas de decisión y aplicaciones en criptografía.</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

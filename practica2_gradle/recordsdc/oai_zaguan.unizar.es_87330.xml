@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gracia Villa, Luis</dc:contributor>
+    <dc:creator>Milián Fuentes, José Manuel</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>El objeto de este Trabajo Fin de Grado es el de diseñar y analizar estructuralmente una pasarela peatonal de tablero suspendido y piso de forjado colaborante. &lt;br /&gt;Las pasarelas peatonales son un elemento cada vez más común en nuestras ciudades y vías de comunicación, pero la gran mayoría de ellas poseen un diseño más funcional que arquitectónico. Por ello, al diseñar esta pasarela se ha tenido en cuenta otorgarle un valor añadido a su diseño. El diseño de la pasarela es un homenaje a un arte tan presente e importante en Aragón como es el arte mudéjar, colocando en la parte central de la misma una estrella mudéjar. &lt;br /&gt;En cuanto al cálculo estructural, se han dimensionado los diferentes perfiles metálicos de la estructura para que soportaran las tensiones y las deformaciones máximas calculadas con los parámetros e indicaciones que aparecen en el Código Técnico. &lt;br /&gt;Una vez se consiguió la estructura definitiva, se analizó su comportamiento en relación a un incremento de temperatura, en relación a su estabilidad y a como le afectan los diferentes modos de vibración. &lt;br /&gt;Los programas informáticos utilizados han sido SolidWorks para el diseño y DLUBAL RFEM para el cálculo estructural y los análisis de temperatura, estabilidad y vibración. &lt;br /&gt;Una vez analizados todos los resultados, se han realizado los planos de la pasarela. &lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87330</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87330/files/TAZ-TFG-2019-4517_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/87330/files/TAZ-TFG-2019-4517.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Diseño y análisis estructural de una pasarela peatonal de tablero suspendido y piso de forjado colaborante</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Design and structural analysis of pedestrian footbridge of suspended board and floor of forged collaborating</dc:title>
+</oai_dc:dc>

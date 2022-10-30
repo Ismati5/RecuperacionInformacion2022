@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Beltrán Blázquez, José Ramón</dc:contributor>
+    <dc:creator>Hernández Oliván, Carlos</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Las Redes Neuronales son una herramienta muy potente para clasificar, procesar y generar nuevos datos. Con respecto a la música, estas redes se han utilizado para componer nuevas melodías, armonizar temas, etc., pero solo unas pocas investigaciones han tenido en cuenta la importancia del análisis musical. En este proyecto se han desarrollado dos modelos de Redes Neuronales que identifican las transiciones de las diferentes partes de la estructura de las piezas musicales y las diferencias entre las transiciones para etiquetarlas. Para ello, se ha realizado un etiquetado de las partes de la estructura formal de piezas musicales a través de una red neuronal y se han detectado las transiciones en la estructura musical a través de técnicas de aprendizaje profundo y aprendizaje automático con Pytorch. Los resultados obtenidos son similares al estado del arte de este trabajo que se ha tomado como ejemplo para desarrollar este software.&lt;br /&gt;Este proyecto consta de un primer capítulo de introducción, el segundo capítulo explica las características de la teoría de las Redes Neuronales que se han utilizado en este proyecto, el tercer capítulo expone el caso del etiquetado de estructuras, el cuarto capítulo estudia el caso de detección de transiciones y el quinto capítulo compara los resultados obtenidos con el estado del arte. El sexto capítulo expone las conclusiones y las líneas futuras.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87191</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87191/files/TAZ-TFM-2019-1287.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Industrial</dc:subject>
+    <dc:title>Análisis musical mediante inteligencia artificial</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Musical analysis through artificial intelligence</dc:title>
+</oai_dc:dc>

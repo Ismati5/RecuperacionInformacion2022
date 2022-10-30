@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Laguna Bercero, Miguel Ángel</dc:contributor>
+    <dc:contributor>Peña Torre, José Ignacio</dc:contributor>
+    <dc:creator>Embid Perisé, David</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El proyecto “Fabricación y caracterización de celdas para una pila SOFC soportada en el electrolito mediante la técnica de screen-printing” se ha realizado en el departamento de “Ciencia y Tecnología de Materiales y Fluidos” de la Escuela de Ingeniería y Arquitectura de la Universidad de Zaragoza. 	El trabajo realizado que se expone a continuación, describe las tareas realizadas con objeto de fabricar una pila de combustible tipo SOFC a partir de un sustrato electrolítico comercial optimizando las composiciones que forman las suspensiones cerámicas con las que se fabricarán el ánodo y cátodo de dicha pila de combustible mediante la técnica de screen-printing. 	Se realizó una exhaustiva búsqueda de información bibliográfica para verificar la idoneidad del presente estudio, y a la vista de lo investigado hasta hoy, se decidió que era necesario el desarrollo del mismo por la importancia que en estos últimos años está teniendo el desarrollo de nuevas formas de generación de energía (limpias) más eficientes.  	Se trabajó en primer lugar en la optimización de las pastas anódicas y catódicas con diferentes composiciones (por tanto, diferentes viscosidades, parámetro que determina la idoneidad del método de aplicación). Para ello, una vez caracterizadas las pastas mediante análisis reológicos, se fabricaron los ánodos y cátodos y se sometieron a un análisis microscópico. 	Una vez seleccionadas las pastas óptimas se procedió a la fabricación de dos celdas completas, es decir: electrolito, electrodos (ánodo y cátodo) y colector de carga; para posteriormente proceder al montaje de la pila de combustible completa. 	Se realizaron una serie de análisis electroquímicos (OCV, espectroscopia de impedancias, curva de polarización y cronoamperometría) para caracterizar el comportamiento de la pila de combustible en su totalidad.  	Se finalizó el trabajo con un nuevo estudio de microscopía para determinar las causas de algunos de los resultados no esperados y una comparativa de los resultados similares descritos en la bibliografía. 	Entre las conclusiones extraídas, destaca el hecho de resultar viable la aplicación de esta técnica, screen-printing, para fabricar celdas con electrodos de espesor muy delgado y homogéneo de forma rápida y fácilmente reproducible.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/11051</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Ciencia de los Materiales e Ingeniería Metalúrgica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/11051/files/TAZ-TFM-2013-205.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>pila sofc</dc:subject>
+    <dc:subject>screen-printing</dc:subject>
+    <dc:subject>ysz</dc:subject>
+    <dc:subject>nio-ysz</dc:subject>
+    <dc:subject>lsm-ysz </dc:subject>
+    <dc:subject>soportada en electrolito</dc:subject>
+    <dc:subject>Máster Universitario en Energías Renovables y Eficiencia Energética</dc:subject>
+    <dc:title>Fabricación y caracterización de celdas para una pila SOFC soportada en el electrolito mediante la técnica de screen-printing</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

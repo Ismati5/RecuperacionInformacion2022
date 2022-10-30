@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Esteban Escaño, Luis Mariano</dc:contributor>
+    <dc:creator>Salgado Losada, Ricardo</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Se desarrolla un programa de optimización logística en almacenes para la mejora del proceso de picking unidad en el centro logístico Decathlon CAC Zaragoza mediante un software de simulación de procesos. Con este programa se quiere llegar a dos objetivos fundamentales. El primero que sirva para un uso del día a día donde se puedan asignar recursos por horas y así poder llegar tanto a la facturación esperada de cada día como a la expedición de la mercancía. El segundo que esta herramienta sirva para estudios más potentes donde con conocimientos de ingeniería usando dicho programa, se puedan tomar decisiones sobre el proceso industrial simulado. Para la realización del programa se realizó un estudio de tiempos y se testeó el programa en los ordenadores de la empresa, haciendo comparativas de las simulaciones realizadas con los resultados finales de cada día, de esta forma se intentó estabilizar el programa para que resolviera eficazmente los escenarios más comunes que afectan al proceso. Una vez que el programa se estabilizó se realizó un cuadro de mando sencillo de usar para que día a día se pudieran tomar decisiones en el sector. Por último con los datos de las simulaciones, se decide realizar un estudio de tiempos usando teoría de colas para reducir los tiempos de espera en los procesos de tipo “control” y “centralizado”, siendo los procesos que más retrasos acumulaban a los pedidos. Viendo que con la unión de dichos procesos a través de una modificación del Layout se mejoraba tanto en la finalización de la actividad en el día a día, reduciendo cuellos de botella, se mejoraba en la calidad de los pedidos, pudiendo controlar más pedidos y reduciendo así la re facturación de artículos por parte de las tiendas por artículos mal enviados y por último una mejora sustancial en la seguridad de la zona y del sector hacia los operarios reduciendo el tránsito de máquinas y peatones en una misma zona.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/62648</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/62648/files/TAZ-TFG-2017-2162.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Organización Industrial</dc:subject>
+    <dc:title>Optimización de un Picking artículo mediante simulación dinámica</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Optimizing a Picking Article by Dynamic Simulation</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Garrido Marín, Ángel Luis</dc:contributor>
+    <dc:contributor>Rincón Borobia, Javier</dc:contributor>
+    <dc:creator>Sanz Blasco, Cristofer</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>El mundo de las actividades de montaña siempre ha sido considerado como un terreno lleno de peligros más allá del esfuerzo físico que exige. Mucha gente no se atreve a practicarlo y lo dejan a deportistas y expertos acostumbrados a tratar con ello. El actual Proyecto Fin de Carrera se desarrolla en este ámbito, el de las actividades al aire libre. Lo hace en colaboración con SSUMMON, una comunidad de actividades en el medio natural. Consta de dos partes: una centrada en la investigación de un sistema experto y otra en el desarrollo de un proyecto software. La primera parte trata de atajar el problema de la falta de seguridad y el desconocimiento de la gente que carece de experiencia en estas actividades. Su objetivo es investigar la posibilidad de utilizar un sistema de recomendación en el entorno de las actividades al aire libre. Este tipo de sistemas han sido explotados en otros contextos como el \textit{comercio online} y el ocio literario, ofreciendo resultados satisfactorios. En esta parte se presenta \textbf{SiRAM} (Sistema de Recomendación para Actividades de Montaña), un sistema de recomendación diseñado en base a las necesidades de SSUMMON y a los datos de que dispone. Como paso previo a ello, se introducen esta clase de sistemas, sus funciones, aplicaciones y técnicas. Finalmente, se realizan experimentos sobre la herramienta diseñada para probar su efectividad.  En la segunda parte se construye \textbf{myssummon}, una aplicación de escritorio multiplataforma para gestionar las actividades de montaña. Su funcionalidad es doble: servir como sistema alternativo al utilizado hasta ahora por \mbox{SSUMMON} (una aplicación web) y apoyar en la realización de los experimentos sobre \mbox{SiRAM}. El desarrollo involucra las fases de análisis del contexto, de los requisitos, diseño del sistema e implementación de una versión de demostración, siguiendo un ciclo de vida iterativo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/37137</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/37137/files/TAZ-PFC-2015-328.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>SiRAM: Un sistema automático de recomendación para las actividades de montaña</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

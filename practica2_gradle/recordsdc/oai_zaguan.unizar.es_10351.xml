@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Romeo Giménez, Luis Miguel</dc:contributor>
+    <dc:creator>Pueyo Casabón, Eloy</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Como parte de las estrategias en la lucha contra el cambio climático y el reto que supone para la industria siderúrgica mejorar la eficiencia energética en la producción de acero y por tanto en la reducción de emisiones de CO2, se ha propuesto la integración de una planta siderúrgica con un sistema de captura de CO2 y una central de potencia. El objetivo de este TFM ha sido el desarrollo de una simulación de una industria siderúrgica, a nivel energético como másico. Seguidamente de un estudio de viabilidad de integración con una central de potencia para finalmente estudiar la integración con el sistema de captura de CO2. Para el estudio de la integración de los diferentes componentes se han simulado los balances de masa y de energía de la industria siderúrgica, atendiendo al comportamiento de cada componente interno según las mejores tecnologías disponibles actualmente. Todo ello seguido de un estudio del potencial inherente a la industria siderúrgica para una auto-captura de CO2. A la vista de los resultados obtenidos, el autor y director se decantan por la elección de un sistema CCS de solvente químico con aminas. De esta manera la integración energética y de captura permite la reducción de las emisiones de CO2 del orden del 90% con una producción eléctrica adecuada al régimen de funcionamiento de la planta siderúrgica. Para la producción eléctrica se ha escogido un ciclo combinado con turbina de gas en cabecera que aprovecha los gases energéticos de la siderurgia, con un ciclo de vapor en cola con una extracción de vapor para el sistema CCS. El sistema CCS es un ciclo de aminas de configuración básica (absorbedor-regenerador) con compresión de CO2. Por último se ha realizado un análisis económico así como de sensibilidad. Para ello se ha introducido el concepto de ‘emisiones evitadas’ estudiando las emisiones en cada una de las plantas por separado antes y después de la integración del sistema CCS. Los resultados preliminares son los suficientemente óptimos como para seguir investigando en este sector del campo de CCS.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10351</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10351/files/TAZ-TFM-2013-156.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>captura de co2</dc:subject>
+    <dc:subject>ccs</dc:subject>
+    <dc:subject>siderurgia</dc:subject>
+    <dc:subject>ciclo de potencia</dc:subject>
+    <dc:subject>absorción química</dc:subject>
+    <dc:subject>oxicombustión</dc:subject>
+    <dc:subject>Máster Universitario en Energías Renovables y Eficiencia Energética</dc:subject>
+    <dc:title>Estudio de funcionamiento de la integración de una planta siderúrgica con una central de potencia y un sistema de captura de CO2</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

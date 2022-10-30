@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<csw:Record xmlns:csw="http://www.opengis.net/cat/csw/2.0.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ows="http://www.opengis.net/ows" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:language>es</dc:language>
+  <dc:identifier>20-IDE-GV-1</dc:identifier>
+  <dc:contributor>Cartografía realizada por el Servici d'Informació i Divulgació Territorial perteneciente a la antigua Conselleria d´Obres Públiques, Urbanisme i Transport.</dc:contributor>
+  <dc:description>Hoja 519 perteneciente a la serie cartográfica a escala 1:50.000 de la Comunidad Valenciana en formato digital vectorial (DXF y COBERTURAS de PC ARCINFO), realizada por la antigua Conselleria d´Obres Públiques, Urbanisme i Transport.</dc:description>
+  <dc:format>ARCC</dc:format>
+  <dc:format>DXF</dc:format>
+  <dc:language>es</dc:language>
+  <dc:subject>imageryBaseMapsEarthCover</dc:subject>
+  <dc:title>Hoja 519 de la Cartografía básica a escala 1:50.000 de la Comunidad Valenciana</dc:title>
+  <dcterms:accessRights>restricted</dcterms:accessRights>
+  <dcterms:issued>1990-07-01</dcterms:issued>
+  <ows:BoundingBox>
+    <ows:LowerCorner>-0.52551 40.67566</ows:LowerCorner>
+    <ows:UpperCorner>-0.17957 40.82674</ows:UpperCorner>
+  </ows:BoundingBox>
+</csw:Record>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bernués, Julio</dc:contributor>
+    <dc:creator>Bielsa López, Julia</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>En la primera parte del trabajo se prueba la paradoja de Banach Tarski, que afirma que podemos tomar una esfera, partirla en 5 trozos y desplazarlos mediante las isometrías del espacio de manera que se formen dos nuevas esferas del tamaño de la inicial. En la segunda parte, nos planteamos si el problema es posible en el plano. La respuesta es negativa pero surge el problema de congruencia entre polígonos, es decir, si un polígono puede partirse en trozos y moverlos como si se tratara de las piezas de un tangram para formar otro polígono distinto. La respuesta es que esto siempre es posible y la demostración se incluye en el trabajo. Finalmente, daremos una breve explicación de los conjuntos no medibles, ya que se trata de las piezas en las que partimos la esfera para que esto sea posible.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/65206</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Matemáticas; Área de Análisis Matemático</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/65206/files/TAZ-TFG-2017-1876.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Matemáticas</dc:subject>
+    <dc:title>La paradoja de Banach Tarski</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">The Banach-Tarski paradox</dc:title>
+</oai_dc:dc>

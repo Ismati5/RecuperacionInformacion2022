@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sanz Vicente, María Isabel</dc:contributor>
+    <dc:creator>Rivero Trullén, Irina</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Las aminas biógenas son compuestos nitrogenados de bajo peso molecular derivados de los aminoácidos que se encuentran presentes en productos naturales que han sufrido una degradación. Las aminas biógenas más comunes son: cadaverina, putrescina, histamina, tiramina, 2-feniletilamina y triptamina. Estos compuestos son producidos por la actividad biológica de bacterias y microorganismos y son de vital importancia para diversos procesos biológicos, como por ejemplo su uso como neurotransmisores. La histamina es la más conocida debido a su efecto tóxico que provoca intoxicaciones alimenticias. Por ello, es necesario llevar un control para prevenir las intoxicaciones y para asegurar la frescura de los alimentos. Existen muchos métodos de determinación para las aminas como las basadas en la fluorescencia o la más utilizada: HPLC (high performance liquid chromatography). Pero algo importante a destacar son los altos costos y periodos de tiempo que conllevan estas técnicas. El principal objetivo de este trabajo es desarrollar un nuevo método para la determinación de aminas biógenas a través del uso de tiras reactivas con el AmplexRed (AR) como colorante. Este nuevo método pretende ahorrar dinero y tiempo a la industria y laboratorios. El método utiliza el subproducto de la reacción de la diamino oxidasa (DAO) con las aminas, los peróxidos, para oxidar el colorante AR a resorrufina, reacción en la cual interviene la enzima peroxidasa de rábano picante (HRP). El espectro de absorción del AR cambia a lo largo de la reacción enzimática haciendo posible la medida de la señal inicial y final y permitiendo obtener una recta de calibrado posteriormente con los resultados.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/65163</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Analítica; Área de Química Analítica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/65163/files/TAZ-TFG-2017-2074.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Química</dc:subject>
+    <dc:title>Aminas biogénicas: Estudio de nuevos colorantes para su determinación enzimática</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Biogenic amines: study of new dyes to the enzymatic determination</dc:title>
+</oai_dc:dc>

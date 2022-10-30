@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Alba López, Juan José</dc:contributor>
+    <dc:creator>Bericat Mercadie, Yannick</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>En este proyecto se ha estudiado mediante una herramienta informática de simulación de accidentes una colisión en particular, una colisión a 90 grados en la cual uno de los vehículos no posee velocidad mientras que el otro circula a 50 Km/h. El programa nos permite variar parámetros relacionados con la colisión como la velocidad, el ángulo de ataque, el coeficiente de restitución, el coeficiente de fricción, el plano de contacto y el punto de impacto. Muchos de estos parámetros son difíciles de conocer en un caso real y una pequeña variación en uno de ellos puede darnos resultados totalmente distintos. Principalmente en este estudio se realizan simulaciones partiendo del caso base y variando cada uno de los parámetros por separado para observar el resultado, observaremos la posición final, el ángulo de rotación y el ángulo de salida de cada uno de los vehículos implicados en el accidente. Finalmente con los resultados obtenidos se realizarán simulaciones con los casos extremos, es decir mayor ángulo de rotación y mayor ángulo de salida tanto para el vehículo 1 como para el vehículo 2. Con todo esto podremos saber cómo se comporta cada uno de los vehículos al variar los valores que el programa nos permite modificar en este tipo de colisión. Sin embargo esto no quiere decir que los resultados se puedan aplicar a todo tipo de colisiones.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5129</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería e Infraestructura de los Transportes</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5129/files/TAZ-PFC-2010-200.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Automóvil</dc:subject>
+    <dc:subject>Colisión</dc:subject>
+    <dc:subject>Simulación de accidentes</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Análisis de sensibilidad angular en colisiones de 90º</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Muñoz Rodríguez, Mariano</dc:contributor>
+    <dc:creator>Villén Domingo, Raúl</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>El trabajo tiene como fin dar con las condiciones de automantenimiento de una turbina de gas y aplicarlo a una turbina de gas real. Las distintas pruebas realizadas se han llevado a cabo sobre una instalación docente de una turbina de gas que existe en el laboratorio de motores de la universidad de Zaragoza. Lo primero que se ha realizado para llevar a cabo este trabajo es el estudio del comportamiento y la forma de trabajo de las turbomáquinas. Concretamente se estudia con más detenimiento las turbinas de gas, dado que son las máquinas sobre las que se centra el estudio del automantenimiento. Ello conlleva conocer los principales parámetros que las gobiernan y las magnitudes usadas para caracterizar cada uno de sus componentes, por ello, se ha hecho hincapié en los números adimensionales y las curvas características de la turbina y compresor que forman la turbina de gas. Posteriormente y para dar con el objetivo del automantenimiento, se ha realizado una revisión bibliográfica en la cual se estudian diversos textos de los cuales se extraen diferentes ideas que ayudarán a conseguirlo. De este modo, se han desarrollado dos métodos teóricos para conseguir el automantenimiento de la turbina de gas, los cuales tienen consideraciones de partida y formas de trabajo diferentes. Tras desarrollar y aplicar dichos métodos con los datos de la turbina de gas usada, se extraen diferentes resultados y conclusiones a resaltar de cada uno de ellos así como una comparación entre ambos. Por último, se han realizado diferentes pruebas en frío que han permitido comprobar el correcto funcionamiento de esta, a la vez que recoger cierta información útil para el posterior desarrollo de la turbina de gas como instalación docente.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/47458</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/47458/files/TAZ-TFG-2015-3216.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Estudio de las condiciones de automantenimiento de las turbinas de gas. Aplicación del estudio a una instalación docente</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

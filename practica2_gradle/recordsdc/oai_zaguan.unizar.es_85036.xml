@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Cortés Gracia, Cristóbal</dc:contributor>
+    <dc:creator>Ramírez Sánchez, Andrés</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Tras una breve introducción en el capítulo 1 sobre el contexto, objetivos y alcance de este proyecto el lector podrá encontrar el contenido de este proyecto dividido en cuatro partes:&lt;br /&gt;A lo largo del capítulo 2 se describe cualitativamente y se comenta fundamentos básicos sobre los procesos de fundición junto con todos los componentes y utillajes más importantes y básicos en fundiciones de aluminio. Asimismo, se profundizará levemente en el proceso de calentamiento del molde (tema esencial para el desarrollo de este proyecto), los parámetros más importantes durante el calentamiento y la metodología a seguir para poder analizar cuantitativamente los parámetros comentados previamente.&lt;br /&gt; &lt;br /&gt;Una vez desarrollada la metodología de análisis, en el capítulo 3 se aplica el planteamiento propuesto en el capítulo anterior y se desarrolla más ampliamente todos los cálculos y resultados, a fin de conocer valores de eficiencia y calor transmitido entre otros. Finalmente, tras tener una estimación de los valores más representativos del proceso de calentamiento, se propondrán 3 alternativas distintas con respecto a la actual.&lt;br /&gt;Finalmente, a lo largo del capítulo 4 se concluye desarrollando dos partes: por un lado, las conclusiones obtenidas del análisis realizado en el capítulo anterior y posibles mejoras que se pueden realizar a la hora de implementar un cálculo más preciso con respecto del realizado. Por otro lado, se realiza un pequeña discusión comparativa entre los 3 métodos y el actual, concluyendo al final con el método alternativo más adecuado.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/85036</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/85036/files/TAZ-TFG-2019-3399.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/85036/files/TAZ-TFG-2019-3399_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Alternativas para el calentamiento de moldes en procesos de fundición por gravedad en aleaciones de aluminio-silicio</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Alternatives for mould heating in gravity die-casting processes for aluminum-silicon alloys</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Marco Cuenca, Gonzalo</dc:contributor>
+    <dc:creator>Bertos Quesada, Mª Ángeles</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>La implementación de un gobierno abierto por parte de las Administraciones Públicas ha fomentado el suministro de datos públicos tanto a nivel internacional como nacional. La apertura de estos datos ayuda a los ciudadanos, no solo a entender mejor las acciones que los gobiernos llevan a cabo en el desempeño de sus funciones, sino a realizar un seguimiento más exhaustivo de los mismos en el tiempo. Estos datos abiertos, cobran especial importancia si una vez publicados, son reutilizados para crear valor (ofrecer un beneficio a la sociedad) y fomentar la transparencia de las administraciones. Para que esto ocurra, es necesario que existan herramientas que faciliten su acceso; los portales de datos abiertos son los mecanismos que ponen a disposición de los usuarios estos datos y facilitan su acceso. El objetivo de este trabajo es analizar el nivel de apertura de datos de las comunidades autónomas España a través de sus portales de datos abiertos, centrando el análisis en el estado actual de publicación de datos abiertos en materia de salud.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87878</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87878/files/TAZ-TFM-2019-1262.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Consultoría de Información y Comunicación Digital</dc:subject>
+    <dc:title>Análisis de iniciativas open data en España. Un estudio sobre la apertura de datos sanitarios en portales autonómicos.</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Analysis of open data initiatives in Spain. A study on the openness of health data in regional portals.</dc:title>
+</oai_dc:dc>

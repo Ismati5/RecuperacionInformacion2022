@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bobillo Ortega, Fernando</dc:contributor>
+    <dc:creator>Bolsa Marquina, Miguel</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Las ontologías se han convertido en un estándar para la representación del conocimiento en muchas aplicaciones del mundo real. En la práctica, es muy frecuente encontrar varias ontologías que tratan de modelar el mismo dominio de aplicación o, al menos, existe un solapamiento entre la información representada. En estos casos es generalmente necesaria una fase de integración de información que permita reconciliar ambas visiones del mundo. Una aproximación para resolver este problema consiste en alinear ambas ontologías, buscando relaciones semánticas entre ambas.&lt;br /&gt;Típicamente, es habitual buscar relaciones de sinonimia (dos términos con el mismo significado) o hiponimia (un término con un significado más general que otro). Sin embargo, la mayoríaa de las propuestas existentes (con alguna excepción) se restringen a una de las dos: por ejemplo, un indicio de que dos términos son sinónimos es que tienen los mismos padres y los mismos hijos, pero los sistemas existentes se limitan a las relaciones de hiponimia conocidas (las de la ontología original).&lt;br /&gt;Este trabajo aborda ambos tipos de relaciones de forma simultánea utilizando algoritmos de aprendizaje automático y muestra las relaciones encontradas en una aplicación Android.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/85283</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/85283/files/TAZ-TFG-2019-2470.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>Sistema inteligente para el descubrimiento de relaciones de sinonimia e hiponimia en ontologías</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">An intelligent system for the discovery of synonymy and hyponymy relationships across ontologies</dc:title>
+</oai_dc:dc>

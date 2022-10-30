@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gopar, Víctor</dc:contributor>
+    <dc:creator>Arricibita Yoldi, Íñigo</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>En este trabajo se realiza un estudio teórico del transporte de electrones en nanohilos desordenados. Partimos desde las bases de la mecánica cuántica para ilustrar los conceptos clave que sustentan este estudio (canal, matriz de scattering y fórmula de Landauer). La motivación por los sistemas desordenados surge de las impurezas e imperfecciones que aparecen en los sólidos: las teorías convencionales consideran sólidos cristalinos y periódicos, pero la realidad experimental prueba que estos tienen impurezas que provocan dispersiones múltiples en el transporte de electrones, provocando grandes fluctuaciones en la medida de la conductancia eléctrica. Se presenta así una descripción estadística de estos sistemas a través de la cual desarrollamos nuestra teoría del transporte de electrones en nanohilos multicanal con desorden tipo Lévy. Tras el éxito de esta teoría en nanohilos de un sólo canal, en este trabajo se presenta la generalización al caso multicanal, cuyos resultados se muestran por primera vez y resultan de una gran efectividad para describir el fenómeno de la localización anómala.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31654</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Teórica; Área de Física Teórica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31654/files/TAZ-TFM-2015-380_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/31654/files/TAZ-TFM-2015-380.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Física y Tecnologías Físicas</dc:subject>
+    <dc:title>Transporte de electrones en hilos cuánticos con desorden tipo Lévy</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

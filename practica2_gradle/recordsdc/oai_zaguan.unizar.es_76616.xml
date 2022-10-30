@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bernal Agustín, José Luis</dc:contributor>
+    <dc:creator>Forcada Ortiz, María</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>El objetivo del trabajo es estudiar la viabilidad del incremento de la generación renovable, en concreto la energía solar y eólica, en distintos puntos de Andalucía. Para ello, se realiza un modelo simplificado de la red de Andalucía a partir de datos de consumo y generación de los nudos y líneas para un día determinado de la red andaluza. A continuación, se lleva a cabo la simulación de dicho modelo de red a través del programa PowerWorld; y se va incrementando la generación en varios puntos y se comprueba el funcionamiento de dicha red. Por último, se obtienen conclusiones sobre como afecta dicho aumento de generación en la red de Andalucía.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76616</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76616/files/TAZ-TFG-2018-3524_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/76616/files/TAZ-TFG-2018-3524.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Simulación de la red de transporte de Andalucía al aumentar la generación renovable</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Simulation of the transmission grid of Andalusia increasing renewable generation</dc:title>
+</oai_dc:dc>

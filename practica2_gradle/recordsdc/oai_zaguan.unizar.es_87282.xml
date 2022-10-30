@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sanz Osorio, José Francisco</dc:contributor>
+    <dc:creator>Cabrera Abad, Sergio</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>En la actualidad existe una preocupación por la contaminación en las ciudades cada vez más grande. La mayor parte de esta contaminación proviene de la circulación de vehículos. Es por ello que es necesario un cambio hacia un modelo eléctrico que la disminuya y se empiece desde el transporte urbano. En el presente proyecto se tiene como objetivo realizar un análisis comparativo técnico y económico de la línea 2 del tranvía planteada en Zaragoza frente a la sustitución de autobuses de combustión por autobuses eléctricos.&lt;br /&gt;Para ello, se ha investigado sobre la historia del tranvía y su funcionamiento, el funcionamiento del autobús eléctrico, los métodos de carga disponibles, así como su normativa y el estado del arte de las baterías&lt;br /&gt;Se han estudiado las fuerzas que necesita vencer un motor para su movimiento y con ello se ha realizado un modelo en Matlab/Simulink para simular un vehículo eléctrico. Con este modelo se han calculado las necesidades energéticas del tranvía y el autobús. Para ello se ha montado en el tranvía y en un autobús para tomar datos de velocidades, tiempos y alturas con una aplicación móvil que se han usado para el modelo.&lt;br /&gt;Con los datos de energía de autobús y tranvía se ha hecho un cálculo económico para ambos sistemas. Para el autobús se han considerado tres casos diferenciados: la carga durante la noche en cocheras, una carga de oportunidad al final del trayecto y dos cargas de oportunidad al inicio y final del trayecto.&lt;br /&gt;Por último, se han comparado los costes de cada uno y se ha estudiado su viabilidad.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87282</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87282/files/TAZ-TFG-2019-4671.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Análisis comparativo de la línea 2 del tranvía en Zaragoza frente al uso de autobuses eléctricos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Comparative analysis of line 2 of the Zaragoza tramway versus the use of the electric buses</dc:title>
+</oai_dc:dc>

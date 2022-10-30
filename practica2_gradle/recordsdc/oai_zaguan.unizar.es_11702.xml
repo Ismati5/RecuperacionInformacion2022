@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Calsamiglia Blancafort, Sergio</dc:contributor>
+    <dc:creator>Ibidhi,Ridha</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>ABSTRACT Greenhouse gas (GHG) emissions and their potential effect on the environment has become an important national and international issue. Dairy and beef production, along with all other types of animal agriculture, are recognized sources of GHG emissions, but little information exists on the net emissions from dairy and beef farms. Component models for predicting all important sources of CH4, N2O, and CO2 from primary and secondary sources in dairy production were integrated in a software tool called the Integrate Farm System Model (IFSM). This tool calculates the carbon footprint of dairy and beef production as the net exchange of all GHG in CO2 equivalent units per unit of energy-corrected milk (ECM) produced or kg body weight (BW). The IFSM and Cornell Net Carbohydrate and Protein System (CNCPS) were used during this study to evaluate typical Spanish dairy farms for GHG emissions calculation and diet evaluation for methane production, respectively. The Three most important regions of dairy cattle production in Spain were selected Mediterranean (Catalonia, Valencia and Murcia), Cantabric Area (Galicia, Asturias and Cantabria) and Central zone (Castilla-La Mancha, Castilla-Leon, Madrid and Aragon), in addition to two other farms (one organic and one from Baleares Island). The average carbon footprint of all evaluated farms was 0.83 kg of CO2 equivalent units/ kg of ECM. Mediterranean farms have the highest Carbon footprint (average 0.98 kg CO2e/kg of ECM), while Cental Zone was 0.84 and the lowest was in Cantabric farms which (0.67). Two extreme farms were selected the first one had the  highest carbon footprint and non-enteric methane (197MA), while the second had the lowest carbon footprint and the highest enteric methane (64CA), the first one was simulated by the IFSM model using different management change scenarios, while the second was simulated with CNCPS model using different dietary change strategies. We found that the management change reduced methane emission up to 30% while dietary change reduced it up to 5%. Three representative feedlot beef Spanish farms (two farms without corn silage; one Holstein and another mixed breed, and the third with corn silage) were used to simulate GHG emissions using the same models. The carbon footprint values ranged from 6.38 to 7.03 kg with an average value of 6.86 CO2e per kg BW. The feedlot farm with corn silage had an average carbon footprint value of 6.98 Kg CO2e/ Kg BW while without corn silage was 6.90 Kg CO2e/ Kg BW. It was concluded that both the Spanish dairy and beef sector has a lower carbon footprint and the management strategies provide a greater potential to reduce methane emissions as compared with dietary scenarios changes.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/11702</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Producción Animal y Ciencia de los Alimentos; Área de Producción Animal</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/11702/files/TAZ-TFM-2013-612.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>greenhouse gas</dc:subject>
+    <dc:subject>carbon footprint</dc:subject>
+    <dc:subject>farm</dc:subject>
+    <dc:subject>methane</dc:subject>
+    <dc:subject>ifsm</dc:subject>
+    <dc:subject>cncps</dc:subject>
+    <dc:subject>Máster Universitario en Nutrición Animal</dc:subject>
+    <dc:title>Modeling Greenhouse Gas Emissions from Spanish Dairy and Beef farms: Mitigation Strategies</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

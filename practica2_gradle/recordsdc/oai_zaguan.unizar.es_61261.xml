@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Tamás, Szabó</dc:contributor>
+    <dc:contributor>Kakuk, József</dc:contributor>
+    <dc:contributor>Civera Sancho, Javier</dc:contributor>
+    <dc:creator>Barrero Caballero, Daniel</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>El principal objetivo es el desarrollo del ensayo de resistencia automatizado de la herramienta que el departamento de Bosch en Miskolc (Hungría) está desarrollando.  Para ello, se debe implementar un nuevo escenario para almacenar y transportar las ramas que servirán para testear la herramienta (podadora eléctrica), así como posicionar e interpretar los sensores necesarios que permitan monitorizar  el test mediante el uso de un PLC Rexroth. Varios datos del test tienen que ser almacenados e interpretados para decidir si el test de la herramienta es satisfactorio o no. El enfoque del proyecto es diseñar un escenario y un equipamiento adecuado para ser capaces de calcular la vida útil de la herramienta, para saber si es apta para la venta o no. Las herramientas que tenemos para ello son diversos sensores cuya función sea permitir llevar a cavo el test,sensores orientados a almacenar datos para comprobar que la herramienta sigue en las condiciones óptimas para continuar el proceso, actuadores para simular un uso humano de la herramienta y  un controlador lógico programable (PLC) Rexroth. Cronograma (fases del trabajo a realizar): 1) Introducción. 2) Examinar el mercado actual de las podadoras eléctricas.  3) Describir las principales partes de la podadora eléctrica así como sus funciones.  4) Decidir las características y parámetros que serán medidos durante el test y el modo en que serán medidos.  5) Recopilar los requerimientos de decisión de comportamiento adecuado/inadecuado de la herramienta y definir los límites de dichos criterios.  6) Crear una propuesta de diseño para el alimentador de ramas.  7) Recolectar la información de los sensores necesaria.  8) Escribir el programa del PLC para el equipamiento del test, teniendo en cuenta los posibles fallos en el mismo. 9) Resumen y Lineas Futuras. 10) Bibliografía.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61261</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61261/files/TAZ-TFG-2016-2170.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Electrónica y Automática</dc:subject>
+    <dc:title>Diseño y programación del equipamiento del ensayo de resistencia de una podadora eléctrica</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Design and programming of endurance testing equipment for a powered secateur</dc:title>
+</oai_dc:dc>

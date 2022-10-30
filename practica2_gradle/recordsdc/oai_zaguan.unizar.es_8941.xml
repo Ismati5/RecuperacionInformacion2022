@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sánchez Navarro, José Ángel </dc:contributor>
+    <dc:contributor>Pérez García, Antonio</dc:contributor>
+    <dc:creator>García Gil, Alejandro</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Se ha realizado una actualización hidrogeológica de los acuíferos carbonatados de las Tierras de Agreda  (Soria) y se ha establecido un modelo conceptual de relación de estos acuíferos con el macizo del Moncayo. El modelo conceptual ha sido corroborado por un modelo matemático de flujo subterráneo (código TRANSIN) que ha identificado los sistemas de flujo, los parámetros hidrogeológicos de los acuíferos (método inverso) y ha cuantificado un balance hídrico consistente de las recargas y descargas medidas en los principales manantiales. El modelo matemático de flujo ha permitido confirmar la procedencia de las aguas de los manantiales de Vozmediano y de Agreda del macizo del Moncayo; mientras que las descargas de agua en la cuenca del río Añamaza, tienen preferentemente su origen dentro de su misma cuenca.  El programa TRANSIN resulta especialmente útil para simular diferentes escenarios temporales que podrían ser de interés para justificar registros sedimentarios observados en cauces y manantiales de la zona.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8941</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencias de la Tierra; Área de Geodinámica Externa</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8941/files/TAZ-TFM-2012-759.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>estudio hidrogeológico</dc:subject>
+    <dc:subject>karst </dc:subject>
+    <dc:subject>moncayo</dc:subject>
+    <dc:subject>ágreda</dc:subject>
+    <dc:subject>añavieja</dc:subject>
+    <dc:subject>Máster Universitario en Iniciación a la Investigación en Geología</dc:subject>
+    <dc:title>Estudio hidrogeológico e hidroquímico del drenaje subterráneo del Macizo del Moncayo en las tierras de Agreda (Soria)</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

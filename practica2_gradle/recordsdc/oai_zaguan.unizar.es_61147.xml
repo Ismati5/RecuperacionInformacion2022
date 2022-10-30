@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bayod López, Javier</dc:contributor>
+    <dc:creator>Calvo Gil, Carlos</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>El presente trabajo fin de grado trata de investigar la técnica más adecuada para llevar a cabo la operación quirúrgica que da solución a la patología del dedo en garra mediante la implantación de un implante Ni-Ti. Para encontrar la técnica más exitosa se plantearon inicialmente cinco técnicas quirúrgicas diferentes que fueron simuladas. Las diferencias entre las técnicas se basan en transferir o anular los músculos flexores largos o cortos de los dedos del pie. Además cada modelo se simuló dos veces con dos prototipos distintos de implantes; uno de ellos posee una forma recta y el otro angulada siguiendo la estructura del dedo del pie. Primero se construyeron los modelos en tres dimensiones en el programa I-DEAS, partiendo inicialmente de un modelo ya creado con el implante colocado. Posteriormente, se introdujeron las condiciones de contorno que afectan a cada uno de los modelos propuestos en un principio. Con los modelos ya completados, el siguiente paso es lanzar a calcular y visualizar los resultados en el programa Abaqus. Para finalizar, una vez rescatados los resultados, se elaboraron tablas comparativas entre las técnicas planteadas y los resultados del pie patológico sin intervenir quirúrgicamente. A través de las tablas comparativas pudimos obtener varias conclusiones. Las más destacadas son que el implante angulado consigue peores resultados en comparación con el implante recto al tener una mayor concentración de tensiones y que la técnica que daría un mejor resultado para el paciente sería eliminar el músculo flexor corto de los dedos del pie sin transferir a ningún otro punto, aunque no llegaría a ser un modelo óptimo debido a que las tensiones originadas en las falanges siguen siendo altas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61147</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61147/files/TAZ-TFG-2016-3621.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Respuesta biomecánica a cinco tipos de cirugía para aliviar el dedo en garra mediante implantes de NiTi</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Biomechanics response to five different types of surgery to relieve the claw toe deformity by mean of NiTi implants</dc:title>
+</oai_dc:dc>

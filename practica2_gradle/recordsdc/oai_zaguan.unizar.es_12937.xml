@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Guallar Paracuellos, Jesús</dc:contributor>
+    <dc:creator>Gimeno Erburu, Asier</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El proyecto estudia el funcionamiento de los sistemas de refrigeración absorción-difusión DAR de Electrolux. Para el estudio de esto ciclos me he basado en estudios experimentales realizados por el equipo A. Zohar, M. Jelinek, A. Levy, I. Borde y el equipo Adnan Sözen, Tayfun Manlik, Engin Özbas. Estos sistemas de refrigeración son similares a los sistemas de refrigeración por absorción, pero en este caso se elimina la bomba que funciona con energía eléctrica y se instala una bomba burbujeante que necesita un aporte de calor para funcionar.  En estos sistemas la presión total es igual en todo el sistema. Para variar la presión parcial del refrigerante a lo largo del sistema con el objetivo de que condense a media temperatura y que evapore a baja temperatura, lo que se hace es introducir un gas inerte. En el evaporador, en el cual el refrigerante se debe evaporar a baja temperatura el gas inerte se encuentra en altas proporciones y esto hace que la presión parcial del refrigerante sea baja y se evapore. En cambio en el condensador que queremos que el refrigerante condense a temperatura media, no hay gas inerte por lo que toda la presión es para el refrigerante. Las mezclas utilizadas son amoniaco(refrigerante)-agua(absorbente)-hidrógeno(gas inerte) y amoniaco(refrigerante)-agua(absorbente)-helio(gas inerte). En el proyecto se explicará el funcionamiento de este tipo de sistemas de refrigeración, los principales componentes con sus puntos de temperatura y presión característicos y se realizará una simulación con el EES (balances de materia y energía) emulando los estudios realizados por lo equipos mencionados anteriormente y comparando los resultados obtenidos con el EES con los experimentales. En el apartado final se aplicarán unos colectores solares como fuente de energía para el sistema. Los principales objetivos en la realización de este proyecto son los siguientes: - Explicación del funcionamiento de un sistema de refrigeración por absorción-difusión. - Descripción de los principales componentes de un sistema de refrigeración por absorción-difusión. - Características de los fluidos de un sistema de refrigeración por absorción-difusión. - Diferencias, así como pros y contras de un sistema de refrigeración por absorción-difusión frente a uno de compresión de vapor y de absorción por compresión de vapor. - Simulación con el EES de un sistema de refrigeración por absorción-difusión con diferentes configuraciones, en base a varios estudios experimentales. - Aplicación de colectores solares al sistema de refrigeración por absorción-difusión como fuente de energía.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12937</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12937/files/TAZ-PFC-2013-698.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>absorción</dc:subject>
+    <dc:subject>difusión</dc:subject>
+    <dc:subject>dar</dc:subject>
+    <dc:subject>ees</dc:subject>
+    <dc:subject>placas solares</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Simulación de un sistema de refrigeración por absorción/difusión (DAR)</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

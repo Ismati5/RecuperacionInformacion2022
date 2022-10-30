@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<csw:Record xmlns:csw="http://www.opengis.net/cat/csw/2.0.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ows="http://www.opengis.net/ows" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:language>es</dc:language>
+  <dc:identifier>09-bcn2000</dc:identifier>
+  <dc:creator>Instituto Geográfico Nacional (España)</dc:creator>
+  <dc:description>Base Cartográfica Numérica que contiene la siguiente información estructurada en los siguientes temas geográficos: Tema 01: límites provinciales Tema 03: hidrografía Tema 05: nucleos de población Tema 06: comunicaciones (carreteras y ferrocariles) En general, los nombres de los objetos están introducidos como textos</dc:description>
+  <dc:format>DGN - Microstation format (Intergraph Corporation)</dc:format>
+  <dc:language>eu</dc:language>
+  <dc:language>ca</dc:language>
+  <dc:language>gl</dc:language>
+  <dc:language>es</dc:language>
+  <dc:publisher>Centro Nacional de Información Geográfica (España)</dc:publisher>
+  <dc:subject>GEOGRAFIA HUMANA.GEOGRAFIA POLITICA.GEOGRAFIA DE LA ADMINISTRACION.LIMITES TERRITORIALES.LIMITES ADMINISTRATIVOS</dc:subject>
+  <dc:subject>GEOGRAFIA FISICA.HIDROLOGIA.HIDROLOGIA FLUVIAL.REDES HIDROGRAFICAS.RIOS</dc:subject>
+  <dc:subject>GEOGRAFIA HUMANA.GEOGRAFIA DE LAS COMUNICACIONES.GEOGRAFIA DEL TRANSPORTE.TRANSPORTE TERRESTRE.TRANSPORTE POR CARRETERA.CARRETERAS</dc:subject>
+  <dc:subject>GEOGRAFIA HUMANA.GEOGRAFIA URBANA.CIUDADES.ASENTAMIENTOS</dc:subject>
+  <dc:subject>GEOGRAFIA HUMANA.GEOGRAFIA DE LAS COMUNICACIONES.GEOGRAFIA DEL TRANSPORTE.TRANSPORTE.VIAS DE COMUNICACION</dc:subject>
+  <dc:title>Base Cartográfica Numérica 1:2.000.000</dc:title>
+  <dc:type>dataset</dc:type>
+  <dcterms:accessRights>license</dcterms:accessRights>
+  <dcterms:issued>1996-12-31</dcterms:issued>
+  <dcterms:spatial>ESPAÑA</dcterms:spatial>
+</csw:Record>

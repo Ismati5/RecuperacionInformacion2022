@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Gracia, Miguel</dc:contributor>
+    <dc:creator>El Halabi, Nabil</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>En este trabajo de investigación se desarrollan dos propuestas para la localización de faltas en redes de distribución eléctrica. En la primera propuesta se ha implementado un esquema adaptativo para compensar los errores producidos por la resistencia de falta y las condiciones de potencia en condiciones de prefalta. Para ello, se ha deducido un factor de corrección que se aplica a la impedancia aparente estimada por las protecciones de distancia. El factor de corrección aplicado se ha determinado a partir del salto de fase en la corriente detectada una vez que ocurra la falta. El procedimiento consiste en deducir la relación entre el salto de fase de corriente y el error en la impedancia aparente estimada por el algoritmo de distancia. Los resultados de las simulaciones realizadas en comparación con los algoritmos convencionales de distancia DFFT y DEA reflejan la mejora en la localización de la falta en redes de distribución no ramificada, sin embargo, su desempeño es limitado al ser implementado en redes de distribución ramificados. La segunda propuesta plantea un localizador de faltas basado en la respuesta a pulso por parte de la red de distribución. El localizador de faltas propuesto captura continuamente la respuesta del sistema eléctrico ante un pulso eléctrico para establecer una imagen base del estado de la red sin falta. Una vez detectada la falta, el algoritmo realiza un análisis comparativo entre la imagen base y la respuesta durante la falta. De la señal de error obtenida entre ambas ondas se determina la distancia a la cual ha ocurrido dicha falta.  Esta técnica requiere de una frecuencia de muestreo de 100 kHz con una precisión alcanzada de 400 m en la ubicación de la falta.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5083</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5083/files/TAZ-TFM-2010-058_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5083/files/TAZ-TFM-2010-058.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>localización de faltas</dc:subject>
+    <dc:subject>algoritmos de distancia</dc:subject>
+    <dc:subject>esquemas adaptativos de protección</dc:subject>
+    <dc:subject>respuesta del sistema eléctrico al pulso</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Localización de faltas en redes inteligentes de distribución eléctrica</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

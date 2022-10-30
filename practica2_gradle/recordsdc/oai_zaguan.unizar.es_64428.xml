@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Nerín de la Puerta, Cristina</dc:contributor>
+    <dc:contributor>Domeño Recalde, Celia</dc:contributor>
+    <dc:creator>Mendiara Negredo, Isabel</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>La determinación de esteroles en matrices biológicas supone un reto analítico importante ya que son compuestos que se encuentran a baja concentración respecto al colesterol tanto en los tejidos como en los fluidos estudiados (hígado, suero y plasma, respectivamente); lo que siempre va a suponer una interferencia en el análisis. Por otro lado, estos analitos son compuestos poco volátiles, por lo que tradicionalmente han sido determinados mediante cromatografía de gases. Esto suponía alargar el proceso de tratamiento de muestra para transformarlos en sus formas volátiles. Con la introducción de la cromatografía de líquidos acoplada a espectrometría de masas se abrió la posibilidad de analizar estos compuestos en su forma nativa, lo que facilitó el análisis y el tratamiento de muestra. El objetivo de esta Tesis fue desarrollar métodos rápidos y automatizados utilizando la cromatografía de líquidos acoplada a la espectrometría de masas, para determinar esteroles en matrices biológicas (hígado, suero y plasma) con el fin de profundizar en el estudio de enfermedades relacionadas con las alteraciones del metabolismo del colesterol. Para ello, se estudiaron alternativas a la reacción de hidrólisis alcalina (frecuentemente llevada a cabo en el tratamiento de muestra para la determinación de esteroles) realizándola con la asistencia de los ultrasonidos. También se desarrolló un método alternativo a la hidrólisis alcalina realizando una hidrólisis enzimática utilizando diversas esterasas. Posteriormente, se desarrolló un sistema online de tratamiento de muestra; automatizando así el proceso de limpieza previo a la introducción en el cromatógrafo gracias a la integración del cartucho de extracción en fase sólida en el mismo sistema cromatográfico. Por último, se buscaron nuevos compuestos marcadores de enfermedades relacionadas con el metabolismo del colesterol gracias al empleo de un cromatógrafo de líquidos acoplado a un espectrómetro de masas con analizador tiempo de vuelo. Para todos los métodos desarrollados se determinaron sus características analíticas comprobando su adecuación para determinar este tipo de analitos en muestras biológicas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64428</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Analítica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64428/files/Tesis.pdf</dc:relation>
+    <dc:subject>Química analítica</dc:subject>
+    <dc:subject>Espectroscopio de masas</dc:subject>
+    <dc:subject>Análisis cromatográfico</dc:subject>
+    <dc:subject>Análisis bioquímico</dc:subject>
+    <dc:title>Desarrollo de métodos analíticos para el análisis de precursores de colesterol, fitoesteroles e hidroxiesteroles de interés biológico en el estudio del metabolismo del colesterol</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Fernández Navajas, Julián</dc:contributor>
+    <dc:contributor>Ruiz Más, José</dc:contributor>
+    <dc:creator>Aznar Baranda, José Ignacio</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El desarrollo de nuevas tecnologías de red y servicios cada vez más personalizados, conlleva una serie de requerimientos que hacen que el sobre-dimensionamiento de recursos de red no sea la mejor solución en situaciones de congestión o falta de recursos. Una posible alternativa, consiste en realizar una adecuada gestión de los parámetros de calidad de servicio (Quality of Service, QoS) a través de una estimación de los mismos y una posterior actuación en función del estado de la red y de las necesidades particulares de cada servicio. Uno de los parámetros de mayor relevancia es el ancho de banda disponible (Available Bandwidth, ABW). Si bien existen otros parámetros (e.g. retardo extremo a extremo, tasa de pérdidas) así mismo importantes, el ABW es fundamental especialmente en el actual panorama de servicios multimedia, los cuales precisan mayor eficiencia y flexibilidad en su provisión. Las técnicas de estimación de ABW constituyen una herramienta fundamental en la gestión de recursos en tiempo real, en el control de flujo y control de congestión, o también en la detección de errores de red y técnicas de control de admisión. Sin embargo, las técnicas de estimación de ABW presentan cierto escepticismo sobre la idoneidad de las mismas en la obtención de medidas en términos de precisión, escalabilidad e intrusividad en el sistema, especialmente en redes con enlaces de alta capacidad. El TFM “Estimación extremo a extremo de ancho de banda disponible para redes de alta capacidad: implementación y evaluación de herramientas” plantea en un entorno de simulación, la implementación de una herramienta de estimación de ABW, activa, extremo a extremo y que permita al estado de congestión de la red, manteniendo un compromiso entre la precisión, la intrusividad y la complejidad de las estimaciones. El TFM se desarrolla en el marco del proyecto RUBENS [EU-3187 CP5-020]en el que el Grupo de Tecnologías de las Comunicaciones (GTC) de la Universidad de Zaragoza, es partícipe de diversas tareas, entre ellas, la propuesta de una herramienta de estimación de ABW extremo a extremo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4896</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingenieria Telematica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4896/files/TAZ-TFM-2010-011.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/4896/files/TAZ-TFM-2010-011_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>ABW</dc:subject>
+    <dc:subject>Esstimación ancho de banda</dc:subject>
+    <dc:subject>Simulación</dc:subject>
+    <dc:subject>OPNET </dc:subject>
+    <dc:subject>End to End</dc:subject>
+    <dc:subject>Máster Universitario en Tecnología de la Información y Comunicaciones en Redes Móviles</dc:subject>
+    <dc:title>Estimación extremo a extremo de ancho de banda disponible para redes de alta capacidad: implementación y evaluación de herramientas</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Valkealahti, Seppo</dc:contributor>
+    <dc:contributor>Domínguez Navarro, José Antonio</dc:contributor>
+    <dc:creator>Torres Lobera, Diego</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>Los módulos fotovoltaicos (FV) están compuestos por células conectadas, normalmente, en serie que transforman la energía solar (directa y difusa) en energía eléctrica. Varios factores afectan a la potencia generada por estos dispositivos, como la temperatura de operación, la radiación solar incidente y la distribución espectral de la misma. Si bien, el resto de variables atmosféricas que influyen sobre la temperatura de los módulos, como la temperatura ambiente, humedad relativa y velocidad y dirección del viento, deben ser asimismo estudiadas. En este Proyecto Fin de Carrera se ha diseñado un sistema state-of-the-art de medición de las condiciones atmosféricas y de operación de la planta de generación solar fotovoltaica de la TUT. El sistema está compuesto por una estación meteorológica automática de precisión, en paralelo con una extensa malla de sensores, de radiación solar y de temperatura de los módulos, localizados a lo largo de toda la instalación fotovoltaica. En primer lugar, se han estudiado los instrumentos de medición necesarios, junto con diferentes arquitecturas de sistema para realizar la adquisición de datos con el fin de comprender las técnicas de medición y las posibles soluciones para el problema. Por otro lado, ha sido necesario realizar un estudio de mercado para seleccionar los sensores y dispositivos que más se ajustasen al sistema deseado. Por otra parte, en este PFC se ha implementado un modelo térmico de los módulos fotovoltaicos en MatlabTM Simulink para analizar la influencia de las variables meteorológicas sobre las condiciones de operación y el rendimiento de los módulos y strings FV. Las simulaciones muestran una clara dependencia de la temperatura de operación sobre la temperatura ambiente, velocidad del viento y condiciones de irradiancia. Con respecto a la potencia generada y a la eficiencia de los strings, incrementos en la temperatura ambiente y velocidad del viento provocan un efecto negativo y positivo respectivamente. Las medidas de temperatura de los módulos e irradiancia recibida por éstos muestran la aparición de un retraso entre ambas curvas debido a la inercia térmica de los módulos. Este fenómeno no se ha considerado en el modelo térmico, el cual aproxima la temperatura de operación en estado estacionario, por lo que se producen errores entre las medidas y las simulaciones de temperatura de los módulos, al igual que en el caso del rendimiento de los strings fotovoltaicos. Si bien, los resultados obtenidos confirman el correcto comportamiento del modelo térmico y los sistemas de medida utilizados. Este Proyecto Fin de Carrera se ha realizado en el Department of Electrical Energy Engineering de la Tampere University of Technology y su supervisor principal ha sido el Prof. Seppo Valkealahti.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5344</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5344/files/TAZ-PFC-2010-337.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5344/files/TAZ-PFC-2010-337_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Energía solar fotovoltaica</dc:subject>
+    <dc:subject>Generación eléctrica</dc:subject>
+    <dc:subject>Sistemas de medida</dc:subject>
+    <dc:subject>Medidas atmosféricas</dc:subject>
+    <dc:subject>Medidas de condiciones de operación en módulos fotovoltaicos</dc:subject>
+    <dc:subject>Rendimiento de módulos fotovoltaicos</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Measuring actual operating conditions of a photovoltaic power generator</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

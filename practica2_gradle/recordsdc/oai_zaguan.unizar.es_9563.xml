@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Dietz, Armin</dc:contributor>
+    <dc:contributor>Graß, Norbert</dc:contributor>
+    <dc:contributor>Artal Sévil, Jesús Sergio</dc:contributor>
+    <dc:creator>Puertollano Ventura, Luis Alfonso</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Die Arbeit wurde in Rahmen des europeischen StudentenAustauschprogramms ERASMUS am Institut ELSYS durchgeführt. Es geht um die Programmierung und Steuerung des Motors eines bereits vorhandenen Elektrofahrzeugs (E-Buggy). Für das Fahrzeug braucht man verschiedene Komponenten, wie einen Umrichter der von einem Mikrocontroller gesteuert und geregelt wird, andere Leistungselektronik Elemente, sowie ein kleines Batteriemanagement.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9563</dc:identifier>
+    <dc:language>ger</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9563/files/TAZ-PFC-2012-684.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>pi regler</dc:subject>
+    <dc:subject>regulador</dc:subject>
+    <dc:subject>regulación</dc:subject>
+    <dc:subject>coche eléctrico</dc:subject>
+    <dc:subject>pwm</dc:subject>
+    <dc:subject>anti-windup</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electricidad)</dc:subject>
+    <dc:title>PI-Regler mit Anti-Windup für eine feldorientierte Motorregelung für ein Elektrofahrzeug</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

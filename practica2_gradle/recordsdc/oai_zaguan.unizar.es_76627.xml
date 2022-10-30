@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Martín del Brío, Bonifacio</dc:contributor>
+    <dc:creator>Pastor Flores, Pablo</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>Este proyecto propone la creación de una red de sensores inalámbricos distribuidos orientados a aplicaciones domóticas, capaces de recolectar variables térmicas y ambientales. El fin de esta red es capturar datos que ayuden a mejorar los sistemas de climatización de las viviendas actuales, contribuyendo al ahorro energético y al confort. Tras el estudio del campo de la tecnología que abarca este tipo de aplicaciones (Internet de las Cosas) y de las soluciones de control térmico actuales, se ha diseñado una arquitectura IoT específica para este problema y se han implementado prototipos funcionales. Un microprocesador de bajo consumo que comanda los sensores necesarios, se comunica mediante WIFI con un servidor central, el cual almacena y administra la información recibida. Asimismo, se ha implementado una interfaz para que el usuario pueda monitorizar la red de sensores en tiempo real y acceder a los datos recogidos para su uso en otras aplicaciones. Si bien estos datos tienen un uso potencial en el control térmico de viviendas, la red de sensores diseñada podría ser fácilmente redimensionada y adaptada para operar en otro tipo de entornos, como ciudades inteligentes o control de procesos industriales.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76627</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76627/files/TAZ-TFG-2018-3495_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/76627/files/TAZ-TFG-2018-3495.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Electrónica y Automática</dc:subject>
+    <dc:title>Desarrollo de una plataforma domótica mediante el uso de nodos IoT</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Developing a domotic platform through the use of IoT nodes</dc:title>
+</oai_dc:dc>

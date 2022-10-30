@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Romeo Tello, Antonio</dc:contributor>
+    <dc:creator>Pérez Rubio, José Javier</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>RESUMEN DEL PFC El objetivo que se pretende con este Proyecto es la elaboración de un completo constructor de entornos virtuales para la explotación y simulación de escenarios robóticos industriales con capacidad multirobot. Se partirá de la versión mono-robot de RobotScene con el fin de transformarla en una versión multi-robot. Los requisitos de diseño de la nueva aplicación serán:   Una ventana de programación por cada uno de los tres robots. Estas ventanas deberán ejecutarse independientemente, afectando cada una sólo a su correspondiente robot.   La aplicación deberá permitir la ejecución de tareas en las que intervengan varios robots en el mismo escenario de forma simultánea.   Los robots serán capaces de comunicarse mediante la emulación de un cableado de E/S. La implementación de los requisitos anteriores se consigue mediante →	Creación y gestión de ventanas de programación mediante la producción de una instancia de ventana por cada robot →	Consecución de la concurrencia de robots mediante la creación de varios hilos de ejecución. →	Comunicación entre robots a través de una ventana de cableado En la práctica, llevar a cabo y conseguir todo lo anterior ha supuesto:   La modificación de la interfaz de usuario de la versión mono-robot   La modificación del escenario robótico, de manera que sea capaz de soportar la ejecución de varios scripts robóticos de manera simultánea.   La creación de una ventana de cableado interactiva que permita la gestión de la comunicación entre robots</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8786</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8786/files/TAZ-PFC-2012-526_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/8786/files/TAZ-PFC-2012-526.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>robótica</dc:subject>
+    <dc:subject>simulador</dc:subject>
+    <dc:subject>simulación </dc:subject>
+    <dc:subject>robots industriales</dc:subject>
+    <dc:subject>software</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electrónica Industrial)</dc:subject>
+    <dc:title>Simulador de escenarios robóticos con capacidad multirobot</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

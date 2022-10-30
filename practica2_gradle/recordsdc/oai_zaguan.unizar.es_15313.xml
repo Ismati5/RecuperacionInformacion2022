@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ferreira González, Vicente</dc:contributor>
+    <dc:creator>Herrero Martín, Javier</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Los aldehídos y cetonas son los grupos de moléculas con mayor diversidad sensorial en el vino. La degradación oxidativa asociada a estos compuestos conlleva una rápida pérdida de las cualidades aromáticas del vino y la formación de otros aromas que se asocian al vino  deteriorado, por lo que se puede afirmar que la vida útil de un vino termina cuando el aroma de ciertos carbonilos predomina sobre el resto. El análisis de estos compuestos presenta un desafío, ya que son moléculas muy volátiles y reactivas, capaces de formar fuertes interacciones con otras moléculas, entre las que destaca el SO2. Por eso es importante determinar las concentraciones de los compuestos libres y ligados de forma simultánea utilizando surrogados, moléculas cuyo comportamiento es muy similar al de los analitos, mediante un método de HS-SPME-GC-MS. Para que las estimaciones sean correctas, se deben conocer de forma precisa las concentraciones de los surrogados. 	 Por ello se ha llevado a cabo el estudio de la estabilidad de los compuestos carbonílicos (analitos y surrogados) y estándares internos presentes en las disoluciones utilizadas en este método, ya que nos consta que pueden degradarse a pesar de todas las precauciones tomadas en su conservación y manejo. Para ello se preparó una disolución con los compuestos de interés y se siguió su evolución durante 75 días, con un total de 32 mediciones. A partir de los datos obtenidos se representó la concentración de los mismos en relación con la inicial para conocer la tendencia que seguían. Se realizó un estudio estadístico de los compuestos carbonílicos y se consiguió clasificarlos en grupos según su tiempo de estabilidad. 	Con los datos que se obtuvieron se propone modificar las dos disoluciones de trabajo habituales y dividir cada una de ellas en cuatro grupos atendiendo a los distintos tiempos de estabilidad de los compuestos (1 semana, 2 semanas,1 mes, 2 meses).</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/15313</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Analítica; Área de Química Analítica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/15313/files/TAZ-TFG-2014-1046_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/15313/files/TAZ-TFG-2014-1046.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>aldehídos</dc:subject>
+    <dc:subject>oxidación</dc:subject>
+    <dc:subject>cromatografía de gases</dc:subject>
+    <dc:subject>Graduado en Química</dc:subject>
+    <dc:title>Protocolización del análisis de aldehídos de oxidación en vinos españoles y su relación con diversos parámetros composicionales y de almacenamiento</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

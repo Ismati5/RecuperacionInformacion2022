@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Cogolludo Agustín, José Ignacio</dc:contributor>
+    <dc:contributor>Martín Morales, Jorge</dc:contributor>
+    <dc:creator>Agudo Carnicer, Almudena</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>En este trabajo, propondremos una alternativa a los métodos criptográficos existentes puesto que la inminente llegada de los ordenadores cuánticos nos hace buscar nuevos algoritmos. Para ello con la utilización de las bases de Groebner describiremos los sistemas de Polly-Cracker y el Inverso Polinomico y veremos por medio de un análisis de datos que el criptosistema de Polly-Cracker es difícil de romper.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64245</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Matemáticas; Área de Geometría y Topología</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64245/files/TAZ-TFG-2017-2171.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Matemáticas</dc:subject>
+    <dc:title>Bases de Groebner y aplicaciones a sistemas criptográficos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Groebner Bases and applications to cryptographic systems</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Pascau Benito, Antonio</dc:contributor>
+    <dc:creator>Sierra Luño, Alejandro</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>En este proyecto se desarrolla un modelo matemático para la transmisión de contaminantes por el aire, se implementa su utilización en la simulación computacional de casos en zonas urbanas mediante el software OpenFOAM, y se realiza una serie de simulaciones que determinan la validez y la utilidad del modelo numérico.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31557</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31557/files/TAZ-PFC-2014-606.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>simulación</dc:subject>
+    <dc:subject>computacional</dc:subject>
+    <dc:subject>dispersión</dc:subject>
+    <dc:subject>contaminantes</dc:subject>
+    <dc:subject>área urbana</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Análisis computacional de la dispersión de contaminantes en medios urbanos</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

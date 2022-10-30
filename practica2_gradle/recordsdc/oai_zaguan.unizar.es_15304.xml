@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bastero, Jesús</dc:contributor>
+    <dc:contributor>Galé, José E.</dc:contributor>
+    <dc:contributor>Miana, Pedro J.</dc:contributor>
+    <dc:creator>Loiszli, Iuliana Alexandra</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El teorema espectral es de gran importancia en la teoría de operadores acotados sobre espacios de Hilbert. El propósito de este trabajo es proporcionar una descripción espectral completa de la estructura de los operadores normales. El contenido de este trabajo se divide en tres partes: En el primer capítulo (Álgebras de Banach) el objetivo es dar definiciones, propiedades y teoremas clásicos de la teoría de Gelfand de las álgebras de Banach conmutativas que son necesarios para la teoría espectral que se presenta después.El segundo capítulo está dedicado a la teoría espectral de operadores normales acotados que mediante el cálculo funcional relacionado con la teoría de las C*-álgebras presentada en el primer capítulo, nos llevará a varios enfoques del teorema espectral. Se discutirán algunas propiedades de los operadores normales acotados, incluyendo la representación espectral de los mismos. El último capítulo, empieza con algunas propiedades de los operadores normales que son consecuencias inmediatas del teorema espectral. Después se presentan algunas aplicaciones para operadores normales compactos, como por ejemplo, la alternativa de Fredholm para la resolución de ecuaciones.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/15304</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Matemáticas; Área de Análisis Matemático</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/15304/files/TAZ-TFG-2014-1040.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Matemáticas</dc:subject>
+    <dc:title>El teorema espectral de operadores normales acotados</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

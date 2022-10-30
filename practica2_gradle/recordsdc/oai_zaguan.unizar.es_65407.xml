@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Puértolas Marcén, Alfonso</dc:contributor>
+    <dc:creator>Castán Gabarre, Raúl</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El objetivo de este proyecto era desarrollar una aplicación en Android que servirá de interfaz de un software de prevención de accidentes. Esta aplicación utilizara la realidad aumentada para mostrar los resultados de las simulaciones sobre el terreno analizado. El software simulador utilizado calcula los posibles accidentes en circuitos de motociclismo, mostrando un mapa del mismo con las trayectorias de escape más probables de vehículos y pilotos, basados en datos del terreno y de los recorridos realizados en cada circuito. La aplicación a desarrollar debe partir de estas trayectorias, en forma de coordenadas, para proyectarlas sobre el circuito. Permitiendo ver en el propio terreno los datos clave del informe de seguridad creado por el simulador, como los lugares más probables de accidente y detalles de las posibles colisiones con las protecciones o paredes.	 Así pues, los objetivos más importantes a cubrir por la aplicación son: Mediante realidad aumentada, mostrar en el circuito las trayectorias detalladas de los accidentes simulados. Mostrar las colisiones con las barreras y protecciones del circuito, junto con la velocidad estimada de impacto. Permitir añadir y eliminar protecciones al circuito, actualizando las colisiones si es necesario. Para desarrollar esta aplicación se requiere examinar las herramientas de desarrollo de aplicaciones con realidad aumentada existentes, buscar una que cumpla con los requisitos de la aplicación (Geolocalización,  compatibilidad con cualquier dispositivo Android y suficiente libertad como para cumplir los requisitos).</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/65407</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de CC. de la Computación e Inteligencia Artificial</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/65407/files/TAZ-TFG-2017-1705.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>Aplicación de realidad aumentada por geolocalización para visualizar trayectorias y colocar obstáculos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">geolocation Augmented reality app to visualize trajectories and create obstacles</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Montuenga Gómez, Victor Manuel</dc:contributor>
+    <dc:creator>Toha Ridruejo, María</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>A pesar de la progresiva incorporación de las mujeres al mercado laboral, existen diferencias salariales entre hombres y mujeres. El objetivo principal de este trabajo es analizar la brecha salarial a lo largo de la distribución a través del método de regresiones cuantílicas, en 4 grupos principales que se han clasificado según su naturaleza y ocupación Además, realizaremos la descomposición de la brecha salarial a través del método Blinder-Oaxaca, con el objetivo de ver la proporción de la brecha que queda explicada por las características observables incluidas en el modelo, y la proporción inexplicada, que puede deberse tanto a factores de discriminación como a la no inclusión de variables no incluidas en la especificación. Nuestro objetivo principal con la descomposición, no solo es observar aumentos/disminuciones en la parte explicada e inexplicada con la introducción de nuevas variables, sino también analizar qué variables son las que presentan un mayor poder explicativo al describir la brecha explicada.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/63858</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Estructura e Historia Económicas y Economía Pública; Área de Métodos Cuantitativos para la Economíay la Empresa</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/63858/files/TAZ-TFG-2017-4002.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Administración y Dirección de Empresas</dc:subject>
+    <dc:title>The Gender Wage Gap in 2014: Analysis through Quantiles Regression Methods and Blinder-Oaxaca Decomposition</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">The Gender Wage Gap in 2014: Analysis through Quantiles Regression Methods and Blinder-Oaxaca Decomposition</dc:title>
+</oai_dc:dc>

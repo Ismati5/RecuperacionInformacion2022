@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bailón Luesma, Raquel</dc:contributor>
+    <dc:creator>Hernando Jumilla, David</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>La hemodiálisis es el principal tratamiento de la uremia debida a una insuficiencia renal. Durante la hemodiálisis, el paciente sufre frecuentemente hipotensiones sintomáticas, seguidas de náuseas, vómitos y, en ocasiones, síncope. La hipotensión es una de las principales complicaciones de los pacientes de hemodiálisis, no sólo por la incomodidad del paciente y la pérdida de eficacia del tratamiento debido a las interrupciones, sino que ha sido demostrado que también incrementa la mortalidad de los pacientes que las sufren. Se busca por tanto desarrollar métodos para poder predecir y evitar estos episodios, en especial usando técnicas no invasivas que nos permitan además identificar a los pacientes con propensión a sufrir hipotensiones. Una de las hipótesis respecto al origen de dichas hipotensiones es una alteración en la regulación cardiovascular del sistema nervioso autónomo. La variabilidad del ritmo cardiaco es una de las principales medidas no invasivas que se usa para medir la actividad de dicho sistema, que puede completarse con medidas obtenidas a partir de la variabilidad de la presión sanguínea, por ejemplo, la sensibilidad barorrefleja. Se han obtenido diversos índices clínicos obtenidos a partir de la variabilidad del ritmo cardiaco, la variabilidad de la presión sanguínea, y la sensibilidad barorrefleja, capaces de distinguir entre pacientes propensos y resistentes a sufrir episodios de hipotensión. Como base de datos se han utilizado señales electrocardiográficas (ECG) y de presión sanguínea (BP) registradas simultáneamente durante hemodiálisis en Lund (Suecia) y Copenhague (Dinamarca) que pertenecen a sujetos de los cuales se sabe si son propensos o resistentes a sufrir hipotensiones. Se ha propuesto un clasificador capaz de separar los distintos pacientes en propensos y resistentes, y se ha aplicado una selección de características para mejorar dicha clasificación, obteniendo una precisión (Acc) de 88.4%. Introduciendo la información del estado de diabetes de los pacientes, se ha conseguido mejorar el resultado consiguiendo una sensibilidad (Se) y una especificidad (Sp) de 97.5% y 72.7% respectivamente, y una Acc=92.3%. Este resultado se ha mejorado balanceando las dos clases consiguiendo Se=87.8%, Sp=100% y Acc=93.2%. Por último, se ha estudiado cómo evolucionan dichas características a lo largo del tratamiento de hemodiálisis. Los resultados muestran que los pacientes resistentes presentan características similares a los pacientes propensos a lo largo del tratamiento, siendo más evidente en los casos de pacientes resistentes con episodios de hipotensión.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9150</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9150/files/TAZ-TFM-2012-854_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/9150/files/TAZ-TFM-2012-854.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>autonomic nervous system (ans)</dc:subject>
+    <dc:subject>baroreflex sensitivity (brs)</dc:subject>
+    <dc:subject>blood pressure variability (bpv)</dc:subject>
+    <dc:subject>heart rate variability (hrv)</dc:subject>
+    <dc:subject>hemodialysis</dc:subject>
+    <dc:subject>hypotension</dc:subject>
+    <dc:subject>linear discriminant analysis (lda)</dc:subject>
+    <dc:subject>sequential floating forward selection (sffs)</dc:subject>
+    <dc:subject>Máster Universitario en Ingeniería Biomédica</dc:subject>
+    <dc:title>Estimation of indices derived from electrocardiographic and blood pressure signals for the study of the autonomic regulation during hemodialysis and hypotension episodes prediction</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

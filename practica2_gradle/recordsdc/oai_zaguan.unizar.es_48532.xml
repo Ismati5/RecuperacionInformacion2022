@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Villarroel Salcedo, José Luis</dc:contributor>
+    <dc:contributor>Montano Gella, Luis</dc:contributor>
+    <dc:creator>Luis Marco, Diego</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>Los drones o UAV son unas de las tecnologías más de moda en estos últimos años. El auge de esta tecnología se debe a la reducción de su precio y a las múltiples aplicaciones que se han desarrollado. En este Trabajo Fin de Grado se va a diseñar e implementar un autopiloto para un dron de gama media, el F450. Este autopiloto, además de estabilizar el vuelo, va a tener 2 funcionalidades diferentes: seguimiento de referencias en posición mediante ordenes de un control de navegación y seguimiento de referencias en velocidad dadas por un mando de radiofrecuencia. Lo que se busca es obtener una primera experiencia con multihélices para permitir posteriores desarrollos más complejos. Para conseguir estos objetivos se han realizado simulaciones mediante la herramienta matemática Matlab-Simulink para poder validar los controladores diseñados. Estas simulaciones son vitales para hacernos a la idea de lo complejo que es el sistema y conseguir conocerlo perfectamente antes de empezar a utilizar el quadcopter real. Se analiza el hardware impuesto, como sensores o sistemas de comunicaciones, y se integra para obtener un sistema lo más robusto y completo posible. Ademas se ha realizado un sistema de tiempo real basado en tareas, estando éste implementado sobre el sistema operativo de SYS/BIOS. El procesador utilizado es el F2812 que es un microcontrolador de gama media (150 MHz, 32 bits, arquitectura harvard, CPU en coma fija...). Procesador y sistema operativo así como el entorno de desarrollo utilizado son de Texas Instruments. Se ha implementado el control de velocidad y se han conseguido realizar pequeños vuelos en interior, consiguiendo la estabilización del quadcopter en el aire.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/48532</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/48532/files/TAZ-TFG-2015-3754.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Electrónica y Automática</dc:subject>
+    <dc:title>Desarrollo de un autopiloto de un quadcopter</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

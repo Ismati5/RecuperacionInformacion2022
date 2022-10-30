@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Peña Llorente, José Ángel</dc:contributor>
+    <dc:creator>Plou Gómez, Jorge</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El objetivo de este Trabajo Fin de Máster consiste en la selección del mejor sólido posible para el proceso combinado de reformado seco y “steam-iron”. El reformado seco de metano produce monóxido de carbono e hidrógeno a partir de corrientes equimolares de metano y dióxido de carbono. El proceso “steam-iron” consta de dos pasos: en un primer paso se produce la reducción de un óxido metálico (basado en óxido de hierro) con una corriente de gas reductora (por ejemplo, biogás).  En un segundo paso se obtiene hidrógeno al oxidar el hierro con vapor de agua. El acoplamiento de ambos procesos supone utilizar mezclas de óxido de hierro con catalizadores para la reacción de reformado seco. Para la selección del método de mezcla (mecánica o sintética) del sólido reactivo y el catalizador, se han realizado experimentos de reducción en rampa de temperatura hasta 1100°C con una corriente gaseosa equimolar de metano y dióxido de carbono diluido en gas inerte.  Esta composición puede considerarse representativa de la de un biogás natural. Los resultados han mostrado que el mejor sólido posible es la mezcla mecánica de óxido de níquel y un sólido ternario de composición 98% Fe2O3 / 1,75% Al2O3 / 0,25% CeO2. Su elección se ha basado en que presenta la menor temperatura posible para una reducción completa del sólido. Tras la selección se ha llevado a cabo un estudio con experimentos en régimen isotermo y la misma composición de gases de entrada. La temperatura mínima de reducción ha sido 650°C. Se ha apreciado un comportamiento inusual en el que se deposita un residuo carbonoso sobre la superficie.  Tras un breve periodo de tiempo, éste es gasificado por la propia corriente reactiva. Un seguimiento de la composición de los gases de salida con espectrómetro de masas, ha mostrado que tras una rápida desactivación del catalizador, el CO2 de la corriente de entrada es el que elimina el residuo carbonoso depositado. El papel del hierro durante el proceso es el de desplazar la reacción de reformado seco a favor de la formación de productos, ya que éste, en su forma oxidada, consume parte del CO y H2 durante su reducción. Para la segunda etapa del proceso “steam-iron”, se ha realizado la oxidación con vapor de agua en rampa de temperatura hasta 1000°C. Los resultados obtenidos indican que es necesario trabajar como mínimo a 500°C para producir hidrógeno. El análisis XRD ha mostrado que el carbono depositado consiste en coque amorfo (no existe señal correspondiente al grafítico), y que éste se deposita exclusivamente sobre la superficie del níquel (mediante SEM-EDX).</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6783</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Ingeniería Química</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6783/files/TAZ-TFM-2011-145.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6783/files/TAZ-TFM-2011-145_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>reformado seco</dc:subject>
+    <dc:subject>"steam-iron"</dc:subject>
+    <dc:subject>hidrógeno</dc:subject>
+    <dc:subject>biogás</dc:subject>
+    <dc:subject>hematita</dc:subject>
+    <dc:subject>magnetita</dc:subject>
+    <dc:subject>hierro</dc:subject>
+    <dc:subject>níquel</dc:subject>
+    <dc:subject>óxidos metálicos</dc:subject>
+    <dc:subject>termogravimetría</dc:subject>
+    <dc:subject>Máster Universitario en Iniciación a la Investigación en Ingeniería Química y del Medio Ambiente</dc:subject>
+    <dc:title>Selección de sólidos destinados a la producción de hidrógeno de alta pureza a partir de biogás por combinación de reformado seco y "steam-iron"</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

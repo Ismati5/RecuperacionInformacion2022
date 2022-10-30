@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Saldaña Medina, José María</dc:contributor>
+    <dc:contributor>Fernández Navajas, Julián</dc:contributor>
+    <dc:creator>García Cavero, Andrés</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Este proyecto tiene como objetivo el “Análisis de la eficiencia en túneles LISP con multiplexión y seguridad“, con el propósito de comprobar las técnicas de Calidad de Servicio desarrolladas en el grupo Ceniteq de la Universidad de Zaragoza se ha diseñado un entorno de laboratorio adecuado a las necesidades de los protocolos a testear. Con la aparición de nuevos servicios en Internet y el cambio de los perfiles de tráfico se descubrió la necesidad de garantizar una mínima capacidad a las transmisiones a través de una red Best Effort. Esta nueva necesidad se denominó Calidad de Servicio (QoS). Hoy en día, la Calidad de Servicio es una necesidad para las aplicaciones de tiempo real de los que disfrutamos actualmente en Internet y los dispositivos móviles. Este proyecto se compone, primeramente, del estudio teórico de las técnicas, tecnologías y protocolos utilizados con el objetivo de mejorar la Calidad de Servicio en las comunicaciones mediante el enfoque de la Ingeniería de tráfico. Más adelante se explica y aplica la metodología diseñada para evaluar la eficiencia de la red bajo la influencia de las diferentes técnicas utilizadas. Esta metodología comenzó siendo específica para el PFC “Análisis de la eficiencia en túneles LISP con multiplexión y seguridad”, sin embargo, ha terminado siendo la definición de una propuesta metodológica para el estudio no solamente de las técnicas que atañen a este PFC, sino a cualquier configuración de red. De forma paralela a esta metodología se ha desarrollado una herramienta capaz de ejecutarla de forma desatendida en los dispositivos que conforman la red. Por último, se recogen los resultados y las posibles líneas futuras de investigación a seguir.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64271</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingeniería Telemática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64271/files/TAZ-PFC-2017-087.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/64271/files/TAZ-PFC-2017-087_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero de Telecomunicación</dc:subject>
+    <dc:title>Análisis de la eficiencia en túneles LISP con multiplexión y seguridad</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+    <dc:title xml:lang="en">Study of the efficiency in LISP tunnels with multiplexing and security</dc:title>
+</oai_dc:dc>

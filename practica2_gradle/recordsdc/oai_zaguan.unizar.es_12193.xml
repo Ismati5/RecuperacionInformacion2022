@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Paz Pérez, Lina María</dc:contributor>
+    <dc:creator>Casanaba Benedé, Francisco Javier</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>En muchas aplicaciones de la visión por computador como por ejemplo, la reconstrucción automática de entornos en 3D, se parte del supuesto de la adquisición de imágenes de alta calidad para obtener soluciones de gran precisión. Adicionalmente, una gran variedad de aplicaciones en la robótica usa sensores de visión embebidos en plataformas móviles para llevar a cabo tareas de localización y reconocimiento de lugares. Desafortunadamente, en la mayoría de los casos los sensores de visión usados para estas tareas sufren diferentes efectos que deterioran la calidad de las imágenes, por ejemplo se puede considerar el efecto del blurring en imágenes que ocurre durante la exploración en entornos bajo condiciones de poca iluminación o navegación con plataformas que llevan a cabo movimientos de dinámicas considerables. Entre los problemas mas interesantes a tratar dentro del procesamiento de imágenes, se encuentran los siguientes: 1-Filtrado de ruido (denoising): es el proceso mediante el cual la imagen debe ser recuperada filtrando el ruido al que se encuentra expuesta inicialmente. 2-Deconvolución (deconvolution): es el proceso de corrección de una imagen generalmente mediante técnicas frecuenciales cuando los píxeles se ven afectados por un movimiento brusco creando un efecto de blurring. 3-Escalado (Zooming):  en varias aplicaciones, la adquisición de imágenes se ve limitada al uso de baja resolución debido al ancho de banda de transmisión; el escalado permite interpolar valores de intensidad de píxel para obtener imágenes de alta resolución donde los objetos se pueden apreciar de forma consistente.  4-Restauración de imágenes (inpainting) es un proceso que permite recuperar una parte deteriorada de la imagen o que tiene algún objeto que la oculta, con el objetivo de mejorar su calidad. En este proyecto se ha desarrollado una aplicación que permite tratar los diferentes problemas del procesamiento de imágenes descritos en los puntos 1-4. El algoritmo principal para la solución de los distintos problemas se basa en la formulación de métodos variacionales y de optimización convexa. Son métodos complejos que permiten usar distintas normas robustas de error (incluso no diferenciables) tales como la norma de Huber y la variación total. El algoritmo usado en este proyecto ha sido adaptado a los diferentes problemas bajo una implementación rápida y eficiente a través del cálculo masivo paralelo usando tarjetas gráficas GPU (graphics processing units). Estas características resultan particularmente atractivas para resolver problemas de la visión por computador donde las soluciones en tiempo real juegan un papel importante.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12193</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12193/files/TAZ-PFC-2013-595.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>primal-dual</dc:subject>
+    <dc:subject>denoising</dc:subject>
+    <dc:subject>deconvolution</dc:subject>
+    <dc:subject>zooming</dc:subject>
+    <dc:subject>inpainting</dc:subject>
+    <dc:subject>gap</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Procesamiento de imágenes a través de métodos variacionales y de optimización convexa</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

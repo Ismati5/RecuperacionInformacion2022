@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>González Bedia, Manuel</dc:contributor>
+    <dc:contributor>Serón Arbeloa, Francisco José</dc:contributor>
+    <dc:creator>Aguilera Lizarraga, Miguel</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>The last two decades have witnessed radical changes of perspective about the nature of intelligence and cognition, leaving behind some of the assumptions of computational functionalism. From the myriad of approaches seeking to substitute the old rule-based symbolic perception of mind, we are especially interested in two of them. The first is Embodied and Situated Cognition, where the advances in modeling complex adaptive systems through computer simulations have reconfigured the way in which mechanistic, embodied and interactive explanations can conceptualize the mind. We are particularly interested in the concept of sensorimotor loop, which brings a new perspective about what is needed for a meaningful interaction with the environment, emphasizing the role of the coordination of effector and sensor activities while performing a concrete task. The second one is the framework of Coordination Dynamics, which has been developed as a result of the increasing focus of neuroscience on self-organized oscillatory brain dynamics. It provides formal tools to study the mechanisms through which complex biological systems stabilize coordination states under conditions in which they would otherwise become unstable. We will merge both approaches and define coordination in the sensorimotor loop as the main phenomena behind the emergence of cognitive behavior. At the same time, we will provide methodological tools and concepts to address this hypothesis. Finally, we will present two case studies based on the proposed approach: 1. We will study the phenomenon known as “intermittent behavior”, which is observed in organisms at different levels (from microorganisms to higher animals). We will propose a model that understands intermittent behavior as a general strategy of biologica organization when an organism has to adapt to complex changing environments, and would allow to establish effective sensorimotor loops even in situations of instable engagement with the world. 2. We will perform a simulation of a phonotaxis task performed by an agent with an oscillator network as neural controller. The objective will be to characterize robust adaptive coupling between perceptive activity and the environmental dynamics just through phase information processing. We will observe how the robustness of the coupling crucially depends of how the sensorimotor loop structures and constrains both the emergent neural and behavioral patterns. We will hypothesize that this structuration of the sensorimotor space, in which only meaningful behavioral patterns can be stabilized, is a key ingredient for the emergence of higher cognitive abilities.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6274</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6274/files/TAZ-TFM-2011-040.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>cognitive science</dc:subject>
+    <dc:subject>artificial intelligence</dc:subject>
+    <dc:subject>post-cognitivism</dc:subject>
+    <dc:subject>sensorimotor loop</dc:subject>
+    <dc:subject>coordination dynamics</dc:subject>
+    <dc:subject>metastability in the brain</dc:subject>
+    <dc:subject>Máster Universitario en Ingeniería de Sistemas e Informática</dc:subject>
+    <dc:title>Coordination dynamics in the sensorimotor loop</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

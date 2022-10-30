@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Resano Ezcaray, Jesús Javier</dc:contributor>
+    <dc:creator>Begué Granged, Eduardo</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>La utilización de dispositivos lógicos programables (FPGAs) en el diseño de hardware va cobrando cada día más importancia. Una de sus aplicaciones consiste en desarrollar plataformas de simulación que produzcan resultados rápidos y con la máxima precisión. Este proyecto fin de carrera ha surgido como respuesta a esta tendencia desarrollando sobre una FPGA un simulador de memorias cache totalmente configurable. El simulador de memorias cache es un diseño hardware que permite emular el comportamiento de una cache con unas características concretas (se permiten más de 380 tipos diferentes de memoria cache) para obtener información fiable acerca de qué configuración de cache es la más adecuada para una determinada situación. El hardware desarrollado se ha diseñado utilizando el lenguaje de descripción de hardware VHDL y se ha implementado sobre la FPGA Xilinx Virtex II. El proyecto se ha realizado utilizando variables “genéricas” durante el diseño del hardware. Estas variables se utilizan para describir la cache que se quiere simular definiendo el tamaño, emplazamiento, política de reemplazo, escrituras… Con esta aproximación se consigue que un único módulo VHDL sea capaz de implementar el simulador de cualquiera de las memorias caches posibles. Estos simuladores trabajan con una traza de accesos a memoria y replican la gestión de las direcciones de una memoria cache real, generando estadísticas tras analizar cada acceso. La traza la envía un computador a la FPGA a través del puerto serie, y las estadísticas las devuelve la FPGA por ese mismo puerto. Se ha comprobado que el simulador genera los datos correctos comparándolo con un simulador SW equivalente usando las mismas trazas. Este proyecto también ofrece una visión global acerca de las ventajas e inconvenientes que ofrece la utilización de hardware programable con respecto a la simulación software. Las ventajas principales serían que se puede ejecutar en lugar de simular, que el tiempo de ejecución menor, que es posible observar ciclo a ciclo el comportamiento de los distintos módulos y que se obtiene información adicional sobre el coste de la implementación y el retardo del sistema.. En cuanto a los inconvenientes, el diseño es bastante más complejo, y en especial la depuración del proyecto. También nos encontramos con las limitaciones de área de la plataforma que impiden simular memorias cache muy grandes.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4716</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Arquitectura y Tecnología de Computadores</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4716/files/TAZ-PFC-2010-066.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>FPGA</dc:subject>
+    <dc:subject>Procesador</dc:subject>
+    <dc:subject>Diseño Hardware</dc:subject>
+    <dc:subject>Arquitectura de Computadores</dc:subject>
+    <dc:subject>VHDL</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Simulación de cachés utilizando una plataforma FPGA</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

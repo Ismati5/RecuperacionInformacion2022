@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Simpkins, C. Alexander</dc:contributor>
+    <dc:contributor>Peña Baquedano, Estefanía</dc:contributor>
+    <dc:creator>Moya García, Beatriz</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>Focus meditation has been proven to reduce stress, which according to American Psychological Association, 77% of the US population experienced in 2014. The Lotus, a meditation training device, will read brain signals and provide real time feedback to help a person meditate. The Lotus software package acquires and process brain signals to determine when the user has entered a meditative state. The signals were then output to a controller that varies the intensity of LED lights and movement of the lotus. This will, through neurofeedback, train the user to more effortlessly enter the meditative state. The brain signals present in meditating patients were studied and the lotus, as well as the software, were designed and calibrated to ensure optimal feedback.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/47783</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/47783/files/TAZ-TFG-2015-1155.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Lotus Meditation Assistive Device Using EEG to Measure State of Mind</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

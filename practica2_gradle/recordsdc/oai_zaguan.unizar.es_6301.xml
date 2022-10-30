@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Frank, Stefan</dc:contributor>
+    <dc:contributor>Hauke Bernardos, Guillermo</dc:contributor>
+    <dc:creator>Terés Duaso, Ricard</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El objetivo de este proyecto ha sido investigar, mediante modelos diseñados, construidos y evaluados, la influencia de la voluta en el rendimiento del ventilador tipo Sirocco (ventiladores centrífugos con rotor de álabes curvados hacia adelante). Ha sido desarrollado bajo el marco de investigación "Cálculos Numéricos y Diseño de Ventiladores tipo Sirocco" en alemán "Numerische Berechnung und von Auslegung Trommelläufer-Ventilatoren" (NUBAT) en la Universidad de Ciencias Aplicadas de Berlín (HTW Berlín). Más concretamente, el objetivo principal de este trabajo fue evaluar el comportamiento del ventilador tipo Sirocco según diferentes configuraciones correspondientes en variaciones de los parámetros de la voluta y en el desplazamiento relativo del rotor en su interior. Se esperaba encontrar un mejor funcionamiento y lograr un mayor rendimiento estático. Los ventiladores comunes tipo Sirocco están entre 30-55%. Para lograr este objetivo, fueron necesarias tres tareas principales. La primera fue el desarrollo y fabricación de modelos de prueba apropiados. La segunda fue el diseño, organización e implementación de una campaña de medición utilizando un banco de pruebas existente. La última tarea fue la recopilación y evaluación de los resultados. Tras una profunda revisión de la literatura y teniendo en cuenta los consejos de los miembros del equipo, seis nuevos modelos del ventilador fueron diseñados usando software de diseño 3D adecuado. Los ficheros con los bocetos de estos diseños fueron enviados a un taller externo a fin de ser fabricados. Tras recibir las nuevas piezas, estas fueron pulidas y preparadas para la siguiente fase. Se organizó una campaña de medición con el fin de evaluar los modelos. La matriz de medición consideraba la suma de 144 diferentes variaciones en la configuración del ventilador. Las mediciones fueron registradas mediante el uso de equipos de tecnología avanzada como una cámara de medición de alta precisión, un sensor de par “contactless” y un banco de pruebas multifuncional para ventiladores. Todos los datos fueron recopilados y evaluados. Las mediciones fueron convertidas en gráficos para apreciar más fácilmente el comportamiento del ventilador. Se obtuvieron las curvas características para salto de presión estática, par en el eje y rendimiento estático. Se desarrolló un amplio estudio para encontrar la configuración con el mejor rendimiento estático. Las influencias de los parámetros de diseño fueron evaluadas. Realizando este proyecto, se ha encontrado interesante información sobre el comportamiento de los nuevos modelos de ventilador tipo Sirocco diseñados. El mejor rendimiento estático registrado se eleva a 69% para una velocidad de rotación de 1000 rpm. Por otra parte, se han apreciado ciertas influencias y tendencias al evaluar las curvas características que han sido incluidas en este trabajo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6301</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6301/files/TAZ-PFC-2011-466.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6301/files/TAZ-PFC-2011-466_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>sirocco</dc:subject>
+    <dc:subject>ventilador</dc:subject>
+    <dc:subject>centrífugo</dc:subject>
+    <dc:subject>voluta</dc:subject>
+    <dc:subject>rendimiento</dc:subject>
+    <dc:subject>comportamiento</dc:subject>
+    <dc:subject>experimento</dc:subject>
+    <dc:subject>influencia</dc:subject>
+    <dc:subject>investigación</dc:subject>
+    <dc:subject>radial</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Investigación experimental sobre la influencia de la voluta en el comportamiento y rendimiento del ventilador tipo “Sirocco”</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

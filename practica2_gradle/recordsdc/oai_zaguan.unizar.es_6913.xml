@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Lasierra Beamonte, Nelia</dc:contributor>
+    <dc:contributor>Alesanco Iglesias, Álvaro</dc:contributor>
+    <dc:creator>García Latorre,Verónica</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>En este proyecto fin de carrera se ha desarrollado un gestor SNMPv3 (Simple Network Management Protocol) con interfaz web para la gestión técnica de dispositivos en escenarios de telemonitorización domiciliaria. Para ello, este gestor se adapta a un agente SNMP previamente desarrollado, el cual implementa una MIB (Management Information Base) que permite, ademas de gestionar datos de la informacion técnica de los dispositivos medicos que estan conectados, gestionar los datos del dispositivo concentrador que se encarga de recogerlos, as como de denir y congurar alarmas y eventos. Para facilitar la configuración de las tablas SNMP y el acceso a la visualización de resultados, este proyecto desarrolla un interfaz graco amigable e intuitivo, proporcionando una gestion transparente a la utilizacion de la arquitectura SNMP implementado en Java, con Servlets y JSP con el uso de algunos frameworks como Struts2 o Tiles y realizando conexiones seguras utilizando el protocolo TLSv1 sobre HTTP. El agente utilizado  permite tanto la gestion de los datos como la conguración de alarmas y eventos que, una vez conguradas, enviaran mensajes asncronos al gestor. Para la visualizacion de esos datos, la aplicacion cuenta con herramientas adicionales que los representan gracamente. En cuanto a los mensajes asncronos, la aplicacion incorpora una herramienta para la captura y visualizacion de dichos mensajes. Por ultimo, se han realizado evaluaciones sobre usuarios de diferentes perles para testear si se han alcanzado los objetivos previstos para este proyecto y conocer los puntos en los que se puede mejorar. Los resultados obtenidos han sido muy satisfactorios.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6913</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingeniería Telemática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6913/files/TAZ-PFC-2012-073_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6913/files/TAZ-PFC-2012-073.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>snmpv3</dc:subject>
+    <dc:subject>telemonitorización domiciliaria</dc:subject>
+    <dc:subject>gestión técnica</dc:subject>
+    <dc:subject>gestor web snmp</dc:subject>
+    <dc:subject>aplicación web</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicación</dc:subject>
+    <dc:title>Desarrollo de un gestor SNMPv3 con interfaz Web para la gestión de información técnica en escenarios de telemonitorización domiciliaria</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

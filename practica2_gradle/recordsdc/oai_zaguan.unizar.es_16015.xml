@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Puértolas Broto, Sergio</dc:contributor>
+    <dc:creator>Busto Aranaz, Luis</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Proyecto fin de carrera en el que se analizan varios fenómenos de inestabilidad estructural con la ayuda del programa DLUBAL, que en breve se comenzará a emplear en la Universidad de Zaragoza. Pretende ser una guía para los nuevos usuarios en el programa y que les sirva como documento de consulta y manual de referencia.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/16015</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/16015/files/TAZ-PFC-2014-414.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>dlubal</dc:subject>
+    <dc:subject>pandeo de euler</dc:subject>
+    <dc:subject>pandeo lateral</dc:subject>
+    <dc:subject>pandeo de placas</dc:subject>
+    <dc:subject>abolladura</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Simulación numérica de fenómenos de inestabilidad en estructuras metálicas con DLUBAL</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

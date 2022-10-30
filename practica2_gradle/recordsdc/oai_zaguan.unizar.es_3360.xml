@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Arauzo Pelet, Inmaculada</dc:contributor>
+    <dc:creator>Pallarés Ranz, Javier </dc:creator>
+    <dc:date>2008</dc:date>
+    <dc:description>The predictive system developed in this Thesis has the same structure as the so-called combustion kinetics models, however, it obtains the fluid and thermal description through CFD simulations.  To solve the handicap of the high computational cost needed to run a CFD simulation, a neural network system is used to reproduce the solutions given by the CFD code.  Moreover, a neural network system permits to interpolate in the range of variation used during the training stage, and thus, a predictive system covering the whole operational range of the plant is obtained. </dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/3360</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/3360/files/TESIS-2009-065.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>Unburned carbon</dc:subject>
+    <dc:subject>Coal combustion modelling</dc:subject>
+    <dc:subject>CFD</dc:subject>
+    <dc:subject>Neural networks </dc:subject>
+    <dc:title>Unburned carbon in ash prediction in pulverized coal utility boilers.  Analysis and assessment of operation strategies. </dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

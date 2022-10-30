@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bernués del Río, Emiliano</dc:contributor>
+    <dc:creator>Pérez Zarazaga, Pablo</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>En este proyecto estudiamos las principales características de distintos tipos de vídeos retransmitidos por televisión y diseñamos el comienzo de una aplicación que se encargue de analizar estas características para clasificar los distintos programas en función de su temática.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/47579</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/47579/files/TAZ-TFG-2015-1999_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/47579/files/TAZ-TFG-2015-1999.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías y Servicios de Telecomunicación</dc:subject>
+    <dc:title>Definición y extracción de características en programas audiovisuales para el reconocimiento automático de temática</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

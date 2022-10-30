@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Pascau Benito, Antonio</dc:contributor>
+    <dc:creator>Villanueva Javierre, Ana Paola</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>El presente proyecto consiste en el estudio de la norma ISO-UNE:5167 2003 (Medición del caudal de fluidos mediante dispositivos de presión diferencial intercalados en conductos en carga de sección transversal circular). Las normas UNE son un conjunto de normas experimentales e informes (estándares) creados en los Comités Técnicos de Normalización. Son sumamente importantes porque recogen una gran cantidad de resultados obtenidos por la vía experimental creando unas condiciones de aplicación donde se pueden utilizar estos resultados sin necesidad de comprobar o replicar los experimentos necesarios para obtener los datos de dicha norma. En este trabajo se va a estudiar en detalle el apartado 2 de la norma, que trata sobre placas de orificio. Se van a diseñar una serie de casos que cumplan las condiciones de dicha norma para comparar los resultados experimentales del coeficiente de descarga con los obtenidos mediante simulación numérica. Para llevar a cabo lo comentado en el párrafo anterior, se dispondrá del software desarrollado por el profesorado del Área de Mecánica de Fluidos de la Universidad de Zaragoza denominado CRETINO.  Dicho software puede ser utilizado para el cálculo de problemas bidimensionales, con flujos incompresibles, laminares y/o turbulentos, estacionarios y/o transitorios, utilizando coordenadas cartesianas y/o cilíndricas. Con los datos obtenidos de dichas simulaciones se procederá a calcular los coeficientes de descarga y se compararán con los mostrados en la norma ISO 5167:2. Se estudiarán los errores y cómo varían estos según los distintos parámetros de los casos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/60517</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/60517/files/TAZ-PFC-2016-098.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Estudio de los datos obtenidos mediante simulación numérica del flujo en una placa orificio, comparados con los correspondientes a la aplicación de la norma ISO-UNE 5167</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+    <dc:title xml:lang="en">Study of the data obtained by numerical simulation of the flow in an orifice plate, compared with those corresponding to the application of ISO-UNE 5167</dc:title>
+</oai_dc:dc>

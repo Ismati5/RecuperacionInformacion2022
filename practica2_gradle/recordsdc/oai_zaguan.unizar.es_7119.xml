@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Artacho Terrer, Juan Manuel</dc:contributor>
+    <dc:creator>Cabello Moreno, Virginia</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>La Radioterapia de Intensidad Modulada (IMRT) es una técnica reciente avanzada que permite ajustar la radiación a la forma tridimensional del tumor, limitando a su vez la dosis que reciben los tejidos sanos adyacentes. Para ello se utilizan colimadores multiláminas (MLC) que administran el tratamiento sobre el paciente mediante un conjunto de aperturas o huecos a través de los cuales pasa la radiación. Por tanto un aspecto clave en IMRT es determinar las formas de las aperturas y los tiempos de exposición de cada una de ellas. Hasta el presente, el problema de la optimización se ha planteado mediante la determinación previa de las aportaciones de cada haz, modeladas a través de un mapa de intensidad o matriz de fluencia. Dicho planteamiento exige la descomposición posterior de esas matrices en aperturas y tiempos de exposición, determinando el proceso de administración de la dosis sobre el paciente. Las nuevas líneas de investigación apuntan hacia una unificación de ambas tareas, es decir, optimizar directamente las aperturas, sin tener que calcular previamente los mapas de intensidad, optimizando directamente los parámetros entregados en el tratamiento. Este proyecto aborda el planteamiento de la optimización mediante la combinación de los dos métodos mencionados anteriormente. De esta manera obtenemos las ventajas de cada uno de ellos. Por un lado la optimización se hace en una única etapa evitando los inconvenientes que supone hacerlo en dos y se impone como partida el número de etapas del tratamiento, limitando la complejidad del tratamiento. Por otro lado, al utilizar métodos de optimización condicionada, conseguimos tener un mayor control de la dosis aportada, tanto al tumor como a los órganos de riesgo.  Una vez realizado el estudio tanto de las técnicas actuales como de las anteriores, se realiza el desarrollo del algoritmo en Matlab y se hace una comparación de los métodos propuestos con un proceso DAO. Los resultados obtenidos son satisfactorios, ya que con un número reducido de etapas, obtenemos planificaciones más homogéneas, en las que ninguno de los pesos de un haz determinado se apodera de los demás y las aperturas son más compactas, con los consiguientes beneficios que esto conlleva en el tratamiento entregado al paciente.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/7119</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/7119/files/TAZ-PFC-2012-178.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>radioterapia de intensidad modulada</dc:subject>
+    <dc:subject>imrt</dc:subject>
+    <dc:subject>dmpo</dc:subject>
+    <dc:subject>mlc</dc:subject>
+    <dc:subject>aperturas</dc:subject>
+    <dc:subject>optimización</dc:subject>
+    <dc:subject>cáncer</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicación</dc:subject>
+    <dc:title>Sistemas de optimización directa de parámetros de máquina en procesos de radioterapia para el tratamiento del cáncer</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

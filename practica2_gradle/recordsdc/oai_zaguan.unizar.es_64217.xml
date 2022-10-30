@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Artal Bartolo, Enrique </dc:contributor>
+    <dc:contributor>Marco Buzunáriz, Miguel Ángel</dc:contributor>
+    <dc:creator>Díez Ibáñez, David</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Se presentan conceptos de geometría algebraica como el grupo fundamental o las homotopías, de cara a su uso como base teórica para presentar las monodromías de trenzas obtenidas a partir de cubiertas. En particular este trabajo define el invariante algebraico de una curva conocido como monodromía de trenzas de la curva y se propone un método algorítmico para la obtención de bases geométricas del grupo fundamental del plano con agujeros, punto vital para la obtención de este invariante. Por supuesto, conceptos algebraicos necesarios como los grupos libres o los grupos de trenzas también se tratan aquí.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64217</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Matemática Aplicada; Área de Matemática Aplicada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64217/files/TAZ-TFG-2017-2241.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Matemáticas</dc:subject>
+    <dc:title>Determinación algorítmica del grupo fundamental de un plano con agujeros y aplicaciones a la monodromía de trenzas</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Algorithmic determination of the fundamental group of a plane with holes and applications to braid monodromy</dc:title>
+</oai_dc:dc>

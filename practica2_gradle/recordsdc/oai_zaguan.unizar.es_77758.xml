@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Martínez Pérez, Concepción</dc:contributor>
+    <dc:creator>Aldea Blasco, Inés</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>Normalmente, el enfoque clásico a la hora de realizar un análisis de las propiedades de los grupos es principalmente algebraico. El objeto del presente trabajo consiste en realizar un análisis geométrico de estas estructuras matemáticas, asociando a cada grupo un grafo. Así, por un lado analizaremos la relación entre los grupos y sus grafos de Cayley. Por otro lado, dotaremos de estructura métrica a estos grafos, lo que ﬁnalmente nos permitirá deﬁnir el concepto de grupo hiperbólico. Finalmente, veremos como utilizando este punto de vista es posible resolver algunos problemas y estudiar ciertas propiedades para los grupos hiperbólicos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/77758</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Matemáticas; Área de Algebra</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/77758/files/TAZ-TFG-2018-2423.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Matemáticas</dc:subject>
+    <dc:title>Grupos hiperbólicos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Hyperbolic groups</dc:title>
+</oai_dc:dc>

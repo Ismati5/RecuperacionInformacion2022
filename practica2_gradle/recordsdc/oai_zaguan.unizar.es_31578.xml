@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Yagüe Fabra, José Antonio</dc:contributor>
+    <dc:contributor>Torralba Gracia, Marta</dc:contributor>
+    <dc:creator>Camacho Híjar, Guillermo</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El objetivo principal de este proyecto se basa en la definición de la estrategia de control de una plataforma de posicionado bidimensional con aplicaciones en el campo de la nanotecnología. De este modo, son tareas a realizar en el trabajo: Análisis del equipo que acopla el sistema de actuación analizado. El estudio del estado del arte estará, así, enfocado tanto en la síntesis de características de la plataforma ya diseñada, como en la justificación del tipo de actuador utilizado: motor lineal tipo Halbach.   Caracterización de los motores lineales instalados: estudio teórico y resultados experimentales.  Un total de cuatro motores encargados del desplazamiento XY del sistema serán ensayados con el fin de obtener las curvas de comportamiento Fuerza-Posición consecuencia de la interacción electromagnética entre el camino magnético y el estator, cuando por este último circula una corriente. Determinación del bucle de control necesario para el desplazamiento 1D de un motor de forma individual. De este modo, de nuevo de forma experimental se caracterizará la función de transferencia del esquema lineal propuesto y se analizarán y propondrán posibles soluciones de control en relación con la aplicación de posicionado a escala nanométrica. Mediante simulación y construcción del esquema propuesto se analizará la viabilidad de la solución propuesta. Por último, se concluirá con la propuesta de control para el caso global de posicionado 2D, así como con las tareas y pautas a continuar en trabajos futuros.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31578</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31578/files/TAZ-PFC-2014-538.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>metrología</dc:subject>
+    <dc:subject>ingeniería de precisión</dc:subject>
+    <dc:subject>motor lineal</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Caracterización y diseño de la estrategia de control del sistema de actuación de una etapa de nanoposicionado 2D de largo alcance</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

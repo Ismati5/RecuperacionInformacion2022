@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ollero Ojeda, Alfredo</dc:contributor>
+    <dc:contributor>Pérez Cabello, Fernando</dc:contributor>
+    <dc:creator>Peño Gómez, Gonzalo</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>El presente trabajo explora las posibilidades que ofrecen los sistemas de información geográfica y las técnicas de teledetección para el estudio de la diversidad de humedales localizados en el sector central de la Depresión del Ebro. Se han identificado un total de 152 humedales distribuidos en 5 categorías: galachos (tipo G), endorreicos (tipo E), manantiales y fuentes (tipo F), en yesos (tipo Y) y de origen antrópico naturalizados (tipo N). Esta determinación tipológica ha sido contrastada con una nueva agrupación jerárquica obtenida a partir de información espectral. Mediante el uso de imágenes Sentinel 2 se ha extraído la información espectral de los valores de NDVI, NDII y NDSI de los humedales que presentan una superficie de lámina de agua suficiente para ser captada por el sensor sin problemas de contaminación espectral (60 humedales). A partir de estos valores se ha realizado una caracterización espectral y un análisis multitemporal de cada uno de los tipos de humedal. Además, se ha desarrollado una cartografía evolutiva de los humedales más representativos de cada tipo junto con los resultados de una encuesta para figurar la percepción social de la ciudad de Zaragoza y su entorno ante estos espacios. Los resultados obtenidos aportan información útil para realizar un diagnóstico global de la situación en la que se encuentran estos humedales, así como para establecer pautas y estrategias en materia de conservación, seguimiento y puesta en valor de los mismos.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/88670</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/88670/files/TAZ-TFM-2019-1245.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Tecnologías de la Información Geográfica para la Ordenación del Territorio: Sistemas de Información Geográfica y Teledetección</dc:subject>
+    <dc:title>Aplicación de Tecnologías de la Información Geográfica y Teledetección para la identificación, caracterización y puesta en valor de humedales de la Depresión del Ebro.</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Use of Geographic Information Technologies and Remote Sensing for the identification, characterization and enhancement of wetlands of the Ebro Depression.</dc:title>
+</oai_dc:dc>

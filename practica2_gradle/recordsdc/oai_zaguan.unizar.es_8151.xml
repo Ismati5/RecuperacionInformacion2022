@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Vidal Ibáñez, Juan Carlos</dc:contributor>
+    <dc:contributor>Bonel Sanmartín, Laura</dc:contributor>
+    <dc:creator>Hernández Agoiz, Susana</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El deoxinivalenol (DON) es una micotoxina producida por el hongo Fusarium, muy  abundante en ciertos cereales como el trigo o el maíz y en sus granos procesados como la malta, la cerveza o el pan. Debido a la gran importancia de las micotoxinas en la contaminación de alimentos, la legislación española y europea, ha establecido límites muy estrictos para las concentraciones máximas permitidas de DON en diversos productos alimenticios, oscilando entre 200 y 1750 µg/kg, y la ingesta diaria tolerable es 1 mg/kg de peso corporal (Comisión Reguladora 1126/2007) por lo tanto, es necesario disponer de métodos analíticos cada vez más sensibles, que nos permitan su determinación. Por ello el objetivo principal de este trabajo de investigación fue el desarrollo de un inmunosensor electroquímico competitivo para la determinación de DON en muestras de alimentos. Se han utilizado además diferentes tipos de partículas magnéticas (MBs) como soporte sólido del inmunosensor por las ventajas que esto conlleva (mejoras en lavados y preconcentración de reactivos entre otras). Se ha utilizado la técnica electroquímica de cronoamperometría (CRA) utilizando un salto de potencial entre 0 y -0,25 V para medir la extensión de la reacción enzimática que provoca la HRP con los sustratos de reacción añadidos sobre electrodos serigrafiados de carbono (SPCEs). Para este estudio nos hemos apoyado también en otras técnicas analíticas, como  el SPR  con el que se ha confirmado que el anticuerpo es capaz de reconocer de forma selectiva al DON, y el ELISA y ELISA magnético con los que se han optimizado las condiciones de trabajo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8151</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Analítica; Área de Química Analítica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8151/files/TAZ-TFM-2012-256.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>inmunosensores electroquímicos</dc:subject>
+    <dc:subject>micotoxinas</dc:subject>
+    <dc:subject>deoxinivalenol</dc:subject>
+    <dc:subject>electrodos serigrafiados</dc:subject>
+    <dc:subject>Máster Universitario en Investigación Química</dc:subject>
+    <dc:title>Diseño de un biosensor competitivo electroquímico basado en la reacción de afinidad entre el deoxinivalenol y su anticuerpo policlonal</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

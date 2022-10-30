@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Vidal Cortés, Mariano</dc:contributor>
+    <dc:contributor>Garces Tébar, Antonio Javier</dc:contributor>
+    <dc:creator>Eito López, Sara</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Cálculo y diseño de la construcción de una nave para uso industrial, en dicho proyecto se definen los aspectos técnicos, constructivos, medioambientales y económicos relacionados con dicha construcción. En este caso se proyecta la construcción de una nave industrial de planta rectangular con una superficie total ocupada en planta de 3086,5 m2 y unas dimensiones exteriores de 61,73 m de fondo y 50 m de ancho. La nave estará construida con estructura prefabricada de hormigón armado, con vigas de tipo Delta apoyadas sobre los pilares de sección cuadrada, la altura libre bajo Delta será de 7 m. La cubierta será múltiple a dos aguas con un 10% de pendiente. El cerramiento se construirá con paneles prefabricados de hormigón. Para el cálculo de la estructura que constituye el cuerpo principal de la nave industrial, se ha utilizado el programa informático de cálculo de estructuras SAP2000, con el que se permite ver el diseño y cálculo de estructuras tridimensionales de nudos y barras. Para el diseño de la nave en 3D se ha utilizado el programa informático SolidWorks. Realizando mediante un croquis en 2 dimensiones, a través de los cuales, se generan sólidos en 3 dimensiones. Posteriormente para realizar sólidos compuestos, se utilizará la opción de ensamblaje de piezas y la utilización de relaciones de posición.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6814</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería Mecánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6814/files/TAZ-PFC-2012-003.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>nave hormigón armado</dc:subject>
+    <dc:subject>sap2000</dc:subject>
+    <dc:subject>modelado sólido solidworks</dc:subject>
+    <dc:subject>cálculo de estructura</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Química Industrial)</dc:subject>
+    <dc:title>Cálculo y diseño mediante herramientas de modelado sólido de una nave de hormigón armado</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

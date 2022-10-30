@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Brosed Dueso, Francisco Javier</dc:contributor>
+    <dc:creator>Jiménez Olalla, Fabio</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>En el presente trabajo se pretende estudiar diferentes estrategias de análisis de imagen, con el objetivo de detectar dos tipos de defectos superficiales en rodamientos. Para ello se empleará una muestra facilitada por Fersa Bearings, en la que se diferencian tres grupos, y se dispone de la magnitud de los errores para cada pieza. El proceso que hemos seguido ha sido capturar imágenes de las piezas mediante visión industrial, segmentar estas imágenes, para así aislar la zona donde aparecen estos defectos. Inicialmente se trabaja con las piezas catalogadas como correctas, para así extraer los valores “normales” que debe presentar una pieza para ser considerada como pieza sin defecto superficial, y una vez se dispone de ellos, se extrapola el procedimiento a toda la muestra, recalculando y/o ajustando dicho procedimiento si fuera necesario. Para el tratamiento de las imágenes y el procesamiento de los datos se ha empleado el software Matlab®, el cual dispone de un gran potencial para el análisis de imagen y procesado de datos extraídos de la misma (histograma, filtrado…) Por último se comparan los datos obtenidos con los facilitados por Fersa Bearings para analizar el posible potencial industrial de este proceso de análisis de piezas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/65221</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/65221/files/TAZ-TFG-2017-1824.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Estrategias de análisis de imagen para la detección de defectos en la superficie de rodadura de rodamientos utilizando visión industrial</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Image analysis strategies for the detection of defects on the bearing’s rolling surface trough industrial vision</dc:title>
+</oai_dc:dc>

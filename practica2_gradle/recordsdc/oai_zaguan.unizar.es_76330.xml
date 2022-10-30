@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>López Nicolás, Gonzalo</dc:contributor>
+    <dc:creator>Rubio Roig, Carlos</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>Actualmente el desarrollo constante de la robótica está provocando que se puedan encontrar robots realizando tareas cada vez más complejas, y que poco a poco se alejen del conocido ámbito de la robótica industrial. En especial la robótica móvil está adquiriendo un gran interés debido a los robots y vehículos autónomos que han sido desarrollados en los últimos años. Es esta búsqueda por solventar problemas más complejos y el auge de la movilidad en los robots lo que está aumentado el interés científico y de la industria en los sistemas multi-robot. En estos sistemas las tareas pueden ser repartidas entre un equipo de robots que cuentan o no con las mismas capacidades. La forma en la que las tareas son repartidas de forma óptima, cómo se comparte la información entre los robots o de qué forma se planifican los objetivos, forma parte del estudio de este campo. Es especialmente de interés para este trabajo las tareas de cobertura y en particular las de cobertura persistente. Se hará un estudio profundo del estado de la materia y de uno de los métodos desarrollados recientemente en la literatura relacionada. En el siguiente trabajo se desarrollará un sistema multi-robot de bajo coste y fácil implementación con el que se pretende que se pueda experimentar usando algoritmos multi-robot en un ambiente controlado y escalable. Para el desarrollo de este sistema se cubrirán las necesidades básicas de todo sistema similar como son la localización, la comunicación y el control. A lo largo de esta memoria se expondrán cuales han sido las dificultades encontradas y finalmente las soluciones que se han desarrollado para cumplir con el objetivo propuesto. Además, se realizará la experimentación del método elegido mediante simulaciones que precederán a la experimentación final sobre el sistema multi-robot y se analizarán los resultados experimentados para poder valorar el éxito de la implementación.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76330</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76330/files/TAZ-TFM-2018-070.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Industrial</dc:subject>
+    <dc:title>Sistema multi-robot para cobertura persistente</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Multi-robot system for persistent coverage</dc:title>
+</oai_dc:dc>

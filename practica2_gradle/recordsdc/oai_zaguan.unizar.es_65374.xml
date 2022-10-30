@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Blasco Alberto, Javier</dc:contributor>
+    <dc:contributor>Martínez Ruiz, José Ignacio</dc:contributor>
+    <dc:creator>Navarro García, Eduardo</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>En este Trabajo de Fin de Grado (TFG) se ha realizado el análisis y modelado del sistema de ofertas profesionales de la EINA. Este comprende la realización de prácticas por parte de los estudiantes de Grado y Máster, Trabajos Fin de Grado o Fin de Máster (TFG - TFM), y otros tipos de ofertas que pudieran añadirse en un futuro, desde ofertas de trabajo para recién graduados hasta seminarios y conferencias que pudieran llevar al reconocimiento de créditos. Después de realizar el modelado se han identificado los puntos de mejora del sistema, y se han extraído los requisitos que debería tener el sistema en el futuro. Estos requisitos y propuestas de mejora se han agrupado en bloques funcionales independientes a desarrollar. Se ha procedido a la implementación de los módulos de registro e inicio de sesión de los usuarios en el sistema, de introducción, búsqueda y visualización de ofertas, y de valoración de las prácticas realizadas.  El sistema así creado con estos módulos es un sistema completamente funcional, que supone una mejora considerable con respecto al sistema anterior. La usabilidad ha sido mejorada, facilitando a los usuarios la introducción de información en el sistema, eliminando duplicidades y documentos en papel. A su vez, la información está ahora digitalizada, de forma que es posible analizarla y tomar decisiones en base a ella que antes no eran posibles.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/65374</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingeniería Telemática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/65374/files/TAZ-TFG-2017-1778.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías y Servicios de Telecomunicación</dc:subject>
+    <dc:title>Sistema de Información para la gestión de oportunidades profesionales en la EINA</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Information System for professional opportunities management at EINA</dc:title>
+</oai_dc:dc>

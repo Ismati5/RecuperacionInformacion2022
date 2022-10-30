@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Baptista, Pedro M.</dc:contributor>
+    <dc:contributor>García Aznar, José Manuel</dc:contributor>
+    <dc:creator>Plá Palacín, Iris</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Debido a la existencia de escasos modelos in vitro para el estudio de ductos biliares y a su reducida representatividad de la fisiología humana, hay una necesidad creciente de generar nuevos modelos 3D ex vivo que permitan estudiar la biología y fisiología biliar. Así, el objetivo de este proyecto es desarrollar un modelo 3D in vitro que contenga alguno de los elementos celulares del hígado humano y que permita la generación de ductos biliares in situ.  Se ha recurrido al uso de las tecnologías de bioingeniería de tejidos y de órganos, trabajando con la capacidad de auto-organización de las células que componen el ducto biliar una vez sembradas en agregados celulares y usando matriz extracelular descelularizada de hígado de rata para generar la tridimensionalidad.  Para tal fin, sean utilizado colangiocitos adultos y hepatoblastos fetales humanos para generar ductos biliares y caracterizar su interacción con otras células no parenquimales [endotelio y células madre mesenquimales (MSC)] en la formación de dichos ductos. También se ha caracterizado el crecimiento celular de los colangiocitos humanos, células endoteliales y MSC. A pesar de haber obtenido algunas estructuras celulares prometedoras, no se ha podido conseguir generar ductos maduros con estas técnicas y poblaciones celulares empleadas. Sin embargo, este proyecto ha podido crear las bases para la creación de estos organoides en laboratorio a partir de células exclusivamente humanas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31419</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31419/files/TAZ-TFM-2014-774.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>ingeniería tisular</dc:subject>
+    <dc:subject>medicina regenerativa</dc:subject>
+    <dc:subject>ductos biliares</dc:subject>
+    <dc:subject>Máster Universitario en Ingeniería Biomédica</dc:subject>
+    <dc:title>Generación de ductos biliares in vitro en organoides hepáticos 3D de bioingeniería</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

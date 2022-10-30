@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Resano Ezcaray, Jesús Javier</dc:contributor>
+    <dc:contributor>González Calvo, Carlos</dc:contributor>
+    <dc:creator>Olivito del Ser, Javier</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>Este proyecto surge como propuesta de participación en el Field-Programmable Technology ’09 Design Competition, concurso de diseño hardware que propuso el desarrollo de un procesador específico para resolver Sudokus de diferentes tamaños sobre una FPGA. Nuestro primer diseño consistió en la implementación de un algoritmo de ramificación y poda, utilizando como función de poda la eliminación de candidatos mediante las reglas del Sudoku. El diseño de la memoria y de la ruta de datos estuvo encaminado a explotar el paralelismo que presenta dicha función de poda. Los resultados de esta primera versión evidenciaron una necesidad de mejora, puesto que nuestro diseño era ineficiente en la resolución de Sudokus de gran tamaño o de alta complejidad.  	 La versión final de nuestro procesador mejora estos resultados incorporando una etapa de preprocesamiento que aplicaba un conjunto de heurísticas capaces de acotar el espacio de búsqueda.  Paralelamente, se desarrolló una versión software equivalente que se utilizó para depurar el diseño hardware y para evaluar la eficacia de las heurísticas existentes antes de implementarlas en el procesador hardware. Las mejoras de esta versión permiten una resolución eficiente de Sudokus de baja-media complejidad y gran tamaño (hasta orden 11: 121x121 casillas), si bien aun se muestra ineficiente en la resolución de los Sudokus de alta complejidad. Los resultados obtenidos con este diseño nos permitieron lograr el primer premio del FPT '09 Design Competition. Además el diseño fue elegido para su presentación en el congreso y una descripción del mismo fue publicada en sus actas, siendo accesible a toda la comunidad científica a través del IEEE Xplorer.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4576</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Arquitectura y Tecnología de Computadores</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4576/files/TAZ-PFC-2010-018.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/4576/files/TAZ-PFC-2010-018_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Procesador</dc:subject>
+    <dc:subject>Sudoku</dc:subject>
+    <dc:subject>Diseño hardware</dc:subject>
+    <dc:subject>Arquitectura de computadores</dc:subject>
+    <dc:subject>FPT</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Diseño e implementación de un procesador específico para la resolución de Sudokus</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

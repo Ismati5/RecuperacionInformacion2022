@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Carrera Alegre, Marco</dc:contributor>
+    <dc:contributor>Valladares Hernando, David</dc:contributor>
+    <dc:creator>Carranza Ávila, Rodrigo</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Este proyecto tiene como objetivo el diseño de una potencia de bicicleta que acople el manillar directamente a las barras de la horquilla para su utilización profesional en competiciones en disciplina de descenso.  A diferencia del tradicional acople utilizado para la sujeción y transmisión de movimiento del manillar a la horquilla, la pieza diseñada vendrá a reemplazar tanto a la potencia como la pletina superior. De esta manera se aumentaría la rigidez del conjunto, se ahorraría material y peso eliminando los excesos, se disminuirían las uniones atornilladas y se daría al piloto mayor control y precisión a la hora de conducir. Además mantendrá la dirección centrada sin necesidad de revisión de los tornillos y se intentará mantener el manillar a un nivel bajo para el aprovechamiento de la mayor estabilidad posible. El estudio realizado supondrá la ejecución de tareas numéricas de cálculo y simulación basadas en el método de los elementos finitos, capaces de reproducir el comportamiento de la estructura analizada ante los casos de carga aplicados, los cuales se realizarán de modo que proporcionen información del estado de deformaciones y tensiones existentes en cada uno de los componentes de la estructura sometidos a ensayo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/13353</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería Mecánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/13353/files/TAZ-PFC-2014-015.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>rodrigo carranza</dc:subject>
+    <dc:subject>análisis</dc:subject>
+    <dc:subject>elementos finitos</dc:subject>
+    <dc:subject>bicicleta</dc:subject>
+    <dc:subject>rock shox</dc:subject>
+    <dc:subject>pletina</dc:subject>
+    <dc:subject>potencia</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Análisis y optimización por medio del MEF de pletina y potencia de una bicicleta de descenso de competición</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

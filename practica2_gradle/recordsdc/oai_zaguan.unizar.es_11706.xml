@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Osta Pinzolas, María Rosario</dc:contributor>
+    <dc:contributor>Calvo Royo, Ana Cristina</dc:contributor>
+    <dc:creator>Gasco Cavero, Samanta</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>La Esclerosis Lateral Amiotrófica (ELA) es una enfermedad neurodegenerativa progresiva y fatal, caracterizada por una degeneración de las neuronas motoras y una atrofia muscular y posterior parálisis muscular, que desembocan la muerte del paciente, normalmente por parada respiratoria, entre los 2 y 5 años desde el inicio de los síntomas. El objetivo fundamental del presente trabajo se basó en el estudio de los niveles de expresión proteicos de marcadores de apoptosis (BAX, BCL-2, CSP3 y PROCSP3) y de autofagia (ATG5, BECLIN1, E2F1 y LC3) en músculo esquelético del modelo murino SOD1G93A en los tres estadios principales de la enfermedad. Los resultados mostraron una activación significativa de los niveles de expresión de todos los marcadores de apoptosis estudiados en el estadio sintomático temprano. Sin embargo, en el estadio sintomático, no se observaron niveles significativamente elevados de ningún marcador de autofagia ni de apoptosis. Finalmente, en el estadio terminal, todos los marcadores de autofagia mostraron un incremento significativo en sus niveles de expresión. Estos resultados parecen indicar que la apoptosis se encuentra activada en etapas tempranas de la enfermedad, mientras que la autofagia comienza a activarse en etapas más tardías. Los niveles de expresión que se registraron para la proteína p62, que está estrechamente relacionada con el sistema de degradación proteíco ubiquitina-proteasoma (UPS), autofagia (macroautofagia) e incluso con la apoptosis, parecen indicar que en el estadio central de la enfermedad, en el que no se observa una activación de ningún marcador de autofagia ni de apoptosis, podría jugar un papel relevante la activación del UPS. Con estos resultados, podemos concluir que tanto la apoptosis como la autofagia participan en la regulación de la muerte celular en el músculo esquelético de animales transgénicos SOD1G93A modelo para la ELA, siendo necesarios estudios posteriores para determinar si la modulación de estos procesos podría servir como diana terapéutica.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/11706</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Anatomía, Embriología y Genética Animal; Área de Genética</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/11706/files/TAZ-TFM-2013-616.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>esclerosis lateral amiotrófica</dc:subject>
+    <dc:subject>autofagia</dc:subject>
+    <dc:subject>proteasoma</dc:subject>
+    <dc:subject>apoptosis</dc:subject>
+    <dc:subject>enfermedades neurodegenerativas</dc:subject>
+    <dc:subject>ratón transgénico sod1g93a</dc:subject>
+    <dc:subject>western blot</dc:subject>
+    <dc:subject>pcr</dc:subject>
+    <dc:subject>p62</dc:subject>
+    <dc:subject>bax</dc:subject>
+    <dc:subject>bcl-2</dc:subject>
+    <dc:subject>csp3</dc:subject>
+    <dc:subject>procsp3</dc:subject>
+    <dc:subject>atg5</dc:subject>
+    <dc:subject>beclin1</dc:subject>
+    <dc:subject>e2f1</dc:subject>
+    <dc:subject>lc3</dc:subject>
+    <dc:subject>Máster Universitario en Iniciación a la Investigación en Ciencias Veterinarias</dc:subject>
+    <dc:title>Autofagia y apoptosis: Mecanismos de regulación celular en un modelo murino de ELA</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

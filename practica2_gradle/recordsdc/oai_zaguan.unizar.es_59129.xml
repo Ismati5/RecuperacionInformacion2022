@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>De Miguel Samaniego, Diego</dc:contributor>
+    <dc:contributor>Martínez Lostao, Luis</dc:contributor>
+    <dc:creator>Plou Izquierdo, Javier</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>La mejora de la bioactividad del ligando mortal TRAIL, ha sido un campo de investigación prometedor para el desarrollo de tratamiento anti-tumorales efectivos. En este trabajo de fin de grado se ha estudiado el potencial anti-tumoral de nuevas formulaciones de nanopartículas lipídicas funcionalizadas, basadas en el anclaje del ligando mortal TRAIL a su superficie (LUV-TRAIL) y en la encapsulación de doxorubicina, un quimioterápico muy utilizado con actividad anti-tumoral, en su interior (LUVDOX-TRAIL). Se ha analizado el efecto citotóxico de TRAIL soluble, LUV-TRAIL y LUVDOX-TRAIL y su capacidad para inducir apoptosis en tres líneas celulares tumorales humanas procedentes de diferentes neoplasias hematológicas, MOLT4, Raji y U937. También se ha estudiado la toxicidad de LUVDOX-TRAIL sobre células mononucleares de sangre periférica y linfocitos T activados normales, buscando una ventana terapéutica. La formulación LUV-TRAIL presentó una mayor actividad citotóxica que TRAIL soluble en las líneas estudiadas, teniendo lugar un mecanismo de muerte dependiente de la activación de las caspasas. Los LUVDOX-TRAIL mostraron una mayor capacidad citotóxica que LUV-TRAIL en las tres líneas celulares, manteniendo una elevada citotoxicidad en células tumorales incluso cuando se disminuyó la cantidad de doxorubicina encapsulada a una concentración en la que los LUVDOX-TRAIL no mostraban una elevada toxicidad sobre células hematológicas normales</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/59129</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Biología Celular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/59129/files/TAZ-TFG-2016-2205.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/59129/files/TAZ-TFG-2016-2205_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Biotecnología</dc:subject>
+    <dc:title>Análisis de nanopartículas lipídicas funcionalizadas con capacidad citotóxica como tratamiento anti-tumoral</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Analysis of lipidic functionalized nanoparticles with cytotoxic ability as anti-tumor treatment</dc:title>
+</oai_dc:dc>

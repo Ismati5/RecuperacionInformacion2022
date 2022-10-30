@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Anderson, Chris</dc:contributor>
+    <dc:contributor>Merseguer Hernáiz, José Javier</dc:contributor>
+    <dc:creator>Gil Torres, Pablo</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Este proyecto es producto de la respuesta de la empresa BoomWorks a las necesidades de la empresa Youth Hostelling Asociation Australia (YHA Australia). Estas necesidades son un rediseño de su web móvil para Australia y la creación de portales con la capacidad de realizar reservas para países del continente asiático. Ya que ambos proyectos eran similares en términos de funcionalidad y requisitos se decidió aunar los esfuerzos bajo una misma solución: Implementar un sistema basado en el diseño adaptativo con las mismas características y contenido a través de dispositivos. Debido a lo novel de la metodología de responsive design en 2012 y la falta de experiencia de BoomWorks con la misma en proyectos de larga escala, se decidió gestionar la parte de estructura, estilo y comportamiento de interacción de manera aislada y controlada, en un prototipo PHP. Este prototipo debía habilitar las siguientes funciones: ● Buscar un hotel. ● Inspeccionar habitaciones y tarifas en el hotel seleccionado. ● Seleccionar habitación o cama. ● Comprobar disponibilidad. ● Llevar a cabo la reserva. Los detalles concretos del sistema de plantillas incluyen:  Campo de búsqueda inteligente por geolocalización, sugerencias o cadenas de texto.  Utilidad dinámica de calendario para comprobar disponibilidad de fechas.  Gestión de mapas y localización de resultados.  Validación de formulario y habilitación de elementos de formulario HTML5  Compatibilidad con navegadores con soporte limitado.  Gestión de imágenes en entornos con resoluciones reducidas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/15761</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/15761/files/TAZ-PFC-2014-340.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Diseño e implementación de prototipo front end con estructura adaptativa para un portal de reserva de hoteles</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

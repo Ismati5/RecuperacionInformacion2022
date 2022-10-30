@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sainz Martín, Esther</dc:contributor>
+    <dc:contributor>Nevot Bosch, Salvador</dc:contributor>
+    <dc:creator>Pérez Ibáñez, Javier</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Las tecnologías actuales permiten numerosas soluciones para facilitar la labor de mantenimiento de las instalaciones. Una centralización del mayor número de instalaciones en un punto, supone un cambio muy positivo en su manejo. Además la visualización de los procesos permite anticiparse a posibles averías y errores antes de que los usuarios se percaten. Esto supone dar un mejor servicio y utilizar eficientemente los recursos de personal interno de la UZ. Cada instalación requiere un tratamiento especial o unos horarios específicos como ocurre con la calefacción y la iluminación. Un sistema remoto, permite poder hacer cambios y obtener información, permitiendo ajustar individualmente parámetros de las máquinas para un mayor confort de los usuarios. En este proyecto se ha implementado una visualización y un control de las instalaciones de climatización y alumbrado a través del autómata de Siemens S7-1200 y el programa Simatic Wincc v7</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6349</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6349/files/TAZ-PFC-2011-513.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6349/files/TAZ-PFC-2011-513_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>automatización</dc:subject>
+    <dc:subject>scada wincc</dc:subject>
+    <dc:subject>siemens s7 1200</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electrónica Industrial)</dc:subject>
+    <dc:title>Integración y gestión de las instalaciones de climatización y alumbrado en el campus San Francisco, Universidad de Zaragoza</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

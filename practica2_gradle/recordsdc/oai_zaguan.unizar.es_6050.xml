@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Masiá Corcoy, Belén</dc:contributor>
+    <dc:contributor>Gutiérrez Pérez, Diego</dc:contributor>
+    <dc:creator>Corrales Romeo, Adrián</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>La fotografía computacional es un campo emergente nacido de la unión de la óptica, el procesamiento de la señal, la visión por computador, la informática gráfica o incluso de la electrónica y el arte. En los últimos años este campo ha producido avances espectaculares en cuanto al procesamiento de imágenes se refiere. La fotografía tradicional se basa en representar espacialmente, en una matriz de dos dimensiones, la escena real que se está observando en el momento de la captura. Uno de los problemas de este proceso es la aparición de zonas borrosas (blur) en las imágenes por falta de enfoque, movimiento (de la cámara o de la escena) u otros motivos. Esto es así puesto que se pierde la información necesaria para representar de manera correcta parte de la escena. Las primeras aproximaciones para resolver este problema se basaban en el estudio de las estadísticas de las imágenes, con el objetivo de añadir información consiguiendo recomponer parte de esa información perdida. En los últimos años, de manera emergente, se han desarrollado nuevas técnicas que permiten codicar la información en el proceso de captura de imágenes. Este trabajo, aprovechando el surgimiento de estas técnicas, presenta el uso de las aperturas codificadas como herramienta para codicar la información en el proceso de captura, consiguiendo eliminar blur y recuperar esas zonas borrosas. El trabajo se centra en la recuperación de blur por desenfoque (proceso comúnmente denominado defocus deblurring), por lo que se asumirá que las escenas capturadas no presentarán blur por movimiento; esto quiere decir que tanto la cámara como las escenas permanecerán inmóviles durante la captura de las mismas. La primera parte de este trabajo consiste en obtener aperturas codicadas cuyo diseño sea óptimo (o casi óptimo) para el problema de defocus deblurring. Esto se realizará planteando el problema como uno de optimización, que se resolverá mediante un algoritmo genético. Se obtendrán, de esta manera, aperturas diseñadas para distintos niveles de ruido y con distinta resolución espacial, para su posterior análisis y validación. Estas aperturas se validarán inicialmente mediante simulaciones, simulando el proceso de captura para obtener imágenes con defocus blur, consiguiendo eliminar a posteriori la mayor parte del mismo. Después, una vez validado el proceso mediante simulación, se trasladará el problema a entornos reales con una cámara fotografica y la impresión de las aperturas en material fotolitográfico. Finalmente se mostrará, en forma de resultados, el correcto funcionamiento del proceso y las limitaciones del mismo. Se ha realizado también, como parte de este proyecto, un estudio del estado del arte del campo de la fotografía computacional; estudio que se ha considerado de interés por tratarse de un campo de investigación de muy reciente aparición y por lo tanto con muy poca documentación existente. Además, parte de la investigación realizada en este proyecto ha permitido la creación de un artículo aceptado en el Congreso Ibero-Americano de Informática Gráfica (SIACG 2011) que fue considerado como uno de los tres mejores artículos del congreso, siendo propuesto para su extensión y sumisión al Computer Graphics Forum, revista JCR.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6050</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6050/files/TAZ-PFC-2011-318.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>fotografía</dc:subject>
+    <dc:subject>computacional</dc:subject>
+    <dc:subject>apertura</dc:subject>
+    <dc:subject>codificada</dc:subject>
+    <dc:subject>desenfoque</dc:subject>
+    <dc:subject>psf</dc:subject>
+    <dc:subject>función</dc:subject>
+    <dc:subject>dispersión</dc:subject>
+    <dc:subject>punto</dc:subject>
+    <dc:subject>imagen</dc:subject>
+    <dc:subject>digital</dc:subject>
+    <dc:subject>recuperación</dc:subject>
+    <dc:subject>reenfoque</dc:subject>
+    <dc:subject>blur</dc:subject>
+    <dc:subject>defocus</dc:subject>
+    <dc:subject>deblurring</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Fotografía computacional : diseño de aperturas codificadas para recuperación de imágenes desenfocadas</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

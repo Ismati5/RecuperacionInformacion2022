@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Angulo Garijo, Ana</dc:contributor>
+    <dc:creator>Espallargas Barrio, Joaquín</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>El TRABAJO DE FIN DE GRADO ha seguido la línea de trabajo simulación y experimentos en econometría ofrecido por el departamento de análisis económico de la facultad de Economía y Empresa de la Universidad de Zaragoza del Grado de Administración y Dirección de Empresas. En este documento se aborda mediante distintas pruebas el modelo de Monte Carlo, con diferentes simulaciones econométricas del tamaño (size) y la potencia (power) utilizando distintos test como: test RESET, el test de heterocedasticidad y el test de autocorrelación aplicados sobre un modelo de regresión. El objetivo de este informe es identificar si los estadísticos habitualmente utilizados son capaces de detectar un problema de la mala especificación en el modelo asociado a forma funcional incorrecta, omisión de variable relevante, autocorrelación, heterocedasticidad y endogeneidad.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/32729</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Análisis Económico</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/32729/files/TAZ-TFG-2015-1971.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Administración y Dirección de Empresas</dc:subject>
+    <dc:title>Análisis de los principales estadísticos de validación de los modelos econométricos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

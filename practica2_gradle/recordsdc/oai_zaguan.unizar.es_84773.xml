@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Pierre, Lambert</dc:contributor>
+    <dc:contributor>Loïc, Blanc</dc:contributor>
+    <dc:contributor>Navarro Elola, Luis</dc:contributor>
+    <dc:creator>Navarro Leach, Federico Javier</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>This master thesis studies the properties of the polylactic acid. The studies of these properties try to clarify its operation as a material of form memory. To check whether this material behaves as a shape memory material, the properties of the material at 60ºC, which is its glass transition temperature, and the change of these properties in the temperature transitions between the ambient temperature and the glass transition temperature have been mainly studied. The properties of polylactic acid have been studied by performing tensile and flexure tests on specimens printed with a 3D printer. The most important properties obtained in this project are equivalent Young's modulus of the PLA at 60ºC (both in stress and bending tests), the thermal expansion coefficient of the PLA, the ratio of the percentage of shape recovery of a material with the deformation carried out in it and with the number of times it has been deformed, and the recovery force and stress that appears in the material due to its internal structure when heated, which proves its shape recovery. &lt;br /&gt;Using the acquired knowledge, a proof of concept has been developed, a prototype of a medical tool that combines the shape memory properties of polylactide acid with flexible fluidic actuators. The development of this medical tool aims to improve navigation in the body to perform procedures such as endoscopies or colonoscopies, allowing the orientation of the tool using flexible fluid actuators also using the advantages of being able to control the rigidity of the material that gives us the PLA as a polymer with shape memory. Indeed, a flexible state is required to adapt to tortuous paths of the human body and painful contact force with the patient tissues, while a stiffer mode is needed to transmit force and for accurate positioning.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/84773</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Dirección y Organización de Empresas; Área de Organización de Empresas</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/84773/files/TAZ-TFM-2019-985.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Industrial</dc:subject>
+    <dc:title>Estudio de polímeros con memoria de forma - Aplicación en instrumentos médicos</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Study of shape memory polymer-based medical tools</dc:title>
+</oai_dc:dc>

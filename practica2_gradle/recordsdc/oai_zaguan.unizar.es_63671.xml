@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Barrio Gil, Roberto</dc:contributor>
+    <dc:contributor>Serrano Pastor, Sergio</dc:contributor>
+    <dc:creator>Rabinal Carreras, Sergio</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Se estudia la dinámica y la descripción de las redes neuronales acopladas a través de las teorías de Watanabe y Strogatz, y Ott y Antonsen. Se desarrolla una herramienta matemática capaz de reducir la complejidad de estos sistemas neuronales y facilitar de esta forma su estudio y compresión.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/63671</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Matemática Aplicada; Área de Matemática Aplicada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/63671/files/TAZ-TFM-2017-830.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Modelización e Investigación Matemática, Estadística y Computación</dc:subject>
+    <dc:title>Descripción y dinámica de redes de neuronas acopladas</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Description and dynamic of coupled neuron networks</dc:title>
+</oai_dc:dc>

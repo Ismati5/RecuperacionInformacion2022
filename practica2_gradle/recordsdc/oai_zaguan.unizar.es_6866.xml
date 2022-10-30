@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ballester Castañer, Javier</dc:contributor>
+    <dc:creator>Asensio Álvarez, Miguel Ángel</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>En este proyecto se comparan diferentes tecnologías para producir agua caliente sanitaria, calefacción y refrigeración en bloques de viviendas. Concretamente, se comparan la energía solar y la microcogeneración para la producción de agua caliente sanitaria, además del apoyo mediante calentadores individuales frente a caldera colectiva. En climatización, se comparan las bombas de calor eléctricas y a gas. El análisis se realiza bajo los puntos de vista técnico, económico y ambiental. Para que los resultados sean generalizables, se realizan comparaciones en bloques de diferentes dimensiones situados en distintas zonas climáticas españolas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6866</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6866/files/TAZ-PFC-2012-032_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6866/files/TAZ-PFC-2012-032.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>abastecimiento</dc:subject>
+    <dc:subject>demanda térmica</dc:subject>
+    <dc:subject>viviendas</dc:subject>
+    <dc:subject>microcogeneración</dc:subject>
+    <dc:subject>solar</dc:subject>
+    <dc:subject>calderas</dc:subject>
+    <dc:subject>bombas de calor</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Procedimientos de dimensionado y análisis económico de diferentes sistemas de generación de energía térmica en el sector residencial</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

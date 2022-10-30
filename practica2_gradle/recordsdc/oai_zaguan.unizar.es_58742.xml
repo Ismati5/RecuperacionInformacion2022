@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Fillat Castejón, Maria F. </dc:contributor>
+    <dc:contributor>Sevilla Miguel, Emma </dc:contributor>
+    <dc:creator>Sarasa Buisan, Cristina</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>Las proteínas FUR (ferric uptake regulator) constituyen una extensa familia de reguladores transcripcionales con una gran diversidad de funciones. FurC es un regulador en la cianobacterias filamentosa fijadora de nitrógeno Anabaena sp. PCC 7120 y se trata del regulador menos estudiado en la familia FUR y el que menos se asemeja a sus parálogos FurA y FurB. Se ha descrito que FurC está involucrado en varios procesos fisiológicos como la regulación de la actividad transcripcional de FurA y FurB, su clara implicación en procesos de estrés oxidativo y la participación en el metabolismo del nitrogeno, siendo regulado por el regulador global del nitrogeno, NtcA. El trabajo descrito en esta memoria se ha dirigido a estudiar estas funciones, focalizando en el papel que juega FurC dentro del metabolismo del nitrógeno. Para ello se realizó tanto una caracterización bioquímica de la proteína FurC recombinante, como un estudio fenotípico de un mutante de sobreexpresión de furC en Anabaena sp.. Se sobreexpresó y purificó FurC mediante un método optimizado en nuestro laboratorio que permitió obtener una proteína activa y la cual no mostraba átomos de Zinc en su estructura. Al contrario que los otros paralogos FUR, FurC no requirió de la presencia de metal regulador para mostrar una interacción específica con el ADN. Se describieron nuevos genes diana para el regulador FurC relacionados con el metabolismo de nitrógeno, ntcA y nblA y con el estrés oxidativo, prxA. En conclusión, la combinación de los estudios fenotípicos con análisis transcripcionales permitió explorar el carácter multifacético de FurC y describir su fuerte implicación en el proceso de degradación de los ficobilisomas, proceso de aclimatación que tiene lugar bajo condiciones de deficiencia de nitrógeno en cianobacterias.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/58742</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Bioquímica y Biología Molecular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/58742/files/TAZ-TFM-2016-312.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Biología Molecular y Celular</dc:subject>
+    <dc:title>Estudio funcional del regulador transcripcional FurC en cianobacterias</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">A functional study of the transcriptional regulator FurC in cyanobacteria</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Fernández Navajas, Julián</dc:contributor>
+    <dc:contributor>Ruiz Más, José</dc:contributor>
+    <dc:creator>Sequeira Villarreal, Luis E.</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El presente trabajo propone una metodología para el modelado y el análisis de flujos IP multimedia que se transportan mediante tecnologías WiFi. Dicha metodología tiene como objetivo la obtención de modelos de tráfico multimedia de manera experimental y generación de tráfico en entornos controlados de laboratorio para una aproximada reconstrucción de los escenarios reales. Además, se propone la adaptación de todo el proceso a otros tipos de tráfico y la automatización de los mismos.  En primer lugar, para la realización del trabajo se describen algunas de las herramientas más utilizadas, y otras más recientes, que permiten la captura de datos, la gestión y generación de tráfico, así como el procesado de la información. También se describen una serie de aplicaciones reales escogidas en el presente trabajo, que generan los flujos IP con requerimientos temporales entre los extremos de la comunicación (voz, vídeo y streaming). Por otro lado, dicha metodología se pone a prueba para la construcción de modelos de flujos IP de voz y vídeo, obteniendo resultados que permiten generar el mismo tráfico sin la necesidad de la aplicación. También, se utiliza para modelar las características del escenario. Como ejemplo se realiza el modelado de un buffer en un punto de acceso WiFi. En él se determinan algunas de sus características técnicas y funcionales más relevantes.  Con dichos flujos se realizan medidas de calidad en cuanto a pérdidas en entornos 802.11, en diferentes escenarios inhalámbricos reales. Estas medidas se comparan con los valores teóricos del protocolo de acceso al medio utilizado por dicho estándar CSMA/CA (Carrier Sense Multiple Access Collision Avoidance) para analizar el comportamiento real y encontrar las posibles diferencias. Al final se plantean las conclusiones obtenidas y algunas de las líneas futuras de investigación que se relacionan con los fenómenos observados.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6661</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingeniería Telemática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6661/files/TAZ-TFM-2011-101.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>medidas de calidad</dc:subject>
+    <dc:subject>modelado de tráfico</dc:subject>
+    <dc:subject>flujos ip</dc:subject>
+    <dc:subject>tiempo real</dc:subject>
+    <dc:subject>multimedia</dc:subject>
+    <dc:subject>voip</dc:subject>
+    <dc:subject>vídeo</dc:subject>
+    <dc:subject>streaming</dc:subject>
+    <dc:subject>buffer</dc:subject>
+    <dc:subject>wifi</dc:subject>
+    <dc:subject>Máster Universitario en Tecnología de la Información y Comunicaciones en Redes Móviles</dc:subject>
+    <dc:title>Metodología para el modelado y el análisis de flujos IP multimedia: Medidas de calidad</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

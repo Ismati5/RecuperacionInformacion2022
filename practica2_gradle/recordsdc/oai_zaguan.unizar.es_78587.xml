@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Brufau García, María Pilar</dc:contributor>
+    <dc:contributor>Morales Hernández, Mario</dc:contributor>
+    <dc:contributor>Pilar Calvo Pérez</dc:contributor>
+    <dc:creator>Borderas Estrada, José Miguel</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>Las inundaciones en España son el riesgo natural que a lo largo del tiempo ha producido los mayores daños tanto materiales como en pérdida de vidas humanas. Son fenómenos naturales que no pueden evitarse, aunque la acción del hombre ocupando las llanuras de inundación para desarrollar su actividad económica, y la reducción de la capacidad natural de retención de agua por el suelo, contribuyen a aumentar las probabilidades de que ocurran. Las medidas clásicas para luchar contra las inundaciones son la construcción de presas, encauzamientos y diques de protección que, en determinados casos, resultan insuficientes. En los últimos años se ha apostado por medidas no estructurales como planes de protección civil, implantación de sistemas de alerta (meteorológicos e hidrológicos), corrección hidrológico-forestal de las cuencas y medidas de ordenación del territorio, para atenuar las posibles consecuencias de las inundaciones. Durante las últimas avenidas del río Ebro (Febrero 2013, Marzo 2015, Abril 2018) se han observado, en imágenes de satélite, peculiaridades en la forma del área inundada en la población de Castejón de Ebro, situada en el tramo medio del cauce, no recogida por los aparatos de medida en esa zona y que repercuten en la prevención de las poblaciones situadas aguas más abajo de la misma. Mediante simulación numérica se han reconstruido estas inundaciones para buscar justificación de lo ocurrido y calibrar la estación de aforo que recoge las medidas de paso de flujo en esta localidad. Se ha incluido en el estudio la aportación de los afluentes Iregua, Leza, Cidacos, Arga, Ega y Aragón.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/78587</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/78587/files/TAZ-TFG-2018-4676.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Calibración del aforo de Castejón de Ebro en caso de inundación mediante simulación numérica</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Calibration of discharge flooding measures in Castejón de Ebro by numerical simulation</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<csw:Record xmlns:csw="http://www.opengis.net/cat/csw/2.0.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ows="http://www.opengis.net/ows" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:language>en</dc:language>
+  <dc:identifier>17-natura2k</dc:identifier>
+  <dc:description>Consolidated dataset containing the original Natura2000 sites polygons and basic attribute data: Site Code, Site Name, Site Type, altitude, area...</dc:description>
+  <dc:format>ArcGIS Personal Geodatabase</dc:format>
+  <dc:language>en</dc:language>
+  <dc:subject>PROTECTED SITES</dc:subject>
+  <dc:subject>NATURAL ENVIRONMENT</dc:subject>
+  <dc:subject>NATURAL ENVIRONMENT, ANTHROPIC ENVIRONMENT.LAND (LANDSCAPE, GEOGRAPHY).LAND.PROTECTED AREA</dc:subject>
+  <dc:subject>pSCI</dc:subject>
+  <dc:subject>SPA</dc:subject>
+  <dc:subject>environment</dc:subject>
+  <dc:subject>biota</dc:subject>
+  <dc:title>Natura 2000 sites</dc:title>
+  <dc:type>dataset</dc:type>
+  <dcterms:accessRights>copyright</dcterms:accessRights>
+  <dcterms:created>2005-04-20</dcterms:created>
+  <dcterms:license>Member States indicated the wish not to publish some sensitive data to the broader public. The list of sensitive data is not compiled yet, thus sensitive data is included. Therefore, the dataset can not be distributed outside the EU Commission, nor can it be used for external publication. Not all national datasets are vlaidated!</dcterms:license>
+  <dcterms:provenance>Spatial Data and attribute data is deliverd by every member state country seperatly. Every dataset is validated and a validation report is send to the originating country with remarks on data and recommendations. Countries can update their dataset and send new datasets for validation. This is an ongoing process. See enclosed document 'Building a Validated Spatial Database.pdf' for more information. Spatial data is loaded to the database, using an application developed by SADL. The site code and shape are loaded by this program. Description of the program and process can be found in the enclosed document 'loading_spatial_data_application.pdf'. All other descriptive data is loaded from memberstates descriptive database, and not from ETC consolidated descriptive database. Databases are still in development by countries. SADL used latest available datasets as indicated by dates below, however, no garantee exist on correctness of all data. Validation Reports for spatial data are enclosed on the CD-ROM distribution. They give an indication of the status of validation for each country. A spreadsheet is enclosed (naturasiteload___.pdf), giving for each descriptive database used to load descriptive data, the number of sites it contains, the number of sites that could be loaded and the number of sites that have no corresponding polygon in the database, all based on sitecode. Dates of datasets used **************************** Austria + digital cartography August 2004 + descriptive database June 2004 Belgium + digital cartography April 2004 + descriptive database April 2004 Germany + digital cartography - draft unofficial data only + descriptive database - draft unofficial data only Denmark + digital cartography September 2003 + descriptive database September 2003 Spain + digital cartography March 2004 + descriptive database March 2004 Finland + digital cartography Januari 2003 + descriptive database Januari 2003 France + digital cartography: SPA November 2003; pSCI June 2004 + descriptive database June 2004 Greece + digital cartography Octobre 2003 + descriptive database: pSCI November 2002; SPA february 2003 Ireland + digital cartography December 2002 + descriptive database: pSCI February 2004; SPA from ETC june 2004 Italy + digital cartography September 2003 + descriptive database: pSCI September 2003; SPA from ETC june 2004 Luxemburg + digital cartography: SPA February 2003; pSCI February 2004 + descriptive database: SPA February 2003; pSCI February 2004 Netherlands + digital cartography March 2004 + descriptive database March 2004 Portugal + digital cartography: SPA February 2004; pSCI 2001 + descriptive database: SPA February 2004; pSCI November 2002 Sweden + digital cartography August 2003 + descriptive database August 2003 United Kingdom + digital cartography: SPA March 2002; pSCI Sepetember 2003 + descriptive database: SPA March 2002; pSCI Sepetember 2003</dcterms:provenance>
+  <dcterms:spatial>AUSTRIA</dcterms:spatial>
+  <dcterms:spatial>BELGIUM</dcterms:spatial>
+  <dcterms:spatial>DENMARK</dcterms:spatial>
+  <dcterms:spatial>FINLAND</dcterms:spatial>
+  <dcterms:spatial>FRANCE</dcterms:spatial>
+  <dcterms:spatial>GERMANY</dcterms:spatial>
+  <dcterms:spatial>GREECE</dcterms:spatial>
+  <dcterms:spatial>IRELAND</dcterms:spatial>
+  <dcterms:spatial>ITALY</dcterms:spatial>
+  <dcterms:spatial>LUXEMBOURG</dcterms:spatial>
+  <dcterms:spatial>NETHERLANDS</dcterms:spatial>
+  <dcterms:spatial>PORTUGAL</dcterms:spatial>
+  <dcterms:spatial>SPAIN</dcterms:spatial>
+  <dcterms:spatial>SWEDEN</dcterms:spatial>
+  <dcterms:spatial>UNITED KINGDOM</dcterms:spatial>
+  <dcterms:temporal>begin=2002-03-01; end=2004-08-31;</dcterms:temporal>
+  <ows:BoundingBox>
+    <ows:LowerCorner>-31.124559 27.587291</ows:LowerCorner>
+    <ows:UpperCorner>31.561186 70.024669</ows:UpperCorner>
+  </ows:BoundingBox>
+</csw:Record>

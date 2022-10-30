@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Salinas Áriz, Íñigo</dc:contributor>
+    <dc:creator>López Lanuza, Guillermo</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Este Trabajo de Fin de Grado es una contribución al desarrollo de una aplicación de control de tráfico en carreteras, a partir de los datos de un sensor acústico distribuido basado en fibra óptica funcionando mediante reflectometría coherente.&lt;br /&gt;En primer lugar se estudian y evalúan las trazas recibidas de dicho sensor, tanto en el dominio temporal como espectral, con el objetivo de mejorar los datos brutos a partir de una serie de técnicas de procesado en frecuencia.&lt;br /&gt;Posteriormente se realiza un análisis de forma manual de las trazas obtenidas a lo largo de un conjunto de días de funcionamiento del sensor, con el principal fin de encontrar eventos inhabituales que son posibles de detectar con el sistema del que se dispone.&lt;br /&gt;Por último, se desarrolla una aplicación que permite controlar la velocidad media y el número medio de coches en diferentes tramos de reducida longitud a lo largo de la vía donde está instalado el sensor, lo cual permitirá un control en tiempo real de la situación de la carretera y servirá para alarmar en caso de que se produzca una situación anormal.&lt;br /&gt;Este trabajo supone un avance en la aplicación práctica del mencionado sensor distribuido, así como un punto de partida para futuros estudios y aplicaciones.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/85273</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/85273/files/TAZ-TFG-2019-2548.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías y Servicios de Telecomunicación</dc:subject>
+    <dc:title>Aplicación de un sensor acústico distribuido sobre fibra óptica al control de carreteras</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Optical fiber distributed acoustic sensor for smart road control</dc:title>
+</oai_dc:dc>

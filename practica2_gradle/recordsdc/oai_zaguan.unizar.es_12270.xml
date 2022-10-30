@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Pardo Jimeno, Julián</dc:contributor>
+    <dc:creator>Jaime Sánchez, Paula</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Las células asesinas naturales o células NK (del inglés, “Natural Killers”) y los linfocitos T citotóxicos (Tc) son las principales armas del sistema inmune en el control del desarrollo tumoral a través del reconocimiento y eliminación de células transformada. Para ello son capaces de inducir la eliminación de las células tumorales a través de la inducción de apoptosis mediante dos vías comunes: a) el sistema de ligandos mortales (como FasL o TRAIL) y la vía de exocitosis granular, mecanismos ampliamente estudiados previamente en nuestro grupo de laboratorio. Los tratamientos de inmunoterapia celular basados en células Tc o células NK podrían ser muy útiles para tratar tumores que presentan resistencia a drogas. Sin embargo se desconoce si la eliminación de estas células tumorales generará las señales inmunogénicas adecuadas para favorecer su completa eliminación y la aparición de recaídas. Por ello el objetivo general de este trabajo es establecer un modelo in vivo que nos permita evaluar si la muerte celular inducida por los linfocitos Tc sobre células tumorales es inmunogénica. Para ello en primer lugar se optimizó el protocolo para estudiar el mecanismo de eliminación in vivo de la línea celular de linfoma de células T EL4 mediada por linfocitos Tc y evaluar el papel de las granzimas A y B.  Y a continuación se desarrolló un modelo in vivo basado en la inmunización con el virus LCM para prevenir el desarrollo del linfoma T EL4, estableciéndose en primer lugar las condiciones en las que los linfocitos Tc antivirales inhiben el crecimiento tumoral primario para luego evaluar la memoria inmunológica  antitumoral generada tras la eliminación de las células tumorales en estas condiciones.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12270</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Biología Celular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12270/files/TAZ-TFM-2013-783.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>células citotóxicas</dc:subject>
+    <dc:subject>Máster Universitario en Biología Molecular y Celular</dc:subject>
+    <dc:title>Mecanismos de muerte celular mediada por células citotóxicas (Tc y NK) implicados en la protección frente al desarrollo tumoral in vivo</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ruiz Pesini, Eduardo</dc:contributor>
+    <dc:contributor>Pesini Martín, Alba</dc:contributor>
+    <dc:creator>Sedeño Cacciatore, Ángela</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>La enfermedad de Alzheimer es un síndrome neurodegenerativo progresivo del sistema nervioso central caracterizado principalmente por deterioro cognitivo y pérdida de memoria.  De acuerdo a la hipótesis de cascada mitocondrial, se ha propuesto que la causa de esta patología podría ser el declive de la funcionalidad del sistema de fosforilación oxidativa mitocondrial, responsable de la generación de energía en las células e implicado en la diferenciación neuronal. Puesto que este declive puede estar acrecentado por factores ambientales, se ha estudiado el efecto que tiene el cloruro de tributilestaño, un xenobiótico ambiental que inhibe el sistema de fosforilación oxidativa, sobre la diferenciación neuronal.  El estudio del efecto de concentraciones inhibitorias de la función mitocondrial de este xenobiótico se ha realizado en células SH-SY5Y, modelos celulares de enfermedad de Alzheimer ampliamente utilizados en investigación, durante procesos de diferenciación a neurona colinérgica y dopaminérgica. Concentraciones crecientes de tributilestaño disminuyen la respiración mitocondrial y parecen ser citotóxicas para la línea celular cuando se encuentra sometida a tratamiento con ácido retinoico, un agente inductor de la diferenciación. El análisis morfológico y del marcador neuronal beta-III-tubulina muestran que la exposición a 50 nM de tributilestaño impide la diferenciación neuronal en todos los casos estudiados, mientras que 25 nM impide únicamente la diferenciación colinérgica.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/59182</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Biología Celular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/59182/files/TAZ-TFG-2016-1849.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/59182/files/TAZ-TFG-2016-1849_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Biotecnología</dc:subject>
+    <dc:title>Efecto de la inhibición del sistema de fosforilación oxidativa sobre la diferenciación neuronal en la enfermedad de Alzheimer</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Effect of inhibition of oxidative phosphorylation system on neural differentiation in Alzheimer’s disease</dc:title>
+</oai_dc:dc>

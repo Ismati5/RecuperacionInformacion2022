@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Fabra Caro, Francisco Javier</dc:contributor>
+    <dc:creator>Mengual Lombar, Juan</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>Hoy en día los procesos Web son actores habituales de internet que siguen aumentando en número y complejidad. La evolución de las comunicaciones en cuanto a rapidez y seguridad ha permitido el nacimiento de una nube donde herramientas, servicios y espacio se ofrecen virtualizados. Los procesos que antes funcionaban localmente ahora se enfrentan a un mundo online donde deben comunicarse y coordinarse entre ellos, ahora son procesos Web. Los procesos Web involucran múltiples usuarios que resultan complejos de coordinar y comunicar, para ello surgen middlewares de coordinación. Uno de los elementos de este tipo de middlewares es el bróker de mensajes, que debe coordinar a los servicios Web que lo usan para interaccionar. Actúa como un repositorio de mensajes y datos al cual todos los servicios implicados pueden acceder. En 2006 el Grupo de Integración de Sistemas Distribuidos y Heterogéneos (GIDHE) de la Universidad de Zaragoza hizo una propuesta de broker de mensajes, RLinda, basado en Linda y diseñado e implementado mediante tecnología de Redes de Petri de alto nivel. La plataforma actual tiene ciertas limitaciones que dificultan su integración en entornos donde las tecnologías y estándares de servicios Web son utilizados. WS-PTRLinda se construye sobre el núcleo de RLinda, implementando las principales funcionalidades con la misma tecnología que el resto del sistema: las redes por Referencia, una subclase de las Object Petri Nets. El nuevo sistema se compone de dos nuevas capas, una de persistencia y otra de temporización. La capa de persistencia aporta un sistema de almacenamiento persistente de los datos permitiendo al sistema ser aplicado en entornos con características de alta disponibilidad. Esta capa se basa en el empleo de la herramienta Hibernate para comunicase con una base de datos MySQL, ofreciendo dos conceptos de persistencia que proporcionan mayor flexibilidad para enfrentarse a un escenario concreto. La capa de temporización aplica el concepto el tiempo a tanto a las operaciones como a los datos. Esta capa descansa sobre una serie de modificaciones en la red de Petri que modela el sistema y algunos objetos que funcionan en background ocupados de gestionar el tiempo que una operación o dato es válida/o. El concepto de tiempo añade nuevas posibilidades a las anteriores operaciones del sistema y lo habilita para desplegarse en ciertos campos de aplicación. El proyecto añade además una interfaz accesible mediante estándares de servicios web (SOAP y REST) que conecta directamente con el núcleo de la aplicación, evitando el cuello de botella que la tecnología RMI ocasionaba en el RLinda original y validación de datos en base a esquemas XMLSchema. Finalmente se desarrolla una aplicación de descarga P2P como caso real de aplicación y se analizan las prestaciones del sistema desarrollado en un clúster, analizando los resultados con respecto a los obtenidos inicialmente para RLinda.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5420</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5420/files/TAZ-PFC-2010-370.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Servicios web</dc:subject>
+    <dc:subject>RLinda</dc:subject>
+    <dc:subject>LInda</dc:subject>
+    <dc:subject>XML</dc:subject>
+    <dc:subject>SOAP</dc:subject>
+    <dc:subject>REST</dc:subject>
+    <dc:subject>Persistencia</dc:subject>
+    <dc:subject>Temporización</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>WS-PTRLinda : un sistema de coordinación temporizado y persistente basado en tecnologías de servicios web</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

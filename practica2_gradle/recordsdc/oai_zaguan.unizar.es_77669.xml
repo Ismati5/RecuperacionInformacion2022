@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Murillo Castarlenas, Javier Antonio</dc:contributor>
+    <dc:creator>Cortés Ruiz, Adrián</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>En este trabajo se va a desarrollar un modelo de simulación del sistema cardiopulmonar, que sirva como herramienta para poder estudiar el comportamiento fisiológico, realizar un análisis comparativo de tres modelos de elastancias variables en el tiempo (exponencial, coseno, y exponencial-coseno)  y simular algunas patologías. El objetivo de este trabajo consiste en seleccionar cuál de los tres modelos es más adecuado para poder implementarlo en otros más complejos, teniendo en cuenta que la función de elastancia óptima tiene que tener un equilibrio entre el número de parámetros utilizados, y el realismo con el que simula el comportamiento fisiológico del sistema cardiopulmonar; Y en poder entender las consecuencias que provocan sobre el organismo, cada una de las enfermedades estudiadas.   Después de realizar el análisis comparativo de elastancias, se ha llegado a la conclusión que para elegir un tipo de elastancia que pueda ser utilizada en otros modelos hemodinámicos más complejos, tiene que existir un equilibrio, entre el número de parámetros utilizados en el modelo de elastancia, y el realismo con el que simula l el comportamiento fisiológico del sistema circulatorio cardiopulmonar. El modelo de elastancia variable en el tiempo que mejor cumple este criterio, ha sido el modelo de elastancia cardíaca exponencial-coseno. Los resultados obtenidos al efectuar la simulación del sistema circulatorio cardiopulmonar sano y con anomalías, indican que nuestro modelo simula de manera realista la fisiología de manera relativamente simple, pero presenta limitaciones procedentes de las hipótesis realizadas para construir el modelo agregado.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/77669</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/77669/files/TAZ-TFG-2018-2598.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Comparación entre modelos de simulación para la interacción del corazón derecho e izquierdo bajo la influencia de patologías cardíacas</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Comparison between simulation models for the interaction of the right and left heart under the influence of cardiac pathologies</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Monne Bailo, Carlos</dc:contributor>
+    <dc:creator>Romea Torralba, Andrés</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El impulso y desarrollo que está experimentando la energía termosolar hoy en día a nivel mundial, crea la necesidad de estudio y mejora de los sistemas de generación de potencia y transmisión de energía. Con objeto de responder a esta necesidad surge este proyecto. De los diversos dispositivos de producción energética termosolar, ha surgido un especial interés por las células AMTEC asociadas a un disco parabólico, aún en fase de investigación. Conocer que posibilidades ofrece este sistema a través del estudio de sus características y, más concretamente desarrollar un dispositivo de transferencia de calor entre células AMTEC y disco parabólico son los objetivos del proyecto. El sistema disco parabólico-células AMTEC requiere de un intercambiador de calor que tenga la capacidad de absorber la energía solar concentrada por el disco parabólico y transmitirla de forma continua a las células. Este intercambiador puede tener diversas configuraciones, de las cuales, seleccionamos un heat pipe, debido a su gran capacidad de transporte energético. Para ello se ha modelado un diseño, que permite adecuarse a las condiciones de trabajo que exigen las células AMTEC. Posteriormente se ha analizado, observando que parámetros afectan a su funcionamiento y así poder definir el rango de operación. En resumen, lo que se pretende es diseñar y analizar un Heat pipe que tenga como aplicación la transmisión de calor entre células AMTEC y disco parabólico. El proyecto se ha desglosado en dos partes: 1.	Estudio de las células AMTEC por ser una alternativa novedosa en el sector termosolar que ofrece elevadas eficiencias de conversión. Incluyendo en este apartado el funcionamiento, componentes y problemáticas de las células AMTEC. 2.	Diseño y análisis matemático del heat pipe que permita la alimentación de células AMTEC. Para ello se observa cómo afecta la variación de los parámetros dimensionales del heat pipe (longitud, estructura porosa interna, inclinación, sección transversa) y características del fluido de trabajo a la capacidad de transferencia de calor y las limitaciones asociadas a su funcionamiento.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10536</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10536/files/TAZ-PFC-2013-234.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/10536/files/TAZ-PFC-2013-234_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>amtec</dc:subject>
+    <dc:subject>heat pipe</dc:subject>
+    <dc:subject>termosolar</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Análisis de sistemas Heat Pipe para células AMTEC y su aplicación en centrales termosolares</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

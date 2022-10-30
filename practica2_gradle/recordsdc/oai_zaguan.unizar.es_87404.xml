@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bayona Bafaluy, María Pilar</dc:contributor>
+    <dc:creator>Rubio Gayarre, Alba</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>La membrana interna mitocondrial se organiza en estructuras denominadas crestas, que son importantes para el funcionamiento de la mitocondria. Los complejos de la cadena respiratoria I-IV y F1F0-ATP sintasa (CV) se localizan en las crestas y realizan el proceso de fosforilación oxidativa (OXPHOS) que produce ATP para la célula. El sistema MICOS (Sistema de contacto mitocondrial y organización de crestas) es importante en la formación y mantenimiento de las crestas. Se localiza en la zona de unión de crestas, que separa los dos dominios de la membrana interna: el dominio paralelo entre membranas y el dominio de crestas. El sistema MICOS se divide en dos subcomplejos: subcomplejo Mic60 y subcomplejo Mic10. Subunidades del sistema MICOS también se han relacionado con la estabilidad del mtDNA y con el importe de proteínas a la mitocondria. En el presente estudio se ha trabajado con fibroblastos derivados de un paciente al que, mediante secuenciación masiva, se le encontraron mutaciones en el gen CHCHD6/Mic25. CHCHD6/Mic25 es una proteína periférica de la membrana interna, orientada hacia el espacio intermembrana y forma parte del subcomplejo Mic60. Nuestros resultados indican que los fibroblastos con mutaciones en CHCHD6/Mic25 tienen niveles de ATP menores que el control y que poseen una estructura de crestas alterada. Los niveles de expresión de las demás proteínas del subcomplejo no cambian, aunque se observó un aumento de la expresión de subunidades del sistema OXPHOS. Se intentaron llevar a cabo estudios de complementación funcional, sin embargo, la sobreexpresión del gen resultó tóxica para las células. Bajos niveles de ATP mitocondrial y la alteración en las crestas indican que las mutaciones tienen efecto, sin embargo, es necesario modular la expresión del gen CHCHD6/Mic25 para confirmar la patogenicidad de las mutaciones en nuestro paciente.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87404</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Bioquímica y Biología Molecular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87404/files/TAZ-TFG-2019-3058.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Biotecnología</dc:subject>
+    <dc:title>Estudio de patogenicidad de mutaciones en el gen CHCHD6</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Study of pathogenicity of mutations in CHCHD6 gene</dc:title>
+</oai_dc:dc>

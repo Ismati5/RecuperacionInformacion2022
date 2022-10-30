@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Celaya Alastrué, Javier</dc:contributor>
+    <dc:creator>Ceresuela Palomera, David</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El objetivo del PFC es el diseño e implementación de un sistema de ejecución de trabajos distribuidos que integre de forma flexible el aprovisionamiento y asignaciones dinámicas de máquinas virtuales como nodos de ejecución en un conjunto de máquinas reales. Y también el sometimiento y control de envío de trabajos distribuidos a un subconjunto escogido de nodos virtuales de ejecución.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8976</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Arquitectura y Tecnología de Computadores</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8976/files/TAZ-PFC-2012-628.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>sistemas distribuidos</dc:subject>
+    <dc:subject>herramientas de gestión de la configuración</dc:subject>
+    <dc:subject>administración de sistemas</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Diseño e implementación de un sistema dinámico de gestión de trabajos distribuidos en un entorno de máquinas virtuales</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

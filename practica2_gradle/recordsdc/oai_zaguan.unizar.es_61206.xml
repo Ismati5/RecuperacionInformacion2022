@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Villarroel Salcedo, José Luis</dc:contributor>
+    <dc:creator>Giménez Torres, Alberto</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>El proyecto parte de una colaboración de la empresa Geko Navsat y la Universidad de Zaragoza, para el desarrollo de protocolos de redes ad-hoc y de aplicaciones de búsqueda en montaña. 	El objetivo de este proyecto es diseñar un sistema de tiempo real empotrado, implementado sobre el módulo KYNEO V0.2, proporcionado por la empresa Geko Navsat. La aplicación desarrollada debe llevar a cabo el guiado de un individuo portador de uno de estos módulos hasta un individuo accidentado, el cual posee también uno de estos módulos.  	La estructura diseñada para dicha aplicación consta de diferentes módulos KYNEO, interconexionados a través de una red ad-hoc de módulos XBee, proporcionados por la empresa Geko Navsat. Cada módulo KYNEO obtiene información acerca de su posición y su estado, utilizando los sensores y el módulo GNSS integrados en el módulo. Esta información es compartida con el resto módulos KYNEO a través de la red. Por último, el módulo buscador genera las instrucciones de búsqueda partiendo de la información compartida, las cuales son visualizadas mediante una aplicación móvil diseñada por la empresa Geko Navsat. La comunicación entre el módulo buscador y el dispositivo móvil se establece con un módulo Bluetooth. 	Para el correcto funcionamiento de la aplicación, se han implementado unos drivers de comunicación software para los puertos UART1, UART2, SPI e I2C, conectados al módulo GNSS, al módulo XBee, al módulo Bluetooth y a los sensores respectivamente. 	Además, se han diseñado todos los paquetes software necesarios para la generación, recepción y trasmisión de la información compartida entre módulos y de las instrucciones de búsqueda enviadas al dispositivo móvil. 	Finalmente, se han realizado diferentes pruebas de funcionamiento. El resultado obtenido de dichas pruebas es que la aplicación envía las instrucciones de búsqueda correctas para la localización de un módulo accidentado.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61206</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61206/files/TAZ-TFG-2016-2914.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/61206/files/TAZ-TFG-2016-2914_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Electrónica y Automática</dc:subject>
+    <dc:title>Módulo de posicionamiento y búsqueda basado en GPS y redes ad-hoc</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Positioning and search module based on GPS and ad-hoc networks</dc:title>
+</oai_dc:dc>

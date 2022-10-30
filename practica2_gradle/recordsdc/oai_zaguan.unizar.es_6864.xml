@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Murillo Arnal, Ana Cristina</dc:contributor>
+    <dc:creator>Molinero Horno, Juan José</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El negocio de la gestión de contenidos turísticos se ha vuelto muy competitivo en estos últimos tiempos. Desde la aparición de los dispositivos móviles de última generación o smartphones, los usuarios demandan la obtención de este tipo de servicios en cualquier lugar usando su conexión a Internet. La empresa Disline, dedicada a este tipo de productos, propuso la realización de un sistema de publicación de contenidos de interés turístico que se adecuara a las necesidades impuestas desde el mercado. Durante el presente proyecto se ha desarrollado un sistema que se compone de dos aplicaciones. Una parte llamada gestor web, desde la cual la empresa de creación de contenidos puede introducir información referente a los puntos de interés de un determinado entorno turístico. Una vez se ha introducido toda la información deseada, se generá una base de datos con los contenidos que puede ser usada en la segunda parte del sistema, la aplicación móvil. Esta aplicación muestra, usando la información que obtiene de la base de datos generada anteriormente, los puntos de interés deseados en forma de guía turística de forma que resulte útil para el usuario. En este proyecto se ha realizado una versión de la aplicación móvil para el sistema iOS. Además del desarrollo de las aplicaciones mencionadas anteriormente, se ha realizado un estudio sobre las técnicas de reconocimiento de objetos mediante visión por computador que son más adecuadas en el ámbito del proyecto. Aunque las técnicas que se basan en el reconocimiento del objeto sin utilizar ningún marcador adicional muestran grandes posibilidades, para la realización de un producto comercial las técnicas de reconocimiento de objetos mediante marcadores (códigos QR) son las que se encuentran más maduras actualmente y por ello se ha decidido implementar estas dentro de la aplicación. Finalmente, durante el desarrollo del proyecto, otras características interesantes para el sistema han sido identificadas en colaboración con la empresa para desarrollar en otros proyectos en paralelo o futuros que añadan dichas funcionalidades dentro del sistema.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6864</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6864/files/TAZ-PFC-2012-030.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>reconocimiento visual</dc:subject>
+    <dc:subject>iphone</dc:subject>
+    <dc:subject>guía turística</dc:subject>
+    <dc:subject>geolocalización</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Plataforma para guías turísticas virtuales basadas en teléfonos móviles</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Cariñena Marzo, José Fernando</dc:contributor>
+    <dc:contributor>Clemente Gallardo, Jesús</dc:contributor>
+    <dc:creator>Lanuza García, Alfonso</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>En este trabajo formulamos geométricamente la mecánica cuántica en términos de variedades de Kähler. Esto nos ayuda a identificar el grupo de transformaciones de la mecánica cuántica con el grupo unitario. A partir de este grupo de Lie, deducimos de manera natural la evolución dinámica de un sistema cuántica, y estudiamos integradores numéricos que preservan la estructura del grupo unitario. Por último, mostramos las ventajas usar estos métodos unitarios aplicándolos a un modelo sencillo de interacción luz-materia.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/59118</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Teórica; Área de Física Teórica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/59118/files/TAZ-TFG-2016-2239_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/59118/files/TAZ-TFG-2016-2239.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Matemáticas</dc:subject>
+    <dc:title>Formalismo Geométrico de la Mecánica Cuántica. Integradores Unitarios.</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Geometrical Formulation of Quantum Dynamics. Unitary Integrators.</dc:title>
+</oai_dc:dc>

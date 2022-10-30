@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Francisco Javier García Ramos</dc:contributor>
+    <dc:contributor>Pablo Martín Ramos</dc:contributor>
+    <dc:creator>Javier Marijuán Lahoz</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>RESUMEN El objetivo del Proyecto es analizar, tanto en el ámbito técnico como en el económico, la viabilidad de la implantación de un sistema para la obtención de biogás mediante el tratamiento de los purines generados por una granja de madres de porcino a través de un proceso de digestión anaerobia en un biodigestor. En dicho proceso de digestión, se genera un biogás con la siguiente composición aproximada (si bien dependerá del sustrato): 50-70% de metano (CH4), 30-40% de dióxido de carbono (CO2) y ≤5% de hidrógeno (H2), sulfuro de hidrógeno (H2S) y otros gases. El poder calorífico de dicha mezcla es ligeramente superior a la mitad del que tiene el gas natural, por lo que puede utilizarse en motores adaptados para la producción de energía eléctrica o para la producción de calor, que serían utilizados en la calefacción de la explotación, puesto que en las explotaciones de madres hay que garantizar una temperatura constante a lo largo de todo el año. Mediante la instalación de este sistema de digestión anaerobia no sólo se evitaría la contaminación medioambiental asociada a los purines (cuya eliminación es problemática) sino que además se obtendría un beneficio económico por el ahorro energético que conllevaría, aparte de obtener bioabono. Dicho abono cuenta con unas excelentes propiedades fertilizantes (es muy rico en nitrógeno, fósforo y potasio), no posee mal olor (a diferencia del purín fresco), no deja residuos tóxicos en el suelo, eleva la calidad del mismo y puede considerarse como un buen sustitutivo o complemento de los fertilizantes químicos. En resumen, se pasaría, por tanto, del residuo al coproducto de alto valor añadido. El trabajo académico se ha centrado en el diseño de la instalación completa, abarcando el dimensionado del digestor, el motor a colocar, sistemas de tuberías, etc. para el caso concreto de una explotación real en funcionamiento. Dicha instalación se localiza en la zona de Barbastro, concretamente en Laluenga, y cuenta con 650 madres. Partiendo de datos reales de consumo actual, se ha buscado cubrir la totalidad de las necesidades energéticas de la granja y en caso de no llegar suplir todas las necesidades, se ha estudiado el ahorro que se puede conseguir con la implantación de este sistema, además de la reducción de la contaminación ambiental, al disminuir sensiblemente la emisión de gases de efecto invernadero.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/60562</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencias Agrarias y del Medio Natural; Área de Ingeniería Agroforestal</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/60562/files/TAZ-TFG-2016-5016.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>biodigestor</dc:subject>
+    <dc:subject>biofertilizante</dc:subject>
+    <dc:subject>granja de madres</dc:subject>
+    <dc:subject>purín</dc:subject>
+    <dc:subject>Graduado en Ingeniería Agroalimentaria y del Medio Rural</dc:subject>
+    <dc:title>Estudio técnico y económico de la instalación de una planta de biogás en una granja de madres de porcino.</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Technical and economic study of the installation of a biogas plant on a pig breeding farm.</dc:title>
+</oai_dc:dc>

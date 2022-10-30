@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Yebes Torres, José Javier</dc:contributor>
+    <dc:contributor>Mahulea, Cristian</dc:contributor>
+    <dc:creator>Barrio Arbex, Jorge</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>Este trabajo aborda dos dificultades presentes en los sistemas actuales de localización y creación de mapas de forma simultánea (SLAM, en inglés Simultaneous Localization And Mapping) para la conducción autónoma: la reconstrucción 3D del entorno recorrido por el vehículo (mapeado) y la estimación del movimiento y la posición del vehículo (odometría). En este TFM se propone el uso de la tecnología LiDAR para la percepción 3D del entorno del vehículo y la posterior extracción de información semántica de interés. Los datos obtenidos del LiDAR se formatean como nubes dispersas de puntos 3D y se propone el uso de una variante del algoritmo ICP (Iterative Closest Point) para realizar la alineación de dichas nubes.  En primer lugar, se presenta un estudio de mercado de los dispositivos LiDAR actuales aplicados a los sistemas de asistencia a la conducción y vehículos autónomos. Para el desarrollo de este trabajo se han utilizado datos de varios LiDAR de la marca Velodyne: VLP-16, HDL-32E y HDL-64E. En segundo lugar, se han estudiado y evaluado diferentes variantes del algoritmo ICP con el objetivo de realizar la reconstrucción 3D y la odometría. También se proponen una serie de métodos para la optimización del algoritmo, mejorando la precisión y reduciendo el tiempo de cómputo. Para la evaluación del método y algoritmos propuestos se han utilizado datos de dos sensores. Un LiDAR Velodyne HDL-32E instalado en un coche de la Fundación Vicomtech y un LiDAR Velodyne HDL-64E instalado en un coche del Karlsruhe Institute of Technology.    En este trabajo se consigue una estimación precisa de la odometría del vehículo, se realiza la reconstrucción de 3D del recorrido del vehículo y se crean imágenes panorámicas, usando solamente datos procedentes de sensores LiDAR. El trabajo se ha desarrollado utilizando de las librerías OpenCV y PCL (Point Cloud Library).</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76272</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76272/files/TAZ-TFM-2018-656.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Industrial</dc:subject>
+    <dc:title>Percepción y análisis 3D de escenas de carretera para vehículos autónomos</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">3D Road scene perception and analysis for autonomous vehicles</dc:title>
+</oai_dc:dc>

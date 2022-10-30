@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Letosa Fleta, Jesús</dc:contributor>
+    <dc:contributor>Usón Sardaña, Antonio</dc:contributor>
+    <dc:creator>Imbaquingo Muñoz, Carlos Enrique</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Una máquina síncrona de excitación híbrida (HESM) está constituida por rotor de imanes permanentes y bobinado de campo, en donde las funciones características de cada componente son proporcionar una alta densidad energética y regular el campo magnético en el entrehierro respectivamente. En el presente documento se detalla el funcionamiento de este tipo de máquina, utilizando el diseño de [1]. Para comprender el funcionamiento y propiedades de la HESM, se utiliza un programa computacional de elementos finitos, FEMM 2D; cuyo método de análisis es revisado rápidamente para poder emplear esta herramienta. Desarrollo un programa capaz de diseñar un modelo de HESM con flujo Tangencial / Radial. La configuración de los imanes permanentes y bobinado de campo en el rotor de esta máquina permiten fácilmente identificar la interacción de estas dos fuentes de campo magnético. A través del programa se parametrizan las dimensiones, materiales y excitaciones con el fin de conseguir una máquina de 380V y 1.5 kW. Estudio el efecto de la reacción de inducido sobre esta máquina para los tres tipos de factor de potencia. Finalmente, calculo la reactancia síncrona de la máquina que proporciona información del impacto de la reacción de inducido sobre ella.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12867</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12867/files/TAZ-TFM-2013-1081.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>máquina síncrona de excitación híbrida</dc:subject>
+    <dc:subject>t/r hesm</dc:subject>
+    <dc:subject>Máster Universitario en Energías Renovables y Eficiencia Energética</dc:subject>
+    <dc:title>Análisis paramétrico mediante el método de elementos finitos en dos dimensiones de una máquina síncrona de excitación híbrida</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bruscolini, Pierpaolo</dc:contributor>
+    <dc:creator>Calvo Príncipe, Pilar</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Antibody therapeutics are usually developed in animals, commonly in mouse, and then they are humanized by Complementary-Determining Regions (CDR) grafting. Several times, this key step fails because of the lack of stability and/or functionality of the new antibody and the immunogenicity. Different efforts have been made to improve the humanization; many of them rely on the quantification of the humanness of the variable region. Previous researches have reported a statistical approach based on a Multivariate Gaussian (MG) model which successfully distinguishes between human and murine sequences.  &lt;br /&gt;However, the strength and weaknesses of this model have not be properly studied yet, and a full understanding of where its efficacy comes from, and how the model could be refined to improve it, is still lacking.&lt;br /&gt;Here, some tests and attempts of refinement of the MG model are performed to understand if the resulting interaction map is related to the protein's structure, to see if the predictions can be improved by introducing some score corrections and to find out which are the most relevant columns and how the number of sequences in the learning dataset affects the classification capabilities.&lt;br /&gt;The results that we obtain are somewhat surprising: We show that no strong correlation between the contact map and the emerging interactions between pairs of residues from the model was found, the classification is still good when a much smaller learning dataset is included and gap corrections do not affect the predictions power. We also present different indicators to identify key positions and infer the Kullback-Leibler divergence as the best one. &lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/86651</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Teórica; Área de Física Teórica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/86651/files/TAZ-TFM-2019-913.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Biotecnología Cuantitativa</dc:subject>
+    <dc:title>Ajuste de un modelo estadístico para la humanización de anticuerpos</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Refinement of a statistical model for antibody humanization</dc:title>
+</oai_dc:dc>

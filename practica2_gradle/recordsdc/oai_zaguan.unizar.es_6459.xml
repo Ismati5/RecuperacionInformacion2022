@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Fumanal Sopena, Antonio</dc:contributor>
+    <dc:contributor>Prieto Martín, Ascensión</dc:contributor>
+    <dc:contributor>Aznar Villacampa, María Pilar</dc:contributor>
+    <dc:creator>Tertre Fantacchiotti, Carmen Elena</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El presente Proyecto Fin de Carrera se realiza en la empresa cervecera “La Zaragozana S.A.”, una cervecera de gran tradición fundada en 1900 en la ciudad de Zaragoza. El presente proyecto estudia una mejora en el proceso de filtración de la cerveza verde. Los objetivos del proyecto son: 1)Optimizar los parámetros de operación del filtro; para ello se realiza lo siguiente: o Se realiza un histórico de datos de las filtraciones. o Se caracteriza el filtro. o Se analizan las variables modificables que pueden influir en el filtrado y las relaciones entre las mismas. o Se determina que la variable más influyente es la permeabilidad. La permeabilidad varía en el tiempo en función de la cantidad filtrada, la tasa de adición coadyuvante y la concentración de levaduras de la cerveza verde. o Se estudia el fluido a filtrar: la viscosidad, la relación levaduras-turbidez, la forma y tamaño de las levaduras. o Se modela teóricamente la ocupación de los sólidos en el filtro. o Se halla la composición óptima de la torta de filtración para los coadyuvantes actuales. o Se realizan pruebas industriales de validación del modelo de filtrado propuesto. 2) Estudiar la viabilidad técnica y económica de la sustitución de los coadyuvantes de filtración actuales, y para ello se realiza lo siguiente: o Se realizan pruebas en el laboratorio comparando las diferentes permeabilidades entre diatomeas y celulosas y comparando la capacidad de retención de sólidos. o Se realizan filtraciones en el sistema real comparando dos tipos de celulosas. Se determina que el mejor funcionamiento como coadyuvante de aluvionado viene dado con la celulosa Vitacel ® L60. o Se estudia el comportamiento de Vitacel ®L60 en el filtro real. o Se comprueba que el uso de celulosa tipo Vitacel ® L60 es viable técnicamente. o Se analiza de forma teórica los costes operativos anuales del filtro, comparando la utilización de diatomeas y celulosas como coadyuvantes. Se desarrolla un modelo contrastado con datos experimentales del funcionamiento del filtro. Se proponen nuevas vías de operación que permiten mejorar el sistema actual.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6459</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Ingeniería Química</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6459/files/TAZ-PFC-2011-605.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6459/files/TAZ-PFC-2011-605_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>filtración en torta</dc:subject>
+    <dc:subject>cerveza</dc:subject>
+    <dc:subject>filtro de candelas</dc:subject>
+    <dc:subject>tierras de diatomeas</dc:subject>
+    <dc:subject>celulosa</dc:subject>
+    <dc:subject>levaduras</dc:subject>
+    <dc:subject>viscosidad de la cerveza</dc:subject>
+    <dc:subject>turbidez</dc:subject>
+    <dc:subject>permeabilidad</dc:subject>
+    <dc:subject>aluvionado</dc:subject>
+    <dc:subject>precapa</dc:subject>
+    <dc:subject>Ingeniero Químico</dc:subject>
+    <dc:title>Optimización del sistema de filtración y estabilización coloidal para una cervecera multiproducto y de tamaño medio</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

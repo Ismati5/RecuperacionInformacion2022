@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Usón Saldaña, Antonio</dc:contributor>
+    <dc:creator>Pérez Lázaro, Manel</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>En este trabajo de fin de grado (TFG) se han hecho modificaciones en una maqueta ya existente de un sistema de transporte de energía eléctrica compuesto por dos torres de alta tensión para una línea aérea, dos bancos de tres transformadores monofásicos para elevar/reducir la tensión de la línea, un consumidor final como representación de los usuarios de energía eléctrica y una planta generadora de energía eléctrica. El propósito ha sido mejorar el realismo de la maqueta, así como hacerla más funcional y manejable. Se explican en este documento los rangos de tensión a los cuales puede funcionar la maqueta y las diferentes formas de conexión de los bancos de transformadores. En la memoria se relata al detalle cada una de las mejoras que se han llevado a cabo, así como problemas e inconvenientes a la hora de realizarlos. También se ha hecho una breve introducción histórica de la electricidad y su transporte, así como un breve análisis de los componentes que forman la maqueta. Se explican las razones de que el transporte de energía eléctrica sea en alta tensión acompañado de fórmulas que refuerzan y aclaran los argumentos que se exponen. Finalmente, en el mismo documento pero ya como anexo, se ha creado un documento de manual de usuario donde se explican las conexiones que se deben realizar, el orden a seguir al hacerlo, la lista de materiales que se emplean, los riesgos y advertencias necesarios para su correcto uso. Este manual debe facilitar su  uso  a otra persona con  conocimientos básicos  de electricidad, ya sea con fines divulgativos o docentes. Como complemento divulgativo, se ha realizado un video explicando brevemente cada parte de la maqueta y su funcionamiento.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61400</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61400/files/TAZ-TFG-2017-055.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Eléctrica</dc:subject>
+    <dc:title>Equipo demostrativo del transporte de energía eléctrica en alta tensión</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Lecture demostration of a high voltage overhead power line</dc:title>
+</oai_dc:dc>

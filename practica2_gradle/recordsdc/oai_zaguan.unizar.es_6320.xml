@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Rebollar Rubio, Rubén</dc:contributor>
+    <dc:creator>Sanz Serrano, Miguel</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El fin de la realización de este proyecto es el de diseñar un nuevo sistema de retención de sillas de ruedas para vehículos de transporte de personas. Su uso principal se centra en transporte ferroviario y en los vehículos catalogados por la Directiva CEE (70/156/CEE) como M (M1, M2 y M3). Para ello se ha continuado con el diseño conceptual realizado por un grupo de alumnos de Ingeniería Industrial, dentro del cual se encontró el autor de este documento, recogido en un informe de la asignatura “Proyectos de Mejora en la Empresa”. Así pues, a partir de la información obtenida con la realización de este informe y la posterior ampliación de esta, se ha realizado un diseño básico del sistema de anclaje con el objetivo de fabricar un prototipo y realizar pruebas de funcionalidad con él. Debido a que se trata de un prototipo con el que comprobar la funcionalidad y que no debe resistir grandes solicitaciones, el diseñó se basó en el uso de materiales disponibles en el taller y en una forma simple que permitiese una fabricación rápida. Tras realizar este primer diseño, se fabricó el prototipo para realizar las pruebas. Con la ayuda de una silla de ruedas se comprobó que el sistema fijaba la silla, sin embargo era necesario realizar modificaciones para afianzar el funcionamiento y evitar incidencias por falta de seguridad. Una vez modificado el prototipo, se realizaron nuevas pruebas de fijación de silla de ruedas y se ajustó el sistema. Las pruebas fueron satisfactorias por lo que se continuó con la realización de un nuevo diseño que evitase los problemas del anterior diseño y que además incluyese mejoras de versatilidad y de resistencia estructural. Actualmente el sistema se encuentra pendiente de aprobación de patente y se está fabricando un nuevo prototipo con el que realizar pruebas más exhaustivas de funcionamiento y así homologar el producto.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6320</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Proyectos de Ingeniería</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6320/files/TAZ-PFC-2011-485.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>anclaje de silla de ruedas para vehículos</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Diseño, desarrollo y fabricación de prototipo de un sistema de anclaje de silla de ruedas para vehículos de transporte de personas</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

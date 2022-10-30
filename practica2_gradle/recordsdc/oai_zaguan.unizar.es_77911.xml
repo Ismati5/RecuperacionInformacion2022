@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Martínez Pérez, María José</dc:contributor>
+    <dc:creator>Méndiz Paúl, Arturo</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>Los dispositivos superconductores de interferencia cuántica o SQUIDs (del inglés, Superconducting Quantum Interference Devices) son unos de los dispositivos más famosos en electrónica superconductora. Combinan el efecto Josephson con el fenómeno de cuantización del flujo magnético en un anillo superconductor, lo cual da lugar a una de las manifestaciones macroscópicas de coherencia cuántica más bonitas del estado sólido. Se caracterizan, además, por ser dispositivos increíblemente sensibles que permiten transformar el flujo de campo magnético en señales eléctricas medibles. De este modo, cualquier magnitud física que pueda convertirse en flujo magnético podrá ser medida con este tipo de dispositivos.  En este presente trabajo haremos una profunda revisión de los mismos: fundamentos teóricos, pautas para su correcta fabricación, etc. Todo ello para ser capaces de estudiar las propiedades de nanodiscos hechos de materiales magnéticos blandos que presentan magnetismo topológico; esto es, su topología determina la magnetización de los mismos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/77911</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física de la Materia Condensada; Área de Física de la Materia Condensada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/77911/files/TAZ-TFG-2018-1993.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Física</dc:subject>
+    <dc:title>Magnetismo topológico a bajas temperaturas</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Topological magnetism at low temperatures</dc:title>
+</oai_dc:dc>

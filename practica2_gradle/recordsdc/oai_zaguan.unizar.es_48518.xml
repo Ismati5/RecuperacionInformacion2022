@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Abad Blasco, Javier Óscar</dc:contributor>
+    <dc:creator>Lobera Salazar, Oscar</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>El presente trabajo comprende las diferentes etapas de diseño de una grúa sanitaria. Primero  se ha estudiado los tipos de grúas sanitarias más habituales, eligiendo para su posterior desarrollo una grúa móvil con arnés. Fijando unos requisitos y características, se ha dibujado un esquema de la máquina y se ha calculado analíticamente los esfuerzos que sufre cada componente, verificándolos con la ayuda del software MEFI. Con los datos calculados, se han dimensionado los elementos de la grúa. Usando el programa SolidWorks se ha modelado en 3D las piezas de la estructura y se ha  realizado un estudio estático de cada uno de ellos con el módulo de elementos finitos, Solidworks Simulation. Se han analizado los resultados obtenidos y modificado las piezas hasta cumplir las exigencias que se habían fijado en la etapa del diseño.  Finalmente se han ensamblado todos los elementos de la grúa y se ha comprobado  su estabilidad al vuelco, también se ha añadido un breve manual de operación de la máquina donde se describe su correcto uso y sus medidas de seguridad.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/48518</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería Mecánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/48518/files/TAZ-TFG-2016-014.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Diseño, cálculo y modelado de una grúa para personas dependientes</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

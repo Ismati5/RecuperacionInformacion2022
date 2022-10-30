@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Olmos Gassó, Salvador</dc:contributor>
+    <dc:creator>Bretón Domínguez, David</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>En la disciplina de Anatomía Computacional se requiere una herramienta de registro o normalización espacial de imágenes que sea capaz de modelar grandes deformaciones (ya que existe gran variabilidad anatómica entre los cerebros humanos, especialmente en la corteza) garantizando suavidad en las transformaciones espaciales. Con este fin, recientemente se ha propuesto el paradigma de los difeomorsmos, tanto en imágenes volumétricas como en registro de puntos anatómicos o landmarks. Este proyecto versa sobre el registro difeomórco de estructuras cerebrales mediante landmarks 3D a partir de imágenes de resonancia magnética. El objetivo final consiste en desarrollar y evaluar las prestaciones de una herramienta que proporcione una transformación espacial que consiga una correspondencia entre los surcos y giros más importantes de la corteza cerebral. En concreto, se trata de un problema de registro no rígido basado en una transformación difeomórca entre los puntos de un atlas cerebral (imagen y sus correspondientes etiquetas de segmentación) y los puntos de unas imágenes objetivo. Dicha transformación se ha utilizado además como inicialización de una herramienta ya existente de registro volumétrico de todo el cerebro, con el objetivo de dotarla de mayor robustez. La evaluación de prestaciones se ha realizado sobre un conjunto de imágenes MRI provenientes del estudio Alzheimer's Disease Neuroimaging Initiative (ADNI). Los puntos anatómicos se han obtenido mediante la herramienta BrainVisa. Aunque estos landmarks son realmente tridimensionales, a lo largo de esta memoria y por simplicidad en la visualización de los resultados, se presentan en dos dimensiones para un corte axial representativo. Los créditos prácticos se han realizado en el Servicio de Radiodiagnóstico del Grupo Hospitalario Quirón, Zaragoza, bajo la tutela del Jefe de Servicio, el Dr. Nicolás Fayed Miguel. El objetivo fue conocer el equipamiento de radiología (resonancia magnética nuclear, tomografía computerizada, ecografías, rayos X, etc.) así como el sistema PACS de transferencia, gestión y almacenamiento de imágenes médicas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9176</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9176/files/TAZ-TFM-2012-878.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>imágenes médicas</dc:subject>
+    <dc:subject>registro no rígido</dc:subject>
+    <dc:subject>transformaciones difeomórficas</dc:subject>
+    <dc:subject>landmarks</dc:subject>
+    <dc:subject>estructuras cerebrales</dc:subject>
+    <dc:subject>enfermedad de alzheimer</dc:subject>
+    <dc:subject>Máster Universitario en Ingeniería Biomédica</dc:subject>
+    <dc:title>Desarrollo y evaluación de una herramienta de registro difeomórfico por landmarks 3D de estructuras cerebrales en imágenes MRI</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

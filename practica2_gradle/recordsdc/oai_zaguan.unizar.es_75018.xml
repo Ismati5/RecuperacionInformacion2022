@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Angurel Lamban, Luis Alberto</dc:contributor>
+    <dc:contributor>Martinez Fernandez, Elena</dc:contributor>
+    <dc:creator>Laliena Iranzo, Carlos</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>El trabajo realizado en esta tesis doctoral se centra en el estudio y optimización de hilos compuestos metal/MgB2 y de materiales masivos de Bi2Sr2CaCu2O8+x (Bi-2212). El objetivo principal es el análisis de la microestructura de estos materiales, fabricados a partir de diferentes precursores y mediante métodos específicos de procesado, y de cómo su microestructura influye en sus propiedades superconductoras.&lt;br /&gt;En la investigación del MgB2 se ha analizado el efecto de la energía de molienda de los polvos precursores (realizada en un molino de bolas planetario), y de su dopaje con carbono (mediante la adición de ácido oleico) en las propiedades superconductoras de hilos compuestos metal/MgB2. Estos hilos han sido fabricados con forro de hierro y núcleo superconductor de MgB2 con la técnica de polvo en tubo y reacción in situ. Se han establecido las condiciones óptimas de molienda y dopaje con carbono que permiten alcanzar una microestructura controlada y homogénea con altos valores de densidad de corriente crítica. Usando técnicas magneto-ópticas se ha analizado la distribución espacial del flujo magnético en el interior de estos materiales, de forma que se han correlacionado las propiedades superconductoras locales con las observaciones microestructurales obtenidas mediante microscopía electrónica de barrido.&lt;br /&gt;El objetivo principal del estudio realizado sobre materiales masivos de Bi-2212 es el desarrollo de un proceso industrialmente escalable que permita además superar las limitaciones del tamaño de estos materiales. El proceso comprende todas las etapas: desde la preparación de los precursores mediante un proceso continuo de síntesis de estado sólido; pasando por el proceso de texturado utilizando métodos de fusión zonal inducida con láser (LZM) industrialmente escalables; hasta el tratamiento térmico final en un horno de rodillos. Se ha analizado el efecto de los parámetros más relevantes en la microestructura y propiedades superconductoras de estos materiales, y se han comparado con los materiales procesados mediante técnicas tradicionales. Además, se ha demostrado que la aplicación de corriente eléctrica durante el procesado por fusión zonal láser incrementa su valor de corriente crítica.&lt;br /&gt;</dc:description>
+    <dc:description>&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/75018</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/75018/files/TESIS-2018-057.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>superconductividad</dc:subject>
+    <dc:subject>ecnología de materiales</dc:subject>
+    <dc:subject>materiales cerámicos</dc:subject>
+    <dc:subject>física</dc:subject>
+    <dc:title>Superconducting MgB2 wires and Bi2Sr2CaCu2O8+x monoliths: Precursor influence on their global and local properties and on scale-up processing</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

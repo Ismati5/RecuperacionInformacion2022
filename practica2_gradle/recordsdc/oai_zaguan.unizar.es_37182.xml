@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Llera Sastresa, Eva María</dc:contributor>
+    <dc:creator>Molinos Ledesma, Eduardo</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>En la búsqueda de nuevos modelos energéticos, el Hidrógeno, como vector energético, se perfila como una alternativa real poderosa, de futuro y presente. Durante el proyecto se resumirán y analizarán alguna de las posibilidades de este nuevo combustible. Para su estudio y comparativa se ha propuesto su utilización en una instalación convencional como las instalaciones de trigeneración. De esta forma se muestra uno de sus posibles usos principales, la combustión en motores de combustión interna de alta potencia, tecnología sobre la que se vislumbra gran potencial, pero a la que no se ha dado tanta difusión como a otras, como la pila de combustible.  En un principio se estudiará un caso hipotético extremo, donde debe cubrirse toda la demanda energética del recinto a partir de hidrógeno obtenido con electricidad de renovables, sin conexión con otras fuentes, estudiando si esta opción es posible o no. Primeramente se recopila toda la información existente sobre estos nuevos motores, que en la actualidad no es demasiado extensa.  A continuación se procederá a dimensionar, configurar y seleccionar una instalación de trigeneración a partir de motores de hidrógeno. Esta debe tener una instalación de generación de hidrógeno que suministre el combustible a los motores, dado que no hay red de distribución, por lo que también se dimensionará y mostrará su conexión. Finalmente se realizará un amplio análisis crítico de los resultados arrojados por el estudio, analizando posibles escenarios de utilización de esta tecnología en este tipo de instalaciones, comparándola con tecnologías que utilizan fuentes energéticas convencionales, así como mostrar su tendencia, sustitutos, puntos fuertes y débiles, etc.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/37182</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/37182/files/TAZ-PFC-2015-161.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Instalación de trigeneración en un centro comercial con autosuficiencia energética generada a partir de la combustión de hidrógeno</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

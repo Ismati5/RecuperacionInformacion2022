@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Casas Millán, Roberto</dc:contributor>
+    <dc:contributor>Alastruey Benedé, Jesús</dc:contributor>
+    <dc:creator>Lacarra Arcos, Laura</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>La teleasistencia domiciliaria es un servicio de ayuda a personas mayores y/o discapacitadas. Las personas o clientes que contratan el servicio disponen de una instalación específica compuesta por un terminal (similar a un teléfono con un botón de emergencia) y varios dispositivos (sensores) que permiten ponerse en contacto con un centro de asistencia, por voluntad de la persona o activación propia de los dispositivos. El centro de asistencia está formado por operadores, cuya misión es atender las alarmas que generen las personas y proporcionar una ayuda eficaz y personalizada ya sea movilizando familiares, conocidos u organismos de la comunidad. Actualmente cada centro de teleasistencia está configurado a través de la red de teléfono convencional. Las llamadas llegan a una centralita de teleasistencia cuya funcionalidad es transformar los datos en digitales, gestionar los teléfonos de los operadores y traducir los protocolos de los equipos que están instalados en cada hogar. Una instalación con estas características es poco escalable y costosa. El proyecto consiste en el desarrollo de un sistema para una empresa de teleasistencia en el cual los operadores puedan gestionar las alarmas recibidas en el centro y la información de las personas que contratan el servicio. El sistema estará integrado en una plataforma IP en el cual la gestión telefónica pasará de ser analógica a ser por VozIP y la gestión de los distintos protocolos, pasará de ser por hardware a software. Los objetivos que se persiguen son dos: facilitar la tarea de los operadores en la atención de alarmas y ahorrar grandes costes a las empresas reduciendo el gasto de la infraestructura inicial y de la instalación de equipamiento de la empresa. Gracias a la VozIP, es posible una centralita de teleasistencia configurada en base a las necesidades de los clientes y operadores, de forma que sea susceptible a cambios de crecimiento sin ocasionar los costes que supondría un aumento de hardware, y ante todo, la asistencia será rápida y exitosa en beneficio de las personas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4702</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Arquitectura y Tecnología de Computadores</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4702/files/TAZ-PFC-2010-052.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/4702/files/TAZ-PFC-2010-052_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Teleasistencia</dc:subject>
+    <dc:subject>Java</dc:subject>
+    <dc:subject>VozIP</dc:subject>
+    <dc:subject>Cola de mensajería</dc:subject>
+    <dc:subject>JMS</dc:subject>
+    <dc:subject>Bases de datos</dc:subject>
+    <dc:subject>Softphone</dc:subject>
+    <dc:subject>Centralita IP</dc:subject>
+    <dc:subject>SIP</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Desarrollo de una aplicación para los operadores de teleasistencia integrada en telefonía IP</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

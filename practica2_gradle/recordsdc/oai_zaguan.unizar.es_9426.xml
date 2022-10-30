@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Saz Sánchez, Miguel Ángel</dc:contributor>
+    <dc:contributor>Luís Arrillaga, Martín de</dc:contributor>
+    <dc:creator>Tejedor Vargas, Ernesto</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>La Península Ibérica se está viendo afectada por un proceso de cambios en el clima que están provocando impactos como la desertización progresiva o cambios en las distribuciones de especies vegetales. En este sentido se ha estudiado la especie Fagus sylvatica la cual se encuentra ampliamente distribuida en Europa teniendo en España su límite sur debido a factores climáticos limitantes. Se han analizado muestras de Fagus sylvatica de ese límite sur de la especie, localizado en el Parque Natural del Moncayo, integrando información climática e información geográfica en un sistema de información geográfica con el objetivo de obtener las funciones respuesta de Fagus sylvatica. Conociendo el comportamiento de la especie ante el clima actual, se puede intentar predecir cual va a ser su respuesta ante posibles escenarios de cambio climático futuros y de este modo aplicar medidas de gestión. Finalmente se han generado cartografías analizando las funciones respuesta de Fagus sylvatica con respecto al clima y en gradiente altitudinal en el Parque Natural del Moncayo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9426</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio; Área de Geografía Física</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9426/files/TAZ-TFM-2012-1047_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/9426/files/TAZ-TFM-2012-1047.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>fagus sylvatica</dc:subject>
+    <dc:subject>dendrocronología</dc:subject>
+    <dc:subject>cambio climático</dc:subject>
+    <dc:subject>sistemas de información geográfica</dc:subject>
+    <dc:subject>r-project</dc:subject>
+    <dc:subject>Graduado en Geografía y Ordenación del Territorio</dc:subject>
+    <dc:title>Modelización de la respuesta climática de Fagus sylvatica en el Parque Natural del Moncayo</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

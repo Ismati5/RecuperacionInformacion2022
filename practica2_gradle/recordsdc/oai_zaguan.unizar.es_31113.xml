@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Riva Fernández, Juan de la</dc:contributor>
+    <dc:contributor>Rodrigues Mimbrero, Marcos</dc:contributor>
+    <dc:contributor>Fernández Landa, Alfredo</dc:contributor>
+    <dc:creator>Brieva Sánchez, Javier</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El presente documento presenta las actividades desarrolladas durante el periodo de prácticas en la empresa AGRESTA S. Coop. (Soria). El objetivo de este trabajo es mostrar los procedimientos y los resultados de las diversas tareas realizadas. Por un lado, se han llevado a cabo tareas de modelización de variables a partir de datos del Inventario Forestal Nacional, entre las que se incluyen la aplicación de métodos de interpolación mediante software libre y el desarrollo de modelos de crecimiento en masa de Pinus sylvestris L. Por otro lado, se han realizado tareas relacionadas con la actualización de capas de información geográfica en el área del monte “La Pineda” (La Rioja).Concretamente se ha revisado información sobre vías de acceso (procedentes de diversas fuentes) y se ha delineado la red hidrográfica a partir de un MDE. Los resultados obtenidos se encuentran disponibles a través de herramientas web para la visualización de información geográfica.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31113</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio; Área de Análisis Geográfico Regional</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31113/files/TAZ-TFM-2014-915_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/31113/files/TAZ-TFM-2014-915.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>inventario forestal nacional</dc:subject>
+    <dc:subject>métodos de interpolación</dc:subject>
+    <dc:subject>análisis de regresión</dc:subject>
+    <dc:subject>modelos de crecimiento en masa</dc:subject>
+    <dc:subject>edición de geodatos</dc:subject>
+    <dc:subject>geovisualización</dc:subject>
+    <dc:subject>Máster Universitario en Tecnologías de la Información Geográfica para la Ordenación del Territorio: Sistemas de Información Geográfica y Teledetección</dc:subject>
+    <dc:title>Memoria de prácticas en la empresa AGRESTA: Modelización de variables a partir de datos del IFN y tareas de actualización y visualización de información geográfica del monte “La Pineda” (La Rioja)</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

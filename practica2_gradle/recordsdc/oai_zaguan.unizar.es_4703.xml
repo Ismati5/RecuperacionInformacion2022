@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Carro Ceballos, Pedro Luis</dc:contributor>
+    <dc:creator>Garcés Colomé, Luis Francisco</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>La movilidad de los terminales de comunicaciones repercute, en lo referente a estructuras radiantes, en que las antenas receptoras tienen un comportamiento dinámico que puede ser muy diferente de las prestaciones que se obtienen normalmente en situaciones estáticas. El entorno consta de una variedad de objetos, e incluso el usuario, cuyo impacto en la antena no puede ser despreciable, ya que puede degradar las prestaciones de la antena. Con el objetivo de estudiar los efectos descritos anteriormente se han diseñado dos propuestas de antenas receptoras, y cada una de ellas se ha adaptado a las bandas de trabajo de DVB-H (470- 710 MHz) y DVB-SH o banda L (1518-1559 MHz), dando lugar a cuatro antenas diferentes. Esto se ha conseguido mediante la simulación del parámetro de ganancia realizada (en el caso de la banda DVB-H, ya que queda definido por el estándar como variable de diseño), y de las pérdidas de retorno, porque permiten estudiar el ancho de banda de la antena. Posteriormente, se ha estimado el comportamiento de estas antenas ante la presencia del usuario, estudiando como fluctúa el BER a partir de una SNR (la cual no es constante debido a la variación del coeficiente de reflexión). Por último, se fabricaron las antenas diseñadas en substrato FR4 y se realizaron las medidas oportunas para comparar los diseños obtenidos en simulación con los valores reales obtenidos. 	Tras la realización de todos los experimentos llevados a cabo durante la duración de este proyecto se ha podido sacar la siguiente conclusión: no existe un diseño que destaque sobre todos los demás, sino que existe un compromiso en función de la banda. En caso de trabajar en la banda DVB-H la mejor opción es la propuesta 1. En cambio, si se trabaja en la banda DVB-SH o L, la propuesta 2 es la que obtiene mejores resultados.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4703</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4703/files/TAZ-PFC-2010-053.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/4703/files/TAZ-PFC-2010-053_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero de Telecomunicaciones</dc:subject>
+    <dc:title>Modelado de la variación de la impedancia de entrada en antenas para sistemas de comunicaciones DVB</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

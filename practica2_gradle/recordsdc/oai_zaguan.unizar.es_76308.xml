@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Marzo Rubio, Isabel</dc:contributor>
+    <dc:contributor>Naval Iraberri, José Javier</dc:contributor>
+    <dc:creator>Beltrán Visiedo, Manuel</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>El mieloma múltiple humano es una neoplasia hematológica caracterizada por una proliferación maligna de células B plasmáticas productoras de ingentes cantidades de anticuerpos, procedentes de un solo clon y cuya expansión tiene lugar en la médula ósea. A pesar de los avances realizados en la terapia frente a esta patología, continúa siendo una enfermedad incurable. El estudio del mecanismo de acción de nuevos fármacos introducidos para el tratamiento del mieloma múltiple podría aportar información útil en la búsqueda de nuevas estrategias terapéuticas. El presente trabajo aborda el análisis de las vías de muerte celular implicadas en la acción del inhibidor del proteasoma Ixazomib, recientemente aprobado por la FDA y la EMA. En concreto, se ha comprobado la capacidad de Ixazomib de inducir muerte celular de manera dosis-dependiente en diversas líneas de mieloma múltiple, así como su efecto sobre el ciclo celular provocando, en la mayoría de las líneas celulares estudiadas, una parada en las fases G2/M. Además, ha quedado demostrada la activación de caspasa 3, principal caspasa ejecutora, en células tratadas con Ixazomib y la variación en los niveles de expresión de proteínas pertenecientes a la familia Bcl-2, lo cual podría indicar su directa implicación en el mecanismo de muerte celular desarrollado por éste. En paralelo, se ha descartado la posible sinergia entre Ixazomib e inhibidores de VCP/p97 (DBeQ y CB-5083) pero ha quedado constatada una clara sinergia entre Ixazomib y cloroquina que, en un futuro, podría constituir una nueva estrategia terapéutica de combinación frente al mieloma múltiple.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76308</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Biología Celular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76308/files/TAZ-TFM-2018-223.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/76308/files/TAZ-TFM-2018-223_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster en Biología Molecular y Celular</dc:subject>
+    <dc:title>Apoptosis inducida por el inhibidor del proteasoma Ixazomib en células de mieloma humano</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Apoptosis induced by the proteasome inhibitor Ixazomib in human myeloma cells</dc:title>
+</oai_dc:dc>

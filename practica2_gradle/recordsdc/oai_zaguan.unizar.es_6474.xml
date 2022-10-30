@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gutiérrez Pérez, Diego</dc:contributor>
+    <dc:creator>Castillo Alejandre, Susana</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El Media Retargeting es un concepto que engloba los métodos de redistribución de la imagen para su escalado en un contexto de manera consciente. La necesidad de esta técnica está ampliamente justificada en el marco de la tecnología actual. Tanto las imágenes como los vídeos necesitan ser adaptados a diferentes resoluciones y ratios de aspecto, puesto que deben poder visualizarse en una gran variedad de pantallas digitales, cada una con su propia relación de aspecto único. El primer método que variaba el tamaño efectivo de la imagen, no sólo considerando restricciones geométricas, sino siendo también sensible a su contenido, se publicó en 2007. A raíz del mismo y, hasta la fecha, se han publicado gran cantidad de novedosos algoritmos de tiempo real que pueden adaptar la relación de aspecto de la imagen mediante la eliminación de partes de baja prominencia de la misma. Las opciones para decidir qué partes son las más salientes son casi infinitas, surgiendo la necesidad de una aproximación metodológica para evaluar los resultados de los métodos, de modo que se oriente la programación de los mismos y el marco de desarrollo se acote. Uno de los mayores problemas en la investigación sobre retargeting reside en el escaso trabajo realizado, tanto sobre la evaluación cuantitativa como sobre la cualitativa, de los resultados del escalado. No existen definiciones o medidas claras para evaluar su calidad. Al examinar la miscelánea de los métodos presentados hasta la fecha, se observa que los principales objetivos que deben cumplir los resultados del retargeting conforman medidas subjetivas. He ahí por qué resulta difícil discernir qué resulta prioritario. Realizamos un estudio perceptual exhaustivo que consta de dos fases diferenciadas: análisis subjetivo y semántico. Las principales metas del análisis subjetivo residen en: determinar cuán amplio es el acuerdo entre diferentes usuarios sobre qué resultados son los mejores; comparar diferentes métodos de retargeting según las preferencias de los usuarios y los diferentes tipos de imágenes; y ahondar en la comprensión de las cualidades específicas de las imágenes escaladas que son más relevantes para el observador. Ejemplos de estas cualidades son la prevención de artefactos y la preservación de los atributos que definen contenido y estructura de la imagen. Para ello, se ha creado un amplio benchmark de imágenes y se comparan ocho métodos punteros de escalado que sirven de guía para el estudio de usuario a gran escala. En la segunda fase, empleamos datos obtenidos mediante eye-tracking para guiar un análisis de los cambios introducidos por el escalado en la semántica de las imágenes. Corremos diversas medidas de distancia computacionales para comparar los mapas de saliencia derivados de las fijaciones de los usuarios en las imágenes originales y las escaladas. Los diversos resultados son clasificados basándonos en cada medida de distancia y se establece la correlación entre esta clasificación y la definida por los observadores humanos. Además, se valida un modelo de predicción de fijaciones humanas en el contexto de retargeting proponiéndolo como alternativa al uso de un eye-tracker. Por último, se analizala influencia de los cambios causados por el escalado en la semántica de la imagen.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6474</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6474/files/TAZ-PFC-2011-617_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6474/files/TAZ-PFC-2011-617.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>escalado de imágenes</dc:subject>
+    <dc:subject>media retargeting</dc:subject>
+    <dc:subject>benchmark</dc:subject>
+    <dc:subject>estudio de usuario </dc:subject>
+    <dc:subject>user study </dc:subject>
+    <dc:subject>eye tracking </dc:subject>
+    <dc:subject>semántica de imagen</dc:subject>
+    <dc:subject>image semantics </dc:subject>
+    <dc:subject>mapa de saliencia</dc:subject>
+    <dc:subject>saliency map</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Estudio comparativo del redimensionado inteligente de imágenes (Media Retargeting)</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

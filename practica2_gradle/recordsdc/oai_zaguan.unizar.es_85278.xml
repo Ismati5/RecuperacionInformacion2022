@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Abad Blasco, Javier Óscar</dc:contributor>
+    <dc:creator>Bin Ahmad Razid, Amirul Akif</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>En el presente proyecto se ha realizado un estudio de análisis, cálculo y optimización de una plataforma elevadora móvil de personal (PEMP) de tipo telescópico mediante análisis analítico y análisis numérico con la ayuda del programa SolidWorks. Para el diseño de la PEMP, se ha tomado como referencia el modelo HT23 RTJ O de la marca Haulotte Ibérica para dar su geometría  inicial. El análisis analítico consiste del cálculo de reacciones, los diagramas de esfuerzos y el cálculo de tensiones máximas. Además, se ha estudiado los cálculos de cilindros hidráulicos, elementos de uniones como pasadores y orejetas y la unión de soldadura en las estructuras de la plataforma elevadora. Una vez obtenidos los cálculos teóricos, se han modelado las estructuras en 3D con SolidWorks y se han llevado a cabo análisis y simulación mediante el método de elementos finitos (MEF).&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/85278</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería Mecánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/85278/files/TAZ-TFG-2019-2511.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/85278/files/TAZ-TFG-2019-2511_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Análisis, cálculo y optimización de una plataforma elevadora móvil de personal (PEMP) de dos operarios y altura de trabajo de 23 m</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Analysis, calculation and optimization of a telescopic boom lift of 2 operators and working height of 23 m</dc:title>
+</oai_dc:dc>

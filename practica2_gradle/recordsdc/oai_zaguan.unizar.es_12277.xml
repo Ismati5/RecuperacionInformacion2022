@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Pérez Torrente, Jesus Julián</dc:contributor>
+    <dc:contributor>Jiménez Rupérez, María Victoria</dc:contributor>
+    <dc:creator>Jiménez Coqueco, Leidy Johana</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>En el presente Trabajo Fin de Máster se han sintetizado y caracterizado tres complejos de Ir(I), parcialmente solubles en medio acuoso, utilizando un ligando carbeno N-heterocíclico (NHC) funcionalizado con un sustituyente 3-hidroxipropil. En estudios previos realizados en el grupo de investigación se ha comprobado que estos compuestos son suficientemente robustos y activos como para ser unos precursores de catalizador eficientes y versátiles en procesos de transferencia de hidrógeno de 2-propanol a sustratos insaturados. El presente trabajo se ha desarrollado como una continuación de dicho estudio pero modificando tanto las condiciones como el medio de reacción. Atendiendo a uno de los 12 principios de la Química Verde se ha estudiado la actividad catalítica de dichos complejos organometálicos hidrosolubles con un ligando carbeno N-heterocíclico (NHC) funcionalizado en transferencia de hidrógeno pero utilizando un medio de reacción más seguro y sostenible como es el agua. El compuesto [IrCl(cod)(MeIm(CH2)3OH)] se ha utilizado como precursor de catalizador. Se han realizado ensayos catalíticos de transferencia de hidrógeno de formiato sódico a ciclohexanona en agua. A partir de los resultados obtenidos en estos ensayos se determinaron las condiciones óptimas de reacción, permitiendo presentar un método general y reproducible. Las variables objeto de estudio son: temperatura, tiempo de reacción, relación molar sustrato/catalizador, concentración de formiato de sodio  (dador de hidrógeno), pH del medio, y tipo y cantidad de agente de transferencia de fase. Una vez optimizado el método de trabajo, se realizaron ensayos con diferentes sustratos (acetofenona y benzaldehído) estableciendo una metodología aplicable a las reacciones catalíticas de transferencia de hidrógeno en agua a compuestos con grupos carbonilo (aldehídos y cetonas) para obtener los correspondientes alcoholes.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12277</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Inorgánica; Área de Química Inorgánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12277/files/TAZ-TFM-2013-789_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/12277/files/TAZ-TFM-2013-789.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>catalizador</dc:subject>
+    <dc:subject>ligando nhc</dc:subject>
+    <dc:subject>transferencia de hidrógeno</dc:subject>
+    <dc:subject>iridio</dc:subject>
+    <dc:subject>Máster Universitario en Química Sostenible</dc:subject>
+    <dc:title>Diseño de catalizadores de iridio basados en ligandos NHC para procesos de transferencia de hidrógeno en agua</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

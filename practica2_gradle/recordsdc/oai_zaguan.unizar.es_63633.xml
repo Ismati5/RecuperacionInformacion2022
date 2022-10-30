@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Guerrero Campo, José Jesús</dc:contributor>
+    <dc:contributor>Pérez Yus, Alejandro</dc:contributor>
+    <dc:creator>Fernández Labrador, Clara María</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>En este trabajo se ha desarrollado un método de reconstrucción 3D de habitaciones a partir de una única imagen panorámica de 360 grados de campo de vista horizontal.  Este método tiene la principal novedad de combinar razonamientos geométricos de visión por computador y técnicas de aprendizaje profundo (Deep Learning) adaptadas a la geometría del tipo de imágenes que proponemos utilizar.  Nuestro método utiliza la extracción de esquinas estructurales como punto de partida para elaborar hipótesis sin información previa acerca de la forma de la habitación y con la única restricción de Mundo Manhattan. En particular, dichas esquinas se extraen como intersecciones entre líneas que son ortogonales en el espacio 3D. Este proceso se ha mejorado con el uso de una Red Neuronal Convolucional que detecta bordes estructurales y permite filtrar líneas pertenecientes a otros objetos no relevantes. A partir de estas posibles esquinas dibujamos hipótesis de diseño y escogemos aquella solución que encaja mejor con el mapa de normales obtenido con otro método de aprendizaje profundo.  En este trabajo se muestran resultados de reconstrucciones 3D con imágenes de la base de datos pública SUN360 usada por otros trabajos del estado del arte. Con ellos demostramos la efectividad del método con respecto a trabajos existentes y las ventajas de introducir redes neuronales profundas en el desarrollo del proceso.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/63633</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/63633/files/TAZ-TFM-2017-1028.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Industrial</dc:subject>
+    <dc:title>Estimación del layout 3D en interiores a partir de imágenes panorámicas</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Indoor 3D layout estimation from panoramic images</dc:title>
+</oai_dc:dc>

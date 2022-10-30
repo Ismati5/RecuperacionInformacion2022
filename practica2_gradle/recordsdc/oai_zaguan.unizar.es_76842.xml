@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Martínez Domínguez, Francisco José</dc:contributor>
+    <dc:contributor>Sangüesa Escorihuela, Julio A.</dc:contributor>
+    <dc:creator>Torres Sanz, Vicente</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>El sector del transporte es uno de los mayores consumidores de energía, que en la práctica totalidad proviene de la combustión de los derivados del petróleo, con la consiguiente emisión de gases de efecto invernadero. Esto está provocando que en las ciudades aumenten los niveles de contaminación, llegando a ser en muchos casos altamente nocivos para la salud, y obligando a que las autoridades tengan que tomar medidas restrictivas, controlando el tráfico de vehículos de combustión en el centro de las ciudades, o incluso llegándolo a prohibir. Como solución a este problema nace un concepto, la electromovilidad, o la capacidad de utilizar medios de transporte que usan tecnologías basadas en la electricidad, siendo el vehículo eléctrico su mayor referente. Las ventas de este tipo de vehículos están aumentando año tras año, ya que están comenzando a representar una opción atractiva para muchos conductores. &lt;br /&gt;La combinación de Vehículos Eléctricos, con las tecnologías de la información (TIC) y el Internet de las cosas (IoT) será de gran importancia en las Smart Cities. Un objetivo de este tipo de ciudades será el uso eficiente de la energía, ya que satisfacer la gran demanda eléctrica en la red de transporte eléctrico que puede provocar estos vehículos es un reto al que nos tendremos que enfrentar.&lt;br /&gt;En el presente trabajo, hemos propuesto una arquitectura que facilita la recarga ordenada de los vehículos y la estimación de la energía necesaria con cierta antelación. Hemos implementado un simulador de recarga de vehículos eléctricos, que permite simular un gran número de vehículos, teniendo en cuenta tanto las características específicas de los mismos, como las tarifas reales de la electricidad en España. &lt;br /&gt;Además, se han propuesto nuevos métodos de recarga, con el propósito de maximizar el nivel de carga, reduciendo al máximo el coste de las recargas, basándonos en una solución descentralizada &lt;br /&gt;</dc:description>
+    <dc:description>&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76842</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76842/files/TESIS-2019-014.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>informatica</dc:subject>
+    <dc:subject>sector de transportes y comunicaciones</dc:subject>
+    <dc:subject>tecnologia de los sistemas de transporte</dc:subject>
+    <dc:title>Mejora del proceso de carga en vehículos eléctricos</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

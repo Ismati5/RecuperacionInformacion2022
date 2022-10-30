@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mercado Barraqueta, Daniel</dc:contributor>
+    <dc:creator>Fraguas Bordonaba, Eduardo</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>Dotar de autonomía a un robot móvil para reconstruir y explorar su propio entorno, sin necesidad de establecer condiciones iniciales para su operación es un tema amplio de estudio en la comunidad académica y científica relacionada con el área de la navegación de robots móviles. Además de tratar de resolver el problema de la navegación, enmarcado en la generación autónoma de trayectorias y evasión de obstáculos dinámicos y estáticos. En este proyecto se pretende dar una solución a este problema abordando el diseño de un vehículo autónomo y los algoritmos que lo van a gobernar.  Para ello, es importante  en primer lugar realizar una selección de sus componentes que permitan posteriormente la implementación de los algoritmos de control de manera eficaz. Los algoritmos mencionados abordan el problema del mapeo del entorno por el que avanza el vehículo, el posicionamiento del vehículo sobre el mapa creado y la selección de trayectorias a seguir para alcanzar un destino seleccionado con anterioridad. La realización de los algoritmos se van a realizar sobre un simulador del vehículo en el programa Processing, simulador que se realiza desde cero para este proyecto y que va a ser la base para hacer la comprobación de todas las implementaciones que se le quieren realizar al vehículo diseñado.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/77598</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería Mecánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/77598/files/TAZ-TFG-2018-2901.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/77598/files/TAZ-TFG-2018-2901_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Diseño de un vehículo autónomo con características SLAM</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Design of an autonomous vehicle with SLAM features</dc:title>
+</oai_dc:dc>

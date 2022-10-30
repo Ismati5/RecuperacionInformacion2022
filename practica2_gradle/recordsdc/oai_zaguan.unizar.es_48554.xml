@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Romeo Giménez, Luis Miguel</dc:contributor>
+    <dc:creator>Ruiz Calvo, Pablo</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>Hoy en día, las energías renovables están consiguiendo competitividad como fuente de generación eléctrica. Sin embargo, su producción oscila en gran medida en función de factores meteorológicos. Este efecto se puede solucionar transformando el exceso eléctrico en energía química, de modo que pueda ser aprovechada cuando la generación sea menor que lademanda. El primer paso para esta conversión energética a largo plazo sería la obtención de H2 mediante la electrólisis del agua. Una vez se consigue dicho gas, puede ser utilizado directamente, en los vehículos de célula de combustible, o hacerse reaccionar con CO2 mediante el proceso de Sabatier para obtener CH4. Este último combustible se usa más en el sector energético y la tecnología Power to Gas (PtG) puede jugar un papel muy importante actuando como un depósito de energía. Entre sus beneficios también constan ventajas medioambientales, ya que el CO2 puede ser capturado de los gases de escape de una central térmica. En particular, en este trabajo se estudia adjuntar a una planta de cogeneración de 5 MW una instalación PtG de 2 MW eléctricos, así como su viabilidad económica en función de los mercados eléctrico y de gas natural. Los resultados muestran que, para escenarios en los que el aumento del precio del gas natural fuese 60, 70, 80, 90 y 100 %, los precios valle de la electricidad  a partir de los cuales el proyecto sería rentable serían 0,0017, 0,0044, 0,0071, 0,0098 y 0,0126 €/kWh, respectivamente.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/48554</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/48554/files/TAZ-TFG-2015-3705.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/48554/files/TAZ-TFG-2015-3705_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Análisis de sistemas de producción y utilización de hidrógeno. Aplicación a Power to Gas</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

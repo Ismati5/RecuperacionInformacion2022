@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Romeo Tello, Antonio</dc:contributor>
+    <dc:creator>Avila Fiallos, Jonathan</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>El objetivo general que se pretende es el  dimensionado mecánico y de accionamientos de un robot Angular y del robot Scara, utilizando para ello el modelo dinámico inverso basado en las ecuaciones recursivas de Newton-Euler. Para conseguir nuestro objetivo se ha tomado como punto de partida un análisis de las fuerzas y pares que se producen en cada sólido del robot Puma 560, el cual viene dimensionado por  Unimation, fabricante del mismo. Dicho análisis se ha realizado utilizando el modelo dinámico inverso con el fin de tener una referencia para el modelado del robot Angular y Scara. El siguiente paso en este proyecto ha sido dimensionar  los sólidos y motores de los dos robots mencionados anteriormente.  Posteriormente a través del análisis de las fuerzas y pares que se producen en cada sólido de los mismos se ha seleccionado los motores adecuados, redimensionado los sólidos y calculado la carga máxima que puede soportar el robot. Para dicho análisis se han ejecutado tanto trayectorias definidas por la ISO 9283 [3] como trayectorias consideradas de interés. La herramienta que se ha utilizado tanto para  el modelado como el análisis de fuerzas y pares es  la Robotic toolbox de Matlab, en la que se han incluido modificaciones en las funciones que permiten calcular la dinámica inversa de un robot.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/37191</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/37191/files/TAZ-PFC-2015-139.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Dimensionado mecánico y de accionamientos de un robot industrial: utilidad del modelo dinámico</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

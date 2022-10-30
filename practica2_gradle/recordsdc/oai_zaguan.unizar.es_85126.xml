@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Pérez Cabello, Fernando</dc:contributor>
+    <dc:creator>Cuchí Moreno, Jaime</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Los incendios forestales constituyen uno de los principales problemas ambientales en cuanto a su incidencia en la vegetación. Por ello es necesario conocer el comportamiento de la vegetación tras el incendio. El presente trabajo aborda el análisis del proceso de revegetación en cinco incendios distribuidos en los últimos 40 años en la zona de Mequinenza-Fayón. Para ello se van a estudiar los valores de NDVI derivados de tres imágenes Sentinel 2 correspondientes a tres meses del año 2017 y su relación con las variables predictivas orientación, pendiente y radiación; los mejores resultados se han obtenido en las orientaciones N del incendio de 1986.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/85126</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/85126/files/TAZ-TFG-2019-3219.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Geografía y Ordenación del Territorio</dc:subject>
+    <dc:title>Análisis de la revegetación en incendios mediante teledetección: el caso de los incendios de Mequinenza y Fayón.</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Analysis of fire revegetation through remot sensing: the case of fires of Mequinenza and Fayon.</dc:title>
+</oai_dc:dc>

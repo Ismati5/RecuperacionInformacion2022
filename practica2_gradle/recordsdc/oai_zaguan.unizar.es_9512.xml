@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Orrite Uruñuela, Carlos</dc:contributor>
+    <dc:creator>Rogez, Grégory</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Esta tesis contribuye en el análisis de la postura  del cuerpo humano a partir de  secuencias de imágenes adquiridas con una sola cámara. Esta temática presenta  un amplio rango de potenciales aplicaciones en video-vigilancia,   video-juegos o aplicaciones biomédicas. Las técnicas basadas en patrones han tenido éxito, sin embargo, su precisión depende de la similitud del punto de vista de la cámara y de las propiedades de la escena entre las imágenes de entrenamiento y las de prueba. Teniendo en cuenta un conjunto de datos de entrenamiento capturado mediante un número reducido de cámaras fijas, paralelas al suelo, se han identificado y analizado tres escenarios posibles con creciente nivel de dificultad: 1) una cámara estática paralela al suelo, 2) una cámara de vigilancia fija con un ángulo de visión considerablemente diferente,  y 3) una secuencia de video capturada con una cámara en movimiento o simplemente una sola imagen estática.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9512</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9512/files/TESIS-2012-088.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>visión por computador</dc:subject>
+    <dc:subject>análisis de movimiento humano</dc:subject>
+    <dc:subject>análisis de posturas humanas</dc:subject>
+    <dc:subject>modelado</dc:subject>
+    <dc:subject>detección</dc:subject>
+    <dc:subject>seguimiento</dc:subject>
+    <dc:subject>punto de vista</dc:subject>
+    <dc:subject>vídeo-vigilancia</dc:subject>
+    <dc:subject>clasificadores  computer vision</dc:subject>
+    <dc:subject>human motion analysis</dc:subject>
+    <dc:subject>human pose analysis</dc:subject>
+    <dc:subject>modeling</dc:subject>
+    <dc:subject>detection</dc:subject>
+    <dc:subject>tracking</dc:subject>
+    <dc:subject>viewing angle</dc:subject>
+    <dc:subject>video-surveillance</dc:subject>
+    <dc:subject>classifier</dc:subject>
+    <dc:title>Advances in Monocular Exemplar-based Human Body Pose Analysis: Modeling, Detection and Tracking</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

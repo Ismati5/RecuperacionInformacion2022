@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gil Martínez, Antonia</dc:contributor>
+    <dc:creator>Rebolledo Gajardo, Boris</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Debido a la oportunidad de desarrollar una planificación que se adecue a los principios del desarrollo sostenible, en esta tesis se propone una nueva metodología para la designación de zonas vulnerables. La metodología se enmarca dentro del concepto de «vulnerabilidad», entendiendo que existen territorios que son más frágiles que otros a la contaminación; y no solo en lo que se refiere al riesgo de contaminación de las aguas subterráneas, sino en un sentido más amplio, donde un territorio que carece de acuíferos consolidados, no necesariamente estará libre del «riesgo ambiental», ya que podría estar sometido a fenómenos como la acidificación de los suelos o eutrofización. 	El principal producto de esta tesis, ha sido la formalización de un modelo paramétrico de evaluación multicriterio (EMC): Índice de Vulnerabilidad a Nitratos de origen Agrario (IVNA), implementado a través de un novedoso enfoque de preferencia lógica (LSP), el que define distintos grados de vulnerabilidad del territorio en función de sus características hidrogeológicas y medioambientales. El sector del ganado porcino aragonés ha experimentado un gran desarrollo en los últimos años, concentrando más del 22% de los cerdos de cebo producidos a nivel nacional. Esta situación se ha traducido en una gran cantidad de residuos que deben ser gestionados a través de centros gestores de estiércoles o mediante la construcción de plantas de tratamientos avanzados (N/DN y DA). No obstante, su capacidad de gestión es limitada y su coste sería una de las principales barreras para su aceptación por parte del sector ganadero.  	Bajo esta perspectiva, el segundo producto de esta tesis ha sido el desarrollo de un mapa de idoneidad para la aplicación de fertilizantes orgánicos. Esta herramienta se construyó a partir del modelo IVNA-LSP y fue complementada con una serie de factores de restricción, designando los terrenos más idóneos de Aragón para la aplicación de enmiendas orgánicas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/13860</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Instituto de Investigación Mixto CIRCE</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/13860/files/TESIS-2014-047.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>contaminación del agua</dc:subject>
+    <dc:subject>zonas vulnerables</dc:subject>
+    <dc:subject>fertilizantes</dc:subject>
+    <dc:title>Vulnerabilidad del territorio a la contaminación por nitratos de origen agrario</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

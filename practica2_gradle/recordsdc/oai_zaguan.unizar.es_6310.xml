@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Yagüe Fabra, José Antonio</dc:contributor>
+    <dc:contributor>Jiménez Pacheco, Roberto</dc:contributor>
+    <dc:creator>García Sanz, Miguel</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El presente proyecto se encarga del desarrollo y aplicación de un procedimiento de medición para dos modelos de piezas micro-inyectadas utilizadas por la industria del ámbito de la biotecnología. Este procedimiento conduce a la evaluación y cuantificación de los errores en la medición y expone los diferentes métodos empleados para su corrección. La tomografía computerizada se ha venido aplicando desde hace años en medicina y también en la industria. No obstante, hasta ahora sus aplicaciones industriales venían limitándose a inspección y detección de fallos internos y externos. Hoy en día, los avances en Ingeniería de Precisión permiten disponer de máquinas con componentes que funcionan de manera más precisa y repetible. La mayor capacidad de los ordenadores permite también tratar la gran cantidad de imágenes con las que se trabaja de manera más rápida. Todo ello ha llevado a una importante mejora en la precisión de esta técnica y a su consiguiente aplicación en el ámbito de la metrología dimensional. En el proyecto se aplica esta técnica de medición a dos piezas de pequeño tamaño (menos de 5 mm en la mayor de sus dimensiones) que presentan enormes dificultades para ser medidas con técnicas tradicionales. Se han tomografiado y medido tres muestras de una de las piezas y cinco de la otra. En el proyecto se realiza un estudio de todo el procedimiento de extracción de medidas a partir de las imágenes de las tomografías de las piezas. Para ello se utilizarán (en diferentes fases del proceso) dos programas informáticos: Mimics y Geomagic. Mimics es un software de creación de modelos 3D a partir de imágenes 2D, con él se ajustan las imágenes de la tomografía, adaptando el valor umbral, para conseguir crear un modelo 3D preciso que será medido por medio de Geomagic. El proyecto presenta el proceso, los resultados de medición, los procedimientos para la corrección de los errores de medición y una comparación técnica y económica con otras tecnologías para evaluar su viabilidad.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6310</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6310/files/TAZ-PFC-2011-475_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6310/files/TAZ-PFC-2011-475.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>metrología dimensional</dc:subject>
+    <dc:subject>tomografía computerizada</dc:subject>
+    <dc:subject>micro-inyección</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Desarrollo y aplicación de un procedimiento de medición dimensional por tomografía computerizada para dos piezas micro-inyectadas</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

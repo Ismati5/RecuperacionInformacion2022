@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Grasa Orús, Jorge</dc:contributor>
+    <dc:creator>Cardesa Carreras, Guillermo</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El objetivo del proyecto es la simulación del comportamiento biomecánico del músculo recto abdominal.  	Para ello se ha utilizado el programa Abaqus, que está basado en el método de los elementos finitos (método numérico general para la obtención aproximada de soluciones de ecuaciones en derivadas parciales en pequeñas subdivisiones del cuerpo llamadas elementos finitos). 	La realización del proyecto está dividido en 3 etapas: preproceso, cálculo y resolución de ecuaciones, y postproceso. 	En el preproceso se prepara el modelo para su posterior resolución. En esta etapa se genera la geometría del modelo, se crean los materiales de las partes del modelo (Para los huesos se crea un material que actúa como sólido rígido, los discos intervertebrales como sólido deformable y los tendones y músculo recto abdominal un material hiperelástico), se genera la malla, se aplican las condiciones de contorno, cargas e interacciones entre los huesos. 	En la etapa de cálculo se lleva a cabo la resolución del problema planteado en el preproceso obteniendo así los desplazamientos. En esta etapa nos ayudamos de un servidor remoto en el que poder realizar los cálculos. 	Finalmente, en el postproceso se presentan los resultados para poder ser analizados y así poder sacar conclusiones del problema tratado. En nuestro problema se analiza la tensión máxima principal y los desplazamientos durante la contracción del músculo recto abdominal.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8732</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8732/files/TAZ-PFC-2012-489.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>simulación del comportamiento biomecánico del músculo recto abdominal</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Simulación del comportamiento biomecánico del músculo recto abdominal</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

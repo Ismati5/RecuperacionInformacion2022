@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Aísa Rived, Rosa María</dc:contributor>
+    <dc:creator>Fernández Cambronel, Irene</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>Este trabajo tiene como propósito analizar los determinantes del consumo de medicamentos, diferenciando entre consumo de medicamentos con y sin prescripción médica. Se ha optado por un modelo multinomial logit aplicado a microdatos obtenidos de la Encuesta Europea de Salud para España los años 2009 y 2014. A pesar de que entre estos dos periodos ha aumentado la proporción de población que hace uso de los medicamentos, ya sea con o sin receta, se constata que, una vez controlados factores relevantes como el nivel de salud y la estructura demográfica, el ratio de probabilidad de consumo de medicamentos con prescripción médica sobre el consumo de medicamentos de venta libre ha disminuido en el 2014 respecto al 2009. Desde el punto de vista económico, parece existir una asociación positiva entre la disponibilidad de mayores recursos económicos y una mayor probabilidad de consumo de medicamentos sin receta en relación a aquellos con receta que puede ser explicada bien por el coste de oportunidad del tiempo asociado a la consulta médica o bien porque la falta de recursos impide el acceso a los medicamentos sin prescripción. Más campañas contra la automedicación, especialmente dirigidas a aquellos con más recursos son necesarias. Un enfoque de género en dichas campañas también sería conveniente.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76145</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76145/files/TAZ-TFM-2018-1240.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Economía</dc:subject>
+    <dc:title>Determinantes del consumo de medicamentos en España</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Determinants of drug consumption in Spain</dc:title>
+</oai_dc:dc>

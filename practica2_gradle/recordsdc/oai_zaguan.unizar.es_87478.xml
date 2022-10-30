@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Castro Barrigón, Alberto</dc:contributor>
+    <dc:creator>García Carrizo, Adrián</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Hemos estudiado, computacionalmente, el diseño de puertas lógicas en circuitos de información cuántica, en concreto, puertas para sistemas de uno y dos qbits. En este documento comenzamos con una breve introducción a la computación cuántica, que nos permitirá entender el funcionamiento de las puertas lógicas cuánticas. Esencialmente, un sistema de $N$ qbits se modela mediante un sistema cuántico de 2^N niveles; una puerta cuántica es una operación unitaria sobre este sistema. Esta operación se corresponde con la acción de una perturbación diseñada adecuadamente para que el operador evolución resultante coincida con la operación buscada. Tras definir la perturbación mediante una forma funcional dependiente de unos parámetros, hemos utilizado la teoría de control óptimo para buscar los parámetros que optimizan la forma del operador evolución. Finalmente, hemos estudiado cómo las formas funcionales elegidas, o el uso de unos u otros algoritmos de optimización afecta a la calidad de la puerta lógica obtenida, o al coste computacional.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87478</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Teórica; Área de Física Teórica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87478/files/TAZ-TFG-2019-2453.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Física</dc:subject>
+    <dc:title>Construcción de puertas lógicas para el desarrollo de la computación cuántica mediante la teoría de control óptimo</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Logical gates construction for the development of quantum computing through optimal control theory</dc:title>
+</oai_dc:dc>

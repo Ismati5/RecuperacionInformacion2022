@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Burdío Pinilla, José Miguel</dc:contributor>
+    <dc:contributor>Lucía Gil, Óscar</dc:contributor>
+    <dc:creator>Saz Laguna, Luis Arturo</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>En este Trabajo de Fin de Grado se presenta el estudio de un sistema electrónico para tratamiento de cáncer mediante electroporación irreversible (IRE). El objetivo de ese estudio es asimilar el conjunto de normativas disponibles que se aplican al equipo electromédico y determinar qué condiciones tiene que cumplir y la manera de verificarlo.  &lt;br /&gt;En la memoria se recopila inicialmente un estado del arte sobre la electroporación y una descripción de los sistemas electroporadores actualmente presentes en el mercado. Tras analizar el estado del arte, se pasa a describir las características y prestaciones del equipo estudiado. Dicho equipo fue desarrollado por el Grupo de investigación de Electrónica de Potencia y Microelectrónica (GEPM) de la Universidad de Zaragoza.  &lt;br /&gt;El amplio estudio de la normativa permite recopilar una serie de requisitos que el equipo debe de cumplir para garantizar la seguridad para el paciente y el operador durante su uso en una operación quirúrgica. La normativa también señala una serie de ensayos destinados a verificar la conformidad del equipo en los requisitos previamente descritos. Esta memoria plantea una secuencia ordenada de ensayos de conformidad según lo expuesto en la normativa y proporciona instrucciones detalladas sobre cómo llevar a cabo dichos ensayos. &lt;br /&gt;Por otro lado, también se detalla la documentación a presentar si se desean superar los trámites legales para obtener la autorización para realizar investigaciones clínicas (ensayos en humanos). En concreto, se plantean una serie de pautas para desarrollar un plan de investigaciones clínicas basándose en la información disponible sobre ensayos clínicos similares de otros equipos para electroporación.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87315</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87315/files/TAZ-TFG-2019-4589.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Normativa y ensayos aplicables a equipo electrónico para tratamiento de cáncer mediante electroporación</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Regulation and testing applied to medical electrical equipment for cancer treatment by means of electroporation</dc:title>
+</oai_dc:dc>

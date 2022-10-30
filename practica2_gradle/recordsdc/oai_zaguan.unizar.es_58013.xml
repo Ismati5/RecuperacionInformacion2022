@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ana Lucía Esteban Sánchez</dc:contributor>
+    <dc:creator>Sergio Pérez Miana</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>El trabajo fin de grado tiene por objetivo final, la construcción de un prototipo en el sistema de información Odoo que se adapte al proceso comercial de una determinada empresa. El planteamiento inicial parte de una compañía comercial que quiere implantar un sistema de información en su modelo de gestión. Para ello, el trabajo de ingeniería consistirá en realizar una labor de consultoría que se ha llevado a cabo mediante la siguiente metodología de trabajo: Búsqueda de información sobre el sistema de información Odoo; estudio de la empresa y análisis de los procesos comerciales que se llevan a cabo en la compañía; modelado de los procesos y adaptación al sistema de información; construcción y configuración del prototipo en Odoo; simulación del proceso comercial a través de dos casos de estudio y, finalmente, creación de un banco de pruebas para validar el correcto funcionamiento del prototipo y la simulación. Con esta metodología se ha desarrollado el trabajo y se han obtenido los siguientes resultados y conclusiones: Un sistema de información creado en Odoo, con un alto grado de adaptación a la compañía, gran posibilidad de ampliación a más procesos comerciales y teniendo a disposición, una herramienta final o banco de pruebas, credo para validar el correcto funcionamiento de cualquier proceso comercial implantado con el sistema de información.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/58013</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/58013/files/TAZ-TFG-2016-4944_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/58013/files/TAZ-TFG-2016-4944.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Organización Industrial</dc:subject>
+    <dc:title>Simulación de un proceso comercial a través de sistema de información de software libre</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Business Process Simulation with Free Software information System</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Rodellar Penella, Clementina</dc:contributor>
+    <dc:contributor>Zaragoza Fernández, María Pilar</dc:contributor>
+    <dc:creator>Sanz Fernández, Arianne</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>La crisis de confianza de los consumidores relacionada con la producción animal y la producción de carne, ha supuesto una creciente sensibilización de todos los sectores en los temas relacionados con la seguridad alimentaria. En este sentido la trazabilidad se ha convertido en una herramienta fundamental al servicio de la calidad alimentaria. En la presente memoria se propone el establecimiento de un sistema de trazabilidad genética basado en marcadores de ADN. Se ha realizado un estudio comparativo de la eficacia entre microsatélites y SNPs.  En el estudio se han utilizado un total de 675 muestras de animales procedentes de dos razas bovinas del norte de Aragón: Parda de Montaña y Pirenaica. Se ha creado una base de datos que contiene toda la información de las muestras que permite, conjuntamente con un programa diseñado, gestionar y verificar el sistema de trazabilidad. Los dos paneles de marcadores de ADN utilizados han demostrado su utilidad en identificación, paternidad, trazabilidad y asignación de individuos a raza. Se han calculado diferentes parámetros genéticos en los progenitores y en los descendientes, detectándose correlación entre las variables de ambos grupos de animales. Mediante análisis de regresión se han obtenido modelos matemáticos que permiten predecir con una elevada fiabilidad el comportamiento de las variables en los descendientes a partir de la información de los progenitores. En relación a los SNPs analizados en este trabajo, se ha demostrado la duplicación de un fragmento que contenía el SNP g.329C&amp;gt;T (AJ496781) ubicado en el cromosoma 26.  Además, se ha asociado el SNP c.1455A&amp;gt;G (U02564) localizado en el exón 12 de la transferrina bovina con cantidad de grasa en la leche. </dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5706</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Anatomía, Embriología y Genética Animal</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5706/files/TESIS-2011-012.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>trazabilidad</dc:subject>
+    <dc:subject>bovino</dc:subject>
+    <dc:subject>identificación genética</dc:subject>
+    <dc:subject>microsatélites</dc:subject>
+    <dc:subject>SNPs</dc:subject>
+    <dc:subject>traceability</dc:subject>
+    <dc:subject>bovine</dc:subject>
+    <dc:subject>genetic identification</dc:subject>
+    <dc:subject>microsatellites</dc:subject>
+    <dc:title>Trazabilidad genética en ganado bovino</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

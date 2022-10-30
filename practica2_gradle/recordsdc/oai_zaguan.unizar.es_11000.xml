@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Castejón Herrer, Luis</dc:contributor>
+    <dc:contributor>Valladares Hernando, David</dc:contributor>
+    <dc:creator>García Lázaro, Diego</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El siguiente proyecto tiene como objeto el estudio comparativo-teórico del comportamiento frente a vuelco de un Pilar A Superior de automóvil fabricado con diferentes tipos de materiales. Para este estudio se han utilizado herramientas de modelización y simulación numéricas basadas en el Método de los Elementos Finitos:    - Patran para el diseño de la geometría y el preproceso.    - Ábaqus para el cálculo y el postproceso. La optimización del Pilar A Superior se hace en base a la norma americana FMVSS216. Esta normativa establece un criterio de ensayo de techo de automóvil, de modo que su superación implica que un vehículo tenga una resistencia mínima frente a vuelco. Según esta normativa se aplica una fuerza sobre una esquina del automóvil, donde se une el techo con el pilar A, por medio de una placa rígida inclinada 25ºrespecto a la longitudinal y 5º respecto al frente. El vehículo debe presentar unareacción al aplastamiento determinada para diferentes niveles de desplazamiento. Los componentes del automóvil responsables de proporcionar la rigidez requerida son principalmente el Pilar A Superior, pero también el techo y el parabrisas en menor medida. En el presente proyecto se plantea la optimización del Pilar A Superior de un automóvil, aplicando diferentes espesores (0,8 mm, 1,4 mm y 2 mm) en aceros con diferentes grados de resistencia, que van desde un acero convencional (S355JR), hasta aceros de alta (DOCOL 1000DP) y ultra alta resistencia (DOCOL 1400M). El objetivo consiste en lograr pesos más reducidos al aplicar aceros de alta resistencia con espesores óptimos, logrando cumplir la normativa como con el diseño original. También se planteará el diseño del Pilar A Superior en diferentes aleaciones de aluminio (EN AW 5083, EN AW 6082T4 y EN AW 6082T6), comprobándose el ahorro en peso obtenido, pero siempre con el objetivo de cumplir la normativa. La metodología aplicada en el desarrollo de este proyecto es el Método de los Elementos Finitos, con integración explícita de la ecuación de equilibrio dinámica.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/11000</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería e Infraestructura de los Transportes</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/11000/files/TAZ-TFM-2013-189.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>pilar a superior</dc:subject>
+    <dc:subject>Máster Universitario en Sistemas Mecánicos</dc:subject>
+    <dc:title>Optimización de un Pilar A Superior de automóvil en diferentes materiales en base a la normativa FMVSS216 de ensayo de techo</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

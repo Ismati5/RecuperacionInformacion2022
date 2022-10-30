@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gracia Villa, Luis</dc:contributor>
+    <dc:creator>Cervantes Carcas, Marcos</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>El objeto de este proyecto fin de carrera es la realización de un proyecto de ejecución de un paso elevado metálico de tablero suspendido para el paso peatonal y tránsito de vehículos con el objetivo de comunicar dos áreas divididas por una carretera nacional, con cuantioso tránsito de vehículos y que es cruzada, cada vez mas, por publico con necesidad de acceder al embalse de la Loteta, futuro icono turístico de la provincia de Zaragoza. Se ha comenzado con el diseño del paso elevado cumpliendo las especificaciones técnicas del terreno y respetando la normativa vigente. El paso elevado tiene una luz de 42 metros, se ha diseñado con el fin de superar la anchura de la calzada de la carretera nacional, no superior a los 10 metros, pero también se ha hecho con fines de futuro, suponiendo que al lado de la calzada se van a incorporar carriles adicionales. Una vez obtenido el diseño de la estructura se ha procedido a su cálculo estructural para poder analizar las posibles modificaciones del diseño inicial y con el fin de establecer los espesores de los perfiles que conforman el aspo elevado, de acuerdo a la normativa de cálculo vigente. Dicho análisis de la estructura se realizará mediante un programa de elementos finitos (I-Deas) con el cuál se determina el verdadero funcionamiento de la estructura. Una vez obtenido los esfuerzos de todos los puntos de la estructura se ha procedido al cálculo a mano de distintos elementos singulares como las uniones de la estructura, tal y como se recogen en los anexos adjuntos. Una vez analizado y calculado el diseño de la estructura se ha realizado los planos generales, de fabricación y de montaje necesarios para la construcción del paso elevadometálico. Finalmente, se ha realizado el presupuesto de la estructura, así como toda la documentación pertinente para realizar del proyecto de ejecución.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5140</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5140/files/TAZ-PFC-2010-211.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5140/files/TAZ-PFC-2010-211_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Diseño y cálculo de un paso elevado metálico de tablero suspendido</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mustata, Radu</dc:contributor>
+    <dc:contributor>Valiño, Luis</dc:contributor>
+    <dc:contributor>Martín Yagüe, Jesús</dc:contributor>
+    <dc:creator>Dueñas Gutiérrez, Leonard Efren</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>En ese trabajo se propone obtener numéricamente la curva de polarización de una pila de  combustible PEM (proton exchange membrane) mediante una discretización por volúmenes finitos, utilizando software de dominio público, en concreto OpenFOAM. Se considera una geometría sencilla, pero con todos los elementos de la pila (no se resuelve todo el "stack", sino solo una monocelda). Para este trabajo se realizan algunas simplificaciones como las siguientes:\\ 1) Geometría 2D simplificada, pero se incluyen todos los componentes de la  pila.\\ 2) Caso isotermo.\\ 3) Caso estacionario. \\ 4) Densidad constante.\\ 5) Difusión de Fick.\\ 6) PEM de alta temperatura (no hay agua líquida).\\ 7) Hidrógeno y vapor de agua en la entrada anódica y oxígeno y vapor de agua  en la catódica.\\ 8) Se consideran pérdidas por activación, masa y óhmicas en la membrana.\\ 9) Ecuaciones de transporte completas, incluyendo medio poroso.\\  Este trabajo requiere primero la correcta modelización de todos los fenómenos  físicos que tienen lugar en la pila (fluidodinámica, flujo en medios porosos,  incapacidad de transporte de hidrógeno y oxígeno, reacciones electroquímicas, transporte de cargas  eléctricas) y que están fuertemente acoplados. Una vez obtenidas de la literatura las ecuaciones de transporte adecuadas al  problema, con las contribuciones personales necesarias y el modelo de acoplo,  se procederá a su discretización por volúmenes finitos en una malla sencilla  bidimensional que representa una monocelda. Los parámetros físicos que caracterizan los distintos materiales y componentes  de la pila se obtendrán de los valores proporcionados por los fabricantes, y  que están a disposicion del LITEC-CSIC. Una vez obtenido un código fiable, se obtendrá la curva de polarización de la pila mediante la variación en la demanda de corriente eléctrica a la monocelda, que  se impone como una condición de contorno al problema.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6515</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería Mecánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6515/files/TAZ-TFM-2011-088.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>pem</dc:subject>
+    <dc:subject>Máster Universitario en Mecánica Aplicada</dc:subject>
+    <dc:title>Obtención por simulaciones numéricas de la curva de polarización de una pila de combustible de membrana de intercambio de portones mediante software libre</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

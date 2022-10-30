@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bernués del Río, Emiliano</dc:contributor>
+    <dc:contributor>Valdovinos Bardají, Antonio</dc:contributor>
+    <dc:creator>Terrado Izquierdo, David</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El principal objetivo del trabajo es la planificación de una red de comunicaciones móviles para la provincia de Zaragoza, basada en la tecnología TETRA y cuya utilidad básica será la comunicación entre los servicios de emergencia de la Comunidad Autónoma de Aragón. Para ello se primará alcanzar el mayor número de superficie cubierta al menor coste sin comprometer la calidad de la red. Se realizará un estudio de cobertura con emplazamientos reales y su correspondiente red de transporte para alcanzar el mayor porcentaje del territorio de la provincia. Según las características poblacionales, orográficas o debidas a las condiciones del emplazamiento se elegirá el equipamiento para cada nodo integrante de la red. Las estaciones bases podrán ser de alta o baja capacidad, siendo estas últimas más flexibles a la hora de su instalación pero cuyo alcance y prestaciones resultan inferiores. Una de las características de los equipos de baja capacidad, en la mayoría de fabricantes, es su imposibilidad de funcionar en modo degradado de la red o de contar con radioenlaces no redundantes. Por esta razón, se sugerirá la integración de elementos adicionales, como gateways inteligentes, que avancen en la utilización de otras redes que minimicen un eventual aislamiento de la celda. Hasta el momento en nuestro país, siempre se han desplegado las redes de emergencia TETRA de forma unívoca, sin que se considerase la posibilidad de emplear otras tecnologías que mejoren la eficiencia y los costes desde el punto de vista de la disponibilidad del servicio. En resumen, se busca principalmente innovar a la hora de poder reutilizar las redes inalámbricas ya disponibles en entornos rurales y conseguir así: - Lograr una cobertura máxima. Una red TETRA debe cubrir la mayor parte del territorio de actuación puesto que los servicios de emergencias como bomberos, agentes forestales, servicios sanitarios o de carreteras son los principales usuarios a los que va destinada. - Lograr un coste mínimo. Se intentará reducir el coste con el menor impacto en la calidad para lograr la mejor cobertura. Aragón cuenta con una orografía muy complicada que dispara el coste en cualquier tecnología inalámbrica si se pretende alcanzar una cobertura máxima. - Aprovechamiento de otras tecnologías inalámbricas. Se estudiarán las distintas alternativas necesarias para el aprovechamiento de otras redes existentes, como UMTS o de próxima implantación como LTE.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9125</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9125/files/TAZ-TFM-2012-835.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>tetra</dc:subject>
+    <dc:subject>planificación</dc:subject>
+    <dc:subject>interoperabilidad</dc:subject>
+    <dc:subject>gateway</dc:subject>
+    <dc:subject>cobertura</dc:subject>
+    <dc:subject>estación base</dc:subject>
+    <dc:subject>umts</dc:subject>
+    <dc:subject>lte</dc:subject>
+    <dc:subject>Máster Universitario en Tecnología de la Información y Comunicaciones en Redes Móviles</dc:subject>
+    <dc:title>Planificación y optimización de red TETRA para la provincia de Zaragoza. Solución de interoperabilidad con otras redes celulares</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

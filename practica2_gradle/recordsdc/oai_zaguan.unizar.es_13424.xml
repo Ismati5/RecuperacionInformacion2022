@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bernal Agustín, José Luis</dc:contributor>
+    <dc:contributor>Dufo López, Rodolfo</dc:contributor>
+    <dc:creator>Aterido Galdón, Mariángeles</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Con este proyecto final de carrera se pretende dar una visión global de las diferentes opciones de autoconsumo y balance neto existentes en varios países, para instalaciones fotovoltaicas conectadas a la red eléctrica. El balance neto es el mecanismo de autoconsumo por el cual la energía excedentaria vertida a la red se puede recuperar cuando la producción fotovoltaica no cubre toda la demanda. Existen diferentes opciones de balance neto regulados por la legislación vigente en distintos países: balance neto energético, balance neto económico, por periodos mensuales o anuales. Se han analizado los borradores de los proyectos de Real Decreto (RD) sobre autoconsumo y balance neto existentes en España, y sus respectivos informes de la Comisión Nacional de la Energía (CNE), a la espera de que se apruebe la ley. El primer borrador del RD sobre autoconsumo del gobierno contemplaba el balance neto energético anual, mientras que el primer informe de la CNE era partidario del balance neto económico anual; el segundo borrador no incentiva el autoconsumo debido al peaje de respaldo impuesto a la energía consumida de la propia instalación fotovoltaica ya que no contempla el balance neto, mientras que el segundo informe de la CNE se opone a dicho peaje de respaldo. En este proyecto se comparan las diferentes opciones para autoconsumo en España, los modelos de los dos borradores y los dos informes de la CNE, aplicados a una instalación fotovoltaica con conexión a red de un consumidor convencional. Se realizan ensayos modificando los precios de los componentes más importantes y la ubicación. También se ensayan otros modelos como el balance neto energético y económico mensual, la opción de no necesitar préstamo para la instalación, y la modificación del interés y de la inflación. Estos ensayos se realizan a través de la herramienta iHOGA, un programa informático que simulará los casos y, analizando los resultados y comparándolos entre sí, se obtendrán  las conclusiones acerca de la viabilidad económica de los casos de ensayo</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/13424</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/13424/files/TAZ-PFC-2014-072.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>energía solar fotovoltaica</dc:subject>
+    <dc:subject>autoconsumo</dc:subject>
+    <dc:subject>balance neto</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Evaluación técnica y económica de las distintas opciones de autoconsumo y balance neto fotovoltaico</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

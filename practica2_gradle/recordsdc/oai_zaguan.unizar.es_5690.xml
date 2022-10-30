@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mosteo Abad, Rosa</dc:contributor>
+    <dc:creator>Muñoz Martín, Jorge</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El objetivo de este proyecto es realizar un estudio de diseño y explotación basado en la E.D.A.R. de Cariñena, por medio del software informático DESASS 1.1 ® ® (cedido por la Universidad de Zaragoza). Mediante la utilización de dicho programa, se llevarán a cabo las siguientes acciones: · Establecer un esquema básico de funcionamiento basado en la E.D.A.R. de Cariñena. · Elaborar un diseño de las distintas unidades del proceso de depuración, dando para ello la máxima libertad posible al programa. · En base a ese diseño, simular las condiciones de depuración para verificar si los vertidos cumplen la normativa 91/271/CEE. Asimismo, recalcar que un objetivo añadido del presente proyecto ha sido el descubrimiento y aprendizaje en el manejo de un nuevo software informático para el diseño de procesos de depuración de aguas residuales: DESASS 1.1. A ese respecto, señalar que el enfoque del presente proyecto ha estado constantemente supeditado a las posibilidades que dicho programa iba ofreciendo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5690</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Tecnologías del Medio Ambiente</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5690/files/TAZ-PFC-2011-142.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>diseño</dc:subject>
+    <dc:subject>E.D.A.R.</dc:subject>
+    <dc:subject>DESASS 1.1</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Química Industrial)</dc:subject>
+    <dc:title>Diseño y simulación de una estación depuradora de aguas residuales mediante el software informático DESASS 1.1 R</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

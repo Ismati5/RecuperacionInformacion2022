@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Romero Pascual, Enrique </dc:contributor>
+    <dc:contributor>Soler Herrero, Jaime</dc:contributor>
+    <dc:creator>Villacián Pascual, Laura</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>El objetivo de este proyecto es simular un sistema de cogeneración de electricidad y calor (o en inglés Combined Heat and Power, CHP) utilizando ciclohexano como líquido portador de hidrogeno.&lt;br /&gt;El proceso está formado por un reactor de flujo pistón, un combustor, una pila de tipo PEM de alta temperatura (HTPEM) y 6 intercambiadores de calor.&lt;br /&gt;En el reactor de flujo pistón es donde tiene lugar la deshidrogenación del ciclohexano para dar hidrógeno. Este hidrógeno es transportado a la pila para producir la electricidad. Dado que la deshidrogenación es una reacción endotérmica, un combustor de GLP (Gas Licuado de Petróleo) es usado para aportar el calor necesario. &lt;br /&gt;El reactor se ha configurado como un reactor de tipo flujo pistón, incorporando la cinética de la reacción química de deshidrogenación de ciclohexano. Las condiciones de simulación del reactor, por tanto, han sido lo más realistas posibles. &lt;br /&gt;La pila de combustible es simulada a través de unos cálculos basados en bibliografía, sobre estudios que tienen el mismo tipo de pila (HTPEM), la cual tiene una serie de ventajas frente a las pilas PEM convencionales que operan a temperaturas bajas. A través de los intercambiadores de calor, la temperatura de los diferentes flujos puede ser ajustada, cruzando corrientes cálidas con frías, para integrar energéticamente el sistema sin tener que aportar más energía. El calor sobrante se utiliza para la obtención de agua caliente sanitaria. La simulación es realizada con AspenOne HYSYS®, un programa de simulación de procesos químicos. Este programa también nos permite hacer un análisis del proceso, de forma que podamos optimizarlo.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87301</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Ingeniería Química</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87301/files/TAZ-TFG-2019-4632_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/87301/files/TAZ-TFG-2019-4632.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Química</dc:subject>
+    <dc:title>Modelado de un proceso de producción de electricidad y ACS alimentado con ciclohexano como portador de hidrógeno</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Modeling of a Combined Heat and Power (CHP) process with cyclohexene as a hydrogen carrier</dc:title>
+</oai_dc:dc>

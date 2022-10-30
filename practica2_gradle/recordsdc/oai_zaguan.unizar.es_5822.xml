@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ferrari, Franco</dc:contributor>
+    <dc:contributor>Arcega Solsona, Francisco Javier</dc:contributor>
+    <dc:creator>Osta Ardevines, Francisco Javier</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>After studying in depth look at wireless sensor networks are quite clear improvement compared to traditional wireless networks due to several factors as are the durability of the lifetime of the batteries, allowing greater portability of sensor nodes and that can record more events to power stay longer in some places, the routing protocols networks sensors allow gain than in durability also gain in efficiency the avoidance of collisions between packets, which also ensures a lower number of unnecessary network traffic. Because of the great features of such networks are currently using sensor networks in many projects related to different fields such as: environment, health, military, construction and structures, automotive, home automation, agriculture, etc. This type of network currently is leading a technological revolution similar to that had appearance of internet, because the applications appear to be infinite, also speaks global surveillance network on the planet capable of recording and tracking people specific goods and research projects have generated great interest for application in practice.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5822</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5822/files/TAZ-PFC-2011-212.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>wireless</dc:subject>
+    <dc:subject>sensors</dc:subject>
+    <dc:subject>networks</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electricidad)</dc:subject>
+    <dc:title>Wireless sensors networks</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

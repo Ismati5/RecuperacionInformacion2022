@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gaspar Lorenz, Francisco</dc:contributor>
+    <dc:contributor>López de Silanes Busto, María Cruz</dc:contributor>
+    <dc:creator>Salinas Cortés, Pablo</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Viendo los problemas que presentaba la versión del Engineering Equation Solver, que la Universidad dejaba al alumnado, tales como no permitir un punto inicial, fecha de caducidad de la aplicación, que solamente está en inglés y que únicamente funciona en Windows; nos decidimos a crear una plataforma que intentase, en la medida de lo posible, solventar estos errores y sobre todo dar una alternativa. Comenzamos este proyecto tras estudiar los lenguajes de programación que podían ser más apropiados para nuestro propósito y documentarnos sobre los métodos para resolver sistemas de ecuaciones. Pero considerando la complejidad ante la que nos encontrábamos, resolvimos que la mejor solución sería realizar el programa en software libre17, añadiendo la posibilidad de que en un futuro, más gente pueda ayudar a mejorar este programa, o incluso sacar sus propias versiones, aportando un valor añadido a nuestro proyecto, puesto que no es una caja negra. El programa realizado tiene implementados métodos para dividir sistemas de ecuaciones en subsistemas de ecuaciones, permitiendo así resolver grandes sistemas de una manera más rápida y eficiente. Además, incluye cuatro métodos de optimización globalmente convergentes, lo que significa que rara vez deberemos escoger un punto inicial para poder obtener la solución de su problema. Sin embargo, hemos incluido varios menús para que se puedan modificar los parámetros suficientes, como el punto inicial del algoritmo o el radio de región de confianza, para que estos algoritmos se adapten a distintos tipos de problemas no lineales. Se ha diseñado una completa interfaz de usuario, con capacidad para deshacer, rehacer, cortar, copiar, pegar, buscar, exportar a pdf, imprimir, guardar y abrir documentos del tipo del programa. Hemos creado e incluido dentro del programa una ayuda completa para que el usuario sea capaz de utilizar el programa y entienda su valor intrínseco. Finalmente hemos incluido una base de datos con propiedades termodinámicas de distintas sustancias, que puede ser ampliada por el usuario.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5269</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Matemática Aplicada; Área de Matemática Aplicada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5269/files/TAZ-PFC-2010-268_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5269/files/TAZ-PFC-2010-268.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>resolución de sistemas no lineales globalmente convergente</dc:subject>
+    <dc:subject>región de confianza</dc:subject>
+    <dc:subject>grafos</dc:subject>
+    <dc:subject>algoritmo de Tarjan</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Programa para la resolución de sistemas de ecuaciones no lineales</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

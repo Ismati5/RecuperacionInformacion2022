@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>López Andía, Diego</dc:contributor>
+    <dc:creator>Pitarch Gargallo, Pedro</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El objetivo de este trabajo ha sido crear una herramienta  para el cálculo de ensayos de huecos de tensión y sobretensión de los equipos MEGHA y QuEST LAB, siendo esta capaz de calcular las caídas de tensión o sobretensión con los parámetros de los ajustes  característicos de estos equipos. La aplicación desarrollada consta de varias pantallas hechas en VBA Excel. La aplicación inicialmente solicita la introducción de los datos de la instalación y ajustes de los equipos de ensayos por parte de usuario al programa, el programa se encarga de enviar los datos a Excel y calcular los resultados del ensayo con los parámetros seleccionados. En la pantalla final se visualizan los resultados y al final la aplicación proporciona los parámetros de ensayo a introducir en el equipo de ensayos real en un informe de ensayo en campo en formato Word. El objetivo principal de la aplicación creada en este proyecto consiste en facilitar el ajuste en campo de los equipos de ensayo generadores de huecos de tensión o sobretensiones.   En la memoria se explican las diferentes normas de ensayos que se pueden realizar con los equipos de ensayo y se hace una breve introducción a los ensayos de huecos de tensión en el contexto de la energía eólica, una descripción eléctrica y funcional de los equipos de ensayo  y se completa con un manual de usuario de la aplicación con dos casos prácticos hechos para los equipos MEGHA y QuEST LAB. En definitiva con este proyecto se pretende además de crear la aplicación y explicar el manejo de esta, explicar brevemente la utilidad de los equipos de ensayo que implementa la aplicación para mejorar la calidad en el suministro en la energía eólica, que es uno de los aspectos que mayor importancia tiene en el desarrollo de este tipo de energía.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10157</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10157/files/TAZ-PFC-2013-093.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electricidad)</dc:subject>
+    <dc:title>aplicación para el ajuste de los equipos de ensayo de huecos de tensión y sobretensiones</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>González Pedraza, María Rosario</dc:contributor>
+    <dc:creator>Tovío Ciércoles, José</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>El presente documento recoge el resultado del proyecto de fin de carrera que ha consistido en la implementación de un programa llamado Descartes para una máquina de medición por coordenadas. Una máquina de medición por coordenadas es un instrumento de medida capaz de determinar las medidas y la forma del objeto sobre el que se aplique. Para ello dispone de un palpador que se posa sobre la superficie de la pieza a medir. El palpador se mueve mediante tres ejes perpendiculares y cuando está parado, estos ejes proporcionan las coordenadas cartesianas X, Y, Z del centro del palpador. El programa utiliza la nube de puntos proporcionada por el palpador y determina los parámetros de la superficie palpada (esfera, plano, cilindro o cono). También calcula distancias, ángulos e intersecciones entre las superficies medidas. El programa está implementado en Lazarus que es un entorno de programación visual basado en Pascal y es software libre. Es fácil de utilizar y permite añadir nuevas funcionalidades. En las pruebas realizadas los resultados obtenidos han sido totalmente satisfactorios y demuestran que el programa supera las capacidades de la máquina original.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/37163</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/37163/files/TAZ-PFC-2015-256.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Software para máquina de medición por coordenadas didáctica</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

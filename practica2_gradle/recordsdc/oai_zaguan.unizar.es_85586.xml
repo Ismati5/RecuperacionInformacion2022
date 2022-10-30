@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Abad Martín, Pedro</dc:contributor>
+    <dc:contributor>Pardina Carrera, Antonio</dc:contributor>
+    <dc:creator>Benedicto Cubel, Diego</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>El presente trabajo de fin de grado ha consistido en el estudio y viabilidad de un sistema solar fotovoltaico, aplicado a una vivienda o un edificio público. Mediante un acumulador de ACS (Agua Caliente Sanitaria), se calienta el agua con la energía obtenida del sol, a través de unos paneles fotovoltaicos. En este proyecto hemos realizado un análisis del sistema destinado a un autoconsumo para una vivienda. Se ha realizado un prototipo utilizando dos placas solares de unos 370 W aproximadamente, y su salida regulada mediante un microcontrolador y una etapa amplificadora DC/DC tipo BOOST. Se han realizado los cálculos y simulaciones pertinentes para el diseño de la parte electrónica, desde el cálculo de la bobina hasta la etapa BOOST. Al considerarse consumo instantáneo, se evita el uso de baterías, evitando así uno de los grandes problemas como es el almacenar energía eléctrica y su problemática derivada (coste de las baterías, vida útil, lugar de ubicación, etc.). Por otra parte, la energía que se consume en las resistencias del acumulador para calentar el agua se pasa a éstas directamente en forma de corriente continua, igual que las que nos sacan los paneles fotovoltaicos, evitando de tal manera la instalación de inversores, que pudieran elevar el coste de la instalación. Se realiza un estudio económico con la potencia fotovoltaica instalada, y el ahorro energético que supondría para una vivienda a lo largo de un año, además de la potencia fotovoltaica ideal necesaria para el correcto funcionamiento en la vivienda de un municipio de Zaragoza, para lograr satisfacer las necesidades de ACS en el peor caso posible.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/85586</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/85586/files/TAZ-TFG-2019-1822.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Eléctrica</dc:subject>
+    <dc:title>Sistema fotovoltaico de consumo instantáneo controlado por microcontrolador</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Photovoltaic system of instant consumption controlled by microprocessor</dc:title>
+</oai_dc:dc>

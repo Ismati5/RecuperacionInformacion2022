@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Blesa Gascón, Alfonso</dc:contributor>
+    <dc:creator>Alcalá Baselga, Eugenio</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Elaboración de un prototipo de cuadricóptero con un sistema de control de estabilidad automático y comunicado vía Wi-Fi con el punto de control. Se utiliza como plataforma de control la tarjeta Raspberry Pi. La aplicación de control se ha desarrollado sobre la plataforma COSME la cual trabaja sobre el sistema operativo modificado con características de tiempo real.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/14367</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/14367/files/TAZ-TFG-2014-538.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/14367/files/TAZ-TFG-2014-538_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>cosme</dc:subject>
+    <dc:subject>raspberry pi</dc:subject>
+    <dc:subject>cuadricóptero</dc:subject>
+    <dc:subject>Graduado en Ingeniería Electrónica y Automática</dc:subject>
+    <dc:title>Desarrollo e implementación de un cuadricóptero</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

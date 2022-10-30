@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mateo Collazos, Pedro</dc:contributor>
+    <dc:creator>Peiró Esteban, Juan</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>La organización de horarios en colegios resulta un problema común a los equipos directivos de prácticamente todos los centros. Obtener soluciones para estos calendarios semanales a través modelos matemáticos estándares de programación lineal entera implica un gran tiempo de espera mientras el ordenador lleva a cabo los cálculos del algoritmo. Mediante este trabajo propondremos un algoritmo metaheurístico para obtener soluciones de calidad muy similar a las de estos algoritmos estándares en tiempos mucho menores.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76135</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Métodos Estadísticos; Área de Estadística e Investigación Operativa</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76135/files/TAZ-TFM-2018-1314.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Modelización e Investigación Matemática, Estadística y Computación</dc:subject>
+    <dc:title>Construcción de horarios escolares. Aproximaciones mediante programas de programación lineal entera</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">School timetable generation. Approach through linear integer programming</dc:title>
+</oai_dc:dc>

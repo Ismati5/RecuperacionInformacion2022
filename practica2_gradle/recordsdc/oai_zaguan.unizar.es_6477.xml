@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Martínez Iturbe, Abelardo</dc:contributor>
+    <dc:creator>Martín Amo, Héctor</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El sistema de iluminación de estado sólido (SSL) está integrado por los siguientes componentes: disipador de calor, placa de circuito impreso PCB para los LEDs, diodo/s LED/s de potencia como fuente de luz, fuente o driver de alimentación y óptica. Todos ellos son fundamentales para el sistema en su conjunto y el aspecto más crítico, porque puede ser fuente de problemas, es el calor generado por el funcionamiento del LED. Para conseguir los lúmenes deseados en la mayoría de las aplicaciones se deben conectar varios LEDs. El objetivo de este trabajo es el estudio del diodo LED como sistema de iluminación de estado sólido, su funcionamiento en función de la temperatura de la unión, los componentes que mejoran el rendimiento del conjunto SSL y el óptimo diseño para la alimentación del sistema de iluminación basado en LEDs, valorando los costes y eficiencia.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6477</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6477/files/TAZ-TFM-2011-066.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>iluminación ssl</dc:subject>
+    <dc:subject>led en iluminación</dc:subject>
+    <dc:subject>driver para led</dc:subject>
+    <dc:subject>Máster Universitario en Ingeniería Electrónica</dc:subject>
+    <dc:title>Diseño de la iluminación de estado sólido (SSL)</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

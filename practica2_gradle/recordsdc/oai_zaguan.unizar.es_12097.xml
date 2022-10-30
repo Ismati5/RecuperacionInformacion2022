@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Amézaga Palomares, Carlos</dc:contributor>
+    <dc:contributor>González Ibáñez, David</dc:contributor>
+    <dc:creator>Cortés Sanchón, Álvaro</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El presente proyecto “Análisis del eslabón de cadena del sistema de transporte de línea de producción”, se centra, como objetivo principal, en el modelado y análisis de un eslabón de cadena de transporte de la línea de producción del vehículo Opel Meriva, en la planta de General Motors (Figueruelas)  empleando los software Pro/ENGINEER y ANSYS  con el fin de avanzar en el  estudio de los fallos a fatiga causados por el marcaje en los eslabones.  El presente proyecto está estructurado en 4 capítulos junto con los anexos y la bibliografía. En el capítulo 1 se explican las motivaciones para la realización del proyecto, el objetivo principal sobre el que trata y las etapas en las que se divide el proyecto. En el  capítulo 2 se lleva a cabo el diseño y análisis del eslabón: Diseño en 3D de los dos modelos de estudio mediante PRO ENGINEER, definición condiciones de contorno, cálculos de las cargas a soportar por la cadena, cálculos estáticos del eslabón mediante  el software ANSYS… En el capítulo 3 se realiza el cálculo analítico a fatiga del eslabón, obteniendo la vida a fatiga del eslabón para ambos casos (con y sin marcado), en el cual nos basaremos para la conclusión del estudio realizado. En el capítulo 4 se encuentran los resultados y las conclusiones obtenidas del proyecto, se realizan propuestas para posibles proyectos futuros y por último se presenta el presupuesto para la realización del proyecto.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12097</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12097/files/TAZ-PFC-2013-541.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>gm</dc:subject>
+    <dc:subject>eslabón</dc:subject>
+    <dc:subject>general motors</dc:subject>
+    <dc:subject>tensión</dc:subject>
+    <dc:subject>fatiga</dc:subject>
+    <dc:subject>opel españa</dc:subject>
+    <dc:subject>coche</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Análisis del eslabón de cadena del sistema de transporte de línea de producción</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Cajal Hernando, Carlos</dc:contributor>
+    <dc:creator>Gazol Escribano, Rubén</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>El objetivo principal del proyecto es simular el comportamiento del equipo, siempre referido la parte correspondiente a la toma de datos que realizará el mismo cuando esté en funcionamiento, además de detectar posibles problemas y/o potenciales mejoras. Se trata de poner a prueba el simulador, realizar simulaciones con distintos parámetros de cámara y distintas piezas, en varias posiciones y comparar y analizar los datos obtenidos, programar el tratamiento de datos obtenidos de la mejor manera. Para comparar de manera eficaz los datos obtenidos según las distintas simulaciones realizadas habrá que realizar varias aplicaciones, determinando cual será el mejor método sobre el que deban trabajar estas aplicaciones. Además, a los datos que se obtienen con estas simulaciones se le añaden ruido o vibraciones que simulan posibles “tropiezos” del sistema de cámara durante su movimiento por la cremallera que los dirige.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5470</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5470/files/TAZ-PFC-2010-411.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Desarrollo sistema de simulación y cálculo de resultados para sonda de triangulación láser</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

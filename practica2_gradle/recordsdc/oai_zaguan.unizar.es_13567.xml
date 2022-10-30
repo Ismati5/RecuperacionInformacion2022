@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Falcó Boudet, José María</dc:contributor>
+    <dc:contributor>Merseguer Hernáiz, José Javier</dc:contributor>
+    <dc:creator>Barreiro Costa, Adam</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Pese a que en la actualidad el sector del ocio digital goza de una amplia gama de videojuegos educativos, la mayoría de software de este tipo se focaliza exclusivamente en un rango muy limitado de edades, ya que generalmente ha sido diseñado para niños pequeños, con contenidos didácticos que no suelen adentrarse en el temario de niveles más avanzados como la educación secundaria o el bachillerato. Por otra parte, nos encontramos en un punto en el que el concepto de gamificación (o ludificación) ha cobrado una relevante importancia en el mundo educativo. Cada vez son más estudios los que demuestran que aprender jugando ayuda a asimilar mejor e interesar más al alumno por el aprendizaje. Con el presente proyecto se pretende acercar este concepto a las aulas de educación secundaria, desarrollando un videojuego educativo accesible vía navegador web, que cubra todo el temario sobre polinomios correspondiente al tercer curso del programa educativo actual. Para su elaboración se han usado tecnologías web modernas como HTML5 y JavaScript, con el motor para el desarrollo de videojuegos CraftyJS y la librería jQuery que lo complementa en aspectos como eventos de entrada o enriquecimiento de la interfaz de usuario. El back-end se ha construido con node.js para dar servicio a los usuarios y MongoDB para el almacenamiento de información. El resultado es un videojuego que sumergirá al alumno en un mundo 2D de ciencia ficción repleto de enemigos a los que deberá derrotar mediante la resolución de operaciones con polinomios, desde sumas a cocientes pasando por restas, productos y productos notables. Los enfrentamientos pueden ser contrarreloj o sin límite de tiempo, dependiendo de la pericia del jugador. Si el enemigo no descubre al personaje o éste está escondido, el alumno podrá introducir las soluciones sin la presión que supone tener una cuenta atrás. Si por el contrario el jugador falla una operación en este modo o simplemente es descubierto, las operaciones deberán resolverse antes de que el reloj llegue a cero, o el jugador perderá vida. El alumno contará con la ayuda de bonificaciones que debe obtener respondiendo correctamente a preguntas teóricas de “verdadero” o ”falso” que le aparecerán al abrir los cofres que hay disponibles a lo largo de los niveles. Se incluye también un modo multijugador cooperativo, donde un jugador puede jugar con su partida junto a otro alumno que le ayudará a derrotar enemigos y avanzar, con el objetivo de fomentar la interacción entre ellos. El profesor administrador dispone de un editor de niveles que permite modificar el juego de forma muy flexible, añadiendo más niveles o modificando los existentes en base a las necesidades de la clase, y un panel de gestión de alumnos para controlar a los alumnos que jueguen y ver sus progresos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/13567</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/13567/files/TAZ-PFC-2014-148.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>videojuego</dc:subject>
+    <dc:subject>juego</dc:subject>
+    <dc:subject>enseñanza</dc:subject>
+    <dc:subject>aprendizaje</dc:subject>
+    <dc:subject>secundaria</dc:subject>
+    <dc:subject>polinomios</dc:subject>
+    <dc:subject>educación</dc:subject>
+    <dc:subject>educativo</dc:subject>
+    <dc:subject>didáctico</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Videojuego educativo para la enseñanza de polinomios a alumnos de 3º de la E.S.O.</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

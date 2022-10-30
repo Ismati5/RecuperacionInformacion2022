@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Lozano Serrano, Miguel Ángel</dc:contributor>
+    <dc:creator>Costa Sorolla, Jorge</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>La sostenibilidad energética representa uno de los retos clave del siglo XXI, y en este contexto, existe un amplio potencial de aplicación de la energía solar térmica para cubrir parte de la demanda de energía del sector residencial. Las necesidades de calor y frío demandan un 49% de la energía final en la Unión Europea. Para alcanzar el objetivo del 20% de aporte de las fuentes renovables de energía en 2020 la porción de calor y frío renovable debería triplicarse. Los sistemas solares térmicos centralizados con grandes acumuladores térmicos, denominados acumuladores estacionales, son capaces de producir energía térmica durante todo el año para cubrir gran parte de la demanda anual de calefacción y agua caliente sanitaria. Estos sistemas abastecen a grandes comunidades residenciales a través de redes de calefacción de distrito en el norte y centro de Europa. Los modelos de optimización elaborados en el presente proyecto parten de la posibilidad de optimizar sistemas de calefacción solar con acumulación estacional que puedan integrar bomba de calor y cogeneración, permitiendo así su evaluación económica y predimensionado. Se han elaborado un total de cuatro modelos de optimización, los tres primeros corresponden a cada una de las tecnologías principales por separado (sistema solar, cogeneración y bomba de calor) y el cuarto modelo está orientado a un sistema que integre conjuntamente varias de las tecnologías consideradas. A partir de datos climáticos sencillos y fáciles de obtener, los modelos de optimización describen de una manera simple y eficaz el funcionamiento físico de los sistemas energéticos planteados, determinando el diseño óptimo económico del sistema que conlleve un mínimo coste de suministro de los servicios energéticos demandados. Las tecnologías consideradas en el sistema energético son: campo centralizado de captadores solares térmicos, calderas de gas natural, acumulador estacional, módulos de cogeneración y bombas de calor. Como resultados se obtienen la combinación de criterios de diseño y el régimen de operación mensual que caracterizan el sistema óptimo. La herramienta de optimización mediante la cual se implementan y resuelven los modelos es el software de optimización LINGO. Los modelos planteados se aplican al caso base de una comunidad de 1000 viviendas de nueva construcción ubicada en Zaragoza.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12191</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12191/files/TAZ-PFC-2013-594_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/12191/files/TAZ-PFC-2013-594.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>energía solar térmica</dc:subject>
+    <dc:subject>optimización</dc:subject>
+    <dc:subject>calefacción de distrito</dc:subject>
+    <dc:subject>acumulación estacional</dc:subject>
+    <dc:subject>bomba de calor</dc:subject>
+    <dc:subject>cogeneración</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Optimización de sistemas de calefacción solar de distrito con acumulación estacional e integración de bomba de calor y cogeneración</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

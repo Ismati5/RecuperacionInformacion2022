@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Baldassarri Santa Lucía, Sandra</dc:contributor>
+    <dc:contributor>Cerezo Bagdasari, Eva</dc:contributor>
+    <dc:creator>Loscertales Albiol, Antonio</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>En este Proyecto Fin de Carrera se ha desarrollado un sistema de reconocimiento automático de emociones faciales en secuencias de vídeo. El presente trabajo se enmarca dentro del proyecto nacional de investigación “REPLIKANTS: Hacia una nueva generación de agentes de tipo humano (TIN2011-24660)”, y de una colaboración con el grupo GRIHO de la Universitat de Lleida, especializado en usabilidad y con la empresa BitBrain Technologies, líderes en interfaces cerebro-ordenador. Este Proyecto Fin de Carrera ha tomado como punto de partida el trabajo anterior desarrollado por el grupo GIGA Affective Lab en la clasificación facial de emociones basado en un enfoque emocional discreto y ha realizado una migración completa al espacio emocional continuo, dando lugar a un nuevo sistema de reconocimiento facial de emociones. Con la migración al nivel de descripción continuo, se han conseguido superar las limitaciones del anterior sistema, permitiendo una descripción emocional más rica y una representación más precisa de la variación de las emociones a lo largo del tiempo. Para conseguir los objetivos, se ha realizado un estado del arte sobre los trabajos más recientes de detección emocional. Se han analizado las alternativas posibles en cada una de las fases del proceso de detección facial de emociones, seleccionando las más adecuadas para el sistema a desarrollar. La migración del trabajo previo a un enfoque emocional continuo ha hecho necesario llevar a cabo un estudio exhaustivo de las Bases de Datos Emocionales continuas disponibles. Tras realizar el estudio, se ha seleccionado la Base de Datos Emocional que se ajustaba a los requerimientos de un sistema con enfoque emocional continuo. Con la nueva base de datos, se ha implementado y entrenado un nuevo clasificador de emociones. Una vez realizadas dichas tareas, se ha desarrollado el nuevo sistema de reconocimiento de emociones faciales de carácter continuo, complementado por una interfaz de visualización que permite tomar un vídeo en secuencia de imágenes, seleccionar frames y visualizar a qué región del espacio pertenece la emoción detectada por el sistema de clasificación. Por último, mencionar que se va a hacer uso del sistema de reconocimiento de emociones desarrollado en el “Proyecto Neurogame: Neuro-evaluación multimodal de videojuegos”, en el que el autor del trabajo ha participado activamente tanto en el análisis facial de emociones como en la definición de la metodología de evaluación.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8796</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8796/files/TAZ-PFC-2012-533_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/8796/files/TAZ-PFC-2012-533.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>computación afectiva</dc:subject>
+    <dc:subject>detección de emociones</dc:subject>
+    <dc:subject>reconocimiento facial</dc:subject>
+    <dc:subject>interacción natural</dc:subject>
+    <dc:subject>interacción</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Desarrollo de un sistema de reconocimiento de emociones faciales en secuencias de vídeo</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

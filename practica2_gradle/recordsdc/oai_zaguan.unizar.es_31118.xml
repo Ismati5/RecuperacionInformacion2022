@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Riva Fernández, Juan de la</dc:contributor>
+    <dc:contributor>Camarero Martínez, Jesús Julio</dc:contributor>
+    <dc:creator>Franquesa Fuentetaja, Magín</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El actual cambio climático conlleva el aumento de la frecuencia e intensidad de los episodios de sequía extrema, que pueden provocar procesos recurrentes de decaimiento en los bosques mediterráneos. Las sequías representan la mayor amenaza para la conservación de estos ecosistemas, especialmente si las condiciones climáticas adversas futuras se intensifican tal y como vaticina el informe del IPCC 2013. El principal propósito de este estudio es conocer los efectos de los eventos de sequía extrema sobre uno de los principales y más importantes sistemas forestales de la Península Ibérica, los encinares, mediante el uso de técnicas de teledetección. Se pretende abordar esta cuestión con un enfoque multitemporal, cuantificando las relaciones existentes entre distintos índices de vegetación (IV) derivados de imágenes Landsat 5 y 7, datos climáticos e índices de sequía y datos de crecimiento primario obtenidos en el encinar de Arascués (Huesca). Todos los índices de vegetación propuestos se han mostrado sensibles a las defoliaciones severas observadas en campo durante el periodo de estudio (2000-2014). El índice de vegetación NDVI es el que ha mostrado mejor comportamiento en relación a la biomasa foliar en ramas de tres años. Sin embargo, los índices basados en el infrarrojo medio como MSI, NDII y NMDI, en este orden, reflejan mejor el estado hídrico de la encina en verano y muestran una gran dependencia a las precipitaciones de primavera. Los índices basados en la línea de suelo, como EVI y SAVI, no parecen los más adecuados para el estudio de formaciones vegetales con elevada cobertura del dosel arbóreo. La relación entre los índices de vegetación con los índices de sequía muestra mejores resultados con MSI y NDII cuando únicamente se tiene en cuenta la precipitación (SPI) y con NDVI cuando se introduce el parámetro temperatura (SPEI).Estos resultados pueden servir de referencia para establecer metodologías de seguimiento multitemporal de los eventos de decaimiento forestal inducidos por sequías extremas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31118</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio; Área de Análisis Geográfico Regional</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31118/files/TAZ-TFM-2014-887.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>encina</dc:subject>
+    <dc:subject>índices de vegetación</dc:subject>
+    <dc:subject>landsat</dc:subject>
+    <dc:subject>teledetección</dc:subject>
+    <dc:subject>defoliación</dc:subject>
+    <dc:subject>sequía</dc:subject>
+    <dc:subject>Máster Universitario en Tecnologías de la Información Geográfica para la Ordenación del Territorio: Sistemas de Información Geográfica y Teledetección</dc:subject>
+    <dc:title>Caracterización del efecto de las sequías sobre el vigor de encinares mediante teledetección</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

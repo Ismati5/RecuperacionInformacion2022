@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Nikolakopoulos, Georgios</dc:contributor>
+    <dc:contributor>Murillo Arnal, Ana Cristina</dc:contributor>
+    <dc:creator>Monzón Catalán, Iván</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Este proyecto se centra en el desarrollo de un cuadricóptero y su control integrado en el entorno de ROS. ROS (Robotic Operating System) es un pseudo sistema operativo orientado a plataformas robóticas. El trabajo desarrollado cubre desde el manejo del sistema operativo en distintas plataformas robóticas o el estudio de las diversas formas de programación en ROS hasta la evaluación de alternativas de construcción, desarrollo de la interfaz con ROS o ensayos prácticos con la plataforma construida. En primer lugar, se ha realizado un estudio de las posibilidades de ROS aplicadas a robots voladores, las alternativas de desarrollo y su viabilidad de integración. Entre estas aplicaciones cabe destacar las de SLAM (Localización y Mapeo Simultáneos) y navegación autonoma. Tras la evaluación de las distintas alternativas considerando funcionalidad, autonomía y precio, la plataforma de desarrollo se ha basado en ArduCopter. Aunque existen algunos ejemplos de vehículos aéreos no tripulados en ROS, no hay soporte para este sistema, por lo cual se ha desarrollado el trabajo necesario para hacer estas dos plataformas compatibles. El hardware ha sido montado sobre una plataforma de fabricación propia, realizada mediante impresión 3D, y se ha evaluado su funcionamiento en entornos reales. También se ha valorado y ensayado una plataforma de aluminio, con resultados menos satisfactorios. Para el correcto funcionamiento del conjunto se ha tenido que conseguir una conexión entre el cuadricóptero y la estación de tierra. En este caso, se han diseñado alternativas de conexión entre ordenadores (para el caso de que se monte un ordenador en la aeronave) o conexión entre ordenador y ArduCopter (para el caso de que no haya ordenador de a bordo). También se ha implementado una serie de algoritmos para llevar a cabo el control del cuadricóptero de manera autónoma: navegación de puntos vía, control de la rotación y control de altitud. Estos módulos funcionan bajo el sistema ROS y operan en remoto desde la estación de tierra. Finalmente, se ha desarrollado un módulo de lectura para una unidad de medida inercial actualmente en desarrollo por la universidad de Luleå (KFly). Este dispositivo sólo se ha probado en entornos controlados y aún no ha pasado a formar parte del cuadricóptero, aunque en un futuro próximo se espera que sirva de reemplazo al ordenador de a bordo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/11998</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/11998/files/TAZ-PFC-2013-489.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>ros</dc:subject>
+    <dc:subject>cuadricóptero</dc:subject>
+    <dc:subject>quadrotor</dc:subject>
+    <dc:subject>control</dc:subject>
+    <dc:subject>autónomo</dc:subject>
+    <dc:subject>arduino</dc:subject>
+    <dc:subject>arducopter</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Desarrollo de un cuadricóptero operado por ROS</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

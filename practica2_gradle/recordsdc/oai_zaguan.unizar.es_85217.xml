@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Jarabo Torrijos, Adrián</dc:contributor>
+    <dc:contributor>Guillén Serrano, Ibón</dc:contributor>
+    <dc:contributor>Gutierrez Pérez, Diego</dc:contributor>
+    <dc:creator>Márquez Calavia, David</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>En este trabajo se desarrolla una técnica para el muestreo de luces elípticas, generalizando el algoritmo estado del arte de muestreo de luces con forma de disco circular, generando muestras de manera uniforme sobre el ángulo sólido proyectado por una elipse arbitrariamente orientada en la escena. Este método reduce considerablemente el ruido en la imagen con un menor tiempo de cálculo en comparación a otros métodos, en el contexto del modelado del transporte de luz como un método estocástico. Para demostrar esta reducción del ruido, se han implementado dos algoritmos más, uno de muestreo por área y otro por rechazo, adaptando métodos existentes para otras geometrías. Todo esto ha sido implementado en el software open-source Mitsuba.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/85217</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/85217/files/TAZ-TFG-2019-2908.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>Muestreo eficiente de luces elípticas y su aplicación en rendering</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Efficient sampling of elliptical lights and its application in rendering</dc:title>
+</oai_dc:dc>

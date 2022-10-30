@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Domínguez Navarro, José Antonio</dc:contributor>
+    <dc:creator>Tallada Souto, Rafael</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>La sociedad actual es testigo de una paulatina transición en la forma de generar y distribuir la energía eléctrica. El sistema tradicional cuya generación de electricidad se concentra en grandes instalaciones centralizadas está dando paso a otro en el que la generación se integra de forma distribuida en la red eléctrica. Uno de los principales motores de este cambio es la progresiva implantación de las energías renovables. Las ventajas de este tipo de energías son de sobra conocidas: se trata de energías respetuosas con el medio ambiente y virtualmente inagotables. Sin embargo, su integración en la red eléctrica entraña nuevos desafíos de control. Para afrontar estos desafíos, las redes eléctricas deberán incorporar elementos de monitorización, comunicación y control; que consigan un balance óptimo entre generación, demanda y almacenamiento energético y, además, reaccionen con rapidez ante los cambios. Nacen así los conceptos de “Red Inteligente” y de “Smart City”. Este PFC ha sido realizado gracias a una beca de iniciación a la investigación de la fundación CIRCE y aborda el control distribuido de una microrred inteligente por medio de un sistema multiagente. Para ello se ha implementado un emulador mediante la tecnología de agentes JADE (desarrollada en Java) que reproduce los flujos de potencia en la microrred, y se han ideado diferentes estrategias para su control.  La validación del emulador se ha llevado a cabo con numerosos ensayos y simulaciones, obteniéndose resultados de gran utilidad a la hora de dimensionar de forma óptima los sistemas de almacenamiento eléctrico con los que cuenta la microrred. Finalmente, se ha estudiado la posibilidad de interconectar la tecnología de agentes con el entorno de simulación MATLAB-Simulink. En concreto, se ha diseñado un sistema multiagente que optimiza el despacho económico de potencia de una microrred, modelada de forma gráfica en Simulink.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12028</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12028/files/TAZ-PFC-2013-501.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>multi-agent</dc:subject>
+    <dc:subject>multi-agent systems</dc:subject>
+    <dc:subject>multiagent</dc:subject>
+    <dc:subject>micro-grid</dc:subject>
+    <dc:subject>micro-red</dc:subject>
+    <dc:subject>micro-redes</dc:subject>
+    <dc:subject>micro redes</dc:subject>
+    <dc:subject>control distribuido</dc:subject>
+    <dc:subject>jade</dc:subject>
+    <dc:subject>java</dc:subject>
+    <dc:subject>macsimjx</dc:subject>
+    <dc:subject>energías renovables</dc:subject>
+    <dc:subject>generación distribuida</dc:subject>
+    <dc:subject>smart grid</dc:subject>
+    <dc:subject>optimagrid</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electrónica Industrial)</dc:subject>
+    <dc:title>Control distribuido de redes inteligentes mediante sistemas multiagente</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

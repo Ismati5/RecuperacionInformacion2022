@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Urbiztondo Castro, Miguel Ángel </dc:contributor>
+    <dc:contributor>Pina Iritia, María Pilar</dc:contributor>
+    <dc:contributor>Cea Mingueza, Pilar</dc:contributor>
+    <dc:creator>Hoole, Thomas</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Este trabajo fin de máster se enmarca dentro de una línea de investigación que pretende el desarrollo de microsistemas con capas/recubrimientos zeolíticos como elemento diferenciador para su uso en detección de especies gaseosas. Más concretamente, se ha desarrollado un sensor basado en un efecto capacitivo/resistivo y utilizando como elemento sensible, materiales zeolíticos, concretamente zeolitas de estructuras LTA y MFI. Dichos materiales se han sintetizado y caracterizado mediante SEM y XRD en el laboratorio e incorporado dentro de los sensores fabricados dentro de sala blanca.  Estos sensores se han caracterizado para conocer el comportamiento eléctrico de los mismos y poder medirlos y utilizarlos posteriormente en mezclas reales de gases. Para ello, se han estudiado los diagramas de Nyquist y Bode para las distintas situaciones, sensores sin material sensible y con material depositado y cada uno de ellos a distintas temperaturas. Esta caracterización nos ha llevado a trasvasar esta información hacia nuevos sensores basados en el mismo principio. Esta vez, en lugar de depositar el material sensible en el transductor se propone dibujar el transductor encima del material sensible. Con ello hemos obtenido nanosensores de cristales individuales de zeolita y los hemos caracterizado del mismo modo. Para la caracterización final de los sensores se ha puesto a punto una planta experimental de caracterización por mezclas gaseosas. Los rprometedores resultados se han analizado siguiendo los parámetros estándar de este tipo de sensores.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9989</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9989/files/TAZ-TFM-2013-032.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>zeolite</dc:subject>
+    <dc:subject>gas detection</dc:subject>
+    <dc:subject>capacitive sensor</dc:subject>
+    <dc:subject>zeolite nanocapacitor</dc:subject>
+    <dc:subject>interdigital capacitor</dc:subject>
+    <dc:subject>Máster Universitario en Materiales Nanoestructurados para Aplicaciones Nanotecnológicas (Nanostructured Materials for Nanotechnology Applications)</dc:subject>
+    <dc:title>Gas detection of different polarity molecules by capacitive sensors based on zeolites</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

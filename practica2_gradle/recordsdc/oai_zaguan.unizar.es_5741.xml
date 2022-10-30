@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Bordejé, Enrique</dc:contributor>
+    <dc:contributor>Armenise Gil, Sabino</dc:contributor>
+    <dc:contributor>Herguido Huerta, Francisco Javier</dc:contributor>
+    <dc:creator>Bailo Fajarnés, Alba</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El declive de las reservas mundiales de petróleo y el aumento de las emisiones de gases de efecto invernadero, han llevado a las comunidades científicas del mundo a buscar una alternativa energética eficiente y económicamente viable. Entre todas las fuentes de energía que en la actualidad se investigan como posible sustituto de los combustibles fósiles, el hidrógeno, se presenta como un vector energético prometedor y alternativo para su uso en pilas de combustible. Su combustión genera solamente vapor agua, no obstante, existen ciertas limitaciones en cuanto a su almacenamiento. Una de las formas más seguras y económicas para su transporte es en forma de amoniaco (NH3). Contiene 17.7% peso de H2 y la tecnología asociada a su producción, almacenamiento y transporte se encuentra plenamente desarrollada, lo cual lo sitúa como candidato ideal como “carrier” de H2 para su uso en celdas de combustible. El objetivo de este Proyecto es desarrollar un catalizador activo para la obtención de hidrógeno a partir de amoniaco. Durante este trabajo, se estudió la reacción de descomposición de amoniaco sobre catalizadores estructurados de rutenio, soportados en alúmina o en nanofibras de carbono. Se observó el efecto del precursor de rutenio en la actividad catalítica del mismo, así como el papel inhibidor del hidrogeno en la reacción de descomposición de amoniaco. Se comparó el efecto que tienen las diferentes configuraciones geométricas en el rendimiento de la reacción y por último se investigó el efecto de las nanofibras como soporte para el catalizado de rutenio. El catalizador de rutenio sintetizado a partir del precursor “nitrosil” mostró mayor conversión que su análogo clorado, adicionalmente, se verificó que el hidrógeno inhibe la descomposición de amoniaco y que el uso de N-CNFs se sitúa como un soporte prometedor, incrementando la conversión del catalizador en más de un 10% de la mostrada con un soporte tradicional como alúmina.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5741</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Ingeniería Química</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5741/files/TAZ-PFC-2011-172.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5741/files/TAZ-PFC-2011-172_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>monolitos</dc:subject>
+    <dc:subject>rutenio</dc:subject>
+    <dc:subject>nanofibras de carbono</dc:subject>
+    <dc:subject>alúmina</dc:subject>
+    <dc:subject>descomposición</dc:subject>
+    <dc:subject>Ingeniero Químico</dc:subject>
+    <dc:title>Catalizadores de rutenio soportado en monolitos recubiertos de alúmina o nanofibras de carbono para la producción in-situ de H2 por descomposición de NH3</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Aliaga Badal, Carlos</dc:contributor>
+    <dc:contributor>Gutiérrez Pérez, Diego</dc:contributor>
+    <dc:creator>Felez Antoñanzas, Balma</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>En los últimos años los entornos virtuales han aumentado su presencia en la vida cotidiana.  El hecho de que vivamos rodeados de tecnología ha servido para que estudiosos de la psicología moderna se cuestionaran de qué forma influye la realidad virtual en el comportamiento humano. Recientes estudios psicológicos determinaron que la realidad virtual produce sensación de presencia, es decir, que ante experiencias virtuales el ser humano puede reaccionar de la misma forma que ante experiencias reales, esto permite tratar problemas psicológicos que tienen que ver con las interacciones interpersonales.   	Dentro de este contexto, se desarrolló el experimento psicológico de Asch, el cual consistió en estudiar la presión de grupo. Asch observó que cuando un sujeto forma parte de un grupo, intenta formar parte en su totalidad incluso llegando a dejar de dar su propia opinión, haciendo que la opinión del grupo sea la suya propia.  	La universidad de Washington en Seattle, junto con la universidad Jaume I de Castellón, van a estudiar el comportamiento de sujetos sometidos a este mismo experimento, pero trasladado al mundo virtual, es decir, el grupo de presión está formado por avatares virtuales. En este trabajo de fin de grado se lleva a cabo, en colaboración con las universidades mencionadas, el diseño de la escena virtual de este experimento, teniendo en cuenta estos aspectos psicológicos. Este documento recoge el diseño del experimento, metodología, animación de los personajes y el render y postproducción posteriores, necesarios para la comprensión del proyecto. El objetivo del proyecto es poder llevar los resultados a una revista o congreso internacional especializado.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12991</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12991/files/TAZ-TFG-2013-1019.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/12991/files/TAZ-TFG-2013-1019_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería en Diseño Industrial y Desarrollo de Producto</dc:subject>
+    <dc:title>Recreación virtual de experimento psicológico (Asch experiment 1951)</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

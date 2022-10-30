@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Santolaria Mazo, Jorge</dc:contributor>
+    <dc:contributor>Brosed Dueso, Francisco Javier</dc:contributor>
+    <dc:creator>Derré, Myriam</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>La impresión 3D es un proceso que permite obtener piezas reales desde un modelo numérico. Dadas las posibilidades que ofrece, este ámbito tiene un desarrollo muy rápido. Si el hilado es la técnica la más conocida, existen cuatro otras tecnologías. Este proyecto trata de uno de estos, la impresión 3D fotoquímicas. El objetivo del proyecto es el diseño de una impresora 3D por estereolitografía con un proyector DLP. Con esta técnica, las piezas se fabrican por la adición de sucesivas capas. Cada capa se realiza gracias a la polimerización de una resina fotosensible expuesta a una imagen proyectada por el sistema de proyección DLP. Después, un sistema de desplazamiento mueve el soporte para realizar la capa siguiente. Los requerimientos que se le piden al diseño son obtener una impresora 3D compacta y de bajo coste con el objetivo final de comercializarla. Por eso, se dividen las tareas a realizar en cinco partes. La primera consiste en el estudio de las impresoras 3D del mercado y varios elementos que se pueden utilizar en este proyecto. En esta parte, se definen los elementos a tener en cuenta durante el diseño así como lo que se puede mejorar o cambiar. Después, se realiza el análisis de las relaciones entre las características de la pieza a fabricar, los elementos del sistema y el coste y las dimensiones de la impresora. Eso permite elegir el diseño de la impresora. Luego, según esta idea, se estudian las partes mecánicas del sistema: el sistema óptico, el sistema de desplazamiento y la cuba. Así se puede dimensionar cada elemento de la impresora. La cuarta parte es la realización del diseño del conjunto con el software SolidEdge. En las dos ultimás partes se buscan a utilizar piezas comerciales para reducir el precio de la máquina. En el último grupo de tareas, se realiza ensayos del sistema óptico para validar la utilización de cada pieza elegida.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/14417</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/14417/files/TAZ-PFC-2014-249.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/14417/files/TAZ-PFC-2014-249_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>impresión 3d</dc:subject>
+    <dc:subject>prototipo rápido</dc:subject>
+    <dc:subject>estereolitografía</dc:subject>
+    <dc:subject>fotopolímero</dc:subject>
+    <dc:subject>lente divergente</dc:subject>
+    <dc:subject>lente de fresnel</dc:subject>
+    <dc:subject>diseño de máquina</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Diseño de una impresora 3D DLP</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

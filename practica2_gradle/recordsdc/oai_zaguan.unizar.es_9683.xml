@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Casterad Seral, Mª Auxiliadora</dc:contributor>
+    <dc:contributor>Quílez, Dolores</dc:contributor>
+    <dc:creator>Sanza Moral, Beatriz</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>La importancia del nitrógeno en la producción agrícola genera investigaciones en la búsqueda de un diagnóstico de fertilización nitrogenada adecuado para mejorar las recomendaciones de abo-nado en los cultivos. En este trabajo se aborda la obtención de información de imágenes multies-pectrales aeroportadas y de radiometría de campo como apoyo a  la gestión de la fertilización nitrogenada en cereales. El estudio se ha realizado en dos ensayos de estrategias de fertilización nitrogenada localizados en la provincia de Huesca, uno de maíz en el término municipal de Almu-dévar y otro de arroz en el término municipal de Villanueva de Sigena.  Se han utilizado imágenes aéreas multiespectrales de muy alta resolución espacial con el propósi-to de tener información que ayude a diagnosticar el estado nutricional del cultivo. Esta informa-ción se ha completado con medidas radiométricas y datos sobre el contenido en clorofila de las plantas tomados en campo que permiten validar la información derivada de las imágenes y poder establecer relaciones entre el contenido de clorofila y reflectividad. Ello ha requerido la puesta a punto de los equipos de muestreo, el diseño del muestreo de campo y la elaboración de protoco-los de medida. La adquisición de las imágenes multiespectrales con una alta resolución tiene aún un elevado coste. A través del análisis de la influencia de la variación del tamaño de píxel en la información derivada de las imágenes del trabajo (índices y bandas) se ha podido determinar el uso de reso-luciones menores en las imágenes sin cambios en la información contenida, pudiendo así reducir los costes de adquisición. Se han comparado dos modelos de calibración radiométrica de las imá-genes y se ha extraído de una imagen del ensayo de maíz información espectral de las bandas del verde, rojo e infrarrojo así como dos índices de vegetación, el NDVI y el GNDVI, información que se relaciona con el contenido en clorofila de las plantas. Algunos resultados preliminares indi-can la necesidad de ajustar aspectos en relación a la representatividad de las muestras y medi-das realizadas si se quiere caracterizar con ellas el comportamiento medio en la parcela de las diferentes variables estudiadas.  La obtención de información ha sido abundante, teniendo que ser analizada en estudios posterio-res y comparada con diferentes parámetros usados en la línea de investigación en la que se en-marca el trabajo para la obtención de resultados.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9683</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9683/files/TAZ-TFM-2012-1188.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>radiometría</dc:subject>
+    <dc:subject>índices de vegetación</dc:subject>
+    <dc:subject>imagen multiespectral</dc:subject>
+    <dc:subject>fertilización nitrogenada</dc:subject>
+    <dc:subject>maíz</dc:subject>
+    <dc:subject>Máster Universitario en Tecnologías de la Información Geográfica para la Ordenación del Territorio: Sistemas de Información Geográfica y Teledetección</dc:subject>
+    <dc:title>Posibilidad de uso de imágenes aéreas multiespectrales y radiometría de campo en la evaluación de la disponibilidad de nitrógeno en cereales</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

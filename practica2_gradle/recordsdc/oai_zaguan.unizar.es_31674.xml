@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Esteban Escaño, Javier</dc:contributor>
+    <dc:creator>Hernández Vicén, Juan</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>El trabajo consiste en el diseño de un robot capaz de extinguir un incendio en una vivienda o local en su fase inicial o conato, acudiendo desde el punto de reposo donde se encuentre en la vivienda hasta la habitación en la que se esté produciendo el incendio. A lo largo de la siguiente memoria, se va a poder ver la evolución del diseño, el primer bloque consiste en un estado del arte y marco teórico en los cuales están expuestas las posibles tecnologías a utilizar para la extinción del incendio y el diseño del robot. Además, en base a la información obtenida, en este bloque se han tomado ya decisiones importantes para el diseño, tales como la selección de material, aislantes térmicos, agente extintor, determinados sensores, etc. En el siguiente bloque se puede ver el desarrollo del diseño dividido en tres apartados diferentes: En el diseño mecánico, se ha desarrollado la estructura en 3D del robot con sus distintas piezas, los cálculos de la cinemática directa e inversa, así como los cálculos de potencia y par necesarios para otorgar movimiento a las distintas articulaciones que lo componen y que influirán posteriormente en la selección de motores. En el apartado del diseño electrónico vienen especificados los componentes electrónicos seleccionados, con sus conexiones y esquemas, así como los diseños de PCB que harán funcionar el Robot. También hay un subapartado destinado a explicar el conexionado de los sensores de la vivienda con el robot mediante tecnología Zigbee. Por último, en el apartado de la programación se han desarrollado diagramas UML, explicando las funciones a un nivel lo más bajo posible. Se ha optado por desarrollar diagramas UML en lugar del programa, porque al tratarse de un diseño, no existe el Robot en formato físico para poder probar si funciona o no correctamente el programa.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31674</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31674/files/TAZ-TFG-2015-2356_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/31674/files/TAZ-TFG-2015-2356.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecatrónica</dc:subject>
+    <dc:title>Diseño de un Robot Bombero en Edificios</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

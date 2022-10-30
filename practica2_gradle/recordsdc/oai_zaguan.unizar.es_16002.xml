@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Álvarez Lanzarote, Ignacio</dc:contributor>
+    <dc:creator>Tremín Puyod, Jorge</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>En este trabajo se ha investigado por primera vez el efecto de la anchura del pulso en el rango de mili y microsegundos en la inactivación de Escherichia coli O157:H7 en un tampón de pH 3,5 al aplicar tratamientos de pulsos eléctricos de alto voltaje (PEAV) a distintas temperaturas (desde los 20 hasta los 40ºC). Ello ha requerido la utilización de dos equipos distintos aplicando pulsos de mili y microsegundos de distintas intensidades del campo eléctrico (de 4 a 10 kV/cm en el caso de los milisegundos y de 15 a 25 kV/cm para los microsegundos) y energía específica. Los resultados han mostrado que la inactivación incrementó con la intensidad del campo eléctrico, la temperatura y la energía aplicada tanto cuando se aplicaron pulsos de mili y microsegundos. De los tres factores investigados, la temperatura fue la que más influyó sobre todo cuando se aplicaron pulsos de milisegundos, estando condicionado dicho efecto con la intensidad y la energía aplicadas. Cuando se compararon tratamientos de la misma energía específica aplicada, los tratamientos de microsegundos fueron más eficaces letalmente que los milisegundos a temperaturas inferiores a los 27ºC, mientras que a temperaturas superiores, los milisegundos produjeron un mayor nivel de inactivación. Estos resultados suponen una novedad ya que hasta la fecha se había comprobado, pero únicamente a temperatura ambiente, que era preferible aplicar tratamientos cortos y de alta intensidad del campo para producir una mayor inactivación microbiana. La posibilidad de aplicar tratamientos PEAV a temperaturas controladas y constantes ha permitido observar este efecto. En cualquier caso y para confirmar estos resultados, se hace necesario determinar si la muerte microbiana observada se debe al efecto de los tratamientos PEAV y no a un efecto combinado de los PEAV con especies químicas que se podría haber producido como consecuencia del uso de pulsos de anchura superior a 20 microsegundos como se ha indicado en la literatura.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/16002</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Producción Animal y Ciencia de los Alimentos; Área de Tecnología de Alimentos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/16002/files/TAZ-TFG-2014-1503.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>pulsos eléctricos de alto voltaje</dc:subject>
+    <dc:subject>peav</dc:subject>
+    <dc:subject>caida exponencial</dc:subject>
+    <dc:subject>pulso de onda cuadrada</dc:subject>
+    <dc:subject>Graduado en Ciencia y Tecnología de los Alimentos</dc:subject>
+    <dc:title>Inactivación microbiana por pulsos eléctricos de alto voltaje</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

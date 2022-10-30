@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Campos y Sáez, Clemente A.</dc:contributor>
+    <dc:contributor>Roy Delgado, Juan Francisco</dc:contributor>
+    <dc:creator>Latorre Sánchez, Susana C.</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>En muchas aplicaciones de ingeniería biomédica el estudio de la supervivencia o fiabilidad es de máxima importancia para el ajuste de variables que expliquen y modelicen el tiempo de vida o tiempo hasta el fallo de un componente o sistema biológico.  Este trabajo se centra en el estudio y análisis de datos de supervivencia. En concreto, se pretende estudiar la asociación entre infarto de miocardio (MI), depresión clínica y supervivencia.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/60457</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Métodos Estadísticos; Área de Estadística e Investigación Operativa</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/60457/files/TAZ-TFM-2016-1086.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/60457/files/TAZ-TFM-2016-1086_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Biomédica</dc:subject>
+    <dc:title>Análisis de fiabilidad o supervivencia aplicadas al estudio del riesgo de mortalidad en la interacción entre depresión clínica e infarto de miocardio</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Reliability or survival analysis applied for the study of mortality risk in the interaction between clinical depression and myocardial infarction</dc:title>
+</oai_dc:dc>

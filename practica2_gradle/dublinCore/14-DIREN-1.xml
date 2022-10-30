@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<csw:Record xmlns:csw="http://www.opengis.net/cat/csw/2.0.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ows="http://www.opengis.net/ows" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:language>fr</dc:language>
+  <dc:identifier>14-DIREN-1</dc:identifier>
+  <dc:contributor>Ministère de la Santé ; DRASS Midi-Pyrénées de bassin Adur-Garonne ; DDASS des 25 départementales du bassin Adour-Garonne ; DIREN Midi-Pyrénées</dc:contributor>
+  <dc:description>Données sur les captages des eaux de surface. Les données concernant ces captages d'eau potable sont extraites de la base SISE-EAUX (base de données nationale du Ministère de la Santé) et ont été fournies par la DRASS Midi-Pyrénées (DRASS de Bassin). A la demande du Ministère de la Santé (haut fonctionnaire de la défense), les coordonnées géographiques exactes des captages pour l'alimentation en eau potable ne peuvent figurer dans les documents publics. La localisation des points de prélèvement a donc été réalisée au centroïde des communes (centre du territoire communal).</dc:description>
+  <dc:language>fr</dc:language>
+  <dc:subject>EUROPEAN COMMUNITIES.COMMUNITY LAW.COMMUNITY ACT.COMMUNITY DIRECTIVE</dc:subject>
+  <dc:subject>SOCIAL ASPECTS, ENVIRONMENTAL POLICY MEASURES.ADMINISTRATION, MANAGEMENT, POLICY, POLITICS, INSTITUTIONS, PLANNING.POLICY.EC POLICY</dc:subject>
+  <dc:subject>ENVIRONMENT.NATURAL ENVIRONMENT.PHYSICAL ENVIRONMENT.AQUATIC ENVIRONMENT.WATER.DRINKING WATER</dc:subject>
+  <dc:subject>ENVIRONMENT.NATURAL ENVIRONMENT.PHYSICAL ENVIRONMENT.AQUATIC ENVIRONMENT.WATER.SURFACE WATER</dc:subject>
+  <dc:subject>SOCIAL ASPECTS, ENVIRONMENTAL POLICY MEASURES.ENVIRONMENTAL POLICY.ENVIRONMENTAL ASSESSMENT.ENVIRONMENTAL QUALITY.WATER QUALITY</dc:subject>
+  <dc:subject>SOCIAL ASPECTS, ENVIRONMENTAL POLICY MEASURES.ADMINISTRATION, MANAGEMENT, POLICY, POLITICS, INSTITUTIONS, PLANNING.POLICY.GOVERNMENT POLICY</dc:subject>
+  <dc:subject>health</dc:subject>
+  <dc:subject>inlandWaters</dc:subject>
+  <dc:title>Captages pour l'alimentation en eau potable - eaux superficielles</dc:title>
+  <dc:type>dataset</dc:type>
+  <dcterms:accessRights>restricted</dcterms:accessRights>
+  <dcterms:created>2003-08-01</dcterms:created>
+  <dcterms:spatial>FRANCE</dcterms:spatial>
+  <ows:BoundingBox>
+    <ows:LowerCorner>-1.4478000000000009 42.54023376623377</ows:LowerCorner>
+    <ows:UpperCorner>2.0601000000000003 45.79480519480519</ows:UpperCorner>
+  </ows:BoundingBox>
+</csw:Record>

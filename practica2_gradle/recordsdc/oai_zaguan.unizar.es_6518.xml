@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Tranter, Phil</dc:contributor>
+    <dc:creator>Zapatel Bayo, Sergio</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>This project is about developing software capable of controlling a prebuilt robot with an added system for measuring distances using ultrasonic waves.  The software will handle the ultrasonic sensor for detecting obstacles that stand in the way of the robot and after that it will be capable of deciding which path the mobile should follow. The system is controlled using a simple keypad and the user has to follow the instructions showed in an LCD display.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6518</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6518/files/TAZ-PFC-2011-636.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electrónica Industrial)</dc:subject>
+    <dc:title>Interactive ultrasonic guided system</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

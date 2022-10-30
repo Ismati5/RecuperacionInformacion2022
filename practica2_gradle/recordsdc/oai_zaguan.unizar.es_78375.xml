@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Uche Marcuello, Francisco Javier</dc:contributor>
+    <dc:creator>Muzás Rodríguez, Andrés</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>En los últimos años se está tratando de resolver algunas cuestiones de índole energética como el agotamiento de los recursos fósiles o la degradación del medio ambiente. El desarrollo de las tecnologías renovables está colaborando con el cumplimiento de los objetivos marcados y también puede servir de ayuda para conseguir que el suministro de energía alcance todas las regiones del planeta. En este contexto, se está llevando a cabo un proyecto en el Campus Río Ebro de la Universidad de Zaragoza en el que se estudia el funcionamiento de una planta piloto de trigeneración híbrida. Este Trabajo Fin de Máster forma parte del conjunto de labores de investigación del proyecto. El objetivo principal del trabajo es el diseño y la validación de un modelo teórico de la planta. La metodología de trabajo incluye el estudio previo de la instalación, la construcción de un primer esquema, la simulación de su funcionamiento, el ajuste del modelo a través de la comparación de este con los resultados experimentales y la validación final. Todo el desarrollo del modelo y las tareas de simulación se han llevado a cabo en el programa informático TRNSYSv17.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/78375</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/78375/files/TAZ-TFM-2019-009_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/78375/files/TAZ-TFM-2019-009.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Energías Renovables y Eficiencia Energética</dc:subject>
+    <dc:title>Desarrollo de un modelo teórico para una planta de trigeneración híbrida. Validación con datos experimentales</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Development of a theoretical model for a hybrid trigeneration plant. Validation by means of experimental data</dc:title>
+</oai_dc:dc>

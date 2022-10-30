@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Alonso Gimeno, Nieves</dc:contributor>
+    <dc:contributor>Arroyo de Grandes, María del Pilar</dc:contributor>
+    <dc:creator>Pinto Fuste, Cristina Leyre</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>La holografía digital con doble longitud de onda permite la obtención simultanea de la forma y la deformación. Con un sistema formado por dos láseres diferentes y mediante un montaje óptico sencillo compuesto de lentes, divisores de haces y fibras ópticas se consigue registrar toda la información del objeto en un holograma. La comparación de hologramas registradas en distinto tiempo nos permite calcular la deformación y la combinación de las dos longitudes de onda la forma.  En este proyecto nos vamos a centrar en medir la forma y la deformación de un modelo de arteria (varios tubos de goma de diferente radio) y de una aorta de oveja. Se va a aplicar la técnica para medir formas y deformaciones en un tubo, lo que permitirá hacer el ajuste del montaje óptico y de la metodología. Después, se quiere implementar la técnica en el estudio de una arteria. Para la obtención de la fisiología se van a obtener la forma en 2D y 3D de los dos objetos, la cual se va a necesitar para analizar las pequeñas deformaciones sufridas debidos a cambios en la presión interna. Se conseguirá así una relación entre la diferencias de presión interna y la deformación que sufre el objeto. Con todo esto se pretende comprender mejor cómo se producen las pequeñas deformaciones en los vasos sanguíneos de gran diámetro y ver su elasticidad, lo cual puede ayudar en la realización de modelos más realistas de simulación de flujo sanguíneo en el sistema cardiovascular. Palabras claves: Holografía digital</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/65185</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Aplicada; Área de Física Aplicada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/65185/files/TAZ-TFG-2017-1993.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Física</dc:subject>
+    <dc:title>Medida simultánea de forma y deformación mediante holografía digital</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Simultaneous shape and deformation measurements by digital holography</dc:title>
+</oai_dc:dc>

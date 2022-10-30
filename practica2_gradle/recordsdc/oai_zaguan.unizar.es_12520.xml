@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sarsa Sarsa, María Luisa</dc:contributor>
+    <dc:creator>Cuesta Soria, Clara</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Este trabajo ha consistido en un estudio de viabilidad del experimento ANAIS (Annual modulation with NaI(Tl) Scintillators) cuyo objetivo es la detección directa de materia oscura con 250 kg de NaI(Tl) en el Laboratorio Subterráneo de Canfranc (LSC). El experimento ANAIS tratará de corroborar la señal positiva obtenida por el experimento DAMA-LIBRA utilizando el mismo material blanco y técnica de detección. La mayor parte de este estudio se ha llevado a cabo con el módulo ANAIS-0, fabricado con un cristal de 9.6 kg de NaI(Tl) y encapsulado en la Universidad de Zaragoza, que ha operado en diferentes configuraciones experimentales en el LSC. La versatilidad de este prototipo ha posibilitado el estudio del sistema de recogida de luz, ha proporcionado datos en diferentes condiciones experimentales que han permitido desarrollar un modelo del fondo radiactivo muy satisfactorio y se han diseñado protocolos de análisis de datos para el filtrado de poblaciones anómalas de eventos, no atribuibles al centelleo en el cristal de NaI.  En la última etapa de este trabajo, dos cristales ultrapuros de NaI(Tl) fabricados con polvo especialmente seleccionado por su bajo contenido en potasio, fueron instalados en el LSC (ANAIS-25) y están tomando datos en la actualidad. De forma preliminar, los distintos protocolos de análisis de datos desarrollados y optimizados con ANAIS-0 se han aplicado a los datos de ANAIS-25 para obtener resultados preliminares muy favorables sobre la calidad óptica y de radiopureza de los cristales.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12520</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Teórica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12520/files/TESIS-2013-086.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>anais</dc:subject>
+    <dc:subject>física de partículas</dc:subject>
+    <dc:subject>detectores de partículas</dc:subject>
+    <dc:subject>física nuclear experimental de bajas energías</dc:subject>
+    <dc:title>ANAIS-0</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

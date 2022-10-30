@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Villarroel Salcedo, José Luis</dc:contributor>
+    <dc:creator>Paniagua Muro, Cristina</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>Los accidentes por aludes son noticia frecuente, en ocasiones costando vidas humanas, por ello los montañeros portan consigo el dispositivo ARVA, que emite una señal pulsada de 457KHz de campo magnético. A partir de esta señal es posible localizar a la víctima sepultada bajo la nieve, proceso que actualmente es llevado a cabo por equipos de búsqueda especializados.  Esta tarea de búsqueda realizada hasta la fecha manualmente, conlleva un tiempo que puede resultar crítico en la supervivencia de la víctima. Este trabajo tiene como objetivo la sustitución del personal de búsqueda por un dron encargado de localizar la señal del ARVA. Se trata de una prueba de concepto del sistema electrónico capaz de la recepción de las líneas de campo magnético cercano generadas por un dispositivo ARVA y su seguimiento.  Para ello se ha creado y diseñado el sistema completo partiendo de dos antenas de ferrita para captar la señal de campo y obteniendo como salida la señal PWM conectada al autopiloto del dron, controlando el giro del mismo.   Se ha diseñado y producido las placas receptoras, que acondicionan la señal y su posterior procesamiento en una placa comercial (BeagleBone) obteniendo la información necesaria, modulo y ángulo,  de la línea de flujo magnético, permitiendo así su seguimiento por el dron.   Para la realización de este Trabajo Fin de Grado se realizó: el análisis de la búsqueda de victimas de aludes, análisis del entorno electromagnético, diseño electrónico del dispositivo receptor, simulación de las etapas, diseño y fabricación de la PCB, puesta en marcha de las placas, programación en tiempo real del programa de lectura y procesado de la señal, generación de la señal PWM y finalmente se han realizado las pruebas del prototipo en laboratorio.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/47562</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/47562/files/TAZ-TFG-2015-2546.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Electrónica y Automática</dc:subject>
+    <dc:title>Búsqueda de víctimas de avalancha mediante quadricóptero</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

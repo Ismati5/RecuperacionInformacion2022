@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ramos Martínez, Luis Manuel</dc:contributor>
+    <dc:creator>Machín López, Samuel</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>En este proyecto final de carrera se han investigado maneras de caracterizar el consumo energético de dispositivos móviles Android, centrándonos en el consumo por estados de uso de los usuarios en lugar de por componentes físicos. Para ello, se ha desarrollado una aplicación para dispositivos Android que recopila una traza cada vez que suceden ciertos eventos en el sistema, recogiendo información sobre el estado del dispositivo en ese momento. Esa traza se almacena en el dispositivo en una base de datos para su posterior tratamiento. Con la información recopilada, se realiza un modelo de regresión con el fin de obtener un modelo energético y estimar las previsiones de consumo. También se ha analizado los datos obtenidos siguiendo procedimientos y técnicas más sencillas con el fin de comparar métodos y resultados. Previamente se ha hecho un estudio de aplicaciones disponibles en el mercado y trabajos de investigación relacionados, con el fin de tratar de mejorar lo que se ha hecho hasta ahora en este campo. Como conclusión, se indican posibles continuaciones de este trabajo y vías futuras de investigación en este campo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/48572</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Arquitectura y Tecnología de Computadores</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/48572/files/TAZ-PFC-2016-034.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Recogida y visualización de datos para caracterización energética en dispositivos Android</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

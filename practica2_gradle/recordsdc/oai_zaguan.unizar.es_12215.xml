@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Irastorza, Igor</dc:contributor>
+    <dc:creator>Mirallas Sánchez, Hector</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Este trabajo de fin de master describe el proceso de diseño y puesta en marcha de una TPC (Time Projection Chamber), utilizando la tecnología Micromegas, para el experimento de búsqueda de axiones CAST (CERN Axion Solar Telescope) situado en el CERN.   El trabajo se divide en dos partes. La primera de ellas es un trabajo bibliográfico y teórico que hace una pequeña introducción al llamado problema CP fuerte de partículas y a la aparición del axión como partícula que resuelve este problema. Se describen sus propiedades y cómo esta partícula encaja dentro de las teorías evolutivas del universo. Se hace también un pequeño recorrido por los experimentos de búsqueda de axiones más importantes, entre los que se encuentran el experimento CAST, motivo de este trabajo. La segunda parte del trabajo se centra en el experimento CAST: en describir sus componentes, su principio de funcionamiento y las motivaciones que llevan a desarrollar el experimento. Finalmente se describe el proceso de diseño y montaje de un detector de rayos-X para este experimento, aplicando técnicas de bajo fondo adquiridas por el equipo de CAST durante sus más de 10 años de experiencia, entre el que se encuentra el Grupo de Investigación de Física Nuclear y Astropartículas (GIFNA) de la Universidad de Zaragoza.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12215</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Teórica; Área de Física Atómica, Molecular y Nuclear</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12215/files/TAZ-TFM-2013-751.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>axion</dc:subject>
+    <dc:subject>cast</dc:subject>
+    <dc:subject>helioscope</dc:subject>
+    <dc:subject>time projection chamber</dc:subject>
+    <dc:subject>Máster Universitario en Física y Tecnologías Físicas</dc:subject>
+    <dc:title>Development of a time projection chamber based on Micromegas technology for CAST(CERN Axion Solar Telescope)</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

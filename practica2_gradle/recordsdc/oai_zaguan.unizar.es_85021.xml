@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Navarro, María Pilar</dc:contributor>
+    <dc:contributor>Martínez Aranda, Sergio</dc:contributor>
+    <dc:creator>Asín Marzo, Santiago</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>El Trabajo fin de Grado que se presenta a continuación se encuentra dentro del campo de la Mecánica de Fluidos Computacional. El objetivo es la calibración y validación de modelos morfodinámicos para la simulación de la erosión generada por flujos de lámina libre en presencia de pilas de puente.&lt;br /&gt;Se han utilizado modelos unidimensionales (1D) y bidimensionales (2D) para la formulación de la dinámica de flujo y del arrastre de material del fondo. Se han resuelto numéricamente mediante técnicas de volúmenes finitos desarrolladas por el Grupo de Hidráulica Computacional del Área de Mecánica de Fluidos.&lt;br /&gt;Se han realizado experimentos en un canal de laboratorio, generando flujos transitorios sobre lecho erosivo en diversas geometrías en los que se ha medido la evolución de la superficie erosionable. Para la toma de datos y su procesamiento posterior se ha empleado una cámara Kinect que permite reconstruir las superficies y obtener los resultados de forma digital. Estos datos se comparan, posteriormente, con las simulaciones en estado transitorio. &lt;br /&gt;Se ha recopilado información de la formulación empírica propuesta por el Departamento de Transporte de Estados Unidos (USDT), para la estimación de la acción erosiva de un flujo en estado estacionario en las proximidades de un puente. Se ha comparado esta información con los resultados de una simulación en estado estacionario.&lt;br /&gt;Las tareas aquí realizadas forman parte del proyecto de investigación del Grupo de Hidráulica Computacional de la Universidad de Zaragoza, Herramientas eficientes de alta precisión para la simulación y control de flujos PGC2018-094341-B-I00, cuyo objetivo es el desarrollo de un código propio de simulación para la predicción y control de fenómenos en flujos complejos.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/85021</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/85021/files/TAZ-TFG-2019-3425.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Calibración y validación de modelos morfodinámicos para la caracterización de la erosión en presencia de pilas de puente</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Calibration and validation of morphodynamic models bridge scour characterization</dc:title>
+</oai_dc:dc>

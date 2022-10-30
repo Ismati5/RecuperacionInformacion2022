@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Martínez Barca, Miguel Ángel</dc:contributor>
+    <dc:contributor>Cilla Hernández, Myriam</dc:contributor>
+    <dc:creator>Torres García, Mónica</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El objetivo del presente TFM es la elaboración y puesta a punto de un modelo computacional para la simulación del proceso de aparición y crecimiento de placa de ateroma aplicado a geometrías complejas, como aquellas extraídas directamente de imágenes clínica de un paciente concreto. El modelo de crecimiento incorpora diferentes procesos celulares y moleculares como son el transporte de sustancias en medios porosos, ecuaciones de reacción-convección-difusión, procesos de migración y proliferación celular, etc... Se partirá de un modelo ya elaborado y validado para una geometría axisimétrica simplificada. El siguiente paso será el tratamiento y segmentación de una parte de la geometría del árbol vascular de un paciente concreto a partir de imágenes clínicas. Se adaptará y particularizará el modelo existente a dicha geometría. Finalmente se realizará la simulación computacional extrayendo información de utilidad como es concentraciones de las principales sustancias (LDL, LDLox,...), poblaciones celulares (monocitos, macrófagos, células espumosas, SMC,...).</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/69805</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/69805/files/TAZ-TFM-2017-1249.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Biomédica</dc:subject>
+    <dc:title>Simulación computacional del proceso de crecimiento de placa de ateroma en geometrías de paciente específico</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Computational simulation of the growing process of an atheroma plaque in patient-specific models</dc:title>
+</oai_dc:dc>

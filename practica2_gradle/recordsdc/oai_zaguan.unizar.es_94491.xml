@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Navarro, Pilar </dc:contributor>
+    <dc:contributor>Morales Hernández, Mario</dc:contributor>
+    <dc:creator>Gordillo Guambaña, Burgos Geovanny</dc:creator>
+    <dc:date>2020</dc:date>
+    <dc:description>En este trabajo se presenta una herramienta predictiva de simulación numérica de flujo unidimensional de agua en lámina libre y transporte de solutos, combinada con técnicas de optimización y control usando variables adjuntas. Para la resolución de las ecuaciones gobernantes, el énfasis se pone en la correcta discretización de las ecuaciones de transporte con las ecuaciones del flujo de aguas poco profundas, con el fin de garantizar soluciones conservativas y no oscilatorias. El modelo de calidad implementado se basa en las ecuaciones en Water Quality Analysis Simulation Program (WASP) que requiere diez variables de estado, incluida la temperatura del agua. Este sistema se resuelve simultáneamente al flujo hidrodinámico para caracterizar adecuadamente la calidad de una masa de agua. El sistema de ecuaciones diferenciales no lineales en derivadas parciales hiperbólicas (de aguas poco profundas y ecuaciones de transporte) se resuelve mediante un esquema de Godunov que se basa en la resolución de los problemas de Riemann en cada pared. La eficiencia y precisión de la herramienta se verifica en varias aplicaciones tanto sintéticas como reales. Con el propósito de mejorar la predicción de la calidad del agua en un evento real, se incluye un algoritmo de control basado  en el método del gradiente descendente que permite, entre otras cosas, recuperar la información de la condición inicial, las condiciones de contorno, una fuente o de los diversos parámetros que intervienen en el modelo de calidad de agua. La información del gradiente se obtiene mediante el método de los estados adjuntos, que permite calcular la sensibilidad de la variable deseada con respecto al error cometido. La formulación desarrollada se aplica a diversos casos analíticos y reales para reconstruir, entre otras, la variación de la temperatura del aire en el río Ebro en un evento transitorio de 10 días de duración. Además se utiliza una librería de optimización de uso libre para comparar los resultados obtenidos con el método adjunto implementado.&lt;br /&gt;</dc:description>
+    <dc:description>&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/94491</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/94491/files/TESIS-2020-134.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-nd/3.0/es</dc:rights>
+    <dc:subject>calidad de las aguas</dc:subject>
+    <dc:subject>simulacion</dc:subject>
+    <dc:subject>mecanica de fluidos</dc:subject>
+    <dc:subject>ingenieria hidraulica</dc:subject>
+    <dc:title>SIMULACIÓN DEL TRANSPORTE Y CONTROL DE SOLUTOS ACTIVOS EN FLUJOS DE SUPERFICIE LIBRE</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

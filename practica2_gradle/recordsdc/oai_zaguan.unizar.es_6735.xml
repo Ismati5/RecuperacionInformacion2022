@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bernal Agustín, José Luis</dc:contributor>
+    <dc:contributor>Dufo López, Rodolfo</dc:contributor>
+    <dc:creator>Saumell Ocáriz, Javier</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>En este proyecto se ha realizado un estudio de los factores que influyen en la producción de energía eléctrica de las instalaciones fotovoltaicas conectadas a la red eléctrica, analizando su influencia en la eficiencia de este tipo de instalaciones. Para ello se ha desarrollado una herramienta de simulación, utilizando Borland C++, que contempla todos los factores que pueden influir en la eficiencia de las instalaciones fotovoltaicas.  Además de la herramienta que se ha desarrollado, se ha utilizado Excel y los datos que se pueden obtener utilizando el programa METEONORM. Con la herramienta desarrollada se han estudiado varios casos, considerando diferentes localizaciones geográficas y tipos de tecnologías de paneles, obteniendo la producción de energía eléctrica para un año estándar. Además, los resultados obtenidos se han comparado con los datos de producción registrados en una instalación real. Tras estudiar los resultados se han obtenido las conclusiones, determinando cómo influyen los parámetros que se han considerado en la producción de energía y la eficiencia de las instalaciones fotovoltaicas conectadas a la red eléctrica.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6735</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6735/files/TAZ-PFC-2011-740.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>energía solar fotovoltaica</dc:subject>
+    <dc:subject>eficiencia</dc:subject>
+    <dc:subject>generación de energía eléctrica</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Herramienta para el estudio de la eficiencia en sistemas fotovoltaicos conectados a la red eléctrica</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

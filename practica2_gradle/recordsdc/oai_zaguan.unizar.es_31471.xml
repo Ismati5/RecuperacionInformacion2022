@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Aliaga Badal, Carlos</dc:contributor>
+    <dc:contributor>Gutiérrez Pérez, Diego</dc:contributor>
+    <dc:creator>Guillén Miguel, Carlos</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Uno de los problemas mas difíciles de abordar en informática gráfica (CG) es la simulación de pelo fotorrealista. La apariencia del cabello está determinada por la forma en la que la luz interactúa con cada una de las fibras capilares del cuero cabelludo. En esta interacción se producen una serie de fenómenos físicos que determinan cómo se dispersa la luz tanto en la superficie de la fibra como en su interior. Las propiedades ópticas de las fibras capilares influyen en los fenómenos físicos haciendo más compleja esta interacción. Cuando un rayo de luz incide en una fibra capilar se producen fenómenos fsicos como: eventos de reflexión y transmisión de energía, desvío de la dispersión debido a la estructura, absorción por parte de los pigmentos de ciertas longitudes de onda, incluso continuos rebotes internos en la fibra. Esta compleja interaccion debe ser modelada en un motor de render en un tiempo viable, lo cual supone una problemática. La simulación de pelo presenta distintos obstáculos a lo largo del proceso de rendering, modelar y animar pelo requiere determinar la geometría de cientos de miles de fibras. La dispersión de la luz en las fibras debe ser simulada, y la delgada fibra debe ser muestreada en la imagen sin introducir aliasing. Simular la dispersión de la luz en las fibras se divide a su vez en dos problemas diferentes: la dispersión de luz en una sola fibra capilar (single scattering), y la dispersión entre las distintas fibras capilares (multiple scattering). El presente TFG se centra en la implementación de un modelo de iluminación (shader) que permite modelar cómo la luz se dispersa en una fibra capilar (single scattering). Se ha desarrollado el modelo más popular de pelo, el modelo de Marschner et al. [MJC+03], que fue el primer modelo que se basó en principios físicos para modelar la función de dispersión de la luz. Y por esa razón, obtiene una mayor precisión en la representación de la dispersión que los modelos anteriores. El modelo es evaluado, de modo que se discuten los distintos puntos fuertes y débiles, y se exploran mejoras y vías de ampliación. Finalmente se analiza como incorporar a un modelo de dispersión de una fibra capilar, técnicas de multiple scattering, para captar toda la energía que dispersa el cabello real, y realizar de ese modo, una representación exacta de la dispersión real.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31471</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31471/files/TAZ-TFG-2014-2516.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>rendering fotorrealista</dc:subject>
+    <dc:subject>pelo</dc:subject>
+    <dc:subject>simulación</dc:subject>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>Rendering de pelo fotorrealista</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Aliod Sebastián, Ricardo</dc:contributor>
+    <dc:contributor>García Palacín, José Ignacio</dc:contributor>
+    <dc:creator>Calvo Calvo, Carolina</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Metodología novedosa que explotando diversas técnicas de simulación y optimización del paquete informático GESTAR, dedicado al diseño y gestión de redes de distribución de agua a presión para riego, permite reducir significativamente el consumo energético en las redes colectivas de riego ya construidas mediante estrategias de adecuación de las infraestructura y de gestión de la demanda.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/62832</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/62832/files/TAZ-PFC-2017-037_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/62832/files/TAZ-PFC-2017-037.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Modelización y optimización de los costes energéticos en sistemas de distribución de agua para riego a presión</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+    <dc:title xml:lang="en">Modeling and optimization of energy costs in water distribution systems for pressure irrigation</dc:title>
+</oai_dc:dc>

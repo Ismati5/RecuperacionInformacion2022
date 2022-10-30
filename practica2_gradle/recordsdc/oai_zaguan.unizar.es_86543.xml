@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Alcalá Nalvaiz, José Tomás</dc:contributor>
+    <dc:contributor>Soto Juárez, Juan Manuel</dc:contributor>
+    <dc:creator>Sánchez Latorre, Roberto</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>En el presente trabajo se estudian diversas técnicas de aprendizaje por refuerzo con la idea de solucionar varios problemas de fijación y planificación de precios. Para ello, se lleva a cabo una introducción al aprendizaje por refuerzo, estudiando los problemas de decisión de Markov en el caso de un único agente. En estos juegan un papel fundamental las ecuaciones de optimalidad de Bellman, que permiten el desarrollo de métodos para la resolución del problema. En el trabajo se verán los algoritmos Q-Learning, SARSA y dos de sus variantes. En el caso de varios agentes se estudian los juegos matriciales y su generalización a varios estados, los juegos estocásticos. En estos problemas, y bajo el soporte de la teoría de juegos, aparecen los equilibrios de Nash. Veremos dos de las principales técnicas para resolver estos problemas, los métodos de mejor respuesta y los métodos de los equilibrios. Finalmente se analizarán los resultados obtenidos tras aplicar los algoritmos estudiados a problemas de fijación de precios.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/86543</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Métodos Estadísticos; Área de Estadística e Investigación Operativa</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/86543/files/TAZ-TFM-2019-1470.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Modelización e Investigación Matemática, Estadística y Computación</dc:subject>
+    <dc:title>Técnicas de aprendizaje estadístico en modelos de valoración dinámica de precios</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Machine learning methods in dynamic pricing models</dc:title>
+</oai_dc:dc>

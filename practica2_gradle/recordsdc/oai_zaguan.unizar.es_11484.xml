@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Clemente Gallardo, Jesús Jerónimo</dc:contributor>
+    <dc:creator>Jover Galtier, Jorge Alberto</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El comportamiento de los sistemas moleculares se basa en los principios de la Mecánica Cuántica. Para su estudio se realizan aproximaciones, como puede ser considerar que los núcleos de los átomos se comportan de forma clásica. Uno de los modelos que incorpora esta aproximación de sistemas mixtos clásico-cuánticos es la dinámica de Ehrenfest. Uno de los fenómenos que se observan en los sistemas cuánticos es el conocido como decoherencia, un concepto complejo que está relacionado con la pérdida de información respecto a las condiciones iniciales y la aparición de regiones estables en el espacio de Hilbert, cuyos estados se conocen como pointer states. La comprensión de este fenómeno arroja luz sobre el problema de la medida y la interpretación de Bohr de la Mecánica Cuántica. Sin embargo, a primera vista la dinámica de Ehrenfest no parece incluir decoherencia. En el trabajo realizado, se demuestra la existencia en distribuciones estadísticas gobernadas por la esta dinámica de indicios que se corresponden con la presencia de decoherencia, como cambios en el grado de mezcla y la aparición de pointer states. En el primer capítulo del trabajo se introduce la formulación geométrica, que permite relacionar la evolución clásica y la cuántica, además de otros conceptos como la pureza. En el segundo se define la dinámica de Ehrenfest y se argumenta la validez de las aproximaciones utilizadas; utilizando esta dinámica, se prueba el principal resultado del trabajo, la existencia de cambio en el grado de mezcla en distribuciones estadísticas. El tercero se dedica a ilustrar lo anterior con ejemplos numéricos, presentando los resultados obtenidos a partir de simulaciones numéricas de cambios de pureza en distribuciones estadísticas; los resultados de las simulaciones permite también plantear de forma preliminar la existencia de pointer states, lo que indicaría la presencia de decoherencia en estos sistemas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/11484</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Teórica; Área de Física Teórica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/11484/files/TAZ-TFM-2013-503.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>decoherencia</dc:subject>
+    <dc:subject>mecánica cuántica</dc:subject>
+    <dc:subject>sistemas moleculares</dc:subject>
+    <dc:subject>pointer states</dc:subject>
+    <dc:subject>formulación geométrica</dc:subject>
+    <dc:subject>Máster Universitario en Física y Tecnologías Físicas</dc:subject>
+    <dc:title>Fenómenos de decoherencia en sistemas moleculares</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

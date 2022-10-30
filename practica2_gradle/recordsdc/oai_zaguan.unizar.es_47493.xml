@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Hernández Solana, María Ángela</dc:contributor>
+    <dc:creator>García Fortún, Javier</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>El trabajo fin de grado ha consistido en la implementación en el software de código libre Network Simulator 3 y su posterior evaluación de diferentes soluciones y estrategias de balanceo de tráfico entre distintos puntos de acceso en despliegues multicelulares de redes de área local IEEE 802.11g. Para evaluar y comparar las distintas estrategias de una forma realista se han considerado distribuciones de usuarios y de tráficos variables a la vez que se han empleado los parámetros establecidos en las normas IEEE 802.11 y se ha modelado las condiciones del canal radio de una forma lo más realista posible. Como conclusión se han elaborado unos algoritmos que, a partir de los múltiples resultados que se han obtenido de las diferentes simulaciones realizadas, intentan maximizar la calidad de servicio que una red de área local puede ofrecer al usuario, marcando como objetivo maximizar el throughput y reducir el retardo que deben soportar en sus transmisiones.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/47493</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingeniería Telemática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/47493/files/TAZ-TFG-2015-2758.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías y Servicios de Telecomunicación</dc:subject>
+    <dc:title>Balance de tráfico y provisión de QoS en redes IEEE 802.11</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

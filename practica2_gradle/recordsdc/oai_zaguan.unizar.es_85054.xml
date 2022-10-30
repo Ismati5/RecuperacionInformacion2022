@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Esteban Escaño, Javier</dc:contributor>
+    <dc:creator>Ulldemolins Sabater, Daniel</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>El objetivo de este proyecto es estudiar y diseñar un utensilio para su&lt;br /&gt;implementación a un brazo robot KUKA. Concretamente el fin de este, es manipular&lt;br /&gt;envases metálicos de diferentes medidas para el encaje de estos y su posterior&lt;br /&gt;paletizado de las agrupaciones en cajas.&lt;br /&gt;Este proyecto surge de la necesidad real de la empresa CONTROLPACK&lt;br /&gt;SYSTEMS S.L. de ampliar la oferta para mercado de los finales de línea (Packaging),&lt;br /&gt;ya que hasta ahora no hay oferta para lineas de envases metálicos. Se espera que el&lt;br /&gt;resultado se pueda comercializar en un futuro, pues seria un nuevo sistema.&lt;br /&gt;En vista de esta necesidad, el planteamiento de este proyecto se centrará en el&lt;br /&gt;diseño, el desarrollo del utensilio y en como identificar las diferentes medidas de los&lt;br /&gt;envases metálicos que suministra la linea de producción, ademas de realizar pruebas&lt;br /&gt;funcionales de la detección de los envases.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/85054</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/85054/files/TAZ-TFG-2019-3366.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecatrónica</dc:subject>
+    <dc:title>Garra multifunción de un brazo robot</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Robot Arm Multitask Grip</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Lucas del Pozo, Irene</dc:contributor>
+    <dc:contributor>Morellón Alquezar, Luis</dc:contributor>
+    <dc:creator>Latorre Membrado, Marta</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>La espintrónica es un campo de investigación novedoso en el que se manipula tanto el transporte de carga como el espín de los materiales. Uno de los efectos que se estudian dentro de este campo es el efecto Seebeck de espín. El presente trabajo caracteriza este efecto en un determinado material aislante magnético (YIG). Se han utilizado técnicas de crecimiento como PLD o Sputtering, técnicas de caracterización estructural como difracción y reflectividad de rayos X y técnicas de caracterización magnética como VSM para la fabricación de las muestras. Posteriormente se ha medido el efecto Seebeck de espín en ellas obteniendo un parámetro característico denominado coeficiente Seebeck de espín.  Por último, se ha relacionado este parámetro con la longitud de difusión de magnones característica del material.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/59070</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física de la Materia Condensada; Área de Física de la Materia Condensada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/59070/files/TAZ-TFG-2016-3249.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Física</dc:subject>
+    <dc:title>Difusión térmica de magnones en materiales magnéticos aislantes</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Thermal diffusion of magnons in insulating magnetic materials</dc:title>
+</oai_dc:dc>

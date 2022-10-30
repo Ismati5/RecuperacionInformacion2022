@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Francés Pérez, Eva María</dc:contributor>
+    <dc:creator>Muelas Expósito, Álvaro</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El presente proyecto tiene por objeto la elaboración de un manual de uso del software “ROSA” (Reverse Osmosis System Analysis), creado por la compañía Dow Chemical para la simulación de unidades de ósmosis inversa. El proyecto presenta una introducción a la ósmosis inversa, en la que se describe su fundamento, los elementos y características principales de una instalación de este tipo y se describen algunas de las aplicaciones más importantes de esta tecnología. También se incluye una breve introducción a la empresa Dow Chemical, creadora del software y una de las mayores compañías químicas del mundo, así como dos anexos en los que se muestra el catálogo y características de los elementos que ofrece esta compañía (concretamente su empresa subsidiaria FilmTec) para su utilización en plantas de ósmosis inversa. Tras estas introducciones se muestra el manual de utilización del programa “ROSA”, detallando su descarga e instalación. Dicho manual describe cada una de las partes de que consta el software, dividiendo su interfaz gráfica para así facilitar su explicación pormenorizada. Puesto que “ROSA” utiliza gran cantidad de parámetros y variables, se ha incluido un apartado en el que se explican una a una. Por último, se ha incluido un caso práctico, en el que se muestra la aplicación y utilización del software “ROSA” para la resolución de un problema concreto de desalación de agua marina.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6670</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Ingeniería Química</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6670/files/TAZ-PFC-2011-694.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>manual</dc:subject>
+    <dc:subject>rosa</dc:subject>
+    <dc:subject>ósmosis inversa</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Química Industrial)</dc:subject>
+    <dc:title>Manual de utilización del software "ROSA" para simulación de unidades de ósmosis inversa</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

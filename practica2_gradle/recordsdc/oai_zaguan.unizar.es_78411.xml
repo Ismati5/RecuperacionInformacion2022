@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Aznar, José Manuel</dc:contributor>
+    <dc:contributor>Nasello, Gabriele</dc:contributor>
+    <dc:creator>Alamán Díez, Pilar</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>La ausencia de producción de matriz ósea en scaffolds e implantes, supone una limitación en el campo de la ingeniería de tejidos para la remodelación ósea.  Los sustitutos óseos no consiguen replicar la capacidad de remodelación que posee este tejido. Por ello, es necesario conocer qué estímulos ayudan a favorecer este proceso a nivel celular.  El desarrollo de modelos óseos in vitro pretende ayudar a entender qué mecanismos promoverían la formación de hueso, así como el estudio aislado de determinadas patologías o terapias potenciales. Para llevar esto a cabo, se han utilizado dispositivos microfluídicos, dentro de los cuales se siembras las células óseas embebidas en una matriz colagenosa. Lo que se ha hecho en este trabajo ha sido una siembra de osteoblastos humanos en una matriz densa de colágeno. El principal objetivo es conseguir el modelo óseo mediante un cultivo de osteoblastos primarios humanos a largo plazo. Además, se quiere medir el comportamiento ostegénico de las células y estudiar si existe una completa diferenciación a osteocitos.  Se ha conseguido ver que, en las condiciones estudiadas, existe  comportamiento osteogénico del cultivo: demostrado por la expresión de la enzyma ALP y el calcio liberado a la matriz. Sin embargo, todavía no ha sido posible obtener una completa diferenciación ya que no hay expresión de la proteína DMP1 en la matriz y la actividad enzimática no se reduce con el tiempo.  Con lo que concluído a lo largo de estos experimentos y comparando con la información obtenida de la literatura, se deduce que la principal necesidad es aumentar la densidad celular dentro del gel y, si es posible, extender los tiempos de la experimentación.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/78411</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/78411/files/TAZ-TFM-2018-1216.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Biomédica</dc:subject>
+    <dc:title>Estudio de diferenciación y mineralización in vitro de osteoblastos en  dispositivos microfluídicos</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">In vitro osteoblasts differentiation and mineralization study inside microfluidic devices</dc:title>
+</oai_dc:dc>

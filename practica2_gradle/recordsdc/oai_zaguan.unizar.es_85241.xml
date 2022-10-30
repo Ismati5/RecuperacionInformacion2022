@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Marco Murria, Julio</dc:contributor>
+    <dc:contributor>Gutierrez Pérez, Diego</dc:contributor>
+    <dc:creator>Cosculluela Gracia, Miguel Ángel</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>El renderizado o generación de imágenes sintéticas basado en físicas es un campo de la informática gráfica muy complejo que requiere simular el transporte de luz y sus interacciones con medios y geometrías. Este proceso es muy costoso de realizar para la obtención de imágenes de alta calidad por lo que existe una fuerte investigación en nuevos o mejores métodos de generarlas. El uso de técnicas de aprendizaje autmático basadas en redes neuronales ha demostrado gran potencial en investigación aplicada al renderizado. Sin embargo su uso no es trivial ya que las distintas librerías que las desarrollan son ajenas a los sistemas de render y no están preparadas para hacer un uso conjunto.&lt;br /&gt;En este proyecto se presenta un nuevo sistema diseñado y desarrollado con el fin de facilitar el uso de librerías de redes neuronales dentro de un motor de renderizado. Para ello se realiza un estudio de las características de los renderizadores más utilizados actualmente en investigación junto con otro sobre las librerías de aprendizaje automático de uso más extendido. Escogiendo finalmente el renderizador Mitsuba y la librería de aprendizaje automático LibTorch se realiza un análisis de sus flujos de ejecución, culminando en el diseño e implementación de una arquitectura que integra LibTorch en Mitsuba. &lt;br /&gt;El sistema propuesto es validado mediante la reproducción  de un artículo de reducción de varianza en renderizado desarrollado por Disney para la aplicación en sus películas de animación. Finalmente sobre el artículo se propone e implementa una variación aplicando el método a imágenes con medios participativos.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/85241</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/85241/files/TAZ-TFG-2019-2746.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>Integración de un sistema de aprendizaje automático en un motor de renderizado</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Integration of a machine learning system in a rendering engine</dc:title>
+</oai_dc:dc>

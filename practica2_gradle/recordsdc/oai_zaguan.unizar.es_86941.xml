@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ben Kaabia, Monia</dc:contributor>
+    <dc:creator>Santamaria Gadea, Juan</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>El principal objetivo de este Trabajo de Fin de Grado es analizar la relación que existe entre el crecimiento económico (en concreto, el PIB y la apertura comercial) y la emisión de CO2 en España mediante estimación empírica de la Curva Ambiental de Kuznets (EKC) utilizando datos de panel desde 1858 hasta 2014.  En primer lugar, desarrollaremos la situación general de España analizando sus cambios políticos, económicos y ambientales de los últimos años. Proseguiremos explicando en que se basa la teoría de Simon Kuznets y como se trasladó al plano medioambiental analizando así los diversos estudios y trabajos que se han realizado en ese ámbito. Una vez planteado el problema y establecido el marco de trabajo, se realiza un análisis empírico aplicando los métodos econométricos aprendidos durante los estudios de grado. Los análisis llevados a cabo son:&lt;br /&gt; - Análisis univariante de las variables para determinar el orden de integración de cada una de las variables; &lt;br /&gt;- Contrastes de raíces unitarias utilizando la prueba de Dickey-Fuller para determinar si las series son estacionarias; &lt;br /&gt; - Análisis de cointegración para determinar la existencia de relaciones de equilibrio estacionario entre las mismas. Es decir, si las series de tiempo comparten una tendencia estocástica común o no. &lt;br /&gt;Una vez obtenidos los resultados de los análisis econométricos que hemos llevado a cabo, realizaremos los contrastes de cointegracion con los cambios estructurales que se observan en los datos para así obtener unos resultados a largo plazo.&lt;br /&gt;Por último, se plantean las conclusiones del trabajo que permiten responder la pregunta inicial planteada de trabajo, es decir, mediante la aplicación de técnicas econométricas novedosas a la situación de gestión ambiental de España, se pone de manifiesto que, a pesar de ser considerada como una de las economías desarrolladas, aún no ha alcanzado el nivel de eficiencia ambiental que se espera de una economía sostenible.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/86941</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/86941/files/TAZ-TFG-2019-3793.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Economía</dc:subject>
+    <dc:title>La curva de Kuznets ambiental y la emisión de CO2 en España</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">The Kuznets enviromental curve and emission in Spain</dc:title>
+</oai_dc:dc>

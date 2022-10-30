@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Jakobsen, Jakob</dc:contributor>
+    <dc:contributor>Olesen, Daniel Haugård</dc:contributor>
+    <dc:contributor>Carro Ceballos, Pedro Luis</dc:contributor>
+    <dc:creator>Miravete del Castillo, Mario</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Este proyecto está relacionado con el seguimiento de la señal E1 OS de Galileo. El objetivo es llevar a cabo el procesado en banda base de señales de Galileo usando Matlab, por lo que el alcance del proyecto está dentro del procesado digital de señales de radiofrecuencia. La implementación se basa en un toolbox existente desarrollado en el departamenteo de DTU Space para GPS, que ha sido adaptado para aceptar la señal de Galileo. Además de esto, se han recogido datos usando un receptor software y el toolbox ha sido probado. Asimismo, se ha llevado a cabo un estudio de multipath usando una estrategia multicorrelador. La tesis está dividida en cuatro bloques principales. El primero introduce la señal de Galileo, así como algo de teoría sobre receptores software como background para la implementación, que se describe justo después.  Posteriormente, se muestra el setup para la recogida de datos junto con algunos resultados y la discusión de los mismos. Finalmente, se analiza el multipath en un capítulo separado, que consiste en una pequeña sección de teoría, las modificaciones en la implementación y la seccion de resultados.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64144</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64144/files/TAZ-TFG-2017-3059.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías y Servicios de Telecomunicación</dc:subject>
+    <dc:title>Seguimiento de la señal de Galileo E1 OS para UAVs</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Tracking of the Galileo E1 OS Signal for UAVs</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gracia Ramos, Ángel</dc:contributor>
+    <dc:contributor>Alcrudo Sánchez, Francisco</dc:contributor>
+    <dc:creator>Martín Villanueva, Pablo</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>En el presente trabajo se abordará la realización de un programa de cálculo de trayectorias para el tiro de artillería. Para ello se tendrán en cuenta todos los efectos físicos asociados al vuelo de un proyectil en un medio como el aire, además de listar y detallar todos los sistemas de referencia que utilizaremos en el problema. Se pasará a formular las ecuaciones de movimiento que rigen el vuelo del proyectil para posteriormente buscar y seleccionar un método de integración numérica que sea adecuado para resolver las mismas. Se terminará mostrando una serie de trayectorias calculadas por nuestro programa comparándolas con las obtenidas en las tablas de tiro del Ejército Español. En los anexos se detallan en profundidad algunas correcciones hechas en nuestro problema, además de demostrar las ecuaciones de movimiento del proyectil utilizadas en este trabajo. También se incluye una batería de ensayos adicional a la mostrada en la memoria realizada con nuestro programa.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64195</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64195/files/TAZ-TFG-2017-2853.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Cálculo de la trayectoria de proyectiles de artillería</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Artillery shell trajectory computation program</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ayuda Bosque, María Isabel</dc:contributor>
+    <dc:contributor>Villanúa Martín, Inmaculada</dc:contributor>
+    <dc:creator>Escalona Romeo, María</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>Los modelos econométricos explican la influencia que unas variables pueden tener sobre otras, incluyendo además una perturbación aleatoria, que nos permite razonar en términos probabilísticos. Cuando especificamos un modelo con la intención de simplificar la realidad, es necesario dotarlo de una forma funcional, y es cuando nos preguntamos si dicha forma coincide con la que reflejarían los datos reales. Para responder a esta pregunta podemos servirnos, entre otras herramientas, del contraste Reset. A pesar de ser una herramienta muy utilizada, no sabemos a priori, si su funcionamiento es adecuado, es decir, si es capaz de detectar la correcta o incorrecta forma funcional de un modelo especificado y estimado. Para analizar el comportamiento del  criterio  Reset  realizamos un estudio de Monte Carlo, prestando especial atención a cómo actúa Reset ante distintos modelos estimados, diferentes tamaños muestrales y distintas expresiones de la regresión auxiliar. Los resultados y conclusiones se desvelan en el trabajo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/58101</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/58101/files/TAZ-TFG-2016-3867.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Economía</dc:subject>
+    <dc:title>El contraste Reset. Un estudio de Monte Carlo.</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">The Reset test. A Monte Carlo study.</dc:title>
+</oai_dc:dc>

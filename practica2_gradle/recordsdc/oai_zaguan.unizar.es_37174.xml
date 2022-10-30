@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Ferrández, Natalia</dc:contributor>
+    <dc:contributor>Trillo Lado, Raquel</dc:contributor>
+    <dc:creator>López García, Carlos</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>En este proyecto se desarrolla un sistema de información para la gestión de clases prácticas de conducción para la fundación EducaTrafic. En primer lugar se estudia el dominio y se realiza un análisis de los requisitos del sistema, a continuación se indica como se ha diseñado, desarrollado e implantado el sistema en el entorno real. Las aplicaciones software que forman parte del sistema de información están formadas por una base de datos, una aplicación web y dos aplicaciones móviles: una para sistemas Android y otra para sistemas IOS. Las tecnologías utilizadas en su desarrollo han sido: - MySQL para la base de datos. - HTML, PHP, JQuery y JavaScript para la aplicación web. - Java Android para la aplicación para plataformas Android. - C-Objetive para la aplicación para plataformas IOS. Además de las aplicaciones software se han desarrollado protocolos de mantenimiento y de actuación imprescindibles para el sistema de información, en concreto: - Se han definido políticas y procedimientos de creación y recuperación de copias de seguridad (backups). - Se han implementado diferentes acciones para mejorar el posicionamiento web de las diferentes aplicaciones para que sea más sencillo que los diferentes usuarios las localicen. Por último, en cada una de las fases de análisis, desarrollo e implantación se han realizado pruebas para subsanar errores y definir mejoras del sistema.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/37174</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/37174/files/TAZ-PFC-2015-202.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/37174/files/TAZ-PFC-2015-202_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Sistema de información para la gestión de autoescuelas desarrollado para navegadores Web y para aplicaciones en dispositivos móviles con plataforma Android e IOS</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

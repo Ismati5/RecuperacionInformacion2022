@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Martínez Fernández de Landa, María Teresa</dc:contributor>
+    <dc:contributor>Cea Mingueza, Pilar</dc:contributor>
+    <dc:creator>González García, Mónica</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Carbon Nanotubes (CNTs) are a new material with electric, mechanical and electrochemical properties that make them interesting for different applications. Due to their high superficial area, the CNTs are very sensitive to molecules adsorbing on them. This property makes them a very good candidate for integrating into biosensors. In this context, the control of the non specific adsorption of molecules different from the one wanting to detect, is a parameter to be known and controlled. Along this Master Final Project, the adsorption of streptavidin, a biomolecule widely used in biomedical research, on the surface of Single Walled NanoTubes (SWNTs) have been studied. The highly specific biotin-streptavidin system have been used for specifically binding the streptavidin to the surface of the nanotube and to control the degree of specific / non specific adsorption. SWNTs with different functional groups at the surface have been considered. The horseradish peroxidase (HRP)-catalyzed oxidation of 3,3’-5,5’-tetramethylbenzidine (TMB) have been used as colorimetric test to determine the presence of streptavidin onto the SWNTs.  The non specific adsorption of the protein has been intended to be prevented. Among the great variety of surfactants and molecules used to prevent the adsorption, polyethylene glycol (PEG), Tween20® and Pluronic® F-127 have been used. No complete blockage have been achieved. Once the adsorption of that protein over the surface of SWNTs has been known, it has been used to detect DNA hybridization, binding on strand to the nanotube in a specific way. The detection of the hybridization have been carried out optically by a fluorescent probe on the complementary strand.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8763</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8763/files/TAZ-TFM-2012-695.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>carbon nanotubes</dc:subject>
+    <dc:subject>nanotubos de carbono</dc:subject>
+    <dc:subject>nanotechnology</dc:subject>
+    <dc:subject>nanotecnología</dc:subject>
+    <dc:subject>Máster Universitario en Materiales Nanoestructurados para Aplicaciones Nanotecnológicas (Nanostructured Materials for Nanotechnology Applications)</dc:subject>
+    <dc:title>Study of biomolecules adsorption on carbon nanotubes for their application as biosensors</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Rituerto Sin, Alejandro</dc:contributor>
+    <dc:contributor>Guerrero Campo, José Jesús</dc:contributor>
+    <dc:creator>Gutiérrez Gómez, Daniel</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El objetivo de este proyecto es el desarrollo de una aplicación SLAM para una cámara  omnidireccional a partir de una aplicación EKF-SLAM Monocular en tiempo real, programada en C++ y diseñada para su uso con cámaras convencionales.  Para ello, se han realizado modificaciones sobre dos aspectos básicos: el modelo de proyección y el descriptor de puntos característicos. El modelo de proyección debe ser adaptado a uno apropiado para sistemas omnidireccionales. Se toma el Modelo de la Esfera, un modelo no lineal que permite calcular la proyección de puntos del espacio en puntos de la imagen omnidireccional, y de puntos en la imagen en rayos tridimensionales en los que se encuentra el punto. El descriptor de puntos característicos permite identificar los puntos en una imagen. Las imágenes omnidireccionales conllevan un modelo de proyección más complejo, así como una importante deformación y una escala variable en la imagen debido al cambio de resolución a lo largo de la dirección radial. Por lo tanto, se implementa un nuevo descriptor de puntos para cámaras omnidireccionales que los haga invariantes a cambios de escala y rotación en la imagen. Finalmente se han llevado a cabo varios experimentos divididos en dos fases. En la primera fase se han utilizado datos facilitados por Rawseeds para hacer una comparación entre el nuevo descriptor implementado y el descriptor normal. Los resultados de estos experimentos muestran que el nuevo descriptor tiene un mejor rendimiento en el emparejamiento, que se traduce en una mejora de rendimiento en el SLAM.  En la segunda fase se ha experimentado con secuencias tomadas en el Campus Río Ebro con un casco-cámara del Grupo de Robótica, Visión y Tiempo Real, comparando los resultados obtenidos a partir de la aplicación SLAM utilizando el nuevo descriptor con los obtenidos con un dispositivo GPS. Los resultados muestran una gran precisión en la estimación de la trayectoria en un recorrido corto, mientras que en un recorrido largo, la precisión disminuye considerablemente. Además de la deriva del error propia del algoritmo EKF-SLAM por tratarse de un algoritmo incremental, se han establecido dos posibles causas de esta disminución de la precisión, ambas consecuencia de la inobservabilidad de la escala de un SLAM monocular: por un lado, la deriva de escala a lo largo del recorrido debido a la gran longitud de este, y por otro lado, la existencia de zonas del entorno con diferentes escalas alrededor de una misma localización y que afectaría en especial a cámaras omnidireccionales por su gran ángulo de visión.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6485</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6485/files/TAZ-PFC-2011-623.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>visión omnidireccional</dc:subject>
+    <dc:subject>slam monocular</dc:subject>
+    <dc:subject>ekf</dc:subject>
+    <dc:subject>extracción de características</dc:subject>
+    <dc:subject>descriptor de puntos característicos</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Localización por visión omnidireccional para asistencia personal</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

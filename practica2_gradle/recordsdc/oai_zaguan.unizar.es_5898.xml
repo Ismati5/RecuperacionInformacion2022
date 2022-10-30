@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gómez Martín, Tomás</dc:contributor>
+    <dc:creator>Jiménez Pintre, Beatriz</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Este proyecto nace como resultado de un proyecto real, consistente en la certificación energética de un bloque de viviendas que lleva construido 30 años. Pretende llevarse a cabo una rehabilitación que no sólo mejore el aspecto del mismo, sino que también mejore su eficiencia energética. Los resultados de estas mejoras han sido plasmados mediante  la certificación energética realizada con el programa normativo CALENER VyP. El objetivo principal del proyecto es visualizar de forma clara y objetiva, mediante un programa informático normativo, que la rehabilitación sugerida consigue mejorar la eficiencia energética del edificio, así como generar ahorros en el consumo de combustible de la comunidad.  Para la consecución de este objetivo principal, se desarrollan diferentes estudios de mejora en la rehabilitación energética del edificio. Así pues, en este proyecto se analizan varios puntos: •Cerramientos de edificio: Se estudia cómo pueden mejorarse mediante los cálculos de transmitancia según el Código Técnico de la Edificación. Se realiza también una comparativa con los costes de llevar a cabo estas mejoras para ver qué resultado es el más adecuado. •Puentes  térmicos: Se visualiza y analiza el estado actual de los mismos mediante termografías y se realiza el estudio de las mejoras que supone la rehabilitación propuesta en cerramientos. •Integración de energía solar térmica: Se calcula el porcentaje de cobertura solar para conseguir reducir consumos en agua caliente sanitaria. Como implementación a este apartado se realiza el proyecto de la instalación, así como el estudio económico del mismo. •Cálculo de la eficiencia energética del edificio y reducción de consumos: Con las mejoras propuestas se realiza el cálculo final, en el que se compara el estado inicial y el final del edificio y se concluye con datos fiables cual es el ahorro que supone la rehabilitación. •Estudio de viabilidad económica: Una vez calculados los ahorros se comparan con los costes, incluyendo el aporte de posibles subvenciones, para concluir un periodo de amortización de las propuestas. Todos estos estudios dan como resultado que, gracias a la rehabilitación propuesta, se reduce el consumo del edificio en un 60%, dando como resultado un periodo de amortización de 11 años.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5898</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5898/files/TAZ-PFC-2011-224.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5898/files/TAZ-PFC-2011-224_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>rehabilitación</dc:subject>
+    <dc:subject>eficiencia</dc:subject>
+    <dc:subject>energética</dc:subject>
+    <dc:subject>edificación</dc:subject>
+    <dc:subject>lider</dc:subject>
+    <dc:subject>calener VyP</dc:subject>
+    <dc:subject>energía solar</dc:subject>
+    <dc:subject>transmitancia</dc:subject>
+    <dc:subject>puente térmico</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Auditoría energética en edificios residenciales. Estudio para la mejora de la eficiencia energética en rehabilitación</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

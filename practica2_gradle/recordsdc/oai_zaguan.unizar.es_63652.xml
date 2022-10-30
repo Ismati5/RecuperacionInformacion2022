@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gaspar Lorenz, Francisco José</dc:contributor>
+    <dc:contributor>Rodrigo Cardiel, Carmen</dc:contributor>
+    <dc:creator>Pé de la Riva, Álvaro</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Los problemas de punto silla surgen de la formulación variacional de algunos sistemas de EDPs. Estos problemas presentan una estructura especial que no siempre nos permite asegurar la existencia y unicidad de solución. Para lidiar con estas dificultades, en este trabajo se exponen algunos resultados donde se mencionan las llamadas condiciones inf-sup.  A parte de tratar el problema en espacios de Hilbert, nos interesa la discretización del problema para obtener una aproximación de la solución clásica. Si en el problema discreto los subespacios tomados de dimensión finita no satisfacen la versión discreta de las ya mencionadas condiciones inf-sup, entonces el método empleado resulta inestable y la aproximación dista mucho de la solución. Esto supone que la elección de los espacios de elementos finitos no puede ser cualquiera y por ello es necesario emplear elementos finitos mixtos que garanticen la convergencia. Por último, al discretizar el problema mediante elementos finitos se obtiene un sistema lineal cuyas matrices reciben el nombre de matrices de punto silla. Tras estudiar algunas de sus propiedades espectrales, en el trabajo se proponen las ecuaciones de Stokes como ejemplo de problema de punto silla. Finalmente se exponen algunos elementos finitos mixtos estables e inestables para las ecuaciones de Stokes con sus respectivos resultados numéricos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/63652</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Matemática Aplicada; Área de Matemática Aplicada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/63652/files/TAZ-TFM-2017-915.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Modelización e Investigación Matemática, Estadística y Computación</dc:subject>
+    <dc:title>Elementos finitos para problemas de punto silla</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Mixed finite element methods applied to saddle point problems</dc:title>
+</oai_dc:dc>

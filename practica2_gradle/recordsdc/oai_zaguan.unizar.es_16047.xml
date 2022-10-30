@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sanz Garcia, Francisco</dc:contributor>
+    <dc:contributor>Campos Laclaustra, Javier</dc:contributor>
+    <dc:creator>Arenere Mendoza, Julio Alberto</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El objetivo del presente proyecto ha sido desarrollar una plataforma web de encuestas que permita a los usuarios de manera fácil, la creación, modificación y publicación de encuestas así como la obtención de los resultados de esta.  Además de la modificación de esta plataforma para la elaboración del experimento "¿Cómo son nuestros voluntarios?" El proyectando se ha responsabilizado de todas las etapas necesarias para la elaboración de esta herramienta y experimento, desde el análisis de requisitos, diseño... hasta su puesta en producción y mantenimiento.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/16047</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/16047/files/TAZ-PFC-2014-432.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>bifi</dc:subject>
+    <dc:subject>ibercivis</dc:subject>
+    <dc:subject>ciencia ciudadana</dc:subject>
+    <dc:subject>framework</dc:subject>
+    <dc:subject>experimento sociológico</dc:subject>
+    <dc:subject>experimento económico</dc:subject>
+    <dc:subject>teoría de la decisión</dc:subject>
+    <dc:subject>teoría de juegos</dc:subject>
+    <dc:subject>base de datos</dc:subject>
+    <dc:subject>portal web</dc:subject>
+    <dc:subject>cuestionario</dc:subject>
+    <dc:subject>encuesta</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Desarrollo de una plataforma para la elaboración de experimentos participativos de índole sociológica</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

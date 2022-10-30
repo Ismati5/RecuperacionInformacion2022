@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Borges de Almeida, Rute</dc:contributor>
+    <dc:contributor>Laguna Lasaosa, Pablo</dc:contributor>
+    <dc:creator>Corredera Martín,Diego</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El proyecto aquí desarrollado es parte de una colaboración con el GTC del I3A y CIBER-BBN (Universidad de Zaragoza) con el Politécnico di Milano, la Universidad de  Bologna (Italia), la Universidad Víctor Segalen Bordeaux 2, la Universidad París Sud 11 (Francia) y la ESA. Esta colaboración  ha surgido de la demanda por parte de ESA de propuestas relacionadas con "Life          Sciences Research in Space Simulation Using the Model of Bed Rest" ESA06.En este partiremos de los estudios realizados por la doctora Rute Alexandra Borges de Almeida en su tesis "Automatic ECG Characterization : Application to QT interval Variability" en la cual se realizan distintos estudios sobre procesos automáticos de caracterización del ECG, así como su aplicación al estudio de la interacción entre la HRV y la VRV. Aplicaremos estos métodos a los electrocardiogramas de las bases de datos generadas como resultado de los HDBR e intentaremos inferir si existe algún tipo de influencia sobre la repolarización ventricular debido a la microgravedad.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/7148</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/7148/files/TAZ-PFC-2012-190.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>ecg</dc:subject>
+    <dc:subject>microgravedad</dc:subject>
+    <dc:subject>repolarización ventricular</dc:subject>
+    <dc:subject>análisis espectral paramétrico</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicación</dc:subject>
+    <dc:title>Influencia de la microgravedad en la dependencia lineal de la repolarización ventricular con respecto a la frecuencia cardíaca</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

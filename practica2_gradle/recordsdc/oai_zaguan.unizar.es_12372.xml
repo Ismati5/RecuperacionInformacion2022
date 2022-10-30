@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Castejón Herrer, Luis</dc:contributor>
+    <dc:creator>Elvira Viana, Roberto</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>En el presente Trabajo de Fin de Máster se ha pretendido desarrollar un análisis numérico comparativo entre semáforos construidos en acero, frente a otros fabricados en PRFV. Pero antes se ha extraído información relevante a los nuevos elementos de seguridad vial fabricados en materiales compuestos de informes estadísticos del RACE, el Transport Research Laboratory, y VINNOVA. Todos ellos concluyen en que estos elementos son favorables a los convencionales de acero, comparando estadísticas de siniestralidad tanto en sus países como en el resto que los han implementado ya. Y alegando también que tienen otras ventajas como su reducido peso, su buen comportamiento como aislante eléctrico y ante la corrosión, e incluso con ventajas económicas por la reducción en los daños al vehículo y a sus integrantes. Tras ello, el caso de análisis consistió en la simulación, mediante programas basados en el Método de los Elementos Finitos (PATRAN y ABAQUS), en un choque de un automóvil compacto contra los semáforos fabricados en PRFV y acero a diferentes velocidades (30, 45 y 60 km/h).  Por último se analizaron y se compararon deformadas a lo largo del tiempo, energías, deformaciones plásticas y posibles roturas en las columnas del semáforo y en el automóvil, para las diferentes velocidades de impacto estudiadas, sacando las siguientes conclusiones: •	En todos los casos a estudio el semáforo en PRFV sufre rotura, mientras que el de acero se deforma plásticamente de manera irreparable. •	En un impacto con un poste de acero se pueden llegar a sufrir desaceleraciones con un valor de 1g más elevadas que con los mismos fabricados en PRFV. •	De producirse intrusión del poste más allá del paragolpes sucedería en el caso de accidente contra una columna de acero. •	Las deformaciones y las energías absorbidas son mayores en el vehículo para el impacto contra un poste convencional, por lo que la posibilidad de que la integridad tanto del habitáculo como de los ocupantes en su interior sufran mayores lesiones es más elevada. •	Los elementos construidos en PRFV representan una mayor mejoría ante la seguridad cuanto mayor es la velocidad. No teniendo, según algún que otro dato analizado, para velocidades bajas (30km/h) ninguna ventaja frente a los de acero De forma inequívoca, ya que todas las magnitudes analizadas así lo demostraban, se puede concluir que los semáforos fabricados en material compuesto tienen un mejor comportamiento ante la seguridad que sus homólogos de acero ante el impacto vehicular</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12372</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería e Infraestructura de los Transportes</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12372/files/TAZ-TFM-2013-834_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/12372/files/TAZ-TFM-2013-834.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>materiales compuestos</dc:subject>
+    <dc:subject>accidente</dc:subject>
+    <dc:subject>semáforo</dc:subject>
+    <dc:subject>impacto</dc:subject>
+    <dc:subject>une 12767</dc:subject>
+    <dc:subject>ensayo vehículo</dc:subject>
+    <dc:subject>Máster Universitario en Sistemas Mecánicos</dc:subject>
+    <dc:title>Estudio y comparación del comportamiento de un semáforo fabricado en materiales compuestos frente a su homólogo de acero ante el impacto vehicular</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

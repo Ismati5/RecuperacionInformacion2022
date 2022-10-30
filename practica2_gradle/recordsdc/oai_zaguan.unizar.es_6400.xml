@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Brosed, F. J.</dc:contributor>
+    <dc:creator>Martínez Yagüe, Víctor</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El proyecto consiste en el diseño de un puesto de prácticas con un robot y un soporte para un sistema de visión y la realización de tres guiones de prácticas que servirán como punto de partida cuando el puesto esté creado. El diseño se divide en dos partes: una es el diseño de la zona de trabajo del robot compuesto por un verjado de seguridad que delimite la zona de trabajo y los sistemas de seguridad que eviten posibles accidentes. El segundo es el diseño de un soporte de visión artificial y elección de los equipos que lo conforman con el que, en futuros proyectos tras modelar y calibrar estos equipos, se puedan utilizar para la realización de mediciones de piezas con geometría compleja. El robot utilizado será el modelo KUKA KR3 propiedad de la Universidad de Zaragoza. Los guiones de prácticas incluyen: las medidas de seguridad en la zona de trabajo del robot, la definición de bases y herramientas en Solid Edge, el trabajo a realizar en el simulador KUKA Sim y movimientos de comprobación de las bases y herramientas definidas. Con ello se pretende que los alumnos aprendan a utilizar las bases y herramientas para definir los movimientos de un robot y que conozcan los riesgos existentes en el trabajo con los mismos. Con la construcción de este puesto de prácticas existirá la posibilidad de que otras asignaturas como: Tecnología mecánica, Fundamentos de la tecnología eléctrica, Automatización industrial, Seguridad y Prevención de Riesgos en procesos industriales, entre otras, puedan realizar también prácticas en este puesto.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6400</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería Mecánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6400/files/TAZ-PFC-2011-560.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6400/files/TAZ-PFC-2011-560_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>robots</dc:subject>
+    <dc:subject>robótica</dc:subject>
+    <dc:subject>definición de bases y herramientas</dc:subject>
+    <dc:subject>solid edge</dc:subject>
+    <dc:subject>kuka</dc:subject>
+    <dc:subject>seguridad</dc:subject>
+    <dc:subject>verjados de seguridad</dc:subject>
+    <dc:subject>elementos de seguridad</dc:subject>
+    <dc:subject>soporte de visión 3d</dc:subject>
+    <dc:subject>cámara</dc:subject>
+    <dc:subject>láser</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Diseño de un puesto de prácticas con un robot y un soporte para un sistema de visión y creación de los guiones de prácticas</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

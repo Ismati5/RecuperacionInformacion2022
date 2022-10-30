@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Baselga Ariño, Santiago</dc:contributor>
+    <dc:creator>Fernández Concellón, Pedro José</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>En este trabajo se han seleccionado cuatro modelos matemáticos, desarrollados  anteriormente por otros investigadores, que sirven para cuantificar las pérdidas de potencia que tienen lugar en transmisiones mecánicas formadas por engranajes cilíndricos de dentado recto teniendo en cuenta los fenómenos de deslizamiento, rodadura y fricción del aire que acontecen en estas transmisiones. Se han expresado los modelos de forma que pudieran ser comparables entre ellos convirtiendo las pérdidas de potencia en valores referidos a la eficiencia del sistema. Así, se ha analizado la influencia que las variables más relevantes y comunes a todos ellos tienen sobre la eficiencia del sistema por medio de la teoría de diseño de experimentos. Posteriormente, se han aplicado estos a cuatro casos prácticos para determinar si los modelos son aplicables a cualquier situación, sus rangos de aplicación y validez y sus semejanzas y diferencias con la idea de poder llevar a cabo investigaciones futuras. Tras estos pasos, se han analizado los resultados obtenidos y se ha concluido indicando que los modelos matemáticos analizados únicamente permiten una aplicación fiable tras haber llevado a cabo una experimentación práctica sobre el sistema en estudio y sobre el que pretenden emplearse. Sin esta experimentación previa se corre el riesgo de perder información relevante para el sistema. Esto puede acarrear errores en los cálculos sobre la eficiencia del mismo ya que algunas de las variables empleadas en estos modelos presentan sus propios modelos matemáticos obtenidos tras la experimentación en unas condiciones particulares y específicas. Durante la realización del trabajo se han detectado algunos errores en las ecuaciones que planteaban los autores, los cuales se han resaltado en las notas a pie de página de este trabajo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10303</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería e Infraestructura de los Transportes</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10303/files/TAZ-TFM-2013-137.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/10303/files/TAZ-TFM-2013-137_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>eficiencia</dc:subject>
+    <dc:subject>transmisión</dc:subject>
+    <dc:subject>engranajes</dc:subject>
+    <dc:subject>modelo</dc:subject>
+    <dc:subject>Máster Universitario en Sistemas Mecánicos</dc:subject>
+    <dc:title>Análisis de modelos existentes para determinar las pérdidas de potencia en transmisiones de engranajes cilíndricos de dentado recto mediante la teoría del diseño de experimentos</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

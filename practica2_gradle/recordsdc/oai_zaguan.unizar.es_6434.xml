@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Zalba Nonay, Belen</dc:contributor>
+    <dc:contributor>Lázaro Fernández, Ana</dc:contributor>
+    <dc:creator>Marzo Limeres, Rubén</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El presente proyecto engloba el estudio de las necesidades de calefacción y refrigeración de un albergue juvenil de capacidad máxima de 94 personas situado en la localidad de Cervera del Rincón, provincia de Teruel. Se ha comenzado describiendo los diferentes cerramientos que componen la envolvente térmica del edificio, comprobando el cumplimiento de las exigencias energéticas marcadas por la opción simplificada del CTE. Se han establecido soluciones que han mejorado las características térmicas de la medificación, así como la realización de estudios de la influencia de diferentes aspectos constructivos en la demanda. Una vez definidas las exigencias térmicas del edificio, se han estudiado diferentes alternativas de producción de frio y calor, analizando el consumo de energía primaria, así como la emisión de CO2 de cada una de ellas, estudiando el escenario energético en la zona para tener conocimiento del factor de emisiones por kW consumido. Se ha seleccionado una bomba de calor agua-agua, que intercambia energía con el terreno por medio de un circuito acoplado al terreno, lo que aumenta el rendimiento de la máquina al trabajar con un foco exterior de temperatura relativamente  estable. Para distribuir la energía por todos los locales del albergue, se ha elegido un sistema mde suelo radiante/refrescante que aporta una homogeneidad de temperaturas, lo que proporciona un elevado confort a los usuarios además de favorecer el ahorro energético al trabajar con temperaturas más bajas. A continuación se ha diseñado el resto de la instalación, seleccionando las unidades de tratamiento de aire correspondientes y sus componentes, así como el cálculo de la red de conductos de circulación y la red de tuberías de agua. Se han enumerado todas las medidas de ahorro energético implementadas en el proyecto, además de calcular la aportación de la instalación a los objetivos energéticos del PANER.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6434</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6434/files/TAZ-PFC-2011-589_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6434/files/TAZ-PFC-2011-589.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>climatización</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Climatización de un albergue juvenil</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

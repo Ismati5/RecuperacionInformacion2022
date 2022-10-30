@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Guedea Medrano, Isabel</dc:contributor>
+    <dc:contributor>Díez Pinilla, Luis Ignacio</dc:contributor>
+    <dc:creator>Cortés Moradell, Nuria</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>Este proyecto se fundamenta en el proceso de estudio y control automático de la recirculación de gases de escape en un lecho fluido burbujeante bajo condiciones de oxicombustión. La planta piloto de estudio se sitúa en las instalaciones del CEEI, Centro Europeo de Empresas e Innovación y ha sido diseñada y puesta en marcha por el Centro de Investigación de Recursos y Consumos Energéticos. Concluida la caracterización de la recirculación de gases se procede a la aplicación de la técnica en la planta experimental, lo que supone una considerable reducción de los costes de operación, asemeja su operación a una planta a gran escala y elimina problemas relativos al consumo de botellas. Para el estudio de la recirculación, se han simulado los balances másicos involucrados en el lecho fluido de la planta experimental mediante el desarrollo de programas de simulación con el software MATLAB®. Debido a la complejidad del estudio teórico de las emisiones de diversos gases como CO, NOx y SO2, se han desarrollado distintas correlaciones empíricas a partir de datos tomados de pruebas de oxicombustión. Este software informático realiza una previsión de las emisiones y flujos que tienen lugar en el lecho fluido bajo unos determinados parámetros impuestos por el usuario además de indicar cómo se debe actuar en la planta para recircular según las condiciones deseadas. El análisis de los resultados teóricos obtenidos del software informático permite evaluar la influencia de diversos parámetros en el proceso y obtener conclusiones respecto a temas de gran interés en oxicombustión, como la condensación del vapor de agua de los gases recirculados y el problema de las infiltraciones. Con el objetivo de facilitar la aplicación de la técnica de recirculación en la planta piloto se ha llevado a cabo un control automático de la recirculación. Para el diseño y ajuste del controlador se ha simulado el comportamiento del proceso mediante la herramienta Simulink de MATLAB®. La programación del controlador automático diseñado se ha ejecutado mediante el software Unity Pro®. Finalmente, se ha comprobado la correcta actuación del lazo de control implementado mediante pruebas en frío en la planta de oxicombustión.  En último lugar, se aplica la recirculación de gases de escape en caliente, lo que supone ser el segundo reactor de lecho fluido en el mundo que recircula los gases de salida bajo condiciones de oxicombustión. La aplicación de la recirculación ha servido para verificar su correcto funcionamiento.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4909</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4909/files/TAZ-PFC-2010-114_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/4909/files/TAZ-PFC-2010-114.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Oxicombustión </dc:subject>
+    <dc:subject>Lecho Fluido</dc:subject>
+    <dc:subject>Simulación </dc:subject>
+    <dc:subject>Recirculación de gases</dc:subject>
+    <dc:subject>Captura y almacenamiento de dióxido de carbono</dc:subject>
+    <dc:subject>Control automático</dc:subject>
+    <dc:subject>Planta piloto</dc:subject>
+    <dc:subject>Infiltraciones</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Caracterización de la recirculación de gases en un reactor de lecho fluido de oxicombustión</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

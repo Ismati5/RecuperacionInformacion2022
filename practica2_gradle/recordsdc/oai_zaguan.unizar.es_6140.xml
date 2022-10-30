@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Nilsson, Klas</dc:contributor>
+    <dc:contributor>Villarroel Salcedo, José Luis</dc:contributor>
+    <dc:creator>Colomer Vieitez, José Javier</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Un sistema distribuido es una colección de computadoras que se comunican entre sí a través de una red de comunicaciones y cooperan hacia la consecución de un objetivo común, siendo percibidas por el usuario como un único sistema. Cuando un sistema distribuido lleva a cabo tareas para las que el tiempo de respuesta es crítico, se lo denomina sistema de tiempo real distribuido. Algunos ejemplos de aplicación de estos sistemas son: prevención de accidentes automovilísticos (e.g. frenos ABS y sistemas de regulación de velocidad o autocrucero), control remoto de robots a partir de la información recogida por sensores, implementación de sistemas de control industrial, etc. A pesar de su extenso uso, hay una falta de especificaciones y técnicas estándar para comunicar de forma fácil y flexible los componentes de estos sistemas. Por ello, la mayor parte de los sistemas distribuidos emplean soluciones de comunicación a medida, específicamente diseñadas para funcionar en el entorno en que están situados los componentes del sistema, pero difícilmente aplicables a entornos de características diferentes. El objetivo de este proyecto no es proponer un nuevo estándar de comunicación para dichos sistemas, sino desarrollar una solución de comunicación en tiempo real que pueda ser fácilmente desplegada en una amplia variedad de entornos, liberando así de la tarea de diseñar una infraestructura de comunicación adaptada a cada situación específica. Este proyecto continúa la línea de trabajo iniciada por los departamentos de Ciencias de la Computación y de Control Automático de la Universidad de Lund, cuyo trabajo previo llevó al diseño e implementación de una herramienta para generar automáticamente infraestructuras de comunicación entre aplicaciones (LabComm) y a la especificación de un protocolo de comunicación en tiempo real basado en reserva de ancho de banda en redes Ethernet conmutadas (ThrottleNet). La realización de este Proyecto Fin de Carrera ha conllevado el diseño e implementación de dos sistemas independientes: en primer lugar, una aplicación interactiva que facilite el proceso de aprendizaje de LabComm. En esencia, esta aplicación será un simulador de transmisiones de datos que mostrará las virtudes y forma de uso del sistema LabComm. Por último, una implementación de ThrottleNet, a partir de la especificación proporcionada por estos departamentos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6140</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6140/files/TAZ-PFC-2011-367.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>labcomm</dc:subject>
+    <dc:subject>throttlenet</dc:subject>
+    <dc:subject>comunicación en tiempo real</dc:subject>
+    <dc:subject>tiempo real</dc:subject>
+    <dc:subject>ethernet</dc:subject>
+    <dc:subject>redes</dc:subject>
+    <dc:subject>hardware estándar</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Gestión de comunicación en tiempo real en redes Ethernet conmutadas</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

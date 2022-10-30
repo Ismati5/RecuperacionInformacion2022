@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sarto Marzal, José Luis</dc:contributor>
+    <dc:creator>Pruna Sangoluisa, Johanna Alexandra</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Las sensibilidades de las opciones son un aspecto fundamental para poder gestionar el riesgo de nuestras carteras por lo que estudiar y analizar cómo afectan estas sensibilidades a nuestras posiciones es algo clave para poder hacer una buena gestión y conseguir buenos resultados.  En este trabajo nos vamos a centrar en dos de ellas en la sensibilidad Gamma y en la sensibilidad Theta. Gamma nos hará referencia a la variación del precio de un activo subyacente y por otro lado Theta hará referencia al paso del tiempo, juntando estas dos sensibilidades y analizándolas detalladamente podremos averiguar la variación necesaria que tiene que hacer el precio del activo subyacente para poder compensar las pérdidas que ocasionan en el paso de un día. También veremos cómo afectan algunas variables como el tiempo a vencimiento, el strike elegido y la volatilidad a esta variación necesaria.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/85330</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Contabilidad y Finanzas; Área de Economía Financiera y Contabilidad</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/85330/files/TAZ-TFG-2019-2202.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Finanzas y Contabilidad</dc:subject>
+    <dc:title>Sensibilidades Gamma y Theta de las opciones</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">The Gamma and Theta sensitivities of the options</dc:title>
+</oai_dc:dc>

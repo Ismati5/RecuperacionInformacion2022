@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Pérez Cabello, Fernando</dc:contributor>
+    <dc:creator>García Gil, Sandra</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Los incendios forestales constituyen un grave problema ambiental debido a la destrucción y alteración de los ecosistemas forestales. En el año 2015, en el municipio de Luna (Zaragoza), se produjo un incendio que afectó a 14.000 hectáreas. Tras el suceso se aplicaron diferentes actuaciones y tratamientos post-incendio que son objeto de análisis en este trabajo. A través de los datos obtenidos mediante índices espectrales, aplicados sobre imágenes Sentinel-2, se evalúa la regeneración vegetal en cinco momentos (variación fenológica) a lo largo de 2018 y se analizan las interacciones con otros factores ambientales (formación vegetal, altitud, exposición y pendiente topográfica, sombra). En términos generales, los mejores resultados se relacionan con aquellos tratamientos aplicados para evitar la erosión (fajinas) y en los que se han realizado apeos para la extracción de madera quemada con fines comerciales, aunque con resultados desiguales en función del Monte de Utilidad Pública en los que se planificaron dichas actuaciones.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87967</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87967/files/TAZ-TFG-2019-4359.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Geografía y Ordenación del Territorio</dc:subject>
+    <dc:title>Análisis de la regeneración vegetal post-incendio en áreas con tratamientos mediante imágenes Sentinel-2.</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Analysis of the postfire vegetation regrowth in areas with treatments using Sentinel-2 Imagery.</dc:title>
+</oai_dc:dc>

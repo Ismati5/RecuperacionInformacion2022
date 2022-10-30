@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>López Pérez, José María</dc:contributor>
+    <dc:contributor>Perles Ivars, Ángel</dc:contributor>
+    <dc:creator>Laseca Jiménez, Pablo</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>El objetivo perseguido en la realización de este proyecto, es el de conseguir iconos industriales de código abierto y con opción de multiplataforma. Para la realización del proyecto utilizamos el lenguaje de programación C/C++, dado que es un lenguaje conocido y utilizado en múltiples plataformas, siendo un lenguaje muy potente. En el aspecto de obtener opción multiplataforma, nos referimos a la posibilidad de poder utilizar los iconos industriales en distintos dispositivos con diferentes sistemas operativos. Estos sistemas pueden ser: - Linux - Windows - Symbian De este modo podemos obtener aplicaciones para controlar sistemas industriales a través de diversos dispositivos, sin tener que limitarnos a una opción únicamente.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5204</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5204/files/TAZ-PFC-2010-234.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5204/files/TAZ-PFC-2010-234_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electrónica Industrial)</dc:subject>
+    <dc:title>Aplicación de Qt y Scalable Vector Graphics al diseño de controles visuales para sistemas industriales</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Navarro, Pilar</dc:contributor>
+    <dc:creator>Sorbe Casorrán, Jorge</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Este proyecto estudia el flujo turbulento a bajo número de Reynolds a la salida de una tobera. El objetivo del proyecto es la verificación de los datos del método Particle Image Velocimetry (PIV) con otros autores y analizar el flujo en la zona cercana e intermedia. El proyecto ha sido dividido en tres partes: procesamiento de los datos obtenidos mediante el método PIV, los datos han sido normalizados y unidos; validez de los mismos, mediante la comparación con datos de otros autores y métodos; y análisis de la zona cercana y de transición. Una vez definido el método de trabajo, los resultados y su discusión son mostrados. La preparación de los datos obtenidos experimentalmente se ha realizado con gran precisión a lo largo del documento. La verificación de los datos obtenidos ha sido afirmativa habiendo obtenido una gran similitud con los datos de otros autores y métodos. En el análisis se han obtenido varios patrones y una ecuación verificada para la región de transición y cercana. En la región cercana, un modelo ha sido encontrado para la auto similitud de la intensidad de turbulencia. En la región de transición, la velocidad media inversa ha sido probada que sigue una función lineal dependiente del número de Reynolds y la geometría de la tobera; y que la auto similitud de la velocidad media sigue el patrón de una distribución Gaussiana. Finalmente, se han evaluado las zonas principales de formación de los remolinos mediante la energía cinética turbulenta. Estos vórtices se forman en la salida de la tobera y la zona de cohesión de la región cercana e intermedia.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61424</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61424/files/TAZ-PFC-2017-001.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/61424/files/TAZ-PFC-2017-001_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Estudio experimental en el campo cercano e intermedio de un flujo turbulento circular</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+    <dc:title xml:lang="en">An experimental study in the near field of a turbulent round free jet</dc:title>
+</oai_dc:dc>

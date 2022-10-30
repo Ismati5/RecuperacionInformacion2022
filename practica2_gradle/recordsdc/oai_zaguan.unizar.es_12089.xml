@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Letosa Fleta, Jesús</dc:contributor>
+    <dc:contributor>Mora Alfonso, Mario</dc:contributor>
+    <dc:creator>Aliaga Sanclemente, Alberto</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Con este proyecto continúo el trabajo que se ha realizado en forma de proyectos fin de carrera en torno al «Prototipo de volante de inercia levitado mediante superconductores» iniciado por Pedro J. Lambea. El trabajo realizado en esta memoria parte de la necesidad de reducir las fuertes oscilaciones que sufre el volante de inercia cuando trabaja a bajas velocidades y a mejorar la levitación del rotor.  Para resolver el problema de la estabilidad radial, se propuso la instalación de unos cojinetes radiales magnéticos en el prototipo. La instalación de un cojinete de esta clase trae fuerzas indeseadas en el eje axial, por lo que fue necesario realizar primero una simulación numérica para conocer cuan grandes serían estas fuerzas y también unos ensayos de tracción sobre el superconductor inferior del prototipo, con el fin de saber si podría compensar las fuerzas axiales del cojinete. El problema de la levitación fue estudiado aprovechando las gráficas de fuerzas obtenidas en los ensayos de tracción antes citados. Mediante el estudio de rigideces se calculó la posición óptima a la que debería instalarse el rotor en la máquina, para poder aprovechar al máximo las fuerzas de los superconductores.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12089</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12089/files/TAZ-PFC-2013-536.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>superconductividad</dc:subject>
+    <dc:subject>femm</dc:subject>
+    <dc:subject>rodamiento magnético</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electrónica Industrial)</dc:subject>
+    <dc:title>Optimización de rodamientos magnéticos basados en superconductores</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

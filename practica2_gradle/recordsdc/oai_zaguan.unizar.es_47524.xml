@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Lázaro Plaza, Jesús</dc:contributor>
+    <dc:contributor>Gil Herrando, Eduardo</dc:contributor>
+    <dc:creator>Peralta Calvo, Elena</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>En este trabajo se ha realizado una detección robusta de pulsos en la señal fotopletismográfica de pulso (PPG), pensando en la viabilidad de utilizar la variabilidad de frecuencia de pulso (PRV) estimada a partir de la PPG como sustituto de la variabilidad de frecuencia cardiaca (HRV) extraída de la serie de tiempos entre latidos consecutivos (intervalo RR) de la señal electrocardiográfica (ECG), en condiciones no estacionarias. El estudio se ha realizado a partir de la PPG registrada en el dedo mediante técnicas de transmisión y en la frente mediante técnicas de reflexión, en dos bases de datos, «tilt test» y prueba de esfuerzo. Realizándose una comparación de los resultados obtenidos en la PRV frente a la HRV mediante los índices clásicos temporales.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/47524</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/47524/files/TAZ-TFG-2015-2688.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías y Servicios de Telecomunicación</dc:subject>
+    <dc:title>Detección robusta de pulsos en la señal fotopletismográfica de reflexión y transmisión en entornos ruidosos y no estacionarios</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

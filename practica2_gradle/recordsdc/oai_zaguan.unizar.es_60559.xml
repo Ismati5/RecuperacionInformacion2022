@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Azcoiti Pérez, Vicente</dc:contributor>
+    <dc:creator>Simón Colomar, Daniel</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Las simetrías locales (simetrías gauge) se han manifestado como un principio fundamental de la naturaleza, a partir del cual se ha podido formular el Modelo Estándar de las interacciones entre partículas. Este modelo nos ha proporcionado predicciones teóricas que se ajustan a los resultados experimentales de manera asombrosa. Sin embargo, asumir las simetrías gauge como principio fundamental de la naturaleza también trae una serie de problemas. La simetría gauge requiere que los bosones gauge (fotón, W+, W-, Z0 y los 8 gluones) sean partículas sin masa, ya que un término de masas para estos bosones en el Lagrangiano viola la simetría local. De estos 12 bosones, resulta que 3 de ellos (W+, W- y Z0) son masivos. Por lo tanto, parece imposible conciliar la teoría que tan buenos resultados había dado con el experimento. El mecanismo de Higgs va a ser la herramienta que nos permitirá conciliar la simetría gauge con el hecho de que existan bosones gauge masivos. Además, los acoplamientos del campo escalar de Higgs con los fermiones (campos de materia) son los que generan la masa de los fermiones. En este trabajo nos ocuparemos de la generación de masa para los bosones gauge respetando la simetría local, y en particular estudia el modelo U(1)- Higgs que genera dinámicamente una masa para el fotón. Este resultará un caso meramente académico, ya que el fotón no tiene masa, pero contiene todos los ingredientes esenciales del mecanismo de Higgs y es técnicamente algo más sencillo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/60559</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Teórica; Área de Física Teórica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/60559/files/TAZ-TFG-2017-029.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Física</dc:subject>
+    <dc:title>El bosón de Higgs en el modelo U(1)-Gauge</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">The Higgs boson in the U(1)-Gauge model</dc:title>
+</oai_dc:dc>

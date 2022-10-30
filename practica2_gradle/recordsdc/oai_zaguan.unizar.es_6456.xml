@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ormad Melero, María Peña</dc:contributor>
+    <dc:creator>Morales Gonzalo, María</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El objetivo principal de este trabajo es evaluar la calidad del agua tratada con el proceso avanzado de oxidación (PAO) FotoFenton y el de precipitación química. La calidad final se analiza principalmente mediante su desinfección, en concreto en la eliminación de Enterococos y Pseudomonas. Se estudia el efecto de la dosis de la sal férrica utilizada, el tiempo de radiación, el pH del medio, así como el orden de los procesos físico-químico y FotoFenton sobre la desinfección. Las bacterias a eliminar, Enterococos y Pseudomonas, son Gram-positiva y Gram-negativa respectivamente. Por lo tanto, se comparara el efecto de los procesos y de las variables de operación sobre los dos diferentes tipos de bacterias. El tratamiento más efectivo, en términos de desinfección, corresponde a aquel en el que se realiza en primer lugar el proceso de coagulación-floculación-decantación seguido del FotoFenton con una dosis de fe3+ inicial de 15 mg/l, 25 mg/l de H2O2, 120 minutos de radiación solar artificial y pH 5. Con estas condiciones de operación se consigue eliminar: 4,6 unidades logarítmicas de Enterococos, 5 unidades logarítmicas de Pseudomonas, 91% de sólidos en suspensión y 96% de turbidez. La eliminación de Pseudomonas se produce a una velocidad superior que la de Enterococos, las constantes cinéticas obtenidas en el estudio cinético son aproximadamente un 50% superiores para el caso de las Pseudomonas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6456</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Tecnologías del Medio Ambiente</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6456/files/TAZ-TFM-2011-062.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>enterococos</dc:subject>
+    <dc:subject>pseudomonas</dc:subject>
+    <dc:subject>desinfección</dc:subject>
+    <dc:subject>fotofenton</dc:subject>
+    <dc:subject>coagulación - floculación</dc:subject>
+    <dc:subject>Máster Universitario en Iniciación a la Investigación en Ingeniería Química y del Medio Ambiente</dc:subject>
+    <dc:title>Eliminación de Enterococos y Pseudomonas en aguas de salida de depuradora mediante procesos de coagulación-floculación y FotoFenton</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

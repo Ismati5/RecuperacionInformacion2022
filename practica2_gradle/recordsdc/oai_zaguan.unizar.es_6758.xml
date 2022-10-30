@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Alcrudo Sánchez, Francisco</dc:contributor>
+    <dc:contributor>Azcona Pérez, Javier</dc:contributor>
+    <dc:creator>Azcona Pérez, Javier</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Simulación de un compresor centrífugo con flujo compresible y desarrollo de una herramienta de mallado.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6758</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6758/files/TAZ-PFC-2011-753_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6758/files/TAZ-PFC-2011-753.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>simulación</dc:subject>
+    <dc:subject>compresor centrífugo</dc:subject>
+    <dc:subject>flujo compresible</dc:subject>
+    <dc:subject>mallador</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Simulación del flujo en una etapa de un compresor</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

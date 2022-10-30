@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Nogueras Iso, Francisco Javier</dc:contributor>
+    <dc:contributor>Zarazaga Soria, Francisco Javier</dc:contributor>
+    <dc:creator>Lacasta Miguel, Javier</dc:creator>
+    <dc:date>2009</dc:date>
+    <dc:description>Esta tesis doctoral analiza los principales problemas que afectan a los sistemas de descubrimiento de las infraestructuras de información en relación con la gestión de ontologías terminológicas. Primeramente, se centra en los problemas de representación de los modelos terminológicos donde un marco de representación es requerido. Seguidamente, analiza las necesidades de adquisición de ontologías terminológicas. Especialmente, se centra en la necesidad de crear, relacionar, e integrar los modelos requeridos por una infraestructura. En tercer lugar, profundiza en el problema de acceso a los modelos terminológicos vía servicios y componentes interoperables. Como respuesta a dichos problemas, esta tesis propone un marco de representación común para ontologías terminológicas, una serie de métodos y técnicas que facilitan la adquisición e integración de modelos terminológicos, y un conjunto de diseños arquitecturales para facilitar la gestión y el acceso a dichos modelos. Finalmente, los marcos de representación, metodologías, patrones arquitecturales, procesos, y algoritmos diseñados para solucionar los problemas detectados se han aplicado al contexto de descubrimiento de información de las infraestructuras de datos espaciales. This PhD thesis focuses on the main problems that affect the discovery systems of information infrastructures to manage terminological models. Firstly, it analyzes the representation issues of terminological models in a context where a uniform representation is required. Secondly, it focuses on the need of acquisition of terminological ontologies. Specially, it analyzes the need to create, relate, and integrate the models required for an infrastructure. And thirdly, it deepens on the problem of accessing these models in an effcient manner via interoperable services and components. As solution to such problems, this thesis proposes a common representation framework for terminological ontologies, a set of methods and techniques that facilitates the acquisition and integration of terminological models, and a set of architectural patterns that facilitates the management and access to such models. Finally, the frameworks, methodologies, architectural patterns, processes and algorithms designed to solve the detected issues have been applied to the discovery context of spatial data infrastructures.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/3385</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/3385/files/TESIS-2009-075.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>Modelos de organizacion del conocimiento</dc:subject>
+    <dc:subject>Ontologias</dc:subject>
+    <dc:subject>Sistemas de información</dc:subject>
+    <dc:subject>Infraestructuras de datos Espaciales</dc:subject>
+    <dc:subject>Knowledge organization systems</dc:subject>
+    <dc:subject>Ontologies</dc:subject>
+    <dc:subject>Information systems</dc:subject>
+    <dc:subject>Spatial data infrastructures</dc:subject>
+    <dc:title>Contributions to the problem of knowledge management in Spatial Data Infrastructures</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

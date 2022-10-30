@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ibáñez Marín, Pablo</dc:contributor>
+    <dc:creator>Escuín Blasco, Carlos</dc:creator>
+    <dc:creator>Navarro Torres, Agustín</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>El ahorro energético es un objetivo de primer orden en la investigación para el desarrollo de nuevos procesadores. La disminución de la tensión de alimentación consigue este objetivo pero, llegado a un límite se producen errores en las celdas de bit. El primer componente que falla es la cache de último nivel (LLC). Existen numerosas propuestas para mitigar la pérdida de prestaciones consecuencia de estos errores. Estas propuestas van desde la construcción de las celdas de forma robusta para evitar que se produzcan los fallos hasta complejas soluciones a nivel de arquitectura para mitigar el efecto que tienen estos fallos en el rendimiento final del procesador. Existen diversas soluciones arquitecturales: simples como block disabling que deshabilita los recursos defectuosos y más complejas como bdot que requieren modificar el protocolo de coherencia. Además, todas estas técnicas pueden verse optimizadas incluyendo políticas de reemplazo y modificaciones en la estructura de las memorias caches. En este trabajo se realizará un estudio sobre técnicas para mejorar el funcionamiento de la LLC a bajo voltaje y, posteriormente, se analizará una nueva propuesta de investigación consistente en utilizar una organización desacoplada para los almacenes de etiquetas y datos. Para ello, se utilizará un simulador detallado a nivel de ciclo basado en el entorno Gem5 de la Universidad de Michigan. Se modelará la nueva propuesta y otras del estado del arte sobre un sistema multiprocesador en chip con una jerarquía de memoria formada por caches privadas y una LLC compartida entre los procesadores. Además, se crearán cargas de trabajo monoprocesador y multiprocesador basadas en SPEC-2k6 y se usarán para realizar la comparación entre las propuestas en términos de tasa de fallos e instrucciones ejecutadas por unidad de tiempo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61204</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Arquitectura y Tecnología de Computadores</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61204/files/TAZ-TFG-2016-2916.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>Diseño y evaluación de las memorias cache para un chip multicore alimentado a muy baja tensión.</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Design and evaluation of cache memories for a chip multicore powered at very low voltage.</dc:title>
+</oai_dc:dc>

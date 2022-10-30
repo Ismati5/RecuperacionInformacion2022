@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Aznar, José Manuel</dc:contributor>
+    <dc:contributor>Valero Lázaro, Clara</dc:contributor>
+    <dc:creator>Cóndor Salgado, Mar</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El presente proyecto fin de carrera se desarrolla en el Área de Mecánica de Medios Continuos y Teoría de Estructuras, en el departamento de Ingeniería Mecánica de la Universidad de Zaragoza, en el campo de la Biomecánica computacional.   Los seres vivos están formados por unidades mínimas llamadas células. Todas las funciones químicas y fisiológicas básicas, por ejemplo, la reparación, el crecimiento, el movimiento, la inmunidad, la comunicación, y la digestión, ocurren en el interior de la célula.  Por ello, numerosos estudios de investigación, se han basado en la comprensión del funcionamiento de cada una de estas funciones celulares. Este proyecto se va a centrar en estudiar el movimiento y evolución de las células, en concreto del fenómeno de la adhesión focal, como respuesta a diferentes estímulos mecano-químicos que simulan la contracción celular. Para ello se determinará el grado de adhesión mecánica entre una célula y un sustrato cualquiera, mediante un modelo computacional continuo basado en una interfaz a través del método de los elementos finitos, en concordancia a estudios realizados con anterioridad sobre la cinética de la adhesión focal.   Se formulará un elemento finito interfaz en el código FORTRAN, que será implementado con una rutina de usuario UMAT, en el código comercial de elementos finitos ABAQUS. Una vez creado el modelo computacional 3D, con la ayuda de ABAQUS CAE se definirán distintos estados de cargas que simulen en lo posible una contracción real, con el fin de analizar el comportamiento del modelo. Finalmente, se simulará el avance o retroceso de la Adhesión Focal en 2D y 3D, evaluando el grado de adhesión generado sobre la interfaz para cada caso.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10430</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10430/files/TAZ-PFC-2013-196.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>mecánica celular</dc:subject>
+    <dc:subject>mecanobiología</dc:subject>
+    <dc:subject>simulación por elementos finitos</dc:subject>
+    <dc:subject>modelo de interfaz</dc:subject>
+    <dc:subject>adhesión focal</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Simulación por elementos finitos de la adhesión mecánica entre célula y sustrato</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

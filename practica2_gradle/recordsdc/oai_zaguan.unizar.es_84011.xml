@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Anel Bernal, Luis Alberto</dc:contributor>
+    <dc:contributor>Moreno Loshuertos, Raquel</dc:contributor>
+    <dc:creator>Marco Brualla, Joaquín</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description> La remodelación del metabolismo energético es una de las características biológicas que presentan las células tumorales, pasando de obtener energía a través de la fosforilación oxidativa a obtenerla mediante la fermentación láctica, incluso en presencia de oxígeno, fenómeno conocido como efecto Warburg. Este hecho puede ser aprovechado para emplearlo como diana antitumoral, mediante el uso de fármacos metabólicos.&lt;br /&gt;   En este trabajo, por una parte, se han utilizado los fármacos dicloroacetato (DCA) y metformina para sensibilizar a tumores de origen hematológico a la acción citotóxica de linfocitos T citotóxicos (CTL) y células NK expandidas y activadas in vitro. El DCA susceptibiliza a la acción de eCTL y eNK a las células de mieloma múltiple MM.1S, que expresan p53 wild type, pero en las células de leucemia linfocítica crónica de tipo B (B-CLL) Mec-1 WT y Mec-1 Bcl-xL, que expresan p53 mutado, el efecto es el contrario. La susceptibilización de las células MM.1S en este caso depende del aumento en la expresión de ICAM-1, así como del aumento en la expresión de DR5 y de la acción de TRAIL en el caso de las eNK. La metformina, por su parte, susceptibiliza a las células Mec-1 WT y Mec-1 Bcl-xL a la acción de eNK y eCTL, pero no así a las células MM.1S. La susceptibilización en este caso depende de la línea celular y de la célula efectora, viéndose implicados LFA-1-ICAM-1, TRAIL y sus receptores y el sistema PD-1-PD-L1.&lt;br /&gt;   El DCA también fue capaz de sensibilizar a tumores hematológicos, tanto in vitro como en muestras de pacientes de B-CLL, a la acción del fármaco ibrutinib, un inhibidor de la tirosina quinasa de Bruton.&lt;br /&gt;   Además de esto, se ha estudiado la correlación entre el metabolismo glucídico de los tumores y su agresividad usando como modelo la línea celular L929dt, derivada del fibroblasto de ratón L929, que sufrió un proceso espontáneo de pérdida de adhesión a la placa de cultivo. Los resultados demuestran que los defectos en las mitocondrias de las células L929dt les conducen a una remodelación completa de su metabolismo, favoreciendo la pérdida de la adhesión, la resistencia al estrés oxidativo y un mayor fenotipo tumorigénico y metastásico.&lt;br /&gt;</dc:description>
+    <dc:description>&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/84011</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/84011/files/TESIS-2019-164.pdf</dc:relation>
+    <dc:subject>oncologia</dc:subject>
+    <dc:subject>metabolismo energetico</dc:subject>
+    <dc:subject>inmunologia</dc:subject>
+    <dc:title>Metabolismo glucídico de los tumores y distintas aproximaciones de terapia antitumoral</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

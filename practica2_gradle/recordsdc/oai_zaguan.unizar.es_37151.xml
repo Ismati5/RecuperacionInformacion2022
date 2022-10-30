@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Latorre Díez, Marcos</dc:contributor>
+    <dc:contributor>Mena Nieto, Eduardo</dc:contributor>
+    <dc:creator>Serrano Sanz, Carlos</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>El trabajo realizado ha consistido en realizar un módulo nuevo en un producto propio de la empresa Hiberus Tecnología. El producto se trata de una aplicación web llamada Hermes que sirve para gestionar todos los aspectos relativos a la configuración de un portal de comercio electrónico (productos, pedidos, contenidos…). El módulo realizado se encarga de externalizar la información de los productos de los portales de comercio electrónico de manera configurable por el administrador de cada portal. La externalización se traduce a creación de archivos y su compartición. Estos archivos se denominan feeds y contienen la información necesitada para cada situación.  El objeto de la generación de feeds es la compartición de los mismos con plataformas externas para que estas dispongan de la información deseada, es por eso que la personalización de estos feeds es tan importante, ya que cada plataforma demanda la información de manera única. El módulo permite la configuración del esqueleto del fichero generado, con que datos se va a rellenar, el formato del fichero resultante, que productos aparecerán en cada fichero…. También permite generar los feeds en diferentes idiomas según se requiera. Otra funcionalidad que ofrece el módulo es la frecuencia de generación de los feeds. Ya que cada plataforma puede demandar la renovación de la información compartida cada una cierta frecuencia, el módulo permite generar cada feed con una frecuencia distinta y configurable según se requiera. Por último, el sistema cuenta con una funcionalidad de backup, que almacena información acerca de cada proceso de generación de un feed, de modo que si hay algún fallo es más fácil detectarlo. Además guarda una copia de cada feed generado por si se necesita recuperarlo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/37151</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/37151/files/TAZ-PFC-2015-293.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Generación automática configurable de feeds</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

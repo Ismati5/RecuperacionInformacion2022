@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Arbones Mainar, Jose Miguel</dc:contributor>
+    <dc:contributor>Iturralde Navarro, María</dc:contributor>
+    <dc:creator>Torres Pérez, Elena</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>La apolipoproteína E (APOE) tiene 299 aminoácidos y se asocia con las lipoproteínas, siendo un componente esencial en el aclaramiento de los lípidos de la circulación. En humanos el gen de la APOE es polimórfico, presentando tres alelos: APOE*2, APOE*3 y APOE*4. Estas isoformas sólo difieren en uno o dos aminoácidos en la posición 112 y 158, teniendo APOE2 dos cisteínas en ambas posiciones, APOE3 una cisteína en la 112 y una arginina en la 158, y APOE4 arginina en ambas posiciones. Este cambio de residuos influye tanto en las propiedades físico-químicas de las isoformas como en sus efectos sobre el metabolismo humano, estando las distintas isoformas asociadas con una predisposición al desarrollo de enfermedades cardiovasculares, neurológicas e infecciosas. Para este trabajo se han utilizado células mesenquimales diferenciadas a adipocitos, a las que se les introdujo los alelos de la APOE humana mediante el uso de lentivirus. También se ha estudiado el tejido adiposo pardo de ratones ingenierizados genéticamente para expresar las isoformas de la APOE humana. Mediante estudios metabólicos y análisis de niveles de mRNA y proteína, se ha demostrado que la expresión de APOE presenta un efecto diferencial dependiendo de la isoforma expresada y el tejido donde se produce la expresión. En adipocitos la expresión de la APOE2 provoca mayor adipogénesis, acumulación de lípidos y lipogénesis. Por otro lado, la APOE4 tiene mayores efectos en el tejido graso pardo, donde aumenta la expresión de UCP1. Como conclusión, se puede decir que los vectores lentivirales son herramientas muy potentes para modificar la expresión de genes y el estudio de sus funciones metabólicas. La sobreexpresión de APOE4 podría ser beneficiosa para inducir termogénesis y combatir la obesidad inducida por la dieta, aunque se precisan más estudios para determinar los efectos secundarios y la eficacia de estos tratamientos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64722</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Bioquímica y Biología Molecular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64722/files/TAZ-TFM-2013-682.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster en Biología Molecular y Celular</dc:subject>
+    <dc:title>Efecto de las distintas isoformas de la apolipoproteína E en el metabolismo de los adipocitos</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Domínguez Vicente, Alberto</dc:contributor>
+    <dc:contributor>Barragán Pérez, Luis Angel</dc:contributor>
+    <dc:creator>Sousa Girón, Miguel</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>Este trabajo fin de grado está enfocado en la aplicación de control de potencia de dos cargas en un doble semipuente resonante serie, con condensador de resonancia común. A día de hoy el problema es resuelto mediante el control basado en planta inversa. Nos planteamos resolver el problema trasladándolo al plano de la optimización numérica.  Comenzamos implementando un conjunto de algoritmos de búsqueda directa y aumentando a posteriori la complejidad, introducimos algoritmos basados en derivadas de primer y segundo orden.  Todos ellos serán modificados para ajustarlos a nuestra aplicación donde están presentes una serie de restricciones como garantizar las conmutaciones ZVS o respetar la frecuencia máxima de conmutación.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/47615</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/47615/files/TAZ-TFG-2015-1775.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías y Servicios de Telecomunicación</dc:subject>
+    <dc:title>Control de potencia mediante algoritmos de optimización de dos inversores acoplados en aplicaciones de inducción doméstica</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Castejón Herrer, Luis</dc:contributor>
+    <dc:contributor>Valladares Hernando, David</dc:contributor>
+    <dc:creator>Segura Moreno, Jesús</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>En este presente Trabajo Fin De Grado, se ha desarrollado un análisis numérico de los componentes estructurales atornillados de un prototipo de semirremolque modular mediante elementos finitos. Para ello se han utilizado submodelos de las uniones atornilladas estructurales, los cuales se encuentran sometidos a las condiciones de carga más desfavorables que se producen durante el funcionamiento del semirremolque. Este proceso de análisis, parte de un análisis numérico global del semirremolque en el cual se novelizaron las uniones de una forma simplificada, sin la utilización de la tornillería. A partir de esta información, se han determinado las piezas más solicitadas en cada unión bajo los casos de carga más desfavorables. Para la modelización de las uniones atornilladas, se partió de la información facilitada por la empresa, mediante la cual se han realizado submodelos en detalle de cada una de las uniones utilizando el software comercial de elementos finitos Patran.  Como herramienta de cálculo y post-proceso se ha utilizado el software Abaqus, el cual tiene herramientas especificas que permiten la utilización de la técnica de los submodelos. Estas herramientas, han permitido aplicar las condiciones de cargas más desfavorables obtenidas en el estudio sobre comportamiento global del semirremolque en los submodelos.   Finalmente  para cada uno de los casos calculados, se ha analizado el comportamiento de los submodelos y se han determinado posible mejoras en el caso que fueran necesarias.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/48543</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería e Infraestructura de los Transportes</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/48543/files/TAZ-TFG-2015-3732.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/48543/files/TAZ-TFG-2015-3732_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Análisis de submodelos de componentes atornillados en semirremolque modular ante casos de carga más desfavorables</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

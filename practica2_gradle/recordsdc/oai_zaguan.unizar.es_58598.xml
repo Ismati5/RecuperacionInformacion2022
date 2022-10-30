@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Nogueras Iso, Francisco Javier</dc:contributor>
+    <dc:creator>Romero Jurado, Óscar</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>Los metadatos son datos sobre los datos; un conjunto de elementos que, a partir de una semán-tica normalizada, hacen una descripción bibliográfica de recursos electrónicos. Nacen, pues, de la necesidad de recuperar la información electrónica tanto dispersa y se han desarrollado, princi-palmente, para describir el contenido y la localización de la información presente a Internet. El objetivo de este proyecto de fin de máster es establecer una metodología de actualización de un repositorio de metadatos para la descripción de relaciones jerárquicas entre conjuntos de da-tos espaciales en el contexto de IDEAragon, que se ha desarrollado en diversos procesos tales como: la definición de una metodología de actualización y mejora de un repositorio de metadatos para la descripción de relaciones jerárquicas, la  definición de un protocolo de creación de un servicio CSW de Geonetwork para la recolección de datos de diversas fuentes y la aplicación de las metodologías a un escenario real: harvesting y la actualización de los repositorios de metadatos del Instituto Geográfico de Aragón. Tras realizar todos estos procesos se han obtenido diversos resultados mayormente positivos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/58598</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio; Área de Análisis Geográfico Regional</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/58598/files/TAZ-TFM-2016-1149.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Tecnologías de la Información Geográfica para la Ordenación del Territorio: Sistemas de Información Geográfica y Teledetección</dc:subject>
+    <dc:title>Metodología de actualización de un repositorio de metadatos para la descripción de relaciones jerárquicas entre conjuntos de datos espaciales en el contexto de IDEAragon.</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Methodology for updating a metadata repository in order to describe hierarchical relationships between spatial datasets in the context of IDEAragon</dc:title>
+</oai_dc:dc>

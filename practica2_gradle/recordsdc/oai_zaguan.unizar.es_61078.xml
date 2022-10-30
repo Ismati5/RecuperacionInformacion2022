@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Moreno Gómez, Francisco</dc:contributor>
+    <dc:creator>Ripoll Romero, Jose Maria</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>El proyecto abordado en este documento trata sobre el estudio de diseño de un basculante para una motocicleta de la competición Motostudent cuarta edición El cual ha sido diseñado y creado por y para el equipo de estudiante de la Universidad de Zaragoza de la Escuela de Ingeniería y Arquitectura inscritos en esta competición con el nombre de Motostudent Unizar. Se realiza un seguimiento de los hitos alcanzados día a día para conseguir el prototipo que finalmente será implantado en la motocicleta. El estudio aborda una comparativa de los diferentes materiales y tipos de basculantes. Dos modelos de chapa delgada uno en acero de alta resistencia y otro en aluminio mientras que el tercero es una mejora del basculante tubular creado para la motocicleta del equipo Motostudent Unizar en la tercera edición de la competición. Los diseños han sido realizados mediante la herramienta de diseño asistido por ordenador “Solidworks 2015” y posteriormente ensayados con la misma herramienta por el medio de elementos finitos (MEF) que el programa CAD incorpora. Para la elección del mejor diseño creado en este proyecto se han tenido en cuenta no solo los factores estructurales sino que también se ha estudiado los medios de fabricación al alcance del equipo así como los costes de dicha fabricación. El basculante aquí estudiado es un pieza dentro de un ensamblaje de más de 1.000 elementos por lo que es imprescindible contar con los demás miembros del equipo y sus diferentes departamentos; que en mayor o en menor medida están ligados con el diseño y la fabricación, de tal forma que el basculante creado pueda integrarse adecuadamente con el resto de elementos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61078</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61078/files/TAZ-TFG-2016-4482.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Diseño de un basculante para una motocicleta de competición motostudent cuarta edición</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Swingarm Design for a Motorbike of the Motostudent fourth Edition Competition</dc:title>
+</oai_dc:dc>

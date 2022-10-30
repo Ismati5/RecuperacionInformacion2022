@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Montorio Llovería, Raquel</dc:contributor>
+    <dc:creator>Parra González, Víctor Manuel</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>La agricultura de subsistencia ha ido desapareciendo dando paso a una agricultura intensiva. Esta ha evolucionado hacia la llamada agricultura de precisión, fomentada por la búsqueda de una mayor productividad. La Teledetección ha ayudado a este proceso mediante la captura de imágenes asistidas por satélites y, más tarde, debido a la necesidad de un mayor avance, mediante UAV (Unmanned Aerial Vehicle- vehículo aéreo no tripulado) ofreciendo así una mayor resolución espacial. En el presente proyecto se tiene como objetivo principal estimar la produción de trigo y demás variables agronómicas a partir de información espectral obtenida mediante un UAV con resolución espacial de 10 centímetros. Los resultados han mostrado que la imagen analizada, parcela cultivada con trigo blando (Triticum aestivum), presenta una infraestimación en las bandas del rojo y del verde, respecto a la signatura espectral del trigo, y que la producción no muestra unos resultados esperables a los distintos tratamiento de abonado aplicados a cada una de las subdivisiones parcelarias. Aún así, se concluye que el mejor proceso para la estimación de la producción de trigo es la utilización del índice de Vegetación NDVI mediante la metodología de extracción básica eliminando solo los píxeles mixtos (metodología 1). También se observa una relación entre los índices de Vegetación NDVI y RVI con el abonado aplicado mostrando, por tanto, una relación con la vigorosidad de la planta.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/58585</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio; Área de Geografía Física</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/58585/files/TAZ-TFM-2016-1178.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Tecnologías de la Información Geográfica para la Ordenación del Territorio: Sistemas de Información Geográfica y Teledetección</dc:subject>
+    <dc:title>Estimación del rendimiento de trigo con imágenes UAV: aplicación en el contexto de la agricultura de precisión.</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Wheat yield estimation with UAV images: ap-plication in the precisión agricultura context</dc:title>
+</oai_dc:dc>

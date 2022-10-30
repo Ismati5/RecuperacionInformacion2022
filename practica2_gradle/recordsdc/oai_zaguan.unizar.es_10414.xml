@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Valenzuela Galván, Margarita</dc:contributor>
+    <dc:contributor>Yagüe Fabra, José Antonio</dc:contributor>
+    <dc:creator>Chueca Pablo, David</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El presente proyecto fin de carrera (PFC), trata sobre la parte de validación experimental de un sistema de posicionamiento 2D de elevada precisión y resolución nanométrica, en un rango mayor que el permitido por soluciones ya disponibles. La arquitectura básica del sistema diseñado en anteriores trabajos, se compone de una parte móvil entre dos partes fijas, obteniendo un movimiento relativo entre la primera y las dos últimas. Este movimiento es medido gracias a la incorporación de un conjunto de interferó-metros láseres y espejos dispuestos apropiadamente para ello. El objetivo final de la fabri-cación de este sistema será el de la integración de un Microscopio de Fuerzas Atómicas (AFM). De este modo, se pretende que sea posible caracterizar superficies a nivel atómico en un amplio rango. En este trabajo, se han determinado cuáles son las zonas críticas de la estructura. Se ha realizado un análisis modal para determinar las frecuencias de resonancia, utilizando el software Ansys Workbench como herramienta de cálculo por elementos finitos. Por otro lado, mediante un análisis estático, se han determinado los errores de posicionamiento de la parte móvil debido a deformaciones en el rango de movimiento. Además, se ha comprobado la resistencia en determinadas zonas sometidas a los mayores esfuerzos. Gracias a los re-sultados de dichos análisis se realizaron las modificaciones de diseño oportunas. También, se ha propuesto una nueva arquitectura en el diseño del sistema. En el mismo, se tienen en cuenta todos los resultados obtenidos y se ha tratado de dar una solución integral a los problemas encontrados en el modelo original. No obstante, también da lugar a incon-venientes respecto al primero, los cuales deben ser considerados en caso de que se plantee la posibilidad de adoptar la alternativa propuesta y ver así la viabilidad de llevarla a cabo. Por último, cabe destacar que la plataforma móvil queda suspendida sobre una película de aire creada por unos cojinetes de aire (air bearings) dispuestos apropiadamente; de esta forma, se pretende un desplazamiento con rozamiento casi nulo. La altura de vuelo, de unas pocas micras, se controla mediante unos sensores capacitivos cuyos ensayos experimenta-les en el laboratorio mostraron problemas de ruido en la medición. Es por ello que, en este trabajo, se han repetido dichos ensayos introduciendo modificaciones en el montaje experi-mental para tratar de minimizar el problema observado anteriormente.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10414</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10414/files/TAZ-PFC-2013-185_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/10414/files/TAZ-PFC-2013-185.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>metrología</dc:subject>
+    <dc:subject>ingeniería de precisión</dc:subject>
+    <dc:subject>nano-posicionamiento</dc:subject>
+    <dc:subject>bidimensional</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Sistema de posicionamiento 2D con resolución nanométrica: optimización del diseño para la mejora de especificaciones</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

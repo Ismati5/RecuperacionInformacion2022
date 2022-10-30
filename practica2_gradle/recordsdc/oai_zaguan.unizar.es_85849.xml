@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Rodrigo Sauco, Fernando</dc:contributor>
+    <dc:creator>de Tord Basterra, Martín</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>El presente trabajo se centra en una revisión y análisis comparativo de la reforma del Impuesto Sobre la Renta de las Personas Físicas español que entró en vigor en 2015. El objetivo principal es comparar la reforma que llevó a cabo el Gobierno de España con una serie de propuestas de reforma publicadas durante el mismo periodo por diferentes expertos del campo de la fiscalidad. Tras la presentación de cada una de las reformas, se procede a realizar la simulación de los escenarios de reforma propuestos con el programa econométrico STATA. Se ha trabajado con una amplia muestra de microdatos correspondiente a las declaraciones de IRPF en el territorio de la Comunidad Autónoma de Aragón del año 2015, facilitadas por el Ministerio de Hacienda y el Instituto de Estudios Fiscales. Tras la simulación, se lleva a cabo un análisis cuantitativo de forma individual y conjunta de las propuestas simuladas desde el punto de los principios impositivos de suficiencia recaudatoria, equidad, eficiencia y sencillez.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/85849</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Análisis Económico; Área de Fundamentos del Análisis Económico</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/85849/files/TAZ-TFG-2019-361.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Economía</dc:subject>
+    <dc:title>Ejercicios de microsimulación con el Panel de Declarantes del IRPF: una aplicación en torno a la reforma del tributo de 2015.</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Microsimulation exercises with the Spanish Personal Income Tax (IRPF) filer panel: an application about the tax reform of 2015.</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Esteve, José Vicente</dc:contributor>
+    <dc:contributor>Falceto Blecua, Fernando</dc:contributor>
+    <dc:creator>Ramírez Díaz, Enrique</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>En este trabajo se estudia el Hamiltoniano de Coulomb mediante la teoría de los índices de defecto de Von Neumann. El objetivo final será obtener las extensiones de dicho Hamiltoniano estudiando en qué casos alguna de estas coincide con la habitual. También hallaremos el espectro de energías exacto del átomo de hidrógeno de forma que se corresponda con haber incluído en el Hamiltoniano un término de Darwin. Finalmente compararemos este último resultado con los valores de energía que se obtendrían mediante teoría de perturbaciones y se comentará brevemente en qué casos se rompe la simetría SO(4) del problema.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87430</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Teórica; Área de Física Teórica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87430/files/TAZ-TFG-2019-2672.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Física</dc:subject>
+    <dc:title>Extensiones autoadjuntas del Hamiltoniano de Coulomb</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Self-adjoining extensions of Coulomb Hamiltonian</dc:title>
+</oai_dc:dc>

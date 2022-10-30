@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Orrite Uruñuela, Carlos </dc:contributor>
+    <dc:creator>Martínez del Rincón, Jesús</dc:creator>
+    <dc:date>2008</dc:date>
+    <dc:description>La presente tesis describe la problemática del seguimiento de personas desde tres puntos de vista: puntual, regional y modelado de la figura humana.  Nuestro objetivo consiste en el estudio y entendimiento de estos tres diferentes, así como en la selección del más adecuado, dependiendo de la aplicación y la problemática a resolver. La problemática fijará las necesidades e impondrá las limitaciones para cada momento, bien sean debidas a factores internos (múltiples objetos, oclusiones, posición de la cámara) o externos (coste, viabilidad técnica). Por tanto, el énfasis de este trabajo reside en el desarrollo de un sistema capaz de seguir una o múltiples personas en secuencias de vídeo, con diferentes grados de entendimiento dependiendo de la aplicación específica a la que vaya dirigido, las necesidades y los medios disponibles. El sistema debe ser capaz de trabajar en escenarios reales, tales como vídeo-vigilancia, análisis deportivo o diagnosis médica.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/3220</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/3220/files/TESIS-2009-052.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>Seguimiento</dc:subject>
+    <dc:subject>objetivos múltiples</dc:subject>
+    <dc:subject>multi cámara</dc:subject>
+    <dc:subject>extracción de características</dc:subject>
+    <dc:subject>filtro de partículas</dc:subject>
+    <dc:subject>modelos articulados</dc:subject>
+    <dc:subject>análisis deportivo</dc:subject>
+    <dc:subject>vídeo-vigilancia</dc:subject>
+    <dc:subject>análisis del movimiento humano</dc:subject>
+    <dc:subject>Tracking</dc:subject>
+    <dc:subject>multiple targets</dc:subject>
+    <dc:subject>multi camera</dc:subject>
+    <dc:subject>feature extraction</dc:subject>
+    <dc:subject>particle filter</dc:subject>
+    <dc:subject>articulated models</dc:subject>
+    <dc:subject>sport analysis</dc:subject>
+    <dc:subject>video-surveillance</dc:subject>
+    <dc:subject>human gait analysis </dc:subject>
+    <dc:title>Feature-based human tracking: from coarse to fine</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

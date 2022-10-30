@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Cassinelli, Nicolás</dc:contributor>
+    <dc:contributor>Lucía Gil, Óscar</dc:contributor>
+    <dc:creator>Clavero Yebra, Rubén</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El presente proyecto se ha realizado en nB nanoScale Biomagnetics, empresa de base tecnológica especializada en el desarrollo y fabricación de instrumentos para calentamiento inductivo de nanomateriales. Esta tecnología combina el calentamiento por inducción magnética con los nuevos materiales provenientes de la nanotecnología, como las nanopartículas. La empresa cuenta con un conjunto de instrumentos de desarrollo propio orientados a la investigación en laboratorio de las aplicaciones de estas técnicas como son la hipertermia magnética o la liberación controlada de fármacos, entre otras. El componente más característico de un equipo de este tipo es el elemento generador de campo magnético, típicamente un inductor funcionando en un circuito resonante LC. Las características de este componente, como su geometría, parámetros eléctricos, o sus especificaciones constructivas, junto con su circuito de adaptación de impedancia determinan en gran medida muchos de los parámetros de diseño del conjunto del equipo. La empresa tenía la necesidad de explorar nuevas posibles configuraciones de circuito de salida para equipos de inducción, a efectos de contar con nuevas alternativas de cara a los diseños de nuevos productos. Por este motivo, se plantea el siguiente proyecto fin de carrera que tiene como principal objetivo el estudio comparativo de las diferentes etapas electrónicas de potencia resonantes aplicadas al calentamiento por inducción.  Para llevar a cabo este objetivo se plantean las siguientes tareas; -Se realiza una búsqueda y preselección de posibles topologías de circuitos resonantes para equipos de inducción.  -Se realiza un análisis mediante simulación de cada una de las topologías elegidas, utilizando el programa MATLAB. -Se definen y evalúan las principales figuras de mérito que sirven para la elección de la topología más adecuada. -Por último, se implementa y verifica experimentalmente el desempeño de la topología que se considera de mayor potencial para el desarrollo de futuros dispositivos de interés industrial para la empresa.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12892</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12892/files/TAZ-PFC-2013-676.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/12892/files/TAZ-PFC-2013-676_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>circuitos resonantes</dc:subject>
+    <dc:subject>inducción</dc:subject>
+    <dc:subject>calentamiento inductivo</dc:subject>
+    <dc:subject>nanopartículas magnéticas</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Análisis y comparación de topologías de circuitos resonantes de potencia para calentamiento inductivo de nanopartículas magnéticas</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

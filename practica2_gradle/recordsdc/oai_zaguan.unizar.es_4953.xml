@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Abad Secades, Alberto</dc:contributor>
+    <dc:contributor>Gayán Sanz, Pilar</dc:contributor>
+    <dc:contributor>Herguido Huerta, Francisco Javier</dc:contributor>
+    <dc:creator>Adánez Rubio, Iñaki</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>El proceso CLOU (Chemical Looping with Oxygen Uncoupling, CLOU) es una tecnología de combustión de sólidos con transportadores sólidos de oxigeno con separación inherente del CO2 que permite reducir la penalización energética y los costes de captura del CO2. El proceso CLOU se basa en la tecnología CLC (Chemical-Looping Combustion) en la que se transfiere el oxígeno del aire al combustible por medio de un transportador de oxígeno en forma de óxido metálico. Para ello se utilizan dos reactores de lecho fluidizado interconectados. En el reactor de reducción el óxido metálico aporta el oxígeno necesario para la combustión generando CO2 y vapor de agua. Tras la condensación del agua se obtiene una corriente de CO2 prácticamente pura. El transportador de oxígeno reducido se regenera de nuevo al óxido metálico inicial con aire en el reactor de oxidación, obteniéndose a la salida una corriente de N2 junto con el O2 introducido sin reaccionar. La entalpía generada entre ambos reactores es la misma que en la combustión convencional. El proceso CLOU utiliza la capacidad que tienen algunos óxidos metálicos de generar oxigeno gaseoso a altas temperaturas. El oxígeno generado reacciona directamente con el combustible sólido, evitando la etapa limitante de gasificación necesaria en un proceso CLC convencional con sólidos. En este trabajo se han desarrollado diferentes transportadores sólidos de oxígeno basados en CuO adecuados para el proceso CLOU. Para ello se prepararon, por diferentes métodos, transportadores de oxígeno utilizando diferentes soportes y contenidos en CuO. Los transportadores se caracterizaron física y químicamente por diferentes técnicas (XRD, SEM-EDX, BET, etc.) antes y después de su uso. Se determinaron las velocidades de descomposición y regeneración del sólido en termobalanza a diferentes temperaturas de reacción y concentraciones de oxígeno. Finalmente se evaluó su comportamiento en un lecho fluidizado discontinuo con respecto a las conversiones de descomposición y oxidación, así como su respuesta frente a la aglomeración y la atrición durante un elevado número de ciclos redox.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4953</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Ingeniería Química</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4953/files/TAZ-TFM-2010-032.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/4953/files/TAZ-TFM-2010-032_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>CLC</dc:subject>
+    <dc:subject>Transportadores de Oxígeno</dc:subject>
+    <dc:subject>Carbón</dc:subject>
+    <dc:subject>Captura de CO2</dc:subject>
+    <dc:subject>CLOU</dc:subject>
+    <dc:subject>Máster Universitario en Iniciación a la Investigación en Ingeniería Química y del Medio Ambiente</dc:subject>
+    <dc:title>Combustión de carbón con captura de CO2 utilizando transportadores sólidos de oxígeno</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

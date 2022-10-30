@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Abad Blasco, Javier Óscar</dc:contributor>
+    <dc:creator>Valero Herrero, Diego</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>El trabajo desarrollado se basa en el dimensionamiento del brazo mecánico de una retroexcavadora. &lt;br /&gt;El proceso de cálculo se inicia partiendo de una estructura conocida, es decir, se conocen la distancia entre los puntos de articulación y aquellos que se consideran críticos para el correcto desarrollo de la actividad para la cual ha sido diseñado el brazo.&lt;br /&gt;La finalidad del trabajo es el dimensionamiento de los parámetros geométricos que van a permitir que el brazo pueda funcionar correctamente. Entre los parámetros a dimensionar se encuentran: diámetro de los pasadores, espesor de chapas, elección de cilindros hidráulicos, anchura de las chapas de apoyo, espesor de las diversos componentes.&lt;br /&gt;Una vez que han sido dimensionados todos los componentes que forman parte del brazo se modelizan en 3D y se realizan análisis estáticos sobre estos, utilizando el método de elementos finitos. Estos análisis estáticos se realizan para las posiciones más desfavorables de trabajo de cada componente, comprobando que en ningún caso se supera el límite elástico del material, y que efectivamente se mantiene el coeficiente de seguridad asignado en la fase de dimensionamiento.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/85292</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería Mecánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/85292/files/TAZ-TFG-2019-2392.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/85292/files/TAZ-TFG-2019-2392_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Análisis y dimensionamiento de los componentes del brazo mecánico de una retroexcavadora con una profundidad de excavación de 3´5 metros y una capacidad de cazo 240 Kg</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Analysis and sizing of the main components of the mechanical arm of a backhoe with a maximum digging depth of 3´5 meters and a load bucket capacity of 240 Kg</dc:title>
+</oai_dc:dc>

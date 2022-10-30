@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Baldassarri Santa Lucía, Sandra Silvia</dc:contributor>
+    <dc:contributor>Marco Rubio, Javier</dc:contributor>
+    <dc:creator>Villalba Tejero, Adrián</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>En este trabajo se desarrolla una plataforma electrónica para poder incluir juguetes convencionales y activos en la infraestructura del tabletop NIKVision del GIGA AffectiveLab. Estos juguetes deben poder detectar manipulaciones de los usuarios y reaccionar a estas mediante movimientos, luces o sonidos.  Esta infraestructura es una mesa de interacción tangible que combina los beneficios de los juegos tradicionales físicos y los videojuegos. Esta combinación de mundos virtuales con el mundo real, recibe el nombre de realidad mixta. La forma que tiene el tabletop NIKVision de proporcionar juegos de realidad mixta es convirtiendo objetos físicos convencionales en controles que permiten interaccionar sobre una aplicación informática. Esto es posible porque la infraestructura reconoce en qué lugar de su superficie y con qué orientación están apoyados todos los juguetes gracias a una cámara conectada a un ordenador en su interior y a unos identificadores fiduciales pegados en la base de todos los juguetes.  La plataforma desarrollada y fabricada en el presente trabajo, permite que un usuario sin conocimientos de electrónica le pueda conectar y desconectar libremente sensores y actuadores y que estos se comuniquen con el tabletop. Además, tiene una conexión inalámbrica con el sistema NIKVision para poder recibir órdenes del ordenador ubicado en el interior de la infraestructura sin hacer uso de cables. Adicionalmente, también puede emitir sonidos gracias a un pequeño altavoz que se encuentra en su interior.  Para programar un microcontrolador que controle toda la plataforma, se utiliza la placa de desarrollo hardware Arduino Nano V3.1. El diseño de la parte electrónica se hace de tal forma que el Arduino Nano pueda ser extraído de la plataforma fácilmente para ser reprogramado.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/65451</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/65451/files/TAZ-TFG-2017-1581.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/65451/files/TAZ-TFG-2017-1581_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Electrónica y Automática</dc:subject>
+    <dc:title>Plataforma electrónica para incluir juguetes convencionales en juegos de realidad mixta</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Electronic platform to include conventional  toys in mixed reality games</dc:title>
+</oai_dc:dc>

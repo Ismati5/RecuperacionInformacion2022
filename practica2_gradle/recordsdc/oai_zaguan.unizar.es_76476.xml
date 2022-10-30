@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Lindholm, Jim</dc:contributor>
+    <dc:contributor>Tarkian, Mehdi</dc:contributor>
+    <dc:contributor>Gómez Benito, María José</dc:contributor>
+    <dc:creator>Recasens Lafuente, David</dc:creator>
+    <dc:creator>Brión Fraile, Juan</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>El interés hacia la optimización del diseño de los productos siempre ha sido una constante dentro de la industria, y esta ha sido la motivación para la realización de este Trabajo Fin de Grado. El propósito del mismo consiste en modelar y optimizar la geometría de cuatro modelos diferentes de cuadros de bicicleta disponibles en el mercado. El proyecto se divide en dos segmentos: diseño y modelado de los marcos y, análisis y optimización de las tensiones soportadas por estos. El primero consiste en la creación de los cuadros de las bicicletas en CATIA V5® a partir de los datos que las diferentes marcas dan de sus geometrías. Estos cuadros de bicicleta deben tener sus variables parametrizadas, para poder cambiarlas en un rango determinado. El siguiente paso es realizar el análisis de tensiones bajo una fuerza externa utilizando también el programa CATIA V5®, y combinándolo con el programa de optimización multiobjetivo Mode FRONTIER 2017®, averiguar cuál es el diseño del cuadro de la bicicleta con la mejor relación resistencia-peso.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76476</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76476/files/TAZ-TFG-2018-3924.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Optimización de tensiones de marcos de bicicleta</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Stress optimization of bike frames</dc:title>
+</oai_dc:dc>

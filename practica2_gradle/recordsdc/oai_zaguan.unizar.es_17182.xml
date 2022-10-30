@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>González Cebollada, César</dc:contributor>
+    <dc:creator>Ruiz Beamonte, Daniel</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Este trabajo Fin de Grado ha consistido en la aplicación del módulo WaterNetGen del programa de cálculo hidráulico EPANET para el dimensionado de redes de riego a presión. En primer lugar se realizará un estudio detallado de los fundamentos del dimensionado de redes de riego presurizadas y las distintas estrategias para abordarlo. Se estudiará a fondo el manejo del programa EPANET y de su módulo WaterNetGen destinado al dimensionado de redes mediante el llamado algoritmo de recocido simulado (simulated annealing). En este proyecto se realizará el dimensionado de una red de prueba, de tan solo cinco tramos, que permita un primer acercamiento al programa EPANET y su módulo WaterNetGen. Tras esto se realizará el dimensionado completo de una red real de riego a presión situada en Fonz, dentro de los regadíos de La Litera Alta (Huesca), formada por 95 tramos que abastecen una superficie de unas 1000 hectáreas. El resultado será comparado con el obtenido previamente a través de otros métodos de dimensionado. A continuación, se dimensionarán un total de nueve redes colectivas de riego a presión previamente dimensionadas con el método de la serie económica y con el método recursivo. Como en el caso anterior se compararán los resultados obtenidos con los diferentes métodos. Finalmente, se discutirán las ventajas y desventajas de la utilización de WaterNetGen para el dimensionado de redes de riego a presión. Entre las ventajas, destaca su gratuidad y sus buenos resultados. Como desventaja se encuentra el hecho de que es una herramienta orientada al dimensionado de redes de abastacemiento urbano, por lo que no contempla algunas especificidades de las redes de riego, que deben ser introducidas artificiosamente. De los resultados obtenidos, se concluirá que WaterNetGen ofrece buenos resultados para el dimensionado, al nivel de otros métodos usuales, por lo que se puede considerar una herramienta válida para el dimensionado de redes colectivas de riego a presión.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/17182</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/17182/files/TAZ-TFG-2014-2343.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>epanet</dc:subject>
+    <dc:subject>waternetgen</dc:subject>
+    <dc:subject>dimensionado de redes a presión</dc:subject>
+    <dc:subject>Graduado en Ingeniería Agroalimentaria y del Medio Rural</dc:subject>
+    <dc:title>Dimensionado óptimo con EPANET de redes de riego a presión</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

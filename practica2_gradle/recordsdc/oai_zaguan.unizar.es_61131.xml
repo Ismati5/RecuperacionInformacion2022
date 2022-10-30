@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gil Llorente, Ibán</dc:contributor>
+    <dc:contributor>Bono Nuez, Antonio</dc:contributor>
+    <dc:creator>Arroyo Abril, Daniel</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>La grifería que existe actualmente en el mercado, y en la vida cotidiana, tiene que tener una fiabilidad y una calidad que haga que el grifo no tenga pérdidas de agua, ya que, si las hubiera, estaríamos derrochando agua y, por tanto, esto iría en detrimento del medio ambiente y, además, supondría un encarecimiento de la factura del consumo de agua. Por ello, se ha decidido diseñar e implementar una máquina que sea capaz de detectar si un grifo tiene pérdidas. La empresa “Griferías Grober, S.L.” ha decidido fabricar esta máquina en vez de comprar una que realice las mediciones debido a que la empresa desea poseer más de un puesto de medida y, si hubiera realizado la compra de las máquinas, habría tenido un desembolso excesivamente elevado. Por tanto, el objetivo de este proyecto es desarrollar un prototipo para comprobar la estanqueidad de la grifería, de acuerdo a las especificaciones de la empresa “Griferías Grober S.L.”. Para mejorar el proyecto, se ha realizado un programa que permite visualizar y reportar los datos obtenidos por el microcontrolador, con lo que se puede hacer un estudio de los datos y poder clasificar los grifos en grifos positivos (han pasado el test) o grifos negativos (no han pasado el test).</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61131</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61131/files/TAZ-TFG-2016-4169.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/61131/files/TAZ-TFG-2016-4169_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Electrónica y Automática</dc:subject>
+    <dc:title>Diseño de máquina para prueba de estanqueidad en grifos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Design a machine for faucets leak test</dc:title>
+</oai_dc:dc>

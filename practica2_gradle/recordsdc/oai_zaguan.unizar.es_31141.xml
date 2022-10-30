@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Pérez Cabello, Fernando</dc:contributor>
+    <dc:creator>García Martínez, Eduardo Daniel</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>En el año 2013 en Galicia se contabilizaron un total de 3623 incendios forestales, afectando a 19388 ha (MAGRAMA). El estudio de los espacios quemados y su seguimiento permite obtener una información valiosa para una adecuada gestión y ordenación de los espacios forestales de cara a reducir el número y la intensidad de los siniestros. En este Trabajo de Fin de Máster se han analizado tres de los incendios forestales que afectaron a Galicia en el 2013, dos de ellos, los de mayor extensión y el tercero localizado en un espacio de la montaña oriental de Lugo. En el estudio de los incendios se han empleado imágenes de satélite de diversas plataformas y sensores (Landsat 8 OLI y Terra MODIS), para generar distintos productos que permiten obtener una lectura de la severidad de los incendios así como el grado de recuperación de los espacios ardidos. En este TFM se han propuesto tres objetivos. El primero, determinar el grado de severidad de los incendios y comprobar qué variables son las que la condicionan. El segundo, analizar el papel de la severidad en la recuperación de los espacios afectados por el fuego. Para conseguir estos dos objetivos se han empleado técnicas estadísticas (ANOVA) para confirmar o rebatir las hipótesis de partida. En el tercer objetivo, se ha pretendido medir el grado de regeneración de los incendios, mediante el uso de vectores multitemporales y el uso de otras fuentes de información, como son los datos de LAI y fAPAR generados por el sensor MODIS. Para facilitar la comprensión de los resultados y de la cartografía generada, se ha implementado un espacio web de descarga de la información y de acceso a una aplicación web map para la visualización dinámica de la cartografía.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31141</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio; Área de Análisis Geográfico Regional</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31141/files/TAZ-TFM-2014-789.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>incendio forestal</dc:subject>
+    <dc:subject>landsat 8</dc:subject>
+    <dc:subject>oli</dc:subject>
+    <dc:subject>modis </dc:subject>
+    <dc:subject>técnicas post-incendio</dc:subject>
+    <dc:subject>dnbr</dc:subject>
+    <dc:subject>ndvi</dc:subject>
+    <dc:subject>lidar</dc:subject>
+    <dc:subject>anova</dc:subject>
+    <dc:subject>pmapper</dc:subject>
+    <dc:subject>mapserver vectores multitemporales</dc:subject>
+    <dc:subject>galicia</dc:subject>
+    <dc:subject>Máster Universitario en Tecnologías de la Información Geográfica para la Ordenación del Territorio: Sistemas de Información Geográfica y Teledetección</dc:subject>
+    <dc:title>Análisis de severidad y seguimiento de la regeneración de tres incendios en Galicia en el 2013</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

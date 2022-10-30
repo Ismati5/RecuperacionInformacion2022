@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Peña Baquedano, Estefanía</dc:contributor>
+    <dc:creator>Díaz Barragán, Clara</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>La realización de este trabajo ha consistido en la obtención de parámetros de material utilizando un método fenomenológico y otro microestructural, ambos basados en el modelo de Gasser et al. (2006), para caracterizar el comportamiento mecánico de la íntima, media y adventicia en la aorta descendente y abdominal. Después, se validaron mediante ensayos de tracción uniaxial para cada uno de los materiales. Posteriormente se crearon modelos de probetas multicapa para representar el tejido de la pared arterial que también fueron validados mediante ensayos experimentales.&lt;br /&gt;Basándonos en los modelos anteriores, se crearon nuevos modelos multicapa con geometría cilíndrica que representan el comportamiento de la pared arterial in situ con hipertensión. Para ello, fue fundamental tener en cuenta la pretensión de cada uno de los tejidos que componen la pared arterial, así como la dirección de las fibras de colágeno que actúan como una red de refuerzo del tejido.&lt;br /&gt;El uso de materiales con propiedades microestructurales presenta resultados más próximos a los experimentales que los obtenidos a través del método fenomenológico, siempre que se introduzcan las pretensiones individuales de cada una de las capas. En caso contrario, los resultados no se pueden considerar válidos, especialmente en aorta in situ. Este hecho es clave a la hora de diseñar dispositivos o caracterizar patologías correctamente.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/84849</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/84849/files/TAZ-TFM-2019-337_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/84849/files/TAZ-TFM-2019-337.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Biomédica</dc:subject>
+    <dc:title>Desarrollo de un modelo constitutivo multicapa de  pared arterial y su validez mediante ensayos experimentales de arteria aorta descendente y abdominal</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">On constitutive multilayer model for descendent and abdominal aorta and its experimental validation</dc:title>
+</oai_dc:dc>

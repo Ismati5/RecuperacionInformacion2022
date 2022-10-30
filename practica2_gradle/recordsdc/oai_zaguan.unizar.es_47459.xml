@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Saldaña Medina, José Mª</dc:contributor>
+    <dc:contributor>Fernández Navajas, Julián</dc:contributor>
+    <dc:contributor>Fernández Navajas, Julián</dc:contributor>
+    <dc:creator>Forcén Cabrejas, José Ignacio</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>Hoy en día Internet da soporte a multitud de servicios interactivos y aplicaciones en tiempo real, que necesitan ser enviados con alta frecuencia y bajo retardo entre los dos extremos de la comunicación. Esto se traduce en un tipo de tráfico caracterizado por altas tasas de paquetes pequeños, en los que la cabecera supone un alto porcentaje del tamaño total. Se produce así un elevado "overhead" que eleva el consumo de ancho de banda. El objetivo es analizar la eficiencia del tráfico cuando se utilizan técnicas de compresión, multiplexión y tunelado de paquetes. Desde el grupo de investigación CeNITEQ se ha propuesto al IETF (Internet Engineering Task Force) un método de optimización de tráfico para su estandarización a nivel global. Para lograr este objetivo, es necesario realizar una batería de pruebas, con tráfico real, cuyo análisis permitirá comprobar las mejoras obtenidas. Para ello se utilizará una implementación en fase de pruebas de un protocolo de multiplexión, realizada por el grupo de investigación. Además, se utilizará una librería que implementa un algoritmo estándar de compresión de cabeceras.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/47459</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingeniería Telemática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/47459/files/TAZ-TFG-2015-3207.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías y Servicios de Telecomunicación</dc:subject>
+    <dc:title>Optimización de tráfico de red mediante compresión, multiplexión y tunelado: análisis y caracterización</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

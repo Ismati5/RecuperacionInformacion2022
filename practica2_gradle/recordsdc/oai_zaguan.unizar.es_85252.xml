@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Martínez Montiel, José María</dc:contributor>
+    <dc:creator>Delgado Llamas, Alexandro</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>El trabajo se enmarca dentro del proyecto de investigación "DPI2017-91104-EXP: SLAM Visual Deformable para Endoscopia", que tiene como objetivo realizar mapas 3D de las cavidades intracorpóreas y localizar la cámara del endoscopio a partir del flujo de vídeo de un endoscopio estándar. Un primer paso de la investigación es la grabación de secuencias de vídeo correspondientes a endoscopias reales para validar los algoritmos desarrollados. Para maximizar el rendimiento de los algoritmos se van a realizar grabaciones de vídeo de alta calidad y se van a almacenar mediante compresión sin pérdidas.&lt;br /&gt;Además de registrar vídeo de alta calidad, es necesario anonimizar los vídeos para preservar la identidad de los pacientes que acceden a que las grabaciones de sus exploraciones sean empleadas en la investigación. Estos requisitos están lejos de los que ofrecen los sistemas de grabación comerciales.&lt;br /&gt;El objetivo del proyecto es el diseño y la implementación de este sistema grabador que llamaremos EndoStore. El alcance cubre el diseño y montaje de un equipo de adquisición y el desarrollo del software en C++ empleando las bibliotecas estándares de OpenCV para visión por computador y Tesseract para el reconocimiento de texto.&lt;br /&gt;Se ha construido un prototipo que se ha montado y probado tanto en los laboratorios de la EINA como en el Hospital Clínico Lozano Blesa (HCLB) de Zaragoza. La conexión del sistema de adquisición con el endoscopio permite la grabación con una mínima interferencia sobre el procedimiento médico que se esté llevando a cabo. A partir de los resultados se ha realizado el diseño definitivo del sistema de adquisición.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/85252</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/85252/files/TAZ-TFG-2019-2706.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Electrónica y Automática</dc:subject>
+    <dc:title>Adquisición de endoscopias en alta calidad</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Endoscopies acquisition in high quality</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Monzón Jaso, Luis</dc:contributor>
+    <dc:contributor>Canales Compés, María</dc:contributor>
+    <dc:creator>Meneses Lobera, Javier</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Este Trabajo Fin de Grado consiste en desarrollar una aplicación en terminales móviles Android para una flota de taxis híbridos que permita tanto la monitorización del estado de la batería del vehículo como la reserva en la central de baterías para su reemplazamiento. El usuario con esta aplicación tendrá acceso al estado de la batería del coche, una estimación de la autonomía de la misma, la distancia y el tiempo a las que se encuentran la central de baterías (situada en la cooperativa de taxis de Zaragoza) y una interacción con el servidor para hacer la reserva de una batería cargada. Para realizar este trabajo se necesita implementar una aplicación nativa en Android, configurar un servidor a través de ficheros PHP para que guarde la información de monitorización de la batería en una base de datos MySQL y procese y gestione la reserva de baterías y programar placas Arduino para poder comunicar las baterías con los teléfonos y el servidor. El objetivo es conseguir una aplicación estable, usable e intuitiva para el conductor, a la par que potenciar su uso adecuado.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31550</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingeniería Telemática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31550/files/TAZ-TFG-2014-1720.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/31550/files/TAZ-TFG-2014-1720_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>aplicación</dc:subject>
+    <dc:subject>android</dc:subject>
+    <dc:subject>taxi</dc:subject>
+    <dc:subject>moretaxi</dc:subject>
+    <dc:subject>arduino</dc:subject>
+    <dc:subject>cliente-servidor</dc:subject>
+    <dc:subject>java</dc:subject>
+    <dc:subject>Graduado en Ingeniería de Tecnologías y Servicios de Telecomunicación</dc:subject>
+    <dc:title>Desarrollo de una aplicación cliente-servidor para dispositivos móviles para la monitorización y gestión de baterías de coches híbridos en una flota de taxis</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

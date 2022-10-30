@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Piñol Lacambra, Milagros</dc:contributor>
+    <dc:contributor>Oriol Langa, Luis Teodoro</dc:contributor>
+    <dc:creator>Guerreiro Gómez, Enrique</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>La liberación controlada de fármacos responde a la necesidad de crear tratamientos menos invasivos y más eficientes en base a fármacos ya existentes. Los retos incluyen mejorar la solubilidad de fármacos hidrófobos y controlar el tiempo y lugar de liberación. Los copolímeros bloque anfífilos con respuesta a estímulos son adecuados para este fin: generan micelas o vesículas en agua que pueden encapsular fármacos y la incorporación de una respuesta a un estímulo permite controlar la liberación de lo que éstas contengan. En este trabajo se propuso trabajar con copolímeros bloque lineal-lineal con poli(etilenglicol) como bloque hidrófilo y policarbonato alifático como bloque hidrófobo, que además tiene carácter biodegradable. Como grupo sensible a estímulo se eligió un éster derivado de la 7-dietilamino-4-metil cumarina, ya que éste presenta hidrólisis al ser irradiado con luz UV y del infrarrojo cercano, en este caso en un proceso a dos fotones. El uso de cumarina sirve como punto de partida para estudios posteriores reemplazando el azobenceno que se había empleado hasta ahora en el grupo de Cristales Líquidos y Polímeros. Como parte del trabajo se ha llevado a cabo la síntesis del copolímero bloque y de la unidad sensible a la luz así como su caracterización por las técnicas espectroscópicas habituales (FTIR, RMN) y la funcionalización del copolímero con dicha unidad. A continuación se formaron agregados a partir de dicho copolímero, que dieron como resultado micelas esféricas. Por último, se midió el comportamiento de absorción UV-Visible y de fluorescencia de dichas micelas y se realizó un pequeño estudio de irradiación con luz UV. Los resultados sientan las bases para un estudio en mayor profundidad de las posibilidades que pueden aportar estos nanotransportadores en liberación controlada de fármacos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/65174</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Orgánica; Área de Química Orgánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/65174/files/TAZ-TFG-2017-2044_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/65174/files/TAZ-TFG-2017-2044.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Química</dc:subject>
+    <dc:title>Preparación de polímeros biodegradables con respuesta a la luz como nanotransportadores poliméricos de fármacos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Synthesis of light responsive biodegradable polymers as drug polymeric nanocarriers</dc:title>
+</oai_dc:dc>

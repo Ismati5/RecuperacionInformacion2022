@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Toivonen, Janne M.</dc:contributor>
+    <dc:contributor>Martín Burriel, Inmaculada</dc:contributor>
+    <dc:creator>Alejo Mateo, Jorge</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Las enfermedades espongiformes transmisibles (EET) o enfermedades priónicas constituyen un grupo de enfermedades neurodegenerativas caracterizadas por una degeneración progresiva de tipo espongiforme las cuáles vienen acompañadas de un cuadro clínico que cursa con síntomas nerviosos que pueden conllevar la muerte del individuo y están causadas por unos agentes infecciosos denominados priones. Estudios recientes han demostrado que los miRNAs pueden utilizarse como potentes biomarcadores para el diagnóstico claro, rápido y eficaz de estas enfermedades evitando con ello su transmisión, ya que su expresión se ve alterada en la patología. En este trabajo se analizaron los cambios en la expresión mediante PCR cuantitativa (RT-qPCR) de una batería de miRNAs – cuyo cambio en la expresión se había identificado previamente por la técnica RNAseq - en médula espinal cervical (MEC) de ratones Tg501 y se analizó si estos cambios se repetían en el modelo murino Tg338. Además, se quiso analizar la posible correlación existente entre los niveles de expresión de los miRNAs elegidos y las lesiones histopatológicas de scrapie en estos últimos ratones, valorando el grado de espongiosis y el de depósito de proteína prion patológica PrPSc. Para los ratones Tg501 se confirmó una disminución en la expresión de dos miRNAs, - miR-342-3p y miR-223-3p – en animales infectados por scrapie. Sin embargo, en los ratones Tg338 tan sólo hubo un cambio significativo, la expresión del miR-667-3p era menor en los animales inoculados. No se observó correlación entre la expresión de estos miRNAs y las lesiones histopatológicas, lo que nos lleva a pensar que los miRNAs que han sido elegidos no tienen que ver con el con las lesiones típicas del scrapie pero sí que podrían estar involucrados en otros procesos biológicos como la neuroinflamación, la gliosis o la pérdida neuronal. Por tanto, en este estudio hemos determinado 3 miRNAs que presentan diferencias significativas, aunque dependientes del modelo murino, en su expresión. Sería necesario realizar más estudios para ver si podrían ser utilizados como posibles biomarcadores de la patología del scrapie.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64254</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Anatomía, Embriología y Genética Animal; Área de Genética</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64254/files/TAZ-TFG-2017-2143_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/64254/files/TAZ-TFG-2017-2143.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Biotecnología</dc:subject>
+    <dc:title>Alteraciones de microRNAs en modelos murinos de enfermedades priónicas</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">MicroRNAs alterations in mice models of prionic diseases</dc:title>
+</oai_dc:dc>

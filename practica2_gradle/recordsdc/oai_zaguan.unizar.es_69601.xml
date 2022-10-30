@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Jarabo Lallana, Sebastián</dc:contributor>
+    <dc:contributor>Salgado Remacha, Francisco Javier   </dc:contributor>
+    <dc:creator>Saldaña Díaz, José Eduardo</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>En este trabajo se ha desarrollado y optimizado experimentalmente una fuente de espectro supercontinuo utilizando fibra óptica de sílice altamente no lineal (HNLF). Este medio no lineal se bombea con un láser de fibra dopada con erbio en cavidad de anillo y pulsado mediante encadenado de modos (mode-locking) pasivo basado en el efecto de la rotación no lineal de la polarización (NPR). El tren de pulsos es amplificado posteriormente con un amplificador comercial de fibra dopada con erbio, que opera en banda C o en banda L. Los parámetros que se optimizaron fueron las longitudes de fibra óptica de dispersión positiva y de dispersión negativa empleadas en el desarrollo de la fuente de bombeo, la longitud de fibra HNLF y el espectro de los pulsos de bombeo, acercándolo todo lo posible a la longitud de onda de dispersión nula del medio no lineal. El espectro supercontinuo conseguido presenta una anchura superior a una octava y se extiende desde 1100 nm hasta 2300 nm, aproximadamente, manteniendo una potencia espectral superior a -6 dBm/nm. Para completar el estudio de esta fuente, se realizaron simulaciones numéricas del espectro supercontinuo y de su potencia en función de la potencia de bombeo y de la longitud de fibra HNLF utilizada. La fuente desarrollada permite estudiar el efecto de generación de supercontinuo, pero también han sido exploradas algunas técnicas y aplicaciones del espectro supercontinuo generado, como su empleo en una técnica alternativa para la medida de la duración de los pulsos láser mediante autocorrelación, en la medida de los coeficientes de absorción en tejidos biológicos, en la determinación de la transmisión espectral de dispositivos pasivos de fibra óptica, como fuente de señal para amplificadores de fibra óptica dopada con tierras raras y como fuente de señal para técnicas de interferometría espectral.&lt;br /&gt;</dc:description>
+    <dc:description>&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/69601</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Aplicada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/69601/files/TESIS-2018-036.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>dispositivos láser</dc:subject>
+    <dc:subject>fibra óptica</dc:subject>
+    <dc:subject>óptica no lineal</dc:subject>
+    <dc:title>Generación de supercontinuo mediante fibras ópticas altamente no lineales bombeadas con láseres de fibra pulsados por mode-locking pasivo</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

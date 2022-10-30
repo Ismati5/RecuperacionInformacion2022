@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Abad Martín, Pedro</dc:contributor>
+    <dc:creator>Velasco Sánchez, María Pilar</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Este proyecto consiste en la realización de una auditoría energética eléctrica en un centro deportivo hidrotermal. El propósito del mismo es realizar un examen para determinar si las instalaciones energéticas y hábitos de uso del personal y de los clientes resultan eficientes desde el punto de vista energético.  A lo largo del mismo se describe el proceso llevado a cabo para el estudio energético del Centro Deportivo, así como el cronograma seguido a lo largo del proceso. El primer paso es el análisis de la situación actual del centro a través de visitas técnicas y mediciones realizadas con equipos como el analizador de redes y el luxómetro. Más tarde se procede a realizar una revisión la facturación eléctrica de la empresa, estudiando los excesos de potencia que pueden darse en el centro y la posibilidad de disminuir la potencia contratada a otra más ajustada. El siguiente paso a seguir es pedir nuevas ofertas a las distintas comercializadoras para firmar el nuevo contrato con aquella con la que el coste sea menor. Se va a estudiar la eficiencia de los distintos equipos de consumo como pueden ser las luminarias y las bombas de climatización. Se ha realizado un estudio de la iluminación, con ayuda de un luxómetro, y otro sobre las bombas existentes en todo el centro deportivo mediante un ENVIR.  A continuación, se procede a evaluar la correlación entre los consumos, los datos de ocupación del centro y la influencia de las condiciones climáticas, evaluada a través del histórico de temperaturas de la estación meteorológica del aeropuerto de Zaragoza. Para evaluar el desempeño energético del centro, se va a escoger un indicador de desempeño energético (IDEn) para realizar el seguimiento del rendimiento energético del centro. Por último, se datan los problemas detectados y se proponen posibles mejoras para lograr tanto un ahorro económico como reducir el impacto ambiental de la producción.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10097</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10097/files/TAZ-PFC-2013-051.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/10097/files/TAZ-PFC-2013-051_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>auditoría energética</dc:subject>
+    <dc:subject>centro deportivo</dc:subject>
+    <dc:subject>electricidad</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electricidad)</dc:subject>
+    <dc:title>Auditoría energética eléctrica en un centro deportivo</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

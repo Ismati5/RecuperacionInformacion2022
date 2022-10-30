@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>López Pérez, José María</dc:contributor>
+    <dc:creator>Rillo Bautista, Héctor</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>En este proyecto se propone como objetivo principal el diseño de un producto electrónico capaz de concienciar a los niños de colegios infantiles y primaria, de la importancia de realizar un buen uso del agua, y realizar un seguimiento del consumo de agua. Para ello, el producto está diseñado para su instalación en los lavados de los colegios. El proyecto se encuentra desarrollado en colaboración con equipos de estudiantes del Grado en Ingeniería de Diseño Industrial y Desarrollo de Producto, como trabajo de la asignatura de Metodología de Diseño Industrial de 4º curso.  Durante las primeras fases de la colaboración, se realiza una búsqueda de información de las tecnologías existentes aplicables al escenario de desarrollo del proyecto. También se generan una serie de conceptos de producto con cada equipo de trabajo, de los cuales sólo uno es seleccionado para su desarrollo como prototipo funcional. En la siguiente fase del desarrollo del producto, se establecen las especificaciones de diseño del producto, así como las dimensiones y estructura del mismo, y las soluciones electrónicas pertinentes para su funcionamiento correcto. Una vez terminada la colaboración con los diseñadores, se prosigue con el desarrollo electrónico, hasta obtener un prototipo funcional completo. Para ello, se realizan cambios en el método de detección de agua, así como en la comunicación inalámbrica. El sistema electrónico final, consta de dos dispositivos electrónicos, uno tiene como función principal detectar y contabilizar el tiempo que permanece el grifo abierto, para que posteriormente se realice el cálculo del gasto de agua. El segundo tiene como función principal mostrar el consumo de agua estimado y el nivel de las baterías. La comunicación entre los dispositivos se realiza mediante módulos de radiofrecuencia.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/13894</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/13894/files/TAZ-PFC-2014-190.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>sistema electrónico arduino</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electrónica Industrial)</dc:subject>
+    <dc:title>Sistema electrónico para la concienciación del gasto de agua en colegios</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

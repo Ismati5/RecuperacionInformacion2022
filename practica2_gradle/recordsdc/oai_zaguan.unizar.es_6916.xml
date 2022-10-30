@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>González Bedia, Manuel</dc:contributor>
+    <dc:contributor>Serón Arbeloa, Francisco José</dc:contributor>
+    <dc:creator>Moreno Ruiz, Sergio</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>En este proyecto se pretende obtener agentes sintéticos (bots) para videojuegos de acción en primera persona, de forma que su comportamiento no sea definido directamente por el programador, sino que estos sean capaces de adquirirlo mediante aprendizaje automático. Para ello, se ha optado por una estrategia de aprendizaje basada en Redes Neuronales Recurrentes de Tiempo Continuo (CTRNN) (Beer, 1995a).  Las CTRNNs permiten al agente iniciar una acción independientemente de su situación inmediata y organizar su comportamiento anticipándose a eventos futuros (Beer, 1995b). Parte fundamental de este proyecto es que las CTRNNs sean capaces de aprender por sí mismas, para lo cual deben de ser capaces de adaptarse a un comportamiento dado mediante algoritmos genéticos y, si se requiere, de aprender y adaptarse a las circunstancias a lo largo del tiempo de ejecución del bot al que controlan. El objetivo principal de este proyecto es el de estudiar y aprovechar las capacidades de las CTRNNs para obtener comportamientos para los bots de un videojuego de acción en primera persona que serían imposibles utilizando redes neuronales feed-forward (con comportamiento púramente reactivo). Para ello, se realizarán cuatro experimentos orientados a la obtención de cuatro bots controlados por CTRNNs: 1. En primer lugar se buscará obtener dos bots con diferentes comportamientos de navegación que requieran memoria a corto plazo: (a) un primer bot con comportamiento de navegación y evitación de obstáculos y (b) un segundo bot con capacidad de seguir la trayectoria de movimiento de un bot enemigo, incluso cuando lo pierde momentáneamente de vista al desaparecer éste tras un muro, para lo cual tendrá que poder “predecir” su reaparición. 2. En segundo lugar se buscará obtener un tercer bot con el que estudiar la capacidad de las CTRNN de aprender durante el tiempo de vida del bot sin variar ninguno de sus parámetros. 3. Por último, una vez estudiadas las propiedades de las CTRNNs para diferentes bots, se buscará obtener un cuarto bot cuyo comportamiento sea combinación de los obtenidos para el primer y el tercer bot. El videojuego para el cual se programarán los bots es Unreal Tournament 2004 (UT2004) el cual cuenta con la plataforma Pogamut 3, la cual permite programar el control de los bots en el lenguaje de programación Java. Al tratarse de un trabajo pionero, el objetivo previo a la realización de este proyecto consistirá en estudiar dicha plataforma (sus ventajas y limitaciones), así como realizar un manual adecuado para programadores (dado que Pogamut, al principio de este proyecto, no contaba con uno). Con ello se pretende asentar las bases para futuros proyectos en el área de IA en videojuegos utilizando Pogamut.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6916</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6916/files/TAZ-PFC-2012-076_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6916/files/TAZ-PFC-2012-076.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>redes neuronales</dc:subject>
+    <dc:subject>ctrnn</dc:subject>
+    <dc:subject>aprendizaje automático</dc:subject>
+    <dc:subject>algoritmos genéticos</dc:subject>
+    <dc:subject>videojuegos</dc:subject>
+    <dc:subject>ut2004</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Control de un agente inteligente mediante Redes Neuronales en el entorno del videojuego UT2004</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

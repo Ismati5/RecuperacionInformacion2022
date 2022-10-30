@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Guerrero Campo, José Jesús</dc:contributor>
+    <dc:contributor>Murillo Arnal, Ana Cristina</dc:contributor>
+    <dc:creator>Rituerto Sin, Alejandro</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>En este Trabajo de Fin de Máster se presenta un nuevo método para crear mapas semánticos a partir de secuencias de imágenes omnidireccionales. El objetivo es diseñar el nivel superior de un mapa jerárquico: mapa semántico o mapa topológico aumentado,  aprovechando y adaptando este tipo de cámaras. La segmentación de la secuencia de imágenes se realiza distinguiendo entre Lugares y Transiciones, poniendo especial énfasis en la detección de estas Transiciones ya que aportan una información muy útil e importante al mapa. Dentro de los Lugares se hace una clasificación más detallada entre pasillos y habitaciones de distintos tipos. Y dentro de las Transiciones distinguiremos entre puertas, jambas, escaleras y ascensores, que son los principales tipos de Transiciones que aparecen en escenarios de interior. Para la segmentación del espacio en estos tipos de áreas se han utilizado solo descriptores de imagen globales, en concreto Gist. La gran ventaja de usar este tipo de descriptores es la  mayor eficiencia y compacidad frente al uso de descriptores locales. Además para mantener la consistencia espacio-temporal de la secuencia de imágenes, se hace uso de un modelo probabilístico: Modelo Oculto de Markov (HMM). A pesar de la simplicidad del método, los resultados muestran cómo es capaz de realizar una segmentación de la secuencia de imágenes en clusters con significado para las personas. Todos los experimentos se han llevado a cabo utilizando nuestro nuevo data set de imágenes omnidireccionales, capturado con una cámara montada en un casco, por lo que la secuencia sigue el movimiento de una persona durante su desplazamiento dentro de un edificio. El data set se encuentra público en Internet para que pueda ser utilizado en otras investigaciones.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6370</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6370/files/TAZ-TFM-2011-046_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6370/files/TAZ-TFM-2011-046.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>robótica</dc:subject>
+    <dc:subject>visión artificial</dc:subject>
+    <dc:subject>visión omnidireccional</dc:subject>
+    <dc:subject>mapas semánticos</dc:subject>
+    <dc:subject>Máster Universitario en Ingeniería de Sistemas e Informática</dc:subject>
+    <dc:title>Augmented indoor hybrid maps using catadioptric vision</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

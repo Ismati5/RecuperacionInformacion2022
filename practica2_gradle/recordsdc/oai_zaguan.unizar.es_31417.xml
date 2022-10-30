@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Letosa Fleta, Jesús</dc:contributor>
+    <dc:creator>Falcón Gregorio, Rubén</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>En este Trabajo Fin de Máster (TFM) corresponde al Master de Energías Renovables y Eficiencia Energética de la Universidad de Zaragoza. En él se ha realizado el estudio de características de un rodamiento magnético activo axial mediante simulaciones de elementos finitos. En primer lugar, se ha elaborado una revisión del estado del arte sobre rodamientos magnéticos para estudiar las topologías que se utilizan en el diseño de los mismos. La estructura estudiada en este trabajo fue propuesta por Kimio Hijitaka en 2009 [1]. Tras esta revisión, se ha simulado un modelo mediante el programa Finite Element Method Magnetic (FEMM v4.2) a partir del modelo nombrado anteriormente [1]. El trabajo comienza con una introducción que explica el modelo que se va a simular, su estructura, funcionamiento, parámetros del diseño y metodología del programa a utilizar para su simulación. Una vez dibujado el modelo se han realizado una serie de pruebas de validez para analizar la sensibilidad de los resultados obtenidos frente a diversas modificaciones en el entorno de FEMM. Asimismo, se van a estudiar dos modelos con la misma estructura y dimensiones pero cambiando algunos aspectos como el número de vueltas de bobina y el tipo de imán. Estos dos modelos se han comparado con el modelo validado [1] mediante varios estudios para evaluar su comportamiento electromagnético. Después, se ha profundizado en el estudio paramétrico de la geometría que define el rodamiento magnético, con el objetivo de simular un modelo mediante FEMM que mejore las prestaciones del modelo validado. Para ello, se ha implementado un algoritmo en Octave que ejecuta FEMM y permite el diseño y análisis de rodamientos magnéticos activos axiales, basados en la topología estudiada, pero con los parámetros geométricos que se deseen. Así, con esta herramienta diseñada en Octave, se ha podido llevar a cabo el estudio paramétrico del rodamiento de una manera más visual y rápida.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31417</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31417/files/TAZ-TFM-2014-780.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>rodamiento magnético axial</dc:subject>
+    <dc:subject>Máster Universitario en Energías Renovables y Eficiencia Energética</dc:subject>
+    <dc:title>Estudio de características de un rodamiento magnético axial</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

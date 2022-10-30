@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bernal Agustín, José Luis</dc:contributor>
+    <dc:contributor>Dufo López, Rodolfo</dc:contributor>
+    <dc:creator>Rodríguez Ibáñez, Jorge Juan</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El principal objetivo de este proyecto es la optimización del coste de la factura eléctrica y de la satisfacción de un consumidor residencial. Para esta tarea se han desarrollado modelos matemáticos para dos objetivos (coste y satisfacción del consumidor). El concepto de optimalidad de Pareto ha sido también utilizado ya que es posible considerar la satisfacción de un consumidor como un objetivo independiente a ser optimizado y, simultáneamente, minimizar el coste de la factura eléctrica. Para esta optimización multiobjetivo se ha empleado un algoritmo evolutivo implementado en Matlab (NSGA-II). Con la herramienta utilizada se han estudiado varios casos residenciales en los cuales se han ido añadiendo consumos, algunos de ellos muy relevantes dado el valor de la potencia que consumen.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31570</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31570/files/TAZ-PFC-2014-566.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>gestión de la demanda</dc:subject>
+    <dc:subject>optimización multiobjetivo</dc:subject>
+    <dc:subject>red eléctrica inteligente</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Optimización de la gestión de la demanda considerando el coste de la electricidad y la satisfacción del consumidor</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

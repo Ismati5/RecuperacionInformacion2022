@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gil Pelegrín, Eustaquio</dc:contributor>
+    <dc:contributor>Sagüés Blázquiz, Carlos</dc:contributor>
+    <dc:creator>Soriano Iniesta, Pablo</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El objetivo del proyecto es diseñar un prototipo de porómetro basado en sensores capacitivos para la medida de transpiración en plantas. Los investigadores del CITA han identificado la necesidad de disponer de un instrumento de este tipo, lo cual no existe en el mercado actual, y de aquí surge la necesidad de este proyecto. Se pueden encontrar analizadores de gases para medida de transpiración y fotosíntesis, usados para la investigación en campo, muy precisos, pero tienen altas demandas energéticas y de fungibles, son complejos, pesados y caros. Este proyecto propone un diseño innovador de porómetro, para medida exclusiva de fotosíntesis basado en tecnología distinta a la empleada habitualmente, la de sensores capacitivos. Ya que el objetivo general del proyecto es muy amplio, se han acotado líneas de trabajo en las cuales centrarse, fundamentalmente tres. La primera se centra en el fundamento teórico, en la descripción de los fenómenos fisiológicos involucrados que se quieren medir. Con objeto de conciliar los intereses de la fisiología y de la ingeniería se recurre a un modelo que describe la fisiología desde el punto de vista de la física, el modelo SPAC (continuo suelo-planta-atmósfera). Una vez entendida la dimensión del problema, se han explorado las distintas formas de abordarlo, analizando de forma razonada sus ventajas y desventajas. Se llega a la conclusión de que un diseño en flujo abierto reúne las características que mejor se ajustan a las deseadas. La segunda parte se ha centrado en el desarrollo de un modelo matemático en Matlab que permita representar el sistema que se diseña y simular su comportamiento ante diferentes situaciones. Uno de los fundamentos del proyecto, el empleo de sensores capacitivos, presenta ventajas e inconvenientes inherentes a su naturaleza. Entre las ventajas, se encuentran reducido tamaño, peso, coste y robustez, y entre los inconvenientes, destacan la limitada exactitud y precisión de la que disponen. Estas simulaciones han permitido identificar los regímenes de operación del instrumento, estudiar los errores que se generarían por las limitaciones técnicas, así como el diseño de un sistema de autocalibrado necesario para mejorar la fiabilidad del sistema hasta niveles adecuados, todo ello basado en el rendimiento real que proporcionan los sensores disponibles en el mercado. La tercera parte se centra en el diseño del prototipo. Conocidos los fenómenos involucrados y el modelo de proceso de datos necesario para el correcto funcionamiento del instrumento, se ha explorado exhaustivamente los mercados de sensores, procesamiento de datos, elementos neumáticos, y accesorios necesarios para el diseño de un prototipo. Se describen todos los elementos necesarios para el diseño del prototipo, detallándose tamaños, formas de conexión, de tratamiento de datos y toda una serie de aspectos prácticos que resultan en un diseño completo y satisfactorio del porómetro basado en sensores capacitivos que se tenía como objetivo general.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/14633</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/14633/files/TAZ-PFC-2014-296.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>porómetro</dc:subject>
+    <dc:subject>sensores</dc:subject>
+    <dc:subject>capacitivos</dc:subject>
+    <dc:subject>transpiración</dc:subject>
+    <dc:subject>plantas</dc:subject>
+    <dc:subject>analizador de gases</dc:subject>
+    <dc:subject>fisiología vegetal</dc:subject>
+    <dc:subject>diseño de equipos </dc:subject>
+    <dc:subject>sistemas de medida</dc:subject>
+    <dc:subject>Ingeniero Químico</dc:subject>
+    <dc:title>Diseño y prototipo de porómetro basado en sensores capacitivos para medida de la transpiración en plantas</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

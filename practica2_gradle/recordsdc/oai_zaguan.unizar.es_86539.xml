@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Javier Galbán Bernal</dc:contributor>
+    <dc:contributor>Isabel Sanz Vicente</dc:contributor>
+    <dc:creator>Cebrián Aznárez, Pablo Alberto</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Las aminas biógenas (AB) se definen como compuestos nitrogenados formados como resultado de la descarboxilación de aminoácidos y proteínas. Estos intervienen en funciones fisiológicas esenciales dentro de nuestro organismo como la regulación de la actividad cerebral o de los sistemas inflamatorios. Estas AB se encuentran en una gran variedad de alimentos y al ser consumidas por personas sanas son eliminada por varios sistemas enzimáticos de desintoxicación, el hígado e interior del intestino delgado. Sin embargo, cuando se consumen en grandes concentraciones o cuando las personas tienen reducida su capacidad de desintoxicación, puede desencadenar procesos toxicológicos. &lt;br /&gt;Al no existir una legislación que regule el contenido de AB en alimentos se propondrá el desarrollo de una metodología de detección y cuantificación rápida de AB, basada en la generación de color en una reacción enzimática, llevada a cabo en un soporte sólido, que utiliza Nanocelulosa sintetizada en el propio laboratorio. Para alcanzar este objetivo, se propone como instrumento de medida del color un dispositivo móvil, capaz de leer el color según tres componentes digitales: Rojo, Verde y Azul. Las medidas de color serán evaluadas y comparadas frente a distintos iluminantes y dispositivos móviles con el fin de demostrar la variabilidad de las medidas bajo estas condiciones y la necesidad de una corrección con un modelo matemático denominado “Grays World”. Utilizando esta metodología de corrección de color se justificará el uso de un dispositivo para las medidas de color, denominado Caja de iluminación, que permita tener unas condiciones de medida de color controladas y homogéneas. Una vez corregida la metodología de medida, se desarrollarán los soportes sólidos de reacción que permitan integrar una serie de reactivos para la determinación directa de las AB putrescina y cadaverina&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/86539</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Analítica; Área de Química Analítica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/86539/files/TAZ-TFM-2019-1479.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/86539/files/TAZ-TFM-2019-1479_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Química industrial</dc:subject>
+    <dc:title>Desarrollo de test enzimático para la determinación de aminas biógenas</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Development of enzymatic test to the determination of biogenic amines</dc:title>
+</oai_dc:dc>

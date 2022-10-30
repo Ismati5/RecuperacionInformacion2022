@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Martínez Júlvez, Marta</dc:contributor>
+    <dc:creator>Pérez Amigot, Daniel</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Este trabajo aborda la búsqueda de compuestos químicos con carácter inhibitorio de la actividad de flavoenzimas de microorganismos patógenos. Concretamente se centra en la búsqueda de inhibidores de la enzima NADPH-flavodoxina reductasa del fitopatógeno Xanthomonas axonopodis pv citri denominada XacFPR. Esta bacteria es conocida por provocar la enfermedad denominada cancrosis o cáncer de cítricos que afecta a múltiples plantaciones y cultivos alrededor del mundo provocando necrosis y la caída prematura de los frutos. Por tanto esta infección supone grandes pérdidas económicas a nivel global y resulta de vital importancia desarrollar un bactericida útil. Con el fin de lograr este objetivo se escogió como diana terapéutica la XacFPR, ya que interviene en procesos de fotosíntesis y respuesta a estrés oxidativo y por tanto resulta esencial para la supervivencia del patógeno. De entre una serie de compuestos derivados de un inhibidor ensayado con anterioridad (compuesto C12 actualmente descatalogado), se seleccionaron los más competentes realizando medidas de actividad enzimática. Estos fueron D2, D5 Y D10 con valores de IC50 de 25,38, 17,24 y 174,72 µM respectivamente y porcentajes de inhibición próximos al 100%. Posteriormente y debido a su homología estructural con XacFPR, se elaboraron ensayos con AnFNR, la enzima ferredoxina NADP+-reductasa presente en la cianobacteria de Anabaena. Con lo que se pudo concluir que solo D5 resultó prácticamente inocuo frente a la FNR (IC50 de 102,38 µM y 47,31% de inhibición). Un estudio posterior del tipo de inhibición reveló un posible mecanismo de inhibición no competitiva para los tres compuestos mencionados, con valores de kI de 21,3 µM en el caso de D2, kI de 8,3 µM para D5 y kI de 74,1 µM para D10.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/65166</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Bioquímica y Biología Molecular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/65166/files/TAZ-TFG-2017-2068.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/65166/files/TAZ-TFG-2017-2068_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Química</dc:subject>
+    <dc:title>Estudio del efecto inhibitorio de algunos compuestos químicos en la actividad reductasa de flavoenzimas de organismos patógenos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Study of the inhibitory effect of some chemical compounds in the reductase activity of flavoenzymes from pathogenic organisms</dc:title>
+</oai_dc:dc>

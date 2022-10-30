@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>López Molinero,Angel</dc:contributor>
+    <dc:creator>Berlín Larqué, María Pilar</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>Se desarrolla un método de captura de imágenes digitales para la determinación colorimétrica de Calcio mediante su reacción con el reactivo GBHA. La medida de la intensidad reflectada en los colores básicos, RGB, se ha estudiado mediante técnicas quimiométricas, lo que ha permitido definir un carácter cromático en coordenadas basadas en Componentes Principales. La varianza cromática ha sido tratada como un importante parámetro de evaluación analítica. En este contexto, su evaluación ha permitido evidenciar la influencia de diferentes factores analíticos. El estudio de la influencia del iluminante sobre el color reflejado, ha permitido establecer un mejor método basado en la combinación: iluminante verde y color reflejado verde. Las prestaciones analíticas del nuevo método mejoran el rango lineal, hasta 10 mg/l, con un Límite de detección al nivel de 1,0 mg/l, y una reproducibilidad del 3% DSR.  El método se ha aplicado a la determinación de Calcio en comprimidos farmacéuticos. Los resultados han sido evaluados mediante técnicas estadísticas y quimiométricas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/32301</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Analítica; Área de Química Analítica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/32301/files/TAZ-TFG-2015-3112.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Química</dc:subject>
+    <dc:title>Imágenes digitales en las determinaciones analíticas: Estudio del iluminante</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

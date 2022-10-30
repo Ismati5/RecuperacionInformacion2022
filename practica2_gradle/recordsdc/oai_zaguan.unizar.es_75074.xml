@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>de la Riva Fernández, Juan</dc:contributor>
+    <dc:contributor>Domingo Ruíz, Darío</dc:contributor>
+    <dc:creator>Hoffrén Mansoa, Raúl</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>Los incendios forestales constituyen una de las perturbaciones más importantes de los paisajes mediterráneos, causando graves afecciones tanto en los ecosistemas como en las poblaciones. Por ello, es necesario conocer el comportamiento del fuego sobre una masa forestal. En este sentido, los modelos de combustible proporcionan una valiosa información sobre la propagación de un eventual incendio, así como sobre la cantidad de biomasa existente. El presente trabajo aborda una estimación de modelos de combustible Prometheus para tres áreas de la Península Ibérica afectadas por grandes incendios forestales en 1994, considerando la zona calcinada, en regeneración, y su entorno inmediato. Los métodos empleados se han apoyado en medios tradicionales, como la recopilación de datos en campo en parcelas experimentales de Pinus halepensis Mill., y en tecnologías de la información geográfica, mediante la creación e implementación de una base de datos para el almacenamiento de la información de campo, y el uso de los SIG y de datos de teledetección LiDAR. Ello ha permitido generar cartografías de combustibles forestales a través del modelado geoestadístico, considerando como variables independientes las procedentes del trabajo de campo y de los registros LiDAR; los mejores resultados se han obtenido mediante el modelo no paramétrico Support Vector Machine (Accuracy coef. 0,68). Tales resultados constituyen una herramienta poderosa para la gestión forestal y territorial.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/75074</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/75074/files/TAZ-TFG-2018-2754.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Geografía y Ordenación del Territorio</dc:subject>
+    <dc:title>Modelado geoestadístico del combustible forestal en paisajes de Pinus halepensis Mill. mediante datos LiDAR y de campo</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Geostatistical modeling of forest fuel in Pinus halepensis Mill. landscapes using LiDAR and field data</dc:title>
+</oai_dc:dc>

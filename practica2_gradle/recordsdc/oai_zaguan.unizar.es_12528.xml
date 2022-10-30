@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Dafni, Theopisti</dc:contributor>
+    <dc:contributor>Luzón Marco, Gloria</dc:contributor>
+    <dc:creator>Seguí Iglesia, Laura</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>The objective of this study has been to analyse the pattern recognition potential for background discrimination in a high pressure Time Projection Chamber (TPC) equipped with Micromegas detectors looking for the 136Xe neutrinoless double beta decay (&amp;#946;&amp;#946;0&amp;#957;).  In addition the commissioning of a medium size prototype equipped with pixelized Micromegas allows to do first recognition of tracks in long drift distances (38 cm) and to study the performance of these detectors on it. Results show good pattern recognition capabilities and energy resolutions, proven the operability of these detectors for a &amp;#946;&amp;#946;0&amp;#957; experiment.  The study of the background rejection potential in a 100kg TPC operating with Xe gas at 10 bar and equipped with Micromegas to study the &amp;#946;&amp;#946;0&amp;#957; have been done with MonteCarlo simulations. After the application of discrimination algorithms based on pattern recognition a rejection power of six orders of magnitude was obtained while the signal efficiency is  40%. </dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12528</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Teórica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12528/files/TESIS-2013-092.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>detectores de partículas</dc:subject>
+    <dc:subject>doble beta</dc:subject>
+    <dc:subject>micromegas</dc:subject>
+    <dc:title>Pattern Recognition in a High Pressure Time Projection Chamber prototype with a Micromegas readout for the 136Xe double beta decay</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

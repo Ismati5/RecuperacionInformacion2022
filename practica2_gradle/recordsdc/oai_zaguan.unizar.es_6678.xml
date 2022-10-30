@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ponce de León Vázquez, Jesús</dc:contributor>
+    <dc:contributor>Bono Nuez, Antonio</dc:contributor>
+    <dc:creator>Martínez Amo, Javier</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El presente proyecto ha sido llevado a cabo para la empresa productora de cine 3+D Entertainment S.L. como parte de su programa de investigación y desarrollo. Se pretende desarrollar un sistema se monitorización del movimiento del rig que sustenta la o las cámaras de video usadas en un rodaje profesional.  Concretamente se debe lograr averiguar la posición absoluta en tiempo real de la cámara en todos los ejes posibles con la precisión adecuada. Los objetivos centrales se podrían resumir del siguiente modo, haciendo una distinción entre hardware y software: a) Obtener las medidas de posición a partir de un magnetómetro y un acelerómetro así como su adecuado tratamiento digital y calibración de los dispositivos. b) Desarrollar una interface con Matlab compatible con Arduino y que permita la integración de otros proyectos y mejoras posteriores.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6678</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6678/files/TAZ-PFC-2011-700.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6678/files/TAZ-PFC-2011-700_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>sensores de posición</dc:subject>
+    <dc:subject>sensores</dc:subject>
+    <dc:subject>acelerómetro</dc:subject>
+    <dc:subject>agnetómetro</dc:subject>
+    <dc:subject>cámaras</dc:subject>
+    <dc:subject>3d</dc:subject>
+    <dc:subject>arduino</dc:subject>
+    <dc:subject>matlab</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electrónica Industrial)</dc:subject>
+    <dc:title>Sistema de monitorización de posición para cámaras en rodajes 3D</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

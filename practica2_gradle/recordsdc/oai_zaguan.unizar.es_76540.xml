@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Navarro, Pilar</dc:contributor>
+    <dc:creator>Solán Fustero, Pablo</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>Un flujo de lámina libre, cuando la longitud de onda se puede comparar en magnitud con la profundidad, se denomina de aguas poco profundas (shallow water). Las roturas de presas son ejemplos de estos problemas, caracterizadas por una gran discontinuidad inicial en la que se forma un frente de onda de altas velocidades. Las ecuaciones de aguas poco profundas que rigen su dinámica se discretizan con volúmenes finitos y se resuelven numéricamente mediante el resolvedor de Roe. El objetivo es desarrollar, programar y validar un modelo computacional unidimensional utilizando soluciones exactas, que no representan la realidad, pero que verifican las ecuaciones, y, por otro lado, medidas experimentales tomadas en el laboratorio LNEC de Lisboa o en el laboratorio del área de Mecánica de Fluidos de la Universidad de Zaragoza. A free-surface flow in which wave length is similar to water depth is called shallow water. Dam break is an example of these shallow water flows, characterized by wavefronts with high velocities originated in its great initial discontinuity. Shallow water equations will be discretize with finite volume and numerically solved through Roe solver. The main purpose is to develop, to program and to validate a 1D computational model either with exact solutions, which verify the equations, even though they are not realistic, or with experimental measures taken in LNEC laboratory in Lisbon and in Mecánica de Fluidos’ laboratory in Universidad de Zaragoza.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76540</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76540/files/TAZ-TFG-2018-3705.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/76540/files/TAZ-TFG-2018-3705_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Física</dc:subject>
+    <dc:title>Validación de un modelo computacional de simulación de flujo de agua en lámina libre mediante medidas de evolución de la superficie</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Validation of a free surface simulation model through surface evolution measurements</dc:title>
+</oai_dc:dc>

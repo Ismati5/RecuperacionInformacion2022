@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Kinnaert, Michel</dc:contributor>
+    <dc:contributor>Civera Sancho, Javier</dc:contributor>
+    <dc:creator>Gacías Lacruz, Raquel</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>This work involves the developing of a teleoperated force-feedback palpation device in order to extend the possibilities of Minimally Invasive Surgery (MIS) in the thoracic field. Nowadays, detecting lung nodules during MIS has limitations because of the lack of direct contact, so they have to be located via the endoscope and a screen, which allows the surgeon to only detect visible nodules. In order to prevent this, a palpation teleoperation device was designed and built by Angelo Buttafuoco at the SAAS laboratory of ULB. The robot is composed of a master device, manipulated by the surgeon, and a miniaturized slave device which is in contact with the lung and reproduces the task imposed by the master, and its purpose is to provide a haptic feeling to the operator for lung nodule detection during palpation through MIS. This project aims at the implementation of adequate control laws between these two parts to allow restoring the operator's haptic sensation. In other words, permitting the surgeon to feel the  lung as if he was actually touching it. The design of the teleoperation control laws is carried out in MATLAB/Simulink and then implemented in the dSpace board via ControlDesk environment, all in communication with the device itself. Performance criteria had to be defined and experiments had to be designed in order to compare several controllers and to choose the most suitable one by testing and validating them first through simulation, and then by implementing them on the existing device. The palpation is performed on a mock-up reproducing a human lung.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/58774</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/58774/files/TAZ-TFM-2016-148.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Industrial</dc:subject>
+    <dc:title>Control de un dispositivo teleoperado de palpación para cirujía mínimo-invasiva</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Control of a force-feedback teleoperated palpation device for minimally invasive thoracic surgery</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Oliveros Colay, Mª José</dc:contributor>
+    <dc:creator>Gutiérrez Ranera, Pablo</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>En este trabajo de final de máster se profundiza en la parametrización y análisis de los resultados obtenidos con un algoritmo de colonia de hormigas resolviendo problemas complejos de secuenciación de operaciones multicriterio. En primer lugar se implementa la opción de resolver las secuencias en modo permutation. Luego se toma la decisión de qué métricas utilizar para realizar una correcta valoración de los resultados y se desarrolla una herramienta para poder obtener el valor de esas métricas de forma automática. Por último se lleva a cabo la experimentación, que consiste en una búsqueda de la configuración idónea de los parámetros para la obtención de la mejor optimización multicriterio, y una análisis comparativo entre la resolución en modo permutation y modo non-permutation.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/78408</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/78408/files/TAZ-TFM-2018-1220.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Industrial</dc:subject>
+    <dc:title>Calibración de un algoritmo de optimización multiobjetivo en problemas de secuenciación de operaciones</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Calibration of a multi-objective optimization algorithm in operation sequencing problems</dc:title>
+</oai_dc:dc>

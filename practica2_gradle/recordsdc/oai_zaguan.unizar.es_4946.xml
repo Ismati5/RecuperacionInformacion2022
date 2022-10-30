@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ortín Gracia, Jorge</dc:contributor>
+    <dc:creator>Amigot Felipe, Mario</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>Dada la importancia de las comunicaciones móviles en el mundo actual y las grandes expectativas de futuro que tienen, el Departamento de Ingeniería Electrónica y Comunicaciones del Centro Politécnico Superior de la Universidad de Zaragoza viene desarrollando una línea de trabajo en torno a la codificación de canal en sistemas de comunicaciones wireless, en la cual se enmarca este proyecto fin de carrera (PFC). Dentro de esta línea se está incidiendo en la codificación de canal basada en turbocódigos mediante el desarrollo de programas informáticos que permitan crear un entorno de simulación lo más completo posible con el que realizar distintas pruebas. El objetivo de este proyecto fin de carrera, como bien lo indica su título, es estudiar distintas estrategias HARQ en sistemas de codificación de canal basados en turbocódigos que se emplean o se podrían emplear en sistemas de comunicaciones móviles como WiMAX. Como primer paso en la realización de este proyecto fin de carrera se lleva a cabo una recopilación y lectura de artículos relacionados con la codificación de canal basada en turbocódigos, las estrategias HARQ existentes y el estándar 802.16/WiMAX. Tras el análisis y comprensión de las distintas estructuras propuestas en dichos artículos, así como de los algoritmos SISO de la turbodecodificación, se implementan los esquemas originales de HARQ sobre un simulador de capa física de WiMAX mediante programas informáticos escritos en lenguaje C++. Una vez elaborados los programas en C++ se procede a realizar las simulaciones pertinentes que permitan ofrecer resultados experimentales de cara a comparar las prestaciones de los diferentes tipos de HARQ presentes en el estándar 802.16 en dos modelos de canal propios de las comunicaciones móviles: ITU Vehicular A y Pedestrian A. El siguiente paso dado es el desarrollo de una nueva estrategia HARQ capaz de mejorar el rendimiento de las estrategias ya existentes. Tras analizar y comparar meticulosamente los resultados obtenidos en las simulaciones de la propuesta, se extraen las conclusiones oportunas. Finalmente, se redacta la presente memoria en la que se recopila toda la información teórica, se plasman los resultados obtenidos más relevantes, y se incluyen las conclusiones a las que se llega.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4946</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4946/files/TAZ-PFC-2010-138.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Estrategias HARQ</dc:subject>
+    <dc:subject>Turbocódigos</dc:subject>
+    <dc:subject>WIMAX</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicaciones</dc:subject>
+    <dc:title>Implementación y evaluación de estrategias HARQ para turbocódigos en el sistema de comunicaciones WIMAX</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

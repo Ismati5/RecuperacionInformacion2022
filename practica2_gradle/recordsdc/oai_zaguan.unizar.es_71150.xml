@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Esteban Sánchez, Ana Lucía</dc:contributor>
+    <dc:creator>Sánchez Romanillos, Sergio</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>En la industria moderna, uno de los claros avances que ha supuesto una revolución en la gestión de los recursos y de los diferentes procesos y actividades productivas han sido los denominados software de planificación de recursos empresariales (“ERP”, por sus siglas en inglés, enterprise resource planning). En este proyecto, nos vamos a enfrentar a una implantación de un software ERP en una empresa completamente real, llamada TECNIVIAL, líder en señalización, balizamiento y seguridad vial en carreteras, uno de los principales proveedores de ADIF y AENA en materia de señalización y uno de los referentes nacionales en imagen corporativa. Además, esta empresa posee un sistema de gestión integrada certificada según la ISO 9001 y 14001. La principal motivación de la empresa, no es otro que el de aumentar la eficiencia de gestión de la información generada de sus diferentes actividades. Se constituye como parte fundamental de este proyecto el feedback obtenido desde la propia empresa mediante una colaboración proactiva por parte de la misma. Las partes esenciales de esta colaboración han sido la aportación de información y sugerencias de forma proactiva, la validación y revisión del trabajo efectuado y la aprobación final de este trabajo de fin de grado. Mediante esta memoria, se pretende realizar una planificación de la implantación futura del software Odoo en TECNIVIAL y la generación de una simulación-prototipo, según las características y particularidades propias de la empresa.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/71150</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/71150/files/TAZ-TFG-2018-1457_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/71150/files/TAZ-TFG-2018-1457.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Organización Industrial</dc:subject>
+    <dc:title>Implantación de ERP para la PYME Tecnivial</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">ERP Implementation for the Tecnivial SME</dc:title>
+</oai_dc:dc>

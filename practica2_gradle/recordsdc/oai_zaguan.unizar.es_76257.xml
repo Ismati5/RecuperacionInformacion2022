@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Calvete Fernández, Herminia I.</dc:contributor>
+    <dc:contributor>Mateo Collazos, Pedro</dc:contributor>
+    <dc:creator>Sández García, Carlos</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>En este trabajo se presenta un novedoso algoritmo evolutivo para resolver el Problema Multi-Periodo de Localización de Instalaciones con Oferta Incremental (Multi-Period Incremental Service Facility Lo- cation Problem). Tras un estudio computacional detallado, se demuestra que la calidad de los resultados es suficiente para justificar el uso de este método heurístico. Esto es significativo porque no parece haber artículos sobre la resolución de problemas multi-periodo similares con algoritmos genéticos o evolutivos. La estructura del trabajo se muestra a continuación: En el capítulo 1 se introduce el campo de la Ciencia de Localización (Location Science) con ejem- plos de problemas de localización de instalaciones. Esto culmina con el Problema Multi-Periodo de Localización de Instalaciones con Oferta Incremental, un modelo dependiente del tiempo para cubrir incrementalmente la demanda de servicios no esenciales. El capítulo 2 trata sobre los algoritmos genéticos y evolutivos. Se repasan los mecanismos para problemas de localización de instalaciones de un solo periodo que aparecen en la literatura. En el capítulo 3 se presenta el algoritmo evolutivo desarrollado para resolver el Problema Multi- Periodo de Localización de Instalaciones con Oferta Incremental. Se explican los operadores que forman el algoritmo y se dan algunos ejemplos. También está disponible el pseudocódigo. En el capítulo 4 se resumen los resultados de dos estudios computacionales, mostrando la eficacia del algoritmo en un abanico de problemas. También se comparan con la resolución exacta del modelo y el obtenido al optimizar periodo a periodo. En el apéndice A está el código del algoritmo implementado en R.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76257</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Métodos Estadísticos; Área de Estadística e Investigación Operativa</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76257/files/TAZ-TFM-2018-757.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Modelización e Investigación Matemática, Estadística y Computación</dc:subject>
+    <dc:title>Un problema de localización de instalaciones multiperiodo</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">A Multi-Period Facility Location Problem</dc:title>
+</oai_dc:dc>

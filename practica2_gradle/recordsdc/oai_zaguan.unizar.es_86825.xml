@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Martinez Jiménez, Juan Pablo</dc:contributor>
+    <dc:contributor>San Ambrosio Beirán, Ismael</dc:contributor>
+    <dc:creator>Casans Gabasa, Andrea</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Nuestro trabajo se centra en el estudio y caracterización de estructuras mesoescalares (mesociclones, mesoanticiclones, convergencias y divergencias). Se ha elaborado una hipótesis basada en un cambio de observador en el estudio de estas estructuras y en consecuencia, se ha desarrollado un algoritmo que permita mejorar la detección de este tipo de estruturas. &lt;br /&gt;Posteriormente, con los datos de la selección de dos días a unas horas determinadas, en los que se tiene constancia de una alta actividad convectiva se comprueba si nuestro objetivo se cumple; analizando los resultados obtenidos y estableciendo una serie de conclusiones. &lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/86825</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Aplicada; Área de Física Aplicada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/86825/files/TAZ-TFM-2019-332.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/86825/files/TAZ-TFM-2019-332_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Física y Tecnologías Físicas</dc:subject>
+    <dc:title>Mejoras técnicas para la detección de estructuras singulares mesoescalares en las imágenes de viento radial de los rádares meteorológicos de AEMET</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Technical improvements for the detection of mesoescalar singular structures in the images of radial wind AEMET's meteorological radars</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Muñoz Orbañanos, Adolfo</dc:contributor>
+    <dc:creator>Marín Crespo, Miguel</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>El rango dinamico de una imagen dene la diferencia entre los puntos de mayor y menor luminan- cia representados. Las imagenes HDR o de alto rango dinamico permiten mostrar una riqueza de informacion mucho mayor que las imagenes LDR o de bajo rango dinamico. Esta riqueza de infor- macion es superior en muchas ordenes de magnitud a lo que es capaz de reproducir un dispositivo de visualizacion estandar actualmente. Para poder visualizar este tipo de informacion se aplican operadores de tone mapping o mapeo de tonos, que transforman imagenes HDR en formato LDR para que puedan ser visualizadas. Este trabajo n de grado comprende la investigacion y el desarrollo de un operador de tone mapping mas avanzado que los operadores habitualmente utilizados, capaz de funcionar a tiempo real sobre una escena HDR. La implementacion del operador utiliza comunicacion con la GPU, ya que las tarjetas gracas permiten realizar calculos de iluminacion y visualizacion en HDR. Este hecho permitira que se pudieran realizar videojuegos utilizando tecnologa HDR, pero no podran visualizarse actualmente sin transformarse previamente su rango dinamico. El estado del arte en videojuegos hoy en da se situa en compresiones del rango dinamico utilizando curvas gamma. Tras la realizacion de este trabajo se ha logrado implementar un operador de tone mapping mas avanzado que el estado del arte actual, capaz de aplicarse sobre una escena HDR variable a tiempo real, pudiendo ademas modicar diversos parametros subjetivos que consiguen diferentes resultados visualizables dependiendo de la eleccion del usuario.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/48566</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/48566/files/TAZ-TFG-2015-3658.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>Operador de tone mapping en tiempo real</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

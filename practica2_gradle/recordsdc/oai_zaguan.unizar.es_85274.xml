@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>de la Riva Fernández, Juan</dc:contributor>
+    <dc:contributor>Revuelto Benedí, Jesús</dc:contributor>
+    <dc:creator>Rodríguez López, Guillermo</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>La fotogrametría sobre UAVs es una de las metodologías que más desarrollo ha tenido para el estudio de la criosfera en la última década, debido a su buena resolución temporal y autonomía. En este trabajo se ha puesto a prueba la aplicabilidad de este método en un entorno de alta montaña del Pirineo aragonés (cuenca de Izas) bajo diferentes condiciones de iluminación, con el fin de comprobar cuál es el papel que dichas condiciones desempeñan en la calidad de los productos finales. Para ello se han realizado 5 vuelos con un dispositivo UAV de ala fija a distintas horas del día, con diferentes ángulos de incidencia solar, propiciando la aparición de sombras topográficas y distintas condiciones de iluminación en el área de estudio. Para cuantificar la precisión de esta metodología se han comparado las nubes de puntos de los vuelos con una nube de puntos generada de manera el mismo día con láser escáner terrestre, método validado en el área de estudio. Los resultados muestran que para los vuelos con buenas condiciones de iluminación el error medio es – 0,01m y el error absoluto 0,07m. Los resultados confirman el potencial de esta metodología para el estudio del manto nival a escala detalle. Sin embargo, en condiciones de iluminación malas encontramos ausencia de datos y niveles de error sustancialmente más elevados. A modo de ejemplo de aplicación se genera un mapa de espesor de nieve en el área de estudio a partir de la nube de puntos del mejor vuelo del UAV y la nube de puntos del vuelo LiDAR PNOA del Instituto geográfico nacional. A partir de los valores de espesor del manto nival obtenidos, se ha puesto en relación la distribución del manto nival en la cuenca con las principales variables topográficas: Altitud, pendiente, curvatura, TPI y radiación potencial.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/85274</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio; Área de Análisis Geográfico Regional</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/85274/files/TAZ-TFG-2019-2545.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Geografía y Ordenación del Territorio</dc:subject>
+    <dc:title>Aplicación de dispositivos UAV para el estudio del manto nival en entornos de alta montaña: El papel de la iluminación en la calidad de los productos finales.</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Application of UAV devices for the study of the snow cover in high mountain environments: The role of illumination in the quality of final products.</dc:title>
+</oai_dc:dc>

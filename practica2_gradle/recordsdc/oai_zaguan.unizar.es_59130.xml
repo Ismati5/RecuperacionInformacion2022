@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Naval, Javier</dc:contributor>
+    <dc:contributor>De Miguel Samaniego, Diego</dc:contributor>
+    <dc:creator>de Benito Bueno, Ángela</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>El mieloma múltiple es una enfermedad caracterizada por la proliferación incontrolada de células B monoclonales que se acumulan en la médula ósea donde proliferan de forma lenta pero con una alta supervivencia. Diversos tratamientos se encuentran disponibles hoy en día, pero la enfermedad sigue siendo incurable ya que la inestabilidad característica de esta neoplasia  hace que las células se vuelvan resistentes a las señales apoptóticas mediante diversos mecanismos. Las quinasas dependientes de ciclinas (CDKs) son reguladores positivos de la progresión del ciclo celular, lo que las convierte en una diana oncológica prometedora debido a la desregulación del ciclo celular que se observa en el desarrollo del cáncer. Dinaciclib es una potente molécula inhibidora de diversas CDKs, razón por la cual se ha propuesto como un prometedor fármaco en el tratamiento del mieloma múltiple.  En este trabajo fin de grado se ha estudiado el efecto citotóxico y la capacidad que presenta Dinaciclib para inducir la apoptosis en líneas celulares de mieloma múltiple. Además, se buscó la combinación de Dinaciclib con otros fármacos como Idelalisib (CAL-101) y dos formulaciones de TRAIL (soluble y acoplado a nanopartículas lipídicas) para explorar posibles mecanismos de sensibilización.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/59130</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Bioquímica y Biología Molecular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/59130/files/TAZ-TFG-2016-2201_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/59130/files/TAZ-TFG-2016-2201.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Biotecnología</dc:subject>
+    <dc:title>Estudio de la muerte inducida por el inhibidor de CDKs Dinaciclib en células de mieloma múltiple</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Study of the death cell induced by the Cyclin-Dependent Kinase Inhibitor Dinaciclib in multiple myeloma cells</dc:title>
+</oai_dc:dc>

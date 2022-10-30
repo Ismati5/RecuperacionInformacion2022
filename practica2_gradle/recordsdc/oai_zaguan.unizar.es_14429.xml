@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>González González, María Dolores</dc:contributor>
+    <dc:contributor>Garrido Marín, Ángel Luis</dc:contributor>
+    <dc:contributor>Ilarri Artigas, Sergio</dc:contributor>
+    <dc:creator>Escudero Sánchez,Sandra</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Actualmente, las tareas de producción, gestión y manejo de grandes cantidades de información en ámbitos de documentación conllevan un gran trabajo asociado. Por ello, este proyecto desarrolla un sistema de gestión de documentación para Aragón Radio, la Radio Autonómica de Aragón, que facilita dichas tareas. Dicho proyecto cubre las necesidades de archivar, documentar y buscar los contenidos que se generan en el departamento de documentación de la empresa. El gestor documental añade opciones muy útiles, como por ejemplo: un generador de informes en formato PDF, un generador de resúmenes automáticos, unos buscadores rápidos de contenido (incluido un buscador general similar a un motor de búsqueda), posibilidad de gestionar un tesauro multinivel con relaciones padre-hijo, entre otras características imprescindibles para facilitar el trabajo diario del departamento de documentación).</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/14429</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/14429/files/TAZ-PFC-2014-252.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/14429/files/TAZ-PFC-2014-252_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>documentación</dc:subject>
+    <dc:subject>gestión</dc:subject>
+    <dc:subject>base de datos</dc:subject>
+    <dc:subject>buscadores</dc:subject>
+    <dc:subject>tesauro</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Desarrollo de un gestor documental para un medio de comunicación</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Vicente Dueñas, Daniel</dc:contributor>
+    <dc:contributor>Lera García, Francisco</dc:contributor>
+    <dc:creator>Revuelta Organero, Ester</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El objetivo planteado para este proyecto fue encontrar una solución mejor para el sistema de localización de interiores actual en el que existen diversos inconvenientes con la tecnología usada como la precisión obtenida o la complicada correlación entre la potencia recibida y la distancia emisor-receptor. Para ello se estudió la viabilidad del uso de la tecnología de ultra wideband (UWB) a través de un kit que permite la transmisión de grandes cantidades de datos sobre un amplio espectro de frecuencia en interiores con intención de tener cabida en el mercado. La memoria se divide en cinco capítulos distribuida de la siguiente forma: 1.	Introducción, estado de la técnica y sistema de localización actual. 2.	Kit Decawave: Qué es, componentes, características, Decawave100IC y cómo localiza. 3.	Puesta en marcha del kit y mediciones del mismo. 4.	Elección de antenas para el tag, PCB y mediciones de las mismas. 5.	Conclusiones, comparativo entres sistemas de localización y trabajo futuro.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61418</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61418/files/TAZ-PFC-2017-014.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/61418/files/TAZ-PFC-2017-014_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero de Telecomunicación</dc:subject>
+    <dc:title>Estudio de viabilidad para utilización de etiquetas UWB para localización y seguimiento de personal en entorno hospitalario</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+    <dc:title xml:lang="en">Feasibility study for UWB tagging use applied to personnel tracking and localization in hospital premises</dc:title>
+</oai_dc:dc>

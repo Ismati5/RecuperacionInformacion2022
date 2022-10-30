@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gracia Villa, Luis</dc:contributor>
+    <dc:contributor>López Mesa, Belinda</dc:contributor>
+    <dc:creator>PALACIOS MUÑOZ, BEATRIZ</dc:creator>
+    <dc:date>2020</dc:date>
+    <dc:description>La tesis afronta el tema de la vida útil en el Análisis de Ciclo de Vida (ACV) de edificios, que es una metodología para evaluar los impactos ambientales asociados a productos o procesos que considera energía, materiales y emisiones durante toda la vida útil. &lt;br /&gt;En el ACV de edificios, y especialmente en ACVs comparativos, la vida útil del edificio (o del grupo de edificios que se comparan) es un factor fundamental pues los impactos ambientales normalmente se anualizan para poder compararlos. Sin embargo, todavía no existe una metodología para estimar este parámetro. La comunidad científica ha llegado al consenso de que la vida útil de un edificio completo puede asemejarse a la de su estructura, pues es un elemento no separable del mismo y de complicada intervención. &lt;br /&gt;Por esto, esta tesis comprende tres contenidos fundamentales. En primer lugar, desarrolla una metodología para estimar vida útil de edificios aplicable al campo del ACV, basado en la vida útil de su estructura. Este modelo se elabora a partir de modelos físico-químicos de degradación de estructuras de hormigón armado y modelos de cálculo estructural. En segundo lugar, aplica la metodología desarrollada al campo del ACV a través de estudios de caso a nivel elemento estructural y edificio completo. Por último, evalúa a través de ACV distintas formas de refuerzo estructural que permitan extender la vida útil.&lt;br /&gt;Las principal conclusión es que estimar este parámetro es fundamental en el ACV de edificios, especialmente comparativos, pues se obtienen resultados diferentes a los obtenidos hasta la fecha, cuando no existía esta metodología. Además, queda demostrado cuantitativamente que prolongar la vida útil de edificios es una buena estrategia de sostenibilidad y el no poseer metodologías para estimarla en el ACV penaliza enormemente los resultados de materiales durables como el hormigón armado.&lt;br /&gt;</dc:description>
+    <dc:description>&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/94497</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Instituto de Investigación Mixto CIRCE</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/94497/files/TESIS-2020-140.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-nd/3.0/es</dc:rights>
+    <dc:subject>resistencia de estructuras</dc:subject>
+    <dc:subject>ingenieria y tecnologia del medio ambiente</dc:subject>
+    <dc:subject>tecnologia de la construccion</dc:subject>
+    <dc:title>A methodology to estimate buildings lifespan and its impact on ICA - the case of buildings with reinforced concrete structure</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

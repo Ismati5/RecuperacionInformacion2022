@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mazo Torres, Juan José</dc:contributor>
+    <dc:contributor>Falo Forniés, Fernando</dc:contributor>
+    <dc:creator>Esteban Andaluz, Luis</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>La motivación de este Trabajo de Fin de Grado es profundizar en la teoría que sirve de marco para los experimentos de Single-Molecule Force Spectroscopy muy comunes en el campo de la física biológica y, en general, interesante para entender el comportamiento del movimiento de partículas en la micro y nano escala. Esta teoría, que se inició con el estudio de Kramers de la tasa de escape en problemas de activación térmica en estados metaestables, es aplicable, no solo a los experimentos de Single-Molecule Force Spectroscopy, sino también a otros campos tan amplios como la teoría de transporte eléctrico, la difusión en sólidos o la cinética química. Primero repasaremos los detalles técnicos de este tipo de experimentos para después poder tener un contexto en el que introducir la teoría. Después, nos centraremos en la evolución que se ha producido en este ámbito en los últimos años, pasando desde la teoría de escape de Kramers, quien desarrolló su actividad científica en la primera mitad del siglo XX, hasta llegar a las últimas teorías que se han planteado en el última década. Entender cada paso del proceso de modelización nos ayudará a comprender las diferentes aproximaciones que se llevan a cabo para desarrollar dicho modelo teórico y estudiar cuales de ellas introducen un mayor error o una mayor limitación a la hora de recuperar información sobre el perfil de energía libre de nuestro sistema. Por último, intentaremos comprobar la validez de la teoría cuando nos alejamos de sus premisas para estudiar la generalidad del mismo y su aplicabilidad a sistemas reales en los que desconocemos todo del perfil de energía de enlace.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/65161</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física de la Materia Condensada; Área de Física de la Materia Condensada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/65161/files/TAZ-TFG-2017-2086.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/65161/files/TAZ-TFG-2017-2086_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Física</dc:subject>
+    <dc:title>"Unbinding" de complejos biológicos bajo la acción de fuerzas externas</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Unbinding of biological complexes under external forces</dc:title>
+</oai_dc:dc>

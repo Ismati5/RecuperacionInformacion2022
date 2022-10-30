@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Muñoz Rodríguez, Mariano</dc:contributor>
+    <dc:creator>Blanco Cordón, Abel</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>En el presente trabajo se aborda el análisis de la cámara de combustión actual de la instalación de miniturbina de gas que se encuentra en el Laboratorio de Motores de la Escuela de Ingeniería y Arquitectura de la Universidad Zaragoza. El objetivo es mejorar el comportamiento de dicha cámara y para ello se compara con otras cámaras con el fin de obtener conclusiones que sirvan de entrada al rediseño de la misma. Dado que la cámara actual posee limitaciones aun cuando se ha hecho un rediseño adecuado de la misma, se propone el diseño de una nueva cámara de combustión la cual puede trasegar mayor cantidad de aire aumentando así su potencia.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31962</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31962/files/TAZ-TFG-2015-1739.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Análisis y diseño de cámaras de combustión para miniturbinas de gas</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

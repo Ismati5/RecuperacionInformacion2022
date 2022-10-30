@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Dúcar, Paloma</dc:contributor>
+    <dc:creator>Cebrián Aylón, Irene</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>Los nuevos sistemas de difusión de señales digitales de audio (DAB) y vídeo (DVB) se han decantado por la modulación OFDM (Orthogonal Frequency Division Multiplexing). OFDM es un caso de transmisión multiportadora que presenta como gran ventaja su alta eficiencia espectral. Sin embargo presenta una desventaja a la hora de trabajar con amplificadores no lineales ya que es una señal de envolvente no constante. El problema es que al amplificar esta señal con un dispositivo no lineal, se produce una distorsión no deseada fuera de banda, apareciendo una invasión de canales adyacentes, también llamada Interferencia en Canal Adyacente (ICA). La opción de trabajar con un amplificador en zona lineal tampoco es óptima debido a que de esta forma no aprovechamos toda su eficiencia. Es decir, nos encontramos ante un compromiso entre linealidad y eficiencia. Basándonos en ambas exigencias se ha optado por la aplicación de una técnica de linealización de amplificadores de potencia que permite el uso de modulaciones de envolvente no constante con amplificadores no lineales, pero con una alta eficiencia espectral. La elección tomada en el presente Proyecto Fin de Carrera ha sido la implementación de un transmisor LINC (Linear amplification using Nonlinear Components) que se basa, principalmente, en la separación de la señal de envolvente no constante, la señal OFDM, en dos señales de envolvente constante. Cada una de estas señales, que son de envolvente constante, al pasar por cada una de las ramas de amplificación de potencia, evitarán la distorsión producida por la no linealidad de los amplificadores y finalmente serán recombinadas. El problema que sufre esta técnica y que vamos a intentar solucionar en este PFC es que dichos amplificadores no son ideales, es decir, no son exactamente iguales por lo que ambas ramas del transmisor LINC presentan desequilibrios en cuanto a amplitud y fase que provocarán en la señal de salida la incompleta cancelación de elementos indeseados. Esto se traducirá en un aumento de la interferencia en canal adyacente. La solución tomada es el uso de unos coeficientes de corrección para cada una de las ramas del transmisor LINC que se encarguen de corregir los desbalances existentes. Estos coeficientes son calculados a partir de un algoritmo LMS, que se encarga de su calibración a lo largo de una serie de iteraciones, primero en simulación mediante el programa Matlab y en segundo lugar a través de una aplicación experimental en lenguaje de programación C y con todo tipo de componentes hardware necesario.  Cabe destacar que hemos tratado el amplificador de potencia como un sistema con memoria, teniendo en cuenta dicha consideración para el cálculo de  los coeficientes de corrección en los instantes de memoria óptimos en los que obteníamos disminución de la distorsión.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4911</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4911/files/TAZ-PFC-2010-116_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/4911/files/TAZ-PFC-2010-116.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>señal OFDM</dc:subject>
+    <dc:subject>linealizador LINC con memoria</dc:subject>
+    <dc:subject>señal de envolvente constante</dc:subject>
+    <dc:subject>equilibrado entre ramas</dc:subject>
+    <dc:subject>interferencia en canal adyacente</dc:subject>
+    <dc:subject>amplificador no lineal</dc:subject>
+    <dc:subject>DSP</dc:subject>
+    <dc:subject>DAC</dc:subject>
+    <dc:subject>ADC</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicaciones</dc:subject>
+    <dc:title>Implementación de la técnica de linealización LINC en un transmisor de banda ancha</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

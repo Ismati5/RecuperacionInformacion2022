@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Aporta Alfonso, Justiniano</dc:contributor>
+    <dc:contributor>Sánchez Cano, Ana Isabel</dc:contributor>
+    <dc:creator>Martín Catalán, Raúl</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>En este estudio, se trata de caracterizar espectralmente lentes oftálmicas y lentes de contacto comercializadas en el rango 380nm-780nm, comprobar la transmisión de este tipo de lentes en el espectro ultravioleta y determinar su transmitancia fotópica, melanópica y en luz azul para el iluminante CIE D65 y tres tipos de iluminación artificial utilizadas actualmente. El estudio incluye 30 lentes oftálmicas en las que se encontraban filtros de baja visión, lentes de sol tintadas y lentes blancas con diferentes potencias y 13 lentes de contacto de diferentes materiales, fabricantes y poder dióptrico. Las medidas se han tomado en el espectro visible mediante un espectrofotómetro modular que utilizó una fuente de luz halógena. En el espectro ultravioleta se ha medido mediante un espectrorradiómetro AvaSpec 1024 que utilizó como fuente de iluminación una lámpara de Deuterio. Para la medida de lentes de contacto se utiliza una cubeta llena de solución salina. Los resultados obtenidos muestran la necesidad de una buena información espectrofotométrica por parte de los fabricantes de lentes, dan información acerca de las lentes con distintas fuentes de luz en condiciones fotópicas e indican la posible optimización de lentes e iluminantes para regular ciclos circadianos y proteger de la luz azul.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/77838</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Aplicada; Área de Optica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/77838/files/TAZ-TFG-2018-2202.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Óptica y Optometría</dc:subject>
+    <dc:title>Caracterización espectrofotométrica de lentes de contacto y de lentes oftálmicas</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Spectrophotometric characterization of contact lenses and ophthalmic lenses</dc:title>
+</oai_dc:dc>

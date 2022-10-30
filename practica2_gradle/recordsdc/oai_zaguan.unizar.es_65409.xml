@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Luis Vitalla, Fernando María</dc:contributor>
+    <dc:creator>Gimeno Alonso, Ignacio</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Un ordenador cuántico será una máquina capaz de procesar información mediante el empleo de los llamados qubits (bits cuánticos).  Estos elementos pueden estar en cualquier estado superposición A·|0&gt;+B·|1&gt;, lo que puede simplificar la resolución de algunos tipos de problemas computacionales costosos para la computación tradicional. Existen distintos tipos de qubits, como fotones en cavidades, circuitos superconductores o espines en sólidos, cada uno con sus ventajas y sus inconvenientes. Una de las condiciones que deben cumplir estos qubits es tener un tiempo de coherencia mucho más largo que el tiempo que dura cada operación sobre él, de forma que se puedan realizar gran número de operaciones con el qubit antes de perder la información contenida en él. En este trabajo se ha realizado un estudio de un cristal formado por moléculas que contienen un ion vanadilo (VO)2+, con el cual se han obtenido los tiempos de coherencia más largos observados (cercanos a 1 ms), para comprobar si cumple las condiciones necesarias para operar como qubit. Al mismo tiempo hemos estudiado su acoplo a resonadores y líneas de transmisión superconductoras, necesario para la manipulación y comunicación de los qubits entre sí y por tanto para la fabricación de procesadores cuánticos.  Con el estudio hemos observado, entre otras cosas, que el cristal estudiado presenta tiempos de coherencia largos, lo que posibilita su empleo como memoria cuántica magnética, a la vez que se puede conseguir un tiempo de coherencia para la molécula aislada mucho mayor que el que nos costaría realizar operaciones sobre el espín, siendo apta la molécula para su empleo como qubit.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/65409</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física de la Materia Condensada; Área de Física de la Materia Condensada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/65409/files/TAZ-TFG-2017-1703.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Física</dc:subject>
+    <dc:title>Estudio experimental de qubits moleculares de espín</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Experimental study of molecular spin qubits</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Miguel Casado, Gregorio de</dc:contributor>
+    <dc:creator>Latasa Yuste, Luis</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>La gran cantidad de información que puede encontrarse en Internet, la diversidad de contenidos y formatos constituyen un reto para que los usuarios filtren los resultados de los buscadores cuando específicamente requieren información seleccionada de artículos de opinión. En este contexto, se percibe la necesidad de desarrollar herramientas más sofisticadas que faciliten la tarea, de forma que los usuarios no empleen tiempo innecesario en la búsqueda de nuevos contenidos relacionados con sus temas de su interés. De esta necesidad no cubierta nace este proyecto, en el que se propone el desarrollo de un entorno software que facilite la gestión de contenidos en blogs de interés, facilitando la propuesta automática de lecturas, actualizaciones de los contenidos, y almacenamiento para su posterior consulta.   Puesto que el idioma elegido para los textos para analizar, catalogar y recomendar es el castellano, el proyecto presenta una naturaleza multidisciplinar, por lo que se abordan los aspectos relacionados con la morfología del castellano. La incorporación de estas características inherentes al idioma permitirá lograr una mayor robustez en los clasificadores para incorporar "invariancia semántica" frente a los mecanismos de composición y derivación que son propios de la lengua castellana.  A continuación, se abordará una prospección en las técnicas de aprendizaje y minería de datos para identificar aquellas que mejor se adapten a los criterios morfológico-lingüísticos que se pretenden utilizar para los clasificadores de texto. Seguidamente, se planteará una arquitectura del sistema y se desarrollarán las fases correspondientes de diseño e implementación de un prototipo para el que, finalmente, se evaluarán cuestiones relacionadas con el rendimiento.  Finalmente, del análisis de los resultados obtenidos se extraerán las conclusiones y el alcance del proyecto.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6487</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6487/files/TAZ-PFC-2011-625.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>blogs</dc:subject>
+    <dc:subject>analizador</dc:subject>
+    <dc:subject>clasificador</dc:subject>
+    <dc:subject>recomendador</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Sistema analizador y recomendador de blogs</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

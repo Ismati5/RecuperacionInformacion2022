@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Fernández Marco, Lucía</dc:contributor>
+    <dc:contributor>Ilarri Artigas, Sergio</dc:contributor>
+    <dc:creator>Ramos Ibáñez, Eduardo</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Moodle es una plataforma de aprendizaje on-line de software libre que cuenta con un alto nivel de madurez, extensibilidad y utilización en todo tipo de entornos educativos como colegios, universidades y otros centros de enseñanza superior. Este proyecto surge a partir de la necesidad de la empresa cliente de ampliar sus posibilidades en el campo de formación online mediante algunos cursos que no se adaptan a su plataforma de aprendizaje ya desarrollada y en funcionamiento en la actualidad. Dicha empresa trabaja en múltiples ámbitos de formación muy diferenciados, llamados líneas de negocio, y su plataforma está desarrollada desde la base para facilitar la separación de ellos. Estos ámbitos o contextos permiten, mediante el mantenimiento de una única plataforma, ofrecer una personalización del aspecto, funcionalidades y administración separada de cada línea de negocio como si se tratase de una plataforma exclusiva. Sin embargo, Moodle no está diseñado para contener varios ámbitos en un solo sitio web, de forma que es necesario desplegar varios sitios Moodle, uno por línea de negocio. Pero la gestión y mantenimiento de varios sitios Moodle puede llegar a ser una tarea manual repetitiva, poco eficiente y propensa a errores, especialmente cuando la cantidad de sitios es elevada. Con este proyecto pretendemos ofrecer una solución automatizada general para el despliegue y gestión de varias plataformas Moodle a modo de multi-sitio, así como ofrecer una serie de complementos de utilidad común en todos los sitios Moodle, formen o no parte de un multi-sitio. De este modo, el proyecto se compone de dos módulos principales técnicamente independientes, la aplicación de gestión del multi-sitio y un tema para Moodle con características de personalización avanzadas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/15911</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/15911/files/TAZ-PFC-2014-368.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/15911/files/TAZ-PFC-2014-368_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>campus virtual</dc:subject>
+    <dc:subject>moodle</dc:subject>
+    <dc:subject>web</dc:subject>
+    <dc:subject>multi-sitio</dc:subject>
+    <dc:subject>personalización interactiva</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Puesta en marcha de plataformas multi-sitio tipo campus virtual mediante la extensión de Moodle</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

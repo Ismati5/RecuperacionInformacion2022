@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sola Martínez, Daniel</dc:contributor>
+    <dc:contributor>Peña Torre, José Ignacio</dc:contributor>
+    <dc:creator>Conejos Buj, Daniel</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El objetivo del presente proyecto ha sido la fabricación de vidrios de los compuestos cerámicos Ca3Al2Si3O12, Mg3Al2Si3O12 y Ca1.5Mg1.5Al2Si3O12 mediante fusión zonal asistida con láser, su caracterización microestructural, mecánica, térmica y óptica y la realización de un estudio de bioactividad. La elección de estas composiciones se debe a dos razones. Por una parte, es conocido que a altas temperaturas y presiones estos materiales adquieren estructura tipo granate, lo que les permitiría poder ser utilizados como matriz láser.Por otra, dada su composición química podrían ser materiales bioactivos. De esta manera, la variación de las propiedades ópticas del material podría utilizarse como sonda luminiscente para conocer la evolución de la microestructura del implante.  Los vidrios se obtuvieron mediante una técnica de solidificación direccional, en concreto, se utilizó fusión zonal asistida con láser (LFZ). Los precursores necesarios se fabricaron mezclando polvos comerciales de Al2O3, CaO, MgO y SiO2 con la composición deseada y utilizando compactación isostática en frío y sinterización. Se realizó la caracterización microestructural mediante SEM comprobando la ausencia de fases cristalinas y se determinó la composición real de los vidrios mediante análisis EDX. Los ensayos de dureza Vickers, de nanoindentación y de flexión por tres puntos permitieron determinar las propiedades mecánicas de los vidrios. Con la caracterización térmica se obtuvieron las temperaturas de recristalización y de transición vítrea. Mediante espectroscopia láser se caracterizaron, a temperatura ambiente, vidrios dopados con un 1% en peso de Nd2O3 obteniendo los espectros de emisión, de excitación y los tiempos de vida media,  así como la densidad óptica. Para determinar la bioactividad de estos materiales se realizaron ensayos in vitro. Las muestras se sumergieron en suero biológico artificial (SBF) y se observaron los cambios producidos en la superficie del material transcurridas 3, 7 y 8 semanas. El proyecto se ha realizado en el Área de Ciencia de Materiales e Ingeniería Metalúrgica del Departamento de Ciencia y Tecnología de Materiales y Fluidos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/13405</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Ciencia de los Materiales e Ingeniería Metalúrgica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/13405/files/TAZ-PFC-2014-054.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>fusión zonal</dc:subject>
+    <dc:subject>bioactividad</dc:subject>
+    <dc:subject>sem</dc:subject>
+    <dc:subject>ensayo flexión por 3 puntos</dc:subject>
+    <dc:subject>dureza vickers</dc:subject>
+    <dc:subject>nanoindentación</dc:subject>
+    <dc:subject>dsc</dc:subject>
+    <dc:subject>espectroscopia óptica</dc:subject>
+    <dc:subject>ensayos in vitro</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Fabricación mediante fusión zonal con láser, caracterización microestructural, mecánica, térmica y óptica y estudio de bioactividad del compuesto (CaxMg(1-x))3 Al2Si3O12</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

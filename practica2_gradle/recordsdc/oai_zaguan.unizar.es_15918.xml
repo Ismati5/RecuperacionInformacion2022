@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Heljanko, Keijo</dc:contributor>
+    <dc:contributor>Bañares Bañares, José Ángel</dc:contributor>
+    <dc:creator>Cerdán Lázaro, Mario</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Cloud computing has opened doors to a new era of enterprises that harness the new Cloud enabled business. More and more novel applications are leveraging this paradigm every day, which translates to a never seen increase in the amount of stored data. This phenomenon is commonly known as Big Data; the presence of rapidly expanding high-volume data sets. Many of these applications bring new challenges to databases and therefore the scalability of the Cloud-based databases has become a top-research issue of the Cloud Computing infrastructure. As an alternative to the well-known relational databases, NoSQL databases have born to fit Big Data application requirements. Traditional relational databases as they are often implemented are not sufficient anymore for Internet scale distributed systems dealing with Big Data. Nevertheless, NoSQL have proved to be robust in Big Data applications. The purpose of this project is to scaling out the data of a San Diego company that produces software for wireless multimedia, which is currently implemented on a MySQL cluster.  In order to improve the performance of the computation, we propose a solution using Apache HBase, a NoSQL database. This final project proposes implementations as well as comparison details of a number of computation techniques conducted in HBase along with different open-source distributed computing components such as Hadoop HDFS and MapReduce, and presents benchmarks of our developed solution.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/15918</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/15918/files/TAZ-PFC-2014-371.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/15918/files/TAZ-PFC-2014-371_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>cloud computing</dc:subject>
+    <dc:subject>nosql</dc:subject>
+    <dc:subject>hbase</dc:subject>
+    <dc:subject>hadoop</dc:subject>
+    <dc:subject>mapreduce</dc:subject>
+    <dc:subject>cap</dc:subject>
+    <dc:subject>data skew</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Scalability of a cloud-based data store: improving HBase performance</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

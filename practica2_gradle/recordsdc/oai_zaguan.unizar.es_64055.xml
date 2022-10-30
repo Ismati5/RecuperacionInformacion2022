@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>López Pellicer, Francisco Javier</dc:contributor>
+    <dc:creator>Moreno Jimeno, Rubén</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Todos tenemos no uno, sino varios trasteros en diferentes sitios (domicilio particular, casa de vacaciones, guardamuebles, etc.). Cuando buscamos algo en nuestros trasteros, con frecuencia, no lo encontramos porque otro miembro de la unidad familiar lo ha movido de sitio e incluso lo ha llevado a otro de los trasteros familiares. El objetivo del proyecto es crear una solución que ofrezca a las familias un sistema de gestión de trasteros. En esta solución, los usuarios organizados en familias podrán gestionar vía una aplicación web para móvil sus trasteros, y un administrador dispondrá de una aplicación web para escritorio para gestionar el sistema.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64055</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64055/files/TAZ-TFG-2017-3388.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>Depot Cloud: Un sistema de gestión de trasteros</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Depot Cloud: A storage room management system</dc:title>
+</oai_dc:dc>

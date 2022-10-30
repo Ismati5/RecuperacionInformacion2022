@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Izquierdo Nuñez, David</dc:contributor>
+    <dc:contributor>López Lucia, Alicia</dc:contributor>
+    <dc:creator>Ramos García, Guillermo</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Estudio y análisis, con implementación real en laboratorio, de las ventajas que presentan el uso de técnicas de modulación avanzadas frente a formatos de modulación sencillos en sistemas de transmisión con fibra óptica de plástico (POF). Concretamente se comparan los formatos avanzados MultiCAP y OFDM frente a los mas sencillos como NRZ, PAM o CAP. Además las medidas se han realizado en diferentes tipos de fibra óptica de plástico como son la GI-POF, SI-POF o Multicore POF. Se lleva a cabo un primer análisis y explicación de los diferentes tipos de fibra y sus características así como de los formatos de modulación que se van a emplear en las medidas de laboratorio. Contiene una explicación detallada de la metodología empleada para la realización de las medidas. Por último se estudian los resultados obtenidos para demostrar las mejoras alcanzadas y se plantean algunas líneas de estudio futuras.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/85257</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/85257/files/TAZ-TFG-2019-2684.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías y Servicios de Telecomunicación</dc:subject>
+    <dc:title>Técnicas avanzadas de transmisión para el aumento de la eficiencia espectral en fibra óptica de plástico (POF)</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Advanced transmission techniques for higher spectral efficiency in plastic optical fiber (POF)</dc:title>
+</oai_dc:dc>

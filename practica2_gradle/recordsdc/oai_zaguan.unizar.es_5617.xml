@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Pastor Tejedor, Ana Clara</dc:contributor>
+    <dc:creator>Arcega Blanco, Pilar </dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El estudio de componentes logísticos es el primer paso para realizar una modelización de los distintos procesos que tienen lugar en un almacén. Su uso depende de diversos factores, entre ellos la naturaleza del producto, las técnicas de manipulación que en él se emplean o la ubicación del propio almacén. En la primera parte de este proyecto, se clasifican los tipos de almacén según sus propiedades y características más relevantes. Asímismo, en una segunda clasificación se especificarán los tipos de mercancía que pueden ser almacenados, y por último, se detallará el tipo de envase o packaging en el que se pueden encontrar dichas mercancías. Para realizar la selección, que es el objetivo final, se deben conocer con detalle y sin posibilidad de error las distintas alternativas de almacenamiento. Se establecerá un método de valoración de idoneidad en la combinación de los factores determinantes (tipo de almacén-tipo de envase, tipo de mercancía-tipo de envase) para llevar a cabo la selección. Como demostración del estudio se comprobará mediante un ejemplo, que un mismo producto, en este caso leche, puede almacenarse de muy diversas formas dependiendo de en que parte del proceso se encuentre, cuánto tiempo y en que condiciones debe almacenarse.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5617</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Dirección y Organización de Empresas; Área de Organización de Empresas</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5617/files/TAZ-PFC-2011-069.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5617/files/TAZ-PFC-2011-069_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>clasificación</dc:subject>
+    <dc:subject>almacén</dc:subject>
+    <dc:subject>tipo</dc:subject>
+    <dc:subject>mercancía</dc:subject>
+    <dc:subject>packaging</dc:subject>
+    <dc:subject>envase</dc:subject>
+    <dc:subject>método idoneidad</dc:subject>
+    <dc:subject>almacenamiento de leche</dc:subject>
+    <dc:subject>propiedades características</dc:subject>
+    <dc:subject>logística</dc:subject>
+    <dc:subject>distribución</dc:subject>
+    <dc:subject>pallet</dc:subject>
+    <dc:subject>contenedor</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Desarrollo de un método para la selección de componentes logísticos sobre la base de modelos de procesos</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Navarro Elola, Luis</dc:contributor>
+    <dc:creator>Gimeno Fernández, Begoña</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>Este proyecto ha sido desarrollado dentro del Departamento de Economía y Dirección de Empresas en el Área de Organización de Empresas de la Universidad de Zaragoza, dentro de un convenio de colaboración entre el Consejo Regulador de la Denominación de Origen del Somontano y el Área de Organización de Empresas. Pretende ser el trabajo final de una investigación y trabajo llevado a cabo durante más de un año en el Área, durante el cual 3 proyectos finales de carrera previos han sido desarrollados. Los objetivos de este proyecto han sido sintetizar la información que existe en artículos de investigación a cerca del Índice de Satisfacción del Consumidor (CSI) y los Modelos de Ecuaciones Estructurales (SEM), y en base a ello aplicar el modelo europeo a una investigación de mercado con los productos de la D.O. Somontano. Para esta aplicación es necesario realizar el análisis de unas encuestas de satisfacción de cliente, basadas en el modelo de ecuaciones estructurales ECSI (European Customer Satisfaction Index). Este modelo es útil porque no sólo permite determinar la satisfacción de un consumidor sobre un cierto producto o servicio, sino que también ayuda a conocer las relaciones existentes con otros factores relevantes que intervienen en el acto de consumo o de adquisición de un producto por parte del cliente. El fundamento de este índice se halla en los modelos de ecuaciones estructurales los cuales mediante indicadores permiten asignar un valor a las variables del índice que no pueden ser medidas directamente y a sus relaciones causales. El desarrollo del análisis se realiza utilizando dos herramientas informáticas principalmente, SPSS y EQS, con las que se realizan cuatro análisis diferentes. Los dos primeros análisis, de fiabilidad y factorial, se realizan con SPSS y el objetivo es depurar los datos de la encuesta en base a unos indicadores. Los dos análisis finales, confirmatorio y causal, se realizan con EQS y pretenden radiar la relación existente entre las diferentes variables implicadas y entre una variable y sus indicadores. Con los resultados obtenidos para las relaciones entre los parámetros del análisis, se extraen una serie de conclusiones, y se comentan las limitaciones presentes para la realización de este trabajo y futuras líneas de actuación en un futuro.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4983</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Dirección y Organización de Empresas; Área de Organización de Empresas</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4983/files/TAZ-PFC-2010-156_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/4983/files/TAZ-PFC-2010-156.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Índice europeo de satisfacción del cliente</dc:subject>
+    <dc:subject>Modelos de ecuaciones estructurales</dc:subject>
+    <dc:subject>D.O. Somontano</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Aplicación del índice europeo de satisfacción del cliente</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

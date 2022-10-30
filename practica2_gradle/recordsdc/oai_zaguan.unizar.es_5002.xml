@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Albericio Latorre, Jorge</dc:contributor>
+    <dc:contributor>Ibáñez Marín, Pablo</dc:contributor>
+    <dc:creator>Marco Sola, Santiago</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>La librería GEM, que utiliza la transformada de Burrows-Wheeler y los índices de Ferragina-Manzini, es utilizada por los centros de investigación genómica para indexar grandes cantidades de pequeñas secuencias de DNA. Esta librería proporciona un conjunto de operaciones para anlizar de forma eficiente las secuencias dentro de un índice genómico. Por ello, se busca maximizar el rendimiento de esta aplicación en el entorno de producción. Este Proyecto Fin de Carrera consiste en analizar y evaluar la librería, sus estructuras y mecanismos de indexación. Se analiza su rendimiento y comportamiento en memoria prestando especial atención al uso que realiza de la jerarquía de memoria. Así bien, se muestra cuales son los cuellos de botella. Además, se plantean alternativas de implementación enfocadas a mejorar el rendimiento de la librería. Se proponen mejoras tanto a nivel algoritmo como consientes de la arquitectura. Una vez expuesto el análisis sobre la librería se exponen los resultados derivados de la implementación de las optimizaciones. Se muestran los resultados de ajustar los parámetros de optimización, los costes y resultados. De este modo, se analiza desde una perspectiva cualitativa y cuantitativa el impacto de las optimizaciones en la librería y porque ayudan a mejorar el rendimiento global de la librería. Por otro lado, se exponen los resultados de varios estudios relacionados con el impacto de las opciones de compilación en la librería, la organización a bajo nivel del índice en memoria, la distribución de las bases en el índice y la implementación de operaciones en el camino crítico de la aplicación. Por último, se realiza una aproximación a una versión paralela de la librería. Esta ha sido implementada y evaluada en términos de rendimiento y escalabilidad. Se justifica la solución adoptada y los resultados obtenidos. Se finaliza haciendo una evaluación del trabajo realizado y el planteamiento de objetivos en la línea del presente Proyecto Fin de Carrera.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5002</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Arquitectura y Tecnología de Computadores</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5002/files/TAZ-PFC-2010-169.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>GEM</dc:subject>
+    <dc:subject>Indexación DNA</dc:subject>
+    <dc:subject>Jerarquía Cache</dc:subject>
+    <dc:subject>Paralelización</dc:subject>
+    <dc:subject>Bioinformática</dc:subject>
+    <dc:subject>Burrows-Wheeler</dc:subject>
+    <dc:subject>Ferragina-Manzini</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Análisis y optimización de GEM: una librería para el análisis e indexación de información genética</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

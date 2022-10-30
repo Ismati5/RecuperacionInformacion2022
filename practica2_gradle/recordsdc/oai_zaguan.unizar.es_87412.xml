@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Luzón Marco, Gloria</dc:contributor>
+    <dc:contributor>Dafni, Theopisti</dc:contributor>
+    <dc:creator>Moreno Gómez de Segura, Cristina</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>El presente trabajo es la exposición de una página web creada con fines educativos. El tema tratado teóricamente durante el trabajo son los rayos cósmicos, centrándose posteriormente en los muones creados a partir de estos y la detección de los mismos. Se expone también una herramienta, RestSoft, para realizar simulaciones de rayos cósmicos. Mediante el uso práctico de estas simulaciones se pretender comprobar la validez de la teoría además de dar un punto de vista diferente a la física de partículas.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87412</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Teórica; Área de Física Atómica, Molecular y Nuclear</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87412/files/TAZ-TFG-2019-3024.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Física</dc:subject>
+    <dc:title>Módulo educativo sobre rayos cósmicos utilizando el entorno "RestSoft"</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Course-module on Cosmic Rays based on the "RestSoft" framework</dc:title>
+</oai_dc:dc>

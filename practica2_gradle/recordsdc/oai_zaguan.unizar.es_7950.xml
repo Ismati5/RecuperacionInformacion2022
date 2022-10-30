@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Díaz Maag, Javier</dc:contributor>
+    <dc:contributor>Latre Abadía, Miguel Ángel</dc:contributor>
+    <dc:creator>Lecina Laplana, Alejandro</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Las aplicaciones empresariales necesitan, para tareas de soporte, pantallas que accedan directamente a los datos "en crudo" contenidos en las tablas de la base de datos, y que permitan editar, visualizar o insertar nuevos. Existen algunas herramientas que permiten generar una versión inicial de las clases Java que conforman estas pantallas, pero requieren siempre de ajustes manuales para que sean debidamente utilizables por un usuario. Esto se debe a varias causas, que están relacionados con la falta de visibilidad sobre la relación referencial (claves externas) entre las diversas tablas de una aplicación. Pensando en el software SILO de HP, se propone crear un generador automático de clases Java que tenga en cuenta los metadatos que cualquier base de datos contiene acerca de la estructura referencial de las entidades que la componen, y los utilice para adecuar un conjunto de plantillas existentes y así generar clases Java y paginas xhtml que conformen pantallas de soporte finales, sin necesidad de ajustes posteriores por parte de desarrolladores. Objetivos del proyecto: 1- Generar ficheros XML por cada tabla deseada que contenga toda la información a cerca de los metadatos y las restricciones (claves primarias y claves importadas) de dicha tabla. 2- Usando los XML antes generados, y mediante transformaciones XSL, se generaran las clases java con la información de los metadatos y restricciones de las tablas, así como las paginas xhtml que permitirán el acceso a las tablas. 3- En el caso de las paginas que listan los datos de una tabla, se creara una metodología que permita importar campos clave de las tuplas referenciadas por las columnas que son claves importadas, para así poder mostrar los datos de una manera mas fácilmente interpretable por un usuario.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/7950</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/7950/files/TAZ-PFC-2012-362_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/7950/files/TAZ-PFC-2012-362.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>base de datos</dc:subject>
+    <dc:subject>metadatos</dc:subject>
+    <dc:subject>generador</dc:subject>
+    <dc:subject>clases java</dc:subject>
+    <dc:subject>java</dc:subject>
+    <dc:subject>xml</dc:subject>
+    <dc:subject>xslt</dc:subject>
+    <dc:subject>j2ee</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Auto-generador de clases Java a partir de metadatos de una base de datos</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Moliné Gómez, Jorge</dc:contributor>
+    <dc:contributor>Valdovinos Bardaji, Antonio</dc:contributor>
+    <dc:creator>Fernández Giménez, José Luis</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Desarrollo de dos aplicaciones móviles para la localización de un dispositivo móvil con sistema operativo Android en el interior de un centro comercial mediante tecnología Wi-Fi. Las dos aplicaciones son: GeneradorMapaPotencias: permite la creación de un mapa radio mediante tecnología Wi-Fi utilizando la técnica fingerprinting. No está disponible para el usuario final y es utilizada únicamente por el desarrollador. Tras la selección del recinto y la planta de entre las disponibles en un menú, y en función de la opción escogida, se carga la imagen del plano del lugar. Mediante simples toques en la pantalla en el lugar de la imagen correspondiente a la posición en cada instante en el recinto, detecta los puntos de acceso Wi-Fi a su alcance y almacena los datos necesarios de cada uno de ellos para la creación del mapa radio. Dichos datos serón incluidos en un fichero con formato XML que será interpretado por la segunda aplicación. Se da la posibilidad de realizar este fichero en diferentes sesiones, así como de visualizar en cada una de ellas el estado de creación del mapa radio. Posicionador: disponible para el usuario final. Interpreta los datos contenidos en el fichero con formato XML creado por la otra aplicación y los utiliza para la estimación de la posición, cada varios segundos, del dispositivo móvil que la contiene. Dicha posición estimada se muestra en una imagen del plano de la planta del recinto en la que se encuentra el usuario. Esta aplicación es única para la planta de un recinto concreto. La comunicación de datos entre ambas aplicaciones se realiza mediante el citado fichero en formato XML que se crea en GeneradorMapaPotencias y que se incluye posteriormente en Posicionador para su acceso. Los dispositivos móviles en los que se quiera utilizar estas aplicaciones deberán tener sistema operativo Android con una versión 2.1 o superior y posibilidad de conexión a una red Wi-Fi.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64292</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingeniería Telemática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64292/files/TAZ-PFC-2017-029.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero de Telecomunicación</dc:subject>
+    <dc:title>Desarrollo de aplicaciones móviles para la localización de dispositivos móviles con sistema operativo Android en entornos de interior de centros comerciales mediante tecnología WiFi</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+    <dc:title xml:lang="en">Indoor WiFi positioning system for Android</dc:title>
+</oai_dc:dc>

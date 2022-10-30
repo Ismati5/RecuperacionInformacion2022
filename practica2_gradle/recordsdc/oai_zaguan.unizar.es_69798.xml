@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Baptista, Pedro Miguel</dc:contributor>
+    <dc:contributor>García Aznar, José Manuel</dc:contributor>
+    <dc:creator>Rivas Morales, Jesús Javier</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>En la presente tesis de máster, se ha perseguido obtener un sistema de oxigenación para ingeniería de tejidos, mediante la encapsulacion de hemoglobina porcina. Para ello diferentes métodos de síntesis de encapsulación han sido llevados a cabo caracterizando y analizando los resultados obtenidos. En primer lugar se encapsulo hemoglobina siguiendo la técnica de doble emulsión-evaporación del disolvente siguiendo dos protocolos diferentes, se obtuvieron nano partículas de entre 40 y 200nm aproximadamente con resultados de eeficiencia de encapsulamiento y carga del principio activo razonables. A continuación, se optimizo y se sintetizaron microcapsulas por medio de electrospray con un tamaño aproximado de una micra, pero su compleja recolección y los pobres valores de encapsulamiento y oxigenación hacen que no sea una opción demasiado viable.  Finalmente se obtuvieron micropartículas por medio de microreactores, con tamaños desde 3 micras hasta 200 y con valores de oxigenación no demasiado significantes.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/69798</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/69798/files/TAZ-TFM-2018-016.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Biomédica</dc:subject>
+    <dc:title>Encapsulamiento de Hemoglobina porcina como fuente de oxigenación en ingeniería de tejidos</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Porcine Hemoglobin encapsulation as an oxygen carrier in tissue engineering</dc:title>
+</oai_dc:dc>

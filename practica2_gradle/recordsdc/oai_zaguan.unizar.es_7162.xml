@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gascón Cabrejas, David</dc:contributor>
+    <dc:contributor>Martínez Rodríguez, Javier</dc:contributor>
+    <dc:creator>Ruiz Lite, Joaquín</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Las redes sensoriales inalámbricas están formadas por una serie de nodos que miden parámetros de interés mediante sensores y trabajan en conjunto para enviar esa información. El dispositivo Waspmote, es un equipo de comunicaciones diseñado para implementarse en redes sensoriales basado en un microprocesador de bajo consumo, al que se pueden incorporar módulos a través de sus entradas analógicas y digitales. Dichos dispositivos, se comunican mediante tecnología ZigBee, utilizando una máquina que dispone de radio ZigBee para controlar y recibir información de los nodos sensoriales. Sin embargo, si incorporamos un módulo Wi-Fi a los nodos, podremos comunicarlos con otro dispositivo que disponga de tecnología Wi-Fi o con un servidor de Internet, sin necesidad de hardware adicional. Este Proyecto Fin de Carrera consiste en la selección de un módulo Wi-Fi 802.11 b/g para su integración en el dispositivo Waspmote, así como del desarrollo de las librerías necesarias para el control y manejo a bajo nivel (API). Las principales funcionalidades de la biblioteca desarrollada son transmisiones en modo cliente para comunicar los nodos sensoriales con Internet y transmisiones en modo Ad-hoc con otro dispositivo que disponga de tecnología Wi-Fi. Dichas transmisiones se realizan mediante diferentes protocolos y transmisiones. También se ha desarrollado una serie de aplicaciones para probar el gran abanico de opciones de conexión que ofrece la tecnología 802.11 b/g mediante transmisiones en modo cliente y en modo Ad-hoc. Se han desarrollado aplicaciones específicas para las plataformas iPhone y Android que permiten capturar las tramas enviadas desde los nodos sensoriales. Finalmente, se ha hecho un informe de prestaciones del módulo definitivo, tanto pruebas de distancia/cobertura de la señal, como pruebas de consumo del módulo, incluyendo algoritmos que permiten optimizar el tiempo de vida de las redes, poniendo el radio en modo dormir, o cambiando características como la potencia de transmisión o el ratio de transmisión.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/7162</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/7162/files/TAZ-PFC-2012-200.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>api control</dc:subject>
+    <dc:subject>radio 802.11 b/g</dc:subject>
+    <dc:subject>libelium</dc:subject>
+    <dc:subject>dispositivos embebidos</dc:subject>
+    <dc:subject>sistemas empotrados</dc:subject>
+    <dc:subject>wifi</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Diseño y evaluación del api de control de un radio 802.11 b/g para su uso en dispositivos embebidos </dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

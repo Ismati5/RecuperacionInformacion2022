@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bono Nuez, Antonio</dc:contributor>
+    <dc:creator>Arnal Herguedas, Víctor</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Realización de un sistema de control estándar para máquinas cortacesped basado en el microcontrolador PSoC CY8C29466. Incluye desarrollo de prototipo PCB.  Se controlan una serie de sensores para proporcionar al usuario de la máquina variables de interés y de seguridad.  Tambien se describe el desarrollo de un protocolo de comunicación serie con el PC.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6938</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6938/files/TAZ-PFC-2012-095.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6938/files/TAZ-PFC-2012-095_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>microcontrolador cy8c29466</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electrónica Industrial)</dc:subject>
+    <dc:title>Sistema de control para máquina cortacésped basado en microcontrolador PSoC</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

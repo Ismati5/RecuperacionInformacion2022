@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bayod López, Javier</dc:contributor>
+    <dc:creator>Morales Orcajo, Enrique</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>CONTEXTO: Existen numerosas patologías en el pie que precisan de tratamiento médico quirúrgico. Algunas de estas dolencias son debidas a deformidades adquiridas del antepié. El hallux valgus es una da las deformidades más frecuente del pie. Se presenta con mayor periodicidad en mujeres, siendo 10 veces más frecuente en mujeres que en hombres. Las causas del hallux valgus no están claras. Se trata de una patología de origen multifactorial con una clara relación hereditaria, además sea constatado que el uso de calzado ayuda a la progresión de la deformidad. Los cirujanos han observado, al operar la patología del hallux valgus, que la falange proximal es diferente, en cuanto a forma, en hombres y mujeres. OBJETIVO: En este proyecto se estudia la influencia de la geometría de la falange proximal del  primer dedo del pie en la formación de juanetes. En particular se analiza, la influencia del dimorfismo sexual que presenta este hueso en el hecho de que las mujeres padezcan con mayor frecuencia que los hombres esta deformidad. METODOLOGÍA: Se realiza una simulación computacional mediante un modelo de elementos finitos en 3 dimensiones del esqueleto de un pie humano para el estudio de las tensiones y deformaciones en el primer radio. A partir de la descripción cualitativa y cuantitativa de las falanges del primer dedo, proporcionada por los cirujanos mediante la disección de cadáveres, se generan falanges de distintos tamaños y geometrías, tanto de hombre como de mujer e insertan en el modelo de partida. RESULTADOS: Las falanges proximales soportan esfuerzos de compresión en la zona medial y esfuerzos de tracción en la zona lateral, estas tensiones son más patentes cuanto más grande es la falange. Además en la concavidad de la base de la falange las tensiones son mayores cuanto menor es la profundidad. CONCLUOSINES: Las tensiones generadas en la falange proximal intensificadas por la sobrecarga en la base, producen una tendencia a la separación del metatarsiano del primer radio con respecto a la posición anatómica original, lo que constituye el inicio de la deformidad del hallux valgus.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/7797</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/7797/files/TAZ-TFM-2012-074.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>biomecánica</dc:subject>
+    <dc:subject>simulación computacional</dc:subject>
+    <dc:subject>elementos finitos</dc:subject>
+    <dc:subject>pie</dc:subject>
+    <dc:subject>hallux valgus</dc:subject>
+    <dc:subject>juanetes</dc:subject>
+    <dc:subject>falange proximal</dc:subject>
+    <dc:subject>Máster Universitario en Sistemas Mecánicos</dc:subject>
+    <dc:title>Influencia de la geometría de la falange proximal del primer dedo del pie en la formación de juanetes</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

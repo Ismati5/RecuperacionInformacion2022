@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Esteban Escaño, Javier</dc:contributor>
+    <dc:creator>Barrazueta Livizaca, Ruosbelt Rodrigo</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>En el mercado actual existen muchos productos comerciales para la automatización de invernaderos. Dichas tecnologías son costosas y utilizadas para la obtención de productos agrícolas a gran escala. No así en pequeñas producciones las cuales son construidas con bajo presupuesto. La mayoría de estas instalaciones no cuentan con el adecuado equipamiento tanto al nivel estructural como de control y monitorización.    En el presente trabajo se presenta un invernadero para clima templado con el pertinente equipamiento con el que obtener las mejores condiciones climáticas. Además se expone una plataforma de monitoreo y control en tiempo real de bajo costo. Se dispone de un módulo de captación con tecnología inalámbrica provisto de una serie de sensores colocados estratégicamente con el fin de obtener las condiciones internas lo mas fiable posible. Este módulo enviará las distintas variables a una página web y a una base de datos, para posteriormente establecer una conexión WIFI con otro módulo, llamado módulo de actuadores, que será encargado de  realizar las ordenes de actuación.    Como interfaces se cuenta, ademas de la página web, con una aplicación para dispositivos Android con el que realizar la configuración WIFI de nuestro módulo de sensores y con la que estableceremos la conexión a internet.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/58019</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/58019/files/TAZ-TFG-2016-4838.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecatrónica</dc:subject>
+    <dc:title>Implementación de invernadero con sistema de control y monitoreo inalámbricos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Greenhouse Implementation with Wireless Monitoring and Control Systems</dc:title>
+</oai_dc:dc>

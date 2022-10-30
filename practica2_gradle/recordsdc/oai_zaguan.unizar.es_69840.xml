@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ponce de León Vázquez, Jesús</dc:contributor>
+    <dc:creator>Orte Ruiz, Adrián</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>Con  el avance  de la  tecnología  de sistemas  electrónicos, cada  día  se  hace más fácil poder incorporar estos sistemas dentro de la vida cotidiana de las personas. En concreto, tecnologías como las que se aplican en vivienda, sistemas domóticos, hasta hace poco, resultaban  excesivamente  costosas  y  eran  poco  utilizadas.  Con  la  llegada  los microcontroladores más económicos, estas tecnologías cada vez son más accesibles a la población  y se pueden  empezar a  plantear  proyectos para acomodarlas  en mayor número de casos.  En este proyecto en concreto desarrolla un sistema IOT, basado en domótica, con el fin de  poder  automatizar  distintas  actividades  y  poder  controlarlas  a  distancia  desde Internet. Para enviar y recibir datos desde la red se hace uso de microcontroladores con módulos Wi-Fi.   Los datos enviados a la red corresponden a sensores conectados al microcontrolador que  permiten  conocer  la  información  que  se  obtiene  desde  los  mismos, estratégicamente instalados para controlar las funciones que la domótica demanda.  Se ha creado un conjunto de páginas web, mediante el uso de código HTML combinado con PHP, en el que se muestran datos de los sensores y permiten interactuar con la vivienda accionando diferentes dispositivos.  Uno  de  los  objetivos  del  proyecto  es  la  obtención  de  un  sistema  domótico  que  sea accesible  a  una  gran  cantidad  de  personas  debido  a  su  bajo  coste  y  grandes prestaciones. Por todo ello se ha hecho una búsqueda de los componentes más idóneos en cuanto a precio y funcionalidad de cuantos existen en el mercado.  Para la redacción de este proyecto, se ha ido realizando prototipos de cada uno de los sistemas domóticos  con el objetivo de  poder  redactar  el  código de  programación de dichos  sistemas  y  a  su  vez  poder  comprobar  que  dicho  sistema  funciona adecuadamente.  Por  todo  lo  anteriormente  expuesto  se  entrega  la  siguiente documentación  considerándola  adecuada  y  suficiente  para  la  realización  del  sistema  domótico propuesto.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/69840</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/69840/files/TAZ-TFG-2018-075.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/69840/files/TAZ-TFG-2018-075_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecatrónica</dc:subject>
+    <dc:title>Diseño y desarrollo de un sistema domótico basado en IOT para vivienda unifamiliar</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Design and development of a home automation system based on IOT for single family housing</dc:title>
+</oai_dc:dc>

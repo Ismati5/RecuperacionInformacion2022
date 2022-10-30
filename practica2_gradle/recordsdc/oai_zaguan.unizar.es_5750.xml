@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sánchez Navarro, José Ángel</dc:contributor>
+    <dc:creator>Mateo Lázaro, Jesús</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>En este trabajo se pone en marcha una aplicación informática que permite el manejo y representación de modelos digitales del terreno, y combina diversas aplicaciones hidrológicas que reproducen episodios reales y sintéticos. Es de destacar el tratamiento dado a las coberturas existentes de precipitaciones máximas diarias, permitiendo la simulación de episodios de tormenta sobre cualquier cuenca, con un amplio rango de variación espacial y temporal.  Se desarrolla una metodología idónea para la investigación de episodios reales, consistente en la aplicación de modelos de combinación de depósitos cuyos parámetros son ajustados mediante las curvas de recesión de hidrogramas reales.  Mediante simulaciones de episodios sintéticos se realiza un estudio de variabilidad que cuantifica y compara el comportamiento de las cuencas frente a cambios, tanto en el modo de producirse la precipitación como en las condiciones hidrológicas que pueden presentar las cuencas en distintas épocas. </dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5750</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencias de la Tierra</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5750/files/TESIS-2011-031.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>hidrología</dc:subject>
+    <dc:subject>aguas superficiales</dc:subject>
+    <dc:subject>sistemas de información geográfica</dc:subject>
+    <dc:subject>informática</dc:subject>
+    <dc:subject>simulación numérica</dc:subject>
+    <dc:subject>hydrology</dc:subject>
+    <dc:subject>surface water</dc:subject>
+    <dc:subject>software</dc:subject>
+    <dc:subject>numerical analysis</dc:subject>
+    <dc:title>Hidrología de crecidas en pequeñas y medianas cuencas</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

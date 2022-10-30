@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Valero Capilla, Antonio</dc:contributor>
+    <dc:creator>Fernández Cáceres, Eugenio</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El objetivo de este trabajo es proponer un sistema que permita precisamente realizar un control periódico de la eficiencia que tienen los motores de los vehículos puestos en circulación.   Para ello, se propone utilizar el actual mecanismo de control del estado de uso y funcionamiento de los vehículos en circulación, la ITV (Inspección Técnica de Vehículos).  Esto sería posible haciendo que además de comprobar elementos de seguridad vial y emisiones contaminantes, se añadieran métodos de inspección para controlar la eficiencia de funcionamiento de los motores en dicha inspección periódica que se realiza a los vehículos. Al comparar la eficiencia del motor en el momento de la inspección, con la eficiencia  ideal de diseño señalada por los fabricantes, se podría detectar si existe una desviación significativa del valor de eficiencia que requiera de acciones correctoras sobre el vehículo.  Además, el control de los parámetros que definen la eficiencia del motor, permitirían conocer sobre qué grupo de componentes se debe realizar la corrección para devolver al vehículo un rendimiento adecuado.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31429</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31429/files/TAZ-TFM-2014-746.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>optimización</dc:subject>
+    <dc:subject>eficiencia</dc:subject>
+    <dc:subject>energética</dc:subject>
+    <dc:subject>inspección</dc:subject>
+    <dc:subject>técnica</dc:subject>
+    <dc:subject>vehículos</dc:subject>
+    <dc:subject>Máster Universitario en Energías Renovables y Eficiencia Energética</dc:subject>
+    <dc:title>Optimización de la eficiencia energética de los vehículos de transporte terrestre mediante el desarrollo y evolución de la inspección técnica de vehículos</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

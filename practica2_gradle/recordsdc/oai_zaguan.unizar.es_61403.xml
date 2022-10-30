@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Abad Blasco, Javier Óscar</dc:contributor>
+    <dc:creator>Santandreu Jorge, Gonzalo</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El trabajo realizado para éste proyecto aúna conocimientos y esfuerzos para definir el brazo de una excavadora basándose en parámetros básicos extraídos del catalogo comercial de un modelo concreto. Mediante un método de dimensionamiento según las cargas que deberá soportar el brazo se analiza y desarrolla un análisis, calculo y selección de los elementos implicados para terminar con la simulación del modelo en 3D.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61403</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería Mecánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61403/files/TAZ-TFG-2017-045.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Estudio, análisis, modelado y dimensionamiento de brazo de excavadora para carga máxima de 5050 kg con alcance de 9.45 m a nivel del suelo</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Study, analysis, modeling and sizing of an excavator arm for maximum load of 5050 kg with reach of 9.45 m at ground level</dc:title>
+</oai_dc:dc>

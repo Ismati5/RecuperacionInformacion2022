@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Falceto Blecua, Fernando</dc:contributor>
+    <dc:contributor>García Esteve, José Vicente</dc:contributor>
+    <dc:creator>Ares Asensio, Filiberto</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El objetivo principal de esta memoria ha sido el estudio de la entropía de Rényi de un intervalo en diferentes cadenas de fermiones y spines en el estado térmico o de Gibbs. En primer lugar hemos considerado cadenas de fermiones homogéneas y locales, demostrando que esta magnitud puede obtenerse a partir de las correlaciones del intervalo considerado. Este hecho reduce enormemente la complejidad de calcularla. Además, como en este caso las correlaciones forman una matriz de Toeplitz, podemos emplear el teorema de Fisher-Hartwig para encontrar un desarrollo de la entropía en términos de la longitud del intervalo. Hemos analizado este resultado en los límites de alta y baja temperatura comparándolo con expresiones previas obtenidas a partir de la invariancia conforme. Asimismo hemos demostrado que esta expansión sirve para obtener la entropía de Rényi de un fragmento de una escalera local de fermiones. También hemos extendido al estado de Gibbs la relación ya conocida para el estado fundamental entre la entropía de Rényi de un modelo XY y las de dos modelos de Ising cuánticos. En particular, esta propiedad permite obtener la entropía de un intervalo de un modelo de Ising cuántico a partir del resultado encontrado para las cadenas de fermiones homogéneas y locales.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/15244</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Teórica; Área de Física Teórica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/15244/files/TAZ-TFM-2014-374.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>mecánica cuántica</dc:subject>
+    <dc:subject>entrelazamiento</dc:subject>
+    <dc:subject>entropía de rényi</dc:subject>
+    <dc:subject>cadenas de spines</dc:subject>
+    <dc:subject>cadenas de fermiones</dc:subject>
+    <dc:subject>estado de gibbs</dc:subject>
+    <dc:subject>Máster Universitario en Física y Tecnologías Físicas</dc:subject>
+    <dc:title>Entropías de Rényi en cadenas de spines</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Marzo Rubio, Isabel</dc:contributor>
+    <dc:contributor>Marco Brualla, Joaquín</dc:contributor>
+    <dc:creator>Rial Saborido, Judit</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>La oncogénesis es un proceso mediante el cual una célula normal se convierte en célula tumoral, con capacidad de proliferación descontrolada y posibilidad de formar un tumor maligno. Entre las múltiples alteraciones que sufre una célula tumoral, cabe destacar las variaciones en el metabolismo energético, ya que las células tumorales utilizan la glucólisis para obtener energía incluso en presencia de oxígeno, lo que se conoce como “Efecto Warburg”. Esta característica resulta interesante para generar estrategias terapéuticas contra el cáncer y por ello, en este trabajo se pretende evaluar el potencial que tiene el bloqueo del metabolismo energético para la terapia antitumoral. Para ello, las estrategias seguidas consisten en la búsqueda de efectos sinérgicos entre fármacos metabólicos (ritonavir, metformina y 2-deoxiglucosa) y fármacos quimioterápicos dirigidos contra las células del mieloma (carfilzomib y Byl-719).  Los resultados obtenidos muestran que ritonavir, un fármaco inhibidor de la proteasa del VIH y bloqueante del transportador de glucosa GLUT4, sinergiza con carfilzomib, un inhibidor del proteasoma, potenciando el efecto del mismo en las líneas celulares ensayadas. Por otro lado, se aprecia un ligero efecto sumatorio entre la acción de 2-deoxiglucosa, un fármaco inhibidor de la glucólisis, y Byl-719, fármaco emergente para el tratamiento del mieloma que inhibe selectivamente la ruta de la fosfoinositol 3-quinasa (PI3K). De forma que, en ambos casos se obtienen mayores niveles de muerte celular en las células tratadas con la combinación de fármacos que con los fármacos por separado. Asimismo, al analizar la expresión de proteínas anti-apoptóticas en diferentes condiciones, se observa un aumento de Bcl-2 y Mcl-1, lo que podría estar relacionado con un mecanismo de resistencia de las células ante a los cambios inducidos en el metabolismo energético.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/65171</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Biología Celular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/65171/files/TAZ-TFG-2017-2055.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Biotecnología</dc:subject>
+    <dc:title>Mecanismo de la muerte celular inducida por inhibición del metabolismo energético en células de mieloma múltiple</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Cell death mechanism induced by energetic metabolism deprivation in multiple myeloma cell lines</dc:title>
+</oai_dc:dc>

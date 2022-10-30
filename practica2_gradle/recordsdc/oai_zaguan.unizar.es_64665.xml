@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Garagorri Otero, Jesús María</dc:contributor>
+    <dc:creator>Morlán Herrador, Laura</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>La obesidad infantil es uno de los problemas de salud pública del siglo XXI; su prevención supone un gran reto a nivel mundial. El objetivo de este trabajo es desarrollar una fórmula que permita identificar de forma precoz el riesgo de desarrollar obesidad en población infantil, así como la introducción de los modelos obtenidos en una herramienta más útil y accesible a la población general haciendo uso de las TICS mediante el desarrollo de una aplicación móvil que permita la introducción de datos antropométricos.  Trabajo realizado a partir de un estudio longitudinal realizado sobre población sana (122 niños, 120 niñas) consistente en la medida de 14 parámetros antropométricos obtenidos desde el nacimiento a los 18 años de edad.  Se ha definido sobrepeso cuando el IMC y el perímetro abdominal fueron superiores a una desviación estándar con respecto a la media poblacional. Mediante regresión logística, se ha creado un modelo diseñado para describir la probabilidad de que un individuo presente sobrepeso a partir de sus datos antropométricos de los 3 primeros años de vida (significación estadística si p&lt;0.05). Así mismo, se ha creado una aplicación móvil llamada “Growin”, diseñada para el seguimiento natural de tendencias antropométricas junto con la posibilidad de obtención de feed-back de datos, gráficas e informes.  De esta forma, se han creado modelos estadísticos muy competitivos, con una capacidad discriminatoria excelente, y una aplicación móvil disponible para cualquier usuario de telefonía móvil, que pueden ser unas herramientas útiles para tratar de prevenir la obesidad en la infancia.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64665</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64665/files/TAZ-TFM-2017-682.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Condicionantes Genéticos, Nutricionales y Ambientales del Crecimiento y Desarrollo</dc:subject>
+    <dc:title>Predicción de sobrepeso/obesidad desde etapas precoces de la infancia.</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Prediction of overweight/obesity development since early stages of childhood.</dc:title>
+</oai_dc:dc>

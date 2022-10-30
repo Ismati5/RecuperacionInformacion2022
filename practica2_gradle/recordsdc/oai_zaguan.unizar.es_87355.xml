@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bobillo Ortega, Fernando</dc:contributor>
+    <dc:creator>Gabás Celimendiz, Rubén</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>La popularización de las redes sociales, que cuentan con millones de usuarios e interacciones al día, ha hecho que empresas, marcas y personajes famosos hagan de estas un marco de negocio, gracias a las interacciones en ellas se generan un gran volumen de datos que puede ser analizado, pero hay muchos datos que no están a simple vista.&lt;br /&gt;Se ha creado una herramienta que obtiene datos del API de twitter y permite recuperar ciertas métricas, desarrolladas en el marco de este TFG, que a simple vista estas redes sociales no muestran. Algunas de ellas están basadas en el análisis de sentimientos de los comentarios de los usuarios. También se proporciona un  historial  de  datos  para  medir  la  evolución  de  las  cuentas  que  nos  interese  y  una funcionalidad  para  la  comparación  de  cuentas  que  permite  ayudar  a  ver  la  diferencia entre marcas o con la competencia.&lt;br /&gt;.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87355</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87355/files/TAZ-TFG-2019-4420.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>Análisis de actividad en redes sociales</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Analysis of activity in social networks</dc:title>
+</oai_dc:dc>

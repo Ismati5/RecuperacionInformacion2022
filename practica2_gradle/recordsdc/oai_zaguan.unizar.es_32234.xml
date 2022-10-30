@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gracia Lostao, Ana Isabel</dc:contributor>
+    <dc:contributor>Martínez Júlvez, Marta María</dc:contributor>
+    <dc:creator>Solana González, Begoña</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>El objetivo de este proyecto es el estudio análisis por primera vez de las fuerzas de interacción entre una enzima y su substrato enzimático usando una aproximación de molécula única.  	Se utilizará el AFM en su variante de Espectroscopia de Fuerzas de Molécula Única (SMFS) para analizar las fuerzas intermoleculares que mantienen unido el complejo formado por la flavoenzima Ferredoxina-NADP+ reductasa (FNR) y substrato enzimático, NADP+. La FNR de plantas participa en la cadena fotosintética recibiendo electrones de las proteínas ferredoxina/ flavodoxina y transfiriéndolos al substrato NADP+ que se reduce a NADPH. Los resultados no sólo proporcionarán datos de mecanoestabilidad del complejo sino otros parámetros del estado de transición asociado al proceso de disociación (koff). 	En este trabajo, la enzima FNR será inmovilizada covalentemente en substratos de mica, y el NADP+ en la punta del cantiléver, para lo que se ha diseñado un procedimiento que utilizará un espaciador flexible de polietilenglicol modificado para unirse por un lado a la punta y por otro al ligando modificado con un entrecruzador. Posteriormente se realizarán las medidas de SMFS consistentes en la toma de cientos de aproximaciones o curvas Fz entre muestra y punta funcionalizadas a diferentes velocidades de carga (piconewtons/s).  Con los datos de los picos de las curvas Fz que registren la ruptura de enlaces se construirán histogramas que proporcionarán fuerzas de ruptura más probable. Utilizando el modelo de Ritchie-Evans se obtendrá el paisaje y otros parámetros de la disociación del complejo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/32234</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Bioquímica y Biología Molecular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/32234/files/TAZ-TFM-2015-753.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Biología Molecular y Celular</dc:subject>
+    <dc:title>Estudio de flavoproteínas mediante el uso de Microscopía de fuerzas atómicas</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Hernández Hernández, Enrique</dc:contributor>
+    <dc:creator>Magallón Calvo, Adrián</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>En este trabajo fin de grado, se va a desarrollo de los parámetros de fiabilidad, mantenibilidad y disponibilidad de material rodante, en este caso de un tránvia, demostrando y garantizando tales parámetros al cliente.  Para esta demostración se hará uso de modelos matemáticos y estadísticos, ayudados por la norma europea EN 50126</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31673</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31673/files/TAZ-TFG-2015-2357.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Organización Industrial</dc:subject>
+    <dc:title>Desarrollo de sistema RAMS</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

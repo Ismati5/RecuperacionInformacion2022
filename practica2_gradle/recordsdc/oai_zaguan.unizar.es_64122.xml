@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Pardo Jimeno, Julián</dc:contributor>
+    <dc:contributor>Arias Cabrero, Maykel Alberto</dc:contributor>
+    <dc:creator>Cobos Gálvez, Ana</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Recientemente se ha descrito que la serín proteasa granzima A (gzmA) presenta actividad inflamatoria induciendo la producción de citoquinas proinflamatorias como IL-1β y TNFα en diferentes grupos celulares como macrófagos y monocitos. Además, estudios in vivo han demostrado la relevancia biológica de esta proteasa en diferentes patologías inflamatorias como sepsis y artritis reumatoide. Pero el mecanismo por el cual esta proteasa induce la producción de citoquinas proinflamatorias se desconoce. En este trabajo analizamos de forma preliminar el mecanismo por el cual la gzmA induce la producción de citoquinas proinflamatorias en macrófagos. Para ello primeramente se sobreexpresó gzmA recombinante de ratón utilizando el sistema de expresión eucariota Pichia pastoris. La gzmA sobreexpresada se purificó mediante cromatografía de afinidad de metal inmovilizado (IMAC), si bien no se pudo obtener una cantidad adecuada ya que no se consiguió una buena expresión de esta proteína en este sistema. Por ello, para el estudio del mecanismo de inflamación inducido por gzmA se utilizó una muestra de gzmA nativa aislada de los gránulos citotóxicos de la línea celular de ratón 1.3E6, previamente purificada en nuestro laboratorio. Utilizando macrófagos derivados de la médula ósea estimulados y sin estimular con LPS de E. coli hemos encontrado que la gzmA es capaz de inducir la producción de IL-1β en macrófagos previamente estimulados con LPS por un mecanismo dependiente de caspasa-1, siendo además capaz de incrementar la producción de TNFα en los macrófagos que se estimularon con LPS. También encontramos que la gzmA puede inducir la producción de IL-6 en macrófagos sin necesidad de un estímulo previo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64122</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Bioquímica y Biología Molecular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64122/files/TAZ-TFG-2017-3141.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Biotecnología</dc:subject>
+    <dc:title>Expresión y purificación de granzima A de ratón en Pichia pastoris y análisis de su acción pro-inflamatoria sobre macrófagos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Expression and purification of mouse granzyme A in Pichia pastoris and analysis of its pro-inflammatory action in macrophages</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Zornoza Encabo, Beatriz</dc:contributor>
+    <dc:contributor>Coronas Ceresuela, Joaquín</dc:contributor>
+    <dc:creator>Nieto Monge, Mª Jesús</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El presente proyecto fin de carrera se enmarca en el departamento de Ingeniería Química y Tecnología del Medio Ambiente, de la Universidad de Zaragoza. Los procesos de separación con membranas suponen una alternativa atractiva desde el punto de vista comercial a los procesos tradicionales de separación de gases. Entre las aplicaciones actuales de los procesos de separación de gases ha despertado gran interés en los últimos años la captura de dióxido de carbono. En la actualidad se está investigando en nuevos materiales y procedimientos que permitan la mejora en el rendimiento de las membranas, siendo uno de los más interesantes las híbridas o membranas mixtas (MMMs). Estas membranas están compuestas por materiales inorgánicos embebidos en una matriz polimérica, beneficiándose de las ventajas de ambas: un mejor procesamiento industrial y buenas propiedades mecánicas de las poliméricas con las propiedades de transporte y de resistencia térmica de las inorgánicas. En este trabajo se han utilizado esferas de sílice de MCM-41 funcionalizadas y los polímeros polisulfona Udel® y poliimida Matrimid®.   En primer lugar, se  han modificado las esferas de sílice de MCM-41 con diferentes proporciones, 5-10-20%, de 3-aminopropiltrietoxilano (APTES), aportando el grupo amino (NH2). Estas aminas son capaces de funcionalizar al sólido mesoporoso proporcionando una adsorción preferencial al dióxido de carbono. Para ello, se han utilizado dos procedimientos: (1) modificación tras la obtención de esferas de sílice, realizando una reacción con reflujo continuo con tolueno como disolvente; y (2) modificación añadiendo los grupos amino durante la síntesis de las microesferas, antes de  verter el iniciador para la formación de las esferas. En ambos casos, tras la modificación se ha realizado una extracción química tanto para  eliminar el exceso de disolvente (tolueno) como para eliminar el surfactante excedente. Seguidamente, se han preparado las MMMs con una relación del 8 % en peso de esferas funcionalizadas en los polímeros anteriormente citados empleando como disolvente preferencialmente cloroformo. Para su fabricación, también se han seguido dos métodos. En el primero, se han mezclado la fase sólida y el disolvente a la vez. En el segundo, se añade el polímero en dos etapas con objeto de conseguir un mejor contacto entre las dos fases. Los sólidos se han caracterizado por diferentes técnicas, como Microscopía electrónica de barrido (SEM),  adsorción de  N2 y CO2, difracción de rayos-X de ángulo bajo (LA-XRD),  análisis térmico (TGA) y espectrofotometría infrarroja (FTIR). Por otro lado, las membranas se han caracterizado por TGA, calorimetría (DSC) y se ha realizado el estudio de la separación de las mezcla de gases CO2/N2, H2/CH4 y O2/N2.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6445</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Ingeniería Química</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6445/files/TAZ-PFC-2011-596_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6445/files/TAZ-PFC-2011-596.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>membranas híbridas</dc:subject>
+    <dc:subject>esferas de sílice</dc:subject>
+    <dc:subject>funcionalización</dc:subject>
+    <dc:subject>separación de gases</dc:subject>
+    <dc:subject>grupos amino (aptes)</dc:subject>
+    <dc:subject>polisulfona</dc:subject>
+    <dc:subject>poliamida</dc:subject>
+    <dc:subject>Ingeniero Químico</dc:subject>
+    <dc:title>Membranas híbridas de esferas de sílice funcionalizadas y polímero para la separación de CO2</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

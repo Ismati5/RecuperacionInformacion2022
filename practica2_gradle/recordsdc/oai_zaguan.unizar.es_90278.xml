@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Fonts Amador, Isabel</dc:contributor>
+    <dc:contributor>De la Plaza Hervías, Gonzalo</dc:contributor>
+    <dc:creator>Martín Sánchez, Francisco José</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>En este trabajo se propone una alternativa para el suministro eléctrico de los Sistemas de Mando y Control del Grupo de Artillería de Campaña II de la Legión (GACALEG II). En la introducción se establecen los objetivos y el alcance del proyecto, además de realizar una revisión de las condiciones climatológicas en la ubicación del GACALEG II y del estado del arte. En base a las condiciones climatológicas y a la revisión realizada, se toma la decisión de centrarse en las alternativas relacionadas con energías renovables y, en concreto, en un sistema híbrido compuesto por un grupo electrógeno, paneles solares y un aerogenerador. A continuación, se detallan los componentes del Sistema de Mando y control para poder establecer la demanda eléctrica del mismo, la cual deberá ser atendida por el sistema propuesto. El sistema propuesto se describe elemento a elemento, analizando sus ventajas e inconvenientes. Tras esto se realiza un estudio de viabilidad técnica, económica y medioambiental del sistema propuesto. Los resultados de estos estudios muestran que el sistema puede implementarse cumpliendo las necesidades tácticas, reduciendo el impacto medioambiental y ahorrando dinero a medio plazo. Finalmente, se exponen las conclusiones a las que se llega tras la finalización del proyecto y los trabajos futuros para que este sistema pudiera ser implementado en el GACALEG.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/90278</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/90278/files/TAZ-TFG-2017-4076.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Organización Industrial</dc:subject>
+    <dc:title>Alternativas en la generación y suministro eléctrico para los sistemas de mando y control del GACALEG</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Alternatives to electricity production and electrical supply in command and control systems of GACALEG</dc:title>
+</oai_dc:dc>

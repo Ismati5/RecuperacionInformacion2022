@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Puértolas Broto, Sergio</dc:contributor>
+    <dc:creator>Nogués Palacín, Carlos</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El objetivo de este proyecto es el diseño y cálculo de una pasarela peatonal metálica para uso en zonas remotas de montaña, de difícil acceso. La idea es conseguir que la estructura sea lo más ligera posible, para facilitar su transporte y que su montaje / desmontaje así como su puesta en servicio sea lo más sencillo y rápido posible. Para conseguir esto, se ha estudiado la posibilidad de utilizar estructuras hinchables, el alma de este tipo de vigas se resuelve mediante el uso de membranas hinchables combinado con el uso de cables de acero.  El proyecto se divide en dos partes,  la primera de ellas, consiste en una introducción al uso de las estructuras hinchables además de un estudio de comparación del comportamiento entre una viga cajón convencional  y el nuevo concepto de viga con el objeto de poder analizar las ventajas y desventajas, así como, el funcionamiento de cada una de ellas. Se analizan los parámetros más importantes e influyentes en el comportamiento resistente de los distintos diseños de vigas para poder optimizarlos y así conseguir el máximo rendimiento de los materiales utilizados En la segunda parte, una vez comprobada la idoneidad de este tipo de vigas,  seleccionada la mejor configuración y optimizados todos los parámetros, se procederá a su implementación en la aplicación concreta, para una pasarela peatonal que debe salvar entorno a 20 metros de luz. Se realizará el dimensionado y comprobación de acuerdo a la normativa vigente.  Por último, se han realizado los planos generales de la estructura. Todos los cálculos se realizan mediante ordenador empleando el método de los elementos finitos. Los modelos de cálculo, se han creado con el programa informático IDEAS para posteriormente exportarlos a ABAQUS donde han ejecutado todos los análisis que sean necesarios.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/15883</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/15883/files/TAZ-PFC-2014-350.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/15883/files/TAZ-PFC-2014-350_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>pasarela peatonal</dc:subject>
+    <dc:subject>estructura ligera</dc:subject>
+    <dc:subject>estructura hinchable</dc:subject>
+    <dc:subject>estructura metálica</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Diseño de una pasarela peatonal ligera para zonas de difícil acceso</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ares García, Jorge</dc:contributor>
+    <dc:contributor>Collados Collados, Mª Victoria</dc:contributor>
+    <dc:creator>Benedí García, Clara</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El principal objetivo de este trabajo es determinar cómo se comportan un conjunto de LIOs (lentes intraoculares) monofocales esféricas según su factor de forma mediante un programa informático de trazado real de rayos, estableciendo así qué factores de forma son más recomendables en función de la potencia de la LIO.  Se estudia cómo el tamaño pupilar afecta a éstos y además se trata de estimar qué diseños son más tolerantes al descentramiento y en qué medida es aceptable dicho descentramiento. Para determinar todo ello se aplican unos criterios de calidad de imagen a un objeto en eje, llegando a la conclusión de que los mejores diseños se encuentran en un rango entra X=1 y X=0, siendo X=0.5 el factor de forma con mayor tolerancia al descentramiento.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/16133</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Aplicada; Área de Optica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/16133/files/TAZ-TFG-2014-1554.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>lente intraocular</dc:subject>
+    <dc:subject>trazado real de rayos</dc:subject>
+    <dc:subject>factor de forma</dc:subject>
+    <dc:subject>Graduado en Óptica y Optometría</dc:subject>
+    <dc:title>Análisis del comportamiento de lentes intraoculares mediante trazado real de rayos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

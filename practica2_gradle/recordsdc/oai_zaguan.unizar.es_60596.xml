@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Vanhatalo, Jarno</dc:contributor>
+    <dc:contributor>Serreta Oliván, Alfredo</dc:contributor>
+    <dc:creator>Lopez Conde, Ander</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>We have evaluated the distribution and extent of sea bottom vegetation divided in three groups: Diatoms, macrovegetation and filamentous algae in the Gulf of Bothnia, northernmost area of the Baltic Sea, and relate the increment in the distribution of the filamentous algae with the increasing problem of the eutrophication. The distribution modeling of these groups of species has been done by combining data from species abundance (distribution data) with GIS environmental raster variables based of environmental information in a binomial model to predict the spatial probability of each group of species using MatLab and the GPstuff toolbox. From all the variables used the most important ones were the bottom type and variables related to the exposure of an area (weighted fetch, number of islands and distance to shallow waters) to explain the predicted distribution of the group of the species. It is shown that the main group of species in the Gulf of Bothnia is the filamentous algae, with and elevated predicted probability in almost all the Gulf of Bothnia. Preferring hard bottoms like rock or stones and exposed areas, the number of filamentous algae is increasing every year, reducing macrovegetation populations into more protected areas. The number of nutrients and filamentous algae has increased in the last decades. We discuss a relation between evolution of eutrophication and the increase of filamentous algae, which follows the same south to north and west to east gradients, been the south and west more eutrophied. This work aims to be a tool to assess the environmental protection and coastal management of eutrophication by predicting the probability of presence of the different vegetation groups and analysing the relation of these groups with the eutrophication.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/60596</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/60596/files/TAZ-TFG-2015-1997.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/60596/files/TAZ-TFG-2015-1997_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ciencias Ambientales</dc:subject>
+    <dc:title>Diatoms, filamentous algae and macrovegetation distribution modeling in Gulf of Bothnia</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

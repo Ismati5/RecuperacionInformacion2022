@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sevillano Rubio, Aurora</dc:contributor>
+    <dc:creator>Pérez Ariza, Jorge</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Actualmente, el sector hipotecario, tras años de crisis, vuelve a crecer y en un ambiente enrarecido por los bajos tipos de interés. Las entidades que han quedado ofrecen múltiples alternativas y no es fácil tomar decisiones si no se tiene en cuenta la evolución del Euribor, algo necesario puesto que, si volviera a niveles pasados, las cuotas aumentarían tremendamente. Una posibilidad que no está disponible para el usuario medio de forma simple.   Queriendo solucionar este problema, el presente trabajo trata sobre la realización de una aplicación para móviles con sistema Android que simule préstamos hipotecarios. Se ha pensado en un usuario que necesite contrastar las diferentes ofertas que las entidades financieras presentan y se ha configurado la aplicación de la forma más conveniente para ayudar a decidir en un ambiente complejo con gran cantidad de información. Para ello, se ha considerado que la aplicación debe permitir guardar la información personalizada que las entidades ofrecen a sus clientes, debe guardar tres perfiles de evolución del Euribor para poder anticipar tres posibles escenarios y debe simular, no sólo una hipoteca sino también amortizaciones anticipadas. Todo esto se ha hecho de la forma más amigable al usuario posible.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/60744</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/60744/files/TAZ-TFG-2017-282.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Economía</dc:subject>
+    <dc:title>Simulador de hipotecas</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Mortgage simulator</dc:title>
+</oai_dc:dc>

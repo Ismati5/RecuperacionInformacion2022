@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gil Puig, Laura</dc:contributor>
+    <dc:creator>Alonso Apecechea, Joseba</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Se concentró el aceite de pescado en los PUFAs omega-3 EPA y DHA mediante fraccionamiento con la SFC piloto de Solutex para estudiar el efecto que tienen el diseño de la columna, la variación de las condiciones de trabajo y la elección de la fase estacionaria en la separación. Dos tipos de columnas con el mismo volumen interior pero con una geometría distinta se compararon inyectando 0.12 mL de aceite de pescado (70 % EPA y 13 % DHA) usando la misma fase estacionaria (sílica amino) y las mismas condiciones: Tcolumna=44 ºC, Ptrabajo=80 bar y un caudal de CO2 de 168 g/min. Las concentraciones de las fracciones del EPA recogidas en ambas pruebas fueron bastante similares (≈93 %). La diferencia la marcó el tiempo de retención de los picos: mientras que el EPA salió a los 12 minutos con la columna A, empleando la columna B salió a los 23 minutos. También se estudió el efecto que tiene un aumento de las condiciones de proceso en la separación. La fase estacionaria sílica amino se comparó con la fase estacionaria sílica funcionalizada con plata (Si-Ag). Las temperaturas de columna y caudales de CO2 fueron de 44 ºC y 168 g/min y 37 ºC y 200 g/min respectivamente. La presión de trabajo y el volumen de inyección de ambas pruebas fueron 80 bares y 0.12 mL. La fase Si-Ag requirió un 5 % de etanol como co-solvente para evitar la retención total del aceite. Con la fase Si-Ag se consiguió la mejor purificación en EPA (99,2 %) y solo tardó 6 minutos en salir de la columna. Sin embargo, el uso del etanol conlleva ciertas dificultades: eliminación del disolvente, recuperación, coste, etc.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/63651</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Orgánica; Área de Química Orgánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/63651/files/TAZ-TFM-2017-917.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Química industrial</dc:subject>
+    <dc:title>Diseño del proceso de fraccionamiento de omega-3 mediante SFC piloto a partir del aceite de pescado</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Design of omega-3 fractionation process by SFC pilot from fish oil</dc:title>
+</oai_dc:dc>

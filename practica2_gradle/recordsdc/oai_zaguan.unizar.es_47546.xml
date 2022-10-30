@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Leidermark, Daniel</dc:contributor>
+    <dc:creator>Márquez Agustín, Sara</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>The aim of this project is modelling the behaviour of a cast iron used for engine parts in Scania trucks. The parts are subjected to thermomechnical fatigue (TMF), which is both varying mechanical and temperature load.  This project is based on a previous experiment carry out by a PhD student, so the final aim is to prove if the results of the experiments are correct and it can work in the real life. To do this, we are going to do a preliminary study of the data to have a first review of these values, then we’ll programme in MATLAB the experiment values in order to get the Young Modulus properly and finally, we’ll model the cast-iron specimen in ABAQUS implementing the properties obtained steps.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/47546</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Ciencia de los Materiales e Ingeniería Metalúrgica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/47546/files/TAZ-TFG-2015-2627.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Modelling the constitutive behaviour of cast iron</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

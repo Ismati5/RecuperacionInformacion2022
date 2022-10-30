@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Royo Vázquez, Emilio Julián</dc:contributor>
+    <dc:creator>Escudero Brun, Diego</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>El presente proyecto estudia el planteamiento por parte de la empresa MAGNA AUTOMOTIVE SPAIN de eliminar la operación manual de una celda de corte láser 3D. En la empresa se dispone de varias máquinas idénticas y en este trabajo se utilizará una de ellas para, disponiendo una celda integrada a la máquina, automatizar carga, descarga y almacenamiento.&lt;br /&gt;En primer lugar, se presenta la situación actual del proceso de producción y se describe brevemente, para después presentar el producto a fabricar, exponiendo las motivaciones que llevan al planteamiento de la automatización.&lt;br /&gt;A continuación, se realiza un estudio de la demanda y capacidad de la celda para valorar la viabilidad de la automatización analizando económicamente el impacto del proyecto.&lt;br /&gt;Posteriormente se describen todos los elementos diseñados: Utillajes, contenedores de almacenamiento, soportes y elementos auxiliares y se disponen en conjunto para presentar la configuración de la celda. Además, se estudian las problemáticas de diseño de los diferentes elementos, proponiendo soluciones y modificaciones del planteamiento inicial en algunos casos.&lt;br /&gt;También se muestra el programa CN de corte, explicando consideraciones y metodología tomada para su programación dada la geometría de la pieza.&lt;br /&gt;Con todo ello, se pretende dar una posible solución al interés de la empresa, aunque este proyecto no se vaya a poner en ejecución.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87337</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87337/files/TAZ-TFG-2019-4494.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Automatización de una celda de corte por láser para componentes estructurales de automóvil</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Laser cutting cell automation for automobile structural components</dc:title>
+</oai_dc:dc>

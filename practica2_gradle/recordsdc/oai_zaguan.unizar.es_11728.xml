@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Heys, David</dc:contributor>
+    <dc:contributor>López Pérez, José María</dc:contributor>
+    <dc:creator>Ferrero Ligorred, Octavio</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>The project objective is to simulate Goal Line Technology (GLT) in a football goal. For this, an electronic system is designed and built which is able to detect when the ball has crossed the goal line. This system also can differentiate if the object which has crossed the goal line is the ball or the goalkeeper or whatever it may be. Infrared technology is used in order to develop the GLT, specifically a kind of infrared light curtain. To carry out this technology is necessary to define the basic operation of this. IR-Leds and IR-Photodiodes are used as emitters and receivers, respectively. They make a kind of infrared light curtain because unlike a proper curtain, in this case, all of the emitters are not switched on at the same time, only a pair of emitter-receiver are switched on, then they are switched off and then the following pair of emitter-receiver are switched on, doing a scan along of the emitters-receivers pairs columns. Another requirement of GLT is using an alarm device; a red-led is switched on in the case of detecting that the ball has crossed the goal line. On the other hand, if another thing crosses the goal line, no notification is showed. This system is designed and built for a goal, a ball and a player in scale; it can be applicable in real life and also shows another way of how the “ghost goals” can be solved. This system can help the referee to clarify controversial situations in football which means an improvement of this sport and a forward step in order to make this game fairer.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/11728</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/11728/files/TAZ-PFC-2013-385.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electrónica Industrial)</dc:subject>
+    <dc:title>Football goal scoring detection system</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

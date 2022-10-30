@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Serrano Pacheu, Ana Belén</dc:contributor>
+    <dc:contributor>Gutiérrez Pérez, Diego</dc:contributor>
+    <dc:creator>Ruiz-Borau Vizárraga, Jaime</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Con el reciente auge de la realidad virtual, en los últimos años se están creando experiencias de todo tipo para este nuevo formato, con el fin de exprimir al máximo este nuevo entorno virtual. La posibilidad de ubicar al espectador directamente en el mundo que el creador ha hecho para él resulta especialmente atractiva, tanto a nivel de juegos y aplicaciones como de experiencias narrativas.  Es en estas experiencias narrrativas donde los creadores de contenidos, en una primera aproximación, tratan de trasladar lo que ya saben de la cinematografía tradicional a la realidad virtual, pero por las características inherentes de ésta, no todas las técnicas son igualmente aplicables y no tienen la misma efectividad. En este proyecto se llevan a cabo una serie de experimentos empíricos sobre la atención de los usuarios en narrativa en realidad virtual, con el fin de comprobar la efectividad de las técnicas de cinematografía tradicional en un entorno inmersivo. El objetivo es el de proporcionar unas pequeñas guías sobre lo que se puede hacer y lo que no se debe hacer cuando se habla de narrativa en realidad virtual. En primer lugar, se investiga si en un entorno virtual los usuarios tienen una percepción de continuidad similar a la de la narrativa tradicional, para lo cual este proyecto se apoya en varios estudios sobre teorías acerca de la cognición humana y la continuidad. Después, se procede a analizar bajo diferentes circunstancias cómo se ve influenciada la atención de los usuarios en la narrativa de un entorno inmersivo. Este trabajo contiene: un estudio del estado del arte en cinematografía en realidad virtual, un estudio de la teoría cognitiva de segmentación de eventos aplicada a un entorno de realidad virtual, implementación de un sistema completo para llevar a cabo estudios de usuario con distintos estímulos, diseño de los experimentos a llevar a cabo, creación y generación de los diferentes estímulos a utilizar en los experimentos con usuarios y análisis del comportamiento de los usuarios.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61373</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61373/files/TAZ-TFG-2017-470.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>Edición cinematográfica y continuidad narrativa en realidad virtual</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Movie editing and narrative continuity in virtual reality</dc:title>
+</oai_dc:dc>

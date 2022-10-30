@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Garrido Marín, Ángel Luis</dc:contributor>
+    <dc:contributor>Bobed Lisbona, Carlos</dc:contributor>
+    <dc:contributor>Mena Nieto, Eduardo</dc:contributor>
+    <dc:creator>Juan Ciriaco, Álvaro</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>El objetivo del trabajo es analizar, diseñar e implementar un sistema mejorado de extracción de información orientado a la generación de infoboxes a partir de un archivo documental. Se lleva a cabo en la empresa Ibercentra Media Consulting &amp; Services S.L y tiene como motivación principal el desarrollo y puesta en producción de un sistema final que supondrá un aumento en la calidad de la recuperación de información, mejorand y facilitando el trabajo del departamento de documentación y de los periodistas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76833</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76833/files/TAZ-PFC-2018-005.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>Análisis, diseño e implementación de un sistema de extracción de información orientado a la generación de infoboxes a partir de un archivo documental</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+    <dc:title xml:lang="en">Analysis, design and implementation of an information extraction system oriented to the generation of infoboxes from a documentary archive</dc:title>
+</oai_dc:dc>

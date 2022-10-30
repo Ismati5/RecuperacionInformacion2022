@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<csw:Record xmlns:csw="http://www.opengis.net/cat/csw/2.0.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ows="http://www.opengis.net/ows" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:language>es</dc:language>
+  <dc:identifier>07-bdll25</dc:identifier>
+  <dc:creator>Instituto Geográfico Nacional (España)</dc:creator>
+  <dc:description>Base de datos que contiene la división administrativa española, estructurada en tres niveles jerárquicos con topología completa: autonomía, provincia y municipio.</dc:description>
+  <dc:format>MIGRA</dc:format>
+  <dc:format>DBF</dc:format>
+  <dc:format>ARCE</dc:format>
+  <dc:language>es</dc:language>
+  <dc:publisher>Centro Nacional de Información Geográfica (España)</dc:publisher>
+  <dc:title>Base de datos de Líneas Límite 1:25.000 (Provincias)</dc:title>
+  <dc:type>series</dc:type>
+  <dcterms:accessRights>license</dcterms:accessRights>
+  <dcterms:issued>1998-12-31</dcterms:issued>
+  <dcterms:spatial>ESPAÑA</dcterms:spatial>
+</csw:Record>

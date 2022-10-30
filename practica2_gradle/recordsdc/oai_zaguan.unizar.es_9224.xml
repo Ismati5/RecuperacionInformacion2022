@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mínguez Zafra, Javier</dc:contributor>
+    <dc:contributor>Civera Sancho, Javier</dc:contributor>
+    <dc:creator>Mallea Lobera, Diego Ignacio</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Los sistemas Brain Computer Interface (BCI) son una tecnología basada en la adquisición y procesamiento de señales cerebrales para el control de diversos dispositivos. Estos sistemas establecen el camino para interactuar con el exterior mediante nuestro pensamiento, transformándolo en acciones reales en nuestro entorno. Usualmente estos sistemas se enfocan en reconocer eventos que tienen su reflejo en el electroencefalograma (EEG). Dichos eventos representan distintos estados mentales, que deberán identificarse como distintas clases mediante un sistema de clasificación. En un sistema BCI, tras la adquisición de las señales cerebrales se realiza un procesado, o extracción de características, cuya clasificación determina la clase a la que pertenece dicha señal. Para la clasificación de las señales EEG se pueden utilizar infinidad de características, con un coste de procesamiento y fiabilidad dispares. Por ello, la selección de las más discriminativas es imprescindible a la hora de diseñar BCIs funcionales. En el presente proyecto se implementarán y ampliarán los métodos empleados en trabajos previos [1], con el fin de ampliar los resultados de clasificación obtenidos hasta la fecha. Para ello se implementará un sistema, basado en algoritmos genéticos (AG), que permitirá realizar la selección de las características óptimas para la clasificación de señales EEG correspondientes a dos estados mentales distintos. Este sistema se validara con un problema de clasificación de dos clases, formadas por los estados mentales de los eventos de reposo y movimiento de la mano derecha. Como parte práctica del proyecto se colaborará en sesiones de experimentación para la adquisición de señales EEG en pacientes de lesión medular, en colaboración con el Hospital Miguel Servet de Zaragoza. Referencias:   [1] Corralejo R, Hornero R, Álvarez D.       Feature selection using a genetic algorithm in a motor imagery-based Brain Computer Interface,       Biomedical Engineering Group, GIB, Dpto TSCIT, University of Valladolid,        Paseo Belén 15, 47011 Valladolid, Spain. rebeca.corralejo@uva.es</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9224</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9224/files/TAZ-TFM-2012-914.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>sistema brain computer interface (bci)</dc:subject>
+    <dc:subject>electroencefalograma (eeg)</dc:subject>
+    <dc:subject>extracción de características</dc:subject>
+    <dc:subject>algoritmos genéticos (ag)</dc:subject>
+    <dc:subject>clasificación</dc:subject>
+    <dc:subject>Máster Universitario en Ingeniería Biomédica</dc:subject>
+    <dc:title>Extracción y selección de características para un sistema brain computer interface (BCI) mediante algoritmos genéticos (AG)</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

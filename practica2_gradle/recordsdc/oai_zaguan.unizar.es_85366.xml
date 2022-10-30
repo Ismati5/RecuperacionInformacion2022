@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Usón Sardaña, Antonio</dc:contributor>
+    <dc:creator>González Yeguas, Daniel</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>En el presente trabajo se ha estudiado la teoría del autotransformador y seleccionado un modelo comercial para su estudio. Este estudio consiste en una parte experimental en laboratorio con herramientas cedidas por el departamento de Ingeniería Eléctrica y otra parte de simulación de la máquina mediante el software FEMM 2d utilizando dos modelos distintos, el planar y el axisimétrico. Con este estudio se trata de verificar la bondad de los resultados numéricos con los obtenidos experimentales y si los procedimientos de análisis empleados con transformadores convencionales son válidos para los autotransformadores.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/85366</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/85366/files/TAZ-TFG-2019-2120.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/85366/files/TAZ-TFG-2019-2120_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Eléctrica</dc:subject>
+    <dc:title>Análisis de un autotransformador comercial (2,5 kVA) mediante el método de elementos finitos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Analysis of a commercial autotrasfromer (2,5 kVA) using the finite elements method</dc:title>
+</oai_dc:dc>

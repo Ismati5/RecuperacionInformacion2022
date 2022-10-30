@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Montesano del Campo, Luis</dc:contributor>
+    <dc:creator>Pérez Arbués, David</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>Dentro del Grupo de Robótica de la universidad de Zaragoza, se viene trabajando en la utilización de técnicas para el control de robots inteligentes. Uno de los retos planteados en este escenario es utilizar la actividad cerebral para evaluar el comportamiento del robot. Para ello se pueden utilizar electroencefalogramas (EEG en adelante).  Uno de los retos más importantes es el desarrollo de algoritmos de detección y clasificación fiables, ya que las medidas obtenidas con EEG suelen ser altamente ruidosas y no estacionarias. El método que se había venido utilizando en el grupo y en la literatura, por sus buenas prestaciones, había sido las máquinas de soporte vectorial o SVM. Recientemente, se han desarrollado un nuevo tipo de redes neuronales llamadas redes de creencia profunda (en adelante DBN). Diversos trabajos han ido aplicando este tipo de modelos a varios problemas de aprendizaje, demostrando que estas redes son una solución muy efectiva en una amplia variedad de problemas, superando en la mayoría de los casos a la mayor parte de las soluciones propuestas hasta el momento.  El objetivo de este proyecto es estudiar el comportamiento de estas redes sobre los datos de EEG, comparando sus prestaciones con el método de clasificación basado en SVM utilizado hasta el momento. Se ha realizado un estudio detallado del estado del arte de las DBN que ha permitido desarrollar una completa guía tutorial prácticamente inédita en el mundo de las DBN.  Este estudio nos ha permitido desarrollar una librería propia en Matlab que permite automatizar el proceso de entrenamiento de la red y su posterior funcionamiento y testeo. Para comprobar el correcto funcionamiento de las librerías, se han creado conjuntos de datos de test y se han evaluado los resultados obtenidos en distintas publicaciones científicas sobre la base de datos de dígitos escritos a mano del MNIST, siendo los resultados obtenidos con nuestro software comparables con los obtenidos por la comunidad científica.  Se han automatizado todos los procesos de preprocesado de la señal de EEG, desde los más simples, hasta los más complejos como los Common Spatial Patterns, validando los resultados obtenidos en el grupo de robótica de la Universidad de Zaragoza con los clasificadores SVM. Una vez que la implementación de los algoritmos estaba completa y validada, se utilizo para clasificar los datos de EEG correspondientes a los potenciales de error y su comparación con el clasificador SVM.  A pesar de los esfuerzos realizados a nivel de preprocesamiento y de ajuste de parámetros de la DBN, los resultados no han sido superiores a los conseguidos por SVM.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5100</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5100/files/TAZ-PFC-2010-181_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5100/files/TAZ-PFC-2010-181.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>DBN</dc:subject>
+    <dc:subject>Deep Belief Networks</dc:subject>
+    <dc:subject>Redes de creencia profunda</dc:subject>
+    <dc:subject>EEG</dc:subject>
+    <dc:subject>ERPs</dc:subject>
+    <dc:subject>Redes Neuronales</dc:subject>
+    <dc:subject>Matlab</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicaciones</dc:subject>
+    <dc:title>Redes de creencia profunda para el reconocimiento de ERPs en señales de EEG</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

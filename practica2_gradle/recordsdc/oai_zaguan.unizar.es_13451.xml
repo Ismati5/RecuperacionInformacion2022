@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Yagüe Fabra, José Antonio</dc:contributor>
+    <dc:creator>López López, David</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Descripción de los procesos de verificación de la industria espacial y creación de una aplicación para dispositivos móviles que facilite la consulta del estado de cierre de los requisitos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/13451</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/13451/files/TAZ-PFC-2014-097_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/13451/files/TAZ-PFC-2014-097.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>verificación</dc:subject>
+    <dc:subject>espacial</dc:subject>
+    <dc:subject>requisitos</dc:subject>
+    <dc:subject>doors</dc:subject>
+    <dc:subject>iphone</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Desarrollo de herramientas de apoyo a la gestión de la verificación de requisitos en el sector espacial</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

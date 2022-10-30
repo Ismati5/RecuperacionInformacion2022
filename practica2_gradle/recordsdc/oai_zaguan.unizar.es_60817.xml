@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Zarazaga Soria, F. Javier</dc:contributor>
+    <dc:creator>Martinez Lascorz, Jorge</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>El objetivo de este TFG es dar una solución a un problema real existente en el ámbito de la seguridad vial. La finalidad principal de este trabajo es ayudar a los usuarios en los desplazamientos por carretera. En ocasiones, la visibilidad juega un papel muy importante en los accidentes, así como las condiciones meteorológicas, los reflejos o la atención en la conducción. El proyecto se basa en los principios de la economía colaborativa adaptados al entorno de la seguridad vial. Tiene como objetivo crear un sistema en el que todos los usuarios compartan información entre ellos, en este caso la ubicación y la velocidad actual, para poder conocer la posición actualizada en tiempo real de los usuarios que estén alrededor del propio cliente, y así evitar los problemas de visibilidad anteriormente mencionados. Cada usuario de la aplicación tiene dos roles: servir su posición actual a los demás usuarios, y recibir la posición de los usuarios alrededor suyo.  La aplicación es capaz de distinguir automáticamente tres tipos de usuarios:  usuarios peatones, usuarios en bicicleta y usuarios conductores de vehículos motorizados, dependiendo de la media de la velocidad media de desplazamiento tomada en varios puntos del trayecto. Todos los usuarios pueden configurar alertas en tiempo real de la localización proporcionada por los demás usuarios, es decir: alertas al acercarse un peatón, un ciclista o un vehículo, todo ello gracias al sistemsistema a colaborativo de posición de los usuarios. Además de generar alertas, la aplicación muestra en tiempo real la ubicación de los usuarios alrededor de nuestra ubicación en un mapa ofrecido por el servicio de Google Maps.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/60817</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/60817/files/TAZ-TFG-2016-1905.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>Prevención de accidentes mediante un sistema colaborativo basado en una aplicación móvil</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Accident prevention through a collaborative system based on a smartphone application</dc:title>
+</oai_dc:dc>

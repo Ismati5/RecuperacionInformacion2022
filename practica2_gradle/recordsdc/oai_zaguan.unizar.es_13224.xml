@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ruiz Budría, Enrique</dc:contributor>
+    <dc:creator>Pérez Lambán, Fernando</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>En este trabajo se presenta un estudio de las relaciones entre yacimientos de la Edad del Bronce y sus entornos. Los casos analizados pertenecen a los cursos bajos de los ríos Huerva y Jalón, en el sector central de la Depresión del Ebro (NE de España).La primera parte del trabajo muestra los procedimientos de modelización de las variables seleccionadas para el estudio. Esta modelización se realiza en un Sistema de Información Geográfica generado y gestionado en ArcGIS y se basa fundamentalmente en la topografía y la geomorfología, pero con una interpretación en clave paleoambiental para algunas variables. Una vez modelizadas las variables y tomados sus valores, en la segunda parte éstos se analizan mediante estadística multivariante por medio de análisis de componentes principales y agrupación (cluster). En este análisis estadístico, las variables modelizadas se dividen en grupos: topográficas, geomorfológicas, de suelos y riesgos, de control y defensa. Finalmente, se ofrece una valoración de la metodología empleada y de los resultados obtenidos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/13224</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio; Área de Geografía Humana</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/13224/files/TAZ-TFM-2013-1274.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>sistemas de información geográfica</dc:subject>
+    <dc:subject>arqueología espacial</dc:subject>
+    <dc:subject>análisis de componentes principales</dc:subject>
+    <dc:subject>edad del bronce</dc:subject>
+    <dc:subject>depresión del ebro</dc:subject>
+    <dc:subject>Máster Universitario en Tecnologías de la Información Geográfica para la Ordenación del Territorio: Sistemas de Información Geográfica y Teledetección</dc:subject>
+    <dc:title>Análisis espacial de entornos de yacimientos de la Edad del Bronce en la Huerva y el Jalón (Depresión del Ebro)</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

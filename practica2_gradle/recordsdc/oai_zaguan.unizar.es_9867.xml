@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Canoira López, Laureano</dc:contributor>
+    <dc:contributor>Royo Herrer, Francisco Javier</dc:contributor>
+    <dc:creator>Mejía Parra, Claudia Ivette</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El transporte aéreo es uno de los sectores de mayor expansión y es blanco de numerosos informes sobre emisiones de gases de efecto invernadero, según datos de la Asociación Internacional del Transporte Aéreo IATA, el tráfico aéreo mundial crecerá alrededor de un 4,5 % anual hasta el 2050. Este incremento de la actividad se traducirá, consecuentemente, en un aumento del consumo de combustible de aviación y de las emisiones de CO2. Por ello es evidente la búsqueda de nuevos combustibles de aviación más eficientes y respetuosos con el medio ambiente. El primer paso para producir un queroseno de mejor comportamiento desde el punto de vista ambiental es la reducción de su contenido de azufre, aunque continúe tratándose de un combustible no renovable, un menor contenido de azufre reducirá las emisiones de óxidos de azufre. La segunda aproximación a nuevos combustibles son los combustibles sintéticos no renovables, son combustibles derivados de otras fuentes de energía distintas al petróleo, principalmente gas y carbón. La tercera aproximación a nuevas alternativas de combustibles para aviación son los biocombustibles en concreto biocombustibles de segunda generación. Se trata de biocombustibles producidos a partir de aceites vegetales, como el biodiesel. Estos combustibles son conocidos como ésteres grasos o ácidos grasos hidroprocesados HEFA’s y normas internacionales, tal como la ASTM D7566 permite su uso en mezclas de hasta el 50%.  El presente proyecto se centra en la destilación de tres tipos ésteres metílicos de ácidos grasos (FAME) provenientes del aceite de coco, palmiste y babasú, las propiedades de los FAME’s dependen del tipo de materia prima debido al rango de compuestos que los constituyen que varían de C8:0 a C20:0. La destilación a vacío tiene el principal objetivo de obtener una fracción ligera similar al queroseno que denominamos bioqueroseno, comprendida en un rango de C8:0 a C14:0 sin producir la descomposición de los FAME’s. Aunque la norma ASTM D7566 limita el contenido en FAME a menos de 5 ppm, estudios recientes han demostrado que la mezcla de este bioqueroseno con combustible fósil Jet-A1 en proporción de hasta 10% v/v no altera negativamente las propiedades del Jet A-1. La simulación realizada en el programa PRO/II del proceso de destilación a vacío reproduce con buena concordancia los resultados de destilación experimentales para los tres bioquerosenos de coco, palmiste y babasú ensayados. Es así mismo destacable el hecho de que la mayoría de los FAME’s utilizados en la simulación no se hallaban en la base de datos del programa PRO/II, por lo que ha sido necesaria la estimación de sus propiedades fijas y dependientes de la temperatura mediante el programa PhysProps, encontrándose una buena correlación entre dichas propiedades estimadas y las publicadas en la literatura.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9867</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Ingeniería Química</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9867/files/TAZ-TFM-2012-1229.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>bioqueroseno</dc:subject>
+    <dc:subject>fame</dc:subject>
+    <dc:subject>biodiesel</dc:subject>
+    <dc:subject>destilación</dc:subject>
+    <dc:subject>babasú</dc:subject>
+    <dc:subject>palmiste</dc:subject>
+    <dc:subject>coco</dc:subject>
+    <dc:subject>Máster Universitario en Energías Renovables y Eficiencia Energética</dc:subject>
+    <dc:title>Diseño de una columna de destilación a vacío para separar biodiesel (FAME’s) con vistas a la producción de bioqueroseno para aviación</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

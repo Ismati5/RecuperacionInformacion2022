@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gaspar Lorenz, Francisco</dc:contributor>
+    <dc:creator>Salinas Cortés, Pablo</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>En este proyecto se presenta un metodo de discretización de ecuaciones en derivadas parciales en mallas triangulares semi-estructuradas usando volumenes finítos y como punto representativo el punto de Voronoi. La posterior discretización se resualve usando metodos multimalla semi-estructurados y se presentan un conjunto de nuevos suavizadores asi como un algoritmo de Galerkin de tipo RAP para cuando las condiciones no son homogeneas en toda la superficie. Finalmente se muestran un conjunto de ejemplo numéricos para demostrar los resultados obtenidos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/7785</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Matemática Aplicada; Área de Matemática Aplicada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/7785/files/TAZ-TFM-2012-067.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>multimalla</dc:subject>
+    <dc:subject>voronoi</dc:subject>
+    <dc:subject>mallas semi-estructuradas</dc:subject>
+    <dc:subject>volumenes finitos</dc:subject>
+    <dc:subject>mallas triangulares</dc:subject>
+    <dc:subject>Máster Universitario en Mecánica Aplicada</dc:subject>
+    <dc:title>Métodos multimalla geométricos en mallas semi-estructuradas de Vorono</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

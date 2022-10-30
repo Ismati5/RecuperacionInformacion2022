@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Cea Mingueza, Pilar</dc:contributor>
+    <dc:creator>De Dios Andrés, Paula</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>En la actualidad, la nanociencia es un campo de investigación a través del cual se pueden buscar alternativas para las numerosas incógnitas que se siguen teniendo en diversos campos como la medicina o la salud. En relación con esta rama de la ciencia, se encuentra la simulación de partes funcionales e imprescindibles de los seres vivos que permitan una mejor comprensión de su funcionamiento. En este trabajo de Fin de Grado se persigue la modelización y optimización de membranas celulares simplificadas usando tres componentes elementales (un fosfolípido, colesterol y un&lt;br /&gt;glicoesfingolípido) para, posteriormente depositar nanopartículas magnéticas y observar su interacción con dicha membrana. Para ello, se construyen monocapas de los tres componentes mediante la técnica de Langmuir-Blodgget y se caracterizan mediante microscopia de fuerza atómica (AFM). Por último se depositan nanopartículas de óxido de hierro y se estudia como interaccionan mediante AFM.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87480</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Física; Área de Química Física</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87480/files/TAZ-TFG-2019-2439.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Química</dc:subject>
+    <dc:title>Simulación de membranas biológicas y su interacción con nanopartículas magnéticas</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Mimic cell membranes and their interaction with magnetic nanoparticles</dc:title>
+</oai_dc:dc>

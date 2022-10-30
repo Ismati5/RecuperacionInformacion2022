@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Romeo Tello, Antonio</dc:contributor>
+    <dc:creator>Alonso Ladeiro, Iván José</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Este proyecto tiene como objetivo principal la mejora de calidad de la línea de producción de OPEL ESPAÑA. 	Se trata del estudio y diseño de un equipo de comprobación de conexiones eléctricas; cuyo objetivo es verificar el estado correcto de conexión de las fichas del mazo de cables del motor conectado a un motor 1.3 Diesel. El uso de este aparato está destinado a la línea de montaje del conjunto motor-transmisión de OPEL ESPAÑA. 	El estado incorrecto de conexión de las fichas implica gastos de producción derivados de tiempos de paro de la propia línea y costes de reparación eléctrica de vehículos. 	Este proyecto podría ser la solución de los problemas ocasionados por el estado incorrecto de conexión de fichas eléctricas en la línea de producción de OPEL ESPAÑA.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8723</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8723/files/TAZ-PFC-2012-482_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/8723/files/TAZ-PFC-2012-482.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>equipo de comprobación de conexiones eléctricas</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electrónica Industrial)</dc:subject>
+    <dc:title>Estudio y diseño de un equipo de comprobación de conexiones eléctricas al final de la línea de montaje del conjunto motor-transmisión</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

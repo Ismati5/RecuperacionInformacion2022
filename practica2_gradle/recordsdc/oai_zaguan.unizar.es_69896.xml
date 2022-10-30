@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>López Nicolás, Gonzalo</dc:contributor>
+    <dc:creator>Pérez Lloret, Sergio</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El objetivo del trabajo es el control de un sistema multi-robot a través de la visión artificial. El sistema de control estará centralizado y será capaz de dirigir a través de comandos el equipo de robots por un recorrido predeterminado o definido por el usuario. Se abordará el tema de evitación de colisiones. El resultado esperado es un sistema multi-robot que a partir de la especificación del usuario (recorridos individuales, movimiento en formación determinada...) ejecuta la tarea utilizando la información de una sola cámara.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/69896</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/69896/files/TAZ-TFG-2017-4507.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Desarrollo de un sistema de control multirobot centralizado basado en visión</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Development of a vision-based centralized multirobot control system</dc:title>
+</oai_dc:dc>

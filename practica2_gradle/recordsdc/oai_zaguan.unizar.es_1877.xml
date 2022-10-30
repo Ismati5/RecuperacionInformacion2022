@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Floría, Luis M.</dc:contributor>
+    <dc:contributor>Moreno, Yamir</dc:contributor>
+    <dc:creator>Gómez Gardeñes, Jesús</dc:creator>
+    <dc:date>2007</dc:date>
+    <dc:description>Resumen Esta Tesis doctoral aborda el estudio de sistemas de muchos elementos (sistemas discretos) interactuantes. La fenomenología presente en estos sistemas esta dada por la presencia de dos ingredientes fundamentales: (i) Complejidad dinámica: Las ecuaciones del movimiento que rigen la evolución de los constituyentes son no lineales de manera que raramente podremos encontrar soluciones analíticas. En el espacio de fases de estos sistemas pueden coexistir diferentes tipos de trayectorias dinámicas (multiestabilidad) y su topología puede variar enormemente dependiendo de dos parámetros usados en las ecuaciones. La conjunción de dinámica no lineal y sistemas de muchos grados de libertad (como los que aquí se estudian) da lugar a propiedades emergentes como la existencia de soluciones localizadas en el espacio, sincronización, caos espacio-temporal, formación de patrones, etc... (ii) Complejidad estructural: Se refiere a la existencia de un alto grado de aleatoriedad en el patrón de las interacciones entre los componentes. En la mayoría de los sistemas estudiados esta aleatoriedad se presenta de forma que la descripción de la influencia del entorno sobre un único elemento del sistema no puede describirse mediante una aproximación de campo medio. El estudio de estos dos ingredientes en sistemas extendidos se realizará de forma separada (Partes I y II de esta Tesis) y conjunta (Parte III). Si bien en los dos primeros casos la fenomenología introducida por cada fuente de complejidad viene siendo objeto de amplios estudios independientes a lo largo de los últimos años, la conjunción de ambas da lugar a un campo abierto y enormemente prometedor, donde la interdisciplinariedad concerniente a los campos de aplicación implica un amplio esfuerzo de diversas comunidades científicas. En particular, este es el caso del estudio de la dinámica en sistemas biológicos cuyo análisis es difícil de abordar con técnicas exclusivas de la Bioquímica, la Física Estadística o la Física Matemática. En definitiva, el objetivo marcado en esta Tesis es estudiar por separado dos fuentes de complejidad inherentes a muchos sistemas de interés para, finalmente, estar en disposición de atacar con nuevas perspectivas problemas relevantes para la Física de procesos celulares, la Neurociencia, Dinámica Evolutiva, etc... </dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/1877</dc:identifier>
+    <dc:language>en</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física de la Materia Condensada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/1877/files/Tesis_GomezGardenez.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>Ecuación de Schrödinger no lineal</dc:subject>
+    <dc:subject>Breathers discretos</dc:subject>
+    <dc:subject>Redes Complejas</dc:subject>
+    <dc:subject>Scale-free</dc:subject>
+    <dc:subject>Caos</dc:subject>
+    <dc:subject>Sincronización</dc:subject>
+    <dc:subject>Kuramoto</dc:subject>
+    <dc:subject>Michaelis-Menten</dc:subject>
+    <dc:subject>Internet</dc:subject>
+    <dc:title>Complex Systems: Nonlinearity and Structural Complexity in spatially extended and discrete systems</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mínguez Zafra, Javier</dc:contributor>
+    <dc:creator>Noé Martínez, Raquel</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El objetivo de este proyecto de investigación es el desarrollo de un sistema para controlar un brazo robótico según la intención de movimiento del usuario. El sistema consiste en una interfaz cerebro-computador basada en electroencefalografía, una interfaz gráfica, y por último la comunicación de ésta con el robot para que realice tareas de movimiento hasta el destino deseado por el usuario. Las características atribuidas a la interfaz desarrollada van más allá de la capacidad de producir el fenómeno neurológico necesario para descifrar de él la intención del movimiento del usuario; ya que con el diseño establecido se consigue crear la sensación de profundidad, y además, al realizar un posicionamiento del resto de elementos involucrados en la escena en tiempo real a partir de posiciones relativas, mediante realidad aumentada, se le otorga cierto grado de libertad de movimiento al usuario. El funcionamiento de la aplicación desarrollada se describe a continuación: Desde el punto de vista del usuario. La interfaz gráfica muestra, superpuesto a la captura de vídeo en tiempo real del entorno circundante, un mallado a modo de guía para informar al usuario de las posiciones predefinidas existentes en su campo de visión. El usuario se concentra en una posición concreta de las posibles que le son presentadas, y el sistema lleva a cabo una estimulación cromática mediante flashes luminosos de todas las posiciones. Dicha estimulación produce el fenómeno neurológico deseado (el potencial evocado P300, concretamente), que medido y procesado permite decodificar la intención del usuario. Esa intención se transfiere al sistema robótico, y éste realiza el movimiento hasta la posición deseada por el usuario. Desde el punto de vista del sistema robótico. La interfaz gráfica muestra, superpuesto nuevamente a la captura en tiempo real del entorno, el mallado, pero en esta ocasión, desde la perspectiva del propio robot. Por tanto, una vez que el sistema le comunica la posición, el movimiento del robot puede entenderse como un movimiento hacia la posición de los cubos determinada por la posición del usuario respecto a él. En este documento queda reflejada la realización de este proyecto, englobando todas las etapas del mismo, desde la idea inicial hasta la finalización, pasando por todas las fases intermedias tales como diseño y desarrollo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5621</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5621/files/TAZ-PFC-2011-073.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5621/files/TAZ-PFC-2011-073_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>interfaces cerebro-computador</dc:subject>
+    <dc:subject>realidad aumentada</dc:subject>
+    <dc:subject>robótica</dc:subject>
+    <dc:subject>visión por computador</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Desarrollo de una interfaz gráfica cerebro-computador para el movimiento de una prótesis robótica con actividad mental</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

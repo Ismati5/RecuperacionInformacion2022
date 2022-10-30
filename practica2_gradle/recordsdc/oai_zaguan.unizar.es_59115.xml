@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sevilla Miguel, Emma</dc:contributor>
+    <dc:creator>Castro López, Carolina</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>El lindano es un pesticida organoclorado con gran persistencia en los ecosistemas y con consecuencias graves para la salud humana y el ambiente debido a su bioacumulación. El isómero comúnmente utilizado es el isómero gamma. En Aragón actualmente hay un grave problema de contaminación en la zona de Sabiñánigo debido a la actividad años atrás de la fábrica Inquinosa, que no almacenó de forma correcta los residuos. Los vertederos de Sardás y Bailín (en los que se almacenaron los residuos) están próximos al río Gállego en el que se ha encontrado frecuentemente niveles del pesticida por encima de los permitidos por la legislación vigente. En este trabajo se ha llevado a cabo el estudio de la expresión génica de distintos genes potencialmente implicados en la respuesta de dos cianobacterias al γ-lindano. Los resultados obtenidos indican que Anabaena PCC7120 tolera bien la presencia de lindano a tiempos cortos, ya que los datos de crecimiento, el contenido de clorofila a y el contenido de proteínas indican solo una ligera afectación. Por otra parte, se ha demostrado que el lindano produce estrés oxidativo a los organismos de estudio (Anabaena y Microcystis aeruginosa PCC7806) mostrando un aumento en la expresión de genes que se inducen como respuesta al estrés oxidativo (furC y prxA). La ruta de degradación de lindano en Anabaena se desconoce. En este trabajo se han relacionado genes que codifican para enzimas presentes en la ruta de degradación de Sphingomonas paucimobilis con genes presentes en el genoma de Anabaena, los cuales podrían corresponder con los homólogos de la ruta de degradación en Anabaena. Además, se ha utilizado una cepa con sobreexpresión de un regulador transcripcional, furC, que nos ha permitido observar que la sobreexpresión de esta proteína le confiere a la cianobacteria un aumento de la tolerancia al pesticida con respecto a la cepa silvestre.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/59115</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Fisiología Vegetal</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/59115/files/TAZ-TFG-2016-2252.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/59115/files/TAZ-TFG-2016-2252_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Biotecnología</dc:subject>
+    <dc:title>Estudio de la respuesta a g-lindano en cianobacterias: cambios transcripcionales de genes potencialmente implicados</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Study of the response to g-lindane in cyanobacteria: transcriptional changes of genes potentially involved</dc:title>
+</oai_dc:dc>

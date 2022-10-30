@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Verda, Vittorio</dc:contributor>
+    <dc:contributor>Serra, Luis M.</dc:contributor>
+    <dc:creator>Lahuerta Martínez, Jesús</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>La refrigeración de equipos electrónicos y centros de datos es una partida que cada vez supone un mayor gasto en la factura energética de las empresas y un mayor impacto en el medio ambiente por la gran cantidad de energía que se consume. Hoy en día hay en marcha diferentes líneas de investigación para conseguir una refrigeración adecuada con el menor consumo posible de energía primaria, sustituyendo en la medida de lo posible las fuentes de energía “convencionales”. Este proyecto parte de un acuerdo entre el Politecnico di Torino y Telecom Italia para mejorar los sistemas de refrigeración de las instalaciones de Telecom Italia en Turín, dado el deseo de esta última  de reducir su factura energética. Se estudiará para tal fin la combinación de free-cooling y solar-cooling con la finalidad de reducir hasta 0 la cantidad de energía convencional que se necesita para refrigerar el TI-LAB (Telecom Italia Lab) de Telecom Italia en la ciudad de Turín. Esta combinación es particularmente interesante debido a que son dos técnicas que se complementan de una manera razonablemente buena, por un lado el free-cooling es adecuado en los días fríos ya que requiere que haya una diferencia apreciable de temperaturas entre el local a refrigerar y el exterior, por otro lado para el funcionamiento del solar-cooling es necesaria una radiación solar importante, la cual se produce generalmente en los momentos más calurosos del día que es cuando el free-cooling no trabaja bien. Para llevar a cabo este estudio, se realizará un modelo de free-cooling basado en la posibilidad de bajar la temperatura del centro de cálculo con ventilación a partir del aire externo y posteriormente  se estudiará su integración con dos modelos de solar-cooling, uno basado en colectores solares y un ciclo de absorción, y otro en paneles fotovoltaicos y un ciclo de compresión. El estudio se realizará siempre bajo el objetivo de conseguir un aporte de energía eléctrica nula para la refrigeración del local, si bien no se descuidara la viabilidad económica del mismo. Los modelos serán realizados en Excel para el free-cooling y EES (Engineering Equation solver) para el solar-cooling. Realizando en ambos casos una simulación horaria de todo un año de estudio, para poder analizar de una manera lo más aproximada posible a la realidad la viabilidad de la implantación facilitando la toma de decisión a cargo de la empresa, Telecom Italia.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5287</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5287/files/TAZ-PFC-2010-286.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5287/files/TAZ-PFC-2010-286_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>free-cooling</dc:subject>
+    <dc:subject>solar-cooling</dc:subject>
+    <dc:subject>absorción</dc:subject>
+    <dc:subject>energía solar</dc:subject>
+    <dc:subject>refrigeración</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Refrigeración de centro de cálculo por medio de “Free-cooling” y “Solar-cooling”</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

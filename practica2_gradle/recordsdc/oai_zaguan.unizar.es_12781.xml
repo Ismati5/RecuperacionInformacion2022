@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gonsalvez, David</dc:contributor>
+    <dc:contributor>Menezes, Mozart Batista de Castro</dc:contributor>
+    <dc:creator>Barnett Lawton, Jorge Enrique</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El agotamiento de las reservas de combustibles fósiles, la creciente preocupación sobre el posible impacto a corto y mediano plazo de las emisiones de gases invernadero en la sociedad y el medio ambiente, y las resultantes políticas orientadas hacia energías más limpias y menor dependencia de combustibles fósiles, han todos puesto mayor presión en incrementar la capacidad de generar energía a partir de fuentes renovables, de las cuales la energía eólica ha sido uno de los segmentos de más rápido desarrollo. Sin embargo, la naturaleza intermitente e impredecible de estas fuentes, combinada con las limitaciones de la actual infraestructura de transmisión, se traduce en una cantidad significativa de energía eólica desperdiciada y en que no se llegue a explotar adecuadamente la capacidad instalada de generación. El hidrógeno ha sido identificado como un vector energético limpio para almacenar la energía producida a partir de dichas fuentes variables. Adicionalmente, el hidrógeno ha demostrado su factibilidad como combustible de cero emisiones para uso en transporte, sea a través de sistemas de combustión o celdas de combustible. El uso del hidrógeno como mecanismo de almacenaje puede ayudar a absorber las fluctuaciones en el suministro de energía, y potencialmente aumentar la utilización de la capacidad disponible de generación renovable. El desarrollo de una infraestructura de producción y distribución de hidrógeno es un tema de gran relevancia en la evaluación de la viabilidad a largo plazo de este vector energético. Esta tesis doctoral se centra en las decisiones enfrentadas por una empresa con capacidad de generación de energía renovable, cuando también le es posible producir hidrógeno por medio de electrólisis conectada a la red. Primero nos enfocamos en las decisiones de diseño de la cadena de suministro para el productor; específicamente, dónde localizar las instalaciones de producción de hidrógeno, cuánta capacidad construir en cada instalación, y cuánto hidrógeno debe ser distribuido a instancias posteriores en la red. Presentamos una serie de modelos de optimización para el diseño de la red de producción y distribución, considerando el valor adicional creado por la producción de hidrógeno para una empresa generadora, incorporando la incertidumbre en el suministro de energía renovable y en los precios de electricidad. La empresa opera en un mercado regulado por una agencia externa con la capacidad de fijar precios para el combustible de hidrógeno y establecer políticas generales de servicio para el mercado siendo considerado por el productor. Los Capítulos 2 y 3 de la tesis están enfocados en la problemática del productor bajo dos políticas regulatorias de distribución: selección de mercados y asignación proporcional. Para abordar este problema presentamos procedimientos de solución basados en métodos de generación de columnas. A manera de fundamentar nuestro trabajo en un contexto práctico, en el Capítulo 4 implementamos nuestros modelos para evaluar una futura red de combustible de hidrógeno en España, y evaluamos el efecto de los incentivos externos (subsidios) sobre las decisiones del productor, permitiéndonos ganar intuición sobre cómo dichos incentivos pueden ser puestos en marcha para hacer viable una economía de hidrógeno.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12781</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Zaragoza Logistics Center (ZLC)</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12781/files/TESIS-2013-136.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>energía</dc:subject>
+    <dc:subject>energías renovables</dc:subject>
+    <dc:subject>hidrógeno</dc:subject>
+    <dc:subject>producción de energía</dc:subject>
+    <dc:subject>distribución de energía</dc:subject>
+    <dc:subject>energy</dc:subject>
+    <dc:subject>renewable energy</dc:subject>
+    <dc:subject>hydrogen</dc:subject>
+    <dc:subject>energy production</dc:subject>
+    <dc:subject>energy distribution</dc:subject>
+    <dc:title>Location models applied to the design of a distribution network for hydrogen fuel produced from renewable energy sources</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

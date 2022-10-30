@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Izquierdo Pantoja, María Teresa</dc:contributor>
+    <dc:contributor>Juan Mainar, Roberto</dc:contributor>
+    <dc:contributor>Téllez Ariso, Carlos</dc:contributor>
+    <dc:creator>García Díez, Enrique</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El presente Proyecto ha sido desarrollado en el Instituto de Carboquímica, CSIC, en el marco del proyecto de investigación “Monolitos de carbono para aplicaciones medioambientales: captura de mercurio con sorbentes regenerables”, financiado por el Ministerio de Ciencia e Innovación. El objetivo de este Proyecto es el desarrollo de sorbentes regenerables basados en Au/C para la captura de mercurio en presencia de gases de combustión. Se han preparado y caracterizado diferentes soportes de material carbonoso a partir de monolitos de carbono comerciales, a los cuales se les aplicó diferentes tratamientos que permitieron la modificación de su química superficial, concretamente un tratamiento de oxidación, para favorecer la deposición de oro. La deposición de oro sobre los soportes se ha llevado a cabo a partir de una sal de oro siguiendo dos metodologías diferentes: i) reducción directa del Au sobre el soporte y ii) deposición de oro coloidal. Se pretende conseguir la deposición de partículas de oro de tamaño nanométrico de forma homogénea y reproducible. Una vez depositado el oro nanoparticulado, los sorbentes se caracterizaron mediante diferentes técnicas para determinar las condiciones óptimas de deposición de oro, en cuanto a distribución y tamaño de partícula, y repetitividad de su preparación. De esta forma, se obtuvieron tres grupos de sorbentes diferentes: i) Sorbentes con una elevada cantidad de oro depositada, (denominados de alta concentración), ii) Sorbentes con una cantidad intermedia de oro depositado con un tamaño de partícula inferior al caso anterior (denominados de media concentración), y iii) Sorbentes con baja cantidad de oro depositada, que mostraron una homogénea distribución de las partículas de oro con un pequeño tamaño de las mismas. Se evaluó la necesidad de un tratamiento térmico de reducción, con el objetivo de garantizar que el oro depositado fuera mayoritariamente oro elemental, y que las nanopartículas fueran lo más homogéneas posible. Para lo cual se estudiaron diferentes temperaturas en una atmósfera reductora, 4 % de H2 en Ar, determinándose una temperatura de 300 ºC durante 1 hora como tratamiento térmico reductor. Se evaluó la capacidad de retención de mercurio de los diferentes sorbentes obtenidos en atmósfera inerte. Así mismo, se evaluó la capacidad de retención de mercurio de sorbentes con oro coloidal en presencia de diferentes gases de combustión: N2, O2, SO2 y NO. La presencia de otros gases afecta negativamente a la capacidad de captura de mercurio. Esto es debido por un lado a la posible modificación del estado de oxidación del oro así como a la oxidación del mercurio elemental, dando lugar a Hg2+ que no se retiene en los sorbentes.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9126</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Ingeniería Química</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9126/files/TAZ-TFM-2012-836.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>captura</dc:subject>
+    <dc:subject>mercurio</dc:subject>
+    <dc:subject>oro</dc:subject>
+    <dc:subject>monolitos de carbono</dc:subject>
+    <dc:subject>gases de combustión</dc:subject>
+    <dc:subject>Máster Universitario en Iniciación a la Investigación en Ingeniería Química y del Medio Ambiente</dc:subject>
+    <dc:title>Desarrollo y evaluación de sorbentes regenerables basados en Au/C para la captura de mercurio en gases de combustión</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

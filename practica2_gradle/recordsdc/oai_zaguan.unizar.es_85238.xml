@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Royo Sánchez, Jesús Antonio</dc:contributor>
+    <dc:creator>Iranzo Arcal, Francisco de Asís</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>El presente trabajo de fin de grado aborda el diseño e implementación de un proyecto de transporte de piezas automatizado con un robot AGV entre la máquina que fabrica una pieza y la célula en la que se monta. &lt;br /&gt;Así pues, este trabajo va a consistir en realizar desde cero el diseño del sistema necesario para transportar las piezas y la programación del robot, así como implementar todo el proyecto en la empresa, verificar su correcto funcionamiento y comprobar la viabilidad del proyecto.&lt;br /&gt;La transferencia de piezas se realiza entre una inyectora de plástico ENGEL y una mesa de trabajo situada en la célula de montaje que están separadas por un pasillo. La inyectora está asistida por un robot SEPRO cuya misión es extraer las piezas del molde de inyección y depositarlas en una cinta transportadora. El transporte de las piezas lo realizará un robot MIR 100 que llevará una estructura instalada para portar una cinta transportadora de manera que podrá encararse con la cinta transportadora de la inyectora, recoger las piezas y llevarlas hasta la mesa de trabajo situada en la célula de montaje.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/85238</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/85238/files/TAZ-TFG-2019-2855.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Transferencia de piezas de inyección mediante un AGV y estudio de viabilidad y mejora en planta en empresa de automoción</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Transfer of injected pieces through an AGV and study about viability and improvement in the plant in an automotive company</dc:title>
+</oai_dc:dc>

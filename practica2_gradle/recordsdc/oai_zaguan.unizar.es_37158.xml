@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Letosa Fleta, Jesús</dc:contributor>
+    <dc:creator>Cobos Angos, ALberto</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>El objetivo principal de este Proyecto Fin de Carrera es desarrollar una herramienta para el modelado de rodamientos magnéticos activos de fuerza radial. Con el modelo desarrollado, se estudian las prestaciones de este tipo de rodamiento frente a variaciones de algunos de los parámetros que lo definen. Se ha diseñado un script principal que permite el diseño de un rodamiento electromagnético radial de n polos con geometría variable. El script principal se compone de otros script que actúan como subrutinas con diferentes cometidos. Además también se ha programado otro script que permite cálculos de post-procesado para fuerzas sobre el rotor provocadas por desplazamientos del mismo dentro del Gap. Se ha validado el modelo diseñado con datos experimentales obtenidos en un rodamiento magnético radial de 8 polos construido en laboratorio.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/37158</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/37158/files/TAZ-PFC-2015-265.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electrónica Industrial)</dc:subject>
+    <dc:title>Herramienta para el diseño de un rodamiento electromagnético radial</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

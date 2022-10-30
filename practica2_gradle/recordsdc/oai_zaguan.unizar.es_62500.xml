@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Blasco de las Heras, Natividad</dc:contributor>
+    <dc:creator>Martínez Sierra, David</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El binomio rentabilidad-riesgo es  un factor clave a tener en cuenta antes de realizar cualquier inversión. En el caso de un inversor averso al riesgo, el objetivo principal será minimizar el riesgo, para después, maximizar la rentabilidad tanto como le sea posible. Existen varios modelos de los que se puede servir un inversor para lograr este fin, siendo uno de los más reconocidos el Teorema de la diversificación de carteras de Markowitz. Este teorema tiene una serie de limitaciones que pueden comprometer seriamente los resultados obtenidos. El objetivo del presente TFG es demostrar de forma empírica cómo una estrategia conjunta compuesta por una primera criba de los títulos mediante el modelo de Markowitz (en adelante Markowitz) y una segunda mediante un análisis fundamental, resulta más eficiente que utilizar solamente la primera, siempre desde el punto de vista de un inversor averso al riesgo y en un marco temporal en torno a seis meses. Para ello, se aplicará Markowitz a los valores del Ibex a 30 de diciembre de 2016 y posteriormente se realizará un análisis fundamental de los valores obtenidos según dicho criterio, y se reestructurará la cartera en función de los resultados. Por último, se calcularán las rentabilidades en junio de 2017 en el caso de Markowitz, y en el de la estrategia conjunta, y se compararán.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/62500</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/62500/files/TAZ-TFG-2017-2702.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Administración y Dirección de Empresas</dc:subject>
+    <dc:title>El análisis fundamental como paliativo a las limitaciones del Teorema de la diversificación de carteras de Markowitz</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">The fundamental analysis as a palliative for the limitations of the Markowitz portfolio diversification Theorem</dc:title>
+</oai_dc:dc>

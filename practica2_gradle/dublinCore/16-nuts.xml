@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<csw:Record xmlns:csw="http://www.opengis.net/cat/csw/2.0.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ows="http://www.opengis.net/ows" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:language>en</dc:language>
+  <dc:identifier>16-nuts</dc:identifier>
+  <dc:description>The NUTS (Nomenclature of Territorial Units for Statistics) was established by the Statistical Office of the European Communities more than 25 years ago in order to provide a single uniform breakdown of territorial units for the production of regional statistics for the European Union. Since 2003 the NUTS is based on a regulation of the European Parliament and of the Council. The regulation entered into force on 1 May 2004. The geographical layer of the NUTS represent the boundaries of these NUTS regions. The NUTS layer contains several boundary and point data sets which serve as a base map of regional boundaries covering the entire EU territory. The NUTS nomenclature, a hierarchical coding system defined by Eurostat, subdivides the EU economic territory into 3 statistical levels plus the country level. At present, four scale ranges (1:1M, 1:3M, 1:10M and 1:20M) are maintained in the GISCO database. The boundary feature classes delineate the regions while the point feature classes provide a label for each region. Associated tables contain basic information such as the region's name and area size. NUTS version 8 is based on the 2001 SABE (Seamless administrative boundaries of Europe) data and represents the state of the NUTS as of 1 January 2003. In addition to SABE the NUTS regions include the NUTS levels 0 to 3 for Turkey as well. The data set name is slightly different from previous versions, as the NUTS version 8 covers the entire European Union.</dc:description>
+  <dc:format>ARCC</dc:format>
+  <dc:identifier>http://geoportal.jrc.it/wmsconnector/WMSProxyServlet/JRC_GISCO_NUTS</dc:identifier>
+  <dc:identifier>http://geoportal.jrc.it/wmsconnector/WMSProxyServlet/JRC_GISCO_COMMUNES</dc:identifier>
+  <dc:language>en</dc:language>
+  <dc:source>The geometry of the NUTS was derived from the Seamless administrative boundaries of Europe (SABE) dataset.</dc:source>
+  <dc:subject>STATISTICAL UNITS</dc:subject>
+  <dc:subject>boundaries</dc:subject>
+  <dc:title>NUTS Regions Version 8</dc:title>
+  <dc:type>dataset</dc:type>
+  <dcterms:accessRights>copyright</dcterms:accessRights>
+  <dcterms:created>2005-04-11</dcterms:created>
+  <dcterms:provenance>The base coverage for the NUTS coverage 1:1M version 8 is the 2001 commune cover (SABE2001 version 1.1, source: EuroGeographics) together with the 1998 NUTS nomenclature supplied by EUROSTAT. The new NUTS boundaries were derived through a dissolve on NUTS level 3. For more information about the sources for the commune boundaries see layer commune boundaries. The boundaries of countries that are part of the NUTS coding, but are not present in the commune boundaries layer where derived from the NUTS version 7. The United Kingdom and Northern-Ireland boundaries were also derived from NUTS version 7. However, the sea-boundaries from the UK and Germany where updated with data from Scole (EuroGeographics). Monaco, Kaliningrad, Albania and Uzbekistan were additional exeptions. Their boundary information was derived from DCW data, since there was no appropriate match with the former NUTS version 7. Lakes In the NUTS coverage version 8 some major lakes of Europe have been included. The main reason for this is that these lakes are actually not a part of any NUTS region and should thus not be drawn as if they were. The countries that are affected by these lakes are: Sweden, Finland, Northern Ireland, Hungary, France, Switzerland, Germany, Austria, Estonia and Russia. The main source where the lake boundaries from communes (CM) data set. Lakes that are part of a non-CM country where derived from the former NUTS version 7. Aral Sea has been added together with Uzbekistan borders. The country-boundaries in the Caspian Sea are derived from the DCW data. The boundaries between Turkmenistan, Iran and Azerbaijan are still dependant on the trilateral negotiations. The lakes Dead Sea and Tiberias got (in expectation of more info) a dummy ISO code for the polygon ("DT" &gt; disputed area).</dcterms:provenance>
+  <dcterms:spatial>European Union</dcterms:spatial>
+  <dcterms:spatial>EFTA</dcterms:spatial>
+  <dcterms:spatial>Candidate countries</dcterms:spatial>
+  <dcterms:temporal>begin=2003-01-01; end=2004-04-30;</dcterms:temporal>
+  <ows:BoundingBox>
+    <ows:LowerCorner>-72.83 -21.34</ows:LowerCorner>
+    <ows:UpperCorner>120.13 83.62</ows:UpperCorner>
+  </ows:BoundingBox>
+</csw:Record>

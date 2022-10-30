@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>BLANCO ARIÑO, SOFÍA TERESA</dc:contributor>
+    <dc:creator>Verón Guilló, Carlos</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>La tecnología de Captura y Almacenamiento del CO2, CCS de su traducción en inglés, es una de las principales alternativas para reducir las emisiones de este gas de efecto invernadero. Consiste en capturarlo y transportarlo hasta almacenes subterráneos que sean de origen natural, profundos y no permitan su escape. El CO2 capturado contiene impurezas, las cuales afectan notablemente a sus propiedades y por tanto se han de tener en cuenta para el diseño y operación de equipos de CCS.  En este trabajo estudiamos el impacto de dos impurezas no condensables, el  O2 y el N2, en distintos parámetros CCS.  Para ello se obtuvieron valores de densidad (ρ), viscosidad (µ) y los límites de equilibrio-vapor (ELV) mediante la EoS GERG-2008 utilizando el programa REFPROP 9.1. para la mezcla CO2+N2+O2 con xCO2= 0.968, xN2 = 0.020 y xO2= 0.012, composición representativa del proceso de captura de oxicombustión. Se ha estudiado su comportamiento en los rangos de 263,15 K a 373,15 K y de 0.02 MPa  a 30 MPa para la temperatura y la presión respectivamente. A partir de estos datos se calculan diversos parámetros técnicos relacionados con el transporte, la inyección y el almacenamiento del CO2 antropogénico, obteniendo las diferencias entre los parámetros para la mezcla y para el CO2 puro, para evaluar la influencia de la presencia de N2 y O2 en estas etapas de la tecnología CCS. Finalmente se concluyó que la presencia de dichas impurezas provoca efectos negativos en los parámetros estudiados, que aumentan el coste de la tecnología CCS, ya que incrementa los riesgos y las dificultades de la misma.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76785</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Física; Área de Química Física</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76785/files/TAZ-TFG-2018-3115.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/76785/files/TAZ-TFG-2018-3115_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Química</dc:subject>
+    <dc:title>Estudio del sistema CO2+N2+O2 para la tecnología CCS: cálculo de propiedades y aplicación al transporte, inyección y almacenamiento</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Study of the system CO2+N2+O2 for the CCS system: calculation of properties and application to transport, injection and storage</dc:title>
+</oai_dc:dc>

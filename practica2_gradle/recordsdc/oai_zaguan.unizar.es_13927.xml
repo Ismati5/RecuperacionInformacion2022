@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Grasa Orús, Jorge</dc:contributor>
+    <dc:creator>Tourón Portolés, José Manuel</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Diseño y Modelado de un chasis de motocicleta en acero, basado en la geometría de uno real fabricado en aluminio. Con objeto de solucionar un problema que presenta el chasis original en aluminio cuando se quiere acondicionarlo para la disciplina deportiva llamada Supermoto. Análisis posterior por elementos finitos del comportamiento del chasis en acero,frente a una serie de hipótesis de carga: Frenada, Aceleración e Impacto.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/13927</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/13927/files/TAZ-PFC-2014-215.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>chasis de motocicleta en acero</dc:subject>
+    <dc:subject>análisis por el método elementos finitos</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Diseño, modelado y análisis por elementos finitos de un chasis de motocicleta</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

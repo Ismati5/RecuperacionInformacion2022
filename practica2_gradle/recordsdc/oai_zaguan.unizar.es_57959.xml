@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sanso Frago, Marcos</dc:contributor>
+    <dc:creator>Sorribas Ruiz, Javier</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>Se plantea un modelo neokeynesiano de economía abierta con crecimiento endógeno, inspirado en el modelo de Hayashi (1982) con costes de ajuste, en el que se analiza el comportamiento de largo plazo. Se analiza primero el caso de flexibilidad de precios para dos y tres economías en el que se comprueba, en simulaciones correspondientes a datos anuales, que si son economías idénticas acaban creciendo igual a largo plazo sin que exista comercio entre ellas y sin flujos internacionales de deuda y se concluye cómo cambia esa circunstancia al diferir en sus características representadas por los distintos parámetros. Ello sirve para obtener una perspectiva bastante completa de las implicaciones del modelo, del que no existe antecedente integrando todos los elementos considerados. A continuación, se introduce la posibilidad de que existan rigideces de precios y/o salarios, con la intención de determinar la relación entre inflación y crecimiento en el largo plazo. Lo que se determina para simulaciones correspondientes a datos trimestrales es que la flexibilidad de precios y salarios implica la neutralidad a largo plazo de la política monetaria, tal y como hoy se entiende, puesto que inflación y crecimiento son independientes. Si existe rigidez sólo en precios las desviaciones de la neutralidad son mínimas, pero cuando la rigidez está en los salarios (con o sin rigidez de precios) se produce claramente la no neutralidad. Las conclusiones de la no neutralidad son que el crecimiento alcanzable es sensiblemente menor (tanto menor cuanto mayor es la rigidez) que el de flexibilidad de precios y que el máximo crecimiento se logra con inflación negativa, en línea con conclusiones previas para economía cerrada. El último resultado que se obtiene es que si los países tienen tipo distintos de rigideces las políticas monetarias no son independientes en el largo plazo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/57959</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Análisis Económico; Área de Fundamentos del Análisis Económico</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/57959/files/TAZ-TFM-2016-938.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Economía</dc:subject>
+    <dc:title>Crecimiento e inflación de largo plazo en un modelo neokeynesiano de economía abierta</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Long-term growth and inflation in an Open-Economy New Keynesian model</dc:title>
+</oai_dc:dc>

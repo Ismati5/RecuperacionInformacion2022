@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Pérez Bella, José María</dc:contributor>
+    <dc:creator>Castillo Fernández, Jorge</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>La tradicional carencia de registros meteorológicos horarios de suficiente antigüedad en un número significativo de emplazamientos españoles, ha impedido aplicar la norma ISO 15927-3 (UNE-EN ISO 15927-3) para determinar la exposición de las fachadas de los edificios a la lluvia batiente. Así, se han venido utilizando otros índices simplificados, como el Driving Rain Index (aDRI) para caracterizar esta exposición, basados en datos diarios, mensuales o anuales de precipitación y viento. La progresiva implantación de estaciones automáticas permite ahora paliar esta carencia.&lt;br /&gt;En este trabajo se recopilan registros meteorológicos horarios de diversas estaciones automáticas españolas (EMAs) implantadas antes de 2008 y, usando la formulación presente en la norma ISO 15927-3, se determina la exposición media anual de las fachadas de ciertos emplazamientos a la lluvia batiente, así como su exposición máxima asociada a periodos de humedecimiento concretos. Los resultados se comparan con los previamente obtenidos por otros indicadores simplificados y con el grado de impermeabilidad exigido actualmente por el CTE-DB HS1 en esas zonas.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/84774</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería de la Construcción</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/84774/files/TAZ-TFM-2019-982_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/84774/files/TAZ-TFM-2019-982.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Industrial</dc:subject>
+    <dc:title>Cálculo de lluvia batiente anual y máxima de referencia de fachadas españolas: ISO 15927-3 y comparación con otros índices simplificados</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Wind-driven rain calculation on spanish facades: Application of standard ISO 15927-3 and its comparison with other simplified  indices</dc:title>
+</oai_dc:dc>

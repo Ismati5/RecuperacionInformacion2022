@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mateo Collazos, Pedro</dc:contributor>
+    <dc:contributor>Surra Muñoz, Joaquín</dc:contributor>
+    <dc:creator>Aguilar Ibáñez, Andrea</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>El objetivo principal del presente TFG es desarrollar un programa informático destinado a la formulación de piensos compuestos de animales monogástricos, que sea suficientemente potente y versátil para poder ser utilizado para fines docentes, en pequeñas empresas, ganaderías, etc. La formulación del pienso se realiza en función del coste económico (mínimo coste) a la cual se impondrán restricciones (máximos o mínimos) de ingredientes y nutrientes. La solución del problema se aborda mediante técnicas de programación lineal. El programa presenta una interfaz amigable para la introducción de las necesidades a cubrir de la especie animal en cuestión. También permite realizar un análisis post-óptimo asociado a la solución. Se han utilizado herramientas matemáticas e informáticas aplicadas a la formulación de dietas reales.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/59132</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Métodos Estadísticos; Área de Estadística e Investigación Operativa</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/59132/files/TAZ-TFG-2016-2186.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Matemáticas</dc:subject>
+    <dc:title>Desarrollo de un Programa Informático para la Formulación de Piensos Compuestos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Software Development for Compound Feed Formulation</dc:title>
+</oai_dc:dc>

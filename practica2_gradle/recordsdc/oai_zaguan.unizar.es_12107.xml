@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Saldaña Medina, Jose María</dc:contributor>
+    <dc:contributor>Fernández Navajas, Julián</dc:contributor>
+    <dc:creator>Fernández Barberá, Carlos</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>En la actualidad existen diversas alternativas para establecer una comunicación por videoconferencia. Aunque existen soluciones gratuitas, los usuarios de entornos empresariales demandan mejores prestaciones. Es aquí donde aparecen alternativas propietarias con el principal objetivo de garantizar mayor calidad. El objetivo del presente proyecto es el análisis de la alternativa propietaria “Vidyo”, novedosa por el uso de la tecnología adaptativa de capas de vídeo (Adaptive Video Layering, AVL) junto con la alternativa más utilizada y extendida en el mundo de la videoconferencia, Skype. El uso de la alternativa Vidyo ha sido posible gracias al acuerdo de colaboración con la empresa ORBE S.L. En primer lugar se implementó la puesta en marcha de dos plataformas de videoconferencia, realizando la instalación y configuración de los clientes en diferentes sistemas operativos y todo ello para un entorno controlado de laboratorio. En segundo lugar se realizó la configuración y el montaje de los diferentes escenarios de red más adecuados para obtener unas pruebas consistentes y robustas. Hemos empleado varias herramientas, entre ellas una desarrollada en un proyecto anterior, que nos ha permitido realizar y automatizar baterías de pruebas, para así realizar el calibrado de los elementos del sistema y determinar que los escenarios son adecuados. En tercer lugar, hemos realizado las pruebas técnicas encaminadas a medir las reacciones de las aplicaciones ante los cambios en las condiciones de la red. Estas pruebas se han realizado introduciendo limitaciones de ancho de banda, pérdidas y retardos en el entorno de laboratorio. Todo ello se ha realizado mediante la programación de "scripts" automatizados en diferentes lenguajes. Por último, mediante el análisis de los resultados obtenidos, hemos extraído conclusiones sobre las características y funcionamiento de las dos soluciones de videoconferencia, estableciendo comparaciones entre ambas plataformas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12107</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingeniería Telemática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12107/files/TAZ-PFC-2013-547.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>videoconferencia</dc:subject>
+    <dc:subject>transmisión de vídeo</dc:subject>
+    <dc:subject>análisis de tráfico</dc:subject>
+    <dc:subject>vídeo por capas</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicación</dc:subject>
+    <dc:title>Análisis de prestaciones de un sistema de videoconferencia comercial</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

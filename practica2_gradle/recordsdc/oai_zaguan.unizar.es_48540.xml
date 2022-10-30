@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Urriza Parroqué, Isidro</dc:contributor>
+    <dc:contributor>Domínguez Vicente, Alberto</dc:contributor>
+    <dc:creator>Gómez Aguaviva, Félix</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>El presente trabajo fin de grado consiste en analizar un método diferente al utilizado actualmente para medir la corriente y tensión en la carga de una etapa de potencia perteneciente a una cocina de inducción, en concreto de un semipuente resonante serie. La correcta medida de estas señales es algo necesario para llevar a cabo un adecuado control de la etapa, además de para asegurar la seguridad del usuario y de los dispositivos en todo momento. A día de hoy se utilizan conversores Σ-Δ para realizar las medidas, los cuales se quieren sustituir por ADCs de tipo Nyquist integrados dentro de un ASIC. Este cambio permitirá un ahorro de espacio y de costes de producción, y lo que se pretende averiguar con el análisis que se va a llevar a cabo es encontrar unos valores mínimos relativos al número de bits y a la frecuencia de muestreo del ADC que permitan obtener unos resultados comparables con los obtenidos a día de hoy, y a ser posible mejores. Por otro lado, este análisis se va a aprovechar para poner en marcha la herramienta de simulación mixta Virtuoso® Design Environment de Cadence®, y se elaborará un manual de usuario que sirva como referencia a la hora de aprender a manejar la herramienta para llevar a cabo simulaciones mixtas por parte de futuros usuarios. Finalmente se obtendrán resultados experimentales con la configuración del ADC elegida, que verifiquen las conclusiones obtenidas en el análisis.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/48540</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/48540/files/TAZ-TFG-2015-3736_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/48540/files/TAZ-TFG-2015-3736.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Electrónica y Automática</dc:subject>
+    <dc:title>Medida de corriente y tensión en etapas de potencia para inducción doméstica. Análisis de las alternativas de digitalización</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

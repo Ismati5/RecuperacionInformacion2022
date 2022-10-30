@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sebastián López, María</dc:contributor>
+    <dc:creator>Puente Burón, María</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>El presente documento muestra las posibilidades de análisis que supone la toma de información geográfica a través de vehículos aéreos no tripulados (UAV). Los UAV se presentan como una herramienta distintiva y de interés en los estudios de ordenación territorial, que da respuesta a las carencias o insuficiencias de información espacial existentes que no suplan las necesidades y  requerimientos del proyecto en cuestión. Para ello se elabora una metodología de identificación de los posibles problemas territoriales, seguido de un análisis de las fuentes de información disponibles que culmina con el desarrollo de un protocolo de captura de imágenes aéreas y su posterior tratamiento para su corrección y georreferenciación. Por otra parte se sugiere la posibilidad de combinar estas imágenes aéreas con otras obtenidas mediante cámaras de infrarrojo cercano, que proporcionen información complementaria.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/56854</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/56854/files/TAZ-TFM-2016-805.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ordenación Territorial y Medioambiental</dc:subject>
+    <dc:title>Protocolo de toma de información geográfica de alta resolución a través de vehículos aéreos no tripulados (UAV) para la Ordenación del Territorio.</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Protocol taking high-resolution geographic information through unmanned aerial vehicles (UAVs) for Land Planning.</dc:title>
+</oai_dc:dc>

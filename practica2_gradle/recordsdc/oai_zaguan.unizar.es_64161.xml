@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Civera Sancho, Javier</dc:contributor>
+    <dc:contributor>Fácil Ledesma, José María</dc:contributor>
+    <dc:creator>Olid Hernández, Daniel</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El reconocimiento de lugares es un problema que consiste en, dada una imagen de entrada, encontrar en una base de datos con imágenes aquellas que se corresponden al mismo lugar. Es un área que se encuentra en investigación ya que forma parte de tecnologías en auge como la navegación autónoma y la realidad aumentada. Uno de los retos a resolver es que la apariencia de los lugares cambia por la dinámica de los entornos. Condiciones climatológicas como la nieve o la lluvia pueden hacer que un lugar parezca otro distinto. Algunas aproximaciones que utilizan redes neuronales presentan una mayor invarianza a los cambios de apariencia. Por ello, este trabajo emplea imágenes captadas con una cámara monocular y redes neuronales con estructuras siamesas y triplets para desarrollar el reconocedor.  La implementación del reconocedor conlleva varios desafíos. Por un lado, disponer de datos adecuados para el entrenamiento de las redes y para la comprobación del reconocedor. Para ello se propone un conjunto de datos diseñado a partir de imágenes de los vídeos del trayecto Nordland. Por otro lado, la elección de la estructura y el proceso de entrenamiento de las propias redes neuronales. En este sentido, se ha comprobado que las redes neuronales, especialmente las triplets, son capaces de extraer características de los lugares robustas a los cambios de apariencia vistos en su entrenamiento. El reconocedor desarrollado alcanza resultados del estado del arte con imágenes del conjunto Nordland, rivalizando con aproximaciones tanto similares, como diferentes.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64161</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64161/files/TAZ-TFG-2017-2922.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Electrónica y Automática</dc:subject>
+    <dc:title>Reconocimiento de lugares con invarianza a cambios del entorno mediante redes neuronales</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Condition invariant place recognition using neural networks</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sanz Gorrachategui, Iván</dc:contributor>
+    <dc:contributor>Artal Sevil, Jesús Sergio</dc:contributor>
+    <dc:contributor>Sanz Gorrachategui, Iván</dc:contributor>
+    <dc:creator>Malumbres Talles, Víctor</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>Este trabajo de Fin de Máster tiene como objetivo principal el análisis e implementación de un modelo energético para una instalación híbrida de almacenamiento de energía eléctrica. A su vez, el estudio y modelado de elementos de almacenamiento de energía (baterías en concreto) e implementación de diferentes políticas de control de la instalación híbrida y políticas de reemplazo de los elementos de almacenamiento de la instalación, son otros objetivos que se plantean en este trabajo.&lt;br /&gt;En primer lugar, llevamos a cabo la revisión bibliográfica sobre instalaciones híbridas de almacenamiento, desde las perspectivas de topologías de conexionado y arquitecturas de control. Además, se incluye una revisión sobre los elementos de almacenamiento, junto a sus propiedades físicas y métricas más representativas.&lt;br /&gt;Comprendida la fase de revisión bibliográfica, modelamos e implementamos un modelo en espacio de estado para una instalación híbrida con topología en bus común. A su vez, se implemente un modelo de batería, como elementos de almacenamiento, a nivel energético y también a nivel de envejecimiento y degradación.&lt;br /&gt;Finalizado los modelos de instalación y batería, se plantean e implementan dos políticas de carga, que seleccionan el elemento que va a trabajar en función del estado de salud de los elementos de almacenamiento que conforman la instalación híbrida. A su vez, se implementan dos políticas de reemplazo de los elementos en función de las políticas de carga utilizada.&lt;br /&gt;Para finalizar, a través de los resultados obtenidos entre las comparativas de las políticas de carga y reemplazo, e instalaciones convencionales de almacenamiento, en función de un conjunto de métricas planteadas, se concluye las ventajas que presentan las instalaciones híbridas frente a las convencionales y las políticas que son más factibles en uso.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/84767</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/84767/files/TAZ-TFM-2019-1049.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/84767/files/TAZ-TFM-2019-1049_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Electrónica</dc:subject>
+    <dc:title>Modelado general y simulación de sistemas de almacenamiento de energía híbridos</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">General modeling and simulation of hybrid energy storage systems</dc:title>
+</oai_dc:dc>

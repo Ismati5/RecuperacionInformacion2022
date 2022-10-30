@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Usón Gil, Sergio</dc:contributor>
+    <dc:creator>Pequerul Linares, Gemma Belén</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El objetivo de este trabajo es llevar a cabo un análisis termoeconómico a una planta de tratamiento de purines sometida a digestión anaerobia con diferentes tipos de co-sustratos (co-digestión). En primer lugar, mediante el programa de cálculo EES (Engineering. Equation Solver), se ha llevado a cabo un análisis exergético de los flujos que forman parte de cada uno de los procesos de la planta objeto de estudio: flujos de purín, de valorización de fangos, energéticos y flujos de los distintos sustratos añadidos a la digestión para mejorar la eficacia de la planta. Tras una extensa búsqueda bibliográfica sobre el estado del arte de la co-digestión, se han estudiado tres tipos diferentes de sustratos: co-digestión con paja de trigo, con glicerina y con una mezcla de residuos industriales, de matadero y vegetales, además de analizarse también el caso en el que no se lleve a cabo ningún tipo de co-digestión. Una vez determinada la exergía contenida en cada uno de los casos analizados, se ha realizado una análisis termoeconómico con el objeto de determinar cuáles son los procesos de la planta que mayores costes exegéticos inducen en el resto de procesos, así como tratar de explicar las diferencias existentes que tienen lugar dentro de un mismo proceso en función del caso que este siendo analizado. Finalmente, se ha llevado a cabo un análisis exergético comparativo, desde el punto de vista del transporte del purín hasta las tierras agrícolas, de dos situaciones diferentes: una en la que no se contempla la existencia de la planta de tratamiento de purines en la zona de Capella (Huesca), lo que conlleva transportar el purín desde las explotaciones ganaderas porcinas de la zona, hasta áreas alejadas para no sobrepasar el límite permitido de nutrientes en las tierras arables, y otra situación en la que sí se analiza la existencia de dicha planta.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12299</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12299/files/TAZ-TFM-2013-799.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>exergía</dc:subject>
+    <dc:subject>termoeconomía</dc:subject>
+    <dc:subject>ecología industrial</dc:subject>
+    <dc:subject>purín de cerdo</dc:subject>
+    <dc:subject>co-sustratos</dc:subject>
+    <dc:subject>digestión anaerobia</dc:subject>
+    <dc:subject>Máster Universitario en Energías Renovables y Eficiencia Energética</dc:subject>
+    <dc:title>Análisis termoeconómico de una planta de tratamiento de purines con digestión anaerobia y producción de electricidad</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

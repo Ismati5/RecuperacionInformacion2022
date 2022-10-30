@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gutiérrez Pérez, Diego</dc:contributor>
+    <dc:creator>Clerencia Pérez, Isaac</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>El trabajo realizado en este proyecto ha sido el desarrollo de un juego de baloncesto con una inteligencia artificial para que una persona pueda jugar contra ella. El resultado es el primer simulador deportivo 3D bajo una licencia libre. En primer lugar se hizo un análisis del proyecto en el que se estudió el juego completo con especial énfasis en la inteligencia artificial. A continuación se realizó un diseño de alto nivel de los principales subsistemas del juego. En cuanto a la estructura general del juego, se planeó un bucle principal con soporte para diferentes estados de juego, utilizando una pila para mantener los estados actualmente en ejecución, incluyendo menú, partido y pausa. De esta manera el estado encargado de recibir eventos y actualizar los gráficos y otras variables del juego es el que se encuentra en el tope de la pila. Es muy sencillo volver de un estado al anterior pues sólo tenemos que desapilar el tope. La siguiente parte importante fueron las estructuras de datos para el partido (jugadores, equipos y partido), sus contrapartes gráficas en 3D y la relación entre ellas. Además se programó las partes de simulación física para obtener un comportamiento realista de la pelota cuando rebota contra el suelo o el aro, así como para detectar colisiones entre jugadores o intercepciones de la pelota. Por último, la parte más importante fue la inteligencia artificial, objetivo principal del proyec- to. Una parte fundamental de la inteligencia artificial es la captura de información para poder tomar decisiones adecuadas. No es eficiente que la IA compruebe a cada momento el estado de todo el resto de jugadores, por lo que se desarrolló un sistema de eventos, de tal modo que la inteligencia artificial es notificada de cualquier hecho importante en el partido. Este sistema de eventos usa un patrón Observer de tal manera que los objetos que quieren recibir eventos pueden suscribirse a él. Contando con el sistema de gestión de eventos, se desarrolló una inteligencia artificial jerárquica contando con tres niveles fundamentales a nivel de jugador y un nivel superior de equipo. Los tres niveles de IA individual culminan en un sistema de acciones de alto nivel en el que es fácil dar instrucciones complejas a los jugadores. En el sistema de acciones se apoya la IA de equipo, basada en una máquina de estados capaz de reaccionar ante los eventos del partido para elegir el estado adecuado para actuar ante la situación actual del partido. Para incrementar la flexibilidad de la IA y ponerla al alcance del usuario final se implementó la posibilidad de modificar la IA mediante scripting sin necesidad de recompilar el juego. Es posible añadir o redefinir estados de la IA de equipo escribiendo sencillos ficheros en Javascript. Para ayudar a mejorar la IA se cuenta con un sistema de pruebas que permite definir escenarios y ejecutarlos de manera automática para comprobar el efecto que posibles cambios en la IA producen en el juego.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4876</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4876/files/TAZ-PFC-2010-091.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Inteligencia artificial</dc:subject>
+    <dc:subject>IA</dc:subject>
+    <dc:subject>Steering behaviors</dc:subject>
+    <dc:subject>Physics simulation</dc:subject>
+    <dc:subject>Collision detection</dc:subject>
+    <dc:subject>Sports simulator</dc:subject>
+    <dc:subject>Basketball</dc:subject>
+    <dc:subject>Videogame</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Desarrollo de una inteligencia artificial para un juego de baloncesto</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

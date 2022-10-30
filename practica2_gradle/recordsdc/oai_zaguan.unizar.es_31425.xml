@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Zabalza Bribian, Ignacio</dc:contributor>
+    <dc:creator>Mainar Toledo, María Dolores</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>-	Objetivos y problemas abordados: Este trabajo pretende suplir la ausencia de una base de datos que cubra el cultivo de la uva y la producción del vino, relativa a consumos de energía, de recursos, etc., además de impactos ambientales de su ciclo de vida, a nivel europeo. Para ello el objetivo general de este trabajo es establecer una metodología de minimización del impacto ambiental de los procesos de elaboración del vino a nivel europeo, consiguiendo además una reducción del coste económico y del uso de recursos. Los objetivos específicos del presente trabajo que se proponen son: -	Establecimiento de los impactos medioambientales de las bodegas europeas a través de la metodología del Análisis de Ciclo de Vida (ACV) .Obtención de las variables de los procesos del cultivo de la uva y producción del vino más influyentes en los impactos medioambientales desde “la cuna a la puerta”, incluyendo desde el origen de las materias primas hasta la fabricación del vino. -	Establecimiento de valores de referencia en términos de impactos ambientales con los cuales las bodegas europeas interesadas en mejorar sus procesos puedan compararse. -	Obtención del potencial de mejora ambiental de las bodegas europeas. -	Metodología (enfoque y herramientas): El sistema de cultivo y los procesos de producción del vino de 86 bodegas de toda Europa serán analizados desde la perspectiva de los recursos utilizados (agua, energía, fertilizantes, fungicidas, insecticidas, vidrio, aditivos, etc.), para ello se parte de un análisis de ciclo de vida (ACV) de cada una de las bodegas analizadas, para establecer un procedimiento de reducción de impactos ambientales a través de un proceso de bajo coste económico y de tiempo. La metodología de Análisis Envolvente de Datos (DEA) se utiliza como una herramienta de gestión ambiental para crear una herramienta de decisión que ofrezca la posibilidad de seleccionar aquellas medidas de mejora en los procesos o fases de la producción del vino que mayor impacto tengan en las bodegas. DEA es una metodología de programación lineal utilizada para cuantificar de manera empírica y comparativa la eficiencia productiva de múltiple entidades similares entre ellas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31425</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31425/files/TAZ-TFM-2014-760.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>análisis del ciclo de vida</dc:subject>
+    <dc:subject>análisis envolvente de datos</dc:subject>
+    <dc:subject>sector vitivinícola</dc:subject>
+    <dc:subject>impactos ambientales</dc:subject>
+    <dc:subject>benchmarking</dc:subject>
+    <dc:subject>Máster Universitario en Energías Renovables y Eficiencia Energética</dc:subject>
+    <dc:title>Potencial de reducción del consumo energético e impacto ambiental del sector vitivinícola en Europa</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

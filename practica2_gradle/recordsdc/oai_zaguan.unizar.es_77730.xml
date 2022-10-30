@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Grasa Orús, Jorge</dc:contributor>
+    <dc:creator>Aparici Gil, Alejandro</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>El trabajo de fin de grado desarrollado tiene como objetivo la simulación computacional del comportamiento biomecánico de dos de los músculos y huesos implicados en la flexión-extensión de la rodilla humana. Además, se definirán las conexiones entre los distintos tejidos (tendones y ligamentos) con el fin de reconstruir el movimiento articular. El modelo que se pretende elaborar completará un modelo desarrollado previamente y que está compuesto por la geometría de los huesos de la pierna derecha tales como fémur, tibia y peroné, y el músculo bíceps femoral. Para completarlo se pretende introducir en el modelo el músculo vasto lateral, antagonista del bíceps femoral. Cada geometría es obtenida a partir de modelos humanos reales tridimensionales. Además, se pretende explorar el uso de técnicas numéricas explicitas con la finalidad de contemplar la gran no linealidad presente en los materiales y la geometría del modelo. Para la realización del proyecto se emplea el software informático de simulación Abaqus, basado en el método de elementos finitos, para reproducir el modelo de flexión-extensión de la rodilla y ejecutar el análisis de las tensiones y fuerzas desarrolladas por los distintos tejidos. Los análisis de llevarán a cabo con Abaqus/Explicit que permite llevar a cabo cálculos dinámicos con una formulación explícita.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/77730</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/77730/files/TAZ-TFG-2018-2488.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Simulación computacional del comportamiento biomecánico de los músculos bíceps femoral y vasto lateral humanos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Computational simulation of the biomechanical behavior of the human biceps femoris and vastus lateralis muscles</dc:title>
+</oai_dc:dc>

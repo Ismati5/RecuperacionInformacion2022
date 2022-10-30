@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Hernández Vitoria, Araceli</dc:contributor>
+    <dc:creator>Pizarro Trigo, Fernando</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>Los tratamientos en radioterapia pueden mejorarse y evaluarse desde un punto de vista radiobiológico. Para tal fin, se ha desarrollado una solución informática en lenguaje de programación Visual Basic que aporta información radiobiológica para un determinado plan de tratamiento radioterápico. A partir de la distribución dosimétrica del plan en forma de histograma dosis-volumen (generados por los sistemas de planificación de tratamientos) y del esquema de irradiación prescrito, esta aplicación puede gestionar interrupciones o errores en el tratamiento, transformar los histogramas de dosis física a otros equivalentes que estén correlacionados con efectos biológicos, hacer estimaciones de diferentes índices radiobiológicos como la probabilidad de control tumoral o de complicación en tejidos sanos (así como su representación gráfica), dosis biológica equivalente, dosis uniforme equivalente generalizada y, a partir del concepto probabilidad de control sin complicaciones, realizar una optimización de la prescripción de dosis para un plan concreto de tratamiento, individualizando, desde el esquema de irradiación, el tratamiento. Se describen los algoritmos utilizados y los procesos para la realización de los cálculos. También se muestra, con diferentes casos clínicos, el funcionamiento de la aplicación en cada uno de sus módulos o apartados. Se realiza, a modo de comisionado o aceptación, una comparación del cálculo de la probabilidad de control tumoral y de complicación en tejido sano con otras aplicaciones comerciales. Se concluye que la información radiobiológica que estos índices aportan complementan la información dada por los planificadores aumentando, de este modo, la calidad de los tratamientos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/57883</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Pediatría, Radiología y Medicina Física</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/57883/files/TESIS-2016-218.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>radiobiología</dc:subject>
+    <dc:subject>radioterapia</dc:subject>
+    <dc:title>LQlab, una solución informática para el análisis y mejora de los tratamientos en radioterapia desde un punto de vista radiobiológico</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

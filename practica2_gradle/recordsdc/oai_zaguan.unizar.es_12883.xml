@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Saldaña Medina, Jose María</dc:contributor>
+    <dc:contributor>Ruiz Mas, José</dc:contributor>
+    <dc:creator>Chesa Badia, Andrés</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El despliegue de los servicios de banda ancha en redes convergentes no está exento de desafíos. Redes que surgen como consecuencia del nuevo paradigma surgido dentro de un contexto de arquitectura de red centrada en el usuario, arquitecturas capaces de alojar servicios caracterizados por sus altas tasas de bit rate y pequeños retardos. De este modo, la gestión del estado “seamless”, esto es, la continuidad de la sesión IP en distintas redes de acceso, y la provisión de calidad de servicio (Quality of Service, QoS) en el flujo binario de tráfico que forma el servicio, se posicionan como factores relevantes. La continuidad de la sesión IP significa conseguir pequeñas latencias, y un número reducido de retransmisiones de paquetes durante el movimiento del MN entre las distintas redes de acceso. Con esa visión se están diseñando los nuevos protocolos de movilidad, en especial Proxy Mobile IPv6 (PMIPv6), capaces de asegurar una gestión transparente de la movilidad en la capa de red y de maximizar en la medida de lo posible la QoS durante el movimiento del terminal. Los esfuerzos actuales de los organismos de estandarización, como el 3GPP, se focalizan en ese sentido; cómo estructurar ese enorme volumen de tráfico dentro del Evolved Packet System (EPS).  . Las propuestas actuales pasan por la optimización de tráficos poco eficientes y voluminosos, y por diseñar tecnologías capaces de conmutar rápidamente los paquetes en los switches del "backhaul", mejorando así los valores de latencia y ancho de banda. La búsqueda de estas nuevas propuestas está despertando un gran interés en la comunidad científica.  Estudiar el problema planteado alrededor de la movilidad IP y buscar nuevos mecanismos para optimizar el tráfico es el principal objetivo de este trabajo. Para ello, se buscarán y propondrán arquitecturas y soluciones donde la posibilidad de separar el tráfico de señalización de la infraestructura subyacente de red se convierta en una realidad y donde la provisión de recursos con una visión global del sistema permita el despliegue de servicios de banda ancha con la QoE (Quality of Experience) esperada por el usuario.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12883</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingeniería Telemática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12883/files/TAZ-TFM-2013-1086.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>movilidad ip</dc:subject>
+    <dc:subject>calidad de servicio (qos)</dc:subject>
+    <dc:subject>calidad de la experiencia (qoe)</dc:subject>
+    <dc:subject>software defined network (sdn)</dc:subject>
+    <dc:subject>optimización de tráfico en redes hetnet</dc:subject>
+    <dc:subject>4g</dc:subject>
+    <dc:subject>lte</dc:subject>
+    <dc:subject>3gpp</dc:subject>
+    <dc:subject>ietf</dc:subject>
+    <dc:subject>Máster Universitario en Tecnología de la Información y Comunicaciones en Redes Móviles</dc:subject>
+    <dc:title>Movilidad IP en redes heterogéneas: optimización de flujos de tráfico con QoS</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

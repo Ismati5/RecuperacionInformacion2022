@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Celorrio de Pablo, Ricardo</dc:contributor>
+    <dc:creator>Lozano Sancho, Juan Carlos</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Este trabajo fin de Máster tiene como objetivo establecer sinergias entre el Instituto de Nanociencia de Aragón (INA) y la Escuela de Ingeniería y Arquitectura en el ámbito de la tomografía de nanopartículas mediante microscopía de electrones. En este trabajo se establece la modelización matemática de la tomografía y su relación con la transformada de Radon. Además, se analizan las particularidades de la tomografía en microscopía de electrones debidas a la limitación en la adquisición de datos (problemas de ángulo limitado). Finalmente se realiza el estudio de software existente, y generación de software propio, de reconstrucción de imágenes.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31432</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Matemática Aplicada; Área de Matemática Aplicada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31432/files/TAZ-TFM-2014-733_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/31432/files/TAZ-TFM-2014-733.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>tomografía</dc:subject>
+    <dc:subject>microscopía electrónica</dc:subject>
+    <dc:subject>transformada de radon</dc:subject>
+    <dc:subject>Máster Universitario en Mecánica Aplicada</dc:subject>
+    <dc:title>Métodos de reconstrucción de imágenes en microscopía de electrones</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

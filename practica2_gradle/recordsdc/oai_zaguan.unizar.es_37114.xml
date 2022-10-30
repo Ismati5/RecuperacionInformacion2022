@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bernal Agustín, José Luis</dc:contributor>
+    <dc:creator>Sanz Aceituno, Ángel Luis</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>Hoy en día la energía eólica está en boca de todos, sus detractores por su coste y sus partidarios por su condición de energía renovable. La crisis, el cambio de normativa hacia las renovables, el descenso de la demanda y el exceso de oferta energética existente actualmente en España llevan a una situación de desequilibrio que afecta directamente a los precios de la electricidad. Este proyecto originalmente se realizó con la idea de sugerir alternativas de almacenamiento y distribución eléctrica que hicieran posible el aprovechamiento completo de la eólica (y por extensión del resto de renovables). Después de demostrar que dichas pérdidas no eran lo suficientemente significativas como para acometer las inversiones necesarias, se documentan los posibles usos futuros de dichas tecnologías. Una vez hecho esto, se parte desde un punto de vista complementario para realizar una serie de estudios sobre el efecto de la eólica en los precios, ¿afectan estos realmente a la electricidad como se nos viene diciendo?, ¿cuánto se estima que afectan?, ¿Cómo afectaría un aumento de la eólica a nuestro país?, ¿sería factible una cobertura del total de la demanda por renovables?, ¿Cuáles serían las pérdidas por desaprovechamiento eólico si se aumentara la potencia instalada?; a estas y otras preguntas se intenta dar respuesta a lo largo de este proyecto mediante el uso de herramientas estadísticas y redes neuronales. Finalmente se exponen conclusiones como las de rentabilidad futura de las renovables, así como propuestas futuras fruto de los datos y pruebas realizadas en este proyecto.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/37114</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/37114/files/TAZ-PFC-2015-461.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Efecto de una mayor penetración de la energía eólica en el precio de la energía eléctrica</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

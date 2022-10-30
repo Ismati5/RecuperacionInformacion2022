@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bernal Agustín, José Luis</dc:contributor>
+    <dc:creator>Gil Lostes, Sergio</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El objeto del presente Proyecto Fin de Carrera consiste en la creación de un conjunto de herramientas, que sirven para realizar el entrenamiento efectivo de los operadores que se encargarán de la realización de maniobras en subestaciones eléctricas, siguiendo para ello los procedimientos aplicados por las compañías eléctricas.  Para ello en primer lugar se va a formar al usuario en todo lo concerniente a las subestaciones eléctricas, previamente a su capacitación para realizar maniobras, para conocer el entorno en el cual va a operar y que permitirá al usuario el perfecto conocimiento de la composición, funcionamiento y maniobra de una subestación eléctrica, cualquiera que sea su configuración y función. Concretamente: •	Descripción de los diferentes tipos de subestaciones eléctricas. •	Configuraciones de las mismas que pueden encontrarse. •	Elementos sobre los que actuar para la realización de las maniobras y dispositivos empleados para manejar los mismos, así como su representación. •	Guía de los pasos a seguir para maniobrar cada configuración de subestación, medidas de seguridad a tomar así como la normativa a cumplir. Por otro lado y como parte más reseñable del proyecto se incorporan dos programas de software para la creación de ejercicios prácticos. El primero de ellos (HotPotatoes) permite al usuario realizar la evaluación de la formación que habrá desarrollado previa a las maniobras, con la utilización de este proyecto a través de la generación de diferentes modalidades de test multimedia creados para dicho fin. El segundo (CADE-SIMU) conlleva la parte más importante y última a la que se destina este proyecto,  el entrenamiento en la realización de maniobras sobre cualquier tipo de subestación eléctrica posible. Ello se consigue gracias a la simulación con el programa de la misma por medio de diversos circuitos eléctricos (equivalentes a la subestación real), sobre los cuales el usuario puede realizar cualquier posible operación sin ningún peligro en caso de error. Ello no es realizable en subestaciones reales, por lo que es muy beneficioso para la utilización de operarios locales y el personal de los Centros de Control. El software comunicará al usuario por medio de un aviso, que ha cometido un error en la maniobra. Cabe destacar que al igual que este proyecto se puede enfocar a empresas del sector eléctrico, también puede ser utilizado en el ámbito docente como parte de la preparación de los alumnos al final de su carrera, acercándoles y preparándoles para casos reales que se puedan encontrar en un futuro no muy lejano.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5615</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5615/files/TAZ-PFC-2011-067.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5615/files/TAZ-PFC-2011-067_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>subestaciones eléctricas</dc:subject>
+    <dc:subject>maniobras</dc:subject>
+    <dc:subject>elementos</dc:subject>
+    <dc:subject>herramienta interactiva</dc:subject>
+    <dc:subject>entrenamiento</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Entorno para el entrenamiento de operadores de subestaciones eléctricas</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

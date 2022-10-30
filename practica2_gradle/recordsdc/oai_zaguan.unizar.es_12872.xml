@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Huertas Talón, José Luis</dc:contributor>
+    <dc:creator>Gilarte Gómez, Ana Belén</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>La fabricación aditiva es un método de elaboración de piezas basada en la deposición de material que posteriormente será consolidado. La impresión 3D, incluida en este grupo, fabrica sus piezas a partir de la consolidación de un composite de alto rendimiento mediante un aglutinante (que puede ser de color o transparente). Para la realización de este proyecto se dispone de una impresora 3D Zprinter 650. La aplicación que se ha estudiado ha sido la posibilidad de fabricar mediante esta tecnología  una órtesis para el conjunto pierna-pie que ayude a levantar el pie al caminar a una persona que tiene imposibilitada esta acción a causa de un problema neurológico. Para ello, analizando la anatomía del pie y sus restricciones de movimiento, se ha diseñado una férula articulada compuesta por dos partes, la inferior y la superior; que giran una con respecto a la otra por la acción de un muelle de torsión unido a las dos. Este muelle debe contrarrestar el peso del pie caído y elevarlo. Para que la férula posea la resistencia adecuada se han estudiado una serie de adhesivos con los que puede ser impregnada: Araldite 2020, cianocrilato y poliuretano alifático. Además, se ha analizado la posibilidad de dotarla con una estructura para que la férula sea más ligera. Se han desarrollado las estructuras Kelvin, cúbica simple, cúbica centrada en el cuerpo y maciza. Estos análisis se han llevado a cabo realizando probetas con diferentes combinaciones de adhesivo y estructura; realizando ensayos de tracción y de avance de grieta según las normas UNE-EN ISO 527-2 Determinación de las propiedades en tracción y UNE-EN ISO 17289:2009 Ensayos de propagación de grietas utilizando probetas prefisuradas respectivamente. Los resultados de estos ensayos muestran que el aditivo más resistente es el Araldite 2020, basado en resina epoxi. Del mismo modo estos ensayos definen la estructura maciza como la más fuerte.   Además se ha comparado este sistema de fabricación con el mecanizado de un bloque de polipropileno mediante una fresadora de tres ejes, ya que esta tecnología se utiliza actualmente para la fabricación de plantillas. También se ha realizado un estudio económico de cada uno de los métodos para comprobar si su explotación es rentable y compararlos entre sí. En él se ha visto que sería más rentable la fabricación mediante impresión 3D obteniéndose la recuperación de la inversión en el segundo año. Para el desarrollo de este proyecto se han utilizado diferentes programas: Solid Edge y Rhinoceros para el diseño, Netfabb para la reparación de mallas y aplicación de estructuras, Edge-CAM para la simulación del mecanizado y Zprint para lanzar las impresiones a la impresora 3D.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12872</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12872/files/TAZ-PFC-2013-665.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>fabricación aditiva</dc:subject>
+    <dc:subject>prototipado rápido</dc:subject>
+    <dc:subject>caracterización de materiales</dc:subject>
+    <dc:subject>prótesis</dc:subject>
+    <dc:subject>ortopedia</dc:subject>
+    <dc:subject>medicina</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Fabricación aditiva, aplicación a órtesis de la extremidad inferior</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

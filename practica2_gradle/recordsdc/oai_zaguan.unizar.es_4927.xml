@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mateo Gascón, Javier</dc:contributor>
+    <dc:creator>Lope Moratilla, Ignacio</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>En este Proyecto Fin de Carrera (PFC), se ha realizado un sistema óptico para comunicaciones de banda ancha con fibra óptica de plástico (POF). Todo ello utilizando componentes comerciales. El objetivo final ha sido corregir las limitaciones frecuenciales de la POF mediante técnicas de ecualización analógica, consiguiendo aumentar el ancho de banda (BW) del sistema y, por lo tanto, disminuyendo la tasa de error (BER). Para ello se ha realizado el diseño y la implementación de un amplificador de transimpedancia (TIA) y de un ecualizador (EQ), siendo esto el núcleo central del PFC. El TIA y el ecualizador se han diseñado buscando un compromiso entre ancho de banda, ganancia, ruido y consumo. Otra condición de diseño ha sido el bajo coste, que es intrínseco a los sistemas POF. En la etapa de diseño analítico, se realiza un estudio de las diferentes configuraciones y componentes, utilizando simulación SPICE para la optimización del diseño. Una vez finalizado el proceso anterior, se procede al diseño e implementación de las diferentes Placas de Circuito Impreso (PCB), aplicando las reglas básicas de EMI/EMC para su correcto funcionamiento. Finalmente, se ha utilizado la instrumentación específica para la caracterización experimental del sistema óptico, poniendo en relieve la mejora que proporciona el ecualizador.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4927</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4927/files/TAZ-PFC-2010-126.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/4927/files/TAZ-PFC-2010-126_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ecualizador</dc:subject>
+    <dc:subject>Fibra Óptica de Plástico (POF)</dc:subject>
+    <dc:subject>Amplificador de Transimpedancia (TIA)</dc:subject>
+    <dc:subject>Comunicaciones Serie</dc:subject>
+    <dc:subject>Diseño PCBs</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicaciones</dc:subject>
+    <dc:title>Diseño e implementación de amplificador de transimpedancia y ecualizador para fibra óptica de plástico</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

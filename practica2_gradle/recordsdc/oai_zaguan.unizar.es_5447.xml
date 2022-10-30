@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Martín San José, Jesús</dc:contributor>
+    <dc:creator>Bosqued Castro, Alejandro</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>En este trabajo se investigan las frecuencias características del vapor y del condensado de agua, así como la detección de daños en trampas de vapor. Para ello, se miden vibraciones a la salida de la trampa de vapor, y se analizan tanto en tiempo como en frecuencias. Debido a la escasa información que hay en la literatura sobre el tema, resulta difícil encontrar las frecuencias características de ambos estados, vapor y condensado. Lo ideal sería conocer a priori estas frecuencias para, posteriormente, buscarlas en los espectros de frecuencias, tanto del flujo de ambos estados por separado, como en el flujo de una mezcla de ambos. Como las mediciones llevadas a cabo en este trabajo no coinciden con las realizadas anteriormente en [1], no se puede asegurar que ninguna de ellas se llevase a cabo correctamente. Por lo menos, aquí se describe entonces el método de medición y de análisis seguidos, para asegurar su reproducibilidad. Las mediciones realizadas se presentarán para su futuro análisis, con base a un método, que se tiene que desarrollar todavía, porque no se ha encontrado, por el momento, un modelo teórico con el que analizarlas. Ni en el dominio del tiempo ni en el de las frecuencias se encontró evidencia segura alguna de las posibles diferencias entre vapor y condensado. Los resultados obtenidos de las mediciones en trampas con diferentes daños presentan valores de amplitud tan bajos, que no se pueden diferenciar de las producidas por ruido del ambiente de trabajo. Por este motivo, los espectros de frecuencias son tan parecidos, que no se puede diferenciar con claridad entre un nivel de daños y otros arbitrarios.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5447</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Ciencia de los Materiales e Ingeniería Metalúrgica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5447/files/TAZ-PFC-2010-390.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5447/files/TAZ-PFC-2010-390_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Determinación de las frecuencias características de vibraciones del medio de trabajo en trampas de vapor con fugas</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

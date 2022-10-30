@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Romeo Giménez, Luis Miguel</dc:contributor>
+    <dc:creator>Del Corte Revuelta, Javier</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>El proyecto engloba el análisis termodinámico y económico de una planta de almacenamiento de energía mediante aire comprimido, plantas CAES. Se realizará un estudio sobres tres tipos de configuraciones diferentes: Una planta CAES simple, una planta CAES con compresión multietapa más refrigeración y regeneración en la turbina y por último sobre una planta CAES con compresión multietapa más refrigeración y expansión multietapa con recalentamiento y regeneración. Se realizará un estudio termodinámico de las tres distintas configuraciones mediante el programa EES: Engineering Equation Solver. Cuyo objetivo es el de analizar y comparar los diferentes rendimientos térmicos de cada una de las configuraciones, con el fin de obtener que configuración es la más eficiente. Una vez analizado el rendimiento de las distintas configuraciones, se realizará un análisis económico mediante el programa Microsoft Excel, para valorar la viabilidad económica de la planta CAES, en función de la oferta, la demanda y el precio de la energía en 4 días “tipo” de cada estación del año. Se realizarán una serie de estimaciones para poder obtener el precio de la energía durante la compresión y durante la expansión. A su vez, será necesario tener en cuenta el precio en el mercado del gas natural, ya que este tipo de plantas utiliza gas natural para poder expandir el aire comprimido, con el objetivo de obtener energía para devolverla a la red eléctrica. Una vez realizados estos análisis se elegirá la mejor configuración a nivel económico y de rendimiento.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/78544</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/78544/files/TAZ-TFG-2019-069_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/78544/files/TAZ-TFG-2019-069.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Análisis, almacenamiento de energía de aire comprimido</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Energy storages analysis of compressed air</dc:title>
+</oai_dc:dc>

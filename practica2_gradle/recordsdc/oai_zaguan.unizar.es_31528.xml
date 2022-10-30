@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Alesanco Iglesias, Álvaro</dc:contributor>
+    <dc:creator>Mingote Bueno, Victoria</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Este trabajo plantea la elaboración de una herramienta que facilitará la creación de las fórmulas magistrales más comunes del ámbito de la dermatología. Para el desarrollo de dicha herramienta se contó con la colaboración de una dermátologa que proporcionó la información de las diversas patologías (psoriasis, alopecia, mucosa, dermatitis y rosacea) cuyos modelos de datos se elaboraron. El diseño de esta herramienta se basó en la creación de una novedosa arquitectura extensible y modular, que permite incluir una nueva patología para modelar con XML Schema, sin necesidad de rediseñar la herramienta como ocurre con las ya existentes. Además de la introducción de restricciones a través de un lenguaje potente, a la vez que novedoso, como es el lenguaje Schematron, que facilitan el control de las incompatibilidades de los principios activos entre sí. Todo ello sin olvidar la parte visual, creando un hoja de estilos en XSLT que permite definir el documento pdf final, que resume gráficamente todo el trabajo realizado, además de mostrar un formato adecuado para la presentación de la fórmula magistral completa.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31528</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingeniería Telemática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31528/files/TAZ-TFG-2014-1902.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>xml schemas</dc:subject>
+    <dc:subject>schematron</dc:subject>
+    <dc:subject>xslt</dc:subject>
+    <dc:subject>fórmulas magistrales</dc:subject>
+    <dc:subject>dermatología</dc:subject>
+    <dc:subject>Graduado en Ingeniería de Tecnologías y Servicios de Telecomunicación</dc:subject>
+    <dc:title>Definición de XML schemas para la prescripción de fórmulas magistrales en dermatología</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

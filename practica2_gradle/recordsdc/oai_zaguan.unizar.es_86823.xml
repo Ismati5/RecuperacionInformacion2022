@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Monzón Bescós, Antonio</dc:contributor>
+    <dc:contributor>Romero Salazar, Eva María</dc:contributor>
+    <dc:creator>Henao Sierra, Wilson Albeiro</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>This work presents the selective synthesis of graphene-related nanomaterials and carbon nanotubes via catalytic decomposition of methane using carbon catalysts derived from cellulose (CDC) and impregnated with Co, Mn or Cu transition metals. The catalysts were prepared by reductive thermal decomposition of a commercial cellulose previously impregnated with the metallic precursors. The incorporation of Mn or Cu as metal promotors was found to direct the reaction towards the formation of a desired carbonaceous nanomaterial (CNM). Co-Mn/CDC catalyst was selective towards the production of graphene-related nanomaterials (few-layer graphene (FLG), graphite nanolayers and graphene nanoflakes) at reaction temperatures above 900 °C, whereas Co-Cu/CDC catalyst favored the formation of carbon nanotubes at temperatures below 850 °C. The influence of the operating conditions —reaction temperature and feed gas composition (%CH4:%H2)— on the quality and productivity of the obtained CNMs was evaluated by Raman spectroscopy and electron microscopy. The productivity and growth rate of CNMs were favored by increasing both the temperature and methane percentage on the feed. The maximum productivity reached by the Co-Mn/CDC catalyst was 0.48 gC/gcat∙h at 975 °C with a feed composition of 28.6%CH4:14.3%H2:57.1%N2. On the other hand, in the Co-Cu/CDC catalyst this productivity was 0.38 gC/gcat∙h at 750 °C using a feed composition of 42.9%CH4:14.3%H2:42.9%N2. The carbon growth evolution was further analyzed by a phenomenological kinetic model developed in previous works by the CREG-Catalysis, Molecular Separations &amp; Reactor Engineering Group.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/86823</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Ingeniería Química</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/86823/files/TAZ-TFM-2019-336.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster en Materiales Nanoestructurados para Aplicaciones Nanotecnológicas (Nanostructured Materials for Nanotechnology Applications)</dc:subject>
+    <dc:title>Síntesis y caracterización de nanomateriales relacionados con el grafeno mediante descomposición catalítica de metano utilizando catalizadores de metales de transición</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Synthesis and characterization of graphene related nanomaterials by catalytic decomposition of methane using transition metal catalysts</dc:title>
+</oai_dc:dc>

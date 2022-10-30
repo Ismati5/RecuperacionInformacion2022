@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gómez Gardeñes, Jesús</dc:contributor>
+    <dc:contributor>Floría Peralta, Luis Mario</dc:contributor>
+    <dc:contributor>Floría Peralta, Luis Mario</dc:contributor>
+    <dc:creator>Pablo Ibáñez Freire</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>En este trabajo se busca desarrollar un modelo matemático que nos permita entender el comportamiento de un rumor, así como elaborar una serie de estrategias que nos posibiliten controlar su difusión. Dos serán los elementos claves de este modelo: un mecanismo de propagación y el empleo de la teoría de redes. El mecanismo de propagación se elabora partiendo de los modelos epidemiológicos clásicos que se expondrán brevemente en el trabajo. En lo referente a el uso de la teoría de redes, se indica cuál es la motivación para su uso, y su vez se da una introducción a dicha teoría. Posteriormente resolvemos el modelo entendiéndolo como un proceso de Markov. En la parte final del trabajo se exponen los datos obtenidos mediante las simulaciones numéricas y se da su interpretación.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/36887</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física de la Materia Condensada; Área de Física de la Materia Condensada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/36887/files/TAZ-TFG-2015-4547.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Física</dc:subject>
+    <dc:title>Control de difusión de rumores en redes complejas</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Jiménez Garcia-Alcalá, María Sierra</dc:contributor>
+    <dc:creator>Isábal Guarné, Daniel</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El auge de las nanopartículas y sus propiedades específicas ha producido un aumento en su uso, produciéndose además una diversificación en su utilización hacia diferentes sectores (medicina, óptica, electrónica, química industrial, cosmética). Por ello es necesario su estudio y caracterización, habiendo solo desarrolladas en estos últimos años una gran cantidad de métodos analíticos con los que poder conocer mejor sus características. En este trabajo se ha llevado a cabo la caracterización de nanoparticulas de oro (AuNPs) y especies de oro disuelto mediante cromatografía hidrodinámica (HDC) como técnica de separación acoplada a un espectrómetro de masas atómica de fuente de plasma acoplado por inducción (ICP-MS) como detector. Para ello se han optimizado diferentes parámetros comatográficos como la fase móvil utilizada y el caudal de la misma. Para poder desarrollar con éxito la separación entre AuNPs y las especies de oro disueltas es necesario utilizar un agente estabilizador, en este caso la penicilamina, la cual se añade a la fase móvil que contiene SDS (0,45 mM). Además, se ha realizado un estudio de la concentración óptima de penicilamina obteniéndose recuperaciones del 100% para las AuNPs estudiadas (con tamaños de 10, 50 y 100 nm) y el oro disuelto. Con respecto al caudal, se han estudiado dos caudales, por un lado 1,6 ml.min^(-1) (recomendada por el fabricante de la columna) y 1 ml.min^(-1) (caudal óptimo para el ICP-MS) obteniéndose valores de recuperación y resolución adecuados para ambos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/63643</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Analítica; Área de Química Analítica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/63643/files/TAZ-TFM-2017-945.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Nanotecnología Medioambiental (Environnano)</dc:subject>
+    <dc:title>Cromatografía hidrodinámica para la caracterización de nanopartículas de oro y otras nanopartículas metálicas</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Hydrodinamic chromatography for the characterization of gold nanoparticles and other metallic nanoparticles</dc:title>
+</oai_dc:dc>

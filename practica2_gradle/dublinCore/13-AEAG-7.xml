@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<csw:Record xmlns:csw="http://www.opengis.net/cat/csw/2.0.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ows="http://www.opengis.net/ows" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:language>fr</dc:language>
+  <dc:identifier>13-AEAG-7</dc:identifier>
+  <dc:description>Données sur les prélèvements d'eau agricoles, industriels et domestiques dans la zone de compétence de l'Agence de l'Eau Adour-Garonne</dc:description>
+  <dc:format>EXL</dc:format>
+  <dc:identifier>http://data.eau-adour-garonne.fr</dc:identifier>
+  <dc:identifier>http://www.eaufrance.fr</dc:identifier>
+  <dc:language>fr</dc:language>
+  <dc:subject>ENVIRONMENT.ENVIRONMENTAL POLICY.ENVIRONMENTAL POLICY.COMMUNITY ENVIRONMENTAL POLICY</dc:subject>
+  <dc:subject>ENVIRONMENT.ENVIRONMENTAL POLICY.ENVIRONMENTAL PROTECTION.WATER PROTECTION</dc:subject>
+  <dc:subject>HYDROGRAPHY</dc:subject>
+  <dc:subject>HUMAN ACTIVITIES AND PRODUCTS, EFFECTS ON THE ENVIRONMENT.RESOURCES (UTILISATION OF RESOURCES).RESOURCE UTILISATION.WATER UTILISATION</dc:subject>
+  <dc:subject>inlandWaters</dc:subject>
+  <dc:title>Prélèvements d'eau</dc:title>
+  <dc:type>dataset</dc:type>
+  <dcterms:issued>2004-12-01</dcterms:issued>
+  <dcterms:spatial>FRANCE</dcterms:spatial>
+  <dcterms:temporal>begin=2003-01-01; end=2003-12-30;</dcterms:temporal>
+  <ows:BoundingBox>
+    <ows:LowerCorner>-2.0855999999999995 42.44161038961039</ows:LowerCorner>
+    <ows:UpperCorner>1.6349 45.89342857142857</ows:UpperCorner>
+  </ows:BoundingBox>
+</csw:Record>

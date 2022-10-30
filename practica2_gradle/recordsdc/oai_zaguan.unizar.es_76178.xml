@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Rodrigues Mimbrero Marcos</dc:contributor>
+    <dc:creator>Medina Solano Cristina</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>En los últimos años se viene considerando la depresión como la nueva gran epidemia del siglo XXI. La OMS señala la depresión como enfermedad mental frecuente en todo el mundo y calcula que la padecen unos 300 millones de personas actualmente. EL presente estudio analiza la pre-valencia de la depresión en Aragón en el año 2010 a través de las tecnologías de la información geográfica y los SIG para encontrar las posibles relaciones de esta con los determinantes de sa-lud. Para ello todo el conjunto de datos disponible se ha agregado a una única unidad espacial, la Zona Básica de Salud y se han implementado los modelos global y logístico (GWRL) para el análi-sis estadístico. El modelo GWLR ha encontrado relaciones significativas entre los determinantes de la salud de origen socioeconómico con el porcentaje de paro e índice de feminidad.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76178</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio; Área de Análisis Geográfico Regional</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76178/files/TAZ-TFM-2018-1043.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/76178/files/TAZ-TFM-2018-1043_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Tecnologías de la Información Geográfica para la Ordenación del Territorio: Sistemas de Información Geográfica y Teledetección</dc:subject>
+    <dc:title>ANALISIS GEOESTADÍSTICO DE LA PREVALENCIA DE DEPRESION EN RELACION A FACTORES SOCIOECONOMICOS Y MEDIOAMBIENTALES EN LA COMUNIDAD AUTONOMA DE ARAGÓN</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">GEOSTATISTIC ANALYSIS OF PREVALENCE OF DEPRESSION IN RELATION TO SOCIOECONOMIC FACTORS AND ENVIRONMENTAL IN THE COMMUNITY AUTONOMOUS OF ARAGON</dc:title>
+</oai_dc:dc>

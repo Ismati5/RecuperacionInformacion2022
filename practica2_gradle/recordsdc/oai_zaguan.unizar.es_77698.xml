@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bayod Rújula, Ángel Antonio</dc:contributor>
+    <dc:creator>Narváez Acaro, Alexis Adrián</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>Como primer punto se aborda una búsqueda bibliográfica del estado del arte para adquirir conceptos fundamentales acerca del tema principal de este proyecto: Sistemas de gestión energética doméstica (HEMS), se analiza la importancia y beneficios de la inclusión de recursos de energía renovable en éstos, así como un breve repaso a un tema de interés que sigue en la misma línea de investigación: el Energy Hub. El objeto principal es desarrollar e implementar un sistema de gestión energética doméstico que ejecute un algoritmo que optimice el consumo eléctrico en un hogar y además que incluya la gestión de recursos renovables de generación de energía. Se ha optado por incluir un sistema de generación fotovoltaica y sistema de almacenamiento de energía en baterías por el amplio despliegue y aceptación que estas tecnologíasen la actualidad. Se plantea la inclusión de la previsión del consumo eléctrico y generación fotovoltaica obtenidos mediante una técnica basada en redes neuronales que usa datos históricos para entrenarse y a partir de variables introducidas (hora, día, mes, consumo y generación del día anterior, etc.), genera una previsión, que usaremos en las simulaciones en este proyecto.  También se incluye un caso de simulación en el que se toma en cuenta la desviación a favor o en contra de la previsión de consumo, en la que el sistema de almacenamiento de energía debe ser capaz de absorber variaciones drásticas de consumo y minimizar la variabilidad de la generación fotovoltaica. Se plantea también la minimización de los costes de facturación para el consumidor, por lo que en las simulaciones se incluye también como entrada el precio de la electricidad con variabilidad horaria.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/77698</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/77698/files/TAZ-TFG-2018-2539.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/77698/files/TAZ-TFG-2018-2539_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Electrónica y Automática</dc:subject>
+    <dc:title>Sistemas de gestión energética doméstica (HEMS): caso de estudio con generación fotovoltaica y sistema de almacenamiento de energía en baterías</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Home energy management systems (HEMS): case study with photovoltaic generation and energy storage system</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ana Lucía Esteban Sánchez</dc:contributor>
+    <dc:creator>Gómez Lapieza, Carmen</dc:creator>
+    <dc:date>2020</dc:date>
+    <dc:description>La informatización de las empresas es un elemento clave en la actualidad del mundo empresarial. Para llevar a cabo un correcto manejo de los datos de las compañías, es necesaria la implantación de un Sistema de Información (SI) que gestione de forma correcta todos los movimientos dentro de ellas.  &lt;br /&gt;En este trabajo se plantea realizar el diseño del plan de implantación del sistema en una pequeña empresa agrícola. Esta empresa cuenta con varias actividades distintas, pero ninguna de ellas informatizada. En este caso se ha elegido Odoo como Sistema de Información más adecuado ya que es un Sofware Libre con múltiples funcionalidades para el desarrollo del trabajo. &lt;br /&gt;Para llevar a cabo este trabajo se va a interactuar con la compañía para analizar la situación en la que se encuentra y recoger los datos que se desean informatizar. Después se identificarán los procesos de trabajo y se realizará un estudio para la informatización de empresas y el manejo de Odoo. &lt;br /&gt;Finalmente, el propósito de este trabajo es obtener como resultado una planificación completa para saber en qué consiste la informatización de la empresa y construir un prototipo de un Sistema de Información con su correcta configuración.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87902</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87902/files/TAZ-TFG-2020-066.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Organización Industrial</dc:subject>
+    <dc:title>Análisis de funcionalidad de Odoo para explotación agrícola</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Odoo functionality analysis for farming use</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>López Viñegla, Alfonso</dc:contributor>
+    <dc:creator>Fernández López, Sergio</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>El cuadro de mando integral es una herramienta de control que permite responder de manera óptima a las nuevas estrategias y políticas que las empresas adoptan. En este trabajo, se implementa esta herramienta en la empresa Arcoplas. Previamente, se realiza un análisis estratégico centrado básicamente en torno a cuatro perspectivas estratégicas: aprendizaje y crecimiento, procesos internos, clientes y área financiera. Esta herramienta habilita una visión amplia y genérica del desempeño organizacional. En cada una de las perspectivas, se establecerá una serie de objetivos estratégicos que ayudarán a abordar los problemas y el desarrollo futuro de la empresa.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/77708</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/77708/files/TAZ-TFG-2018-2519.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Administración y Dirección de Empresas</dc:subject>
+    <dc:title>Diseño e implementación del Cuadro de Mando Integral en Arcoplas.</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Design and implementation of the balanced scorecard in Arcoplas.</dc:title>
+</oai_dc:dc>

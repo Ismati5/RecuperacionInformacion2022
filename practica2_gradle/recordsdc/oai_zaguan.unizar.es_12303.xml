@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gil Pérez, Ignacio</dc:contributor>
+    <dc:creator>Lozano Puñet, Isabel</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Este proyecto consiste en el diseño de una aplicación destinada a dispositivos móviles para la EINA. Está organizado en distintas fases para llegar a su completo desarrollo y puesta en práctica. La primera fase es de información, en la cual se ha procedido a la realización de un estudio de mercado, seguido por unos análisis de usuario, entorno y rutina de usuario. Finalmente para completar esta fase se han hecho unas encuestas para determinar gustos y necesidades. Una vez que se ha recopilado toda la información se han redactado una serie de conclusiones, las cuales han servido como base para la generación de las EDP’s. La segunda fase ha pasado por distintas etapas. La primera de ellas ha sido el desarrollo del diseño conceptual, seguido por el diseño lógico, que finalmente ha llegado al diseño físico final donde se ha desarrollado la interfaz gráfica final previa para realizar el prototipo. La tercera fase contiene información acerca del prototipo y las pruebas de usuario, con sus resultados y cuestionarios. Todo esto sirve para llegar a la cuarta y última fase donde se detectan y se subsanan los errores. Tras haber hecho la prueba de usuario, en esta cuarta y última fase se ha procedido al análisis de los errores y los cuestionarios. Finalmente, se han subsanado los errores hasta dejarla pulida y sin ningún tipo de fallo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/12303</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Proyectos de Ingeniería</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/12303/files/TAZ-TFG-2013-820.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/12303/files/TAZ-TFG-2013-820_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>diseño aplicación eina</dc:subject>
+    <dc:subject>Graduado en Ingeniería en Diseño Industrial y Desarrollo de Producto</dc:subject>
+    <dc:title>Diseño de una aplicación para dispositivos móviles para la EINA</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Majarena Bello, Ana Cristina</dc:contributor>
+    <dc:creator>Val Lacarta, Laura</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>El presente trabajo se va a centrar en el proceso de fundición de aluminio en molde permanente para la obtención de una pieza determinada.  En primer lugar, se ha realizado un estudio previo del proceso de fundición del aluminio para conocer cuál es el procedimiento más adecuado y los posibles problemas que se pueden dar durante la fundición para tenerlos en cuenta a la hora de diseñar los modelos. Este estudio también ha permitido hacer la selección de los materiales que se van a utilizar tanto para el molde como para el macho y que es conveniente realizar un tratamiento al aluminio antes de verterlo en el molde para disminuir la posibilidad de que aparezcan defectos en la pieza. A continuación, se ha decidido el diseño del molde para la fabricación de la pieza a partir del estudio que se ha realizado previamente y se han hecho los cálculos necesarios para la obtención de las dimensiones que deben tener los distintos componentes del molde. A partir de los cálculos obtenidos con anterioridad, se han diseñado los distintos modelos mediante el programa Solid Edge. Una vez se han tenido los modelos ya diseñados y terminados, se introducen en el programa QuikCAST y se realizan las convenientes simulaciones del proceso de fundición. Esto permite obtener los valores de los distintos parámetros que intervienen a lo largo del proceso de fundición. Cuando se tienen todos los resultados de este proceso, se ha realizado su estudio para determinar si el molde es apto o no y de esa forma obtener una configuración adecuada que cumpla las especificaciones necesarias.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/78602</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/78602/files/TAZ-TFG-2018-4564.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/78602/files/TAZ-TFG-2018-4564_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Análisis de sistemas de alimentación y simulación mediante QuikCAST del proceso de fundición por gravedad de una pieza de aluminio</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Analysis of feeding systems and simulation by QuikCAST of the gravity casting process of an aluminum piece</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Pueyo Campos, Ángel</dc:contributor>
+    <dc:contributor>Zúñiga Antón, María</dc:contributor>
+    <dc:creator>Salinas Solé, Celia</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El desarrollo tecnológico, económico y social que se ha producido en estos últimos años en España ha puesto de manifiesto la necesidad de acelerar la actualización de una gran parte de la información que en su día sirvió de base para la confección del tomo de Demografía dentro del Atlas Nacional de España. Un atlas demográfico tan completo como el que se basa la actualización permite estudiar la distribución de los fenómenos en el territorio. pero su elaboración no es un proceso sencillo, ya que abarca desde la obtención de datos y depuración de los mismos hasta la visualización de esa cartografía en un SIG. Además la importante evolución que han experimentado los SIG, hace que nos planteemos otras formas de transmitir esa información, a parte del soporte tradicional en papel. Los visores web son herramientas clave en una sociedad completamente informatizada.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10242</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio; Área de Geografía Humana</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10242/files/TAZ-TFM-2013-110.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>cartografía temática</dc:subject>
+    <dc:subject>sig</dc:subject>
+    <dc:subject>atlas demográfico</dc:subject>
+    <dc:subject>html</dc:subject>
+    <dc:subject>flash</dc:subject>
+    <dc:subject>infografía</dc:subject>
+    <dc:subject>Máster Universitario en Tecnologías de la Información Geográfica para la Ordenación del Territorio: Sistemas de Información Geográfica y Teledetección</dc:subject>
+    <dc:title>Actualización del Tomo "Demografía" del Atlas Nacional de España, Nuevos Mapas de Población y propuesta de un visor WEB</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

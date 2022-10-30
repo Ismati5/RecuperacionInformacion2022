@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Nuñez Bruis, José Luis</dc:contributor>
+    <dc:creator>Fernando Sanjuan, David</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Este proyecto fin de carrera se ha realizado dentro del Departamento de Diseño de Máquinas de la Universidad de Linköping. Bangladesh es un país superpoblado localizado en el sur este asiático. Gran parte de la población vive en pequeños poblados aislados en zonas rurales, donde no tienen acceso a la red eléctrica local, la intención del proyecto es proporcionar energía eléctrica a estos poblados a través de la carga de baterías. Para ello se diseña un aerogenerador de bajo coste capaz de satisfacer la demanda local. Se abarcan distintos ámbitos y áreas de la ingeniería en la ejecución del proyecto. En primer lugar se trata la conversión energética, como conseguir energía eléctrica a partir del viento. Tras realizar un estudio acerca de las condiciones climáticas de lugar y las necesidades eléctricas de la zona, es necesario elegir el tipo de aerogenerador que mejor se adapte a estas necesidades, eligiéndolo siempre desde el punto de vista económico. Otro de los ámbitos a tratar es el diseño y calculo de estructuras, una vez elegido el aerogenerador se debe alzar hasta cierta altura para lo que se diseña una estructura capaz de hacer frente a las posibles situaciones adversas del lugar, en la que se utilizan materiales locales. El diseño de maquinas tiene un papel importante en el proyecto ya que se deben de diseñar diferentes componentes y ensamblajes que unan la estructura y el aerogenerador, además de componentes que ayuden a la instalación a funcionar correctamente y aumentar su rendimiento. Por último se trata la distribución eléctrica. Se decide cual va a ser la forma en la que la energía eléctrica llegará a los diferentes hogares, pensándolo siempre desde el ahorro económico.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/7998</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/7998/files/TAZ-PFC-2012-387.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>aerogenerador</dc:subject>
+    <dc:subject>bambú</dc:subject>
+    <dc:subject>estructura ortótropa</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Aerogenerador de Bajo Coste en Bangladesh</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

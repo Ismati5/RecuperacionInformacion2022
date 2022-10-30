@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Anel Bernal, Alberto</dc:contributor>
+    <dc:contributor>Hurtado Guerrero, Ramón</dc:contributor>
+    <dc:creator>Ibáñez Pérez Raquel</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>La granulisina (GRNLY) es una proteína producida por los linfocitos T citolíticos y células asesinas naturales. Tiene dos isoformas estables con peso molecular de 9 y 15 kDa. La granulisina recombinante de 9 kDa muestra actividad citolítica contra una variedad de microbios y también contra líneas celulares tumorales, debido a que induce la apoptosis celular. Los estudios realizados hasta la fecha sugieren que la granulisina es relevante para prevenir una variedad de infecciones humanas y, posiblemente, el cáncer. Hasta el momento, los estudios encaminados a utilizar la GRNLY como terapia anti-tumotal, se habían realizado con granulisina recombinante producida en bacterias, de la cual era difícil eliminar el lipopolisacárido bacteriano (LPS). En este trabajo se pretendía producir granulisina humana recombinante de 9kDa en P. pastoris, una levadura metilotrófica que es capaz de producir proteínas recombinantes con modificaciones postraduccionales solubles y correctamente plegadas, para evitar este problema. Para ello, el plásmido pPICZαC-GRNLY se linealizó con SalI y se transfectó mediante electroporación en P. pastoris. Se cultivaron las colonias transfectadas y se indujo con metanol la expresión de la granulisina recombinante. La proteína recombinante se purifico a partir de los sobrenadantes de cultivo mediante columna de afinidad de níquel, ya que la proteína contenía una cola de histidinas. Se obtuvo un buen rendimiento de purificación. Seguidamente, la bioactividad de esta preparación de granulisina se ensayó sobre la línea celular Jurkat, demostrándose que la granulisina recombinante producida en P. pastoris induce muerte celular dependiente de la dosis. Estos resultados aseguran la futura producción de granulisina recombinante usando este sistema para poder continuar los ensayos in vivo previos a su posible utilización futura en la clínica.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31761</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Bioquímica y Biología Molecular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31761/files/TAZ-TFG-2015-1550.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Biotecnología</dc:subject>
+    <dc:title>La granulisina como nueva terapia antitumoral</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

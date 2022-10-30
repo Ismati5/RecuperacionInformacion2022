@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Riva Fernández, Juan de la</dc:contributor>
+    <dc:contributor>Royo Herrer, Francisco Javier</dc:contributor>
+    <dc:creator>García Martín, Alberto</dc:creator>
+    <dc:date>2009</dc:date>
+    <dc:description>La utilización de biomasa residual forestal como recurso energético está por debajo de los objetivos fijados en materia de energías renovables dada la inexistencia de una metodología para evaluar la cantidad de residuos en una región. Esta investigación desarrolla una metodología para estimar esta biomasa a escala regional a partir del uso de teledetección y SIG. Para ello, se calcula la biomasa residual (tons/ha) en las parcelas del Segundo Inventario Forestal Nacional de la provincia de Teruel con ecuaciones alométricas obtenidas mediante muestreo destructivo y se relaciona esta información con variables radiométricas obtenidas de imágenes de satélite, topográficas y forestales, ensayando diferentes métodos de extracción de la información para reducir la incidencia que la heterogeneidad de los bosques mediterráneos tiene en el establecimiento de modelos. Ajustado y validado el mejor modelo, éste es aplicado para conocer la cantidad potencial de este recurso en Teruel. Finalmente, se presenta una metodología para localizar zonas susceptibles de explotación.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4570</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4570/files/TESIS-2010-035.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>Biomasa residual forestal</dc:subject>
+    <dc:subject>Teledetección</dc:subject>
+    <dc:subject>SIG</dc:subject>
+    <dc:subject>Teruel - Forest residual biomass</dc:subject>
+    <dc:subject>Remote sensing</dc:subject>
+    <dc:subject>GIS</dc:subject>
+    <dc:subject>Teruel</dc:subject>
+    <dc:title>Estimación de biomasa residual mediante imágenes de satélite y trabajo de campo</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

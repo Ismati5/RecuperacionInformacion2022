@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Usón Sardaña, Antonio</dc:contributor>
+    <dc:creator>Ros Abad, Javier</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>El presente proyecto final de carrera ha consistido en el estudio, realización de modelos mediante el método de elementos finitos (MEF) y en la construcción de una serie de prototipos de levitadores electrostáticos, también conocidos como “lifters” o “Ioncrafts”  Se ha hecho una breve revisión bibliográfica basándose en un artículo anteriormente publicado por profesores del departamento de Ingeniería Eléctrica. Para los modelos desarrollados en MEF se ha utilizado el programa de libre distribución Femm 4.2 desarrollado por David Meeker. Se han incluido modelos bidimensionales de los levitadores axisimétricos equivalentes en masa a los reales. Los prototipos experimentales proceden de referencias obtenidas en páginas de internet; se ha tratado de aumentar el tamaño del lifter original que ya funcionaba correctamente en el laboratorio de Ingeniería Eléctrica. La parte experimental ha quedado limitada a tensiones de 20 kV, insuficientes para elevar los levitadores más pesados.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6974</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6974/files/TAZ-PFC-2012-128.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>levitador </dc:subject>
+    <dc:subject>electrostático</dc:subject>
+    <dc:subject>lifter </dc:subject>
+    <dc:subject>ioncraft </dc:subject>
+    <dc:subject>mef </dc:subject>
+    <dc:subject>femm</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electricidad)</dc:subject>
+    <dc:title>Levitador electrostático</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

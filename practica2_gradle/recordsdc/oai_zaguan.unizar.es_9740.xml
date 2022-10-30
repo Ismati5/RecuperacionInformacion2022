@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>López de Abechuco Palma, Igor</dc:contributor>
+    <dc:contributor>Royo Sánchez, Jesús</dc:contributor>
+    <dc:creator>Asensio Royo, Alejandro</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Durante las últimas décadas la competitividad de las empresas industriales se ha incrementado de tal forma que ha hecho necesaria la mejora de los sistemas productivos. Al amparo de esta exigencia global han ido apareciendo diferentes variantes dentro del sistema productivo. El TPM o mantenimiento productivo total es una de ellos. El objetivo principal del TPM es la mejora continua a través de la implicación de todos los trabajadores de una planta productiva. La eficiencia del TPM se demuestra con una alta disponibilidad y fiabilidad de las instalaciones sobre las que se aplica. Como veremos, su aplicación se basa en el mantenimiento realizado desde el puesto de trabajo, mantenimiento autónomo. Este proyecto tiene su foco de aplicación dentro del área productiva de la fábrica de la empresa BSH electrodomésticos España S.A. en la planta de Montañana. Dentro de la multitud de instalaciones productivas de las que está compuesta dicha planta, es en la sección de almacén, y más concrétamente en su almacén automático donde tiene su punto de aplicación este proyecto. Se trata de una instalación muy antigua que necesitaba de un lavado de cara, y la implantación de este sistema la ha recuperado para su correcto funcionamiento.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9740</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9740/files/TAZ-PFC-2012-729.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/9740/files/TAZ-PFC-2012-729_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>tpm</dc:subject>
+    <dc:subject>mantenimiento productivo total</dc:subject>
+    <dc:subject>total productive maintenance</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Electrónica Industrial)</dc:subject>
+    <dc:title>Implantación TPM en almacén automático</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

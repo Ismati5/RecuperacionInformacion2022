@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Abad Blasco, Javier Óscar</dc:contributor>
+    <dc:creator>Muñoz Villoria, Carlos</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>El objetivo del presente proyecto son el cálculo y definición de los distintos componentes del sistema de tracción y elevación de un ascensor residencial, así como su posterior modelización y simulación del movimiento en SolidWorks Motion. La metodología aplicada para la consecución del proyecto constará de varias fases, en primer lugar, el cálculo de los componentes se realizará mediante calculo analítico, partiendo de las prestaciones y limitaciones del diseño, procediendo en segundo lugar, a la selección de los componentes en distintos catálogos en función de los parámetros obtenidos en el cálculo previo. Por último, se validarán los cálculos mediante la simulación que se realizara con SolidWorks Motion, comparando dichos resultados con los obtenidos analíticamente.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/61097</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería Mecánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/61097/files/TAZ-TFG-2016-4406.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/61097/files/TAZ-TFG-2016-4406_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Análisis y diseño del sistema de tracción de un ascensor residencial</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Analysis and design of the drive system of a residential elevator</dc:title>
+</oai_dc:dc>

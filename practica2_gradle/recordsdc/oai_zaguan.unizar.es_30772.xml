@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Riva Fernández, Juan de la</dc:contributor>
+    <dc:creator>Gastón Romeo, Marco</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El objetivo principal del trabajo aquí presentado es la caracterización de los pastos de puerto de las cabeceras de los valles más occidentales del Pirineo aragonés, cabeceras que conforman el Parque Natural de Los Valles Occidentales, el parque junto a su zona periférica es lo que hemos considerado como el área de nuestro estudio. Para esta caracterización utilizaremos técnicas de teledetección, con apoyo en diferentes métodos de clasificación de la ocupación del suelo, sirviéndonos de software específico y trataremos esta información en un entorno SIG. La hipótesis inicial se plantea, obviamente, en términos de la idoneidad del análisis multitemporal en teledetección para la clasificación de los pastos de puerto y la identificación de diferentes tipologías de interés ganadero dentro de esta categoría; pero todo ello fundamentado sobre la base de un buen conocimiento del territorio. Los productos más destacados que queremos obtener son las cartografías de ocupación del suelo, resultado de las diferentes técnicas utilizadas en clasificación. Para conseguir estos objetivos partiremos de la información espectral de las imágenes de satélite del programa Landsat (TM, ETM+ y OLI) la clasificación se completara con información de cartografía existente y el conocimiento personal.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/30772</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio; Área de Geografía Física</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/30772/files/TAZ-TFM-2014-937.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>landsat</dc:subject>
+    <dc:subject>clasificación</dc:subject>
+    <dc:subject>pastos</dc:subject>
+    <dc:subject>cervunal</dc:subject>
+    <dc:subject>ocupación del suelo</dc:subject>
+    <dc:subject>Máster Universitario en Tecnologías de la Información Geográfica para la Ordenación del Territorio: Sistemas de Información Geográfica y Teledetección</dc:subject>
+    <dc:title>Clasificación digital de imágenes Landsat y caracterización de los pastos de puerto en el Parque Natural de Los Valles Occidentales</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

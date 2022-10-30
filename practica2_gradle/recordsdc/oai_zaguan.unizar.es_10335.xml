@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Garín Tercero, V. Javier</dc:contributor>
+    <dc:contributor>Andreu Solano, Raquel</dc:contributor>
+    <dc:creator>Galán García, Elena</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>A lo largo de esta Tesis Doctoral se ha explorado el comportamiento de sistemas D-pi-A derivados de tiazol: En el Capítulo 2 se ha estudiado cómo influye la orientación del anillo de tiazol  formando parte del espaciador de sistemas push-pull.  Contrariamente a lo que se venía afirmando en la bibliografía, en base a los pocos estudios existentes hasta el momento, al analizar nuestras nuevas moléculas tanto de forma teórica como experimental, podemos concluir que no siempre se cumple que el derivado matched presenta propiedades ópticas no lineales de segundo orden superiores al análogo mismatched, sino que en general son similares y que la regioisomería del tiazol tiene un papel menos importante que los grupos dador y aceptor a la hora de optimizar la respuesta ONL. En el Capítulo 3 se ha analizado la gran capacidad aceptora que presenta la unidad de 4-fenil-2-dicianometiltiazol cuando se encuentra conectada con un dador proaromático.  Adicionalmente, se ha observado cómo el carácter dipolar de moléculas derivadas de 4-fenil-2-dicianometiltiazol va aumentando considerablemente a medida que aumenta la proaromaticidad del dador usado (llegando a recorrer las 5 regiones de la curva de Marder), obteniéndose sistemas: i) predominantemente neutros con dadores aromáticos (dietilaminofenilo); ii) de tipo cianina con dadores moderadamente proaromáticos (1,3-ditiol-2-ilideno);  iii) con gran carácter zwitteriónico con dadores fuertemente proaromáticos (benzotiazolilideno, 4-piridilideno o 4H-piranilideno). En el Capítulo 4 se ha estudiado la reacción de cicloadición [2+2] entre 4-etinil-N,N-dimetilanilina, y nuevos sistemas poliénicos D-pi-A (que pueden ser considerados como ¿alquenos confusos¿).  Se ha comprobado que dicha reacción tiene lugar sobre el doble enlace situado más próximo al extremo dador de sistemas D-pi-A.  Usando esta metodología podemos partiendo de un compuesto D-pi-A plano, obtener un análogo con un doble enlace y un anillo de DMA adicionales, encontrándose dicho anillo fuera del plano molecular. El interés que presenta esta aproximación recae en que el anillo adicional de DMA actúa aumentando la polaridad de los sistemas (respecto a un sistema igual, sin dicho fragmento) y resulta especialmente útil para sistemas situados en la zona C, D de la curva de Marder (nuevos sistemas derivados de pirano sintetizados en el Capítulo 3), ya que en éstos el aumento de polaridad lleva asociado un incremento de la actividad óptica no lineal de segundo orden.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10335</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Orgánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10335/files/TESIS-2013-026.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>química orgánica</dc:subject>
+    <dc:subject>tiazoles</dc:subject>
+    <dc:subject>compuestos heterocíclicos</dc:subject>
+    <dc:subject>fenomenos no lineales</dc:subject>
+    <dc:subject>propiedades onl</dc:subject>
+    <dc:title>Tiazol</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Martínez Gómez, Francisco Javier</dc:contributor>
+    <dc:contributor>Mulryan, Oliver</dc:contributor>
+    <dc:creator>Ena Wolf, Santiago Miguel de</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>Análisis y diseño del sistema y todos los componentes necesarios para implementar un equipo que aúne la capacidad de funcionar como aire acondicionado y bomba de calor teniendo en cuenta las características y los principios basados en termodinámica, fluidomecánica y transferencia de calor.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6216</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería Mecánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6216/files/TAZ-PFC-2011-391.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6216/files/TAZ-PFC-2011-391_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>preliminary design of a demonstration heat pump/ac unit</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Preliminary design of a demonstration heat pump/AC unit</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

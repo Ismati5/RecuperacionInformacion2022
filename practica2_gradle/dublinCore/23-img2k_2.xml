@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<csw:Record xmlns:csw="http://www.opengis.net/cat/csw/2.0.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ows="http://www.opengis.net/ows" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:language>en</dc:language>
+  <dc:identifier>23-img2k_2</dc:identifier>
+  <dc:creator>Land Management Unit, Institute for Environment &amp; Sustainability, Joint Research Centre</dc:creator>
+  <dc:description>Individual orthorectified scenes in national map projection system (approximately 1000 scenes, 25m resolution (multispectral) and 12.5m panchromatic). Available for download. The aim of IMAGE2000 is to produce a consistent European coverage based on Orthorectified satellite imagery, necessary for the updating of the European Land Cover database (CORINE Land Cover) and for the European Spatial Reference. As a multi-purpose product, Image2000 needs to meet requirements at National and European level. According I&amp;CLC200 product specification, Image2000 will be produced from ETM+ Landsat 7 satellite data, ortho-rectified in the national projection systems, as defined by National Administrations. In certain cases, where Landsat 7 data are not available, Landsat 5 data have been used instead. The year 2000 is targeted as reference year, but a deviation of maximum 1-year (1999 or 2001) is allowed to obtain a full coverage of Europe, which involves approximately 300 Landsat TM Frames. The Level 1 Product consists of the individual orthorectified scenes, in the national projection systems, with each scene corresponding to the relevant path/row of the Landsat sensor.</dc:description>
+  <dc:format>BIL</dc:format>
+  <dc:identifier>ftp://ftplmu.jrc.it/outgoing/Image2000</dc:identifier>
+  <dc:language>en</dc:language>
+  <dc:publisher>Land Management Unit, Institute for Environment &amp; Sustainability, Joint Research Centre</dc:publisher>
+  <dc:subject>LAND SURFACE</dc:subject>
+  <dc:subject>imageryBaseMapsEarthCover</dc:subject>
+  <dc:title>IMAGE 2000 - Orthorectified images (Product 1)</dc:title>
+  <dc:type>series</dc:type>
+  <dcterms:issued>2000-01-01</dcterms:issued>
+  <dcterms:isVersionOf/>
+  <dcterms:spatial>GENERIC AREA TERMS.EUROPE</dcterms:spatial>
+  <ows:BoundingBox>
+    <ows:LowerCorner>-31.83 26.47</ows:LowerCorner>
+    <ows:UpperCorner>33.96 70.74</ows:UpperCorner>
+  </ows:BoundingBox>
+</csw:Record>

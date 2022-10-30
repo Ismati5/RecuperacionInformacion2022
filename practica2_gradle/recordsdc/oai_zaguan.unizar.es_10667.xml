@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Lanchares Sancho, Elena</dc:contributor>
+    <dc:creator>Jiménez De La Torre, Joaquín</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Los objetivos principales del proyecto son desarrollar  un modelo de elementos finitos que reproduzca el comportamiento de la cabeza del nervio óptico y aplicar dicho modelo al estudio y análisis de la influencia de la geometría en el desarrollo del glaucoma. Para ello se han seguido los siguientes pasos: 1. Revisión bibliográfica para determinar la geometría del modelo y el comportamiento de los tejidos que lo forman. 2. Reproducir la geometría de la cabeza del nervio óptico y realizar el mallado por elementos finitos de los diferentes tejidos que lo componen con el software I-DEAS, probando diferentes métodos para obtener la malla más adecuada. Se han realizado dos modelos distintos, uno sano y otro glaucomatoso. 3. Tras el mallado de los dos modelos, se ha creado un archivo de entrada para el cálculo en Abaqus que incluye la malla exportada por I-DEAS, las condiciones de contorno a aplicar a la cabeza del nervio y las tres PIO a aplicar en nuestro modelo. 4. Se ha realizado el cálculo en Abaqus, analizado los resultados de tensiones, deformaciones y desplazamientos. 5. Tras los resultados se ha hecho una interpretación clínica de los mismos, revisando Bibliografía, con el fin de comparar, contrastar y confrontar los resultados y conclusiones obtenidas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10667</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10667/files/TAZ-PFC-2013-333.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Modelado por elementos finitos de la cabeza del nervio óptico y aplicación a la simulación del glaucoma</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

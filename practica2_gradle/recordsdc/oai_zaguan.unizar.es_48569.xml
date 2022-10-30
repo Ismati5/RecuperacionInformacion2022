@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Usón Sardaña, Antonio</dc:contributor>
+    <dc:creator>Muñoz Forcano, Víctor</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>En este documento se describe el desarrollo del modelado de un generador eléctrico montado en bicicleta para su análisis mediante el Método de Elementos Finitos (M.E.F). La finalidad de este trabajo ha sido crear una herramienta informática que pueda predecir resultados para diferentes disposiciones de las piezas que constituyen el generador. De este modo, se intenta explorar sus limitaciones minimizando el coste económico y de tiempo de ensayos que supondría la creación de numerosos prototipos. Para la realización del modelo y la resolución numérica se ha empleado el programa Femm 2D, desarrollado por el Dr. David Meeker, y de libre distribución. Este realiza el análisis electromagnético para cada instante temporal interconectado con el programa comercial Matlab, desarrollado por MathWorks. Para la realización de las piezas del prototipo se ha empleado el programa comercial SolidWorks desarrollado por Solidworks Corp. junto con una impresora 3D. In this document, it is described the modelling progress of a commercial generator assembled in a bicycle for its analysis by means of the Finite Elements Method (F.E.M.). The purpose of this degree final project has been to create a computer tool which is able to predict results for different generator dispositions. Thus, it is attempted to examine its limitations by reducing the economic and temporal costs that the making of several prototypes would mean. For the execution of the modelling and numeric resolution, it has been used the free-open programme Femm 2D, developed by Dr. David Meeker. This programme carries out the electromagnetic analysis for each interconnected temporal instant with the commercial programme Matlab developed by MathWorks. For the execution of the prototype pieces, it has been used the commercial programme SolidWorks developed by SolidWorks Corp. and built up with a 3d printer</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/48569</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/48569/files/TAZ-TFG-2015-1704_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/48569/files/TAZ-TFG-2015-1704.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Eléctrica</dc:subject>
+    <dc:title>Herramienta basada en el método de elementos finitos (Femm 2D) para el desarrollo de generadores montados en bicicleta.</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

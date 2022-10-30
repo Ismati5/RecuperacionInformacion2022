@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ilarri Artigas, Sergio</dc:contributor>
+    <dc:creator>Cardiel Enguita, Óscar</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Los sistemas de bases de datos tradicionales resultan insuficientes cuando hay que procesar grandes volúmenes de datos que cambian constantemente (por ejemplo, localizaciones de objetos móviles, datos provenientes de sensores, información de cotizaciones de acciones, etc.). Frente al almacenamiento persistente de información, en estos casos se proponen técnicas para procesar los datos de forma eficiente conforme llegan (y sin necesidad de darles persistencia previamente), teniendo en cuenta las características y dificultades que supone este flujo continuo en la entrada. Por ello, frente a las Sistemas Gestores de Bases de Datos (SGBD) tradicionales, se han propuesto diversos Sistemas Gestores de Flujos de Datos ("Data Stream Management Systems" o DSMS) que tienen en cuenta estas consideraciones.El grupo SID de la Universidad de Zaragoza desarrolló un trabajo previo que permite la gestión de funciones de predicción asociadas a los datos medidos por los sensores (con objeto de disminuir la carga del procesamiento de consultas y las comunicaciones realizadas por los sensores) para un par de operadores de consultas. En este PFC, basándose en ese desarrollo anterior, se ampliará el prototipo existente con objeto de facilitar su utilización y la realización de pruebas experimentales, se estudiará su ampliación con el soporte de operadores adicionales, y se considerará la posible utilización de Hadoop Streaming.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31564</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31564/files/TAZ-PFC-2014-580.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/31564/files/TAZ-PFC-2014-580_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>gestión de datos</dc:subject>
+    <dc:subject>redes de sensores</dc:subject>
+    <dc:subject>data-stream management</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Sistema de procesamiento de data streams</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

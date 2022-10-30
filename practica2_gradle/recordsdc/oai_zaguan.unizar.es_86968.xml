@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Garrido Picazo, Piedad</dc:contributor>
+    <dc:creator>Márquez Rocha, Sergio Arturo</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Este documento refleja el desarrollo e implementación de un sitio web que constituye el Trabajo Final de Grado (TFG) de Ingeniería Informática. Este proyecto ha sido desarrollado para la Asociación de Madres y Padres (AMPA) del Colegio de Educación Infantil y Primaria El Ensanche de la ciudad de Teruel, orientado a cubrir la necesidad de englobar toda la información relativa a las actividades extraescolares organizadas por ésta, y como ayuda a la Junta Directiva en la gestión económica del cobro de las cuotas anuales por pertenencia a la asociación, a través del uso de un Terminal Punto de Venta (TPV) Virtual instalado en el sitio web creado.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/86968</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/86968/files/TAZ-TFG-2019-3121.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>Software de gestión y abono de cuotas "AMPA CEIP Ensanche"</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Management software and payment of fees "AMPA CEIP Ensanche"</dc:title>
+</oai_dc:dc>

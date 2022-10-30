@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Lozano Serrano, Miguel Ángel </dc:contributor>
+    <dc:contributor>Serra, Luis M.</dc:contributor>
+    <dc:creator>Guadalfajara Pinilla, Mateo Vicente de</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Las centrales solares térmicas con acumulación estacional, denominadas CSHPSS por sus siglas en ingles (Central Solar Heating Plants with Seasonal Storage) aprovechan la radiación solar para producir energía térmica a lo largo del año, incluido el periodo de verano, para cubrir parte de las necesidades de calefacción en invierno y las de ACS durante todo el año. Estos sistemas de gran tamaño (ejemplo planta en Marstal: 17.000 m2 de captadores solares y 10.000 m3 de acumulador de agua) producen energía térmica de forma centralizada y la distribuyen a través de una red de distrito para cubrir parte de las necesidades térmicas de una comunidad que en la mayoría de los casos supera las 1000 viviendas. En este trabajo se presenta: I) Un estudio del desarrollo actual de los sistemas CSHPSS y de las posibilidades de integración energética que ofrecen. II) Un modelo de simulación dinámica de estos sistemas con la aplicación informática TRNSYS. El modelo toma en cuenta las características específicas de la demanda de energía térmica y de los datos climatológicos en España, y es capaz de calcular sistemas CSHPSS con una fracción solar superior al 50%. Con este modelo se ha estudiado un subconjunto representativo de ciudades españolas con consumos elevados de calefacción determinando el área de captadores y el volumen de acumulación necesario según la localización. Para cada ciudad de estudio se han utilizado datos climáticos representativos de radiación y temperatura, así como demandas de calefacción obtenidas mediante la simulación térmica de edificios que cumplen la normativa española de eficiencia energética. III) La tercera parte del proyecto consiste en la propuesta de un método simplificado de cálculo de los sistemas CSHPSS que ha sido validado con el modelo TRNSYS. Este método simple supone un avance en el desarrollo de herramientas de cálculo de estas instalaciones. Se pretende con ello facilitar la evaluación del potencial de estos sistemas y servir como aproximación al diseño en España de sistemas CSHPSS. El método permite su estudio y pre-diseño conociendo una mínima información de la localidad de ubicación. La aplicación del modelo simple ha facilitado la evaluación del potencial económico de estos sistemas en España; se han obtenido criterios de diseño para distintas zonas geográficas en función de la fracción solar deseada, el número de viviendas atendidas, etc. Se ha elaborado un mapa en el que puede verse cómo la localización geográfica afecta a las necesidades de instalación de campos de captadores y de acumuladores estacionales para demandas de 1000 ó más viviendas, consiguiendo fracciones solares superiores al 50%. También se ha establecido en qué zonas los sistemas CSHPSS están próximos a alcanzar el umbral de rentabilidad respecto al aprovisionamiento convencional de ACS y calefacción; e incluso en qué condiciones pueden resultar económicamente viables.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10314</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10314/files/TAZ-TFM-2013-143.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>energía solar térmica</dc:subject>
+    <dc:subject>acumulación estacional</dc:subject>
+    <dc:subject>calefacción de distrito</dc:subject>
+    <dc:subject>eficiencia energética</dc:subject>
+    <dc:subject>captadores solares</dc:subject>
+    <dc:subject>trnsys</dc:subject>
+    <dc:subject>energías renovables</dc:subject>
+    <dc:subject>Máster Universitario en Sistemas Mecánicos</dc:subject>
+    <dc:title>Evaluación de centrales solares térmicas con acumulación estacional para el sector residencial en España</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

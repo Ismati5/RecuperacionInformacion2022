@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Calvete Fernández, Herminia I.</dc:contributor>
+    <dc:creator>Led Jiménez, Sofía Pilar</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>El problema de la p-mediana es fundamental para gran parte de la teoría de localización discreta. Está motivado por una serie de situaciones reales, como por ejemplo tener que instalar varias plantas en algunos puntos de un sistema de transporte para minimizar los costos de producción y envío o tener que instalar diferentes hospitales en una ciudad para que la mayor parte de su población quede cubierta en caso de necesitar uno. En definitiva, el problema de la p-mediana trata de localizar p instalaciones dentro de una red de manera que se minimice la distancia ponderada entre los puntos de demanda y la instalación abierta más cercana. En esta memoria se analiza en primer lugar el problema de la mediana, que es el caso más simple, y se presentan los resultados teóricos más importantes. A continuación, se estudia el problema de la p-mediana y se formula como un problema de optimización lineal entera. Además, se presentan varios procedimientos para resolver el problema y se formulan varias extensiones del mismo. Finalmente, se aplica el problema de la p-mediana al caso particular de la posible localización de instalaciones en la Comunidad Autónoma de Aragón y se presenta un estudio reciente realizado en Pekín sobre la localización de estaciones de carga para vehículos eléctricos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/77912</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Métodos Estadísticos; Área de Estadística e Investigación Operativa</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/77912/files/TAZ-TFG-2018-1988.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Matemáticas</dc:subject>
+    <dc:title>Problemas de la p-mediana. Aplicación</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">P-median problems. Aplication</dc:title>
+</oai_dc:dc>

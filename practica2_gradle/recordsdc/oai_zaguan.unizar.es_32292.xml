@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Pérez Palomares, Ana</dc:contributor>
+    <dc:contributor>López Lorente, Francisco Javier</dc:contributor>
+    <dc:creator>Gaya Pando, Alma</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>El trabajo consiste en analizar un conjunto de datos reales sobre 121 pacientes con alguna patología en el hombro. Los datos fueron recogidos por fisioterapeutas de diversos centros de salid de Zaragoza. Los objetivos del trabajo son: - Depuración y descripción de los datos. - Propuesta y análisis de modelos estadísticos para los datos mediante el uso de técnicas estadísticas adquiridas en el grado (asignaturas de Introducción a la probabilidad y la estadística, Estadística Matemática y Técnicas de Regresión). - Estudio de técnicas para datos cualitativos no incluidas en las asignaturas del grado (contrastes de tablas multidimensionales, modelos loglineales...) Aplicación a la modelización de los datos del trabajo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/32292</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Métodos Estadísticos; Área de Estadística e Investigación Operativa</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/32292/files/TAZ-TFG-2015-3122.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Matemáticas</dc:subject>
+    <dc:title>Análisis estadístico de datos reales sobre la patología del hombro.</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

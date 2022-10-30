@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Jiménez Pacheco, Roberto</dc:contributor>
+    <dc:contributor>Santolaria Mazo, Jorge</dc:contributor>
+    <dc:creator>Quilez Palacios, Daniel</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El proyecto de investigación que se expone a continuación está relacionado con el área de metrología, cuyo objetivo es realizar la medición del dispositivo de estudio mediante la técnica de tomografía computarizada (TC). El dispositivo de estudio está diseñado para simular la actividad que desempeña el hígado del ser humano, cuyo objetivo es facilitar y agilizar la elaboración de nuevos medicamentos. Para su elaboración se han utilizado novedosas técnicas: •Prototipado rápido para su fabricación. •Tomografía computarizada para el proceso de medición. Este proyecto fin de carrera se centra en el método de tomografía computarizada y en el proceso de corrección de errores para su compensación.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10136</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10136/files/TAZ-PFC-2013-078.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>tomografía computerizada</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Compensación de tomografías computerizadas para la medición de dispositivos microfluídicos obtenidos mediante impresión 3D</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

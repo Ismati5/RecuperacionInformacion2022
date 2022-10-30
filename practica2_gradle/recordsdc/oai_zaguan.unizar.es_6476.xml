@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mínguez Zafra, Javier</dc:contributor>
+    <dc:contributor>Montesano del Campo, Luis</dc:contributor>
+    <dc:creator>Horna Prat, Eduardo Mariano</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>La recuperación y rehabilitación de personas con deficiencias motoras ha sido objeto de numerosas investigaciones desde diversos campos de la ciencia. Dentro de los sistemas BCI (Brain Computer Interface) se han desarrollado estudios enfocados a la recuperación de la habilidad motora del brazo a través de la información extraída del EEG de manera no invasiva. Gracias a este tipo de sistemas podemos establecer un canal de comunicación entre el cerebro de un sujeto y una computadora para realizar tareas controladas directamente por la mente. En este trabajo se estudia la capacidad de decodificar los puntos objetivo del movimiento del brazo en un entorno 3D a través de potenciales EEG anticipatorios al movimiento. Hasta el momento la mayoría de investigaciones se han centrado en el ámbito de las 2D (alcanzar en un plano) o en 3D (con profundidad) pero con movimientos no autoiniciados (respuestas a estímulos visuales). Los seres humanos nos desenvolvemos en un entorno en tres dimensiones, por lo que resultaría interesante poder conseguir una decodificación de la intención de alcanzar un punto en un entorno 3D (no sólo un plano sino también con profundidad) y además que este movimiento sea autoiniciado por el usuario, lo que supondría una situación más realista de cómo actúa una persona sin deficiencia motora en el brazo, ya que la intención de mover el brazo no responde a un estímulo sino que depende únicamente del deseo del sujeto de mover la extremidad. Con este objetivo se propone desarrollar un sistema que permita identificar el objetivo final del movimiento del brazo de un sujeto entre un conjunto finito de 8 puntos objetivo en un espacio 3D utilizando para ello el EEG grabado simultáneamente con las tareas de alcance del brazo a seis voluntarios. La señal EEG previa al inicio del movimiento será en primer lugar filtrada, para una posterior extracción de características que nos permita una clasificación final del punto objetivo al que el sujeto movía el brazo. Esta información podría ser utilizada en el campo de la robótica (brazo robótico) o de la neurorehabilitación para mejorar la capacidad de movimiento de personas con alguna deficiencia motora del brazo. La eficiencia del sistema será evaluada con los mismos dato soff-line tomados del EEG grabado a los distintos sujetos que se sometieron al experimento llevado a cabo en la Universidad de Zaragoza, y mediante la técnica de cross-validation.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6476</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6476/files/TAZ-PFC-2011-619_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6476/files/TAZ-PFC-2011-619.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>eeg</dc:subject>
+    <dc:subject>bci</dc:subject>
+    <dc:subject>brazo robótico</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicaciones</dc:subject>
+    <dc:title>Decodificación de los objetivos finales (3D) del movimiento del brazo en tareas de alcance a partir de potenciales de movimiento anticipatorio para EEG Brain Computer Interface</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

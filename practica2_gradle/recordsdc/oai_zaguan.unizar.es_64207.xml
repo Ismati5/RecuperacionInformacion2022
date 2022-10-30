@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Pop, Paul</dc:contributor>
+    <dc:contributor>Foukalas, Fotios</dc:contributor>
+    <dc:contributor>Murillo Arnal, Ana Crsitina</dc:contributor>
+    <dc:creator>Lasheras Mas, Ana</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Platooning deﬁne la conducción de un grupo de vehículos con un destino o dirección común, en la que el primer vehículo decide sobre la conducción (p. ej. aceleración, cambio de carril, desvío, etc.) y los demás se restringen a seguirlo. Estos vehículos pueden ser conducidos por un ser humano o de forma automática. Además, los vehículos comparten información entre sí permitiendo mantener una distancia de seguridad mínima entre ellos, lo que reduce el consumo de combustible y compacta el tráﬁco en las carreteras sin incrementar el riesgo de colisiones. Esta tesis propone una serie de escenarios basados en platooning y deﬁne un plano de control distribuido entre los vehículos que integra un protocolo de comunicación y un protocolo de control necesarios para conseguir realizar los escenarios de platooning, propuestos. Tanto los escenarios como la pila de protocolos para la comunicación que se han propuesto están basados en trabajo previo descrito en artículos de investigación. Estos artículos explican y prueban estándares y tecnologías adecuadas para desarrollar las funcionalidades de platooning deﬁnidas en la tesis. La principal tarea en esta tesis es el diseño de un protocolo de comunicación en alto nivel, capa de aplicación del modelo OSI, el cual deﬁne un conjunto de mensajes que al combinarlos permiten implementar una serie de funciones de platooning, en concreto permiten la implementación de los escenarios descritos en la tesis. Además de diseñar este protocolo de comunicación, se han implementado y probado en una plataforma real sencillas funciones de platooning. En la tesis también se analiza el protocolo, se buscan soluciones para soportar fallos de comunicación en la implementación y se evalúa la actuación de la implementación en base a unas métricas previamente deﬁnidas. Los test realizados sobre la implementación y los resultados obtenidos en la evaluación muestran que el protocolo diseñado permite ejecutar correctamente los escenarios de platooning deseados.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64207</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Arquitectura y Tecnología de Computadores</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64207/files/TAZ-TFG-2017-2797.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>Safety-critical platooning function based on wireless communication using cooperative robots</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Safety-critical platooning function based on wireless communication using cooperative robots</dc:title>
+</oai_dc:dc>

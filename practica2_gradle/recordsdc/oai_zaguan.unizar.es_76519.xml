@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Civera Sancho, Javier</dc:contributor>
+    <dc:creator>Martínez Iparraguirre, Mikel</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>La binarización de descriptores en redes neuronales profundas es un área que se encuentra en investigaci´on perteneciente al aprendizaje automático. Uno de los retos a resolver en redes neuronales es reducir el coste computacional y temporal en la clasificación de imágenes. Por ello se propone trabajar en el espacio binario en vez de en el real. La binarizaci´on de descriptores consiste en, transformar un descriptor extraído por la red compuesto por números reales en uno compuestos por bits. Para que los descriptores binarios mantengan la información sintetizada en el descriptor real, se proponen unas arquitecturas de red en las que se tiene un control sobre la localización de los descriptores en el espacio. La implementación del método de binarización conlleva varios desafíos. Por un lado, disponer de datos adecuados para el entrenamiento de la red y para la comprobación de los resultados, para lo que se ha creado un conjunto de datos adecuado a nuestra red a partir del MNIST. Por otro lado, la elección de la estructura, el proceso de entrenamiento de las redes, así como el diseno de la implementación de nuevas funciones de coste. Tras evaluar exhaustivamente las diferentes arquitecturas para el MNIST, se ha comprobado que el método de binarización propuesto DCCB, alcanza con una precisión del 96,6 % el segundo puesto en el estado del arte en la binarización de descriptores para el conjunto de datos del MNIST.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76519</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76519/files/TAZ-TFG-2018-3780.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Binarización de descriptores en redes neuronales profundas</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Feature binarization in deep neural networks</dc:title>
+</oai_dc:dc>

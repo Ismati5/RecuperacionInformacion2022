@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Pié Juste, Juan</dc:contributor>
+    <dc:contributor>Puisac Uriol, Beatriz</dc:contributor>
+    <dc:creator>García Mendívil Laura</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>El Síndrome Cornelia de Lange (SCdL) es un trastorno congénito del desarrollo con gran variabilidad fenotípica. Hasta la fecha se han descrito cinco genes asociados con este síndrome, SMC1A, SMC3 y RAD21 son componentes estructurales del complejo de cohesinas, mientras que NIPBL y HDAC8 son reguladores del mismo. Se estima que aproximadamente el 80% de los pacientes con SCdL presentan mutaciones en NIPBL. En este trabajo, se presentan dos nuevas mutaciones de splicing en el gen NIPBL. Están localizadas en posiciones no canónicas y son las mutaciones intrónicas más profundas descritas hasta el momento. El paciente 1 posee la mutación c.5329-15A&gt;G en el intrón 27 que provoca la pérdida del exón 28 y que mantiene la pauta de lectura. La adenina que resulta mutada podría ser el nucleótido clave en la secuencia del punto de ramificación. El paciente 2 presenta una deleción de seis nucleótidos en el intrón 36, c.6344del(-13)_(-8), que da lugar a pérdida del exón 37 y que rompe la pauta de lectura. Esta mutación podría afectar al tracto de polipirimidinas. En el paciente 1 los resultados de la qPCR han mostrado una expresión de mRNA similar al observado en el control. Sin embargo, en el paciente 2 hay casi un 30% de reducción de la expresión de NIPBL debido probablemente a la activación de mecanismos de degradación de tránscritos aberrantes (NMD, nonsense mediated decay). Estos resultados apoyarían la idea de que una disminución en los niveles de mRNA por un tránscrito que rompe la pauta de lectura o codifica una proteína truncada, da lugar a un fenotipo más severo que cuando hay mutaciones/transcritos que mantienen la pauta de lectura y que no afectan a los niveles de mRNA.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31707</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Farmacología y Fisiología; Área de Fisiología</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31707/files/TAZ-TFG-2015-1953.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Biotecnología</dc:subject>
+    <dc:title>Mutaciones de splicing y fenotipo asociado en dos pacientes con Síndrome Cornelia de Lange</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Calvo Bernad, Esteban</dc:contributor>
+    <dc:creator>Bascuas Castillón, Jorge</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>La granulometría por difractometría láser es una técnica de medida de tamaños de partícula basado en el análisis de la luz difractada por la muestra a medir. Es una técnica ampliamente usada para la medida de distribuciones de tamaños de partículas esféricas (gotas), ofreciendo resultados razonables cuando las partículas son no esféricas pero tienen relaciones de aspecto cercanas a la unidad. Para obtener la distribución de tamaños a partir de la medida de la luz difractada, es preciso realizar la deconvolución de dicho patrón de difracción. La técnica de deconvolución más habitual (y que mejor se adapta a la construcción de difractómetros comerciales) pasa por la discretización de los tamaños de partículas en varias clases y en la descomposición de la función de densidad de probabilidad de los tamaños de partícula en una combinación lineal de un conjunto de funciones base. Dicha base está formada por deltas de Dirac. Con esta aproximación se obtiene una matriz de transferencia que relaciona la distribución de tamaños de la muestra con el patrón de difracción medido. Este proyecto pretende generalizar esta deconvolución definiendo una nueva base de funciones. La aproximación propuesta genera funciones de distribución continuas, permitiendo una deconvolución más precisa. La nueva base tiene asociada una matriz de transferencia diferente que se va a calcular en el presente proyecto. También se van a estudiar y proponer nuevos criterios para una adecuada elección de las clases de tamaños de partícula. Con el fin de conseguir estos objetivos, se va a realizar una revisión de los principios físicos de funcionamiento y de la constitución del aparato. Finalmente, se realizará una evaluación del funcionamiento del método de deconvolución propuesto, mediante los oportunos test diseñados para esto.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/60526</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/60526/files/TAZ-PFC-2016-079.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/60526/files/TAZ-PFC-2016-079_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Medida de tamaño de partícula por difractometría laser: un nuevo método de cálculo de la matriz de transferencia</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+    <dc:title xml:lang="en">Particle sizing using laser beam diffractometry</dc:title>
+</oai_dc:dc>

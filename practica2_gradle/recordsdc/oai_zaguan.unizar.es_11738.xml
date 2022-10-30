@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Cogolludo Agustín, José Ignacio</dc:contributor>
+    <dc:contributor>Vallés, Jean</dc:contributor>
+    <dc:contributor>Florens, Vincent</dc:contributor>
+    <dc:creator>Ortigas Galindo, Jorge</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El objetivo principal de esta tesis doctoral es el estudio del anillo de cohomología del complementario de una curva algebraica reducida en el plano proyectivo ponderado complejo cuyas componentes sean curvas racionales irreducibles (con o sin puntos singulares). En particular, encontramos representantes holomorfos (racionales) para las clases de cohomología. Para lograr nuestro objetivo es necesario desarrollar una teoría algebraica de curvas en superficies con singularidades cociente y estudiar técnicas para calcular algunos invariantes, particularmente útiles, por medio de Q-resoluciones encajadas. Para estudiar ciertos invariantes hemos tenido que generalizar, de manera adecuada, los siguientes conceptos: invariante delta, fibra de Milnor, fórmula del género, fórmula de Noether, concepto de forma logarítmica en Q-divisores con cruces no normales o una Fórmula de tipo Adjunción en planos proyectivos ponderados entre otros. Esta última fórmula proporciona una relación muy interesante entre un invariante topológico, como es el género de una curva genérica (no necesariamente lisa) de  grado cuasi-homogéneo d, y la dimensión del espacio de polinomios de grado d+deg(K) (siendo K el divisor canónico). En este trabajo se usan principalmente tres técnicas diferentes: teoría local de singularidades en V-superficies, teoría global de formas logarítmicas y teoría de puntos en retículos junto con sumas de Dedekind. Desde el punto de vista local se ha estudiado teoría de intersección, diferentes invariantes locales y Q-resoluciones encajadas. En la tesis damos una definición alternativa de formas logarítmicas, las llamadas "formas logarítmicas de log-resolución", que son independientes de la Q-resolución escogida. En general, el haz de tales formas es más pequeño que el de las formas logarítmicas sobre divisores con cruces no normales. Mostramos una descripción de los haces logarítmicos en términos de valoraciones de árboles de Q-resolución. Para conectar la teoría local con la global entra en juego la Fórmula de tipo Adjunción. Para demostrar dicha fórmula es necesario el estudio de métodos de conteo de puntos y sumas de Dedekind. Todo ello muestra la conexión entre la geometría y la combinatoria. Como aplicación, los resultados obtenidos en esta tesis se pueden aplicar al estudio de las variedades de resonancia y la formalidad.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/11738</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Matemáticas</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/11738/files/TESIS-2013-073.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>geometría algebraica</dc:subject>
+    <dc:subject>cohomología</dc:subject>
+    <dc:subject>álgebra</dc:subject>
+    <dc:subject>algebraic geometry</dc:subject>
+    <dc:subject>cohomology</dc:subject>
+    <dc:title>Algebraic and Topological Invariants of Curves and Surfaces with Quotient Singularities (Invariantes topológicos y algebraicos de curvas y superficies con singularidades cociente)</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

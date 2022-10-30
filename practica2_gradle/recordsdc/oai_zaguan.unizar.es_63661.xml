@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Badía Blasco, Germán</dc:contributor>
+    <dc:contributor>Sangüesa, Carmen</dc:contributor>
+    <dc:creator>Adrián Díaz-Plaza, Diego</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El objetivo que nos planteamos al abordar este trabajo fue el de describir las clases de fiabilidad y los órdenes estocásticos, y aplicar estos conocimientos para demostrar un resultado general sobre modelos de inventario.  En primer lugar, introduciremos la teoría de la fiabilidad, que pretende estudiar distintas variables aleatorias (tiempo de vida de un elemento, el tiempo entre reparaciones, etc.) que afectan a un elemento determinado de un sistema (o al propio sistema). En segundo lugar hablaremos sobre los órdenes estocásticos, que son una relación de orden parcial entre dos variables aleatorias, en una o más dimensiones, donde dicha relación dependerá de lo que pretendamos comparar. Por último, demostraremos un resultado general sobre los modelos de inventario, que son modelos matemáticos que se utilizan para describir cómo evoluciona en el tiempo la cantidad de producto almacenado, por ejemplo, en un almacén.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/63661</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Métodos Estadísticos; Área de Estadística e Investigación Operativa</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/63661/files/TAZ-TFM-2017-890.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Modelización e Investigación Matemática, Estadística y Computación</dc:subject>
+    <dc:title>Clases de fiabilidad y órdenes estocásticos. Aplicaciones en modelos de inventario.</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Reliability classes and stochastic orderes. Applications to inventory models</dc:title>
+</oai_dc:dc>

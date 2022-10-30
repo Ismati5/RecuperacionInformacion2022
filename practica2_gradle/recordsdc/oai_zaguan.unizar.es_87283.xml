@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Sanz Osorio, José Francisco</dc:contributor>
+    <dc:creator>Casas Aguirre, Silvia</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>En la actualidad se está fomentando el uso de las energías renovables para la generación de energía eléctrica. La energía solar fotovoltaica es una de las energías que más se está incrementando en los últimos años. Esto se debe a la disminución del precio de los módulos fotovoltaicos y a un ligero aumento de su rendimiento. Uno de los objetivos de este trabajo es analizar y comparar la generación de energía fotovoltaica respecto al consumo eléctrico en el municipio de Banastás, Huesca. &lt;br /&gt;Dicha localidad, ha sido dividida en Ayuntamiento, industria, naves o almacenes, viviendas principales y viviendas de uso vacacional. Se ha analizado la producción de energía fotovoltaica de los módulos instalados en los tejados mediante el programa Photovoltaic Geographical Information System (PVGIS), y se ha comparado con el consumo eléctrico en cada grupo. A su vez, se ha realizado un análisis del tipo de instalación, conectada a red o aislada además de un análisis de la rentabilidad económica del tipo de instalación seleccionada. El estudio se completa con una comparación de las instalaciones fotovoltaicas individuales y colectivas.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87283</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87283/files/TAZ-TFG-2019-4669.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Integración solar fotovoltaica para reducción del consumo eléctrico del municipio de Banastás</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Photovoltaic solar integration for electric consum reduction of Banastás small village</dc:title>
+</oai_dc:dc>

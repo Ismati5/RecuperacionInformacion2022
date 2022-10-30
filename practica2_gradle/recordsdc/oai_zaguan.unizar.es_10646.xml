@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Medel Rezusta, Francisco Javier</dc:contributor>
+    <dc:creator>Sánchez Sánchez, Javier</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El objetivo principal de este proyecto es validar un simulador de rodilla como herramienta para la discriminación entre diferentes PEUAPMs en base a su comportamiento a desgaste. Con este propósito estudiaremos cómo afectan la radiación, los diferentes tipos de tratamientos térmicos post-irradiación (Remelting y Annealing), la carga cíclica y el envejecimiento acelerado a las propiedades del PEUAPM. Para ellos nos fijaremos en la posible delaminación del PEUAPM producida durante el ensayo de desgaste, así como la huella de las probetas. Previo al estudio de los efectos de los agentes mencionados sobre las propiedades del PEUAPM, se pondrá a punto el equipo de desgaste y simulación de rodilla. Además se propondrán mejoras de diseño y funcionamiento y se elaborará un protocolo de puesta en marcha para mejorar y optimizar los próximos usos del simulador. Asimismo, se hará un estudio de la mecánica de contacto para comparar las tensiones y las deformaciones producidas por el simulador de rodilla sobre diferentes PEUAPMs. Para ello nos basaremos en la teoría de Hertz, un software especializado en la mecánica de contacto y un programa de CAD “SolidWorks”. Este estudio será estático, aunque se hará una breve introducción al deslizamiento y la fricción en la mecánica de contacto. También se realizara una animación dinámica mediante SolidWorks para ver y comprender mejor el funcionamiento del simulador de rodilla.  Finalmente, como se verá en la sección de Materiales y Métodos, las técnicas elegidas para evaluar los potenciales cambios sobre los diferentes PEUAPMs serán la microscopia confocal, que permite obtener perfiles ópticos de la huella de desgaste tras el ensayo mecánico, la espectroscopia de resonancia paramagnética de espín (EPR ó ESR), que permite detectar radicales libres en polímeros, y la espectroscopia de infrarrojo (FTIR) que permite evaluar cambios asociados a la oxidación y a la rotura y recombinación de enlaces en las cadenas del polietileno. En algunos casos, para poder explorar en profundidad los efectos de la aplicación de carga mecánica (i.e., posible generación de radicales o cambios en la estructura de las cadenas), se han realizado ensayos de fatiga uniaxial sobre probetas de PEUAPM sin irradiar.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10646</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería Mecánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10646/files/TAZ-PFC-2013-314.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/10646/files/TAZ-PFC-2013-314_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>uhmwpe</dc:subject>
+    <dc:subject>polietileno de ultra alto peso molecular</dc:subject>
+    <dc:subject>rodilla</dc:subject>
+    <dc:subject>desgaste</dc:subject>
+    <dc:subject>mecánica de contacto</dc:subject>
+    <dc:subject>peuapm</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Validación de un simulador de rodilla de dos grados de libertad: Mecánica de contacto y efectos en las propiedades de UHMWPE médicos</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

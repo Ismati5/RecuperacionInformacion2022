@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Pérez Riera, Mario</dc:contributor>
+    <dc:creator>Sánchez Latorre, Roberto</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>Se han recogido algunos resultados clásicos sobre la imagen de una función analítica. En la primera parte del trabajo se presentan los teoremas de Bloch y de Ahlfors, estos resultados estudian el valor del radio del mayor disco que se puede encontrar en la imagen de cualquier función holomorfa. Más adelante se estudian las funciones enteras y aparece el teorema pequeño de Picard, uno de los teoremas más importantes de la teoría de funciones. Finalmente, con la ayuda del teorema de Schottky, se presenta el teorema grande de Picard. Este teorema estudia el comportamiento de una función holomorfa en el entorno de un singularidad esencial.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/77776</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Matemáticas; Área de Análisis Matemático</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/77776/files/TAZ-TFG-2018-2380.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Matemáticas</dc:subject>
+    <dc:title>Resultados clásicos sobre el rango de funciones analíticas</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Classical results on the range of analytic functions</dc:title>
+</oai_dc:dc>

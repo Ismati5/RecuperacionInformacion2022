@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Guerrero Campo, José Jesús</dc:contributor>
+    <dc:creator>Gacías Lacruz, Raquel</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>La artrodesis con tornillos pediculares es una intervención quirúrgica en la cual se busca la fijación y estabilización de una parte de la columna vertebral. Los tornillos pediculares se insertan desde la parte posterior de la vértebra a través de los pedículos vertebrales y es importante disponer de un método fiable de determinación de la posición del tornillo pedicular con respecto a la vértebra y al pedículo vertebral. La disponibilidad de un sistema de diagnóstico sencillo a partir de dos radiografías, permitiría analizar la posición tridimensional de los tornillos pediculares en relación a los pedículos vertebrales de una forma más económica y con menor exposición de radiación para el paciente que las técnicas utilizadas actualmente, como la Tomografía Axial Computarizada. La idea principal es el desarrollo y mejora de un prototipo existente que permita a un especialista identificar y reconstruir en tres dimensiones de forma semiautomática el conjunto de cuerpo vertebral, pedículos y tornillos pediculares, a partir de estudios radiológicos sencillos. Las herramientas que se van a utilizar para el desarrollo del trabajo son Matlab y PhotoModeler Scanner. Se va a proceder a hacer un reconocimiento semiautomático del contorno de los pedículos vertebrales en las vistas frontal y lateral de las  radiografías, mediante contornos activos, para posteriormente hacer una reconstrucción 3D de los mismos en conjunto con las vértebras y los tornillos pediculares, todo a través de una interfaz gráfica realizada con Matlab. Asimismo, se pretende analizar de forma comparativa la segmentación de los pedículos mediante otros algoritmos. El desarrollo del trabajo implica una fase previa de investigación, con objeto de probar distintos métodos de segmentación y detección de contornos para el caso que se está realizando. Tras determinar un sistema de trabajo, se procede a la detección de los pedículos y a su emparejamiento entre las radiografías frontal y lateral. Por último, mediante técnicas fotogramétricas se tratan los datos para reconstruir un modelo 3D aproximado de la anatomía del paciente, sobre el cual poder tomar medidas para posterior diagnóstico.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31506</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31506/files/TAZ-TFG-2014-2020_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/31506/files/TAZ-TFG-2014-2020.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>pedículo</dc:subject>
+    <dc:subject>vértebra</dc:subject>
+    <dc:subject>columna</dc:subject>
+    <dc:subject>radiografía</dc:subject>
+    <dc:subject>visión por computador</dc:subject>
+    <dc:subject>photomodeler</dc:subject>
+    <dc:subject>procesamiento de imágenes</dc:subject>
+    <dc:subject>fotogrametría 3d</dc:subject>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Modelado 3D de vértebras a partir de radiografías de pacientes intervenidos mediante artrodesis con tornillos pediculares</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

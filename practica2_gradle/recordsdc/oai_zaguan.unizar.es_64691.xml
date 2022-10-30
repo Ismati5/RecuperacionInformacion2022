@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>José Alberto García Noain</dc:contributor>
+    <dc:creator>Yasmina Sánchez Prieto</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>Introducción: La sepsis es una entidad  con síntomas y signos poco específicos y evolutivos en el tiempo, por lo que han sido precisas varias conferencias internacionales de consenso para definir su concepto. Esto hace más difícil el diagnóstico de sospecha de una sepsis, sobre todo en sus momentos más tempranos, donde el tratamiento es más eficaz y puede realmente salvar vidas.  Objetivos: El objetivo principal es el de identificar de forma precoz y diferencial a los pacientes con sepsis grave mediante un sistema de alarmas integrado en nuestro aplicativo corporativo de urgencias hospitalarias (PCH). Material y métodos: Se ha realizado un estudio descriptivo retrospectivo observacional de pacientes que han llegado al servicio de urgencias del Hospital Clínico Universitario “Lozano Blesa”, y han presentado criterios clínicos para sepsis, detectando a su llegada a urgencias una alarma o alerta para su valoración temprana. Resultados: Los pacientes presentaron una media de edad de entre 80-90 años. El 49% de los pacientes con sospecha de sepsis presentaron un nivel de prioridad II, y entre ellos el 95% fue activada una alarma de sepsis, y por lo tanto fueron atendidos de manera precoz por un facultativo. Sin embargo, en un 20% el código sepsis fue activado por parte del personal facultativo, lo que nos indica que aún tenemos que aumentar la sensibilidad de estos programas desde triaje para identificarlos de manera precoz. Por otro lado, la antibioterapia precoz empírica se llevó a cabo en 44% de los pacientes que presentaron sepsis y en el 50,4% de los pacientes que presentaban criterios de sepsis grave o shock séptico.  Conclusiones: La definición de sepsis, así de cómo sus criterios clínicos para un diagnóstico más precoz, sigue siendo un desafío. Tenemos que seguir formando a los facultativos insistiendo en la importancia de una antibioterapia precoz ante la sospecha de sepsis en un paciente. La población que padece esta enfermedad está cambiando, siendo ahora una población más envejecida y con más comorbilidades que tendrán que ser valoradas en estudios futuros.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64691</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64691/files/TAZ-TFM-2016-1225.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/64691/files/TAZ-TFM-2016-1225_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Salud Pública</dc:subject>
+    <dc:title>Código sepsis en urgencias. Sepsis grave. Registro de actividad.</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">The code of sepsis in emergencies. Acute sepsis. Record of activity.</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Moreno Vega, Yamir</dc:contributor>
+    <dc:contributor>Sanz Remón, Joaquín</dc:contributor>
+    <dc:creator>Tovar Calonge, Mario</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Los objetivos del este trabajo incluyen introducir la una metodología novedosa que permita tratar con el mecanismo degenerado existente los ensayos de vacunas de la TB. Con ese objetivo se desarrolla un modelo analítico adecuado a un caso real de ensayo clínico y se lleva a cabo una implementación numérica para validar el método que se propone. También se prueba la robustez del método en una serie de escenarios alternativos, así como una evaluación de impacto de vacunas que justifica la necesidad de este trabajo.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/86842</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Teórica; Área de Física Teórica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/86842/files/TAZ-TFM-2019-271.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/86842/files/TAZ-TFM-2019-271_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Física y Tecnologías Físicas</dc:subject>
+    <dc:title>Modelando el impacto de nuevas vacunas contra la tuberculosis: desde el diseño de ensayos clínicos hasta modelar la propagación y viceversa</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Modelling the impact of novel tuberculosis vaccines: from clinical trials design to spreading modeling and back</dc:title>
+</oai_dc:dc>

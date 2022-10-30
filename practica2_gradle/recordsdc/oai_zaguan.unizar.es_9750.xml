@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Cehlin, Mathias</dc:contributor>
+    <dc:contributor>Hauke Bernardos, Guillermo</dc:contributor>
+    <dc:creator>Maldonado Jiménez, José Miguel</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Los emplazamientos más apropiados para instalar un parque eólico, están ocupados actualmente o por motivos medioambientales no se puede hacer uso de los mismos. Por este motivo, es necesario comprobar la posibilidad de si otras localizaciones disponibles, donde el terreno es más complejo, son viables. Para este fin, se utilizan herramientas de Fluido dinámica Computacional o CFD (Computational Fluid Dynamics). Para la realización de este trabajo se ha seleccionado el software llamado OpenFOAM, un software libre que, a diferencia de otros comerciales, su código (programado en C++) es suficientemente flexible y el programa es gratuito.     El proyecto básicamente consiste en desarrollar una aplicación que permita simular el efecto de los árboles y bosques sobre las corrientes de aire. Hasta el momento esta tarea se venía haciendo considerando los arboles como parte de la rugosidad del terreno, pero es recomendable añadir la distorsión producida por estos de manera separada a la rugosidad.    Se puede separar el proyecto en dos partes, coincidiendo cada una con una aplicación a desarrollar:      • El primer objetivo es desarrollar una aplicación que cargue los parámetros que definen el tipo de árboles y el tamaño de éstos. Esta herramienta de pre-procesado situará los diferentes grupos de árboles a lo largo de la malla del terreno en estudio.      • El segundo objetivo consiste en programar un solver el cual resuelve una configuración teniendo en cuenta el efecto producido por el follaje sobre el flujo de aire.      Gracias a estas aplicaciones, se podrá estudiar de manera más detallada si un terreno es adecuado para instalar aerogeneradores. La finalidad de este tipo de simulaciones es prever la velocidad con la que el viento llega al molino, para así estimar la producción energética anual del mismo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9750</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9750/files/TAZ-PFC-2012-737.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/9750/files/TAZ-PFC-2012-737_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>openfoam</dc:subject>
+    <dc:subject>canopy</dc:subject>
+    <dc:subject>bosque</dc:subject>
+    <dc:subject>cfd</dc:subject>
+    <dc:subject>c++</dc:subject>
+    <dc:subject>treefoam</dc:subject>
+    <dc:subject>leafindextofoam</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Modelado del flujo de aire a través de grupos de árboles</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

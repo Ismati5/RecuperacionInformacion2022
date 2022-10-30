@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Abad Blasco, Javier Óscar</dc:contributor>
+    <dc:creator>Peñarrubia Castro, Eduardo</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>El en presente Trabajo Fin de Grado se va a abordar el diseño, cálculo y dimensionamiento de una excavadora con cadenas que sea capaz de realizar una fuerza de excavación en el cazo de 22,5 KiloNewtons. La primera tarea a realizar es definir el tipo de máquina que se necesita para satisfacer las exigencias. Se ha llegado a la conclusión de que la máquina más indicada para este cometido es una excavadora con cadenas del tipo mini excavadora. Posteriormente, se definirá la geometría del brazo de excavación para poder obtener todos los esfuerzos a los que están sometidas cada una de las barras que lo componen. El siguiente paso será dimensionar y seleccionar los cilindros hidráulicos del mecanismo. Gracias a estos cilindros hidráulicos, el brazo puede realizar los movimientos necesarios para las labores de excavación. Ahora ya podremos dimensionar las barras, pasadores y orejetas que componen el mecanismo y definir las dimensiones de cada elemento para soportar los esfuerzos. Por último, se simularán las barras dimensionadas en el programa SolidWorks, para ver si los resultados obtenidos coinciden con la simulación. En caso de no coincidir, se redimensionarán para hacer que cumplan las exigencias definidas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/78686</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería Mecánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/78686/files/TAZ-TFG-2018-444_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/78686/files/TAZ-TFG-2018-444.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Diseño y cálculo de una excavadora con cadenas para una fuerza de excavación del cazo de 22,5 KN</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Design and calculation of an excavator with chains for a bucket dig force of 22,5 KN</dc:title>
+</oai_dc:dc>

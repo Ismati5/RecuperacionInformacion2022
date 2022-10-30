@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Martín Rapún, Rafael</dc:contributor>
+    <dc:contributor>Barberá Gracia, Joaquín</dc:contributor>
+    <dc:creator>García González, Sonia</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>En los últimos años, las nanopartículas de oro están siendo utilizadas como vehículos de fármacos para tratar enfermedades como el cáncer. Sin embargo, cuando las nanopartículas se introducen en el organismo, quedan cubiertas por una capa de biomoléculas (corona proteica), lo que disminuye el tiempo de circulación y la eficacia de las nanopartículas. Este trabajo tiene como objetivo la síntesis de nanopartículas de oro (AuNPs) cuyo recubrimiento cambie de signo con el pH. Este cambio de signo reduciría o eliminaría la corona de proteínas.  En primer lugar, se ha llevado a cabo la síntesis de tres polímeros polietilenglicol (PEG) diferentes. Todos ellos tienen en común un extremo con un grupo ditiolano, encargado de la unión con la nanopartícula, y difieren en el otro extremo de la cadena. Todos los productos se han caracterizado mediante resonancia magnética nuclear (RMN), espectroscopía infrarroja (FT-IR) y espectrometría de masas (EM). En segundo lugar, se han sintetizado nanoesferas de aproximadamente 14 nm de diámetro. Las nanoesferas se han obtenido recubiertas con un ligando citrato, que posteriormente se ha sustituido mediante una reacción de intercambio de ligando por cada uno de los polímeros preparados anteriormente. Para la obtención del grupo dependiente de pH se han seguido dos estrategias. Una de ellas consiste en la formación sobre la misma nanopartícula del grupo amida dependiente de pH, mientras que en la otra estrategia la amida se ha formado antes del intercambio de ligando.  Las nanopartículas se han caracterizado mediante microscopía electrónica de transmisión (MET), electroforesis en gel de agarosa, espectroscopía de absorbancia ultravioleta-visible (UV-Vis) y análisis termogravimétrico (TGA). Por último, el comportamiento de las nanopartículas a diferentes pH se ha estudiado mediante dispersión dinámica de la luz (DLS) y medidas de potencial Z.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/77798</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Orgánica; Área de Química Orgánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/77798/files/TAZ-TFG-2018-2317.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Química</dc:subject>
+    <dc:title>Polímeros para la biofuncionalización de nanopartículas de oro</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Polymers for the functionalization of gold nanoparticles</dc:title>
+</oai_dc:dc>

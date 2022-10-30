@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Alcaine Otín, Alejandro</dc:contributor>
+    <dc:contributor>Martínez Cortés, Juan Pablo</dc:contributor>
+    <dc:creator>Lagraba Boli, Adrián</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>La fibrilación auricular (FA) es la arritmia mas común, siendo responsable de un tercio de las hospitalizaciones en las unidades de arritmias, tanto en Europa como en EEUU. Su alta incidencia, sobre todo en la población de mayor edad, la convierte en un problema de salud general en continuo estudio. Sin embargo, aún no se conocen todos los mecanismos que la promueven y sostienen, siendo por tanto su tratamiento actual, poco efectivo. En este TFG se implementará y evaluará un método para cuantificar las relaciones causales entre señales EGM procedentes de arrays de alta densidad de electrodos durante fibrilación auricular.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/69842</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/69842/files/TAZ-TFG-2018-053.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías y Servicios de Telecomunicación</dc:subject>
+    <dc:title>Análisis de la causalidad de la fibrilación auricular en registros de mapeo de alta densidad</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Causality analysis of atrial fibrillation in high-density mapping recordings</dc:title>
+</oai_dc:dc>

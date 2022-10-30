@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Yusta Loyo, José María</dc:contributor>
+    <dc:creator>Sánchez Ayala, Manuel</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>A lo largo del presente proyecto final de carrera se ha realizado el estudio comparativo técnico y económico de las diferentes Normativas Técnicas Particulares de las principales empresas eléctricas españolas de distribución en Baja Tensión, que afectan al diseño y montaje de las líneas subterráneas e instalaciones de enlace que forman parte o están conectadas a su red de distribución. Dicho estudio se ha aplicado al diseño de una red de distribución subterránea en baja tensión cuyo fin es suministrar energía eléctrica a un conjunto de edificios así como a la acometida y las instalaciones de enlace de uno de los edificios, adecuando los cálculos a la Normativa Técnica Particular de distintas empresas distribuidoras. Finalmente se ha realizado un estudio de las soluciones obtenidas para cada empresa de distribución, concluyendo con un análisis técnico-económico de los resultados. El objetivo principal del proyecto es implementar una herramienta que agilice el trabajo de ingenieros proyectistas, instaladores electricistas, promotores y empresas constructoras que realicen instalaciones eléctricas en distintas zonas de España y que deban conocer las diferencias existentes entre las Normativas Técnicas Particulares de las principales empresas distribuidoras de baja tensión.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8820</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8820/files/TAZ-PFC-2012-549.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>instalaciones eléctricas</dc:subject>
+    <dc:subject>normativa</dc:subject>
+    <dc:subject>empresas eléctricas de distribución</dc:subject>
+    <dc:subject>baja tensión</dc:subject>
+    <dc:subject>instalaciones de enlace</dc:subject>
+    <dc:subject>redes subterránea de distribución</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Comparativa técnico-económica de redes subterráneas de baja tensión e instalaciones de enlace según Normativa Técnica Particular aplicable de empresas distribuidoras de electricidad</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

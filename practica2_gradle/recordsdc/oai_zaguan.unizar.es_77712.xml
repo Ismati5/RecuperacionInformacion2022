@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Tardós Solano, Juan Domingo</dc:contributor>
+    <dc:creator>Martínez Romanos, Jorge</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>ORB-SLAM2 se trata de una librería desarrollada en la Universidad de Zaragoza, que permite la localización en un entorno y el mapeo de éste de manera simultánea. Esta librería emplea únicamente una cámara para poder realizar ambas tareas, consiguiendo un error en el cálculo de la trayectoria de la cámara dentro de una habitación de unos 3 centímetros.  En este proyecto se ha investigado el uso de esta librería como herramienta para la localización de usuarios en aplicaciones de realidad virtual. Además, se ha integrado este software de manera nativa con el motor de videojuegos Unity, basándose el diseño de la integración en el patrón Facade. Dado que es importante reducir cualquier tipo de latencia en aplicaciones de realidad virtual, con el fin de evitar posibles mareos en los usuarios, se ha realizado un análisis temporal de la librería, centrándose en las funciones cuyo coste temporal era mayor para optimizarlas. Tras el estudio y análisis de diferentes alternativas para la optimización, se ha obtenido una reducción del 45% en el coste de procesamiento medio de una imagen, lográndose una reducción temporal del 74% en la operación más pesada. Con ésto se ha pasado de procesar 20,4 imágenes por segundo a 37. Además, se ha empleado la instalación de un sistema de captura de movimiento OptiTrack, disponible en el laboratorio 1.07, para realizar una comparativa de prestaciones frente a ORB-SLAM2. Para facilitar esta tarea se ha desarrollado una demo de realidad virtual que ha permitido analizar ambas alternativas, obteniendo que ORB-SLAM2 es una solución válida para la mayoría de usos relacionados con la realidad virtual.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/77712</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/77712/files/TAZ-TFG-2018-2511.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>Localización del usuario en aplicaciones de Realidad Virtual mediante ORB-SLAM2</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">User localization in Virtual Reality applications using ORB-SLAM2</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Anzano Lacarte, Jesús Manuel</dc:contributor>
+    <dc:creator>Cruz Conesa, Andrés</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>La espectroscopía de plasmas inducidos por láser (LIPS) es una técnica rápida que permite el análisis de todo tipo de muestras sin destruirlas y sin tener que llevar a cabo apenas tratamientos previos. Una de sus muchas aplicaciones es el estudio de muestras geológicas como son los suelos. Debido a la complejidad de la matriz es de gran dificultad encontrar o fabricar patrones para este tipo de muestras por lo que una buena alternativa es hacer uso de una metodología muy reciente, llamada Calibración “Libre”, donde en vez de utilizar patrones se estudian y se relacionan los parámetros físicos del plasma creado por interacción del láser con la muestra, con los elementos y especies que lo componen. Se sigue esta metodología para realizar un análisis semicuantitativo multielemental de una muestra de suelo procedente de la Antártida. Con el objetivo de obtener los mejores resultados posibles previamente se hace una optimización de los distintos parámetros instrumentales. Los resultados finales se comparan con los proporcionados mediante análisis por ICP-AES.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/77744</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Analítica; Área de Química Analítica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/77744/files/TAZ-TFG-2018-2458.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Química</dc:subject>
+    <dc:title>Caracterización de suelos de la Antártida mediante espectroscopía de plasmas inducidos por láser</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Characterization of Antartic soils by láser-induced plasma spectroscopy</dc:title>
+</oai_dc:dc>

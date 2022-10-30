@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Falo Forniés, Fernando</dc:contributor>
+    <dc:contributor>Bruscolini, Pierpaolo</dc:contributor>
+    <dc:creator>Ruberte Sanz, Alejandro</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>El trabajo trata de la biología de sistemas aplicada a la formación de patrones debido al paso de una 'onda química'. Éste consiste básicamente en la modelización matemática de los mecanismos de regulación de la expresión del ADN. El problema a tratar en este caso es el de la formación del patrón hexagonal de fotorreceptores en la retina del ojo de la mosca de la fruta bajo estos mecanismos de regulación. Se proponen varios modelos que explican distintas características de este proceso. Los resultados se obtienen a partir de la evolución de los modelos simulados mediante procesos de integración numérica de las ecuaciones en derivadas parciales.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87432</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física de la Materia Condensada; Área de Física de la Materia Condensada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87432/files/TAZ-TFG-2019-2668.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/87432/files/TAZ-TFG-2019-2668_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Física</dc:subject>
+    <dc:title>Estructura celular y patrones en biología: un enfoque de biología de sistemas</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Cell structure and patterns in biology: a systems biology approach</dc:title>
+</oai_dc:dc>

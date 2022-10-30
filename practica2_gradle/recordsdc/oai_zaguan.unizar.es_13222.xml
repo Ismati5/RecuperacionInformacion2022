@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Pueyo Campos, Ángel</dc:contributor>
+    <dc:contributor>Casterad Seral, Mª Auxiliadora</dc:contributor>
+    <dc:creator>Eito Mirasol, Ofelia</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Investigadores del Grupo de investigación Riego Agronomía y Medio Ambiente quieren incorporar la teledetección como fuente de datos en sus ensayos agronómicos de riego, para dar apoyo y seguimiento al manejo de riego en parcelas. A petición de dichos investigadores se estudian las posibilidades de utilización de imágenes Landsat y Deimos para la detección de variabilidad, dentro de una parcela, asociada a las prácticas de riego. Se determina la variabilidad espacio-temporal del desarrollo de los cultivos y de su temperatura analizando su relación con el riego. Para ello, en tres parcelas con diferente tipo de riego por aspersión se obtienen los índices espectrales NDVI, GNDVI y NDWI para los años 2011, 2012 y 2013; se analiza su variabilidad espacio-temporal; y se relacionan, cuando están disponibles, con datos de producción del cultivo y del suelo. En otras dos parcelas en la que se disponen de medidas de temperatura del aire y de la cubierta tomadas durante el riego, se analiza la relación entre dichas temperaturas y los niveles digitales de la banda térmica de Landsat para algunas imágenes de 2010 y 2011. Se constata la limitación en el estudio de la resolución espacial y temporal de las imágenes en unas parcelas en las que la uniformidad de riego es alta. La variabilidad de desarrollo del cultivo detectada se debe más a la influencia del suelo que al riego. Sería aconsejable realizar el estudio en parcelas con baja uniformidad de riego. En cuanto a la temperatura, se detecta concordancia entre las variaciones de los niveles digitales y la temperatura de la cubierta vegetal, y una sensibilidad adecuada a los cambios de temperatura de la banda térmica utilizada. A la vista de los resultados, se recomienda para los fines perseguidos por los investigadores utilizar imágenes de mayor resolución espacial, adquiridas cuando el cultivo todavía no ha alcanzado su máximo desarrollo, así como utilizar vecino más próximo en la asignación de valores a los píxeles cuando se realizan operaciones de corrección geométrica y remuestreo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/13222</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio; Área de Geografía Humana</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/13222/files/TAZ-TFM-2013-1272.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>teledetección</dc:subject>
+    <dc:subject>agricultura de precisión</dc:subject>
+    <dc:subject>índices espectrales</dc:subject>
+    <dc:subject>riego</dc:subject>
+    <dc:subject>Máster Universitario en Tecnologías de la Información Geográfica para la Ordenación del Territorio: Sistemas de Información Geográfica y Teledetección</dc:subject>
+    <dc:title>Análisis de las posibilidades que ofrecen Landsat y Deimos para optimizar el manejo del riego en parcelas</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Guallar Leza, Chema</dc:contributor>
+    <dc:contributor>Álvarez Pérez-Aradros, Pedro</dc:contributor>
+    <dc:creator>Robles Alfranca, Patricia</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Este proyecto fin de carrera comprende el análisis, diseño e implementación de un driver universal basado en la tecnología XML para facilitar la impresión de documentos y etiquetas que genera la aplicación SILO de la empresa Hewlett-Packard(HP). SILO es un producto creado por el departamento de Logística de HP para facilitar la gestión, de forma integrada, de todas las operaciones que se llevan a cabo en un almacén. El sistema tiene dos funcionalidades básicas: la creación de plantillas, que sirve para guardar la configuración del tipo de documento que se desea generar, y la impresión de documentos a partir de las plantillas generadas. Los usuarios podrán diseñar sus plantillas y guardarlas para poder disponer de ellas cuando sea necesario. Se podrán ver y editar las plantillas, modificando el formato o la disposición de sus elementos e incluso duplicarlas, generando una nueva plantilla a partir de la original y guardando ambas. Por otro lado, se encarga de gestionar la impresión de documentos, reportes o etiquetas, que puede generar la aplicación SILO, mediante un driver unificado. Este driver permite imprimir en diferentes dispositivos de distintos fabricantes, sin necesidad de tener que instalar un driver específico para cada uno de ellos. Al igual que cualquier driver, permite aprovechar las capacidades del dispositivo de impresión y ofrece al usuario diferentes opciones para gestionarlas. Otra funcionalidad añadida es la de permitir a los administradores de los dispositivos modificar su configuración. Al ser un sistema desarrollado para un entorno multiusuario y multitarea, es capaz de atender las peticiones de impresión recibidas por parte de distintos usuarios y aplicaciones de manera simultánea. Para almacenar toda la información relativa a plantillas, documentos, dispositivos y peticiones se dispone de la base de datos SILO. De esta forma todos los componentes de la aplicación SILO pueden acceder a la información almacenada. El sistema consta de dos aplicaciones: una que permite al usuario la generación de las plantillas y la impresión de documentos, así como la configuración de las opciones de impresión de los dispositivos y otra que se encarga de atender las peticiones de impresión de los usuarios y de otras aplicaciones.  La tecnología principal utilizada es XML, que es la que permite la generación de documentos y, junto con el motor de transformación XSL, su traducción al lenguaje nativo de impresión del dispositivo. Esta forma de automatizar la traducción de los documentos es una mejora añadida al conjunto de servicios que ofrece HP a sus clientes para la gestión de sus almacenes.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6903</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6903/files/TAZ-PFC-2012-064.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>xml</dc:subject>
+    <dc:subject>driver universal</dc:subject>
+    <dc:subject>impresora/etiquetadora</dc:subject>
+    <dc:subject>silo</dc:subject>
+    <dc:subject>generación de plantillas</dc:subject>
+    <dc:subject>impresión de documentos</dc:subject>
+    <dc:subject>lenguajes nativos de impresión (pcl, zpl, pgl)</dc:subject>
+    <dc:subject>opciones de impresión</dc:subject>
+    <dc:subject>opciones de configuración de dispositivos</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Driver universal para impresora/etiquetadora appl/SILO</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Otal, Javier</dc:contributor>
+    <dc:creator>Lozano Vicente, Antonio Pablo</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El propósito de este trabajo es el de dar una idea general del problema de la suma de cuadrados, y de cómo se ha desarrollado a lo largo del tiempo. En él se dan demostraciones rigurosas de los problemas más clásicos de la teoría de números: el teorema de Fermat y el teorema de Lagrange. El primero trata de la expresión de enteros como suma de dos cuadrados, mientras que el segundo, trata de la expresión de enteros como suma de cuatro cuadrados. En la primera parte del trabajo, se da una pequeña introducción explicando el origen del estudio de las sumas de cuadrados, y de cómo se fueron desarrollando los dos teoremas a tratar, para acabar con su final demostración. Se comenta, cómo diversas eminencias en el campo de las matemáticas, han estado involucrados en la resolución y desarrollo de estos problemas. Los capítulos centrales contienen demostraciones de estos dos grandes teoremas, incluyendo una segunda demostración en el caso de los dos cuadrados, y un esquema de una demostración alternativa en el caso de los cuatro cuadrados. Remarcar que para estas demostraciones, se suele introducir la ley de reciprocidad cuadrática para probar ciertos resultados clave. Sin embargo, en este trabajo no se hace uso de esta herramienta para probar los teoremas. El último capítulo, se encarga de dar una visión global de cómo ha evolucionado el problema de la suma de cuadrados. Así, han aparecido varias generalizaciones y se han desarrollado herramientas muy útiles y versátiles para la resolución de diversos problemas, no sólo referentes a la teoría de números. Estas extensiones han dado lugar a campos de estudio completamente nuevos, llegando a crear toda una nueva disciplina matemática como es la teoría de cuerpos de clases.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/16105</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/16105/files/TAZ-TFG-2014-1539.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>sumas de cuadrados</dc:subject>
+    <dc:subject>sums of squares</dc:subject>
+    <dc:subject>cuadrados</dc:subject>
+    <dc:subject>squares</dc:subject>
+    <dc:subject>fermat</dc:subject>
+    <dc:subject>lagrange</dc:subject>
+    <dc:subject>teoría de números</dc:subject>
+    <dc:subject>descenso infinito</dc:subject>
+    <dc:subject>Graduado en Matemáticas</dc:subject>
+    <dc:title>Sumas de cuadrados</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Escudero Espinel, Rafael</dc:contributor>
+    <dc:contributor>Piedrafita Moreno, Ramón</dc:contributor>
+    <dc:creator>Ruiz Casabona, Eduardo</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>El proyecto descrito en este documento, consiste en la implementación de un sistema automatizado de transporte por vacío de granza de plástico, de unos silos de almacenamiento a unas líneas productivas. La instalación constará de dos PLC, que contienen la lógica de dicho transporte, dos pantallas HMI desde las que supervisar y controlar la instalación, aparatos de medición y actuadores que serán detallados en este documento.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76589</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76589/files/TAZ-TFG-2018-3607.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Electrónica y Automática</dc:subject>
+    <dc:title>Automatización de un sistema de transporte por vacío de granza</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Automated system for plastic pellets' vacuum transport</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Kipouridis, Orthodoxos</dc:contributor>
+    <dc:contributor>Romeo Tello, Antonio</dc:contributor>
+    <dc:creator>Marco Artigas, Adrián</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Con el fin de hacer frente a la creciente necesidad de flexibilidad, los sistemas de flujos de materiales de hoy en día se mueven hacia enfoques descentralizados y modulares. Sin embargo, el funcionamiento y el control de la mayoría de estos sistemas están basados en estándares específicos del fabricante, lo que resulta en la pérdida de su reutilización. Dentro de este enfoque tiene lugar un gran proyecto de colaboración entre universidades alemanas, en el que se pretende implementar un sistema de almacenamiento y recuperación de materiales totalmente automatizado y controlado por SAP. Este trabajo fin de grado es una pieza de ese gran proyecto, con el se habilitará la visualización del sistema a través de un escenario tridimensional. El trabajo comienza con el modelado 3D del sistema haciendo uso de herramientas CAD. Para dar movimiento a ese escenario se hará uso de KoDeMat, un software en desarrollo que utiliza el motor de juegos de JMonkey Engine. Basada en agentes Java ya existentes, se diseñará una API que permita la comunicación entre KoDeMat y Simulink. Por último, se hará una simulación del sistema y quedará listo para utilizarse en el modelo real.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31483</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31483/files/TAZ-TFG-2014-2468.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/31483/files/TAZ-TFG-2014-2468_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>visualización modelos 3d</dc:subject>
+    <dc:subject>logística</dc:subject>
+    <dc:subject>java</dc:subject>
+    <dc:subject>matlab</dc:subject>
+    <dc:subject>simulink</dc:subject>
+    <dc:subject>jmonkey engine</dc:subject>
+    <dc:subject>Graduado en Ingeniería Electrónica y Automática</dc:subject>
+    <dc:title>Habilitación del control remoto y visualización para el modelo de un sistema automatizado de almacenamiento y recuperación</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

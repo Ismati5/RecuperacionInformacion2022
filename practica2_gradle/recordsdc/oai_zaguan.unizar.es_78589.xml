@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Guerrero Campo, José Jesús</dc:contributor>
+    <dc:creator>Medina Franca, Juan Carlos</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>En este trabajo se ha desarrollado un método de identificación de los bordes estructurales de habitaciones a partir de una única imagen. Han sido muchos los trabajos que han tratado de resolver este problema a lo largo de la última década. Estos métodos generalmente se basan en la generación de diferentes hipótesis de modelos de layouts a partir de razonamientos puramente geométricos, o bien mas recientemente, utilizando técnicas de aprendizaje profundo (para, o bien apoyar las hipótesis basadas en la geometría o bien hacer hipótesis basadas solamente en el aprendizaje profundo). La principal limitación de realizar hipótesis que impliquen razonamientos geométricos es que en las imágenes con muchas oclusiones las direcciones principales pueden ser muy difíciles de detectar, mientras que confiar las hipótesis solamente alas técnicas de aprendizaje profundo (Deep Learning) no es del todo eficaz, ya que el uso de estas para este fin todavía esta en fase de desarrollo y no tienen la eficacia deseada. Este trabajo tiene la principal novedad de combinar dos tipos de hipótesis,una basada en razonamientos geométricos de visión por computador y otra a partir únicamente de técnicas ’Deep Learning’ siendo capaces de detectar la mejor solución en cada caso. En este trabajo se muestran resultados de reconstrucción de layouts con imágenes de la base de datos pública LSUN (Large-scale Scene Understanding Challenge) usada por otros trabajos del estado del arte. Con ellos demostramos la efectividad del método con respecto a trabajos existentes, situándonos en nuestros primeros experimentos a la cabeza del estado del arte.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/78589</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/78589/files/TAZ-TFG-2018-4665.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Estimación del layout 3D en interiores a partir de imágenes</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Indoor 3D layout estimation from images</dc:title>
+</oai_dc:dc>

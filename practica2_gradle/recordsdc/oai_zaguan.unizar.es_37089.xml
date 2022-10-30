@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Alesanco Iglesias, Álvaro</dc:contributor>
+    <dc:contributor>Garatachea Vallejo, Nuria</dc:contributor>
+    <dc:creator>Albero Castillón, Carlos</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>Este Proyecto Fin de Carrera ha consistido en el desarrollo de una aplicación móvil capaz de realizar e interpretar medidas de fuerza y potencia durante el entrenamiento de fuerza, en concreto para dos ejercicios, press de banca y sentadillas. Mediante los datos que proporciona el acelerómetro de los teléfonos móviles, y realizando una serie de cálculos y tratamiento de señal, se consigue presentar por pantalla las variables mas relevantes en estos ejercicios. Además, se lleva a cabo un reconocimiento de repeticiones, de manera que estos datos se analizan para cada una de ellas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/37089</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingeniería Telemática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/37089/files/TAZ-PFC-2015-573.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero de Telecomunicación</dc:subject>
+    <dc:title>APPOWER : Aplicación móvil para la medición de potencia en entrenamientos de fuerza</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

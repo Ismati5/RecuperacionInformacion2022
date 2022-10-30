@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Altabás Navarro, José Antonio</dc:contributor>
+    <dc:contributor>Izquierdo Núñez, David</dc:contributor>
+    <dc:contributor>Garcés de Gregorio, Juan Ignacio</dc:contributor>
+    <dc:creator>Serón Casabona, Cristina</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El proyecto consiste en la implementación de los algoritmos de procesado digital de la señal para receptores ópticos coherentes, así como su verificación en un esquema de recepción coherente homodino. Se realiza el estudio de los principios de funcionamiento de este tipo de detección, así como sus prestaciones en un programa de simulación y de manera experimental.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/65393</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Teoría de la Señal y Comunicaciones</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/65393/files/TAZ-TFG-2017-1732.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías y Servicios de Telecomunicación</dc:subject>
+    <dc:title>Desarrollo de algoritmos de procesado digital de señal para receptores ópticos coherentes de redes ópticas de nueva generación</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Development of digital signal processing algorithms for coherent optical receivers in new generation optical networks</dc:title>
+</oai_dc:dc>

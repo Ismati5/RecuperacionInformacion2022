@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Carrodeguas Villar, José Alberto</dc:contributor>
+    <dc:contributor>López Buesa, Pascual</dc:contributor>
+    <dc:creator>Beltrán McAndrew, Alba</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>La fosfoenolpiruvato carboxiquinasa (PEPCK) es una enzima que cataliza la descarboxilación de oxalacetato en fosfoenolpiruvato y presenta un papel clave en la ruta de la gluconeogénesis. Se han descrito 2 isoformas, la mitocondrial (PEPCK-M) y la citosólica (PEPCK-C); esta última se encuentra codificada en humanos por el gen Pck1. La PEPCK-C se expresa principalmente en hígado, riñón y tejido adiposo y tiene relevancia en enfermedades como la obesidad o la diabetes de tipo II. Con el fin de llevar a cabo un estudio funcional controlado del gen Pck1, se ha realizado un knock-out en la línea celular HEK293T de riñón embrionario humano empleando CRISPR/Cas9, una técnica de modificación genética precisa y novedosa que ha permitido producir un corte en el ADN dirigido específicamente contra el inicio de la traducción del gen Pck1. La deleción se analizó por PCR y por secuenciación, observándose 3 clones silenciados. Para comprobar si el knock-out producía la inhibición de la expresión de PEPCK-C se realizó un Western Blot, que sugirió la producción de un silenciamiento parcial, con una expresión disminuida. Por último, se comprobó que al transfectar en los clones silenciados un plásmido con la secuencia del gen se producía la reversión del silenciamiento en los 3 casos. Este trabajo abre la posibilidad de estudiar la función de la PEPCK-C en el metabolismo, determinando así su papel en distintos tejidos y en las enfermedades en las que interviene.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64240</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular; Área de Bioquímica y Biología Molecular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64240/files/TAZ-TFG-2017-2184.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Biotecnología</dc:subject>
+    <dc:title>Papel en la regulación del metabolismo intermediario de la isoforma citosólica de la fosfoenolpiruvato carboxiquinasa (PEPCK) mediante edición genómica con CRISPR‐Cas9</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Role in intermediate metabolism regulation of the cytosolic isoform of phosphoenolpyruvate carboxykinase (PEPCK) by genomic edition with CRISPR-Cas9</dc:title>
+</oai_dc:dc>

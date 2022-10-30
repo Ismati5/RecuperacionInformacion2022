@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Castejón Herrer, Luis</dc:contributor>
+    <dc:contributor>Valladares Hernando, David</dc:contributor>
+    <dc:creator>Mateo Meléndez, Miguel</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>Este proyecto trata sobre la optimización topológica de los largueros de un bastidor de un semirremolque del tipo bañera. Esta optimización consistirá en un estudio sobre que espesor es el idóneo para cada una de las partes de los largueros del bastidor, las cuales son: ala inferior, ala superior y alma. Para conseguir una mejor calidad y exactitud en los resultados se dividirán las partes de los largueros en tramos de 500 mm, y se darán diferentes valores de espesor a cada tramo según los resultados del estudio de optimización. El objetivo de este proyecto es, como ya se ha comentado, conseguir un diseño óptimo de los largueros en cuanto al espesor de cada uno de los tramos se refiere, atendiendo a una serie de variables de rigidez y resistencia tales como tensiones, desplazamientos, coeficientes de seguridad, etc. Con este análisis se pretende minimizar la masa del bastidor manteniendo (disminuyendo ó aumentando ligeramente en algunos casos) todas estas variables dentro de unos límites previamente establecidos. Para realizar este estudio se utilizarán algunas herramientas informáticas tanto de elementos finitos como de optimización.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/10107</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería e Infraestructura de los Transportes</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/10107/files/TAZ-PFC-2013-059.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/10107/files/TAZ-PFC-2013-059_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>vehículo</dc:subject>
+    <dc:subject>semirremolque</dc:subject>
+    <dc:subject>bastidor</dc:subject>
+    <dc:subject>elementos finitos</dc:subject>
+    <dc:subject>optimización</dc:subject>
+    <dc:subject>masa</dc:subject>
+    <dc:subject>espesor</dc:subject>
+    <dc:subject>largueros</dc:subject>
+    <dc:subject>resistencia</dc:subject>
+    <dc:subject>rigidez</dc:subject>
+    <dc:subject>acero</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Optimización topológica de los largueros del bastidor de un semirremolque de tipo bañera</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

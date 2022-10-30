@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Romeo Giménez, Luis Miguel</dc:contributor>
+    <dc:creator>Gómez Luengo, Virginia</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Dada la situación global de cambio climático se plantea una problemática cuya solución pasa por la reducción del uso de combustibles fósiles, para ello, sería necesario potenciar otro tipo de producción de energía como la renovable. Dichos objetivos de reducción fueron fijados y pactados por un gran número de países en la cumbre de Paris 2015. Sin embargo, para que la implantación de las energías renovables sea generalizada debe encontrarse la manera de que dichas energías sean menos dependientes a la variabilidad de la climatología. Por ello, se plantean los sistemas de almacenamiento como una mejora de la independencia de estos sistemas de producción y la transformación de estos en un sistema de producción constante.&lt;br /&gt;Aquí se estudian los sistemas de almacenamiento termoquímico de energía.  Además, se analizan las tendencias actuales de consumo y producción de energía estudiando en detalle la energía solar de concentración y su problemática actual.&lt;br /&gt; Por último, con el fin de solventar dicha problemática se plantea una simulación del ciclo de calcio y el uso de este como sistema de almacenamiento termoquímico para las centrales de torre. Se genera una simulación que estudia cada modo de funcionamiento permitiendo variar la cantidad de materia almacenada. &lt;br /&gt;Tras desarrollar dicha simulación se analiza el comportamiento del sistema ante un perfil constante de irradiación tomando como referencia una central termosolar de torre. Seguidamente se analiza el sistema ante el perfil de distintos días tipo de la ciudad de Zaragoza.  En dichas simulaciones se busca que el sistema permanezca en funcionamiento el mayor número de horas posibles.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/85011</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/85011/files/TAZ-TFG-2019-3445_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/85011/files/TAZ-TFG-2019-3445.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Almacenamiento termoquímico de energía solar de concentración mediante carbonato cálcico</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Thermochemical energy storage of concentrated solar energy by calcium carbonate</dc:title>
+</oai_dc:dc>

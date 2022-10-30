@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Resano Ezcaray, Martín</dc:contributor>
+    <dc:creator>Garde Casasnovas, Raúl</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>In this work ionic gold and gold nanoparticle (AuNPs) solutions/suspensions of different sizes have been studied by means of high-resolution continuum source graphite furnace atomic absorption spectrometry (HR CS GFAAS), without any separation step or any extra technique. The application of slow atomization heating ramps and atomization temperatures of around 2200ºC in the absence of chemical modifier allows the differentiation of ions and nanoparticles according to the signal profile. In addition, the size of AuNPs can be estimated using the time of appearance of the maximum peak height, a result of 27.7 ± 8.8 nm was found for a sample provided by NIST of a nominal value of 30 nm diameter. The analytical evaluation gave a limit of detection of 5.5 pg (0.55 µg L-1) and a linear range up to 10 ng (1000 µg L-1). Also it was successfully evaluated by spiking a soft water (certified reference material KEJIM 02). Finally, the possibility of determining samples mixed with both ionic and NPs showed difficulties if quantitative information is required, but the behaviour is as predicted by summing the individual signals of this species.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/58642</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Analítica; Área de Química Analítica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/58642/files/TAZ-TFM-2016-838.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Materiales Nanoestructurados para Aplicaciones Nanotecnológicas (Nanostructured Materials for Nanotechnology Applications)</dc:subject>
+    <dc:title>Espectrometría de absorción atomica en horno de grafito para la detección y cuantificación selectiva de nanopartículas</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Graphite furnace atomic absorption spectrometry for the selective detection and quantification of nanoparticles</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Ruiz Bueno, Diana</dc:contributor>
+    <dc:contributor>Montano Gella, Luis</dc:contributor>
+    <dc:creator>Bernués Bergua, Luis</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El objetivo general que se pretende es el desarrollo de algoritmos de control para terapias de rehabilitación asistidas mediante exoesqueletos, destinadas fundamentalmente a sujetos que hayan sufrido algún trastorno cerebrovascular o una lesión medular. Para ello, se han implementado modelos que representan al humano, al robot que asiste en la terapia, y a una combinación de ambos (sistema humano-robot), que describe la interacción de ambos actuando conjuntamente cuando el robot está acoplado al humano. Para todos los casos se han generado modelos de miembro inferior y superior. Los esquemas de control generados se fundamentan, o bien bajo el paradigma Assist-as-needed, o definiendo un porcentaje de asistencia de manera que el paciente se esfuerce por encima de sus capacidades motoras residuales y se promueva el aprendizaje motor de los músculos afectados. Las herramientas que se han utilizado para el desarrollo de estos modelos están contenidas dentro del software Matlab/Simulink.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/15955</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/15955/files/TAZ-PFC-2014-384_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/15955/files/TAZ-PFC-2014-384.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>robótica</dc:subject>
+    <dc:subject>exoesqueleto</dc:subject>
+    <dc:subject>rehabilitación</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Simulación del control de un exoesqueleto para la rehabilitación de miembro superior y/o inferior</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

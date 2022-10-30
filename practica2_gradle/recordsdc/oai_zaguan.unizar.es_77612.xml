@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Andersen, Shuang Ma</dc:contributor>
+    <dc:contributor>Sánchez Cebrian, José Luis</dc:contributor>
+    <dc:creator>Martinez-Lacuesta Oteiza, Belén</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>El objetivo de este trabajo es validar o no si un proceso de filtración sería capaz de recuperar un catalizador con efectividad con el fin de prevenir futuros problemas ambientales relacionados con el uso de el mismo. Las conclusiones se basaron en los siguientes experimentos.  En primer lugar, se llevaron a cabo filtraciones en blanco con agua y HCl (0.1 y 1M) para diferentes condiciones de caudal de alimentación, presión y temperatura con el fin de conocer el comportamiento de la disolución en este tipo de experimentos. En segundo lugar, se filtraron, para diferentes condiciones, disoluciones de HCl que contenían platino (como catalizador) y cobre (para comprobar como afectaría la interferencia de otros metales en la disolucion). Como última prueba se realizó una filtración de mayor duración.  Con el fin de comparar el éxito conseguido en las filtraciones y calificar si fueron beneficiosas o no, se midieron varios aspectos, tales como concentración de Pt, concentración de Cl-, pH, volumen, etc. antes, durante y después; y a la disolución inicial y final. Al mismo tiempo se realizó un estudio de ensuciamiento de membrana que consistía en filtrar agua destilada antes y después de las filtraciones manteniendo las mismas condiciones y comparando resultados. Los resultados afirman que el fin de aislar el catalizador y conseguir una disolución lo más concentrada y limpia posible no se consigue, aunque si se alcanzan mejores resultados para ciertas condiciones.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/77612</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Ingeniería Química</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/77612/files/TAZ-TFG-2018-2864.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Química</dc:subject>
+    <dc:title>Estudio del comportamiento de la filtración de nano partículas de platino disueltas en ácido clorhídrico</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Analysis of the filtration of platinum nanoparticles dissolved in hydrochloric acid</dc:title>
+</oai_dc:dc>

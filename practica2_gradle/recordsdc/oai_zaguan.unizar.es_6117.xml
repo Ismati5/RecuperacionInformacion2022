@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gómez Gracia, Francisco Javier</dc:contributor>
+    <dc:contributor>García Gracia, Miguel</dc:contributor>
+    <dc:creator>Perales Gracia, Víctor Manuel</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:description>El presente Proyecto Fin de Carrera se centra en la optimización del análisis de incidentes dentro de Endesa – Aragón, empresa donde se ha enmarcado la realización de dicho proyecto. Además, el presente proyecto contempla una inicial visión de las perturbaciones existentes en la red eléctrica, sistemas de protección utilizados en Endesa – Aragón para eliminar y/o minimizar los efectos derivados de los diferentes tipos de faltas que pueden producirse.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6117</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Eléctrica; Área de Ingeniería Eléctrica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6117/files/TAZ-PFC-2011-347_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/6117/files/TAZ-PFC-2011-347.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>sistemas eléctricos</dc:subject>
+    <dc:subject>cortocircuitos</dc:subject>
+    <dc:subject>sistemas de protección</dc:subject>
+    <dc:subject>análisis de incidentes</dc:subject>
+    <dc:subject>oscilografía</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Estudio de sistemas protectivos en redes eléctricas en alta tensión : estudio y mejora de procedimientos para el análisis de incidentes</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

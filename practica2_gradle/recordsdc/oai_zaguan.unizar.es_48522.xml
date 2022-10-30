@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Blanco Bascuas, María Teresa</dc:contributor>
+    <dc:creator>Tamargo Iturri, Adriana</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:description>El objetivo del proyecto es dar solución al problema de la gestión del agua en municipios rurales aislados o con pocos recursos mediante el diseño de un sistema inteligente adaptado a las necesidades de dichos municipios. Se aplica la metodología de Design Thinking que permite diagnosticar el problema desde la persepectiva particular de los afectados. El proyecto se divide en seis fases que comienzan con la fase de Investigación documental. En esta fase se obtiene como resultado una definición inicial de actores y escenarios. Estos resultados se contrastan en la fase de Inspiración a partir de la que se genera la definición final validada de actores y escenarios. De la siguiente fase Análisis se obtiene como resultado el Máximo Escenario Común, un listado de necesidades priorizadas, las funcionalidades críticas que deberá cumplir la solución y los requisitos de diseño, que sirven como punto de partida de la fase de Ideación donde se define la arquitectura de la plataforma, se proponen tres modelos de baja fiabilidad y se elige el concepto final a desarrollar. Por último se realiza el desarrollo software en la fase de Desarrollo y se obtiene como resultado un prototipo funcional que permite testear la plataforma en diferentes soportes con usuarios reales para proponer mejoras (Fase de diseño final). El proyecto concluye con la redacción de conclusiones y las líneas de trabajo futuras.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/48522</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Expresión Gráfica de la Ingeniería</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/48522/files/TAZ-TFG-2015-3784.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/48522/files/TAZ-TFG-2015-3784_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería en Diseño Industrial y Desarrollo de Producto</dc:subject>
+    <dc:title>Aplicación del design thinking al problema de la gestión del ciclo integral del agua en pueblos de bajos recursos. Diseño y desarrollo software de un sistema para la gestión sostenible</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

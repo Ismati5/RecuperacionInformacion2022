@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Peña Baquedano, Estefanía</dc:contributor>
+    <dc:contributor>Malvè, Mauro</dc:contributor>
+    <dc:creator>Cilla Hernández, Myriam</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Las enfermedades cardiovasculares constituyen la primera causa de mortalidad en los países desarrollados, así como en la práctica totalidad de los países en desarrollo. Dentro de las patologías cardiovasculares, una de las enfermedades que mas muertes causan hoy en día es la aterosclerosis. Dicha enfermedad consiste en la degeneración progresiva y crónica del engrosamiento y endurecimiento de la pared arterial como resultado de la acumulación de depósitos de grasa, colesterol y otras sustancias en la pared interna del vaso. Estas sustancias forman estructuras duras llamadas placas de ateroma y en ellas se puede diferenciar diferentes composiciones; calcificación, lípidos y tejido fibroso. Con el tiempo, si estas placas son vulnerables pueden romperse y provocar la formación de coagulos sanguíneos que bloquean el flujo sanguíneo desencadenando diferentes eventos tales como infartos, trombos o gangrena. La importancia de identificar la placa vulnerable antes de su rotura sigue siendo un reto para la medicina. Actualmente el diagnostico se puede realizar por métodos no invasivos, tales como es determinar la presencia de factores de riesgo, marcadores de vulnerabilidad de la placa, y métodos invasivos como es la angioscopia. Aunque existen varios métodos, no existe uno que nos dé toda la información morfológica y de actividad de la placa necesaria. El objetivo principal de este trabajo es el estudio y modelado de vasos sanguíneos, concretamente de una coronaria, afectados por aterosclerosis. Para ello, se ha desarrollado un estudio parametrico en tres dimensiones (3D) de los factores geométricos en la vulnerabilidad de la placa de ateroma y de la influencia de las tensiones residuales. Los modelos en 3D nos permiten incluir los efectos producidos por las tensiones residuales. Con dichos modelos se van a estudiar tres situaciones diferentes; sin tensiones residuales, considerando tensiones residuales en dirección longitudinal y por ultimo, considerando tensiones residuales tanto en dirección longitudinal como circunferencial. De este modo, se podra identicar el papel que juegan las tensiones residuales en la vulnerabilidad de la placa de ateroma y definir límites de vulnerabilidad para cada uno de los parámetros considerados. Los modelos se han simulado mediante elementos finitos con el software comercial ABAQUS. Los resultados obtenidos, nos permiten ir un paso mas allá en el diagnóstico preventivo y en la planicación preoperatoria en aplicaciones cardiovasculares. Con el fin de validar el modelo, se ha reconstruido mediante el software comercial MIMICS una geometría real a partir de un IVUS (ultrasonido intravascular) de un paciente adulto con placa de ateroma. Tras la reconstrucción se han medido los parámetros estudiados en la geometra real y la hemos comparado con el correspondiente caso paramétrico de parametros similares.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/7807</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/7807/files/TAZ-TFM-2012-078.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>aterosclerosis</dc:subject>
+    <dc:subject>análisis paramétrico</dc:subject>
+    <dc:subject>elementos finitos</dc:subject>
+    <dc:subject>arteria coronaria</dc:subject>
+    <dc:subject>vulnerabilidad</dc:subject>
+    <dc:subject>placa de ateroma</dc:subject>
+    <dc:subject>tensiones residuales</dc:subject>
+    <dc:subject>Máster Universitario en Mecánica Aplicada</dc:subject>
+    <dc:title>Atheroma plaque vulnerability based in a 3D idealized parametric geometry</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

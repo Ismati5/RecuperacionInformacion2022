@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Cortés Franco, Fernando</dc:contributor>
+    <dc:contributor>Velilla Marco, Santiago Miguel</dc:contributor>
+    <dc:creator>Cuello Barón, Begoña</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>El proyecto consiste en el análisis, diseño, desarrollo, implementación e implantación de servicios y funcionalidades complementarias a una bolsa de empleo web que automatiza el proceso de reclutamiento y selección de candidatos para las empresas. El objetivo fundamental del sistema es mejorar la plataforma online de la que se parte. A través de los servicios y funcionalidades añadidos se pretende facilitar, mejorar y rediseñar la plataforma de empleo online, aportando potentes filtros de búsqueda de ofertas y/o candidatos, permitiendo la compra de servicios a través de la pasarela de pago PayPal en los que el usuario adquiere nuevas funcionalidades tales como, pruebas de idiomas para candidatos, o el servicio de adquisición de CV para las empresas. El nuevo sistema cuenta con las siguientes funcionalidades añadidas: compra de servicios a través de PayPal, realización de pruebas de idiomas, servicios sobre las ofertas publicadas, como podrían ser destacarlas, marcarlas como urgentes, hacerlas ciegas, archivarlas, adquirir CV de los candidatos, controlar la privacidad del CV de los candidatos, mejorar las búsquedas, configurar las alertas de correo, también se han desarrollado herramientas adicionales, como el blog de empleo y la herramienta de envió masivo de correos. El sistema está diseñado para dar soporte múltiples idiomas, estando actualmente operativo en español. Durante el desarrollo del sistema, se ha comprobado la compatibilidad en los navegadores más comunes (Internet Explorer 6, 7 y 8, Firefox, Chrome y Opera), ya que es muy importante permitir a los usuarios utilizar el navegador que usen habitualmente. El proyecto ha sido desarrollado bajo la metodología RUP (Rational Unified Process), y la plataforma tecnológica .NET Framework 3.5, con C# como lenguaje de desarrollo, SQL Server como sistema gestor de Bases de datos, TSQL como leguaje para los procedimientos almacenados y NHibernate como herramienta de mapeo objeto relacional, que facilita no solo la generación de la capa de acceso a datos de la aplicación, sino que simplifica el uso al programador, y favorece la genericidad, adaptabilidad y escalabilidad del proyecto final. Durante la realización del proyecto se ha documentado todo el proceso seguido en el desarrollo de un sistema. En la Memoria del proyecto se exponen brevemente y se hace referencia a todos los documentos que contiene el Anexo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4682</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4682/files/TAZ-PFC-2010-032_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/4682/files/TAZ-PFC-2010-032.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>sistema informático</dc:subject>
+    <dc:subject>web</dc:subject>
+    <dc:subject>html</dc:subject>
+    <dc:subject>css</dc:subject>
+    <dc:subject>Asp.Net C#</dc:subject>
+    <dc:subject>Nhibernate</dc:subject>
+    <dc:subject>ajax</dc:subject>
+    <dc:subject>javascript</dc:subject>
+    <dc:subject>SQL server</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Desarrollo de los servicios y funcionalidades complementarias a una bolsa de empleo web que automatiza el proceso de reclutamiento y selección de candidatos</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

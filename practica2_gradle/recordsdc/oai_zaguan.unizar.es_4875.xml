@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Calvo Calzada, Begoña</dc:contributor>
+    <dc:creator>Hernández Gascón, Belén</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>La cirugía abdominal mediante la implantación de mallas sintéticas es la más utilizada para la reparación de hernias, pero estas mallas pueden causar varios problemas a los pacientes. Hoy en día, existe una gran variedad de mallas y no está científicamente demostrado cuál es la prótesis ideal ni cuáles son las pautas de orientación de las mismas en el cuerpo humano cuando se trata de mallas anisótropas. Las prótesis actuales han sufrido modicaciones en su estructura y su porosidad en los últimos tiempos con el objetivo de mejorar su adaptación al tejido. A pesar de estas mejoras, la "prótesis ideal" no ha sido obtenida, siendo común la reaparición de las hernias. Para entender el fenómeno es esencial que se caracterize mecánicamente la pared abdominal. Para entender dicho comportamiento es necesario distinguir entre las fibras de colágeno y las musculares, porque en el tejido del músculo, las fibras de colágeno son las responsables de la resistencia mecánica y rigidez y las fibras musculares de la contracción. La dirección de las fibras de colágeno determinan la dirección de anisotropía del material, propiedad a tener en cuenta posteriormente en la formulación del modelo constitutivo. Debido a la distinta orientación de las fibras en cada capa (fibras musculares y de colágeno), en este estudio se analiza la influencia del estudio de las capas separadas en comparación con el músculo en conjunto considerándolo como un material compuesto. Una vez que se ha entendido el comportamiento mecánico del músculo, se caracterizan tres mallas quirúrgicas utilizadas en la reparación herniaria. A su vez, se compara su comportamiento con el de la pared abdominal para estudiar qué malla es la que mejor reproduce el comportamiento de la pared abdominal. En el contexto del modelado matemático, se ha denido un modelo constitutivo 3D hiperelástico anisótropo cuasi-incompresible para el músculo abdominal y otro 2D para las mallas. Utilizando los datos experimentales y realizando un ajuste numérico se han obtenido un conjunto de parámetros, para la función densidad de energía planteada en cada caso, que son capaces de reproducir el comportamiento real del músculo abdominal y de cada una de las mallas mediante un modelo de elementos finitos (FE). En último lugar, con el objetivo de reproducir el comportamiento del abdomen sin dañar y el abdomen que ha sufrido una cirugía abdominal, se plantea un modelo simplificado de elementos finitos que simula el abdomen del animal de experimentación utilizado sometido a una presión abdominal interna. Con este modelo se trata de ver cómo se comporta el conjunto del abdomen bajo la presencia de las diferentes mallas estudiadas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4875</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4875/files/TAZ-TFM-2010-004.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Músculo abdominal</dc:subject>
+    <dc:subject>Comportamiento pasivo</dc:subject>
+    <dc:subject>Fibras de colágeno</dc:subject>
+    <dc:subject>Fibras musculares</dc:subject>
+    <dc:subject>Mallas quirúrgicas</dc:subject>
+    <dc:subject>Test uniaxial</dc:subject>
+    <dc:subject>Anisotropía</dc:subject>
+    <dc:subject>Hernia</dc:subject>
+    <dc:subject>Hiperelasticidad</dc:subject>
+    <dc:subject>Simulación por elementos finitos</dc:subject>
+    <dc:subject>Máster Universitario en Mecánica Aplicada</dc:subject>
+    <dc:title>Caracterización mecánica y modelado numérico de la pared abdominal : desarrollo de una metodología de ayuda al diseño de mallas sintéticas para la reparación herniaria.</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

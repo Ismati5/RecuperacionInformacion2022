@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Cóndor Salgado,Mª Mar</dc:contributor>
+    <dc:contributor>García Aznar, José Manuel</dc:contributor>
+    <dc:creator>Laita Dieste, Nicolás</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>El estudio del entorno celular desde el punto de vista de la biomecánica es un área de investigación muy desarrollada hoy en día. Pese a que todavía hay un gran número de incógnitas, ha quedado demostrado en los últimos años que las propiedades mecánicas de las células y su entorno, así como las solicitaciones mecánicas que han de soportar, tienen un papel primordial en muchos procesos celulares de diversos tipos como por ejemplo la contracción, migración, desarrollo, diferenciación o incluso la muerte celular. Por tanto, unas condiciones mecánicas inadecuadas pueden llegar a ser la causa de la aparición de numerosas consecuencias y patologías, de ahí la importancia de su estudio. Por ello, en los últimos años, han ido apareciendo una gran cantidad de trabajos enfocados a utilizar recursos ingenieriles para generar modelos computacionales que simulen escenarios biológicos reales y así poder entender mejor estos procesos. Un claro ejemplo de ello es la aplicación de modelos de elementos finitos para simular interacciones mecánicas de ámbito biológico. El objetivo de este trabajo es continuar esta línea de investigación para crear un modelo computacional, basado en geometrías y cargas reales, que sea capaz de simular de forma solvente diferentes escenarios mecánicos y que además continúe la tendencia de esta línea de investigación de generar modelos cada vez más realistas. Para ello, se han utilizado diversos software para poder reconstruir un modelo tridimensional basado en datos obtenidos experimentalmente y realizar diferentes simulaciones mecánicas donde se han ido variando parámetros mecánicos para estudiar su influencia. A la vista de los resultados obtenidos, se ha demostrado que la metodología utilizada es capaz de realizar de manera eficiente todos los cálculos exigidos y que podrá ser utilizada para crear modelos celulares aun más complejos y estudiarlos de forma solvente.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/69878</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/69878/files/TAZ-TFG-2017-4580.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/69878/files/TAZ-TFG-2017-4580_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Modelado específico de una célula individual mediante elementos finitos para la obtención de las fuerzas de tracción</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Specific finite element modeling of an individual cell in order to obtain traction forces</dc:title>
+</oai_dc:dc>

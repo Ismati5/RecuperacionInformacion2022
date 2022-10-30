@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Brufau García, María Pilar</dc:contributor>
+    <dc:contributor>Navarro García, María Pilar</dc:contributor>
+    <dc:creator>Franco Cabello, Pablo</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>El coeficiente de rugosidad es un parámetro de difícil cuantificación en los modelos de flujo de lámina libre basados en aproximaciones de aguas poco profundas. Se utiliza para cuantificar la pérdida de energía del flujo por rozamiento. Habitualmente, en condiciones turbulentas, suele asociarse un valor único de rugosidad a cada material del lecho. En este trabajo se desea evaluar la dependencia del coeficiente de rugosidad con el caudal y con la configuración geométrica del cauce.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/85230</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/85230/files/TAZ-TFG-2019-2881.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Tecnologías Industriales</dc:subject>
+    <dc:title>Calibración del coeficiente de rugosidad del flujo en un canal abierto mediante análisis experimental y numérico</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Numerical and experimental analysis for the calibration of an open channel flow roughness coefficient</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Canalís Martínez, Paula María</dc:contributor>
+    <dc:creator>Bermejo Barbanoj, Carlos</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>En este trabajo se ha estudiado que tipo de reductor es más conveniente para su aplicación en la turbohélice de un avión.  Para ello se ha seleccionado un modelo de turbohélice de la marca Pratt &amp; Whitney Canada y a partir de los datos de par y régimen de giro se han calculado, diseñado y analizado dos tipos diferentes de reductor, uno de engranajes de dentado helicoidal y otro planetario. Se ha realizado el cálculo a flexión y a desgaste de los engranajes y posteriormente el cálculo estático y a fatiga de los ejes de ambos conjuntos, seleccionándose el material más adecuado para cada elemento. Además se han seleccionado los rodamientos necesarios para hacer frente a las fuerzas generadas. Con ambos conjuntos ya dimensionados se ha procedido a establecer una comparación entre ambos para tomar la decisión de que diseño es el más adecuado para esta aplicación. Con el objetivo de una mejor visualización de los componentes propuestos se ha realizado el modelado 3D de los mismos mediante el uso del Software AutoDESK Inventor Professional 2019.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/78549</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Ingeniería Mecánica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/78549/files/TAZ-TFG-2019-052.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Diseño y análisis comparativo de dos tipos de reductores para su uso en una turbohélice</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Design and comparative analysis of two kind of reducers for a turboprop’s application</dc:title>
+</oai_dc:dc>

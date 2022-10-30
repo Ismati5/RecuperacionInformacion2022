@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Mahulea, Cristian </dc:contributor>
+    <dc:contributor>Albareda Albareda, Jorge</dc:contributor>
+    <dc:creator>Moreno Varea, Ismael</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>En este proyecto se considerarán dos vías clínicas, la de artroplastia de cadera y la de artroplastia de rodilla que han sido modeladas en el lenguaje de modelado unificado (UML) y transformadas a modelos formales (redes de Petri). Realizando simulaciones de los modelos formales se puede optimizar los tiempos de actuación, optimizar los recursos hospitalarios, etc. Las herramientas utilizadas son:  -HEAT-Monitor se ha implementado para monitorizar los pacientes ingresados en el HCU de Zaragoza que siguen una vía clínica. -HEAT-Designer se utiliza para modelar y analizar las vías clínicas en lenguaje UML y permite al mismo tiempo transformaciones a modelos de redes de Petri para un análisis formal. -TimeNET: Para poder hacer un análisis matemático utilizando las redes de Petri. -CPN Tools: Que se quiere utilizar a cambio de TimeNET(porque no es capaz de soportar Redes de Petri coloreadas de tamaño grande). En este proyecto el CPN Tools se ha utilizada para modelar las vías clínicas pero aún no se ha realizado simulaciones para analizar los modelos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/69881</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Cirugía, Ginecología y Obstetricia; Área de Traumatología y Ortopedia</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/69881/files/TAZ-TFG-2017-4560.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Eléctrica</dc:subject>
+    <dc:title>Modelado y análisis de sistemas de salud basado en vías clínicas</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Modeling and analysis of healthcare systems based on clinical pathways</dc:title>
+</oai_dc:dc>

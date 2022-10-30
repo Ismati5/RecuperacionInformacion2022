@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bernal Ruiz, Carlos</dc:contributor>
+    <dc:contributor>Molina Gaudó, Pilar</dc:contributor>
+    <dc:creator>Milla Benito, Javier</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Este proyecto final de carrera parte del conocimiento previo de la tecnología de SiC desarrollado por el grupo de Electrónica de Potencia y Microelectrónica (GEPM). Los objetivos del PFC son dos: El primero, de estudio y síntesis, consiste en el desarrollo de una plataforma de interruptor flexible en SiC. El interruptor se basa en una topología de SiC en cascodo, incluye el driver y dos dispositivos que se pueden usar en diversos tipos de topologías de convertidores resonantes (un dispositivo y semipuente) o bien paralelizando dos de ellos para aumentar la potencia de salida. El interruptor flexible está dimensionado para potencias de salida de hasta 500W. El segundo objetivo consiste en el estudio y verificación experimental de este interruptor en dos topologías diferentes. La primera de ellas incorpora como idea novedosa la utilización de un snubber inductivo regenerativo que permita la flexibilización del control en etapas de un dispositivo. En segundo lugar, esta topología se mejora con la inclusión de lo que se definirá como un snubber regenerativo resonante, que permite reducir al máximo las pérdidas de conmutación manteniendo la flexibilidad anteriormente mencionada. Ambas etapas se demostrarán por medio de sus ecuaciones descriptivas así como por verificación experimental de las mismas en la aplicación de calentamiento por inducción doméstica.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8818</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Tecnología Electrónica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8818/files/TAZ-PFC-2012-548.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>sic</dc:subject>
+    <dc:subject>carburo de silicio</dc:subject>
+    <dc:subject>inversor</dc:subject>
+    <dc:subject>switch</dc:subject>
+    <dc:subject>1sw-qr </dc:subject>
+    <dc:subject>inducción doméstica</dc:subject>
+    <dc:subject>Ingeniero de Telecomunicación</dc:subject>
+    <dc:title>Interruptor de SiC flexible aplicado a topologías de un dispositivo para inducción doméstica</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

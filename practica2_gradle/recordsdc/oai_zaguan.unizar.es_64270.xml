@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Soria Ferrero, Óscar</dc:contributor>
+    <dc:creator>Bosqued Ibáñez, Iván</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>Análisis, selección, implementación y adaptación de una herramienta OpenSource de gestión documental para el AMPA de un colegio. La herramienta permite la gestión de documentos de la Junta del AMPA con distintos niveles de acceso según roles, y las típicas funciones de una herramienta colaborativa.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64270</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64270/files/TAZ-PFC-2017-090.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Estudio, identificación e implementación de plataforma Web OpenSource para gestión documental en modo colaborativo</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+    <dc:title xml:lang="en">Study, identification and implementation of OpenSource Web platform for document management in collaborative mode</dc:title>
+</oai_dc:dc>

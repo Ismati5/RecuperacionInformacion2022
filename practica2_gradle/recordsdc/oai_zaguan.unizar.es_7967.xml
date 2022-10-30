@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Hernández Gascón, Belén</dc:contributor>
+    <dc:contributor>Grasa Orús, Jorge</dc:contributor>
+    <dc:creator>Vallés Mallén, Berta</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>La pared abdominal tiene una gran importancia anatómica y funcional, tanto por ser la estructura de sostén de las vísceras como por permitir el movimiento y rotación del tronco con respecto a las extremidades y la cabeza. Las patologías más comunes que sufre la pared abdominal derivan de la pérdida de resistencia de ésta, la cual da lugar a los procesos herniarios. Estas patologías se tratan mediante la colocación de mallas sintéticas que deben devolver a la pared abdominal sus propiedades mecánicas. La aplicación de técnicas experimentales, numéricas o computacionales, permite la determinación de las propiedades mecánicas de tejidos. En este proyecto, se han desarrollado dos métodos, de forma paralela, para la obtención de las propiedades que definen el comportamiento mecánico pasivo del músculo abdominal en el marco de la mecánica de medios continuos no lineales en grandes deformaciones, de forma que los resultados de ambos se han comparado y analizado. El primer método para la caracterización del material se basa en el ajuste numérico de datos experimentales, tomados de la literatura, obtenidos a partir de ensayos uniaxiales realizados sobre un modelo de experimentación animal. El segundo método, el método de análisis inverso, utiliza datos experimentales a partir de ensayos no invasivos sobre un modelo de experimentación humano para la caracterización del material. En concreto, se utilizan imágenes de un abdomen humano, indeformado y deformado tras la aplicación de determinadas fuerzas. Finalmente, la simulación computacional, mediante el método de elementos finitos, del modelo del abdomen humano reconstruido en 3D mallado, permite la comparación y análisis de ambos métodos aplicados. Por tanto, en este trabajo se presenta una metodología nueva que permite la determinación de las propiedades mecánicas de la pared abdominal mediante la aplicación del método de análisis inverso y ensayos experimentales no invasivos. Esta metodología optimiza el valor de los parámetros definitorios de dichas propiedades frente a aquellos obtenidos con otros métodos de caracterización tradicionalmente utilizados, también presentados en este proyecto.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/7967</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/7967/files/TAZ-PFC-2012-369_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/7967/files/TAZ-PFC-2012-369.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>pared abdominal</dc:subject>
+    <dc:subject>elementos finitos</dc:subject>
+    <dc:subject>hiperelasticidad</dc:subject>
+    <dc:subject>método inverso</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Modelado numérico de la pared abdominal basado en imágenes de scanner</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

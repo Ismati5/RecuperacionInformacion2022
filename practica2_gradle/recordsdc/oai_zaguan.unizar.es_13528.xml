@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Guerrero Campo, José Jesús</dc:contributor>
+    <dc:contributor>López Nicolás, Gonzalo</dc:contributor>
+    <dc:creator>Abad Martínez, José Ignacio</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El presente proyecto describe el trabajo desarrollado para realizar la integración de los diferentes componentes que forman parte de una célula industrial robotizada disponible en el laboratorio L0.6 del edificio Ada Byron de la Escuela de Ingeniería y Arquitectura de la Universidad de Zaragoza. Además de una puesta a punto, también se busca proporcionar funcionalidad adicional (tanto operativa como docente) a la configuración actual de dicha célula mediante el uso de visión por computador y de simuladores comerciales de robótica industrial. El trabajo realizado tiene como denominador común el empleo de gran cantidad de documentación técnica referente a los componentes de la célula de fabricación, la implementación de soluciones funcionales y operativas en el momento actual, y la documentación exhaustiva de todo el trabajo realizado. Fundamentalmente, el proyecto se ha desarrollado a lo largo de los siguientes bloques temáticos: 1. Integración de los diferentes componentes de la célula industrial mencionada. Los aspectos más relevantes, entre muchos otros, que se han trabajado han sido: La programación de un robot industrial modelo "Fanuc Arcmate 50 IL"; El desarrollo del sistema de comunicaciones entre dicho robot y un autómata industrial modelo "Modicon M340"; El control de los diversos automatismos mecánicos mediante la programación de dos autómatas adicionales; El establecimiento de comunicaciones y jerarquías de control entre los diferentes autómatas; Y el desarrollo de aplicaciones de control mediante terminales visuales Hombre-Máquina, concretamente sobre plataformas "Magelis" presentes en el laboratorio. 2. Ampliación de la funcionalidad tradicional de las células de fabricación mediante el empleo de algoritmos de visión para cámaras RGB-D. Para ello se han desarrollado algoritmos en lenguaje de programación C++, para uso con cámaras RGB-D que permiten la localización de objetos predefinidos, obteniendo del algoritmo información tal como el tipo de objeto localizado, su posición, orientación y color. Adicionalmente, los algoritmos también permiten realizar un control de seguridad sobre la presencia de objetos extraños en el espacio de trabajo. 3. A un nivel superior en el diseño de una célula de fabricaciónn, se encuentra la fase de simulación. También se ha abordado esta fase y se ha realizado un estudio y análisis de los diferentes simuladores comerciales de robótica industrial disponibles en el mercado. Basándose en el análisis y comparación de opciones realizado, se seleccionó el simulador "ABB Robot-Studio". Adicionalmente, se han realizado diversos programas demostrativos, así como una guía sobre el programa, varios vídeos tutoriales y varias propuestas de guiones de prácticas sobre dicho programa.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/13528</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/13528/files/TAZ-PFC-2014-127.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/13528/files/TAZ-PFC-2014-127_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>célula de fabricación robotizada</dc:subject>
+    <dc:subject>robot industrial</dc:subject>
+    <dc:subject>robot fanuc</dc:subject>
+    <dc:subject>autómatas industriales</dc:subject>
+    <dc:subject>simulador de robots</dc:subject>
+    <dc:subject>abb robot studio</dc:subject>
+    <dc:subject>magelis</dc:subject>
+    <dc:subject>asus xtion</dc:subject>
+    <dc:subject>cámara rgb-d</dc:subject>
+    <dc:subject>programación de robots</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Integración de los componentes y sistemas de percepción de una célula de fabricación robotizada</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

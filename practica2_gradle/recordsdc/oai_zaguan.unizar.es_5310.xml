@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Peña Torre, José Ignacio</dc:contributor>
+    <dc:creator>Villarreal Calvo, Luis</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>Debido al limitado número de proveedores de material vitrocerámico para fabricantes de placas de cocina, productos de distintos fabricantes presentan una estética similar. Es prioritario para la empresa expresar una idea de calidad acerca de las características internas, como la electrónica, que hacen destacar al producto; Por esta razón se investiga en su diferenciación estética. El presente proyecto, dentro de los varios que tratan el tema de la estética, se centra  en la iluminación de la placa vitrocerámica de inducción mediante el uso de gas fluorescente. Primeramente son presentados los conceptos físicos mínimos necesarios para entender el proceso de la iluminación en tubos de descarga, los cuales se desarrollan en el Anexo A. Se selecciona un candidato entre los distintos tipos de lámparas de descarga y se describen las necesidades para la iluminación de lámparas de distintos tamaños existentes en el mercado. Tras este planteamiento se  fabrica un modelo de pieza a partir del cual se busca información sobre la viabilidad de  iluminar pequeños dibujos geométricos escarbados en la placa con  gas neón directamente debajo. La primera fase a optimizar para generar esta pieza es el escarbado del material vitrocerámico.  Se analizan diversas tecnologías comparando tiempo, coste y calidad. Se investigan dos tipos de láser disponibles; En el láser Nd:YAG se caracteriza la colocación de la muestra a la distancia focal correcta. En el láser Nd:YVO4 se optimizan los parámetros de escarbado (frecuencia, velocidad, distancia focal) realizando e interpretando matrices cuyos componentes son marcas láser con características individuales. En ambos láser se estudia y corrige la pérdida de eficiencia conforme aumenta la profundidad escarbada. Para la medición de profundidades escarbadas se utiliza un microscopio confocal y se analizan los datos de los perfiles de medida con el programa PLμ. En una empresa de corte con agua se consultan las posibilidades de aplicación de esta tecnología al vidrio cerámico. La última tecnología examinada para el escarbado es el mecanizado con broca cubierta de diamante. La segunda fase consiste en encontrar un producto que permita cerrar la placa escarbada con una segunda placa, este material debe presentar buenas características mecánicas y mantener gas a baja presión en su interior. Se analiza la unión con el uso de fundente comercial para materiales cerámicos, óxido de boro y resina epoxi. Se realizan pruebas de tracción, vacío dinámico y análisis con microscopio electrónico tanto de la estructura del corte como de la composición.. Para la conexión del hueco que ahora se encuentra en el interior de la pieza, al sistema de vacío, debe seleccionarse un tubo de vidrio, modificarlo geométricamente para su adaptación a la instalación y fabricar un soporte que lo mantiene en la posición adecuada. Con todos estos resultados se crean piezas finales sobre las que se experimenta con la instalación de vacío diseñada a tal efecto, también se llena de gas una pieza en un taller especializado en tubos de descarga, que sirve como referencia. Finalmente se realizan varios experimentos en el campo de la iluminación de gas neón. El primer experimento valora la posibilidad de cubrir las necesidades para encender una lámpara de neón atrapando y manejando el campo residual de la placa de inducción con bobinas.  También se construye un prototipo básico con un tubo de descarga directamente bajo la placa. En último lugar, se estimula la emisión de luz en la pieza de referencia con descargas eléctricas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/5310</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Ciencia de los Materiales e Ingeniería Metalúrgica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/5310/files/TAZ-PFC-2010-306.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/5310/files/TAZ-PFC-2010-306_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Vitrocerámica</dc:subject>
+    <dc:subject>Láser</dc:subject>
+    <dc:subject>Nd:YAG</dc:subject>
+    <dc:subject>Nd: YVO4</dc:subject>
+    <dc:subject>Tracción</dc:subject>
+    <dc:subject>Microscopio electrónico</dc:subject>
+    <dc:subject>Araldit</dc:subject>
+    <dc:subject>Vacío</dc:subject>
+    <dc:subject>Bomba turbomolecular</dc:subject>
+    <dc:subject>Gas neón</dc:subject>
+    <dc:subject>Iluminación</dc:subject>
+    <dc:subject>Tubo de descarga</dc:subject>
+    <dc:subject>Curvas Paschen</dc:subject>
+    <dc:subject>Efecto Townsend</dc:subject>
+    <dc:subject>Inducción</dc:subject>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Iluminación de placa vitrocerámica mediante la inserción y estimulación de gas fluorescente</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

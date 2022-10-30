@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Suárez Gracia, Darío</dc:contributor>
+    <dc:contributor>Valero Bresó, Alejandro</dc:contributor>
+    <dc:creator>Corbalán Colino, Javier</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Los ataques de canal lateral se han convertido en una vulnerabilidad de creciente importancia en las plataformas multinúcleo y, especialmente, en entornos cloud. Estos ataques aprovechan vulnerabilidades de la implementación física de un sistema en lugar de actuar sobre los algoritmos que ejecutan.&lt;br /&gt;Este trabajo se centra en la monitorización térmica, energética y, sobre todo, en la transmisión a través de canales laterales térmicos. La transmisión térmica se basa en que un núcleo puede inducir cambios de temperatura en los de su alrededor, lo cual puede ser utilizado para transmitir información sigilosamente entre contenedores aislados y desplegados en núcleos físicos diferentes.&lt;br /&gt;Con el objetivo de una mayor comprensión de estos ataques, así como para diseñar medidas de mitigación efectivas, se lleva a cabo una caracterización experimental y exhaustiva del ataque sobre un servidor multinúcleo real como los empleados por cualquier proveedor cloud. De esta manera, se identifica y se analiza cuantitativamente el impacto de los factores principales que afectan al éxito del ataque, como es el caso de la elección de los núcleos emisores y receptores en la creación del canal, la tasa de transmisión de datos o el nivel de carga de trabajo en el sistema. El ataque se ha completado con éxito total en máquinas reales, con virtualización por contenedores y parcialmente en máquinas con virtualización de sistema.&lt;br /&gt;Partiendo de la caracterización anterior, se implementa una prueba de concepto para demostrar su impacto y su efectividad como método de extracción de información sensible. Finalmente, se desarrollan y evalúan módulos del kernel de Linux que mitigan por completo el ataque.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/85218</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Arquitectura y Tecnología de Computadores</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/85218/files/TAZ-TFG-2019-2906.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>Mitigación de ataques de canal lateral basados en caracterización térmica y eléctrica</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Thermal and electric profiling based side-channel attack mitigation</dc:title>
+</oai_dc:dc>

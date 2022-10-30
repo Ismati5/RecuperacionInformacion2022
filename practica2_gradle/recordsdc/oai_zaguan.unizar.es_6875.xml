@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Casas Cañada, Jorge</dc:contributor>
+    <dc:contributor>Martínez Ruiz, Ignacio</dc:contributor>
+    <dc:creator>Asín Bernal, Carlos</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>En la actualidad la conservación de las carreteras es una tarea indispensable para asegurar la comodidad y seguridad de las personas que circulan por nuestras carreteras. Para facilitar esta tarea la empresa Iternova S.L. desarrolla  y distribuye la plataforma SGWC-SCADA, que es el marco donde está ubicado este proyecto. El módulo de control y tratamiento de videocámara se integra dentro del sistema, completando e interactuando con el resto de módulos del mismo. El módulo consta de distintas secciones orientadas al control y telemonitorización de las videocámaras en el sistema, así como de las tareas de administración de estas. Para el desarrollo de las distintas secciones fue necesario implementar sistemas de almacenamiento y tratamiento de imágenes, conversión de imágenes en vídeos, gestión de vídeos, transferencia de imágenes desde las videocámaras, visualización de las videocámaras, geolocalización en mapas en tiempo real, generación y modificación de nuevas videocámaras , tareas de limpieza, recuperación de errores y logs de actividad. El módulo se integra en un entorno de nube de servidores, que opera sobre servicios web. Para el desarrollo de todas estas tareas se ha utilizado como lenguaje de programación PHP, combinado con javaScript / AJAX, así como sistemas de carga asíncrona de contenidos usando jQuery. Uso de la API de GoogleMaps y uso de BASH para los scripts que se ejecutan en las videocámaras.  Como herramienta de gestión de tareas se ha usado Webissues y como gestor de versiones se ha utilizado Subversión.  Todas las pruebas durante el desarrollo se han realizado sobre una videocámara Axis 207 presente en las instalaciones de la empresa terminando las pruebas sobre videocámaras del sistema en explotación.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6875</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingeniería Telemática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6875/files/TAZ-PFC-2012-040.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>sgwc-scada</dc:subject>
+    <dc:subject>comunicación cliente-servidor</dc:subject>
+    <dc:subject>gestión web</dc:subject>
+    <dc:subject>videocámaras</dc:subject>
+    <dc:subject>transmisión segura</dc:subject>
+    <dc:subject>telemonitorización</dc:subject>
+    <dc:subject>geolocalización</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Desarrollo de módulo de control y tratamiento de videocámaras para la gestión de la explotación y conservación de carreteras en la plataforma SGWC-SCADA</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

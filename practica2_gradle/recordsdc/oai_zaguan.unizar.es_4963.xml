@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Roy Golet, Carlos</dc:contributor>
+    <dc:contributor>Martínez Ruiz, Ignacio</dc:contributor>
+    <dc:creator>Roig Ramírez, Fernando José</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>El trabajo llevado a cabo en este proyecto nace de la necesidad que surge en una empresa de ampliar su catálogo de productos. Estos están centralizados en la visualización de contenidos bajo demanda en hoteles y hospitales. Estos contenidos hasta ahora eran suministrados únicamente por la propia empresa,  por lo que fue interesante aislar los contenidos multimedia y los servicios de streaming, y dotar a los clientes que compraban el producto de otra aplicación que permitiera la ingesta de contenidos en el sistema. Se realiza un estudio exhaustivo de requisitos entre los que destacan la ingesta de contenidos en diferentes formatos, la compatibilidad de estos con los reproductores STB’s disponibles en la empresa y el control total sobre estos y sus respectivos servicios de streaming. Encaja a la perfección realizar una aplicación Web para el manager, utilizando tecnologías PHP y JavaScript. Esta será montada sobre un entorno Linux y accesible desde cualquier navegador Web conectado a La Red. Se han utilizado herramientas ya disponibles en la empresa para la realización de la aplicación como puede ser el servidor de vídeos o de tráilers, adaptándolos a las nuevas necesidades. Para que todos los contenidos que se alojan en el servidor sean compatibles con los reproductores disponibles, el sistema se debe encargar de transcodificarlos en el momento de la inserción, lo cual se realiza a través de un programa externo de libre distribución. Toda la información acerca de los contenidos se encuentra recogida en la base de datos del sistema, la cual es consultada y modificada por este en las acciones de consulta y edición de los contenidos respectivamente. Se han realizado pruebas exhaustivas del funcionamiento de la aplicación y de la ingesta de contenidos de diferentes formatos al servidor con resultado favorable en los formatos más comunes y la mayoría de los menos comunes.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4963</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingenieria Telematica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4963/files/TAZ-PFC-2010-147.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Servidor multimedia</dc:subject>
+    <dc:subject>Video bajo demanda</dc:subject>
+    <dc:subject>IPTV</dc:subject>
+    <dc:subject>Catalogación</dc:subject>
+    <dc:subject>Streaming</dc:subject>
+    <dc:subject>Ingesta de contenidos</dc:subject>
+    <dc:subject>Formatos de video y audio</dc:subject>
+    <dc:subject>Ingeniero en Informática</dc:subject>
+    <dc:title>Diseño e implementación de un servidor de contenidos multimedia de altas prestaciones</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

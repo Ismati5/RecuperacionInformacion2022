@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Lozano Fantoba, Antonio</dc:contributor>
+    <dc:contributor>Barreras Toledo, Félix Manuel</dc:contributor>
+    <dc:creator>Amaveda, Hippolyte</dc:creator>
+    <dc:date>2003</dc:date>
+    <dc:description>En este trabajo se han estudiado experimentalmente los mecanismos físicos que rigen la atomización ultrasónica. El objetivo es adaptar este proceso al tratamiento de enfermedades respiratorias por inhalación de medicamentos. Para ello se han atomizado pequeñas cantidades de agua con transductores piezocerámicos excitados ultrasónicamente. Se han visualizado los fenómenos involucrados y se ha caracterizado la distribución de tamaños de gotas utilizando las siguientes técnicas: Fluorescencia Planar Inducida por Láser (PLIF), Velocimetría por Imágenes de Partículas (PIV) y Difractometría. Los resultados demuestran que los fenómenos de cavitación predominan frente a las inestabilidades de ondas superficiales. Se ha diseñado y construido un sistema electrónico de excitación pulsada de transductores con mejores prestaciones que los sistemas estándares. Las características del aerosol generado son compatibles con los parámetros requeridos en aplicaciones de aerosolterapia. Se recomienda seguir optimizando el dispositivo para tratar de disminuir la potencia necesaria de atomización.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/6121</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/6121/files/TESIS-2011-034.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>atomización</dc:subject>
+    <dc:subject>aerosoles</dc:subject>
+    <dc:subject>gotas</dc:subject>
+    <dc:subject>ultrasonidos</dc:subject>
+    <dc:subject>cavitación</dc:subject>
+    <dc:subject>difractometría láser</dc:subject>
+    <dc:subject>transductor piezocerámico</dc:subject>
+    <dc:subject>atomization</dc:subject>
+    <dc:subject>sprays</dc:subject>
+    <dc:subject>droplets</dc:subject>
+    <dc:subject>ultrasounds</dc:subject>
+    <dc:subject>cavitation</dc:subject>
+    <dc:subject>laser diffractometry</dc:subject>
+    <dc:subject>piezoceramic transducer</dc:subject>
+    <dc:title>Generación de gotas microscópicas y caracterización de aerosoles</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Anzano Lacarte, Jesús Manuel</dc:contributor>
+    <dc:creator>Cruz Conesa, Andrés</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>La espectroscopía de descomposición inducida por láser (LIBS) es una técnica rápida que permite el análisis de todo tipo de muestras sin destruirlas y sin tener que llevar a cabo apenas tratamientos previos lo que le confiere una potencialidad importante en lo que a control de calidad de productos industriales se refiere. Frente a la dificultad de encontrar o fabricar patrones de muestras sólidas se ha desarrollado una metodología llamada Calibración “Libre” (CL), donde se estudian y se relacionan los parámetros físicos del plasma creado por interacción del láser con la muestra, con los elementos y especies que lo componen. La mayor fuente de error que presenta esta metodología es la autoabsorción, absorción de luz por parte de los mismos elementos que la emiten que hace que algunas señales presenten una intensidad menor de la que deberían, existen distintos métodos para intentar corregir este efecto a la hora de tratar los espectros. En este trabajo se realiza un análisis multielemental de muestras de aceros industriales de un elevado contenido en hierro. Se aplica la CL a un total de cinco muestras, réplicas procedentes de una pieza de acero de mayor tamaño. Además se aplica el método de referencia interna para corregir la autoabsorción y se comparan los resultados con y sin corrección. Previamente se realiza una optimización mediante diseño factorial central compuesto con el objetivo de obtener los mejores espectros posibles de la muestra para aplicarles la CL y se utiliza FESEM para estudiar la morfología de la muestra y el tamaño de los cráteres formados. Los resultados obtenidos corrigiendo la autoabsorción fueron satisfactorios para Fe, Si y Al que se determinaron con un error relativo menor del 5% y una desviación estándar relativa menor del 15%. Para Mn se consiguieron peores resultados debido a su baja concentración en la muestra.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/86834</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Analítica; Área de Química Analítica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/86834/files/TAZ-TFM-2019-288.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Química industrial</dc:subject>
+    <dc:title>Utilización de la calibración "libre" para la cuantificación de metales en productos industriales</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Use of calibration free for the quantification of metals in industrial products</dc:title>
+</oai_dc:dc>

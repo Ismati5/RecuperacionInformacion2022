@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Alesanco Iglesias, Álvaro</dc:contributor>
+    <dc:creator>Alegre Ojer, Fernando</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Este Trabajo de Fin de Grado consiste en el desarrollo de una plataforma que permite la monitorización de la actividad de los usuarios en la aplicación de mensajería instantánea para smartphones Whatsapp. Los módulos principales de la plataforma son: un Agente SNMP que ejecuta la aplicación utilizada para la monitorización, ambos escritos en el lenguaje de programación Python, y un Gestor SNMP que ejecuta el software de MG-SOFT utilizado en Gestion de Red. La aplicación utilizada para la monitorización recoge las horas de última conexión de los usuarios y las envía mediante el protocolo de gestión SNMP al agente. El agente SNMP, que implementa una MIB privada, es gestionado a través del programa MIB Browser, de modo que permita su acceso remotamente. Esta MIB privada consiste en una tabla que almacena los distintos números telefónicos, los nombres de sus propietarios, sus fechas de últimas conexiones y el número de veces que han accedido a Whatsapp durante los últimos 5 minutos. Por último, la aplicación de generación de gráficos en red Cacti nos permite una representación temporal de los datos almacenados en el agente.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31541</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Electrónica y Comunicaciones; Área de Ingeniería Telemática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31541/files/TAZ-TFG-2014-1842_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/31541/files/TAZ-TFG-2014-1842.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>whatsapp</dc:subject>
+    <dc:subject>agente snmp</dc:subject>
+    <dc:subject>cacti</dc:subject>
+    <dc:subject>Graduado en Ingeniería de Tecnologías y Servicios de Telecomunicación</dc:subject>
+    <dc:title>Desarrollo de una herramienta en python para la monitorización de actividad de usuarios de whatsapp</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Aguilera Lizarraga, Miguel</dc:contributor>
+    <dc:contributor>González Bedia, Manuel</dc:contributor>
+    <dc:creator>Fumanal Idocin, Javier</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>En este trabajo se ha analizado la actividad neuronal de una parte del cerebro de un gusano C.elegans en movimiento utilizando modelos de máxima entropía para simular el comportamiento del mismo. A partir del modelo, se estudian el régimen de actividad del sistema en busca de signos de criticalidad: distribución de Zipf, capacidad calorífica, evolución de la entropía con la temperatura e índice de magnetismo. Además, se ha estudiado la relación entre la topología del modelo y su relación con la actividad del mismo, y se reconstruido utilizando distintas técnicas el cableado original de la red. También se ha realizado un clasificador para poder discernir el comportamiento del gusano en un momento determinado, a partir de su actividad neuronal dicho momento.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/65396</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Lenguajes y Sistemas Informáticos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/65396/files/TAZ-TFG-2017-1729.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Informática</dc:subject>
+    <dc:title>Estudio y análisis de la red neuronal del gusano Caenorhabditis elegans</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Study and analysis of the Caenorhabditis elegans' neural network</dc:title>
+</oai_dc:dc>

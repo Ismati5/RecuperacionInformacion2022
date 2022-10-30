@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Calvo Calzada, María Begoña</dc:contributor>
+    <dc:contributor>Ariza Gracia, Miguel Ángel</dc:contributor>
+    <dc:creator>Cabeza Gil, Iulen</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>El objetivo de este Trabajo Fin de Máster es estudiar la influencia de los parámetros que definen la geometría de las lentes intraoculares C-loop que afectan a la estabilidad mecánica en el saco capsular. Dando lugar a un diseño óptimo de lentes C-loop que minimiza el desplazamiento axial, la inclinación y la rotación.&lt;br /&gt;Se estudiaron un total de 144 variaciones geométricas de una lente intraocular C-loop no angulada. El conjunto de variaciones adecuado se determinó mediante un análisis factorial mixto, que permitió analizar el impacto de los diferentes diseños sobre la estabilidad mecánica de la lente (fuerza de compresión, desplazamiento axial, inclinación y rotación). Los parámetros de diseño estudiados fueron: la longitud, anchura, espesor y ángulo de apertura del háptico, la unión háptico-óptica y el inicio de la curvatura háptica. El impacto de los diferentes parámetros se evaluó mediante gráficos de Pareto y análisis estadísticos.&lt;br /&gt;La fuerza de compresión (o reacción) se ve afectada por la anchura del háptico, la unión háptico-óptica y la interacción entre ambas.  El desplazamiento axial se ve afectado principalmente por la anchura y el grosor del háptico, así como por el tamaño de la unión háptico-óptica.  La inclinación se ve afectada por el espesor háptico y la interacción entre la curvatura háptica y la unión háptico-óptica.  La rotación se ve afectada por el inicio de la curvatura háptica, la unión háptico-óptica y  la anchura del háptico. &lt;br /&gt;La principal conclusión de este TFM es que la unión háptico-óptica es uno de los parámetros más influyentes que afectan en las cuatro respuestas estudiadas de las lentes C-Loop. Cuanto más pequeña sea la unión háptico-óptica, mejor será la estabilidad biomecánica.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/84860</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/84860/files/TAZ-TFM-2019-282.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Industrial</dc:subject>
+    <dc:title>Estudio sistemático de la estabilidad biomecánica de lentes intraoculares C-loop: Enfoque a un diseño óptimo de los hápticos</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Systematic study on the biomechanical stability of C-loop intraocular lenses: Approach to an optimal design of the haptics</dc:title>
+</oai_dc:dc>

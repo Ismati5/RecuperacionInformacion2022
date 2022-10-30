@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Cuchi Oterino, José Antonio</dc:contributor>
+    <dc:creator>Causapé Valenzuela, Jesús Antonio</dc:creator>
+    <dc:date>2009</dc:date>
+    <dc:description>El regadío supone el principal uso de agua en la cuenca del Ebro ocasionando una gran problemática en torno a la contaminación por sales y nitratos. Este estudio pretende proponer actuaciones para el control agroambiental de los regadíos del Ebro. Para ello, se analizó la información existente sobre aprovechamiento de agua e impacto agroambiental desarrollando software para su evaluación basado en la ejecución de balances de agua y contaminantes. El desarrollo de EMR y su aplicación a Bardenas (59.200 ha) permitió detectar que de 2004 a 2008, el índice de aprovechamiento de agua fue alto (83%) y los índices de contaminación por sales y nitratos se redujeron un 15 y un 23%. El desarrollo de una metodología común, su implementación en una herramienta informática de fácil manejo y los buenos resultados de Bardenas, ofrecen garantías de éxito para la implantación de una Red de Control de los Regadíos del Ebro.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/3016</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Agricultura y Economía Agraria</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/3016/files/TESIS-2009-043.pdf</dc:relation>
+    <dc:rights>https://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:subject>Recursos hídricos</dc:subject>
+    <dc:subject>riego</dc:subject>
+    <dc:subject>eficiencia</dc:subject>
+    <dc:subject>drenaje</dc:subject>
+    <dc:subject>reutilización</dc:subject>
+    <dc:subject>vigilancia agroambiental</dc:subject>
+    <dc:subject>regadío</dc:subject>
+    <dc:subject>índices</dc:subject>
+    <dc:subject>contaminación</dc:subject>
+    <dc:subject>agua</dc:subject>
+    <dc:title>Evaluación y vigilancia agroambiental de los regadíos del Ebro: el caso de Bardenas</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

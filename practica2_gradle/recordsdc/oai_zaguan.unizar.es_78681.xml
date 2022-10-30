@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Grange, Guillaume</dc:contributor>
+    <dc:contributor>Romeo Tello, Antonio</dc:contributor>
+    <dc:creator>Arribas Plaza, Guillermo</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>Este proyecto consiste en el diseño e implementación de un sistema automático que embala piezas de inyección con robots Sepro. En las instalaciones de Valeo Térmico Zaragoza, tras el traslado de la factoría de Martorellas(Barcelona) se ha detectado la oportunidad para la automatización de descarga de piezas de inyección. Lo que permitiría reducir de tres a un operario en la zona. Inicialmente las piezas inyectadas destinadas al montaje de HVACs se colocaban en cintas transportadoras donde los operarios recogían y embalaban en cajas. Mediante el uso de robots cartesianos de 5 ejes, un sistema de transportadores coloca cajas de tipo KLT en una zona precisa para que el robot introduzca las piezas una una. Cuando la caja está llena se da la orden de avance y las cajas salen para ser recogidas por el operario. Los proveedores para el desarrollo han sido Mk Kitz Hispania para el sistema automático de transportadores y Sepro Robótica para el manipulador de piezas de inyección. El jefe de proyecto ha sido el encargado de integrar y coordinar ambos sistemas participando en el diseño y programación. Además de la automatización del proceso de embalado, se han programado controles de calidad mediante báscula de pesado y parámetros de inyección.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/78681</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/78681/files/TAZ-TFG-2018-456.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Electrónica y Automática</dc:subject>
+    <dc:title>Diseño e implementación de un sistema de embalado de piezas de inyección de plástico mediante robots Sepro</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Design and implementation of a auto-packaging plastic parts system through Sepro Robots</dc:title>
+</oai_dc:dc>

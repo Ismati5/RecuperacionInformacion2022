@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Julián Burillo, Ignacio</dc:contributor>
+    <dc:contributor>Mitchell, Scott George</dc:contributor>
+    <dc:creator>Lara Rico, Nidya</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>Dehydroaromatization of methane (MDA) is a promising reaction to directly convert methane into aromatics and hydrogen. MDA is an endothermic reaction and, accordingly, it requires high temperatures in combination with selective catalysts to obtain a sufficient yield of aromatics, specially bezene. The benchmark catalyst for this reaction is Mo/zeolite, it form of 10-membered ring zeolites (such as ZSM-5 and MCM-22) for their high activity and aromatic selectivity, but the main drawback of this reaction is the rapid deactivation of catalyst due to the formation of coke on its surface. The present research word project is focused on the synthesis and development of catalysts that are active, stable and selective for the non-oxidative coupling of the methane reaction (MNOC), and then optimize them in a conventional oven to generate light aromatic hydrocarbons, preferentially benzene. A selection of polyoxomolybdate anions were used as the Mo source with the hypothesis that the different structural arrangement of their Mo atoms within the polyoxometalate (POM) molecules would help to generate repulsion between discrete Mo centres, thereby avoiding the formation of Mo agglomerates on the zeolite surface. Zeolitic supports ZSM-5 and MCM-22 were used to support different loadings of Mo from three different types of polyoxomolybdate anion. The catalysts were tested for MNOC reaction under conventional heating and the catalysts prepared with the “Mo6” precursor, especially the 5% Mo6/MCM-22, showed an excellent stability with 22 hours of reaction and an optimum yield to benzene.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76217</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76217/files/TAZ-TFM-2018-930.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster en Materiales Nanoestructurados para Aplicaciones Nanotecnológicas (Nanostructured Materials for Nanotechnology Applications)</dc:subject>
+    <dc:title>Desarrollo y optimización de catalizadores para mejorar el proceso de acoplamiento no oxidativo de metano</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Development and Optimization of Catalysts for Enhanced Methane Non-Oxidative Coupling Processes</dc:title>
+</oai_dc:dc>

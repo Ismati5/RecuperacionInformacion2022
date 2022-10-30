@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Royo Vázquez, Emilio Julián</dc:contributor>
+    <dc:creator>Ortigosa Val, Daniel</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>El presente trabajo se centra en un análisis de sensibilidad del proceso de engrapado mediante rodillo (roller hemming). Este proceso consiste en la unión doblada de dos láminas mediante deformación plástica sin el uso de ningún elemento de fijación adicional, eliminando las aristas abiertas. Ello se lleva a cabo en varios pasos mediante un rodillo paralelo a la pestaña que va cerrando la unión, donde el borde de la lámina metálica exterior se dobla sobre la interior creando el engrapado. El análisis pretende estudiar la influencia de distintos parámetros del proceso roller hemming sobre variables de calidad del producto final, especialmente sobre el enrollamiento de la chapa o roll-in. Para ello, se establecen los parámetros más influyentes del proceso y se lleva a cabo un diseño de experimentos para analizar su influencia en el roll-in. En el trabajo fin de máster se realiza un análisis de sensibilidad mediante simulación por elementos finitos de la operación y, posteriormente, mediante un estudio experimental en laboratorio en un puesto desarrollado específicamente para este proceso, aplicado a una pestaña recta. Se comparan resultados y se reflexiona sobre la metodología de estudio y equipos empleados, para extraer conclusiones y aportar líneas futuras de investigación.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76218</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Ingeniería de los Procesos de Fabricación</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76218/files/TAZ-TFM-2018-929_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/76218/files/TAZ-TFM-2018-929.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Máster Universitario en Ingeniería Mecánica</dc:subject>
+    <dc:title>Análisis de sensibilidad mediante simulación y experimentación del proceso roller hemming</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+    <dc:title xml:lang="en">Sensibility analysis by simulation and experimentation of roller hemming process</dc:title>
+</oai_dc:dc>

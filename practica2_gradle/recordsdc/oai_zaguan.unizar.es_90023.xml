@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Esteban Escaño, Luis Mariano</dc:contributor>
+    <dc:creator>Escalera Lapuerta, Raquel</dc:creator>
+    <dc:date>2020</dc:date>
+    <dc:description>En la actualidad el hambre es uno de los principales problemas que afecta a la humanidad. Por esta razón, el segundo objetivo de desarrollo sostenible es: hambre cero.&lt;br /&gt;En Navarra existen dos organizaciones: Banco de alimentos de Navarra y Cruz Roja Navarra que tratan de paliar dicho problema colaborando en un programa de ayuda alimentaria nacional. Ambas organizaciones, llamadas organizaciones asociadas de distribución, se encargan de realizar la distribución de alimentos básicos a numerosas organizaciones asociadas de reparto, las cuales llegan a los destinatarios finales.&lt;br /&gt;Este trabajo fin de grado pretende optimizar la red de distribución desde una de las organizaciones asociadas de distribución Banco de Alimentos de Navarra, hasta las organizaciones asociadas de reparto, que se encuentran en diferentes municipios de la Comunidad, con las que colabora.&lt;br /&gt;El objetivo del trabajo es crear una aplicación que permita seleccionar uno de los almacenes del Banco de Alimentos de Navarra como origen y los municipios donde estén situadas las organizaciones asociadas de reparto, y sea necesario repartir en esa fase, como destinos de la ruta. La aplicación calcula y muestra la ruta más óptima, la longitud de ésta y la representación del trayecto en el mapa.&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/90023</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/90023/files/TAZ-TFG-2020-1626_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/90023/files/TAZ-TFG-2020-1626.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería de Organización Industrial</dc:subject>
+    <dc:title>Optimización de red de distribución de alimentos</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Food Distribution Network Optimization</dc:title>
+</oai_dc:dc>

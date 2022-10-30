@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Suelves Laiglesia, Isabel</dc:contributor>
+    <dc:contributor>Pinilla Ibarz, José Luis</dc:contributor>
+    <dc:contributor>Herguido Huerta, Francisco Javier</dc:contributor>
+    <dc:creator>Torres Gamarra, Daniel</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>La descomposición catalítica de metano (DCM) es una alternativa a los procesos convencionales de producción de H2, a partir de la cual puede obtenerse carbono nanoestructurado (CN) en lugar de las elevadas emisiones de CO2 de los procesos anteriores. Mediante el empleo de catalizadores basados en Fe se moderan las temperaturas de la reacción de descomposición de metano hasta los 700-850 ºC, mejorando además la tasa de formación de CN mediante el dopaje con metales de transición tales como Co, Cu o Mo. Estos catalizadores presentan una alta actividad catalítica, además de una documentada capacidad de producir CN como nanofibras de carbono (NFC) y nanotubos de carbono de pared múltiple (NTCPM).   En el presente Trabajo se realiza una selección de catalizadores basados en Fe cuyo rendimiento a CN en la reacción de DCM se evalúa inicialmente en reactor termogravimétrico (RT). Posteriormente, se escala el proceso con la evaluación de los catalizadores que mejor comportamiento hayan tenido en termobalanza en una instalación con reactor de lecho rotatorio (RLR), que permite, en este caso, el seguimiento de la producción de H2. Finalmente, el CN obtenido en ambas escalas es caracterizado textural, química, estructural, y morfológicamente con el fin de determinar la calidad del mismo. Con este objetivo se han preparado, mediante el método de fusión, y caracterizado (estructura y reducibilidad) catalizadores de Fe soportados sobre dos promotores texturales distintos (Al2O3 y MgO) y dopados con diferentes metales de transición (Co, Cu ó Mo) en diferentes proporciones.  La adición de dopantes da lugar a un aumento general de la cantidad de carbono depositado y de la velocidad de deposición de carbono, excepto para el uso de Cu como dopante, para las dos configuraciones de reacción (RT y RLR). El dopaje con Mo ofrece los mejores resultados para un contenido del 7,5% de dopante (expresado como MoO3); contenido para el cual se obtiene un mínimo del tamaño de domino cristalino del Fe2O3 en el catalizador (observado en XRD).  A partir de la caracterización de los CNs producidos se observa la formación de nanoestructuras de tipo grafítico como NTCPMs y NFCs de tipo bamboo. Éstos presentan un alto orden estructural o grado de grafitización con espaciados interplanares próximos a los del grafito, y áreas superficiales en torno a 70 y 120 m2/g, las cuales se ven influenciadas principalmente por el tipo de promotor textural utilizado en la preparación del catalizador.  La medición de la textura y las propiedades estructurales indican la alta calidad del carbono depositado, que es un factor clave en la economía del proceso de DCM. Por consiguiente, el RLR parece ser una configuración prometedora que permite obtener simultáneamente una alta conversión de metano junto con una elevada calidad del CN.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9153</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Ingeniería Química</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9153/files/TAZ-TFM-2012-856_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/9153/files/TAZ-TFM-2012-856.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>descomposición catalítica de metano</dc:subject>
+    <dc:subject>producción de hidrógeno</dc:subject>
+    <dc:subject>catalizadores basados en fe</dc:subject>
+    <dc:subject>carbono nanoestructurado</dc:subject>
+    <dc:subject>nanotubos de carbono</dc:subject>
+    <dc:subject>nanofibras de carbono</dc:subject>
+    <dc:subject>Máster Universitario en Iniciación a la Investigación en Ingeniería Química y del Medio Ambiente</dc:subject>
+    <dc:title>Catalizadores basados en hierro para la producción de carbono nanoestructurado mediante descomposición catalítica de metano</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

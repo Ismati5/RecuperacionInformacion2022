@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Alcalá Nalvaiz, José Tomás</dc:contributor>
+    <dc:creator>Campo León, Elena</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>Hoy en día el aprendizaje estadístico supervisado y más concretamente las máquinas de vector soporte (SVM) están implícitamente presentes en gran cantidad de aspectos de nuestra vida. Desde la detección de intrusos, al reconocimiento de caracteres o del habla, pasando por un amplio campo de aplicaciones en bioinformática. El aprendizaje estadístico se consolida como rama de la estadística hacia 1995 cuando Vladimir Vapnik publica su renombrado libro "The Nature of Statistical Learning Theory". La idea principal del aprendizaje estadístico se basa en el concepto de "aprender" a partir de un conjunto de ejemplos o datos de entrenamiento, donde cada uno pertenece  a una de las dos categorías a clasificar. Una SVM es un modelo que se construye "entrenando" sobre una serie de ejemplos. Dicho de otra forma,  la SVM  "aprende" de un conjunto de ejemplos para poder predecir la categoría de un nuevo ejemplo de llegada. En este trabajo se pretende hacer una introducción al extenso campo de las máquinas de vector soporte y su utilidad como clasificadores. En primer lugar se aborda el problema de clasificación binaria, tanto en el caso separable como en el cuasi-separable y finalmente en el caso general no linealmente separable mediante el uso de los kernels no lineales. También se hace una breve generalización de estos modelos al caso de más de dos  categorías a clasificar y al problema de la predicción en respuesta continua. Además veremos una aplicación práctica en Medicina a un caso clínico de pacientes con cáncer de mama.  De esta forma, recibido un nuevo paciente, nuestro clasificador será capaz de predecir si padece un tumor maligno o benigno.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/59156</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Métodos Estadísticos; Área de Estadística e Investigación Operativa</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/59156/files/TAZ-TFG-2016-2057.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Matemáticas</dc:subject>
+    <dc:title>Introducción a las máquinas de vector soporte (SVM) en aprendizaje supervisado</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">An introduction to support vector machines (SVM) in supervised statistical learning</dc:title>
+</oai_dc:dc>

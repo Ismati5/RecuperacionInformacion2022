@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bilbao Duñabeitia, Rafael</dc:contributor>
+    <dc:contributor>Fonts Amador, María Isabel</dc:contributor>
+    <dc:creator>Benés González, Mario</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:description>En este Trabajo Fin de Grado, se examina la mejora de un bio-oil proveniente de pirólisis rápida de biomasa lignocelulósica después de un proceso de hidrodesoxigenación (HDO). Los experimentos se llevan a cabo en un reactor discontinuo con un catalizador de Ru/C, a 350 ºC durante un tiempo de reacción de 4 h, utilizando diferentes masas de catalizador y con una presión inicial de 40 bar de hidrógeno. Después de este tratamiento, se obtuvieron cuatro productos, un sólido, un gas y dos fases líquidas diferenciadas, una acuosa y otra orgánica. La fase orgánica se caracterizó mediante GC-MS, los valores de análisis elemental y poder calorífico superior (PCS), titulación Karl Fischer, solubilidad en hexano, GPC, FTIR, número de ácido total (TAN), cantidad de ácidos determinados por GC-MS después del pretratamiento de esterificación y fenoles por Método de Folin-Ciocalteu. Además, se han estimado las propiedades termodinámicas de los compuestos del bio-oil mediante un método teórico-experimental. La caracterización de las fases orgánicas obtenidas mostró una reducción en el contenido de oxígeno del líquido de pirólisis (de 34 a 13%). El PCS y el contenido de hidrógeno aumentaron de 17 a 35 MJ / kg y de 7,4 a 8,4%, respectivamente. La solubilidad del hexano aumentó del 5 al 38%, lo que indica una disminución de la polaridad del bio-oil tratado. Esto podría explicarse por la reducción de la cantidad de ácidos, lo que se confirma con los resultados de TAN, GC-MS y FTIR, además de la desaparición de azúcares y la hidrogenación de algunos compuestos orgánicos. La composición de los gases mostró también la contribución significativa de las reacciones de descarboxilación. Los resultados antes mencionados implican que el proceso de HDO mejoró significativamente las propiedades del bio-oil. Sin embargo, los análisis de GPC evidenciaron la repolimerización, que no es deseable.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/64027</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Ingeniería Química</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/64027/files/TAZ-TFG-2017-3457.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Química</dc:subject>
+    <dc:title>Hidrodesoxigenación de bio-oil procedente de la pirólisis flash de biomasa</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Hydrodeoxygenation of bio-oil derived from Biomass flash pyrolysis</dc:title>
+</oai_dc:dc>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gloria Luzón Marco</dc:contributor>
+    <dc:contributor>Javier Galán Lacarra</dc:contributor>
+    <dc:creator>Cintas González, David</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>Muchos experimentos para la búsqueda de sucesos extraños en física de partículas (como la búsqueda de materia oscura o desintegraciones doble beta sin neutrinos) requieren un nivel de fondo en la detección muy bajo. En este trabajo se estudian los fenómenos de activación por parte de rayos cósmicos del material usado como detector o de materiales que habitualmente se utilizan en los blindajes, y que pueden perjudicar la medida de estos experimentos. Se han comparado los resultados de dos tipos de códigos de simulación de la activación: ACTIVIA y Geant4.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/59080</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Teórica; Área de Física Atómica, Molecular y Nuclear</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/59080/files/TAZ-TFG-2016-3164.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/59080/files/TAZ-TFG-2016-3164_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Física</dc:subject>
+    <dc:title>Rayos cósmicos. Activación en materiales debida a neutrones cósmicos.</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Cosmic rays. Activation in materials due to cosmic neutrons.</dc:title>
+</oai_dc:dc>

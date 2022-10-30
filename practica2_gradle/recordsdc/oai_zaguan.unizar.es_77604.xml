@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Gallucci, Fausto</dc:contributor>
+    <dc:contributor>Nordio, Maria</dc:contributor>
+    <dc:contributor>Sánchez Cebrián, José Luis</dc:contributor>
+    <dc:creator>Eguaras Bariáin, Mikel</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>El hidrógeno es el vector energético del futuro y actualmente se obtiene por reformado catalítico de gas natural para su producción a larga escala. Posteriormente, los contaminantes son eliminados de la mezcla, al mismo tiempo que el hidrógeno es presurizado. Antiguamente, estos procesos tenían lugar por separado, pero el compresor electroquímico de hidrógeno está apareciendo como una técnica prometedora para combinar ambos. En este trabajo, se estudia el dióxido de carbono como principal contaminante. Después de analizar condiciones de trabajo con hidrógeno puro, se analiza el efecto de una mezcla H2-CO2. Inicialmente, se consideran diferentes formas de inhibir el catalizador siendo Water Gas Shift la más importante. Se consideran también métodos de recuperación de la actividad del catalizador, de los que se concluye que introducir aire es el más conveniente por su eficacia y rapidez. Para acabar esta parte, se imponen diferentes condiciones de trabajo al compresor. De estos experimentos se puede concluir que el catalizador se inhibe más rápidamente a bajas concentraciones de hidrógeno y bajos voltajes. También se analiza brevemente el efecto de la temperatura. Para todas las mezclas de gases consideradas, un aumento de temperatura mejora la eficiencia del compresor. El caso del CO2 se estudia por separado, debido a su efecto contaminante. Se comprueba que temperaturas más altas dan lugar a una inhibición más rápida. Después, se analizan mecanismos de permeación de diferentes gases a través de la membrana. Por ejemplo, el helio atraviesa la membrana por su permeabilidad en la membrana, mientras que el CO2 lo hace debido a su solubilidad en agua. Finalmente, se hacen una serie de cambios a un anterior modelo anterior de Matlab® para explicar el funcionamiento del compresor en diferentes condiciones de temperatura. Para ello, se implementa el cálculo del coeficiente de transferencia de materia dependiendo de la temperatura. Con el ajuste de algunas variables, se consigue una buena validación teórica de los resultados experimentales obtenidos.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/77604</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Química y Tecnologías del Medio Ambiente; Área de Ingeniería Química</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/77604/files/TAZ-TFG-2018-2888.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Química</dc:subject>
+    <dc:title>Estudio del efecto de CO2 y temperatura en la eficiencia de un compresor electroquímico de hidrógeno</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">CO2 and temperature effect in an electrochemical hydrogen compressor. Experimental and modeling</dc:title>
+</oai_dc:dc>

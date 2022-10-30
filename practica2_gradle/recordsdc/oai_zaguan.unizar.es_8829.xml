@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Callejero Cornao, Bernardino</dc:contributor>
+    <dc:creator>Navarro Polo, Sergio</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Este proyecto nace de una propuesta del profesor Bernardino Callejero, el cual me facilitó unos planos de una torre de 25 metros con un depósito de agua que iba a ser construida en Haití tras el gran terremoto sufrido allí, por lo tanto, mi proyecto consiste en el rediseño y cálculo de la estructura metálica con perfiles europeos, la cual se podrá transportar en el interior de contenedores de 40 pies hasta Haití, donde se preparará la cimentación, en la cual se ha optado por una losa de hormigón. Las piezas de la torre saldrán soldadas del taller entre sí, formando los diferentes conjuntos, los cuales se atornillarán unos a otros formando la estructura final. Mi trabajo ha consistido en redibujar la plantilla de la estructura 3D en AUTOCAD para completarla con perfiles metálicos en Nuevo Metal 3D de Cype, una vez en este programa, he tenido que rediseñar la torre e intentar optimizar los perfiles al máximo posible. Posteriormente, con la estructura optimizada, calculada y comprobada, la he tenido que exportar a CYPECAD para poder diseñar y calcular la losa de cimentación, elaborando finalmente un plano de la misma. Una vez hecho todo este trabajo, he redibujado la plantilla de AUTOCAD para darle la forma final adoptada en el cálculo. Después he añadido en TEKLA STRUCTURES los perfiles ya calculados, para a continuación, diseñar una a una cada unión de los perfiles, teniendo en cuenta, en la elaboración de los conjuntos, el posterior transporte en contenedores de 40 pies, calculando a mano dos tipos diferentes de dichas uniones. Además, he calculado cuántos contenedores necesito para transportar toda la estructura en barco. Finalmente, en este último programa, he numerado cada parte de la estructura, para poder sacar listas de materiales y de conjuntos de piezas. Además, he sacado planos de piezas para su mecanización y fabricación, de conjuntos para soldar las piezas entre sí en su posición en el taller, además de cuatro planos generales para facilitar su montaje en obra. En Haití, su función será la de soportar un depósito de agua, de hasta un millón de litros, para abastecer de agua potable a parte de la población de Carrefour, situada al oeste de Puerto Príncipe, afectadas ambas ciudades por el terremoto ocurrido en 2010.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/8829</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería de Diseño y Fabricación; Área de Expresión Gráfica de la Ingeniería</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/8829/files/TAZ-PFC-2012-555_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/8829/files/TAZ-PFC-2012-555.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>cálculo de estructura</dc:subject>
+    <dc:subject>despiece</dc:subject>
+    <dc:subject>tekla structures</dc:subject>
+    <dc:subject>cype metal 3d</dc:subject>
+    <dc:subject>Ingeniero Técnico Industrial (Esp. Mecánica)</dc:subject>
+    <dc:title>Cálculo, diseño y despiece para taller de la estructura portante de un depósito de agua en Haití</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+</oai_dc:dc>

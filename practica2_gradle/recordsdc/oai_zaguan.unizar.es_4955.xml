@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Turégano Romero, José Antonio</dc:contributor>
+    <dc:creator>Navarro Ferrer, Enrique</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:description>La energía solar es una de las fuentes de energía renovable más prometedoras. Existe una diversidad de formas en que esta energía puede ser utilizada; las más importantes son mediante paneles solares fotovoltaicos y mediante colectores térmicos. Los paneles fotovoltaicos se usan para obtener electricidad mientras que los colectores se usan para obtener agua caliente. Ambos sistemas son tecnológicamente distintos y por tanto independientes el uno del otro. Incrementar la radiación en una célula fotovoltaica incrementa su generación de electricidad. Esto puede ser realizado utilizando concentradores solares en los paneles. Sin embargo, este incremento de radiación produce un sobrecalentamiento de las células y por tanto, el deterioro de su eficiencia. Debido a esta reducción del rendimiento, es necesario refrigerar las células fotovoltaicas con el fin de mitigar este problema. Si se busca en libros especializados sobre paneles FV, para dar solución al problema de la temperatura, no se suele encontrar ninguna solución técnica, que por otra parte es inherente a la propia energía solar. Lo que si recomiendan las bibliografías es ubicar los paneles FV en lugares bien ventilados, con el fin de prevenir los efectos negativos de la temperatura, por otra parte se está desaprovechando esta energía térmica.  Construir y diseñar un sistema solar fotovoltaico-térmico en un solo panel es una solución viable que permitirá resolver problemas de eficiencia eléctrica del panel FV y poder aprovechar la energía térmica [1]. El agua obtenida de la refrigeración se puede usar para agua caliente sanitaria, para calefacción o para refrigeración, mediante una máquina de absorción o adsorción, obteniéndose junto con la generación de electricidad una trigeneración. En este trabajo se van a presentar los sistemas híbridos y las principales investigaciones sobre los mismos que hay en la actualidad, tanto con concentración como sin ella. Se hablará de la trigeneración posible con estos sistemas y se presentará un esquema tipo de una instalación.  A continuación se modelará dicha instalación para una vivienda mediante el software TRNSYS, más concretamente, para el edificio que se quiere presentar para el concurso Solar Decathlon 2012. Para ello se han desarrollado los diferentes sistemas, con especial hincapié en la máquina de adsorción, ya que la carga de refrigeración será la que determinará el tamaño de colector a instalar, y en el colector CPC. Tras simular varias veces el programa se consiguió optimizar los parámetros principales de la instalación y comparar con los obtenidos mediante el método bin y con las especificaciones del fabricante, utilizadas para el diseño del colector. Por último, se presentan unas conclusiones finales.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/4955</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Máquinas y Motores Térmicos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/4955/files/TAZ-TFM-2010-034_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/4955/files/TAZ-TFM-2010-034.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Panel híbrido PV/T</dc:subject>
+    <dc:subject>Térmica</dc:subject>
+    <dc:subject>Fotovoltaica</dc:subject>
+    <dc:subject>Concentración</dc:subject>
+    <dc:subject>Trigeneración</dc:subject>
+    <dc:subject>Calefacción</dc:subject>
+    <dc:subject>Refrigeración</dc:subject>
+    <dc:subject>Dimensionamiento</dc:subject>
+    <dc:subject>Máquina de adsorción</dc:subject>
+    <dc:subject>Trnsys</dc:subject>
+    <dc:subject>Máster Universitario en Energías Renovables y Eficiencia Energética</dc:subject>
+    <dc:title>Aplicación de paneles híbridos PV/T con concentración para trigeneración en viviendas unifamiliares</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Bayod López, Javier</dc:contributor>
+    <dc:contributor>Prados Privado, María</dc:contributor>
+    <dc:creator>Lapuente Hernández, Jorge</dc:creator>
+    <dc:date>2019</dc:date>
+    <dc:description>Los implantes dentales son un tratamiento cada vez más común para reemplazar la pérdida de dientes o sustituir aquéllos en mal estado. Una parte crucial a la hora de tener éxito colocando un implante es la osteointegración, que hace referencia a la integración hueso-implante.&lt;br /&gt;El objetivo del presente estudio es analizar un conjunto implante-prótesis ante cargas fisiológicas con el objetivo de encontrar diferencias en su comportamiento modelando el hueso como un material elástico-lineal y como un material ortótropo. &lt;br /&gt;Para la realización del estudio se ha diseñado el conjunto implante-prótesis en 3D, se le han aplicado los materiales correspondientes a cada parte, habiendo utilizado Ti6Al4V para el implante dental, una aleación cobalto-cromo para la corona y dando propiedades al hueso, tanto isótropas como anisótropas, habiendo utilizado 4 orientaciones diferentes para el caso ortótropo. Se ha seguido la norma ISO 14801 a la hora de colocar las condiciones de contorno y las cargas a las que está sometido el conjunto. Mediante el cálculo de elementos finitos se han obtenido las tensiones a las que está sometido el conjunto y se han analizado.&lt;br /&gt;Las conclusiones encontradas son que existe una clara diferencia en el comportamiento óseo entre el modelo elástico-lineal y el modelo ortótropo, siendo las tensiones del modelo ortótropo entre un 9 y un 19% menores que en el caso elástico-lineal; y que esta diferencia en el comportamiento óseo no tiene apenas relevancia en el comportamiento del implante dental.&lt;br /&gt;&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/87357</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ingeniería Mecánica; Área de Mec. de Medios Contínuos y Teor. de Estructuras</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/87357/files/TAZ-TFG-2019-4417_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/87357/files/TAZ-TFG-2019-4417.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Ingeniería Mecánica</dc:subject>
+    <dc:title>Efecto del tipo de comportamiento de hueso en la biomecánica de implantes dentales</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Effect of the type of bone behaviour in the biomechanics of dental implants</dc:title>
+</oai_dc:dc>

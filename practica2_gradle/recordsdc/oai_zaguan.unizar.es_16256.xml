@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Clemente-Gallardo, Jesús Jerónimo</dc:contributor>
+    <dc:creator>Medrano Jiménez, Diego</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>El Formalismo Geométrico de la Mecánica Cuántica resulta una herramienta muy poderosa que, desde los años setenta, persigue describir tanto sistemas cuánticos como sistemas clásicos bajo un mismo marco matemático. En la primera parte del trabajo veremos cómo, echando mano de la geometría diferecial, traduce las estructuras tensoriales propias de los sistemas clásicos hamiltonianos en elementos con los que describir el espacio de Hilbert de un sistema cuántico, su espacio de observables, la dinámica dada por la ecuación de Schrödinger y la información espectral de cada uno de sus operadores. De esta forma, conseguida la traducción, se hace evidente la potencialidad del formalismo en aplicaciones como el tratamiento de sistemas mixtos clásico-cuánticos. En la segunda parte del trabajo y mediante la ayuda de este formalismo geométrico conseguiremos una adaptación del modelo de Ehrenfest, que es el que se encarga de esta disciplina, para conseguir una descripción hamiltoniana tanto de la parte clásica como de la parte cuántica del sistema mixto y tratar ambas como si fueran ``clásicas''. Mediante este cambio, nos será posible entonces ampliar el modelo para recuperar efectos que antes no contemplaba, como es el de la evolución de la pureza, ingrediente necesario para describir cualquier tipo de decoherencia en el sistema. Finalmente y con la intención de comprobar la validez de esta ampliación, estudiaremos la evolución de la pureza de diferentes sistemas, en concreto la influencia de la temperatura sobre la pureza de sistemas moleculares, y su parecido con la fenomenología observada. La importancia del Formalismo Geométrico de la Mecánica Cuántica en la reconstrucción del modelo de Ehrenfest habrá quedado entonces probada.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/16256</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Teórica; Área de Física Teórica</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/16256/files/TAZ-TFG-2014-1621.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/16256/files/TAZ-TFG-2014-1621_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>formalismo geométrico</dc:subject>
+    <dc:subject>mecánica cuántica</dc:subject>
+    <dc:subject>modelo de ehrenfest</dc:subject>
+    <dc:subject>decoherencia</dc:subject>
+    <dc:subject>Graduado en Física</dc:subject>
+    <dc:title>El Formalismo Geométrico de la Mecánica Cuántica y sus aplicaciones</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

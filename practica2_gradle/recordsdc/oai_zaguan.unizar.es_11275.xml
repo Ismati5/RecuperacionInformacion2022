@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Villar Rivacoba, José Ángel</dc:contributor>
+    <dc:contributor>Pérez Marín, Carmen</dc:contributor>
+    <dc:creator>Sánchez Alonso, Patricia</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:description>El procedimiento habitual para la determinación de los índices de actividad alfa total y beta total en suelos, consiste en depositar una determinada cantidad de muestra sobre una plancheta de acero inoxidable, disolver con ácido nítrico y llevar a sequedad. La posterior medida se realiza mediante un sistema de centelleo sólido de ZnS(Ag) (medida del índice de actividad alfa total) o un contador proporcional (medida de los índices de actividad alfa y/o beta total). En este trabajo se presenta la puesta a punto del contador proporcional de muy bajo fondo (Berthold LB 770 B) para la medida simultánea de los índices de actividad alfa total y beta total. Para ello se han determinado fondos, eficiencias, "spillover" y voltajes óptimos de trabajo para la medida en modo simultáneo. El modo simultáneo de contaje presenta características similares al secuencial, pero se seleccionó este modo de trabajo porque permite obtener resultados análogos en la mitad de tiempo. Además se determinaron, las curvas de autoabsorción para cada uno de los índices (alfa y beta) y se midieron una serie de muestras ambientales (suelo) recogidas en diferentes puntos de la geografía aragonesa que se compararon con valores obtenidos en otro equipo de características similares más antiguo y en un sistema de centelleo sólido de ZnS(Ag)  para la medida del índices de actividad alfa total. Se obtuvieron resultados similares con cada uno de los equipos, aunque la incertidumbre y la actividad mínima detectable obtenida en el caso del contaje alfa fue superior con el contador proporcional.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/11275</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física Teórica; Área de Física Atómica, Molecular y Nuclear</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/11275/files/TAZ-TFM-2013-350.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>caracterización</dc:subject>
+    <dc:subject>contador proporcional</dc:subject>
+    <dc:subject>alfa</dc:subject>
+    <dc:subject>beta</dc:subject>
+    <dc:subject>muestras ambientales</dc:subject>
+    <dc:subject>Máster Universitario en Investigación Química</dc:subject>
+    <dc:title>Caracterización de un contador proporcional de flujo de gas para la determinación de contenido alfa y beta en muestras ambientales. Comparación de resultados con otras técnicas</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

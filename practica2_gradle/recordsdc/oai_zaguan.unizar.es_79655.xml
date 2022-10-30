@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Giraldo Castellano, Pilar</dc:contributor>
+    <dc:contributor>Ramos Fuentes, Feliciano Jesús</dc:contributor>
+    <dc:creator>López De Frutos, Laura</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>La enfermedad de Niemann Pick tipo C (NP-C), es una enfermedad de herencia recesiva y con una baja incidencia poblacional, por lo que se encuentra englobada entre las enfermedades denominadas raras. Se debe a la presencia de variantes asociadas a patogenicidad en los genes NPC1 o NPC2, que codifican para proteínas lisosomales, la primera transmembrana y la segunda una proteína soluble. La principal función de éstas es el transporte del colesterol no esterificado fuera del lisosoma, de modo que una disfunción, provoca su acúmulo en el interior de este orgánulo y en consecuencia la acumulación de otros sustratos y el mal funcionamiento celular. &lt;br /&gt;La gran heterogeneidad fenotípica que presenta esta enfermedad, así como la complejidad del estudio de los genes causantes hace muy complejo el diagnóstico de una enfermedad que si no se trata de forma temprana provoca un rápido deterioro neurológico.&lt;br /&gt;Esta tesis doctoral se centra en implementar nuevos sistemas para mejorar el diagnóstico de la enfermedad y en la caracterización genética de sujetos con sospecha de la enfermedad, además de buscar otros mecanismos que puedan justificar la aparición de sintomatología en sujetos portadores de una única variante patogénica en heterozigosidad.&lt;br /&gt;En base a esto, se ha implementado el test de resistencia osmótica eritrocitaria como un nuevo método rápido, económico y fácil para descartar rápidamente la enfermedad en sujetos con sospecha, además de valorar la capacidad combinada de tres biomarcadores para orientar el diagnóstico. &lt;br /&gt;A nivel molecular se han detectado variantes no asociadas a patogenicidad no descritas en población española, así como una alteración en la frecuencia de la variante patogénica más común en población europea. El estudio ha permitido clasificar seis variantes de significado incierto como benignas y describir 5 nuevas variantes asociadas a patogenicidad, pero no ha detectado otros genes asociados a la expresión fenotípica de la NP-C o alteraciones en la secuencia del miRNA que regula la expresión del gen NPC1.&lt;br /&gt;</dc:description>
+    <dc:description>&lt;br /&gt;</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/79655</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/79655/files/TESIS-2019-132.pdf</dc:relation>
+    <dc:subject>genetica</dc:subject>
+    <dc:subject>genetica humana</dc:subject>
+    <dc:subject>bioquimica</dc:subject>
+    <dc:subject>metabolismo humano</dc:subject>
+    <dc:title>Avances en el diagnóstico y en el conocimiento genético de la enfermedad de Niemann Pick tipo C</dc:title>
+    <dc:type>TESIS</dc:type>
+</oai_dc:dc>

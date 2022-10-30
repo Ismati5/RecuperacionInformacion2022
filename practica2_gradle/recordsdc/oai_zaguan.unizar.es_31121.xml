@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Zúñiga Antón, María</dc:contributor>
+    <dc:creator>Mateo Perrote, Juan</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>Es un hecho demostrado que el lugar de residencia puede influir de manera importante en la salud de las personas. A través del análisis SIG y mediante la representación cartográfica de la incidencia de las enfermedades se pueden iniciar estudios que sirvan para averiguar qué factores ambientales, económicos y/o sociales pueden a estar afectando a la salud de la población de una zona determinada. El Departamento de Sanidad, Bienestar Social y Familia, desde la Dirección General de Salud Pública, Sección de Información e Investigación Sanitaria, del Gobierno de Aragón presentó en marzo de 2013 el primer Atlas de Morbilidad de Aragón cuyo objetivo fue recoger, en una serie de mapas, el estado de salud de la Comunidad Autónoma de Aragón. El presente trabajo pretende, utilizando la información recogida en dicho Atlas, proponer modelos cartográficos que mejoren la visualización de la información contenida en él ajustándose más a los pasos establecidos por el proceso cartográfico. Se plantea también, ya no solo la representación de los mapas, sino la puesta a disposición de la ciudadanía de los resultados diseñando de manera específica los formatos analógicos y digitales de presentación final.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/31121</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Geografía y Ordenación del Territorio; Área de Análisis Geográfico Regional</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/31121/files/TAZ-TFM-2014-880.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>atlas</dc:subject>
+    <dc:subject>cartografía temática</dc:subject>
+    <dc:subject>diseño cartográfico</dc:subject>
+    <dc:subject>sig</dc:subject>
+    <dc:subject>salud</dc:subject>
+    <dc:subject>morbilidad</dc:subject>
+    <dc:subject>Máster Universitario en Tecnologías de la Información Geográfica para la Ordenación del Territorio: Sistemas de Información Geográfica y Teledetección</dc:subject>
+    <dc:title>Propuesta cartográfica para la mejora del Atlas de Morbilidad de Aragón</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

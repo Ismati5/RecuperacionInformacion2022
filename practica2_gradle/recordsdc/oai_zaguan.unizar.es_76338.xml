@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Fernández López, Javier</dc:contributor>
+    <dc:creator>Gonzalo Quílez, Victoria</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>La Tecnología de Captura y Almacenamiento de Dióxido de Carbono (CCS) es considerada una de las más importantes para la reducción de las emisiones de CO2 en industria y producción de energía, y consta de tres etapas: captura de CO2, transporte e inyección y almacenamiento en yacimientos geológicos. El estudio de las propiedades físico-químicas del fluido con el que se va a trabajar, cuya presencia y cantidad de impurezas puede variar, es imprescindible, puesto que estas influencian el diseño y operación de cada etapa. En este trabajo se desarrolla el estudio para la Tecnología CCS de una corriente de CO2 con impurezas de O2 y Ar (gases no condensables), siendo esta una mezcla ternaria de la siguiente composición: CO2 (x_(CO2)=0.9600)+ O2 (x_(O2)=0.0200) + Ar (x_Ar=0.0200). Se dividirá en dos bloques principales, que son la etapa de transporte y la etapa de almacenamiento. En el primer bloque se trabaja con la mezcla mencionada a las temperaturas de 263.15, 273.15, 293.15 y 304.21K en un rango de presiones de entre 0.2 y 20MPa, obteniéndose los valores de densidad y viscosidad. A partir de estos datos se procederá a la determinación de varios parámetros relacionados (presión operacional mínima, caída de presión y de densidad a lo largo de la tubería y diámetro interno de la tubería). En la etapa de almacenamiento se evaluarán, a las temperaturas de 304.21, 313.1, 333.15, 353.15, 373.15K y entre 0 y 30MPa, los parámetros: capacidad del reservorio, flotabilidad normalizada en acuíferos salinos, velocidad de ascenso normalizada en acuíferos salinos y flujo de permeación.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76338</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Química Física; Área de Química Física</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76338/files/TAZ-TFG-2018-4832.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Química</dc:subject>
+    <dc:title>Captura, transporte y almacenamiento del CO2 (CCS) para la reducción de gases de efecto invernadero: efecto de las impurezas O2 y Ar en el transporte, inyección y almacenamiento del CO2 antropogénico</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Capture, transport and storage of CO2 (CCS) for the reduction of greenhouse gases: effect of the impurities O2 and Ar in the transport, injection and storage of anthropogenic CO2</dc:title>
+</oai_dc:dc>

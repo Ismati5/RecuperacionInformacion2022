@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Montano Gella, Luis</dc:contributor>
+    <dc:creator>Rivero Pérez, Adrián</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:description>Este proyecto simula el comportamiento de un exoesqueleto acoplado a un brazo humano según el paradigma Assist-as-needed (asistencia bajo demanda). Este paradigma consiste en que durante los ejercicios de rehabilitación el robot no realiza todo el trabajo de movimiento sino que asiste, en la medida necesaria, el movimiento residual del paciente, permitiendo que éste pueda recuperar parte del movimiento del brazo sano. Con este propósito se ha diseñado un sistema de control del exoesqueleto de tal forma que el par del robot se regule según aquel que da el paciente.  El sistema de control ofrece tres modos de funcionamiento pensados para adecuarse a las distintas terapias de rehabilitación. El modo asistencia es el que se adecua al paradigma assist-as-needed y puede ser regulado entre  0% y 100% de manera manual o automática según las condiciones del paciente. Un nivel 100 de asistencia significa que el robot realiza, por si mismo, los movimientos de rehabilitación preprogramados cargando con el brazo del paciente. Éste no realiza ningún esfuerzo. A medida que disminuye la asistencia el robot hace un porcentaje menor de fuerza. En consecuencia, el paciente tendrá que ejercer un esfuerzo  cada vez mayor consiguiendo así una mejora. En el nivel de asistencia 0 el robot entra en el modo seguidor. Aquí el paciente es el que marca los movimientos mientras que el robot se limita a seguirle. Por último, el modo resistencia es aquel en el que el robot ofrece una cierta fuerza en contra del movimiento prefijada por un nivel de resistencia, obligando al paciente a ejercer sus músculos. Se han realizado simulaciones para validar todos los modos diseñados y se muestran resultados que las apoyan. Para ello se han programado distintos ejercicios de rehabilitación en los que se pueden observar los distintos parámetros dinámicos a los que están sometidos el robot y el paciente.  Del mismo modo se ha llevado a cabo una sesión de experimentación con un brazo robótico Kuka perteneciente al centro IBEC de Barcelona, donde se ha encontrado una relación entre el trabajo que realiza el paciente y los niveles de asistencia y resistencia.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/9214</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Informática e Ingeniería de Sistemas; Área de Ingeniería de Sistemas y Automática</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/9214/files/TAZ-TFM-2012-907.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/9214/files/TAZ-TFM-2012-907_ANE.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>assist as needed</dc:subject>
+    <dc:subject>robótica médica</dc:subject>
+    <dc:subject>control</dc:subject>
+    <dc:subject>ingeniería biomédica</dc:subject>
+    <dc:subject>Máster Universitario en Ingeniería Biomédica</dc:subject>
+    <dc:title>Simulación del control exoesqueleto mediante el paradigma Assist-As-Needed</dc:title>
+    <dc:type>TAZ-TFM</dc:type>
+</oai_dc:dc>

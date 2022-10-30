@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>García Palacín, José Ignacio</dc:contributor>
+    <dc:creator>Suárez Cebrián, Alejandro</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:description>La reproducibilidad de los resultados es un aspecto clave en la labor investigadora, especialmente en el ámbito de los procesos experimentales, donde tanto las medidas como las condiciones de trabajo han de ser registradas con especial cuidado. La aplicación de sistemas de control, la correcta selección de los sensores y la utilización de mecanismos de control numérico por ordenador permite el posicionado de los sensores, el control de actuadores y el registro de las señales de manera precisa, permitiendo repetir los experimentos en condiciones controladas de forma que se obtengan resultados reproducibles. Con motivo de investigar la aplicación de sistemas automáticos a la adquisición de datos se ha desarrollado este proyecto. Para llevar a cabo el proyecto, primero se han estudiado los sensores más utilizados en el ámbito de la Mecánica de Fluidos, concretamente en los experimentos con canales a escala. A continuación se han analizado los sistemas de posicionamiento disponibles, comenzando por los sistemas fijos de ajuste manual y prosiguiendo con los sistemas automáticos, especialmente los de Control Numérico por Ordenador (CNC). Finalmente se ha estudiado el software y hardware de adquisición de datos. Una vez obtenidos los fundamentos teóricos necesarios, se ha procedido a realizar la implementación del sistema de automatización que permitirá el posicionamiento de los sensores, la adquisición de datos y el posterior postprocesado de los mismos. Por último se ha realizado el montaje en el canal a escala, se ha comprobado la adecuación del sistema de medida  y se ha confirmado el buen funcionamiento del mismo en un experimento de medida de transitorios. Adicionalmente, durante el desarrollo del proyecto, se han registrado y documentado todos los pasos del mismo.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/60527</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Ciencia y Tecnología de Materiales y Fluidos; Área de Mecánica de Fluidos</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/60527/files/TAZ-PFC-2016-077_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/60527/files/TAZ-PFC-2016-077.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Ingeniero Industrial</dc:subject>
+    <dc:title>Automatización de la adquisición de datos experimentales en un canal a escala.</dc:title>
+    <dc:type>TAZ-PFC</dc:type>
+    <dc:title xml:lang="en">Automation of experimental data-acquisition in a scaled channel.</dc:title>
+</oai_dc:dc>

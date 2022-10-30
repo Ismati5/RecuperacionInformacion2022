@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Atwi Saab, Majed</dc:contributor>
+    <dc:creator>Larroy Cenis, Martín</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>La relación entre la degradación medioambiental y el crecimiento económico es uno de los temas más utilizados en la actualidad. Debido a ello, muchos son los autores que han tratado de averiguar qué variables definen la contaminación de cada economía. Nuestro estudio se centra en la obtención de un modelo econométrico que explique el comportamiento de las emisiones de CO2 de Alemania en función de distintas variables de control para una serie de datos de 1971 a 2015, obteniendo nuestros resultados más concluyentes para datos de 1991 a 2015.  A partir de la hipótesis de la Curva Ambiental de Kuznets (CAK) hemos elaborado distintos modelos que explican la relación entre el CO2 variables clave como los servicios, agricultura, manufacturas, electricidad o PIB con el CO2, así como la forma funcional que dibuja cada modelo, contrastando si la hipótesis de la CAK es válida para Alemania. Nuestros resultados han sido: una clara relación negativa entre PIB y servicios hacia el CO2, y una relación claramente positiva entre electricidad, agricultura y manufacturas.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/76541</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/76541/files/TAZ-TFG-2018-3702.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Administración y Dirección de Empresas</dc:subject>
+    <dc:title>La curva de Kuznets para el CO2 y otras variables de control en el caso de Alemania.</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">The Kuznets curve for co2 and other control variables in Germany's case.</dc:title>
+</oai_dc:dc>

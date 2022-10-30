@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Hurtado Guerrero, Ramón </dc:contributor>
+    <dc:contributor>González Valero, Jessika</dc:contributor>
+    <dc:creator>Murciano Trigo, Daniel</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:description>La O-fucosilación es una modificación post-traduccional que tiene lugar generalmente en un gran número de proteínas de membrana o secretadas. Múltiples estudios han revelado que esta modificación está implicada en la señalización celular y plegamiento de proteínas durante el desarrollo embrionario, así como en el metabolismo del tejido adulto. Entre los diferentes elementos implicados en el proceso de O-fucosilación destacan las glicosiltransferasas (GTs) POFUT1 y POFUT2 las cuales transfieren residuos de fucosa desde GDP-fucosa a sustratos aceptores específicos.  Mientras POFUT1 fucosila proteínas conteniendo repeticiones con estructura similar al factor de crecimiento epidermal (EGF). POFUT2 fucosila las repeticiones de tromboespondinas tipo 1 (TSRs). En ambas repeticiones se fucosilan residuos de serina o treonina y están formadas por tres puentes disulfuro. Si bien tanto la estructura cristalina de POFUT2 como la de los dominios TSR ha sido resuelta mediante la difracción por rayos X en múltiples estudios, sigue sin conocerse con precisión el mecanismo de transferencia de cómo la POFUT2 reconoce los TSRs y de por tanto como se fucosilan. En este sentido optimizaremos la expresión y purificación de diferentes dominios TSR para posteriormente caracterizar cualitativa y cuantitativamente la interacción entre estos y la enzima POFUT2. Además, algunos de estos dominios se utilizarán para obtener una estructura cristalina junto con la POFUT2 con el fin de elucidar el mecanismo de reacción de la fucosilación y se cómo esta GT reconoce a sus sustratos aceptores.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/16226</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Bioquímica y Biología Molecular y Celular</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/16226/files/TAZ-TFG-2014-1603.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Biotecnología</dc:subject>
+    <dc:title>Estudio y purificación de los sustratos aceptores de la proteína O-fucosiltransferasa</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+</oai_dc:dc>

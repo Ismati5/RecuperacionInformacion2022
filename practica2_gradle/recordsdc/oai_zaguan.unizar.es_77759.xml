@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+    <dc:contributor>Luis Vitalla, Fernando María</dc:contributor>
+    <dc:creator>Rubín Osanz, Marcos</dc:creator>
+    <dc:date>2018</dc:date>
+    <dc:description>El objetivo general de este trabajo de fin de grado es explorar posibilidad de que moléculas formadas por tres iones lantánidos puedan realizar una puerta cuántica condicional C-Phase o C-Z. La idea es lograr que el átomo central actúe como interruptor de la interacción entre los dos extremos. En concreto se ha estudiado el caso de la molécula [CeEr2], compuesta de dos iones erbio que actuarían como qubits de la puerta y un ion central cerio que actuaría como el interruptor. Para ello se han realizado medidas de la imanación, la susceptibilidad magnética, el calor específico molar y el espectro de EPR de esta molécula, así como de otras dos similares ([LaEr2] y [CeLu2]) que permiten estudiar los iones erbio y el ion cerio por separado. Los resultados muestran que cada una de las tierras raras se comporta como un sistema de dos niveles (espín efectivo 1/2) y puede por tanto codificar un qubit, y revelan la presencia de un acoplo entre los iones erbio y el ion cerio. Estos ingredientes confirman que la molécula estudiada proporciona un prototipo para implementar una puerta lógica cuántica.</dc:description>
+    <dc:identifier>http://zaguan.unizar.es/record/77759</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dc:publisher>Universidad de Zaragoza; Departamento de Física de la Materia Condensada; Área de Física de la Materia Condensada</dc:publisher>
+    <dc:relation>http://zaguan.unizar.es/record/77759/files/TAZ-TFG-2018-2422_ANE.pdf</dc:relation>
+    <dc:relation>http://zaguan.unizar.es/record/77759/files/TAZ-TFG-2018-2422.pdf</dc:relation>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-sa/3.0/</dc:rights>
+    <dc:subject>Graduado en Física</dc:subject>
+    <dc:title>Puertas lógicas cuánticas en moléculas magnéticas</dc:title>
+    <dc:type>TAZ-TFG</dc:type>
+    <dc:title xml:lang="en">Quantum logic gates in magnetic molecules</dc:title>
+</oai_dc:dc>
