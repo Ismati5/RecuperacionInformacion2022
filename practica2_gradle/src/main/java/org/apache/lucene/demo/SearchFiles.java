@@ -91,6 +91,7 @@ public class SearchFiles {
 
     IndexReader reader = DirectoryReader.open(FSDirectory.open(Paths.get(index)));
     IndexSearcher searcher = new IndexSearcher(reader);
+    PrintWriter out = new PrintWriter(output, "UTF-8");
 
     Similarity classic = new ClassicSimilarity();
     searcher.setSimilarity(classic);
@@ -147,7 +148,6 @@ public class SearchFiles {
           TopDocs results;
           ScoreDoc[] hits;
           int numTotalHits = 0;
-          PrintWriter out = new PrintWriter(output, "UTF-8");
 
           for (String word : query_text.split("\\s+")) {
             String type = word.substring(word.indexOf("_") + 1, word.length());
@@ -196,12 +196,15 @@ public class SearchFiles {
 
         }
       }
+
+      reader.close();
+      out.close();
+
     } else
     { //File extension is .txt
 
       BufferedReader in = null;
       in = new BufferedReader(new InputStreamReader(new FileInputStream(infoNeeds), "UTF-8"));
-      PrintWriter out = new PrintWriter(output, "UTF-8");
       QueryParser parser = new QueryParser(field, analyzer);
       int queryNum = 0;
 
